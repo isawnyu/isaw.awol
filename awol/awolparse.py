@@ -1,13 +1,4 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      Ronak
-#
-# Created:     25/03/2014
-# Copyright:   (c) Ronak 2014
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+
 
 import os
 from pyzotero import zotero
@@ -16,10 +7,18 @@ from HTMLParser import HTMLParser;
 from django.utils.encoding import smart_str
 from bs4 import BeautifulSoup
 import json;
+import urllib2;
+
+
+#global variables
+#json file stores credentials
+#credentials used to access zotero group library that needs to be populated
 
 creds = json.loads(open('creds.json').read());
 zot = zotero.Zotero(creds['libraryID'], creds['libraryType'], creds['apiKey']);
 
+#Class that represents all the data that is important from the xml file
+# contains a method to print all the items
 class Article:
     def __init__(self, id, title, tags, content, url):
         self.id = id;
@@ -35,21 +34,38 @@ class Article:
         print self.content;
         print self.url;
 
+#Class to extract data from the files
+#first method to extract form local file file
+#seocnd method to extract form url
 class ParseXML:
 
-    def extractElements(self, file):
+    def extractElementsFromFile(self, file):
         doc = exml.parse(file);
         root = doc.getroot();
-        id = root[0].text;
-        title = root[4].text;
+        id = root.find('{http://www.w3.org/2005/Atom}id').text;
+        title = root.find('{http://www.w3.org/2005/Atom}title').text;
         tags = [];
-        tags.append({'tag': root[3].attrib['term'] });
-        soup = BeautifulSoup(root[5].text);
+        tags.append({'tag': root.find('{http://www.w3.org/2005/Atom}category').attrib['term'] });
+        soup = BeautifulSoup(root.find('{http://www.w3.org/2005/Atom}content').text);
         content = soup.getText();
         url = (soup.find('a')).get('href');
 
         return Article(id, title, tags, content, url);
 
+    def extractElementsFromURL(self, url):
+        toursurl= urllib2.urlopen(url);
+        toursurl_string= toursurl.read();
+        root = exml.fromstring(toursurl_string);
+        id = root.find('{http://www.w3.org/2005/Atom}id').text;
+        title = root.find('{http://www.w3.org/2005/Atom}title').text;
+        tags = [];
+        tags.append({'tag': root.find('{http://www.w3.org/2005/Atom}category').attrib['term'] });
+        soup = BeautifulSoup(root.find('{http://www.w3.org/2005/Atom}content').text);
+        content = soup.getText();
+        url = (soup.find('a')).get('href');
+        return Article(id, title, tags, content, url);
+
+#Class to create zotero item
 class CreateNewZotero:
 
 
@@ -66,7 +82,9 @@ class CreateNewZotero:
 def main():
 
     x = ParseXML();
-    y = x.extractElements('data\\t1 (2).xml');
+    y = x.extractElementsFromURL('https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-7832348034400947503-atom.xml');
+    #y = x.extractElementsFromFile('data/a1.xml')
+    #y.printItems();
     z = CreateNewZotero();
     z.createItem(y);
 
