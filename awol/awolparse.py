@@ -45,7 +45,12 @@ class ParseXML:
         id = root.find('{http://www.w3.org/2005/Atom}id').text;
         title = root.find('{http://www.w3.org/2005/Atom}title').text;
         tags = [];
-        tags.append({'tag': root.find('{http://www.w3.org/2005/Atom}category').attrib['term'] });
+        categories = root.findall('{http://www.w3.org/2005/Atom}category');
+
+        for c in categories:
+            tags.append({'tag': c.attrib['term'] });
+        tags.pop(0);
+
         soup = BeautifulSoup(root.find('{http://www.w3.org/2005/Atom}content').text);
         content = soup.getText();
         url = (soup.find('a')).get('href');
@@ -59,7 +64,12 @@ class ParseXML:
         id = root.find('{http://www.w3.org/2005/Atom}id').text;
         title = root.find('{http://www.w3.org/2005/Atom}title').text;
         tags = [];
-        tags.append({'tag': root.find('{http://www.w3.org/2005/Atom}category').attrib['term'] });
+        categories = root.findall('{http://www.w3.org/2005/Atom}category');
+
+        for c in categories:
+            tags.append({'tag': c.attrib['term'] });
+        tags.pop(0);
+
         soup = BeautifulSoup(root.find('{http://www.w3.org/2005/Atom}content').text);
         content = soup.getText();
         url = (soup.find('a')).get('href');
@@ -82,11 +92,22 @@ class CreateNewZotero:
 def main():
 
     x = ParseXML();
-    y = x.extractElementsFromURL('https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-7832348034400947503-atom.xml');
-    #y = x.extractElementsFromFile('data/a1.xml')
-    #y.printItems();
-    z = CreateNewZotero();
-    z.createItem(y);
+    items = [
+    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-1827048823986280122-atom.xml',
+    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-8859221713746970298-atom.xml',
+    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-7285768122556450549-atom.xml',
+    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-8168438252623916245-atom.xml',
+    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-1956678586373352796-atom.xml',
+    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-3924012134112894344-atom.xml',
+    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-7190336260173443728-atom.xml',
+    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-7832348034400947503-atom.xml'
+    ];
+    for i in items:
+        y = x.extractElementsFromURL(i);
+        #y = x.extractElementsFromFile('data/a1.xml')
+        #y.printItems();
+        z = CreateNewZotero();
+        z.createItem(y);
 
 
 if __name__ == '__main__':
