@@ -104,7 +104,7 @@ def parseDirectory(PATH):
     x = ParseXML();
     items = glob.glob(PATH + '*-atom.xml');
     for i in items:
-        y = x.extractElementsFromURL(i);
+        y = x.extractElementsFromFile(i);
         #y = x.extractElementsFromFile('data/a1.xml')
         #y.printItems();
         z = CreateNewZotero();
