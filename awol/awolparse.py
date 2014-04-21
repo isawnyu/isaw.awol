@@ -38,6 +38,11 @@ class Article:
 #first method to extract form local file file
 #seocnd method to extract form url
 class ParseXML:
+    def caseConversion(self,tag):
+        utag = tag.upper();
+        if(utag != tag):
+            tag = tag.title();
+        return tag;
 
     def extractElementsFromFile(self, file):
         doc = exml.parse(file);
@@ -48,7 +53,9 @@ class ParseXML:
         categories = root.findall('{http://www.w3.org/2005/Atom}category');
 
         for c in categories:
-            tags.append({'tag': c.attrib['term'] });
+            tag = c.attrib['term'];
+            tag = caseConversion(tag);
+            tags.append({'tag': tag });
         tags.pop(0);
 
         soup = BeautifulSoup(root.find('{http://www.w3.org/2005/Atom}content').text);
@@ -67,7 +74,9 @@ class ParseXML:
         categories = root.findall('{http://www.w3.org/2005/Atom}category');
 
         for c in categories:
-            tags.append({'tag': c.attrib['term'] });
+            tag = c.attrib['term'];
+            tag = self.caseConversion(tag);
+            tags.append({'tag': tag });
         tags.pop(0);
 
         soup = BeautifulSoup(root.find('{http://www.w3.org/2005/Atom}content').text);
