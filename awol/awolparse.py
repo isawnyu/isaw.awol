@@ -8,6 +8,7 @@ from django.utils.encoding import smart_str
 from bs4 import BeautifulSoup
 import json;
 import urllib2;
+import glob;
 
 
 #global variables
@@ -97,6 +98,17 @@ class CreateNewZotero:
         template['tags'] = art.tags;
 
         resp = zot.create_items([template]);
+
+#Create zotero objects from XML files in the local directory by passing its path
+def parseDirectory(PATH):
+    x = ParseXML();
+    items = glob.glob(PATH + '*-atom.xml');
+    for i in items:
+        y = x.extractElementsFromURL(i);
+        #y = x.extractElementsFromFile('data/a1.xml')
+        #y.printItems();
+        z = CreateNewZotero();
+        z.createItem(y);
 
 def main():
 
