@@ -1,5 +1,3 @@
-
-
 import os
 from pyzotero import zotero
 import xml.etree.ElementTree as exml
@@ -9,7 +7,7 @@ from bs4 import BeautifulSoup
 import json;
 import urllib2;
 import glob;
-
+import argparse;
 
 #global variables
 #json file stores credentials
@@ -55,7 +53,7 @@ class ParseXML:
 
         for c in categories:
             tag = c.attrib['term'];
-            tag = caseConversion(tag);
+            tag = self.caseConversion(tag);
             tags.append({'tag': tag });
         tags.pop(0);
 
@@ -100,35 +98,45 @@ class CreateNewZotero:
         resp = zot.create_items([template]);
 
 #Create zotero objects from XML files in the local directory by passing its path
-def parseDirectory(PATH):
+def parseDirectory(PATH, no):
     x = ParseXML();
+
     items = glob.glob(PATH + '*-atom.xml');
     for i in items:
+        if(no == 0):
+            break;
         y = x.extractElementsFromFile(i);
-        #y = x.extractElementsFromFile('data/a1.xml')
-        #y.printItems();
         z = CreateNewZotero();
         z.createItem(y);
+        no -= 1;
+
 
 def main():
 
+    parser = argparse.ArgumentParser();
+    group = parser.add_mutually_exclusive_group();
+    group.add_argument("-w", "--webpath", help = "web path to XML file", action = "store_true");
+    group.add_argument("-l", "--localpath", help = "local path to XML file/ directory", type = str , choices = ['f','d']);
+    parser.add_argument("path", help = "specify path")
+    parser.add_argument("-n", "--numdoc", help = "specify no of documents", type = int, default = -1);
+
+    args = parser.parse_args()
+
+
     x = ParseXML();
-    items = [
-    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-1827048823986280122-atom.xml',
-    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-8859221713746970298-atom.xml',
-    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-7285768122556450549-atom.xml',
-    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-8168438252623916245-atom.xml',
-    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-1956678586373352796-atom.xml',
-    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-3924012134112894344-atom.xml',
-    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-7190336260173443728-atom.xml',
-    'https://raw.githubusercontent.com/paregorios/awol-backup/ce859d62a770f798d7d2a06b42952bb48fe33fe5/post-7832348034400947503-atom.xml'
-    ];
-    for i in items:
-        y = x.extractElementsFromURL(i);
-        #y = x.extractElementsFromFile('data/a1.xml')
-        #y.printItems();
-        z = CreateNewZotero();
+    z = CreateNewZotero();
+
+    if(args.webpath):
+        y = x.extractElementsFromURL(parser.path);
         z.createItem(y);
+    else:
+        if(args.localpath == 'f'):
+            y = x.extractElementsFromFile(args.path);
+            z.createItem(y);
+        else:
+            noofdoc = args.numdoc;
+            parseDirectory(args.path, noofdoc);
+
 
 
 if __name__ == '__main__':
