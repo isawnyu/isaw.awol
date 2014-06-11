@@ -10,6 +10,11 @@ import csv
 import logging as log
 import traceback
 
+
+DEFAULTOUTPATH='.\\zotero_items_load.log'
+recCounter = int()
+recCounter = 0
+
 #creds.json- credentials used to access zotero group library that needs to be populated
 creds = json.loads(open('creds.json').read())
 zot = zotero.Zotero(creds['libraryID'], creds['libraryType'], creds['apiKey'])
@@ -30,6 +35,12 @@ colPrefDict = dict()
 for row in dictReader2:
     colPrefDict.update({row['col_pre']:[row['omit_post'], row['strip_title'], row['mul_res']]})
 #############END OF READ CSV#########################
+
+#*************************
+# with open('procsd_files.txt','r') as myfile:
+#     procFiles = myfile.read().replace('\n','')
+#     procFilesList = procFiles.split(',')
+#*************************
 
 #Class that represents all the data that is important from the xml file
 class Article:
@@ -55,6 +66,12 @@ class ParseXML:
     def produceTag(self, tag):
         if tag in titleStringsDict.keys():
             return titleStringsDict[tag]
+        elif "open" and ("access" or "accesss") and not "partially" in tag:
+            return "Open Access"
+        elif "open" and ("access" or "accesss") and "partially" in tag:
+            return "Mixed Access"
+        elif "series" and not "lecture" in tag:
+            return "Series"
         else:
             return self.caseConversion(tag)
     
@@ -107,10 +124,16 @@ class ParseXML:
                 tags.append({'tag': tag })
         tags.pop(0)
 
-        soup = BeautifulSoup(root.find('{http://www.w3.org/2005/Atom}content').text)
-        content = soup.getText()
-        url = (soup.find('a')).get('href')
-        return Article(id, title, tags, content, url)
+        if root.find('{http://www.w3.org/2005/Atom}content').text != None:
+            soup = BeautifulSoup(root.find('{http://www.w3.org/2005/Atom}content').text)
+            content = soup.getText()
+            if soup.find('a') != None:
+                url = (soup.find('a')).get('href')
+            else:
+                url = ''
+            return Article(id, title, tags, content, url)
+        else:
+            return None
         
     def extractElementsFromFile(self, fileObj):
         doc = exml.parse(fileObj)
@@ -126,6 +149,7 @@ class ParseXML:
 #Class to create zotero item
 class CreateNewZotero:
     def createItem(self, art):
+        global recCounter
         if art != None:
             template = zot.item_template('webpage')
             template['extra'] = art.id
@@ -135,6 +159,9 @@ class CreateNewZotero:
             template['tags'] = art.tags
             resp = zot.create_items([template])
             log.info("Created Zotero item with title %s" % art.title)
+            recCounter = recCounter + 1
+        else:
+            log.info("None record: Nothing to be created")
 
 #Create zotero objects from XML files in the local directory by passing its path
 def parseDirectory(path):
@@ -142,12 +169,17 @@ def parseDirectory(path):
     x = ParseXML()
     items = glob.glob(path + '\*-atom.xml')
     for i in items:
-        log.debug('Now parsing:%s' % i)
+#         if i not in procFilesList:
+        log.info('Now parsing:%s' % i)
         y = x.extractElementsFromFile(i)
         z = CreateNewZotero()
         z.createItem(y)
+#         else:
+#         log.info('Already processed file:%s' % i)
+#         print 'Already processed file:'+i
 
 def main():
+    global recCounter
     try:
         parser = argparse.ArgumentParser()
         group = parser.add_mutually_exclusive_group()
@@ -159,9 +191,9 @@ def main():
     
         args = parser.parse_args()    
         if args.verbose:
-            log.basicConfig(level=log.DEBUG)
+            log.basicConfig(filename=DEFAULTOUTPATH, level=log.DEBUG)
         else:
-            log.basicConfig(level=log.INFO)
+            log.basicConfig(filename=DEFAULTOUTPATH, level=log.INFO)
 
         x = ParseXML()
         z = CreateNewZotero()
@@ -176,13 +208,17 @@ def main():
             else:
                 log.debug('Reading atom XMLs in dir: %s' % args.path)
                 parseDirectory(args.path)
+        
+        log.info(recCounter+" records created in Zotero!")
+        print recCounter + ' records created in Zotero!'
     except KeyboardInterrupt, e: # Ctrl-C
         raise e
     except SystemExit, e: # sys.exit()
         raise e
     except Exception, e:
-        log.debug("ERROR, UNEXPECTED EXCEPTION")
-        log.debug(e)
+        log.info("********ERROR, UNEXPECTED EXCEPTION********")
+        log.info(e)
+        log.info("*******************************************")
         traceback.print_exc()
         os._exit(1)
 
