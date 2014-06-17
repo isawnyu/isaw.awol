@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 from pyzotero import zotero
 import xml.etree.ElementTree as exml
@@ -9,6 +10,7 @@ import argparse
 import csv
 import logging as log
 import traceback
+import re
 
 
 DEFAULTOUTPATH='.\\zotero_items_load.log'
@@ -44,12 +46,14 @@ for row in dictReader2:
 
 #Class that represents all the data that is important from the xml file
 class Article:
-    def __init__(self, id, title, tags, content, url):
+    def __init__(self, id, title, tags, content, url, issn, template):
         self.id = id
         self.title = title
         self.tags = tags
         self.content = content
         self.url = url
+        self.template = template
+        self.issn = issn
 
     def printItems(self):
         print self.id
@@ -57,11 +61,31 @@ class Article:
         print self.tags
         print self.content
         print self.url
+        print self.template
+        print self.issn
 
 #Class to extract data from the files
 #first method to extract form local file
 #seocnd method to extract form url
-class ParseXML:    
+class ParseXML:
+    #Function to get ISSNs if any from the given XML
+    def getISSNFromXML(self, root):
+        xmlStr = exml.tostring(root, encoding='utf8', method='xml')
+        issnrex = re.findall(r'issn[^\d]*[\dX]{4}-?[\dX]{4}', xmlStr, re.IGNORECASE)
+        if issnrex:
+            log.debug('Found ISSNs')
+            if len(issnrex) > 1: #If more than 1 issns are found
+                for s in issnrex:
+                    if ('electrón' or 'électron' or 'electron' or 'digital' or 'online') in s:
+                        issn = re.search(r'[\dX]{4}-?[\dX]{4}', s)
+                        log.debug(issn)
+                        return issn
+            issn = re.search(r'[\dX]{4}-?[\dX]{4}', issnrex[0])
+            log.debug(issn)
+            return issn
+        else:
+            return None
+            
     #Function to look up data in CSV converted dict and produce relevant tags
     def produceTag(self, tag):
         if tag in titleStringsDict.keys():
@@ -131,9 +155,12 @@ class ParseXML:
                 url = (soup.find('a')).get('href')
             else:
                 url = ''
-            return Article(id, title, tags, content, url)
+            
+        issn = self.getISSNFromXML(root) 
+        if issn!=None:
+            return Article(id, title, tags, content, url, issn, 'journalArticle')
         else:
-            return None
+            return Article(id, title, tags, content, url, issn, 'webpage')
         
     def extractElementsFromFile(self, fileObj):
         doc = exml.parse(fileObj)
@@ -151,12 +178,14 @@ class CreateNewZotero:
     def createItem(self, art):
         global recCounter
         if art != None:
-            template = zot.item_template('webpage')
+            template = zot.item_template(art.template)
             template['extra'] = art.id
             template['title'] = art.title
             template['url'] = art.url
             template['abstractNote'] = art.content
             template['tags'] = art.tags
+            if art.template == 'journalArticle':
+                template['issn'] = art.issn
             resp = zot.create_items([template])
             log.info("Created Zotero item with title %s" % art.title)
             recCounter = recCounter + 1
@@ -209,8 +238,8 @@ def main():
                 log.debug('Reading atom XMLs in dir: %s' % args.path)
                 parseDirectory(args.path)
         
-        log.info(recCounter+" records created in Zotero!")
-        print recCounter + ' records created in Zotero!'
+#         log.info(recCounter+" records created in Zotero!")
+#         print recCounter + ' records created in Zotero!'
     except KeyboardInterrupt, e: # Ctrl-C
         raise e
     except SystemExit, e: # sys.exit()
