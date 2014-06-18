@@ -76,13 +76,13 @@ class ParseXML:
             log.debug('Found ISSNs')
             if len(issnrex) > 1: #If more than 1 issns are found
                 for s in issnrex:
-                    if ('electrón' or 'électron' or 'electron' or 'digital' or 'online') in s:
+                    if ('electrÃ³n' or 'Ã©lectron' or 'electron' or 'digital' or 'online') in s:
                         issn = re.search(r'[\dX]{4}-?[\dX]{4}', s)
-                        log.debug(issn)
-                        return issn
+                        log.debug(issn.group())
+                        return issn.group()
             issn = re.search(r'[\dX]{4}-?[\dX]{4}', issnrex[0])
-            log.debug(issn)
-            return issn
+            log.debug(issn.group())
+            return issn.group()
         else:
             return None
             
@@ -188,6 +188,8 @@ class CreateNewZotero:
                 template['issn'] = art.issn
             resp = zot.create_items([template])
             log.info("Created Zotero item with title %s" % art.title)
+            log.debug(art.template)
+            log.debug(art.issn)
             recCounter = recCounter + 1
         else:
             log.info("None record: Nothing to be created")
