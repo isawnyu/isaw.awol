@@ -11,9 +11,13 @@ import csv
 import logging as log
 import traceback
 import re
+import httplib2
+import time
+from ZoteroRESTCalls import ZoteroRESTCalls
+from socket import error as socket_error
 
 
-DEFAULTOUTPATH='.\\zotero_items_load.log'
+DEFAULTOUTPATH='.//zotero_items_load.log'
 recCounter = int()
 recCounter = 0
 
@@ -46,12 +50,13 @@ for row in dictReader2:
 
 #Class that represents all the data that is important from the xml file
 class Article:
-    def __init__(self, id, title, tags, content, url, issn, template):
+    def __init__(self, id, title, tags, content, url, blogUrl, issn, template):
         self.id = id
         self.title = title
         self.tags = tags
         self.content = content
         self.url = url
+        self.blogUrl = blogUrl
         self.template = template
         self.issn = issn
 
@@ -61,6 +66,7 @@ class Article:
         print self.tags
         print self.content
         print self.url
+        print self.blogUrl
         print self.template
         print self.issn
 
@@ -68,6 +74,7 @@ class Article:
 #first method to extract form local file
 #seocnd method to extract form url
 class ParseXML:
+            
     #Function to get ISSNs if any from the given XML
     def getISSNFromXML(self, root):
         xmlStr = exml.tostring(root, encoding='utf8', method='xml')
@@ -80,24 +87,36 @@ class ParseXML:
                         issn = re.search(r'[\dX]{4}-?[\dX]{4}', s)
                         log.debug(issn.group())
                         return issn.group()
-            issn = re.search(r'[\dX]{4}-?[\dX]{4}', issnrex[0])
+            issn = re.search(r'[\dX]{4}-?[\dX]{4}', issnrex[0], re.IGNORECASE)
             log.debug(issn.group())
             return issn.group()
         else:
             return None
             
     #Function to look up data in CSV converted dict and produce relevant tags
-    def produceTag(self, tag):
-        if tag in titleStringsDict.keys():
-            return titleStringsDict[tag]
-        elif "open" and ("access" or "accesss") and not "partially" in tag:
-            return "Open Access"
-        elif "open" and ("access" or "accesss") and "partially" in tag:
-            return "Mixed Access"
-        elif "series" and not "lecture" in tag:
-            return "Series"
-        else:
-            return self.caseConversion(tag)
+    def produceTag(self, tags, categories, title):
+        for c in categories:    
+            tag = c.attrib['term']
+            if tag in titleStringsDict.keys():
+                tag = titleStringsDict[tag]
+            else:
+                tag = self.caseConversion(tag)
+            #Check if multiple tags separated by ',' exist in the titleStringsDict[tag]
+            if ',' in tag:
+                tagList = tag.split(',')
+                for tg in tagList:
+                    if tg in title:
+                        tags.append({'tag': tg })
+            else:
+                if tag in title:
+                    tags.append({'tag': tag })
+        if "open" and ("access" or "accesss") and not "partially" in title:
+            tags.append({'tag': "Open Access" })
+        elif "open" and ("access" or "accesss") and "partially" in title:
+            tags.append({'tag': "Mixed Access" })
+        elif "series" and not "lecture" in title:
+            tags.append({'tag': "Series" })
+        return tags
     
     def caseConversion(self,tag):
         utag = tag.upper()
@@ -124,43 +143,53 @@ class ParseXML:
     
     #Function get Article object from XML doc obj
     def getArticleFromXML(self, root):
+        tags = []
+        #Fetch id, title and categories
         id = root.find('{http://www.w3.org/2005/Atom}id').text
         title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text)
+        #Check if record needs to be eliminated from zotero OR
+        #resource title needs to be stripped
         if ':' in title:
             if self.isOmissible(title):
                 log.debug('Omitting record with title- %s' % title)
                 return None
             else:
                 title = self.stripRsrc(title)
-        tags = []
+        
         categories = root.findall('{http://www.w3.org/2005/Atom}category')
-
-        for c in categories:
-            tag = c.attrib['term']
-            #tag = self.caseConversion(tag)
-            tag = self.produceTag(tag)
-            #Check if multiple tags exist in return value of produceTag
-            if ',' in tag:
-                tagList = tag.split(',')
-                for tg in tagList:
-                    tags.append({'tag': tg })
-            else:
-                tags.append({'tag': tag })
-        tags.pop(0)
-
+        tags = self.produceTag(tags, categories, title)
+        
+        #Fetch HTML content and URL
+        content = ''
+        url = ''
         if root.find('{http://www.w3.org/2005/Atom}content').text != None:
             soup = BeautifulSoup(root.find('{http://www.w3.org/2005/Atom}content').text)
             content = soup.getText()
             if soup.find('a') != None:
                 url = (soup.find('a')).get('href')
-            else:
-                url = ''
-            
+                httpObj = httplib2.Http()
+                try:
+                    resp, content = httpObj.request(url, 'HEAD')
+                    if resp['status'] == '404':
+                        tags.append({'tag':'404:'+time.strftime("%H-%M-%S")})
+                        log.info('Code 404: URL %s broken.' % url)
+                    elif resp['status'] == '301':
+                        tags.append({'tag':'301:'+time.strftime("%H-%M-%S")},{'tag':'old-url:'+url})
+                        log.info('Code 301: URL %s redirecting to %s.' % (url, resp['location']))
+                        url = resp['location']
+                except socket_error:
+                    tags.append({'tag':'111:Connection refused'})
+                    log.info('Connection refused: URL %s' % url)                     
+        
+        blogUrl = root.findall("{http://www.w3.org/2005/Atom}link[@rel='alternate']")[0].attrib['href']
+        #Eliminate the first category value(http://../kind#post) that's taken as a tag
+        tags.pop(0)
+        
         issn = self.getISSNFromXML(root) 
         if issn!=None:
-            return Article(id, title, tags, content, url, issn, 'journalArticle')
+            return Article(id, title, tags, content, url, blogUrl, issn, 'journalArticle')
         else:
-            return Article(id, title, tags, content, url, issn, 'webpage')
+            return Article(id, title, tags, content, url, blogUrl, issn, 'webpage')
         
     def extractElementsFromFile(self, fileObj):
         doc = exml.parse(fileObj)
@@ -175,8 +204,11 @@ class ParseXML:
 
 #Class to create zotero item
 class CreateNewZotero:
+
+    #Function to create a zotero record
     def createItem(self, art):
         global recCounter
+        zoterorest = ZoteroRESTCalls()
         if art != None:
             template = zot.item_template(art.template)
             template['extra'] = art.id
@@ -186,10 +218,18 @@ class CreateNewZotero:
             template['tags'] = art.tags
             if art.template == 'journalArticle':
                 template['issn'] = art.issn
-            resp = zot.create_items([template])
-            log.info("Created Zotero item with title %s" % art.title)
-            log.debug(art.template)
-            log.debug(art.issn)
+            try:
+                resp = zot.create_items([template])
+                postUrlSuf = '/'+creds['libraryType']+'s/'+creds['libraryID']+'/items?key='+creds['apiKey']
+                title = 'Original Blog URL:' + art.blogUrl
+                result = zoterorest.createChildAttachment(postUrlSuf, resp[0]['key'], art.blogUrl, title)
+                log.info("Created Zotero item with title %s" % art.title)
+                log.info("Child attachment result:%s" % result)
+            except Exception, e:
+                log.info("********ERROR, UNEXPECTED EXCEPTION********")
+                log.info(e)
+                log.info("*******************************************")
+                traceback.print_exc()
             recCounter = recCounter + 1
         else:
             log.info("None record: Nothing to be created")
@@ -198,7 +238,7 @@ class CreateNewZotero:
 def parseDirectory(path):
     log.info('Parsing directory %s' % path)
     x = ParseXML()
-    items = glob.glob(path + '\*-atom.xml')
+    items = glob.glob(path + '/*-atom.xml')
     for i in items:
 #         if i not in procFilesList:
         log.info('Now parsing:%s' % i)
@@ -240,8 +280,8 @@ def main():
                 log.debug('Reading atom XMLs in dir: %s' % args.path)
                 parseDirectory(args.path)
         
-#         log.info(recCounter+" records created in Zotero!")
-#         print recCounter + ' records created in Zotero!'
+        log.info(str(recCounter)+" records created in Zotero!")
+        print str(recCounter) + ' records created in Zotero!'
     except KeyboardInterrupt, e: # Ctrl-C
         raise e
     except SystemExit, e: # sys.exit()
