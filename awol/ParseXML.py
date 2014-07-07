@@ -8,12 +8,29 @@ import httplib2
 import time
 from socket import error as socket_error
 from Article import Article
+import csv
 
 #Class to extract data from the files
 #first method to extract form local file
 #seocnd method to extract form url
 class ParseXML:
-            
+    ##########################READ CSV###################
+    #Read CSV file containing the right tags to produce
+    dictReader = csv.DictReader(open('awol_title_strings.csv', 'rb'), 
+                        fieldnames = ['titles', 'tags'], delimiter = ',', quotechar = '"')
+    #Build a dictionary from the CSV file-> {<string>:<tags to produce>}
+    titleStringsDict = dict()
+    for row in dictReader:
+        titleStringsDict.update({row['titles']:row['tags']})
+    
+    #Read awol_colon_prefixes.csv file and build a dictionary
+    dictReader2 = csv.DictReader(open('awol_colon_prefixes.csv', 'rb'), 
+                         fieldnames = ['col_pre', 'omit_post', 'strip_title', 'mul_res'], delimiter = ',', quotechar = '"')
+    colPrefDict = dict()
+    #Build a dictionary of format {<column prefix>:<list of cols 2,3 and 4>}
+    for row in dictReader2:
+        colPrefDict.update({row['col_pre']:[row['omit_post'], row['strip_title'], row['mul_res']]})
+    #############END OF READ CSV#########################
     #Function to get ISSNs if any from the given XML
     def getISSNFromXML(self, root):
         xmlStr = exml.tostring(root, encoding='utf8', method='xml')
@@ -33,11 +50,11 @@ class ParseXML:
             return None
             
     #Function to look up data in CSV converted dict and produce relevant tags
-    def produceTag(self, tags, categories, title, titleStringsDict):
+    def produceTag(self, tags, categories, title):
         for c in categories:    
             tag = c.attrib['term']
-            if tag in titleStringsDict.keys():
-                tag = titleStringsDict[tag]
+            if tag in self.titleStringsDict.keys():
+                tag = self.titleStringsDict[tag]
             else:
                 tag = self.caseConversion(tag)
             #Check if multiple tags separated by ',' exist in the titleStringsDict[tag]
@@ -64,17 +81,17 @@ class ParseXML:
         return tag
     
     #Function to check if record needs to be omitted from Zotero
-    def isOmissible(self, title, colPrefDict):
+    def isOmissible(self, title):
         colPre = title.split(':')[0]
-        if colPre in colPrefDict.keys() and (colPrefDict[colPre])[0] == 'yes':
+        if colPre in self.colPrefDict.keys() and (self.colPrefDict[colPre])[0] == 'yes':
             return True
         else:
             return False
     
     #Function to check if colon prefix needs to be stripped from resource title
-    def stripRsrc(self, title, colPrefDict):
+    def stripRsrc(self, title):
         colPre = title.split(':')[0]
-        if colPre in colPrefDict.keys() and (colPrefDict[colPre])[1] == 'yes':
+        if colPre in self.colPrefDict.keys() and (self.colPrefDict[colPre])[1] == 'yes':
             log.debug('Stripping colon prefix- %s from title string' % colPre)
             return (title.split(':')[1]).strip()
         else:

@@ -23,10 +23,9 @@ class CreateNewZotero:
     zot = zotero.Zotero(creds['libraryID'], creds['libraryType'], creds['apiKey'])
     #Function to create a zotero record
     def createItem(self, art):
-        global recCounter, zot, creds
         zoterorest = ZoteroRESTCalls()
         if art != None:
-            template = zot.item_template(art.template)
+            template = self.zot.item_template(art.template)
             template['extra'] = art.id
             template['title'] = art.title
             template['url'] = art.url
@@ -35,8 +34,8 @@ class CreateNewZotero:
             if art.template == 'journalArticle':
                 template['issn'] = art.issn
             try:
-                resp = zot.create_items([template])
-                postUrlSuf = '/'+creds['libraryType']+'s/'+creds['libraryID']+'/items?key='+creds['apiKey']
+                resp = self.zot.create_items([template])
+                postUrlSuf = '/'+self.creds['libraryType']+'s/'+self.creds['libraryID']+'/items?key='+self.creds['apiKey']
                 title = 'Original Blog URL:' + art.blogUrl
                 result = zoterorest.createChildAttachment(postUrlSuf, resp[0]['key'], art.blogUrl, title)
                 log.info("Created Zotero item with title %s" % art.title)
@@ -46,6 +45,5 @@ class CreateNewZotero:
                 log.info(e)
                 log.info("*******************************************")
                 traceback.print_exc()
-            recCounter = recCounter + 1
         else:
             log.info("None record: Nothing to be created")
