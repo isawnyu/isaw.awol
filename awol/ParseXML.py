@@ -5,7 +5,6 @@ import urllib2
 import logging as log
 import re
 import httplib2
-import time
 from socket import error as socket_error
 from Article import Article
 import csv
@@ -31,6 +30,15 @@ class ParseXML:
     for row in dictReader2:
         colPrefDict.update({row['col_pre']:[row['omit_post'], row['strip_title'], row['mul_res']]})
     #############END OF READ CSV#########################
+    #Check if multiple tags separated by ',' exist in the titleStringsDict[tag]
+    def checkMulTags(self, tag, tags):
+        if ',' in tag:
+            tagList = tag.split(',')
+            for tg in tagList:
+                tags.append({'tag': tg })
+        else:
+            tags.append({'tag' : tag}) 
+    
     #Function to get ISSNs if any from the given XML
     def getISSNFromXML(self, root):
         xmlStr = exml.tostring(root, encoding='utf8', method='xml')
@@ -58,14 +66,17 @@ class ParseXML:
             else:
                 tag = self.caseConversion(tag)
             #Check if multiple tags separated by ',' exist in the titleStringsDict[tag]
-            if ',' in tag:
-                tagList = tag.split(',')
-                for tg in tagList:
-                    if tg in title:
-                        tags.append({'tag': tg })
-            else:
-                if tag in title:
-                    tags.append({'tag': tag })
+            self.checkMulTags(tag, tags)
+            
+        for key in self.titleStringsDict.keys():
+            try:
+                if key in title:
+                    tag = self.titleStringsDict[key]
+                    self.checkMulTags(tag, tags)
+            except Exception, e:
+                pass
+#                 log.info("Problem with key:%s" % key)
+        
         if "open" and ("access" or "accesss") and not "partially" in title:
             tags.append({'tag': "Open Access" })
         elif "open" and ("access" or "accesss") and "partially" in title:
@@ -128,17 +139,17 @@ class ParseXML:
                     log.debug('Trying URL:%s' % url)
                     resp, content = httpObj.request(url, 'HEAD')
                     if resp['status'] == '404':
-                        tags.append({'tag':'404:'+time.strftime("%H-%M-%S")})
+                        tags.append({'tag':'404'})
                         log.info('Code 404: URL %s broken.' % url)
                     elif resp['status'] == '301':
-                        tags.append({'tag':'301:'+time.strftime("%H-%M-%S"),'tag':'old-url:'+url})
+                        tags.append({'tag':'301','tag':'old-url:'+url})
                         log.info('Code 301: URL %s redirecting to %s.' % (url, resp['location']))
                         url = resp['location']
                 except socket_error:
                     tags.append({'tag':'111:Connection refused'})
                     log.info('Connection refused: URL %s' % url)  
                 except httplib2.RedirectLimit as redir_lim:
-                    tags.append({'tag':'301:'+time.strftime("%H-%M-%S")})
+                    tags.append({'tag':'301'})
                     log.info('Redirect limit reached:'+url)
                     log.info(str(redir_lim))                   
                 except Exception as httpex:
@@ -150,7 +161,7 @@ class ParseXML:
         if len(tmpList) > 0:
             blogUrl = tmpList[0].attrib['href']
         #Eliminate the first category value(http://../kind#post) that's taken as a tag
-        if 'kind#post' in tags[0]['tag']: 
+        if 'kind#post' in str(tags[0]['tag']).lower(): 
             tags.pop(0)
         
         issn = self.getISSNFromXML(root) 

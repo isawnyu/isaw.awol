@@ -39,7 +39,7 @@ class CreateNewZotero:
                 title = 'Original Blog URL:' + art.blogUrl
                 result = zoterorest.createChildAttachment(postUrlSuf, resp[0]['key'], art.blogUrl, title)
                 log.info("Created Zotero item with title %s" % art.title)
-                log.info("Child attachment result:%s" % result)
+#                 log.info("Child attachment result:%s" % result)
             except Exception, e:
                 log.info("********ERROR, UNEXPECTED EXCEPTION********")
                 log.info(e)

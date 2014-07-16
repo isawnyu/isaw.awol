@@ -21,15 +21,18 @@ def parseDirectory(path):
     log.info('Parsing directory %s' % path)
     x = ParseXML()
     items = glob.glob(path + '/*-atom.xml')
+    f = open('procsd_files.txt','a')
     for i in items:
 #         if i not in procFilesList:
         log.info('Now parsing:%s' % i)
         y = x.extractElementsFromFile(i)
         z = CreateNewZotero()
         z.createItem(y)
+        f.write(str(i))
+        f.write('\n')
 #         else:
-        log.info('Already processed file:%s' % i)
-        print 'Already processed file:'+i
+#         log.info('Already processed file:%s' % i)
+#         print 'Already processed file:'+i
 
 def main():
     try:
