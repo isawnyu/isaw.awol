@@ -11,9 +11,9 @@ DEFAULTOUTPATH='.//zotero_items_load.log'
 recCounter = 0
 
 #*************************
-# with open('procsd_files.txt','r') as myfile:
-#     procFiles = myfile.read()#.replace('\n','')
-#     procFilesList = procFiles.split('\n')
+with open('procsd_files.txt','r') as myfile:
+    procFiles = myfile.read()#.replace('\n','')
+    procFilesList = procFiles.split('\n')
 #*************************
 
 #Create zotero objects from XML files in the local directory by passing its path
@@ -23,16 +23,21 @@ def parseDirectory(path):
     items = glob.glob(path + '/*-atom.xml')
     f = open('procsd_files.txt','a')
     for i in items:
-#         if i not in procFilesList:
-        log.info('Now parsing:%s' % i)
-        y = x.extractElementsFromFile(i)
-        z = CreateNewZotero()
-        z.createItem(y)
-        f.write(str(i))
-        f.write('\n')
-#         else:
-#         log.info('Already processed file:%s' % i)
-#         print 'Already processed file:'+i
+        if i not in procFilesList:
+            log.info('Now parsing:%s' % i)
+            try:
+                y = x.extractElementsFromFile(i)
+                z = CreateNewZotero()
+                z.createItem(y)
+                f.write(str(i))
+                f.write('\n')
+            except UnicodeEncodeError:
+                pass
+            except Exception:
+                f.close()
+        else:
+            log.info('Already processed file:%s' % i)
+            print 'Already processed file:'+i
 
 def main():
     try:

@@ -10,12 +10,5 @@ class Article:
         self.template = template
         self.issn = issn
 
-    def printItems(self):
-        print self.id
-        print self.title
-        print self.tags
-        print self.content
-        print self.url
-        print self.blogUrl
-        print self.template
-        print self.issn
+    def __str__(self):
+        print self.id+"|"+self.title+"|"+str(self.tags)+"|"+self.content+"|"+self.url+"|"+self.blogUrl+"|"+self.template+"|"+self.issn

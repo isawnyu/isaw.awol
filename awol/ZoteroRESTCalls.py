@@ -2,7 +2,7 @@ import httplib2
 
 class ZoteroRESTCalls: 
     # Get the HTTP object
-    h = httplib2.Http()        
+    h = httplib2.Http()
     
     # Send the request
     def createChildAttachment(self, postUrlSuf, parentItem, url, title):

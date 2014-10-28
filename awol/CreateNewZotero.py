@@ -1,18 +1,9 @@
 # -*- coding: utf-8 -*-
 import os
 from pyzotero import zotero
-import xml.etree.ElementTree as exml
-from bs4 import BeautifulSoup
 import json
-import urllib2
-import glob
-import argparse
-import csv
 import logging as log
 import traceback
-import re
-import httplib2
-import time
 from ZoteroRESTCalls import ZoteroRESTCalls
 from socket import error as socket_error
 
@@ -34,7 +25,9 @@ class CreateNewZotero:
             if art.template == 'journalArticle':
                 template['issn'] = art.issn
             try:
+#                 log.debug('Trying to create:%s' % art)
                 resp = self.zot.create_items([template])
+#                 print resp
                 postUrlSuf = '/'+self.creds['libraryType']+'s/'+self.creds['libraryID']+'/items?key='+self.creds['apiKey']
                 title = 'Original Blog URL:' + art.blogUrl
                 result = zoterorest.createChildAttachment(postUrlSuf, resp[0]['key'], art.blogUrl, title)
