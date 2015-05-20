@@ -8,7 +8,7 @@ setup(
     author='Chuck Jones, Ronak Parpani, Tom Elliott',
     author_email='chuck.jones@nyu.edu, parpanironak@gmail.com, tom.elliott@nyu.edu',
     description='The Ancient World Online: from blog to bibliographic data',
-    install_requires=[],
+    install_requires=['pyzotero', 'django', 'beautifulsoup4'],
     license='See LICENSE.txt',
     long_description=open('README.md').read(),
     name='isaw.awol',
