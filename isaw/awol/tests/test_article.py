@@ -29,4 +29,8 @@ def test_article_init():
     a = article.Article(file_name)
     assert_is_not_none(a.doc)
     assert_is_not_none(a.root)
-    
+    root = a.root
+    assert_equals(root.tag, 'dummy')
+    assert_equals(root[0].tag, 'head')
+    assert_equals(root[1].tag, 'body')
+    assert_equals(root[2].tag, 'tail')
