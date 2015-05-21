@@ -44,7 +44,7 @@ def test_article_parse():
     a.parse()
     assert_is_not_none(a.id)
     assert_is_not_none(a.title)
-    assert_is_not_none(a.tags)
+    assert_is_not_none(a.categories)
     assert_is_not_none(a.content)
     assert_is_not_none(a.url)
     assert_is_not_none(a.blogUrl)

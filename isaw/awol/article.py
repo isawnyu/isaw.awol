@@ -26,8 +26,7 @@ class Article():
 
         root = self.root
         self.id = root.find('{http://www.w3.org/2005/Atom}id').text
-        # self.id = id
-        # self.title = title
+        self.title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text)
         # self.tags = tags
         # self.content = content
         # self.url = url
