@@ -23,6 +23,9 @@ class Article():
 
     def parse(self):
         """Parse desired components out of the file."""
+
+        root = self.root
+        self.id = root.find('{http://www.w3.org/2005/Atom}id').text
         # self.id = id
         # self.title = title
         # self.tags = tags
