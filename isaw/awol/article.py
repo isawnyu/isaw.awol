@@ -22,19 +22,33 @@ class Article():
         self.root = self.doc.getroot()
 
     def parse(self):
-        """Parse desired components out of the file."""
+        """Parse desired components out of the file.
+
+        Method looks for the following components and saves their values as
+        attributes of the object:
+
+            * id (string): unique identifier for the blog post
+            * title (unicode): title of the blog post
+            * categories (list of unicode strings): categories assigned to
+              the blog post
+            * content (string): raw content of the blog post
+            * resources (list of resource objects): information about each
+              web resource found mentioned in the article content
+
+        """
 
         root = self.root
         self.id = root.find('{http://www.w3.org/2005/Atom}id').text
         self.title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text)
         self.categories = root.findall('{http://www.w3.org/2005/Atom}category')
         self.content = root.find('{http://www.w3.org/2005/Atom}content').text
-        # self.content = content
-        # self.url = url
-        # self.blogUrl = blogUrl
-        # self.template = template
-        # self.issn = issn
-        pass
+        self.resources = self.get_resources()
+
+    def get_resources(self):
+        """Identify all the resources mentioned in this article."""
+        
+        resources = []
+        return resources
 
     def __str__(self):
         """Print all data about the article."""
