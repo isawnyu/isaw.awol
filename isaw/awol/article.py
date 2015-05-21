@@ -10,7 +10,7 @@ This module defines the following classes:
 
 
 from bs4 import BeautifulSoup
-import xml.etree.ElementTree as exml
+from lxml import etree as exml
 
 class Article():
     """Represent all data that is important about an AWOL blog article."""
@@ -29,6 +29,7 @@ class Article():
 
             * id (string): unique identifier for the blog post
             * title (unicode): title of the blog post
+            * url (unicode): url of the blog post
             * categories (list of unicode strings): categories assigned to
               the blog post
             * content (string): raw content of the blog post
@@ -40,13 +41,14 @@ class Article():
         root = self.root
         self.id = root.find('{http://www.w3.org/2005/Atom}id').text
         self.title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text)
+        self.url = unicode(root.xpath("//*[local-name()='link' and @rel='alternate']")[0].text)
         self.categories = root.findall('{http://www.w3.org/2005/Atom}category')
         self.content = root.find('{http://www.w3.org/2005/Atom}content').text
         self.resources = self.get_resources()
 
     def get_resources(self):
         """Identify all the resources mentioned in this article."""
-        
+
         resources = []
         return resources
 
