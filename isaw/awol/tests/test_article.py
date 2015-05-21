@@ -34,3 +34,18 @@ def test_article_init():
     assert_equals(root[0].tag, 'head')
     assert_equals(root[1].tag, 'body')
     assert_equals(root[2].tag, 'tail')
+
+def test_article_parse():
+    """Ensure class parse method gets all desired fields."""
+    file_name = os.path.join(PATH_TEST_DATA, 'post-capitale-culturale.xml')
+    a = article.Article(file_name)
+    root = a.root
+    assert_equals(root.tag, '{http://www.w3.org/2005/Atom}entry')
+    a.parse()
+    assert_is_not_none(a.id)
+    assert_is_not_none(a.title)
+    assert_is_not_none(a.tags)
+    assert_is_not_none(a.content)
+    assert_is_not_none(a.url)
+    assert_is_not_none(a.blogUrl)
+    assert_is_not_none(a.issn)
