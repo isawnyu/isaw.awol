@@ -8,6 +8,7 @@ This module defines the following classes:
  * Article: represents key information about the article.
 """
 
+
 class Article:
     """Represent all data that is important about an AWOL blog article."""
 
@@ -25,6 +26,7 @@ class Article:
 
     def __str__(self):
         """Print all data about the article."""
+
         return str(self.id+"|"+self.title+"|"+str(self.tags)+"|"+
             self.content+"|"+self.url+"|"+self.blogUrl+"|"+self.template+
             "|"+self.issn)
