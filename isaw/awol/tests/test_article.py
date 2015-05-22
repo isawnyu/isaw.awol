@@ -15,15 +15,18 @@ PATH_TEST_TEMP = os.path.join(PATH_TEST, 'temp')
 
 def setup_function():
     """Test harness setup."""
+
     pass
 
 def teardown_function():
     """Test harness teardown."""
+
     pass
 
 @with_setup(setup_function, teardown_function)
 def test_article_init():
     """Ensure class constructor can open and extract XML from file."""
+
     file_name = os.path.join(PATH_TEST_DATA, 'dummy.xml')
     a = article.Article(file_name)
     assert_is_not_none(a.doc)
@@ -36,6 +39,7 @@ def test_article_init():
 
 def test_article_parse():
     """Ensure class parse method gets all desired fields."""
+    
     file_name = os.path.join(PATH_TEST_DATA, 'post-capitale-culturale.xml')
     a = article.Article(file_name)
     root = a.root
