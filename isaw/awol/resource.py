@@ -16,7 +16,17 @@ class Resource:
 
     def __init__(self):
         """Set all attributes to default values."""
-        pass
+
+        self.description = None
+        self.subordinate_resources = []
+        self.isbn = None
+        self.issn = None
+        self.keywords = []
+        self.language = None
+        self.related_resources = []
+        self.title = None
+        self.url = None
+
 
 
 
