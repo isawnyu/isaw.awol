@@ -9,7 +9,6 @@ This module defines the following classes:
 """
 
 
-from bs4 import BeautifulSoup
 from lxml import etree as exml
 
 class Article():
