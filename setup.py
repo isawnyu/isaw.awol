@@ -15,7 +15,7 @@ setup(
         'lxml',
         'nose',
         'pyzotero', 
-        'ucsv'],
+        'unicodecsv'],
     license='See LICENSE.txt',
     long_description=open('README.md').read(),
     name='isaw.awol',
