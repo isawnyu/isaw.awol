@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """Test code in the article module."""
 
-import logging
 import os
 
 from nose import with_setup
