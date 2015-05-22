@@ -29,6 +29,7 @@ def test_resource_init():
 
     r = resource.Resource()
     assert_is_none(r.description)
+    assert_is_none(r.domain)
     assert_is_instance(r.subordinate_resources, list)
     assert_is_none(r.isbn)
     assert_is_none(r.issn)
@@ -37,4 +38,5 @@ def test_resource_init():
     assert_is_instance(r.related_resources, list)
     assert_is_none(r.title)
     assert_is_none(r.url)
+
 

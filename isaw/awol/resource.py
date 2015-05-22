@@ -8,9 +8,6 @@ This module defines the following classes:
  * Resource: Extracts and represents key information about a web resource.
 """
 
-from bs4 import BeautifulSoup
-
-
 class Resource:
     """Extract and represent key information about a web resource."""
 
@@ -18,6 +15,7 @@ class Resource:
         """Set all attributes to default values."""
 
         self.description = None
+        self.domain = None
         self.subordinate_resources = []
         self.isbn = None
         self.issn = None
