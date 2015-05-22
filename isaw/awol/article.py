@@ -42,7 +42,7 @@ class Article():
         self.id = root.find('{http://www.w3.org/2005/Atom}id').text
         self.title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text)
         self.url = unicode(root.xpath("//*[local-name()='link' and @rel='alternate']")[0].get('href'))
-        self.categories = root.findall('{http://www.w3.org/2005/Atom}category')
+        self.categories = [{'vocabulary' : c.get('scheme'), 'term' : c.get('term')} for c in root.findall('{http://www.w3.org/2005/Atom}category')]
         self.content = root.find('{http://www.w3.org/2005/Atom}content').text
         self.resources = self.get_resources()
 

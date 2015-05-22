@@ -42,10 +42,21 @@ def test_article_parse():
     root = a.root
     assert_equals(root.tag, '{http://www.w3.org/2005/Atom}entry')
     a.parse()
-    assert_equals(a.id, 'tag:blogger.com,1999:blog-116259103207720939.post-107383690052898357')            
+    assert_equals(a.id, 
+        'tag:blogger.com,1999:blog-116259103207720939.post-107383690052898357')          
     assert_equals(a.title, u'Open Access Journal: Il capitale culturale')      
-    assert_equals(a.url, u'http://ancientworldonline.blogspot.com/2011/02/new-open-access-journal-il-capitale.html')   
-    assert_equals(a.categories, ['foo'])    
+    assert_equals(a.url, 
+        u'http://ancientworldonline.blogspot.com/2011/02/new-open-access-journal-il-capitale.html')   
+    assert_equals(
+        a.categories, 
+        [
+            {
+                'term': 
+                    'http://schemas.google.com/blogger/2008/kind#post',
+                'vocabulary':
+                    'http://schemas.google.com/g/2005#kind'
+            }
+        ])    
     assert_is_not_none(a.content)       
     assert_is_not_none(a.resources) 
     assert_equals(len(a.resources), 1)    
