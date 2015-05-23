@@ -69,10 +69,10 @@ def test_article_parse():
     assert_equals(len(a.resources), 1)    
     r = a.resources[0]
     assert_is_none(r.description)
+    assert_equals(len(r.identifiers), 1)
+    assert_equals(r.identifiers['issn'], u'2039-2362')
     assert_equals(r.domain, 'www.unimc.it')
     assert_is_instance(r.subordinate_resources, list)
-    assert_is_none(r.isbn)
-    assert_is_none(r.issn)
     assert_is_instance(r.keywords, list)
     assert_is_none(r.language)
     assert_is_instance(r.related_resources, list)

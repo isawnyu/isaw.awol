@@ -17,8 +17,7 @@ class Resource:
         self.description = None
         self.domain = None
         self.subordinate_resources = []
-        self.isbn = None
-        self.issn = None
+        self.identifiers = {}
         self.keywords = []
         self.language = None
         self.related_resources = []

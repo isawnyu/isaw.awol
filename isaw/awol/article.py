@@ -9,6 +9,7 @@ This module defines the following classes:
 """
 
 import logging
+import pprint
 import re
 import sys
 
@@ -26,6 +27,13 @@ DOMAINS_NOT_PRIMARY = [
     'ancientworldonline.blogspot.com'
 ]
 RX_MATCH_DOMAIN = re.compile('^https?:\/\/([^/#]+)')
+RX_IDENTIFIERS = {
+    'issn': {
+        'findall': re.compile(r'issn[^\d]*[\dX]{4}-?[\dX]{4}', re.IGNORECASE),
+        'match': re.compile(r'issn[^\d]*([\dX]{4}-?[\dX]{4})', re.IGNORECASE),
+        'pref_flags' : ['electrón', 'électron', 'electron', 'digital', 'online']
+    }
+} 
 
 # Build a dictionary of format {<column prefix>:<list of cols 2,3 and 4>}
 colon_prefix_csv = pkg_resources.resource_stream('isaw.awol', 'awol_colon_prefixes.csv')
@@ -59,6 +67,7 @@ class Article():
         with open(file_name, 'r') as file_object:
             self.doc = exml.parse(file_object)
         self.root = self.doc.getroot()
+        self.identifiers = {}
 
     def parse(self):
         """Parse desired components out of the file.
@@ -82,7 +91,7 @@ class Article():
         self.title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text)
         self.url = unicode(root.xpath("//*[local-name()='link' and @rel='alternate']")[0].get('href'))
         self.categories = [{'vocabulary' : c.get('scheme'), 'term' : c.get('term')} for c in root.findall('{http://www.w3.org/2005/Atom}category')]
-        self.content = root.find('{http://www.w3.org/2005/Atom}content').text
+        self.content = normalize_space(root.find('{http://www.w3.org/2005/Atom}content').text)
         self.resources = self.get_resources()
 
     def get_resources(self):
@@ -122,11 +131,33 @@ class Article():
 
     def _extract_single_resource(self, domain, url, title=None):
         """Extract single resource from a blog post."""
+
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+
         r = Resource()
         r.domain = domain
         r.url = url
         if title is not None:
             r.title = title
+        else:
+            logger.debug("No title is being set!")
+        content = self.content
+        for k,rx in RX_IDENTIFIERS.iteritems():
+            idents = list(set([normalize_space(s) for s in rx['findall'].findall(content)]))
+            if len(idents) == 1:
+                m = rx['match'].match(idents[0])
+                if len(m.groups()) == 1:
+                    r.identifiers[k] = m.groups()[0]
+                else:
+                    logger.warning('Unexpected disaster trying to parse {0} from "{1}"'.format(k, idents[0]))
+            elif len(idents) > 1:
+                flagged_idents = [ident for ident in idents if lambda s: len([f for f in rx['pref_flags'] if f in s]) > 0]
+                if len(flagged_idents) == 1:
+                    m = rx['match'].match(flagged_idents[0])
+                    if len(m.groups()) == 1:
+                        r.identifiers[k] = m.groups()[0]
+                    else:
+                        logger.warning('Unexpected disaster trying to parse {0} from "{1}"'.format(k, flagged_idents[0]))
         return r
 
     def _parse_rtitle_from_ptitle(self):
@@ -142,6 +173,12 @@ class Article():
         else:
             return title
 
+    def _parse_identifiers_from_awol(self):
+        """Parse identifying strings of interest from an AWOL blog post."""
+
+        content = self.soup.get_text()
+
+
     def __str__(self):
         """Print all data about the article."""
 
@@ -150,4 +187,10 @@ class Article():
             "|"+self.issn)
 
 
+def normalize_space(raw):
+    """Flatten all whitespace in a string."""
+
+    rx = re.compile('\s+')
+    cooked = rx.sub(' ', raw).strip()
+    return cooked
 
