@@ -36,7 +36,7 @@ def test_article_init():
     a.parse_atom_resources()
     assert_equals(len(a.resources), 1)    
     r = a.resources[0]
-    assert_is_none(r.description)
+    assert_equals(r.description, u'Il capitale culturale (ISSN: 2039-2362) \xe8 la rivista del Dipartimento di Beni Culturali dell\u2019Universit\xe0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\u2019arte) unite dal comune obiettivo della implementazione di attivit\xe0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.')
     assert_equals(len(r.identifiers), 1)
     assert_equals(r.identifiers['issn'], u'2039-2362')
     assert_equals(r.domain, 'www.unimc.it')

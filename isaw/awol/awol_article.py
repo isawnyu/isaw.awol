@@ -14,6 +14,7 @@ import pkg_resources
 import re
 import sys
 
+from bs4 import BeautifulSoup
 import unicodecsv as csv
 
 from isaw.awol.article import Article
@@ -105,6 +106,24 @@ class AwolArticle(Article):
         self.resources = resources
         return resources
 
+    def _parse_description(self, content_soup):
+        """Parse plain-text description from soup content."""
+
+        desc_node = content_soup.blockquote
+        desc_text = normalize_space(desc_node.get_text())
+        if desc_text == u'':
+            desc_node = content_soup.find_all('blockquote')[1]
+            desc_text = normalize_space(desc_node.get_text())
+            if desc_text == u'':
+                first_anchor = content_soup.a
+                nodes = [node for node in first_url.next_siblings if node.name not in ['a', 'h1', 'h2', 'h3', 'h4', 'hr']]
+                html = u'<div>' + first_anchor.text + u': ' + u''.join([unicode(node) for node in nodes]) + u'</div>'
+                soup = BeautifulSoup(html)
+                desc_text = normalize_space(soup.get_text())
+                if desc_text == u'':
+                    desc_text = normalize_space(content_soup.get_text())
+        return desc_text
+
     def _parse_resource(self, domain, url, title, content_soup):
         """Extract single resource from a blog post."""
 
@@ -114,7 +133,9 @@ class AwolArticle(Article):
         r.domain = domain
         r.url = url
         r.title = title
-        r.identifiers = self._parse_identifiers(content_soup.get_text())
+        content_text = content_soup.get_text()
+        r.identifiers = self._parse_identifiers(content_text)
+        r.description = self._parse_description(content_soup)
         #r.subordinate_resources = self._parse_sub_resources(content_soup)
         #raise Exception
         return r
