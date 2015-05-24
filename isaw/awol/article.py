@@ -117,7 +117,7 @@ class Article():
                 domains[0], 
                 [url for url in urls if domains[0] in url][0],
                 resource_title, 
-                self.soup.get_text())
+                self.soup)
             resources.append(resource)
         elif len(domains) > 1:
             # this article addresses multiple resources
@@ -130,7 +130,7 @@ class Article():
 
         return resources
 
-    def _extract_single_resource(self, domain, url, title, content):
+    def _extract_single_resource(self, domain, url, title, content_soup):
         """Extract single resource from a blog post."""
 
         logger = logging.getLogger(sys._getframe().f_code.co_name)
@@ -139,7 +139,7 @@ class Article():
         r.domain = domain
         r.url = url
         r.title = title
-        r.identifiers = self._parse_identifiers_from_awol(content)
+        r.identifiers = self._parse_identifiers_from_awol(content_soup.get_text())
         return r
 
     def _parse_rtitle_from_ptitle(self):
@@ -155,12 +155,12 @@ class Article():
         else:
             return title
 
-    def _parse_identifiers_from_awol(self, content):
+    def _parse_identifiers_from_awol(self, content_text):
         """Parse identifying strings of interest from an AWOL blog post."""
 
         identifiers = {}
         for k,rx in RX_IDENTIFIERS.iteritems():
-            idents = list(set([normalize_space(s) for s in rx['findall'].findall(content)]))
+            idents = list(set([normalize_space(s) for s in rx['findall'].findall(content_text)]))
             if len(idents) == 1:
                 m = rx['match'].match(idents[0])
                 if len(m.groups()) == 1:
