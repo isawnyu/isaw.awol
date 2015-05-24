@@ -138,10 +138,7 @@ class Article():
         r = Resource()
         r.domain = domain
         r.url = url
-        if title is not None:
-            r.title = title
-        else:
-            logger.debug("No title is being set!")
+        r.title = title
         r.identifiers = self._parse_identifiers_from_awol(content)
         return r
 
