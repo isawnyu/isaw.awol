@@ -168,7 +168,7 @@ class Article():
                 else:
                     logger.warning('Unexpected disaster trying to parse {0} from "{1}"'.format(k, idents[0]))
             elif len(idents) > 1:
-                flagged_idents = [ident for ident in idents if lambda s: len([f for f in rx['pref_flags'] if f in s]) > 0]
+                flagged_idents = [ident for ident in idents if lambda s: len([f for f in rx['pref_flags'] if f in s.lower()]) > 0]
                 if len(flagged_idents) == 1:
                     m = rx['match'].match(flagged_idents[0])
                     if len(m.groups()) == 1:
