@@ -141,23 +141,7 @@ class Article():
             r.title = title
         else:
             logger.debug("No title is being set!")
-        content = self.content
-        for k,rx in RX_IDENTIFIERS.iteritems():
-            idents = list(set([normalize_space(s) for s in rx['findall'].findall(content)]))
-            if len(idents) == 1:
-                m = rx['match'].match(idents[0])
-                if len(m.groups()) == 1:
-                    r.identifiers[k] = m.groups()[0]
-                else:
-                    logger.warning('Unexpected disaster trying to parse {0} from "{1}"'.format(k, idents[0]))
-            elif len(idents) > 1:
-                flagged_idents = [ident for ident in idents if lambda s: len([f for f in rx['pref_flags'] if f in s]) > 0]
-                if len(flagged_idents) == 1:
-                    m = rx['match'].match(flagged_idents[0])
-                    if len(m.groups()) == 1:
-                        r.identifiers[k] = m.groups()[0]
-                    else:
-                        logger.warning('Unexpected disaster trying to parse {0} from "{1}"'.format(k, flagged_idents[0]))
+        r.identifiers = self._parse_identifiers_from_awol(self.soup.get_text())
         return r
 
     def _parse_rtitle_from_ptitle(self):
@@ -173,11 +157,27 @@ class Article():
         else:
             return title
 
-    def _parse_identifiers_from_awol(self):
+    def _parse_identifiers_from_awol(self, content):
         """Parse identifying strings of interest from an AWOL blog post."""
 
-        content = self.soup.get_text()
-
+        identifiers = {}
+        for k,rx in RX_IDENTIFIERS.iteritems():
+            idents = list(set([normalize_space(s) for s in rx['findall'].findall(content)]))
+            if len(idents) == 1:
+                m = rx['match'].match(idents[0])
+                if len(m.groups()) == 1:
+                    identifiers[k] = m.groups()[0]
+                else:
+                    logger.warning('Unexpected disaster trying to parse {0} from "{1}"'.format(k, idents[0]))
+            elif len(idents) > 1:
+                flagged_idents = [ident for ident in idents if lambda s: len([f for f in rx['pref_flags'] if f in s]) > 0]
+                if len(flagged_idents) == 1:
+                    m = rx['match'].match(flagged_idents[0])
+                    if len(m.groups()) == 1:
+                        identifiers[k] = m.groups()[0]
+                    else:
+                        logger.warning('Unexpected disaster trying to parse {0} from "{1}"'.format(k, flagged_idents[0]))
+        return identifiers
 
     def __str__(self):
         """Print all data about the article."""
