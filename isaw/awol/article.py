@@ -116,7 +116,8 @@ class Article():
             resource = self._extract_single_resource(
                 domains[0], 
                 [url for url in urls if domains[0] in url][0],
-                resource_title )
+                resource_title, 
+                self.soup.get_text())
             resources.append(resource)
         elif len(domains) > 1:
             # this article addresses multiple resources
@@ -129,7 +130,7 @@ class Article():
 
         return resources
 
-    def _extract_single_resource(self, domain, url, title=None):
+    def _extract_single_resource(self, domain, url, title, content):
         """Extract single resource from a blog post."""
 
         logger = logging.getLogger(sys._getframe().f_code.co_name)
@@ -141,7 +142,7 @@ class Article():
             r.title = title
         else:
             logger.debug("No title is being set!")
-        r.identifiers = self._parse_identifiers_from_awol(self.soup.get_text())
+        r.identifiers = self._parse_identifiers_from_awol(content)
         return r
 
     def _parse_rtitle_from_ptitle(self):
