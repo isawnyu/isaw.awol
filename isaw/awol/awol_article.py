@@ -18,6 +18,7 @@ import re
 import sys
 
 from bs4 import BeautifulSoup
+import langid
 import unicodecsv
 
 from isaw.awol.article import Article
@@ -154,6 +155,7 @@ class AwolArticle(Article):
         r.identifiers = self._parse_identifiers(content_text)
         r.description = self._parse_description(content_soup)
         r.keywords = self._parse_tags(self.title, self.categories, content_text) 
+        r.language = langid.classify(r.description)
         #r.subordinate_resources = self._parse_sub_resources(content_soup)
         #raise Exception
         return r
