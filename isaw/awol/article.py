@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-Define classes and methods for working with AWOL blog articles.
+Working with blog posts.
 
 This module defines the following classes:
  
- * Article: represents key information about the article.
+ * Article: represents key information about the post.
 """
 
 import logging
@@ -15,179 +15,50 @@ import sys
 
 from bs4 import BeautifulSoup
 from lxml import etree as exml
-import pkg_resources
-import unicodecsv as csv
 
-from isaw.awol.resource import Resource
-
-DOMAINS_TO_IGNORE = [
-    'draft.blogger.com'
-]
-DOMAINS_NOT_PRIMARY = [
-    'ancientworldonline.blogspot.com'
-]
-RX_MATCH_DOMAIN = re.compile('^https?:\/\/([^/#]+)')
-RX_IDENTIFIERS = {
-    'issn': {
-        'findall': re.compile(r'issn[^\d]*[\dX]{4}-?[\dX]{4}', re.IGNORECASE),
-        'match': re.compile(r'issn[^\d]*([\dX]{4}-?[\dX]{4})', re.IGNORECASE),
-        'pref_flags' : ['electrón', 'électron', 'electron', 'digital', 'online']
-    }
-} 
-
-# Build a dictionary of format {<column prefix>:<list of cols 2,3 and 4>}
-colon_prefix_csv = pkg_resources.resource_stream('isaw.awol', 'awol_colon_prefixes.csv')
-dreader = csv.DictReader(
-    colon_prefix_csv,
-    fieldnames = [
-        'col_pre', 
-        'omit_post', 
-        'strip_title', 
-        'mul_res'
-    ], 
-    delimiter = ',', 
-    quotechar = '"')
-COLUMN_PREFIXES = dict()
-for row in dreader:
-    COLUMN_PREFIXES.update({
-        row['col_pre']:
-            [
-                row['omit_post'], 
-                row['strip_title'], 
-                row['mul_res']
-            ]
-    })
-del dreader
+from isaw.awol.normalize_space import normalize_space
 
 class Article():
-    """Represent all data that is important about an AWOL blog article."""
+    """Manipulate and extract data from a blog post."""
 
-    def __init__(self, file_name):
-        """Verify and open file."""
-        with open(file_name, 'r') as file_object:
-            self.doc = exml.parse(file_object)
-        self.root = self.doc.getroot()
-        self.identifiers = {}
+    def __init__(self, atom_file_name=None, json_file_name=None):
+        """Load post from Atom entry or JSON and extract basic info.
 
-    def parse(self):
-        """Parse desired components out of the file.
-
-        Method looks for the following components and saves their values as
-        attributes of the object:
+        The method looks for the following components and saves their 
+        values as attributes of the object:
 
             * id (string): unique identifier for the blog post
             * title (unicode): title of the blog post
             * url (unicode): url of the blog post
             * categories (list of unicode strings): categories assigned to
               the blog post
-            * content (string): raw content of the blog post
-            * resources (list of resource objects): information about each
-              web resource found mentioned in the article content
-
+            * content (string): raw text content of the blog post
+            * soup: soupified content of the blog post.
         """
 
-        root = self.root
-        self.id = root.find('{http://www.w3.org/2005/Atom}id').text
-        self.title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text)
-        self.url = unicode(root.xpath("//*[local-name()='link' and @rel='alternate']")[0].get('href'))
-        self.categories = [{'vocabulary' : c.get('scheme'), 'term' : c.get('term')} for c in root.findall('{http://www.w3.org/2005/Atom}category')]
-        self.content = normalize_space(root.find('{http://www.w3.org/2005/Atom}content').text)
-        self.resources = self.get_resources()
-
-    def get_resources(self):
-        """Identify all the resources mentioned in this article."""
-
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-        resources = []
-        soup = BeautifulSoup(self.content)
-        self.soup = soup
-        anchors = [a for a in soup.find_all('a')]
-        urls = [a.get('href') for a in anchors]
-        for url in urls:
-            m = RX_MATCH_DOMAIN.match(url)
-            logger.debug('url "{0}" yields domain "{1}"'.format(url, m.group(1)))
-        domains = list(set([RX_MATCH_DOMAIN.match(url).group(1) for url in urls]))
-        domains = [d for d in domains 
-            if d not in DOMAINS_TO_IGNORE 
-            and d not in DOMAINS_NOT_PRIMARY]
-        if len(domains) == 1:
-            # this is an article about a single resource
-            resource_title = self._parse_rtitle_from_ptitle()
-            resource = self._extract_single_resource(
-                domains[0], 
-                [url for url in urls if domains[0] in url][0],
-                resource_title, 
-                self.soup)
-            resources.append(resource)
-        elif len(domains) > 1:
-            # this article addresses multiple resources
-            pass
-        else:
-            # this article addresses no external resource
-            pass
-
-
-
-        return resources
-
-    def _extract_single_resource(self, domain, url, title, content_soup):
-        """Extract single resource from a blog post."""
-
         logger = logging.getLogger(sys._getframe().f_code.co_name)
 
-        r = Resource()
-        r.domain = domain
-        r.url = url
-        r.title = title
-        r.identifiers = self._parse_identifiers_from_awol(content_soup.get_text())
-        r.subordinate_resources = self._extract_subordinate_resources_from_awol(content_soup)
-        raise Exception
-        return r
+        if atom_file_name is not None:
+            if json_file_name is not None:
+                logger.warning(
+                    'Filenames for both Atom and JSON were specified'
+                    + ' in Article constructor. JSON filename ignored.')
+            with open(atom_file_name, 'r') as file_object:
+                self.doc = exml.parse(file_object)
+            self.root = self.doc.getroot()
+            root = self.root
+            self.id = root.find('{http://www.w3.org/2005/Atom}id').text.strip()
+            self.title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text).strip()
+            self.url = unicode(root.xpath("//*[local-name()='link' and @rel='alternate']")[0].get('href'))
+            self.categories = [{'vocabulary' : c.get('scheme'), 'term' : c.get('term')} for c in root.findall('{http://www.w3.org/2005/Atom}category')]
+            self.content = normalize_space(root.find('{http://www.w3.org/2005/Atom}content').text)
+            self.soup = BeautifulSoup(self.content)
+        elif json_file_name is not None:
+            # todo
+            emsg = 'Article constructor does not yet support JSON.'
+            logger.error(emsg)
+            raise NotImplementedError(emsg)
 
-    def _extract_subordinate_resources_from_awol(self, content_soup):
-        """Extract subordinate resources."""
-
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-
-        anchors = [a for a in content_soup.find_all('a')]
-        urls = [a.get('href') for a in anchors[1:]]
-        for url in urls:
-            logger.debug('url is: {0}'.format(url))
-
-    def _parse_rtitle_from_ptitle(self):
-        """Parse resource title from post title."""
-
-        title = unicode(self.root.find('{http://www.w3.org/2005/Atom}title').text)
-        #Check if record needs to be eliminated from zotero OR
-        #resource title needs to be stripped
-        if ':' in title:
-            colon_prefix = title.split(':')[0]
-            if colon_prefix in COLUMN_PREFIXES.keys() and (COLUMN_PREFIXES[colon_prefix])[1] == 'yes':
-                return (title.split(':')[1]).strip()
-        else:
-            return title
-
-    def _parse_identifiers_from_awol(self, content_text):
-        """Parse identifying strings of interest from an AWOL blog post."""
-
-        identifiers = {}
-        for k,rx in RX_IDENTIFIERS.iteritems():
-            idents = list(set([normalize_space(s) for s in rx['findall'].findall(content_text)]))
-            if len(idents) == 1:
-                m = rx['match'].match(idents[0])
-                if len(m.groups()) == 1:
-                    identifiers[k] = m.groups()[0]
-                else:
-                    logger.warning('Unexpected disaster trying to parse {0} from "{1}"'.format(k, idents[0]))
-            elif len(idents) > 1:
-                flagged_idents = [ident for ident in idents if lambda s: len([f for f in rx['pref_flags'] if f in s.lower()]) > 0]
-                if len(flagged_idents) == 1:
-                    m = rx['match'].match(flagged_idents[0])
-                    if len(m.groups()) == 1:
-                        identifiers[k] = m.groups()[0]
-                    else:
-                        logger.warning('Unexpected disaster trying to parse {0} from "{1}"'.format(k, flagged_idents[0]))
-        return identifiers
 
     def __str__(self):
         """Print all data about the article."""
@@ -196,11 +67,4 @@ class Article():
             self.content+"|"+self.url+"|"+self.blogUrl+"|"+self.template+
             "|"+self.issn)
 
-
-def normalize_space(raw):
-    """Flatten all whitespace in a string."""
-
-    rx = re.compile('\s+')
-    cooked = rx.sub(' ', raw).strip()
-    return cooked
 
