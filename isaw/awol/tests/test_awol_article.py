@@ -42,6 +42,7 @@ def test_article_init():
     assert_equals(r.domain, 'www.unimc.it')
     assert_is_instance(r.subordinate_resources, list)
     assert_is_instance(r.keywords, list)
+    assert_equals(r.keywords, [u'Journal', u'Open Access'])
     assert_is_none(r.language)
     assert_is_instance(r.related_resources, list)
     assert_equals(r.title, 'Il capitale culturale')

@@ -9,21 +9,26 @@ This module defines the following classes:
 
 """
 
+import codecs
+#import csv
 import logging
+import os
 import pkg_resources
 import re
 import sys
 
 from bs4 import BeautifulSoup
-import unicodecsv as csv
+import unicodecsv
 
 from isaw.awol.article import Article
 from isaw.awol.normalize_space import normalize_space
 from isaw.awol.resource import Resource
 
+
+PATH_CURRENT = os.path.dirname(os.path.abspath(__file__))
 # Build a dictionary of format {<colon prefix>:<list of cols 2,3 and 4>}
 colon_prefix_csv = pkg_resources.resource_stream('isaw.awol', 'awol_colon_prefixes.csv')
-dreader = csv.DictReader(
+dreader = unicodecsv.DictReader(
     colon_prefix_csv,
     fieldnames = [
         'col_pre', 
@@ -58,7 +63,19 @@ RX_IDENTIFIERS = {
         'pref_flags' : ['electrón', 'électron', 'electron', 'digital', 'online']
     }
 }
-
+title_strings_csv = pkg_resources.resource_stream('isaw.awol', 'awol_title_strings.csv')
+dreader = unicodecsv.DictReader(
+    title_strings_csv,
+    fieldnames = [
+        'titles', 
+        'tags'
+    ], 
+    delimiter = ',', 
+    quotechar = '"')
+TITLE_SUBSTRING_TAGS = dict()
+for row in dreader:
+    TITLE_SUBSTRING_TAGS.update({row['titles']:row['tags']})
+del dreader
 
 class AwolArticle(Article):
     """Manipulate and extract data from an AWOL blog post."""
@@ -136,9 +153,60 @@ class AwolArticle(Article):
         content_text = content_soup.get_text()
         r.identifiers = self._parse_identifiers(content_text)
         r.description = self._parse_description(content_soup)
+        r.keywords = self._parse_tags(self.title, self.categories, content_text) 
         #r.subordinate_resources = self._parse_sub_resources(content_soup)
         #raise Exception
         return r
+
+    def _parse_tags(self, post_title, post_categories, content_text):
+        """Infer and normalize resource tags."""
+
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+
+        tags = []
+        # mine post title for tags
+        lower_title = post_title.lower()
+        for k in TITLE_SUBSTRING_TAGS.keys():
+            if k in lower_title:
+                tag = TITLE_SUBSTRING_TAGS[k]
+        tags.append(tag)
+        if u'open' in lower_title and u'access' in lower_title:
+            if u'partial' in lower_title:
+                tags.append(u'Mixed Access')
+            else:
+                tags.append(u'Open Access')
+        if 'series' in lower_title and 'lecture' not in lower_title:
+            tags.append(u'Series')
+
+        # convert post categories to tags
+        for c in post_categories:    
+            tag = c['term'].lower()
+            if 'kind#post' not in tag:
+                if tag in TITLE_SUBSTRING_TAGS.keys():
+                    tag = TITLE_SUBSTRING_TAGS[tag]
+                else:
+                    tag = (tag if tag == tag.upper() else tag.title())
+                tags.append(tag)
+
+        # mine post content for tags
+        lower_content = content_text.lower()
+        for k in TITLE_SUBSTRING_TAGS.keys():
+            if k in lower_content:
+                tag = TITLE_SUBSTRING_TAGS[k]
+        tags.append(tag)
+
+        # deal with special cases
+
+
+        tags = list(set(tags))
+        keywords = []
+        for tag in tags:
+            if ',' in tag:
+                keywords.extend(tag.split(','))
+            else:
+                keywords.append(tag)
+        keywords = list(set(keywords))
+        return keywords
 
     def _parse_sub_resources(self, content_soup):
         """Extract subordinate resources."""
