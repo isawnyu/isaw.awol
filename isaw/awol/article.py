@@ -140,7 +140,19 @@ class Article():
         r.url = url
         r.title = title
         r.identifiers = self._parse_identifiers_from_awol(content_soup.get_text())
+        r.subordinate_resources = self._extract_subordinate_resources_from_awol(content_soup)
+        raise Exception
         return r
+
+    def _extract_subordinate_resources_from_awol(self, content_soup):
+        """Extract subordinate resources."""
+
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+
+        anchors = [a for a in content_soup.find_all('a')]
+        urls = [a.get('href') for a in anchors[1:]]
+        for url in urls:
+            logger.debug('url is: {0}'.format(url))
 
     def _parse_rtitle_from_ptitle(self):
         """Parse resource title from post title."""
