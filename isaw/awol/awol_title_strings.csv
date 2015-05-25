@@ -14,13 +14,13 @@ museum,museums
 research,
 revista,journal
 classical,classics
-greek,greek
+greek,Greek
 archive,archive
-roman,roman
+roman,Roman
 texts,
 collection,
 history,history
-egypt,egypt
+egypt,Egypt
 inscriptions,epigraphy
 jstor,JSTOR
 revue,journal
@@ -42,7 +42,7 @@ egyptian,egyptology
 resources,
 administrative,
 antiquity,antiquity
-biblical,bible
+biblical,"bible, religion"
 heritage,heritage
 amar,Amar
 arqueología,archeaology
@@ -50,7 +50,7 @@ latin,Latin
 conference,conference
 publication,
 rome,Rome
-mediterranean,mediterranean
+mediterranean,Mediterranean
 catalogue,catalogue
 reports,reports
 humanities,
@@ -67,7 +67,7 @@ proceedings,proceedings
 anthropology,anthropology
 antiquities,antiquities
 backlist,backlist
-bible,"bible, religion"
+bible,"Bible, religion"
 papyri,papyrology
 sudan,Sudan
 athens,Athens
@@ -126,7 +126,7 @@ homer,Homer
 iranian,Iran
 islamic,Islam
 lexicon,lexicon
-méditerranée,mediterranean
+méditerranée,Mediterranean
 storia,history
 syrian,Syria
 temples,religion
@@ -135,7 +135,7 @@ zeitschrift,journal
 aja,AJA
 anthropological,anthropology
 asia,Asia
-coptic,"coptic, egyptology"
+coptic,"Coptic, egyptology"
 dumbarton oaks,Dumbarton Oaks
 encyclopedia,encyclopedia
 excavation,archaeology
@@ -236,7 +236,7 @@ jewish,Judaisim
 latinarum,Latin
 lawdi,"LAWDI, LOD, open data"
 linguistics,linguistics
-musée,museum
+musée,museums
 neoassyrian,Neoassyrian
 newsletters,newsletter
 papyrology,papyrology
@@ -307,7 +307,7 @@ historica,history
 imaging,imagery
 inscriptionum,epigraphy
 iranica,Iran
-judaism,Judaisim
+judaism,"Judaisim, religion"
 latinorum,Latin
 mediaevalia,Middle Ages
 medinet,
