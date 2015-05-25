@@ -99,12 +99,11 @@ class AwolArticle(Article):
         resources = []
 
         title = self.title
-        if u':' in title:
-            colon_prefix = title.split(u':')[0].lower()
-            if colon_prefix in COLON_PREFIXES.keys() and (COLON_PREFIXES[colon_prefix])[0] == 'yes':
-                logger.warning('Title prefix "{0}" was found in COLON_PREFIXES with omit=yes.'
-                    + ' No resources will be extracted.')
-                return resources
+        colon_prefix = title.split(u':')[0].lower()
+        if colon_prefix in COLON_PREFIXES.keys() and (COLON_PREFIXES[colon_prefix])[0] == 'yes':
+            logger.warning('Title prefix "{0}" was found in COLON_PREFIXES with omit=yes.'
+                + ' No resources will be extracted.')
+            return resources
 
         soup = self.soup
         anchors = [a for a in soup.find_all('a')]
