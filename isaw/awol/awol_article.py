@@ -109,11 +109,12 @@ class AwolArticle(Article):
         soup = self.soup
         anchors = [a for a in soup.find_all('a')]
         urls = [a.get('href') for a in anchors]
-        domains = list(set([RX_MATCH_DOMAIN.match(url).group(1) for url in list(set(urls))]))
+        urls = list(set(urls))
+        domains = list(set([RX_MATCH_DOMAIN.match(url).group(1) for url in urls]))
         domains = [d for d in domains 
             if d not in DOMAINS_TO_IGNORE 
             and d not in DOMAINS_SECONDARY]
-        if len(domains) == 1 and u'www.jstor.org' in domains[0]:
+        if len(domains) == 1 and len(urls) > 1 and u'www.jstor.org' in domains[0]:
             # this article is about an aggregator: parse for multiple resources
             for a in [a for a in anchors if domains[0] in a.get('href')]:
                 nodes = [node for node in a.next_siblings if node.name not in ['a', 'h1', 'h2', 'h3', 'h4', 'hr']]
