@@ -28,7 +28,7 @@ def teardown_function():
     pass
 
 @with_setup(setup_function, teardown_function)
-def test_article_init():
+def test_awol_article_init():
     """Ensure class parse method gets all desired fields."""
 
     file_name = os.path.join(PATH_TEST_DATA, 'post-capitale-culturale.xml')
@@ -42,7 +42,7 @@ def test_article_init():
     assert_equals(r.domain, 'www.unimc.it')
     assert_is_instance(r.subordinate_resources, list)
     assert_is_instance(r.keywords, list)
-    assert_equals(r.keywords, [u'Journal', u'Open Access'])
+    assert_equals(r.keywords, [u'antiquity', u'archaeology', u'art', u'cultural heritage', u'culture', u'heritage', u'history', u'journal', u'law', u'museums', u'open access'])
     assert_equals(r.language, ('it', 1.0))
     assert_is_instance(r.related_resources, list)
     assert_equals(r.title, 'Il capitale culturale')
