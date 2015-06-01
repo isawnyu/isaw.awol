@@ -39,4 +39,34 @@ def test_resource_init():
     assert_is_none(r.url)
     assert_is_none(r.zotero_id)
 
+@with_setup(setup_function, teardown_function)
+def test_json_dumps():
+    """Ensure json serialization works."""
+
+    r = resource.Resource()
+    r.description = unicode("Il capitale culturale (ISSN: 2039-2362) \u00e8 la rivista del Dipartimento di Beni Culturali dell\u2019Universit\u00e0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\u2019arte) unite dal comune obiettivo della implementazione di attivit\u00e0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.")
+    r.domain = "www.unimc.it"
+    r.identifiers = {"issn": "2039-2362"}
+    r.keywords = [
+    "antiquity", 
+        "archaeology", 
+        "art", 
+        "cultural heritage", 
+        "culture", 
+        "heritage", 
+        "history", 
+        "journal", 
+        "law", 
+        "museums", 
+        "open access"
+    ]
+    r.language = ['it', 1.0]
+    r.related_resources = []
+    r.subordinate_resources = []
+    r.title = unicode("Il capitale culturale")
+    r.url = unicode("http://www.unimc.it/riviste/index.php/cap-cult/index")
+    r.zotero_id = None 
+    js = r.json_dumps()
+    assert_equals(js, '{"subordinate_resources": [], "domain": "www.unimc.it", "description": "Il capitale culturale (ISSN: 2039-2362) \\\\u00e8 la rivista del Dipartimento di Beni Culturali dell\\\\u2019Universit\\\\u00e0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\\\\u2019arte) unite dal comune obiettivo della implementazione di attivit\\\\u00e0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.", "language": ["it", 1.0], "title": "Il capitale culturale", "url": "http://www.unimc.it/riviste/index.php/cap-cult/index", "identifiers": {"issn": "2039-2362"}, "related_resources": [], "zotero_id": null, "keywords": ["antiquity", "archaeology", "art", "cultural heritage", "culture", "heritage", "history", "journal", "law", "museums", "open access"], "history": []}')
+
 
