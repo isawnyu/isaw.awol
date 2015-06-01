@@ -258,7 +258,7 @@ class AwolArticle(Article):
             tag = c['term'].lower()
             if 'kind#post' not in tag:
                 if tag in TITLE_SUBSTRING_TAGS.keys():
-                    tag = TITLE_SUBSTRING_TAGS[tag].lower()
+                    tag = TITLE_SUBSTRING_TAGS[tag]
                 else:
                     tag = (tag if tag == tag.upper() else tag.title())
                 tags.append(tag)
