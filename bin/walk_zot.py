@@ -69,8 +69,8 @@ def main (args):
                             logger.debug(repr(r))
                         r.zotero_add(zot, creds, extras={'awol':a.url, 'entry':a.id})
                         print '    parse_count: {0}'.format(parse_count)
-                        if parse_count > 50:
-                            raise Exception
+                        #if parse_count > 50:
+                        #    raise Exception
             else:
                 logger.debug('skipping {0}'.format(file_name))
         for ignore_dir in ['.git', '.svn', '.hg']:
