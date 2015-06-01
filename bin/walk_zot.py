@@ -67,7 +67,10 @@ def main (args):
                         parse_count = parse_count + len(resources)
                         for r in resources:
                             logger.debug(repr(r))
-                        r.zotero_add(zot, creds, extras={'awol':a.url, 'entry':a.id})
+                            try:
+                                r.zotero_add(zot, creds, extras={'awol':a.url, 'entry':a.id})
+                            except AttributeError:
+                                logger.error("identity test failed; skipping")
                         print '    parse_count: {0}'.format(parse_count)
                         #if parse_count > 50:
                         #    raise Exception
