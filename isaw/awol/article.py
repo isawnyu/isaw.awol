@@ -49,10 +49,17 @@ class Article():
             root = self.root
             self.id = root.find('{http://www.w3.org/2005/Atom}id').text.strip()
             self.title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text).strip()
-            self.url = unicode(root.xpath("//*[local-name()='link' and @rel='alternate']")[0].get('href'))
+            try:
+                self.url = unicode(root.xpath("//*[local-name()='link' and @rel='alternate']")[0].get('href'))
+            except IndexError:
+                logger.warning('could not extract blog post URL')
             self.categories = [{'vocabulary' : c.get('scheme'), 'term' : c.get('term')} for c in root.findall('{http://www.w3.org/2005/Atom}category')]
-            self.content = normalize_space(root.find('{http://www.w3.org/2005/Atom}content').text)
-            self.soup = BeautifulSoup(self.content)
+            content = root.find('{http://www.w3.org/2005/Atom}content').text
+            if content is None:
+                logger.warning('could not extract content')
+            else:
+                self.content = normalize_space(root.find('{http://www.w3.org/2005/Atom}content').text)
+                self.soup = BeautifulSoup(self.content)
         elif json_file_name is not None:
             # todo
             emsg = 'Article constructor does not yet support JSON.'
