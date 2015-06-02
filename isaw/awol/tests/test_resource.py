@@ -69,4 +69,34 @@ def test_json_dumps():
     js = r.json_dumps()
     assert_equals(js, '{"subordinate_resources": [], "domain": "www.unimc.it", "description": "Il capitale culturale (ISSN: 2039-2362) \\\\u00e8 la rivista del Dipartimento di Beni Culturali dell\\\\u2019Universit\\\\u00e0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\\\\u2019arte) unite dal comune obiettivo della implementazione di attivit\\\\u00e0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.", "language": ["it", 1.0], "title": "Il capitale culturale", "url": "http://www.unimc.it/riviste/index.php/cap-cult/index", "identifiers": {"issn": "2039-2362"}, "related_resources": [], "zotero_id": null, "keywords": ["antiquity", "archaeology", "art", "cultural heritage", "culture", "heritage", "history", "journal", "law", "museums", "open access"], "history": []}')
 
+@with_setup(setup_function, teardown_function)
+def test_json_load():
+    """Ensure json read from file works."""
+
+    r = resource.Resource()
+    path_json = os.path.join(PATH_TEST_DATA, 'il-capitale-culturale.json')
+    r.json_load(path_json)
+    assert_equals(r.description, u"Il capitale culturale (ISSN: 2039-2362) \u00e8 la rivista del Dipartimento di Beni Culturali dell\u2019Universit\u00e0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\u2019arte) unite dal comune obiettivo della implementazione di attivit\u00e0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.")
+    assert_equals(r.domain, "www.unimc.it")
+    assert_equals(r.identifiers, {"issn": "2039-2362"})
+    assert_equals(r.keywords, [
+    "antiquity", 
+        "archaeology", 
+        "art", 
+        "cultural heritage", 
+        "culture", 
+        "heritage", 
+        "history", 
+        "journal", 
+        "law", 
+        "museums", 
+        "open access"
+    ])
+    assert_equals(r.language, ['it', 1.0])
+    assert_equals(r.related_resources, [])
+    assert_equals(r.subordinate_resources, [])
+    assert_equals(r.title, u"Il capitale culturale")
+    assert_equals(r.url, u"http://www.unimc.it/riviste/index.php/cap-cult/index")
+    assert_is_none(r.zotero_id)
+
 
