@@ -105,11 +105,25 @@ class AwolArticle(Article):
                 + ' No resources will be extracted.')
             return resources
 
-        soup = self.soup
+        try:
+            soup = self.soup
+        except AttributeError:
+            logger.warning('could not parse content None')
+            return None
         anchors = [a for a in soup.find_all('a')]
-        urls = [a.get('href') for a in anchors]
+        anchors = [a for a in anchors if a.get('href') is not None]
+        urls = [a.get('href') for a in anchors if a.get('href') is not None]
         unique_urls = list(set(urls))
-        domains = list(set([RX_MATCH_DOMAIN.match(url).group(1) for url in urls]))
+        domains = []
+        for url in urls:
+            m = RX_MATCH_DOMAIN.match(url)
+            try:
+                domain = m.group(1)
+            except AttributeError:
+                pass
+            else:
+                domains.append(domain)
+        domains = list(set(domains))
         domains = [d for d in domains 
             if d not in DOMAINS_TO_IGNORE 
             and d not in DOMAINS_SECONDARY]
@@ -136,15 +150,15 @@ class AwolArticle(Article):
             resources.append(resource)
         elif len(domains) > 1:
             # this article addresses multiple resources
-            emsg = 'This post {0} appears to address multiple'
-            + ' resources. Support for parsing these is not yet'
+            emsg = 'This post {0} appears to address multiple' \
+            + ' resources. Support for parsing these is not yet' \
             + ' implemented.'
             emsg = emsg.format(self.id)
             logger.error(emsg)
             raise NotImplementedError(emsg)
         else:
             # this article addresses no external resource
-            emsg = 'This post ({0}) appears not to address any'
+            emsg = 'This post ({0}) appears not to address any' \
             + ' external resources. It has been ignored.'
             emsg = emsg.format(self.id)
             logger.warning(emsg)
@@ -195,13 +209,26 @@ class AwolArticle(Article):
         r.identifiers = self._parse_identifiers(content_text)
         r.description = self._parse_description(content_soup)
         r.keywords = self._parse_tags(self.title, title, self.categories, content_text) 
-        language = langid.classify(u' '.join((r.title, r.description)))
+        s = u''
+        try:
+            s = u'{0}'.format(r.title)
+        except TypeError:
+            pass
+        try:
+            s = s + u' {0}'.format(r.description)
+        except TypeError:
+            pass
+        language = langid.classify(s)
         if language[1] >= LANGID_THRESHOLD:
             r.language = language
         #r.subordinate_resources = self._parse_sub_resources(content_soup)
         #raise Exception
-        r.append_event(
-            'Data automatically parsed from content of {0}.'.format(self.url))
+        try:
+            r.append_event(
+                'Data automatically parsed from content of {0}.'.format(self.url))
+        except AttributeError:
+            r.append_event(
+                'Data automatically parsed from content of {0}.'.format(self.id))
         return r
 
     def _parse_tags(self, post_title, resource_title, post_categories, resource_text):
@@ -212,25 +239,26 @@ class AwolArticle(Article):
         tags = []
         # mine titles and resource-related post content for tags
         for s in (post_title, resource_title, resource_text):
-            lower_s = s.lower()
-            for k in TITLE_SUBSTRING_TAGS.keys():
-                if k in lower_s:
-                    tag = TITLE_SUBSTRING_TAGS[k]
-                    tags.append(tag)
-            if u'open' in lower_s and u'access' in lower_s:
-                if u'partial' in lower_s:
-                    tags.append(u'mixed access')
-                else:
-                    tags.append(u'open access')
-            if 'series' in lower_s and 'lecture' not in lower_s:
-                tags.append(u'series')
+            if s is not None:
+                lower_s = s.lower()
+                for k in TITLE_SUBSTRING_TAGS.keys():
+                    if k in lower_s:
+                        tag = TITLE_SUBSTRING_TAGS[k]
+                        tags.append(tag)
+                if u'open' in lower_s and u'access' in lower_s:
+                    if u'partial' in lower_s:
+                        tags.append(u'mixed access')
+                    else:
+                        tags.append(u'open access')
+                if 'series' in lower_s and 'lecture' not in lower_s:
+                    tags.append(u'series')
 
         # convert post categories to tags
         for c in post_categories:    
             tag = c['term'].lower()
             if 'kind#post' not in tag:
                 if tag in TITLE_SUBSTRING_TAGS.keys():
-                    tag = TITLE_SUBSTRING_TAGS[tag].lower()
+                    tag = TITLE_SUBSTRING_TAGS[tag]
                 else:
                     tag = (tag if tag == tag.upper() else tag.title())
                 tags.append(tag)

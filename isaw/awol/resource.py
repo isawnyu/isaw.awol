@@ -9,6 +9,7 @@ This module defines the following classes:
 """
 
 import datetime
+import json
 import logging
 import sys
 
@@ -32,6 +33,30 @@ class Resource:
         self.title = None
         self.url = None
         self.zotero_id = None
+
+    def json_dumps(self, formatted=False):
+        """Dump resource to JSON as a UTF-8 string."""
+        if formatted:
+            return json.dumps(self.__dict__, indent=4, sort_keys=True)
+        else:
+            return json.dumps(self.__dict__)
+
+    def json_dump(self, filename, formatted=False):
+        """Dump resource as JSON to a file."""
+        with open(filename, 'w') as f:
+            if formatted:
+                json.dump(self.__dict__, f, indent=4, sort_keys=True)
+            else:
+                json.dump(self.__dict__, f)
+
+    def json_loads(self, s):
+        """Parse resource from a UTF-8 JSON string."""
+        self.__dict__ = json.loads(s)
+
+    def json_load(self, filename):
+        """Parse resource from a json file."""
+        with open(filename, 'r') as f:
+            self.__dict__ = json.load(f)
 
     def zotero_add(self, zot, creds, extras={}):
         """Upload as a record to Zotero."""
@@ -95,7 +120,7 @@ class Resource:
 
     def __str__(self):
         
-        s = """
+        s = u"""
         title: {title}
         url: {url}
         description : {description}
