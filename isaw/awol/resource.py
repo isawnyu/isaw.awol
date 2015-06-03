@@ -15,6 +15,10 @@ import sys
 
 from wikidata_suggest import suggest
 
+PROVENANCE_VERBS = {
+    'citesAsMetadataDocument': 'http://purl.org/spar/cito/citesAsMetadataDocument',
+    'citesAsDataSource': 'http://purl.org/spar/cito/citesAsDataSource'
+}
 
 class Resource:
     """Extract and represent key information about a web resource."""
@@ -29,6 +33,7 @@ class Resource:
         self.identifiers = {}
         self.keywords = []
         self.language = None
+        self.provenance = []
         self.related_resources = []
         self.title = None
         self.url = None
@@ -116,7 +121,23 @@ class Resource:
         else:
             return None
 
+    def set_provenance(self, object, verb='citesAsMetadataDocument', object_date=None, fields=None):
+        """Add an entry to the provenance list."""
 
+        d = {
+            'term': PROVENANCE_VERBS[verb],
+            'when': datetime.datetime.utcnow().isoformat(),
+            'resource': object
+        }
+        if object_date is not None:
+            d['resource_date'] = object_date
+        if fields is not None:
+            if fields is list:
+                d['fields'] = fields
+            else:
+                d['fields'] = list(fields)
+
+        self.provenance.append(d)
 
     def __str__(self):
         

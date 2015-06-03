@@ -34,6 +34,7 @@ def test_resource_init():
     assert_is_instance(r.identifiers, dict)
     assert_is_instance(r.keywords, list)
     assert_is_none(r.language)
+    assert_is_instance(r.provenance, list)
     assert_is_instance(r.related_resources, list)
     assert_is_none(r.title)
     assert_is_none(r.url)
