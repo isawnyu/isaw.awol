@@ -1,0 +1,50 @@
+{
+    "description": "Scenes of everyday life, archaeological digging and communal sports and recreation at Gebel (or Jebel) Moya, an archaeological site in the Sudan, excavated by Sir Henry Wellcome between 1911 and 1914 as a public works project. Includes scenes of Sir Henry bicycling surrounded by Sudanese children, inspecting the excavations and consulting with archaeologists and officials. 2 segments.", 
+    "domain": "www.youtube.com", 
+    "history": [
+        "2015-06-03T04:59:50.789634: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/06/archival-archaeological-film-gebel-moya.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Sudan", 
+        "archaeological site", 
+        "archaeology", 
+        "archives", 
+        "imagery", 
+        "video"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8560954782740944958", 
+            "resource_date": "2010-06-25T18:48:11.814-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:50.790225"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/06/archival-archaeological-film-gebel-moya.html", 
+            "resource_date": "2010-06-25T18:48:11.814-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:50.790233"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Gebel Moya Sudan 1912-1913", 
+    "url": "http://www.youtube.com/user/WellcomeFilm", 
+    "zotero_id": null
+}

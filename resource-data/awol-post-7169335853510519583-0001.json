@@ -1,0 +1,48 @@
+{
+    "description": "Die Pegasus-Onlinezeitschrift ist ein wissenschaftliches Periodikum zur Didaktik und Methodik der F\u00e4cher Latein und Griechisch, wird vom Deutschen Altphilologenverband herausgegeben und ist erstmals im Dezember 2000 erschienen. Die Pegasus-Onlinezeitschrift schafft eine Plattform zur ausf\u00fchrlichen und fundierten bildungstheoretischen Diskussion und didaktisch-methodischen Reflexion \u00fcber die F\u00e4cher Latein und Griechisch: Bildungstheoretische Er\u00f6rterung zu Fragen der Vergangenheit, Gegenwart und Zukunft des altsprachlichen Unterrichts: Dabei laden wir zu einer f\u00e4cher\u00fcbergreifenden Diskussion ein. Zudem wollen wir den Dialog zwischen Schule, Universit\u00e4t und Bildungspolitik f\u00f6rdern. Unterrichtspraxis: Beitr\u00e4ge sollen sich durch eine fundierte didaktische Begr\u00fcndung und Reflexion konkreter Unterrichtsinhalte sowie ihrer methodischen Umsetzung auszeichnen (z. B. Darstellung von Unterrichtssequenzen, methodisch aufbereiteten Textsammlungen, Projekten). Fachwissenschaftliche Beitr\u00e4ge: Ergebnisse fachwissenschaftlicher Forschung sollen f\u00fcr die Theorie und Praxis des altsprachlichen Unterrichts nutzbar gemacht werden und der F\u00f6rderung der Zusammenarbeit zwischen Schule und Universit\u00e4t dienen. Die Pegasus-Onlinezeitschrift will konsequent die Vorteile moderner Kommunikationstechnologie nutzen: geringe Produktionskosten, hoher Verbreitungsgrad, schneller und kostenloser Zugriff, M\u00f6glichkeit der individuellen Anpassung der angebotenen Materialien an den eigenen Lehr- und Lernkontext, schnelle und flexible Kommunikation zwischen Redaktion und Leserschaft. Die Pegasus-Onlinezeitschrift erscheint dreimal im Jahr und umfasst folgende Rubriken: Erga: Originalbeitr\u00e4ge Agora: Berichte, Leserbriefe und Anregungen Acta diurna: Newsletter Index: Suchfunktion von A bis Z Subsidia: Technische Hilfe Impressum", 
+    "domain": "www.pegasus-onlinezeitschrift.de", 
+    "history": [
+        "2015-06-03T04:59:44.664310: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-journal-pegasus.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "newsletter", 
+        "open access"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7169335853510519583", 
+            "resource_date": "2013-10-20T08:55:22.425-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:44.664845"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-pegasus.html", 
+            "resource_date": "2013-10-20T08:55:22.425-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:44.664854"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Pegasus-Onlinezeitschrift: Wissenschaftliches Periodikum zur Didaktik und Methodik der F\u00e4cher Latein und Griechisch", 
+    "url": "http://www.pegasus-onlinezeitschrift.de/", 
+    "zotero_id": null
+}

@@ -1,0 +1,50 @@
+{
+    "description": "The Institute of Archaeology, under the auspices of the School of Religion, is an academic unit that coordinates the archaeological programs of Southern Adventist University through an undergraduate academic degree, the Lynn H. Wood Archaeological Museum, the William G. Dever Research Library, and the Institute\u2019s archaeological excavations and publications.", 
+    "domain": "www.southern.edu", 
+    "history": [
+        "2015-06-03T04:59:44.358144: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-digsight-newsletter.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Wood", 
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "newsletter", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7068874484678243035", 
+            "resource_date": "2013-10-04T06:32:18.481-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:44.358686"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-digsight-newsletter.html", 
+            "resource_date": "2013-10-04T06:32:18.481-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:44.358694"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "DigSight Newsletter", 
+    "url": "https://www.southern.edu/archaeology/newss/Pages/news.aspx", 
+    "zotero_id": null
+}

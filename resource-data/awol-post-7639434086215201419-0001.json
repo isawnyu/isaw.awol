@@ -1,0 +1,53 @@
+{
+    "description": "ex oriente e.V. is a scientific society founded in 1994 by researchers of the Institutes of Near Eastern Archaeology and Ancient Oriental Studies at the Free University of Berlin. We are an independent organization encouraging interdisciplinary and transnational cooperation on the study of environmental history, ancient technologies, and the means of production and subsistence in the Near and Middle East.", 
+    "domain": "www.exoriente.org", 
+    "history": [
+        "2015-06-03T04:59:46.797162: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/08/ex-oriente.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Middle East", 
+        "Near East", 
+        "antiquity", 
+        "archaeology", 
+        "culture", 
+        "environment", 
+        "history", 
+        "prehistory", 
+        "project"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7639434086215201419", 
+            "resource_date": "2013-08-06T07:46:20.761-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:46.797756"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/ex-oriente.html", 
+            "resource_date": "2013-08-06T07:46:20.761-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:46.797765"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ex oriente", 
+    "url": "http://www.exoriente.org/", 
+    "zotero_id": null
+}

@@ -1,0 +1,49 @@
+{
+    "description": "STVDIA HISTORICA. HISTORIA ANTIGUA es una revista de Historia fundada en 1983 y cuyo objeto de estudio es la historia antigua romana e hisp\u00e1nica. Su actual directora es MAR\u00cdA JOSEFA HIDALGO DE LA VEGA, profesora de la Universidad de Salamanca. La revista tiene una periodicidad anual (1 volumen al a\u00f1o) y publica los textos en castellano, aunque todos sus art\u00edculos llevan, adem\u00e1s, el t\u00edtulo, el resumen y las palabras clave tambi\u00e9n en ingl\u00e9s. Publica siempre n\u00fameros monogr\u00e1ficos en torno a un tema de actualidad.", 
+    "domain": "campus.usal.es", 
+    "history": [
+        "2015-06-03T04:59:50.575345: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/02/open-access-journal-studia-historica.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Roman", 
+        "antiquity", 
+        "history", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8491952090308485872", 
+            "resource_date": "2012-02-15T06:24:08.528-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:50.575914"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/open-access-journal-studia-historica.html", 
+            "resource_date": "2012-02-15T06:24:08.528-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:50.575922"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Studia Historica. Historia Antigua", 
+    "url": "http://campus.usal.es/%7Erevistas_trabajo/index.php/0213-2052/index", 
+    "zotero_id": null
+}

@@ -1,0 +1,47 @@
+{
+    "description": "Mediterranean Studies (Arts & Sciences XI) http://www.jstor.org/action/showPublication?journalCode=mediterraneanstu Coverage: Vols. 1-15 (1989-2006) Moving Wall: 5 years Publisher: Pennsylvania State University Press ISSN: 1074-164X", 
+    "domain": "www.jstor.org", 
+    "history": [
+        "2015-06-03T04:59:23.519727: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "JSTOR", 
+        "Pennsylvania", 
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        0.9999999998835718
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2247526536842272315", 
+            "resource_date": "2012-06-15T12:47:49.856-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:23.520257"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html", 
+            "resource_date": "2012-06-15T12:47:49.856-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:23.520264"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "http://www.jstor.org/action/showPublication?journalCode=illiclasstud", 
+    "url": "http://www.jstor.org/action/showPublication?journalCode=illiclasstud", 
+    "zotero_id": null
+}

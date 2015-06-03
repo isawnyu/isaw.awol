@@ -1,0 +1,48 @@
+{
+    "description": "Issue No. 26 Issue No. 25 Issue No. 24 Issue No. 23 Issue No. 22 Issue No. 21 Issue No. 20", 
+    "domain": "rzblx1.uni-regensburg.de", 
+    "history": [
+        "2015-06-03T04:59:25.696372: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/10/open-access-journal-bulletin-of-israeli.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Cairo", 
+        "journal", 
+        "journal issues", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999722475
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2795047346613604575", 
+            "resource_date": "2009-10-07T11:59:48.552-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:25.696913"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journal-bulletin-of-israeli.html", 
+            "resource_date": "2009-10-07T11:59:48.552-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:25.696921"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bulletin of the Israeli Academic Center in Cairo", 
+    "url": "http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?bibid=AAAAA&colors=7&lang=en&jour_id=94717", 
+    "zotero_id": null
+}

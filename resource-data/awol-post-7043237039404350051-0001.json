@@ -1,0 +1,55 @@
+{
+    "description": "Vivarium is the home of digitized manuscripts, art, rare books, photographs, and other resources from two Benedictine monastic and educational communities in central Minnesota. It is a searchable database delivering a variety of digital objects. Vivarium was created and is maintained by the Hill Museum & Manuscript Library.", 
+    "domain": "www.hmml.org", 
+    "history": [
+        "2015-06-03T04:59:44.180051: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-libraries-vivarium.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Christianity", 
+        "Syriac", 
+        "data", 
+        "database", 
+        "imagery", 
+        "magic", 
+        "manuscripts", 
+        "materials", 
+        "museums", 
+        "open access", 
+        "project"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7043237039404350051", 
+            "resource_date": "2012-01-25T06:19:27.651-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:44.180699"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-libraries-vivarium.html", 
+            "resource_date": "2012-01-25T06:19:27.651-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:44.180708"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Vivarium", 
+    "url": "http://www.hmml.org/vivarium/", 
+    "zotero_id": null
+}

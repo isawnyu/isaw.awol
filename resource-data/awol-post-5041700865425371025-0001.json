@@ -1,0 +1,60 @@
+{
+    "description": "The Cooperative Digital Resources Initiative of the American Theological Library Association and Association of Theological Schools is a repository of digital resources contributed by member libraries. The creation of CDRI was made possible by a generous grant from the Henry Luce Foundation; it is now an ongoing ATLA program. The CDRI database provides access to digital images of woodcuts, photographs, slides, papyri, coins, maps, postcards, manuscripts, lithographs, sermons, shape-note tune books, and various forms of Christian art, architecture, and iconography.", 
+    "domain": "www.atla.com", 
+    "history": [
+        "2015-06-03T04:59:35.464938: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/atla-cooperative-digital-resources.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Ancient Near East", 
+        "Byzantium", 
+        "Christianity", 
+        "ETANA", 
+        "Mediterranean", 
+        "Near East", 
+        "antiquity", 
+        "bible", 
+        "data", 
+        "database", 
+        "imagery", 
+        "manuscripts", 
+        "numismatics", 
+        "papyrology", 
+        "religion", 
+        "theology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5041700865425371025", 
+            "resource_date": "2009-12-13T09:09:57.463-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:35.465586"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/atla-cooperative-digital-resources.html", 
+            "resource_date": "2009-12-13T09:09:57.463-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:35.465595"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ATLA Cooperative Digital Resources Initiative", 
+    "url": "http://www.atla.com/digitalresources/", 
+    "zotero_id": null
+}

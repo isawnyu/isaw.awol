@@ -1,0 +1,53 @@
+{
+    "description": "P@lethnologie est la premi\u00e8re revue bilingue de pr\u00e9histoire en ligne (fran\u00e7ais/anglais). Cette double volont\u00e9 (support num\u00e9rique et bilinguisme) est au service de la plus grande diffusion de travaux, en particulier de recherches francophones, aupr\u00e8s d'une large communaut\u00e9 scientifique. L'approche socio-culturelle des populations pr\u00e9historiques (celles des chasseurs-cueilleurs, pasteurs et agro-pasteurs) y est d\u00e9velopp\u00e9e gr\u00e2ce \u00e0 la grande diversit\u00e9 des sujets, des contextes g\u00e9ographiques ainsi que des disciplines envisag\u00e9s : analyse du mobilier arch\u00e9ologique, pal\u00e9oenvironnement, arch\u00e9ozoologie, art, \u00e9tude monographique de site... Ces annales proposent, au sein de chaque num\u00e9ro, un dossier th\u00e9matique, des contributions sur divers sujets qui composent l'actualit\u00e9 scientifique.", 
+    "domain": "www.palethnologie.org", 
+    "history": [
+        "2015-06-03T04:59:41.615118: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-plethnologie.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "French", 
+        "Palethnologie", 
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "journal issues", 
+        "monograph", 
+        "open access", 
+        "prehistory"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6426099762811138870", 
+            "resource_date": "2013-02-14T19:01:51.362-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:41.615659"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-plethnologie.html", 
+            "resource_date": "2013-02-14T19:01:51.362-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:41.615667"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "P@lethnologie", 
+    "url": "http://www.palethnologie.org/", 
+    "zotero_id": null
+}

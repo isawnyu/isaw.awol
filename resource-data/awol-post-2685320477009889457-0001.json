@@ -1,0 +1,46 @@
+{
+    "description": "Le gisement de Cuciurpula s\u2019\u00e9tend sur une superficie de 10 hectares, \u00e0 cheval sur les communes de Serra-di-Scopam\u00e8ne (A Sarra di Scopamena) et de Sorbollano (Surbudd\u00e0), en Corse-du-Sud, dans un \u00e9tage altim\u00e9trique compris entre 900 et 1080 m constituant le versant m\u00e9ridional de la Punta di Cuciurpula (1164 m), relief consid\u00e9r\u00e9 comme le belv\u00e9d\u00e8re strat\u00e9gique des montagnes de l\u2019Alta Rocca (centre sud de l\u2019\u00eele) et des chemins de transhumance traditionnels menant aux hauts plateaux du Coscionu.", 
+    "domain": "www.cuciurpula.fr", 
+    "history": [
+        "2015-06-03T04:59:25.285787: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/03/cuciurpulafr-le-portail-de-la.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Corsica", 
+        "archaeology"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2685320477009889457", 
+            "resource_date": "2013-03-16T21:11:14.860-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:25.286340"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/cuciurpulafr-le-portail-de-la.html", 
+            "resource_date": "2013-03-16T21:11:14.860-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:25.286347"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Cuciurpula.fr: Le portail de la Protohistoire corse et tyrrh\u00e9nienne", 
+    "url": "http://www.cuciurpula.fr/", 
+    "zotero_id": null
+}

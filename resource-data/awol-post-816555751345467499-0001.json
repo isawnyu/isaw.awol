@@ -1,0 +1,48 @@
+{
+    "description": "Revue de l'Orient latin: See the full .", 
+    "domain": "gallica.bnf.fr", 
+    "history": [
+        "2015-06-03T04:59:49.097365: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/06/open-access-journal-revue-de-lorient.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Latin", 
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        0.9999997149929489
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-816555751345467499", 
+            "resource_date": "2010-06-09T11:49:11.319-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:49.097919"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-revue-de-lorient.html", 
+            "resource_date": "2010-06-09T11:49:11.319-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:49.097927"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Revue de l'Orient latin", 
+    "url": "http://gallica.bnf.fr/ark:/12148/cb32857441f/date.r=.langEN", 
+    "zotero_id": null
+}

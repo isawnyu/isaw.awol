@@ -1,0 +1,53 @@
+{
+    "description": "VOCES. REVISTA DE ESTUDIOS DE LEXICOLOG\u00cdA LATINA Y ANTIG\u00dcEDAD TARD\u00cdA es una revista de Filolog\u00eda fundada en 1990 y cuyo objeto de estudio son los temas relacionados con la lexicolog\u00eda latina y la Antig\u00fcedad tard\u00eda. La revista es coeditada junto con la Universidad de Caen y, actualmente, sus directores son CARMEN CODO\u00d1ER y LOUIS CALLEBAT, profesores de la Universidad de Salamanca y de la de Caen, respectivamente. La revista tiene una periodicidad anual (1 volumen al a\u00f1o) y publica los textos principalmente en castellano, aunque todos sus art\u00edculos llevan, adem\u00e1s, el t\u00edtulo, el resumen y las palabras clave tambi\u00e9n en ingl\u00e9s.", 
+    "domain": "campus.usal.es", 
+    "history": [
+        "2015-06-03T04:59:25.513784: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/newly-open-access-journal-voces.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Latin", 
+        "Spain", 
+        "antiquity", 
+        "classics", 
+        "dictionaries", 
+        "journal", 
+        "lexicography", 
+        "open access", 
+        "philology"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2736737139761963042", 
+            "resource_date": "2012-05-31T10:25:42.994-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:25.514390"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/newly-open-access-journal-voces.html", 
+            "resource_date": "2012-05-31T10:25:42.994-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:25.514399"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Voces", 
+    "url": "http://campus.usal.es/%7Erevistas_trabajo/index.php/1130-3336/index", 
+    "zotero_id": null
+}

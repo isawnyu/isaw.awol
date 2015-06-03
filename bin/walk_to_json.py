@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-Script to test upload of sample files to Zotero.
+Script to walk AWOL backup and create json resource files.
 """
 
 import _mypath
@@ -40,34 +40,34 @@ def main (args):
     logger = logging.getLogger(sys._getframe().f_code.co_name)
     root_dir = args.whence[0]
     dest_dir = args.thence[0]
-    parse_count = 0
+    walk_count = 0
     resources = None
     for dir_name, sub_dir_list, file_list in os.walk(root_dir):
         if resources is not None:
             del resources
         for file_name in file_list:
             if 'post-' in file_name and file_name[-4:] == '.xml':
-                logger.info('parsing {0}'.format(file_name))
+                walk_count = walk_count + 1
+                if walk_count % 100 == 1:
+                    logger.info('PERCENT COMPLETE: {0:.0f}'.format(float(walk_count)/3321.0*100.0))
+                logger.debug('parsing {0}'.format(file_name))
                 target = os.path.join(dir_name, file_name)
                 a = awol_article.AwolArticle(atom_file_name=target)
+                awol_id = '-'.join(('awol', a.id.split('.')[-1]))
                 try:
                     resources = a.parse_atom_resources()
                 except NotImplementedError, msg:
                     pass
                 else:
                     try:
-                        logger.info('found {0} resources'.format(len(resources)))
+                        logger.debug('found {0} resources'.format(len(resources)))
                     except TypeError:
-                        logger.info('found 0 resources')
+                        logger.debug('found 0 resources')
                     else:                        
-                        parse_count = parse_count + len(resources)
-                        for r in resources:
-                            this_id = id(r)
-                            this_path = os.path.join(dest_dir, '.'.join((str(this_id), 'json')))
+                        for i,r in enumerate(resources):
+                            this_id = '-'.join((awol_id, format(i+1, '04')))
+                            this_path = os.path.join(dest_dir, '.'.join((this_id, 'json')))
                             r.json_dump(this_path, formatted=True)
-                        print '    parse_count: {0}'.format(parse_count)
-                        #if parse_count > 50:
-                        #    raise Exception
             else:
                 logger.debug('skipping {0}'.format(file_name))
         for ignore_dir in ['.git', '.svn', '.hg']:

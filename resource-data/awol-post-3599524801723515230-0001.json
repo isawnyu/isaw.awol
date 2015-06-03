@@ -1,0 +1,48 @@
+{
+    "description": "There\u00a0are\u00a02\u00a0publications in this collection, published between 1999 and 2011.", 
+    "domain": "escholarship.org", 
+    "history": [
+        "2015-06-03T04:59:29.544774: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/10/open-access-book-series-cotsen-digital.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "archaeology", 
+        "book", 
+        "open access", 
+        "website"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999999991
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3599524801723515230", 
+            "resource_date": "2012-10-02T06:23:06.296-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:29.545318"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/10/open-access-book-series-cotsen-digital.html", 
+            "resource_date": "2012-10-02T06:23:06.296-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:29.545326"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Cotsen Digital Archaeology", 
+    "url": "http://escholarship.org/uc/search?entity=cioa_cda", 
+    "zotero_id": null
+}

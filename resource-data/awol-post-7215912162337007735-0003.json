@@ -1,0 +1,51 @@
+{
+    "description": "Latin American Antiquity:", 
+    "domain": "www.jstor.org", 
+    "history": [
+        "2015-06-03T04:59:45.039285: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "JSTOR", 
+        "Latin", 
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "publisher"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999677358
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7215912162337007735", 
+            "resource_date": "2009-01-29T18:11:39.254-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:45.039861"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/01/new-ancient-world-content-in-jstor.html", 
+            "resource_date": "2009-01-29T18:11:39.254-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:45.039869"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Journal of the American Research Center in Egypt", 
+    "url": "http://www.jstor.org/action/showPublication?journalCode=jamerresecentegy", 
+    "zotero_id": null
+}

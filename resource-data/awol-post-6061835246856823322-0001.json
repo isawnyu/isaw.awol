@@ -1,0 +1,49 @@
+{
+    "description": "Isimu es una revista de periodicidad anual. Sus secciones separadas -dedicadas a los \u00e1mbitos originalmente definidos como Asiriolog\u00eda y Egiptolog\u00eda- est\u00e1n abiertas a estudios y resultados de la investigaci\u00f3n hoy repartida entre historia, arqueolog\u00eda y filolog\u00eda, pero tambi\u00e9n y por su propia y declarada voluntad interdisciplinar, a los de las ciencias exactas, f\u00edsicas y naturales alcanzados en las mismas \u00e1reas de Oriente Pr\u00f3ximo y Egipto.", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-03T04:59:39.917312: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "antiquity", 
+        "archeaology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6061835246856823322", 
+            "resource_date": "2013-06-08T09:18:27.263-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:39.917881"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html", 
+            "resource_date": "2013-06-08T09:18:27.263-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:39.917889"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ISIMU: Revista sobre Oriente Pro\u0301ximo y Egipto en la antigu\u0308edad", 
+    "url": "http://dialnet.unirioja.es/servlet/revista?codigo=13138", 
+    "zotero_id": null
+}

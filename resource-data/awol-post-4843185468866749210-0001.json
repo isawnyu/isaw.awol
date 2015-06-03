@@ -1,0 +1,53 @@
+{
+    "description": "The World Heritage Programme on Earthen Architecture (WHEAP) aims for the improvement of the state of conservation and management of earthen architecture sites worldwide. Pilot projects on earthen architectural sites inscribed on the World Heritage List, or included in States Parties\u2019 Tentative Lists, will help identify best practices and set examples for the development and dissemination of appropriate methods and techniques in conservation, management, and capacity building. Scientific research will further the endeavor to ameliorate know-how in the field. Expected results include a better understanding of the problems facing earthen architecture, the development of policies favoring its conservation, the definition of practical guidelines and the organization of training and awareness activities, particularly in local communities through workshops, exhibitions, conferences and technical publications to raise the recognition of earthen architecture, as well as the creation of an active global network for the exchange of information and experience.", 
+    "domain": "whc.unesco.org", 
+    "history": [
+        "2015-06-03T04:59:34.581231: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/world-heritage-earthen-architecture.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "archaeology", 
+        "architecture", 
+        "conservation", 
+        "culture", 
+        "document", 
+        "heritage", 
+        "project", 
+        "report", 
+        "teaching"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4843185468866749210", 
+            "resource_date": "2012-06-01T11:53:34.703-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:34.581792"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/world-heritage-earthen-architecture.html", 
+            "resource_date": "2012-06-01T11:53:34.703-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:34.581801"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "World Heritage Earthen Architecture Programme (WHEAP)", 
+    "url": "http://whc.unesco.org/en/earthen-architecture/", 
+    "zotero_id": null
+}

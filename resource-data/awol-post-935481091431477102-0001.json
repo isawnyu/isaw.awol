@@ -1,0 +1,45 @@
+{
+    "description": "The Institute for the Study of the Ancient World (ISAW): has just released a pdf of its first newsletter:", 
+    "domain": "www.nyu.edu", 
+    "history": [
+        "2015-06-03T04:59:53.695900: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/institute-for-study-of-ancient-world.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-935481091431477102", 
+            "resource_date": "2009-01-16T11:04:08.778-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:53.696428"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/01/institute-for-study-of-ancient-world.html", 
+            "resource_date": "2009-01-16T11:04:08.778-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:53.696437"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Institute for the Study of the Ancient World", 
+    "url": "http://www.nyu.edu/isaw/", 
+    "zotero_id": null
+}

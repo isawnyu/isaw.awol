@@ -1,0 +1,48 @@
+{
+    "description": "Catalog der Texte der Hethiter (CTH): in Fortf\u00fchrung der Arbeit von E. Laroche bearbeitet von S. Ko\u0161ak und G.G.W. M\u00fcller Published online as a part of the", 
+    "domain": "www.hethport.uni-wuerzburg.de", 
+    "history": [
+        "2015-06-03T04:59:50.541467: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-hittite-text-corpus.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Hittite", 
+        "catalogue", 
+        "open access", 
+        "text editions"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8479169636220564258", 
+            "resource_date": "2010-09-02T18:58:25.877-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:50.542012"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-hittite-text-corpus.html", 
+            "resource_date": "2010-09-02T18:58:25.877-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:50.542019"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open Access Hittite Text Corpus", 
+    "url": "http://www.hethport.uni-wuerzburg.de/CTH/", 
+    "zotero_id": null
+}

@@ -1,0 +1,50 @@
+{
+    "description": "Volumes 4-5 (1956 - 1957)\u00a0View/Open\u00a0Volume 6 (1958) View/Open", 
+    "domain": "digitalt.uib.no", 
+    "history": [
+        "2015-06-03T04:59:27.846643: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/03/partially-open-access-journal-kush.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Nubia", 
+        "Sudan", 
+        "antiquities", 
+        "archaeology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.999999994748948
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3197560676010667301", 
+            "resource_date": "2013-03-27T12:00:20.213-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:27.847184"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/partially-open-access-journal-kush.html", 
+            "resource_date": "2013-03-27T12:00:20.213-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:27.847192"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Kush: Journal of the Sudan Antiquities Service", 
+    "url": "https://digitalt.uib.no/handle/1956.2/2896", 
+    "zotero_id": null
+}

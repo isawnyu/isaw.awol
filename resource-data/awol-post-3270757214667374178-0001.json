@@ -1,0 +1,49 @@
+{
+    "description": "Collection XCollection IXCollection VIIICollection VIICollection VICollection VCollection IVCollection IIICollection IICollection I", 
+    "domain": "www.ni.rs", 
+    "history": [
+        "2015-06-03T04:59:28.223020: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal-nis-and-byzantium.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Byzantium", 
+        "Serbia", 
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "sr", 
+        0.9774867664484589
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3270757214667374178", 
+            "resource_date": "2012-11-15T13:03:35.901-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:28.223592"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-nis-and-byzantium.html", 
+            "resource_date": "2012-11-15T13:03:35.901-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:28.223600"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "\u041d\u0418\u0428 \u0418 \u0412\u0418\u0417\u0410\u041d\u0422\u0418\u0408\u0410 - NIS AND BYZANTIUM", 
+    "url": "http://www.ni.rs/byzantium/", 
+    "zotero_id": null
+}

@@ -1,0 +1,51 @@
+{
+    "description": "La fondazione dell\u2019AIAC risale al 1945, nell\u2019atmosfera di grande animazione della Roma postbellica. Fu quello un momento estremamente favorevole per la costituzione di un\u2019organizzazione che fungesse da punto di riferimento per i numerosi studiosi stranieri che erano a Roma durante la guerra e per quelli che arrivavano al seguito delle truppe alleate.Per comprendere fino in fondo la nascita dell\u2019AIAC \u00e8 necessario, per\u00f2, tornare indietro nel tempo fino al 1823, quando fu fondato a Roma il \u201cCircolo degli Iperborei romani\u201d. Gli Iperborei erano un gruppo di quattro intellettuali nordici (A. Kestner, O. Magnus von Stackelberg, E. Gerhard e Th. Panofka) che si riunivano per leggere classici e per esplorare le antichit\u00e0 di Roma e dei suoi dintorni, in nome di un mitico popolo collocato ai confini del mondo abitato.", 
+    "domain": "www.aiac.org", 
+    "history": [
+        "2015-06-03T04:59:51.632279: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/open-avvess-journal-aiacnews-bollettino.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Italy", 
+        "antiquity", 
+        "archaeology", 
+        "classics", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "it", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8743319295002095698", 
+            "resource_date": "2012-05-20T17:50:04.204-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:51.632893"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-avvess-journal-aiacnews-bollettino.html", 
+            "resource_date": "2012-05-20T17:50:04.204-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:51.632902"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "AIACNews: Bollettino quadrimestrale dell'Associazione Internazionale di Archeologia Classica Onlus", 
+    "url": "http://www.aiac.org/ita/Aiac_News/AiacNews0502/index.html", 
+    "zotero_id": null
+}

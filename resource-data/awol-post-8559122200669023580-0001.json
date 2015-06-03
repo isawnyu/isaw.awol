@@ -1,0 +1,50 @@
+{
+    "description": "THIS book describes an \u201cOnline Cultural and Historical ResearchEnvironment\u201d (OCHRE) in which scholars can record, integrate,analyze, publish, and preserve their data. OCHRE is a multiproject,multi-user database system that provides a comprehensiveframework for diverse kinds of information at all stages of research. Itcan be used for initial data acquisition and storage; for data queryingand analysis; for data presentation and publication; and for long-termarchiving and curation of data. The OCHRE system was designed bythe co-authors of this book, David Schloen and Sandra Schloen. Thesoftware for it was written by Sandra Schloen.Although OCHRE was originally designed to facilitate culturaland historical research, it can be used equally well in other academicdisciplines. It has a highly generic and flexible structure that canaccommodate any observations and conceptual distinctions a scholarmight make. Thus, it allows researchers to retain their own terminologieswhile integrating their data with data recorded using quitedifferent taxonomies...", 
+    "domain": "ochre.uchicago.edu", 
+    "history": [
+        "2015-06-03T04:59:50.774055: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/ochre-online-cultural-and-historical.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "book", 
+        "culture", 
+        "data", 
+        "database", 
+        "environment", 
+        "history"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8559122200669023580", 
+            "resource_date": "2012-11-16T14:54:25.941-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:50.774640"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/ochre-online-cultural-and-historical.html", 
+            "resource_date": "2012-11-16T14:54:25.941-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:50.774648"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Online handbook for OCHRE: An Online Cultural and Historical Research Environment", 
+    "url": "http://ochre.uchicago.edu/sites/ochre.uchicago.edu/files/uploads/OCHRE%20Manual.pdf", 
+    "zotero_id": null
+}

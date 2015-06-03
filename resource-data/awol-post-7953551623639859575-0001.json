@@ -1,0 +1,46 @@
+{
+    "description": "EDUCE - Imaging the Herculaneum Scrolls: \u00a0 EDUCE - Imaging the Herculaneum Scrolls from Vis Center on Vimeo.", 
+    "domain": "vimeo.com", 
+    "history": [
+        "2015-06-03T04:59:48.202359: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/video-imaging-herculaneum-scrolls.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Herculaneum", 
+        "imagery"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7953551623639859575", 
+            "resource_date": "2012-04-08T10:27:14.767-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:48.202934"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/video-imaging-herculaneum-scrolls.html", 
+            "resource_date": "2012-04-08T10:27:14.767-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:48.202942"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Imaging the Herculaneum Scrolls", 
+    "url": "http://vimeo.com/22606936", 
+    "zotero_id": null
+}

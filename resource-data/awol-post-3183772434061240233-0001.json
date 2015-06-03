@@ -1,0 +1,49 @@
+{
+    "description": "Ancient NumbersWelcome to the Ancient Numbers Page. It is a work in progress, and many features will be added in the coming weeks and months.Aim: To help my students and the general public better understand ancient Greek and Roman numbers, and how they were represented. Different subpages will provide explanations, calculators, and graded quizzes. Some in each category are already done, and can be reached through the links in the User Menu...User MenuLearn:About This SiteHistory - What\u2019s NextAbout Roman NumeralsAbout Greek NumeralsCalculate:Arabic \u2192 RomanRoman \u2192 ArabicRoman \u2192 LatinLatin \u2192 RomanArabic \u2192 LatinLatin \u2192 ArabicArabic \u2192 GreekGreek \u2192 ArabicTest Yourself:Arabic \u2192 RomanRoman \u2192 ArabicLatin \u2192 ArabicGreek \u2192 Arabic", 
+    "domain": "www.nvmeri.org", 
+    "history": [
+        "2015-06-03T04:59:27.801150: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/nvmeri-innvmeri.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Arabic", 
+        "Greek", 
+        "Latin", 
+        "Roman", 
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3183772434061240233", 
+            "resource_date": "2012-06-29T18:09:24.185-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:27.801688"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/nvmeri-innvmeri.html", 
+            "resource_date": "2012-06-29T18:09:24.185-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:27.801695"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Nvmeri Innvmeri", 
+    "url": "http://www.nvmeri.org/", 
+    "zotero_id": null
+}

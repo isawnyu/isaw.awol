@@ -1,0 +1,50 @@
+{
+    "description": "Statement of Purpose and Document Inclusion PolicyThe Avalon Project will mount digital documents relevant to the fields of Law, History, Economics, Politics, Diplomacy and Government. We do not intend to mount only static text but rather to add value to the text by linking to supporting documents expressly referred to in the body of the text.The Avalon Project will no doubt contain controversial documents. Their inclusion does not indicate endorsement of their contents nor sympathy with the ideology, doctrines, or means employed by their authors. They are included for the sake of completeness and balance and because in many cases they are by our definition a supporting document.", 
+    "domain": "avalon.law.yale.edu", 
+    "history": [
+        "2015-06-03T04:59:18.638402: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/03/the-avalon-project-documents-in-law.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Athens", 
+        "antiquity", 
+        "document", 
+        "history", 
+        "law", 
+        "project"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-12601822349108209", 
+            "resource_date": "2013-03-04T09:44:06.238-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:18.638994"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/the-avalon-project-documents-in-law.html", 
+            "resource_date": "2013-03-04T09:44:06.238-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:18.639003"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Avalon Project: Documents in Law, History and Diplomacy", 
+    "url": "http://avalon.law.yale.edu/default.asp", 
+    "zotero_id": null
+}

@@ -1,0 +1,52 @@
+{
+    "description": "Senj Museum Society and City Museum Senj have published the scientific magazine Senjski zbornik (The Review of Senj) since 1965. To date 33 issues have been published with papers from numerous eminent scientists in history, culture, literature, economy, geography and other scientific areas. The subjects, which have been discussed in the magazine, have been mostly related to the city of Senj and its surroundings as well as the wider area of the eastern Adriatic coast and its hinterland.", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-03T04:59:20.248108: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/open-access-journal-senjski-zbornik.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "antiquity", 
+        "archive", 
+        "geography", 
+        "journal", 
+        "magazine", 
+        "museums", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1601512946178717830", 
+            "resource_date": "2011-10-10T14:10:50.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:20.248728"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-senjski-zbornik.html", 
+            "resource_date": "2011-10-10T14:10:50.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:20.248737"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Senjski zbornik", 
+    "url": "http://hrcak.srce.hr/senjski-zbornik", 
+    "zotero_id": null
+}

@@ -1,0 +1,49 @@
+{
+    "description": "The International Association for Paleodontology (IAPO) was established in 2007 and has members worldwide. The IAPO's mission as a non-profit organization is three-pronged: It works to advance research and increase knowledge about oral and general health of ancient populations by promoting paleodontological and bioarchaeological researches. IAPO supports and represents the scientific community interested in paleodontology by facilitating professional development within the research community and providing member services. IAPO strives to facilitate the communication and application of research findings within other scientific areas.", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-03T04:59:33.746558: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/open-access-journal-bulletin-of.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "antiquity", 
+        "collaboration", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4638267331575491393", 
+            "resource_date": "2011-12-30T16:44:36.587-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:33.747116"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-bulletin-of.html", 
+            "resource_date": "2011-12-30T16:44:36.587-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:33.747124"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bulletin of the International Association for Paleodontology", 
+    "url": "http://hrcak.srce.hr/paleodontology", 
+    "zotero_id": null
+}

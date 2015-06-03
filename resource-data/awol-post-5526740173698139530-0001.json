@@ -1,0 +1,53 @@
+{
+    "description": "Die Universit\u00e4tsbibliothek bietet allen Angeh\u00f6rigen der Eberhard Karls Universit\u00e4t T\u00fcbingen - Forschenden, Lehrenden und Studierenden - die M\u00f6glichkeit, elektronisch erzeugte, qualifizierte Dokumente \u00fcber ihr Online-Publikations-System kostenlos zu ver\u00f6ffentlichen. Die Texte stehen nach ihrer Ver\u00f6ffentlichung im Sinne von Open Access weltweit frei zug\u00e4nglich im Internet zur Verf\u00fcgung und werden von der Bibliothek dauerhaft archiviert. Die Dokumente werden \u00fcber Bibliothekskataloge und Internetsuchmaschinen erschlossen und zug\u00e4nglich gemacht.", 
+    "domain": "tobias-lib.uni-tuebingen.de", 
+    "history": [
+        "2015-06-03T04:59:37.498544: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/03/tubingen-dissertations-on-antiquity.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Anatolia", 
+        "China", 
+        "antiquity", 
+        "ceramics", 
+        "culture", 
+        "dissertations", 
+        "glass", 
+        "open access", 
+        "pottery"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5526740173698139530", 
+            "resource_date": "2013-03-14T16:34:16.122-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:37.499191"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/tubingen-dissertations-on-antiquity.html", 
+            "resource_date": "2013-03-14T16:34:16.122-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:37.499200"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "T\u00fcbingen Dissertations on Antiquity online", 
+    "url": "http://tobias-lib.uni-tuebingen.de/", 
+    "zotero_id": null
+}

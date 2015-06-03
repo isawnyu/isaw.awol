@@ -1,0 +1,56 @@
+{
+    "description": "The Swedish Institute in Rome is a research institute, subordinate to the Swedish Ministry of Education (Utbildningsdepartementet). It is the base for excavations and other scientific research in Italy and pursues academic instruction in archaeology and art sciences as well as arranging conferences with themes of interest to the institute. The Institute has at its disposal a building in central Rome with a relatively well-supplied library, archaeological laboratory and c. twenty rooms and smaller apartments for the use of visiting researchers and holders of scholarships.", 
+    "domain": "www.isvroma.it", 
+    "history": [
+        "2015-06-03T04:59:36.946377: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/open-access-monographs-swedish.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Italy", 
+        "Roman", 
+        "Rome", 
+        "antiquity", 
+        "archaeology", 
+        "art", 
+        "education", 
+        "environment", 
+        "forum", 
+        "open access", 
+        "project"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5374544294575867476", 
+            "resource_date": "2012-09-16T13:04:30.730-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:36.946960"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-monographs-swedish.html", 
+            "resource_date": "2012-09-16T13:04:30.730-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:36.946968"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Swedish Institute in Rome", 
+    "url": "http://www.isvroma.it/public/New/English/index.php?option=com_content&view=section&id=6&Itemid=64", 
+    "zotero_id": null
+}

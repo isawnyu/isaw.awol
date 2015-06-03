@@ -1,0 +1,52 @@
+{
+    "description": "The leading journal for those involved in experimental archaeology or archaeological open-air museums, featuring the latest developments in fieldwork, academic research, museum studies and living history interpretation.", 
+    "domain": "journal.exarc.net", 
+    "history": [
+        "2015-06-03T04:59:47.741724: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-exarc-journal.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "archaeology", 
+        "collaboration", 
+        "experimental archaeology", 
+        "history", 
+        "journal", 
+        "museums", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7832787904048118153", 
+            "resource_date": "2013-02-19T15:52:23.242-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:47.742353"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-exarc-journal.html", 
+            "resource_date": "2013-02-19T15:52:23.242-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:47.742361"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "EXARC Journal", 
+    "url": "http://journal.exarc.net/", 
+    "zotero_id": null
+}

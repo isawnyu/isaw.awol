@@ -1,0 +1,48 @@
+{
+    "description": "Gsell, St\u00e9phane. 1864-1932: Atlas arch\u00e9ologique de l'Alg\u00e9rie : \u00e9dition sp\u00e9ciale des cartes au 200.000e du Service G\u00e9ographique de l'Arm\u00e9e / avec un texte explicatif r\u00e9dig\u00e9 par St\u00e9phane Gsell. Texte. . Alger : Paris 1911.", 
+    "domain": "arachne.uni-koeln.de", 
+    "history": [
+        "2015-06-03T04:59:51.350793: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/online-atlas-archeologique-de-lalgerie.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Algeria", 
+        "archaeology", 
+        "atlas", 
+        "maps"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8662611628771135121", 
+            "resource_date": "2012-07-16T11:33:45.433-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:51.351351"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/online-atlas-archeologique-de-lalgerie.html", 
+            "resource_date": "2012-07-16T11:33:45.433-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:51.351359"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Online Atlas arch\u00e9ologique de l'Alg\u00e9rie", 
+    "url": "http://arachne.uni-koeln.de/books/Gsell1911Text", 
+    "zotero_id": null
+}

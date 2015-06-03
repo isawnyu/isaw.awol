@@ -1,0 +1,51 @@
+{
+    "description": "Monograf\u00edas hist\u00f3ricas sobre la Antig\u00fcedad tard\u00edaPeriodicidad anual | Inicio: 1984", 
+    "domain": "revistas.um.es", 
+    "history": [
+        "2015-06-03T04:59:46.348298: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/open-access-journal-antiguedad-y.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Spain", 
+        "antiquity", 
+        "journal", 
+        "late antiquity", 
+        "open access", 
+        "religion"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7520855159530288027", 
+            "resource_date": "2012-05-29T17:02:24.223-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:46.348893"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-antiguedad-y.html", 
+            "resource_date": "2012-05-29T17:02:24.223-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:46.348901"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Antig\u00fcedad y Cristianismo", 
+    "url": "http://revistas.um.es/ayc/index", 
+    "zotero_id": null
+}

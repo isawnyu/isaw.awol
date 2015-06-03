@@ -1,0 +1,49 @@
+{
+    "description": "New legal powers to allow the British Library to archive millions of websites are to be fast-tracked by ministers after the Guardian exposed long delays in introducing the measures.The culture minister, Margaret Hodge, is pressing for the faster introduction of powers to allow six major libraries to copy every free website based in the UK as part of their efforts to record Britain's cultural, scientific and political history...", 
+    "domain": "www.guardian.co.uk", 
+    "history": [
+        "2015-06-03T04:59:17.780477: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/british-internets-to-be-archived.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "UK", 
+        "archive", 
+        "culture", 
+        "libraries", 
+        "website"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1033044846103512306", 
+            "resource_date": "2009-12-27T18:48:07.185-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:17.781014"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/british-internets-to-be-archived.html", 
+            "resource_date": "2009-12-27T18:48:07.185-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:17.781022"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "British Internets to be archived", 
+    "url": "http://www.guardian.co.uk/books/2009/dec/27/libraries-internet", 
+    "zotero_id": null
+}

@@ -1,0 +1,47 @@
+{
+    "description": "Journal table of contentsYearVolumes and Issues20106, 7, 8, 9199121990", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-03T04:59:21.696081: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/11/open-access-journal-quaderns-de-difusio.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "ca", 
+        0.9999999693196329
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1883830925452066930", 
+            "resource_date": "2010-11-06T17:41:18.935-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:21.696762"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/open-access-journal-quaderns-de-difusio.html", 
+            "resource_date": "2010-11-06T17:41:18.935-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:21.696773"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Quaderns de difusi\u00f3 arqueol\u00f2gica", 
+    "url": "http://dialnet.unirioja.es/servlet/revista?codigo=13883", 
+    "zotero_id": null
+}

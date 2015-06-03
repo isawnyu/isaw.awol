@@ -1,0 +1,53 @@
+{
+    "description": "Syria, qui para\u00eet depuis 1920 sans interruption, est publi\u00e9e par l\u2019Institut Fran\u00e7ais du Proche-Orient, en une seule livraison annuelle. La revue se consacre \u00e0 l\u2019histoire et l\u2019arch\u00e9ologie du Proche-Orient s\u00e9mitique (y compris Chypre) de la pr\u00e9histoire \u00e0 la conqu\u00eate islamique. Elle publie des articles dans toutes les disciplines de ce champ de recherche, arch\u00e9ologie, \u00e9pigraphie, philologie, histoire, histoire de l\u2019art ; ces articles peuvent \u00eatre quelquefois regroup\u00e9s en dossiers th\u00e9matiques, mais le plus souvent chaque volume tente de donner, \u00e0 travers 12 \u00e0 18 articles, un panorama vari\u00e9 de la recherche au Proche-Orient ancien. Les langues employ\u00e9es sont le fran\u00e7ais, l\u2019anglais, l\u2019allemand, l\u2019italien et l\u2019espagnol. Tous les articles sont pr\u00e9c\u00e9d\u00e9s d\u2019un r\u00e9sum\u00e9 en fran\u00e7ais, en anglais et en arabe. La revue publie aussi \u00e0 l\u2019occasion de courtes notes d\u2019actualit\u00e9, et consacre dans chaque num\u00e9ro un \u00e9pais cahier aux recensions d\u2019ouvrages parus sur le Proche-Orient ancien.", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T04:59:45.544844: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Pers\u00e9e", 
+        "Syria", 
+        "antiquity", 
+        "archaeology", 
+        "art", 
+        "history", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-733349865844137791", 
+            "resource_date": "2013-12-07T12:54:56.396-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:45.545418"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/08/open.html", 
+            "resource_date": "2013-12-07T12:54:56.396-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:45.545426"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Syria. Arch\u00e9ologie, Art et histoire", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/revue/syria", 
+    "zotero_id": null
+}

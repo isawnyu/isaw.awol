@@ -1,0 +1,57 @@
+{
+    "description": "Ancient Egyptian Architecture Online provides vetted and standardized architectural drawings of a selection of ancient Egyptian buildings. These represent architecture from modest workmen's houses to temple complexes, dating from the Old Kingdom through Late Antiquity. Aegaron considers architectural drawings as historic sources: each plan is accompanied by a critical apparatus. The plans can be downloaded for use (see Terms of Use). This web interface allows users to browse or search sites and buildings, find information on the building type and period, and download PDFs of plans, sections, elevations and details. One building may be depicted in multiple states: Actual StateReconstructionBuilding Phases The PDFs can be downloaded in three different forms Drawing to a specified scale (e.g. 1:100)Drawing at a scale that can be printed on a regular printer (A4/Letter size).Drawing at an \"ideal\" scale, which may require a large format printer. For some buildings these three options actually point to the same drawing, for instance when the specified \"ideal\" scale, at which all details are visible, fits on an A4 or Letter size page. The scale and print size differ depending on the size of the building (e.g. a workman's house versus a pyramid).", 
+    "domain": "dai.aegaron.ucla.edu", 
+    "history": [
+        "2015-06-03T04:59:26.626429: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/aegaron-ancient-egyptian-architecture.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Coptic", 
+        "Egypt", 
+        "Isis", 
+        "Roman", 
+        "Thebes", 
+        "antiquity", 
+        "archaeology", 
+        "architecture", 
+        "egyptology", 
+        "late antiquity", 
+        "old kingdom", 
+        "religion", 
+        "website"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3020984925385525812", 
+            "resource_date": "2013-05-12T14:16:55.545-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:26.627039"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/aegaron-ancient-egyptian-architecture.html", 
+            "resource_date": "2013-05-12T14:16:55.545-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:26.627047"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Aegaron: Ancient Egyptian Architecture Online", 
+    "url": "http://dai.aegaron.ucla.edu/", 
+    "zotero_id": null
+}

@@ -1,0 +1,47 @@
+{
+    "description": "Guide de l\u2019\u00e9pigraphiste Bibliographie choisie des \u00e9pigraphies antiques et m\u00e9di\u00e9valesFran\u00e7ois B\u00e9rard, Denis Feissel, Nicolas Laubry, Pierre Petitmengin, Denis Rousset, Michel S\u00e8ve et collaborateurs.Quatri\u00e8me \u00e9dition enti\u00e8rement refondue.Guides et inventaires bibliographiques de la Biblioth\u00e8que de l\u2019\u00c9cole normale sup\u00e9rieure, 7.", 
+    "domain": "129.199.13.51", 
+    "history": [
+        "2015-06-03T04:59:52.207356: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/guide-de-lepigraphiste-online-supplement.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "epigraphy", 
+        "manual"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8868723366774250251", 
+            "resource_date": "2013-07-14T20:52:42.766-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:52.208082"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/guide-de-lepigraphiste-online-supplement.html", 
+            "resource_date": "2013-07-14T20:52:42.766-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:52.208092"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Guide de l\u2019Epigraphiste: Online Supplement", 
+    "url": "http://129.199.13.51/ressources/publications-aux-p-e-n-s/guide-de-l-epigraphiste/", 
+    "zotero_id": null
+}

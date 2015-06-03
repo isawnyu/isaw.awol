@@ -1,0 +1,45 @@
+{
+    "description": "British School at Athens:", 
+    "domain": "www.jstor.org", 
+    "history": [
+        "2015-06-03T04:59:35.093131: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Athens", 
+        "JSTOR", 
+        "antiquity", 
+        "classics"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4915131031139671891", 
+            "resource_date": "2011-07-24T07:51:55.926-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:35.093720"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html", 
+            "resource_date": "2011-07-24T07:51:55.926-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:35.093728"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Classical Studies", 
+    "url": "http://www.jstor.org/action/showJournals#43693391", 
+    "zotero_id": null
+}

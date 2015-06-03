@@ -1,0 +1,49 @@
+{
+    "description": "Evagrius Ponticus (b. 345 in Ibora; d. 399 in Egypt), a monastic theologian, was one of the most talented intellects of the fourth century. Circulating in elite ecclesiastical circles of Cappadocia and Asia Minor, he began his career under Basil of Caesarea and Gregory of Nazianzus, serving with the latter in Constantinople through a stormy tenure that culminated in the Second Ecumenical Council (381). Known then as a brilliant heresiologist, Evagrius seemed destined for a successful ecclesiastical career. He chose a different course, and fled to Jerusalem, where he took vows in the monastic communities of Rufinus and Melania. From there he travelled to Egypt and lived in monasteries in Nitria and Kellia...This Guide provides definitive lists of Evagrius's works, of editions and translations of those works, and of studies related to his life and thought. It includes an inventory of key ancient sources that refer to Evagrius and a display of imagery from the ancient world. Updated quarterly, the Guide will gradually introduce a manuscript checklist, images of manuscripts, transcriptions of those manuscripts, and open source critical editions of Evagrius's writings.", 
+    "domain": "evagriusponticus.net", 
+    "history": [
+        "2015-06-03T04:59:47.506091: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/online-guide-to-evagrius-ponticus.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Asia", 
+        "Egypt", 
+        "antiquity", 
+        "imagery", 
+        "manuscripts"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7787867069762447542", 
+            "resource_date": "2012-01-17T09:22:03.694-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:47.506716"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/online-guide-to-evagrius-ponticus.html", 
+            "resource_date": "2012-01-17T09:22:03.694-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:47.506724"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Online Guide to Evagrius Ponticus", 
+    "url": "http://evagriusponticus.net/", 
+    "zotero_id": null
+}

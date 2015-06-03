@@ -1,0 +1,56 @@
+{
+    "description": "This issue contains 13 papers from the colloquium, The Book of the Dead - Recent research and new perspectives, held at the British Museum on 21\u201322 July 2009. The meeting brought together leading scholars working on aspects of the Book of the Dead. Several of their contributions have been influential in the development of the exhibition\u00a0Journey through the afterlife:\u00a0ancient Egyptian Book of the Dead\u00a0 (4 November 2010 \u2013 6 March 2011).", 
+    "domain": "www.britishmuseum.org", 
+    "history": [
+        "2015-06-03T04:59:29.459336: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/11/special-issue-of-bmsaes-book-of-dead.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Book of the Dead", 
+        "British Museum", 
+        "Thebes", 
+        "antiquity", 
+        "book", 
+        "egyptology", 
+        "exhibition", 
+        "journal", 
+        "journal issues", 
+        "museums", 
+        "open access", 
+        "papyrology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3563870952198567125", 
+            "resource_date": "2012-09-11T06:26:41.501-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:29.459882"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/special-issue-of-bmsaes-book-of-dead.html", 
+            "resource_date": "2012-09-11T06:26:41.501-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:29.459890"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Special Issue of BMSAES: The Book of the Dead", 
+    "url": "http://www.britishmuseum.org/research/online_journals/bmsaes/issue_15.aspx", 
+    "zotero_id": null
+}

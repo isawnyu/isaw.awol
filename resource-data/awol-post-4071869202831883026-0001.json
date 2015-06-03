@@ -1,0 +1,51 @@
+{
+    "description": "This beta version of Trismegistos Authors is the result of work in progress on the Leuven Database of Ancient Books. The Trismegistos Team is currently converting the information on attestations and quotations of ancient authors and their works to a new relational system.", 
+    "domain": "www.trismegistos.org", 
+    "history": [
+        "2015-06-03T04:59:31.392564: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/new-at-trismegistos.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Christianity", 
+        "Egypt", 
+        "Trismegistos", 
+        "antiquity", 
+        "data", 
+        "database", 
+        "manuscripts"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4071869202831883026", 
+            "resource_date": "2013-07-12T10:49:23.501-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:31.393119"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/new-at-trismegistos.html", 
+            "resource_date": "2013-07-12T10:49:23.501-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:31.393126"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "New at Trismegistos", 
+    "url": "http://www.trismegistos.org/authors/", 
+    "zotero_id": null
+}

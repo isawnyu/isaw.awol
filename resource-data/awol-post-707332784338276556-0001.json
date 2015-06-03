@@ -1,0 +1,50 @@
+{
+    "description": "La Revue Belge de Philologie et d\u2019Histoire \u2013 Belgisch Tijdschrift voor Filologie en Geschiedenis, fond\u00e9e en 1922, a comme objectifs principaux : 1) de recueillir et de susciter des articles scientifiques originaux dans les domaines de la philologie et de l\u2019histoire ; 2) de publier des articles bibliographiques qui font le point sur des questions philologiques et historiques, des recensions critiques ou comptes rendus d\u2019ouvrages r\u00e9cents ; 3) de publier annuellement (depuis 1953) une Bibliographie de l\u2019histoire de Belgique, travail et instrument de recherche exhaustif.", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T04:59:44.412689: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Belgium", 
+        "antiquity", 
+        "classics", 
+        "journal", 
+        "open access", 
+        "philology"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707332784338276556", 
+            "resource_date": "2013-05-21T09:01:08.351-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:44.413276"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html", 
+            "resource_date": "2013-05-21T09:01:08.351-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:44.413284"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Revue belge de Philologie et d'Histoire", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/revue/rbph", 
+    "zotero_id": null
+}

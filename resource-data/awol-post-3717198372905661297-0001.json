@@ -1,0 +1,58 @@
+{
+    "description": "Naukratis: Greeks in EgyptArchaeological finds made in late 19th and early 20th century excavations at the site of Naukratis that\u00a0today are dispersed in museums worldwide. Naukratis: Greeks in Egypt catalogue\u00a0 Asante Gold Regalia in the British Museum collection220 items of gold regalia from the West African state of Asante in modern-day Ghana. Asante Gold Regalia catalogue\u00a0 The Ramesseum PapyriSurviving papyri from a 13th Dynasty tomb at Luxor later covered by the funerary temple of Ramses II, known as the Ramesseum. Ramesseum Papyri catalogue", 
+    "domain": "www.britishmuseum.org", 
+    "history": [
+        "2015-06-03T04:59:30.004845: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/02/british-museum-online-research.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "British Museum", 
+        "Cyprus", 
+        "Egypt", 
+        "Luxor", 
+        "Naukratis", 
+        "Roman", 
+        "Russian", 
+        "antiquity", 
+        "archaeology", 
+        "catalogue", 
+        "museums", 
+        "numismatics", 
+        "open access", 
+        "papyrology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3717198372905661297", 
+            "resource_date": "2013-08-31T09:47:11.858-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:30.005432"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/02/british-museum-online-research.html", 
+            "resource_date": "2013-08-31T09:47:11.858-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:30.005439"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "British Museum Online Research Catalogues", 
+    "url": "http://www.britishmuseum.org/research/publications/online_research_catalogues.aspx", 
+    "zotero_id": null
+}

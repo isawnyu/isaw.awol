@@ -1,0 +1,47 @@
+{
+    "description": "Bulletin de la Soci\u00e9t\u00e9 nationale des antiquaires de France: See the full . AddThis Button BEGIN AddThis Button END", 
+    "domain": "gallica.bnf.fr", 
+    "history": [
+        "2015-06-03T04:59:18.769334: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/06/open-access-journal-bulletin-de-la.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1304615744449691570", 
+            "resource_date": "2010-06-09T15:41:57.291-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:18.769903"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-bulletin-de-la.html", 
+            "resource_date": "2010-06-09T15:41:57.291-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:18.769911"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bulletin de la Soci\u00e9t\u00e9 nationale des antiquaires de France", 
+    "url": "http://gallica.bnf.fr/ark:/12148/cb34349686n/date", 
+    "zotero_id": null
+}

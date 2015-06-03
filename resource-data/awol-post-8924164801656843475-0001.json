@@ -1,0 +1,47 @@
+{
+    "description": "En 1964 se public\u00f3 el primer volumen de la revista Anales de Antropolog\u00eda, como \u00f3rgano de difusi\u00f3n y comunicaci\u00f3n cient\u00edfica a nivel nacional e internacional. En ella se difunden trabajos cuyo tema sea de inter\u00e9s mundial con \u00e9nfasis en M\u00e9xico y Am\u00e9rica. De acuerdo con su tradici\u00f3n editorial, en esta revista se publican trabajos cient\u00edficos,ensayos cr\u00edticos y te\u00f3rico-metodol\u00f3gicos, as\u00ed como rese\u00f1as bibliogr\u00e1ficas de diferentes \u00e1reas de la Antropolog\u00eda: Antropolog\u00eda F\u00edsica, Arqueolog\u00eda, Etnolog\u00eda, Ling\u00fc\u00edstica. En la actualidad rescata un enfoque que, sin perder la perspectiva de la especialidad desde la cual se abordan los textos, sea interdisciplinario, o bien transdisciplinario.", 
+    "domain": "www.journals.unam.mx", 
+    "history": [
+        "2015-06-03T04:59:52.340053: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/open-access-journal-anales-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8924164801656843475", 
+            "resource_date": "2011-07-28T09:54:33.061-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:52.340687"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-anales-de.html", 
+            "resource_date": "2011-07-28T09:54:33.061-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:52.340696"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Anales de Antropolog\u00eda", 
+    "url": "http://www.journals.unam.mx/index.php/antropologia", 
+    "zotero_id": null
+}

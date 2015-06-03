@@ -1,0 +1,55 @@
+{
+    "description": "Ancient Asia is the official annual journal of the Society of South Asian Archaeology (SOSAA). The scope of the journal is vast - from Stone Age to the Modem times, including archaeology, history, anthropology, art, architecture, numismatics, iconography, ethnography, various scientific aspects including archaeobotany and archaeozoology, and theoretical and methodological issues. Amongst the goals of this society are to bring forth the research being conducted in areas that are not often well published such as the North Eastern States of India, Bangladesh, Bhutan, Nepal, Sri Lanka, Central Asia, Iran, etc.", 
+    "domain": "www.ancient-asia-journal.com", 
+    "history": [
+        "2015-06-03T04:59:28.715536: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-open-access-journal-ancient-asia.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Asia", 
+        "Central Asia", 
+        "India", 
+        "South Asia", 
+        "Sri Lanka", 
+        "antiquity", 
+        "archaeobotany", 
+        "archaeology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3393614896217523843", 
+            "resource_date": "2013-02-10T17:04:47.819-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:28.716129"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/11/new-open-access-journal-ancient-asia.html", 
+            "resource_date": "2013-02-10T17:04:47.819-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:28.716137"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ancient Asia", 
+    "url": "http://www.ancient-asia-journal.com/index", 
+    "zotero_id": null
+}

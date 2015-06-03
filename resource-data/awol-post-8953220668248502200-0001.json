@@ -1,0 +1,52 @@
+{
+    "description": "Arqueolog\u00eda de la Arquitectura es una revista cient\u00edfica, de periodicidad anual, dirigida a arque\u00f3logos, historiadores, historiadores de la arquitectura y del arte, restauradores, arquitectos y profesionales relacionados con la documentaci\u00f3n, estudio e intervenci\u00f3n en el patrimonio edificado.Su objetivo es doble: por una parte quiere promover marcos de debate e intercambio de ideas entre los estudiosos interesados en la arqueolog\u00eda de la arquitectura y, por otra, desea impulsar la creaci\u00f3n de instrumentos b\u00e1sicos que den coherencia a las experiencias realizadas dentro de este \u00e1mbito disciplinar.Arqueolog\u00eda de la Arquitectura facilita el acceso sin restricciones a todo su contenido seis meses despu\u00e9s de su publicaci\u00f3n. Durante este periodo de embargo, el acceso al texto completo de los art\u00edculos est\u00e1 reservado a los suscriptores de la edici\u00f3n impresa.", 
+    "domain": "arqarqt.revistas.csic.es", 
+    "history": [
+        "2015-06-03T04:59:52.398970: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/06/arqueologia-de-la-arquitectura.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Spain", 
+        "antiquity", 
+        "archaeology", 
+        "archeaology", 
+        "architecture", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8953220668248502200", 
+            "resource_date": "2012-02-20T08:35:24.146-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:52.399596"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/06/arqueologia-de-la-arquitectura.html", 
+            "resource_date": "2012-02-20T08:35:24.146-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:52.399604"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Arqueolog\u00eda de la Arquitectura", 
+    "url": "http://arqarqt.revistas.csic.es/index.php/arqarqt", 
+    "zotero_id": null
+}

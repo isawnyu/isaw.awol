@@ -1,0 +1,51 @@
+{
+    "description": "The Waly Center Journal is a themed on-line publication that comes out three times a year. Each issue presents a different theme related to the built environment and usually reflecting a topic we are working on. The center produces the WCJ in-house and is open to outside contributions depending on the theme.Issue No. 00Issue No. 01Issue No. 02Issue No. 03 Issue No. 04(Arabic)", 
+    "domain": "www.walycenter.org", 
+    "history": [
+        "2015-06-03T04:59:51.137722: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/08/open-access-journal-waly-center-journal.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "antiquity", 
+        "architecture", 
+        "environment", 
+        "journal", 
+        "journal issues", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615614597593348853", 
+            "resource_date": "2013-01-22T15:24:36.171-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:51.138333"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-waly-center-journal.html", 
+            "resource_date": "2013-01-22T15:24:36.171-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:51.138341"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Waly Center Journal", 
+    "url": "http://www.walycenter.org/en/journal", 
+    "zotero_id": null
+}

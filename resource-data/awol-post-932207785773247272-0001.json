@@ -1,0 +1,80 @@
+{
+    "description": "Aegeus - Society for Aegean Prehistory was established on 1 March 2009 and is a non-profit organisation with research, cultural and educational objectives. It is managed by its Fellows Anastasia Christophilopoulou, Ioanna Galanaki, Nektarios Karadimas, Evi Margaritis, Ioanna Moutafi, Tatiana Theodoropoulou and Lefteris Zorzos, and consists of members (actual members and legal representatives). The Legal representative of the Society is Nektarios Karadimas.", 
+    "domain": "www.aegeussociety.org", 
+    "history": [
+        "2015-06-03T04:59:53.677186: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/11/new-website-aegeus-society-of-aegean.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Aegean", 
+        "Athens", 
+        "Cambridge", 
+        "Crete", 
+        "Greece", 
+        "Mediterranean", 
+        "Mycenean", 
+        "Near East", 
+        "Peloponnese", 
+        "Phoenician", 
+        "Renaissance", 
+        "anthropology", 
+        "antiquity", 
+        "archaeology", 
+        "architecture", 
+        "art", 
+        "book", 
+        "book reviews", 
+        "bronze", 
+        "ceramics", 
+        "classics", 
+        "culture", 
+        "egyptology", 
+        "fortifications", 
+        "history", 
+        "journal", 
+        "literature", 
+        "metallurgy", 
+        "monograph", 
+        "newsletter", 
+        "open access", 
+        "pottery", 
+        "prehistory", 
+        "religion", 
+        "tools"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-932207785773247272", 
+            "resource_date": "2013-05-24T14:52:44.350-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:53.677785"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/new-website-aegeus-society-of-aegean.html", 
+            "resource_date": "2013-05-24T14:52:44.350-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:53.677793"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Aegeus \u2014 Society of Aegean Prehistory - Online Publications", 
+    "url": "http://www.aegeussociety.org/en/index.php/", 
+    "zotero_id": null
+}

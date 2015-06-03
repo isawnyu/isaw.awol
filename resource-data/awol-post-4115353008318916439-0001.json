@@ -1,0 +1,82 @@
+{
+    "description": "Follow the links below to access vetted and edited open access content published in the AJA", 
+    "domain": "www.ajaonline.org", 
+    "history": [
+        "2015-06-03T04:59:31.652231: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/american-journal-of-archaeology.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AIA", 
+        "AJA", 
+        "AWOL", 
+        "Aegean", 
+        "Asia", 
+        "Caucasus", 
+        "Cyprus", 
+        "Greece", 
+        "Greek", 
+        "Iraq", 
+        "Mycenean", 
+        "Pompeii", 
+        "Renaissance", 
+        "Roman", 
+        "Rome", 
+        "antiquities", 
+        "antiquity", 
+        "archaeological site", 
+        "archaeology", 
+        "architecture", 
+        "archive", 
+        "art", 
+        "book", 
+        "book reviews", 
+        "bronze", 
+        "ceramics", 
+        "classics", 
+        "culture", 
+        "empires", 
+        "history", 
+        "journal", 
+        "looting", 
+        "materials", 
+        "metallurgy", 
+        "museums", 
+        "open access", 
+        "pottery", 
+        "preservation"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4115353008318916439", 
+            "resource_date": "2013-08-04T09:23:52.453-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:31.652867"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/american-journal-of-archaeology.html", 
+            "resource_date": "2013-08-04T09:23:52.453-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:31.652876"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "American Journal of Archaeology Supplementary Materials Online", 
+    "url": "http://www.ajaonline.org/openaccess", 
+    "zotero_id": null
+}

@@ -1,0 +1,52 @@
+{
+    "description": "Relegere has been established to promote and disseminate academic research on reception history, broadly understood, both within and across religious traditions.", 
+    "domain": "relegere.org", 
+    "history": [
+        "2015-06-03T04:59:48.842996: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/08/new-open-access-journal-relegere.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Bible", 
+        "antiquity", 
+        "art", 
+        "history", 
+        "journal", 
+        "open access", 
+        "reception", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8102216834346168073", 
+            "resource_date": "2013-09-19T07:36:41.095-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:48.843530"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/08/new-open-access-journal-relegere.html", 
+            "resource_date": "2013-09-19T07:36:41.095-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:48.843538"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Relegere: Studies in Religion and Reception", 
+    "url": "http://relegere.org/index.php/relegere/index", 
+    "zotero_id": null
+}

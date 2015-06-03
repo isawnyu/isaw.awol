@@ -1,0 +1,47 @@
+{
+    "description": "The V&A online journal is a yearly publication featuring recent research undertaken in connection with the V&A - its collections, public programme and history.", 
+    "domain": "www.vam.ac.uk", 
+    "history": [
+        "2015-06-03T04:59:47.354775: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/open-access-journal-v-online-journal.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7750366049290415546", 
+            "resource_date": "2011-06-08T11:34:08.523-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:47.355380"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/open-access-journal-v-online-journal.html", 
+            "resource_date": "2011-06-08T11:34:08.523-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:47.355389"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "V&A Online Journal", 
+    "url": "http://www.vam.ac.uk/content/journals/research-journal/issue-03/", 
+    "zotero_id": null
+}

@@ -1,0 +1,50 @@
+{
+    "description": "Haremhab, The General Who Became King: November 16, 2010 -- July 4, 2011", 
+    "domain": "www.metmuseum.org", 
+    "history": [
+        "2015-06-03T04:59:36.860288: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/video-symposium-on-haremhab-general-and.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "Metropolitan Museum of Art", 
+        "art", 
+        "conference", 
+        "egyptology", 
+        "museums"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999947227
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5343623093497862513", 
+            "resource_date": "2012-01-30T09:00:24.516-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:36.860887"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/video-symposium-on-haremhab-general-and.html", 
+            "resource_date": "2012-01-30T09:00:24.516-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:36.860895"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "A Symposium on Haremhab: General and King of Egypt", 
+    "url": "http://www.metmuseum.org/en/exhibitions/listings/2010/haremhab", 
+    "zotero_id": null
+}

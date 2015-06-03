@@ -1,0 +1,49 @@
+{
+    "description": "Welcome to the webpage of the American Research Institute of the South Caucasus.\u00a0 This site is a work in progress where you will be able to find information, resources, and contacts pertinent to research in all three of the republics of the South Caucasus: Armenia, Azerbaijan, and Georgia.The American Research Institute of the South Caucasus (ARISC) encourages and supports scholarly study of the South Caucasus states (Armenia, Azerbaijan, and Georgia) across all disciplines of the Humanities, Sciences, and Social Sciences.\u00a0 Incorporated in 2006, ARISC currently has representatives in Yerevan, Baku and Tbilisi (see About Us page), who\u00a0 serve to facilitate research and nurture scholarly ties between institutions and individuals.", 
+    "domain": "www.arisc.org", 
+    "history": [
+        "2015-06-03T04:59:18.889873: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Caucasus", 
+        "antiquity", 
+        "journal", 
+        "newsletter", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1348517928637123696", 
+            "resource_date": "2012-11-15T13:03:18.143-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:18.890415"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal.html", 
+            "resource_date": "2012-11-15T13:03:18.143-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:18.890423"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ARISC Newsletters (American Research Institute of the South Caucasus)", 
+    "url": "http://www.arisc.org/Publications", 
+    "zotero_id": null
+}

@@ -1,0 +1,71 @@
+{
+    "description": "News & Notes is a Quarterly Publication of The Oriental Institute, printed for members as one of the privileges of membership.", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-03T04:59:52.630331: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Akkadian", 
+        "Assyria", 
+        "Dead Sea Scrolls", 
+        "Giza", 
+        "Hittite", 
+        "Iran", 
+        "Mesopotamia", 
+        "Oriental Institute", 
+        "Syria", 
+        "Turkey", 
+        "antiquity", 
+        "archaeology", 
+        "bronze", 
+        "ceramics", 
+        "conference", 
+        "dictionaries", 
+        "egyptology", 
+        "epigraphy", 
+        "journal", 
+        "mummies", 
+        "newsletter", 
+        "open access", 
+        "pottery", 
+        "project", 
+        "report", 
+        "statuary"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
+            "resource_date": "2013-12-10T13:02:44.344-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:52.630930"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
+            "resource_date": "2013-12-10T13:02:44.344-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:52.630938"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Oriental Institute News & Notes", 
+    "url": "http://oi.uchicago.edu/research/pubs/nn/", 
+    "zotero_id": null
+}

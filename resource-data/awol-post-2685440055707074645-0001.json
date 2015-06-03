@@ -1,0 +1,48 @@
+{
+    "description": "An index of the authors and works of the Coptic literature\u00a0Corpus dei Manoscritti Copti Letterari\u00a0Direttore: Tito Orlandi", 
+    "domain": "cmcl.aai.uni-hamburg.de", 
+    "history": [
+        "2015-06-03T04:59:25.289658: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/online-clavis-patrum-copticorum.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Coptic", 
+        "Egypt", 
+        "egyptology", 
+        "literature"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999999942
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2685440055707074645", 
+            "resource_date": "2013-07-01T16:49:40.126-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:25.290188"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/online-clavis-patrum-copticorum.html", 
+            "resource_date": "2013-07-01T16:49:40.126-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:25.290195"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Online Clavis Patrum Copticorum", 
+    "url": "http://cmcl.aai.uni-hamburg.de/chiam_clavis.html", 
+    "zotero_id": null
+}

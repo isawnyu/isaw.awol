@@ -1,0 +1,53 @@
+{
+    "description": "In today's world, even people in the same general discipline, but specialized in different areas, may not understand each other's work. Nonlinguists working on Middle East topics, or linguists devoting their time to the study of other language families, may not have been exposed to the Semitic family of languages (or Semitic subfamily of Afro-Asiatic). The Semitic languages all share certain distinctive characteristics. This project is especially dependent on one of them, the consonantal root system. This very brief introduction is intended to enable the nonspecialist to more fully understand Sembase...", 
+    "domain": "www.sembase.org", 
+    "history": [
+        "2015-06-03T04:59:46.331053: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/03/sembase-database-project-for-study-of.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Middle East", 
+        "data", 
+        "database", 
+        "dictionaries", 
+        "language", 
+        "lexicography", 
+        "linguistics", 
+        "project", 
+        "semitics"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7515713918073841730", 
+            "resource_date": "2013-03-02T12:39:45.093-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:46.332202"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/sembase-database-project-for-study-of.html", 
+            "resource_date": "2013-03-02T12:39:45.093-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:46.332213"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Sembase: a database project for the study of Semitic roots", 
+    "url": "http://www.sembase.org/", 
+    "zotero_id": null
+}

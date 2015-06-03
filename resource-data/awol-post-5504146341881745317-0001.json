@@ -1,0 +1,50 @@
+{
+    "description": "Date d'\u00e9dition : 1801-1900 Type : manuscrit Langue : Fran\u00e7ais Format : Papier. - Six calepins de 71, 74, 73, 76, 23 et 26 f. - 172 \u00d7 100 mm., dans un \u00e9tui Droits : domaine public Identifiant : ark:/12148/btv1b52500698x Source : Biblioth\u00e8que nationale de France, D\u00e9partement des manuscrits, NAF 11711 Provenance : bnf.fr Date de mise en ligne : 27/02/2013", 
+    "domain": "gallica.bnf.fr", 
+    "history": [
+        "2015-06-03T04:59:37.432438: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/03/gaston-masperos-epigraphic-notebooks.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "egyptology", 
+        "epigraphy", 
+        "journal", 
+        "monuments", 
+        "papyrology"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5504146341881745317", 
+            "resource_date": "2013-03-20T11:46:53.446-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:37.432968"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/gaston-masperos-epigraphic-notebooks.html", 
+            "resource_date": "2013-03-20T11:46:53.446-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:37.432975"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Gaston Maspero's Epigraphic Notebooks Online", 
+    "url": "http://gallica.bnf.fr/ark:/12148/btv1b52500698x", 
+    "zotero_id": null
+}

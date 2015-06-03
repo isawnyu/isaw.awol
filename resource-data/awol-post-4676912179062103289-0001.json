@@ -1,0 +1,47 @@
+{
+    "description": "\"Les Cahiers d\u2019Extr\u00eame-Asie, fond\u00e9s en 1985 par Anna Seidel et Hubert Durt, est une revue bilingue (fran\u00e7ais-anglais) sp\u00e9cialis\u00e9e dans les domaines des sciences religieuses et de l\u2019histoire intellectuelle de l\u2019Asie orientale. Chaque num\u00e9ro est un num\u00e9ro th\u00e9matique abordant des questions relatives aux religions de l\u2019Asie orientale. Les sujets abord\u00e9s couvrent un champ qui va depuis le tao\u00efsme et les religions de la Chine ancienne, au chamanisme cor\u00e9en en passant par les diverses \u00e9coles du bouddhisme chinois et japonais et plus r\u00e9cemment \u00e0 l\u2019histoire intellectuelle du Tibet.\"", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T04:59:33.822631: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/03/open-access-journal-cahiers-dextreme.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4676912179062103289", 
+            "resource_date": "2010-03-26T11:47:02.378-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:33.823188"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/03/open-access-journal-cahiers-dextreme.html", 
+            "resource_date": "2010-03-26T11:47:02.378-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:33.823196"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open Access Journal : Cahiers d'Extr\u00eame-Asie", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/revue/asie", 
+    "zotero_id": null
+}

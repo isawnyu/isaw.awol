@@ -1,0 +1,49 @@
+{
+    "description": "e-kitap: have added new content", 
+    "domain": "www.kulturvarliklari.gov.tr", 
+    "history": [
+        "2015-06-03T04:59:27.237731: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/new-open-access-content-in-e-kitap.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Turkey", 
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999999998232765
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3111771938288994110", 
+            "resource_date": "2012-11-15T13:07:48.408-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:27.238338"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/new-open-access-content-in-e-kitap.html", 
+            "resource_date": "2012-11-15T13:07:48.408-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:27.238346"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "New open access content in  e-kitap", 
+    "url": "http://www.kulturvarliklari.gov.tr/TR,44758/e-kitap.html", 
+    "zotero_id": null
+}

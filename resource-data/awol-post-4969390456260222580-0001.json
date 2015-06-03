@@ -1,0 +1,47 @@
+{
+    "description": "Tracings made in various Theban tombs by Norman and Nina de Garis Davies,\u00a0: and\u00a0othersSome 1,000 sheets of tracings made in various Theban tombs byNorman and Nina de Garis Davies sometime between 1920 and1940, now in the Archive of the Griffith Institute, will be madeavailable on the Institute's website.", 
+    "domain": "www.griffith.ox.ac.uk", 
+    "history": [
+        "2015-06-03T04:59:35.191048: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/07/tracings-made-in-various-theban-tombs.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Griffith Institute", 
+        "Thebes", 
+        "archive"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4969390456260222580", 
+            "resource_date": "2009-07-31T10:28:49.373-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:35.191648"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/07/tracings-made-in-various-theban-tombs.html", 
+            "resource_date": "2009-07-31T10:28:49.373-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:35.191656"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Tracings made in various Theban tombs by Norman and Nina de Garis Davies", 
+    "url": "http://www.griffith.ox.ac.uk/gri/4TT23.html", 
+    "zotero_id": null
+}

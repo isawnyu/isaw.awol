@@ -1,0 +1,56 @@
+{
+    "description": "The Jewish Bible Quarterly provides timely, authoritative studies on biblical themes. As the only Jewish-sponsored English-language journal devoted exclusively to the Bible, it is an essential source of information for anyone working in Bible studies. The Journal publishes original articles, translations from scholarly Hebrew journals, book reviews, a triennial calendar of Bible reading and correspondence. All viewpoints are considered.", 
+    "domain": "jbq.jewishbible.org", 
+    "history": [
+        "2015-06-03T04:59:43.391159: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/01/open-access-jurnal-jewish-bible.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Bible", 
+        "Hebrew", 
+        "Judaisim", 
+        "antiquity", 
+        "bible", 
+        "book", 
+        "book reviews", 
+        "journal", 
+        "journal issues", 
+        "open access", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6773362574423120045", 
+            "resource_date": "2013-01-28T15:21:40.904-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:43.391746"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/01/open-access-jurnal-jewish-bible.html", 
+            "resource_date": "2013-01-28T15:21:40.904-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:43.391755"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Jewish Bible Quarterly", 
+    "url": "http://jbq.jewishbible.org/", 
+    "zotero_id": null
+}

@@ -1,0 +1,56 @@
+{
+    "description": "Institute for Research in Humanities, Kyoto University, 2002, 297p., (Report of the Research Project on the Historical Archaeology of the Hindukush areas carried out under the auspices of the Asian Archaeology Section of the Institute for Research in Humanities, Kyoto University).", 
+    "domain": "repository.kulib.kyoto-u.ac.jp", 
+    "history": [
+        "2015-06-03T04:59:26.125668: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/across-hindukush-of-first-millennium.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Afghanistan", 
+        "Asia", 
+        "Buddhism", 
+        "Central Asia", 
+        "Chronology", 
+        "Rome", 
+        "archaeology", 
+        "history", 
+        "monuments", 
+        "numismatics", 
+        "project", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-292806604727972358", 
+            "resource_date": "2012-11-27T16:46:57.584-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:26.126211"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/across-hindukush-of-first-millennium.html", 
+            "resource_date": "2012-11-27T16:46:57.584-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:26.126218"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Across the Hindukush of the First Millennium: a collection of the papers", 
+    "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/120966", 
+    "zotero_id": null
+}

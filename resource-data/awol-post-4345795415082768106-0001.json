@@ -1,0 +1,49 @@
+{
+    "description": "The journal of the Sociedad Espa\u00f1ola de Estudios Cl\u00e1sicos, Madrid.", 
+    "domain": "www.estudiosclasicos.org", 
+    "history": [
+        "2015-06-03T04:59:32.696067: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/06/open-access-journal-estudios-clasicos.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "antiquity", 
+        "classics", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "es", 
+        0.9999999999999865
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4345795415082768106", 
+            "resource_date": "2011-11-04T13:47:29.947-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:32.696677"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/06/open-access-journal-estudios-clasicos.html", 
+            "resource_date": "2011-11-04T13:47:29.947-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:32.696686"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Estudios cl\u00e1sicos", 
+    "url": "http://www.estudiosclasicos.org/publicaciones.htm#EClas", 
+    "zotero_id": null
+}

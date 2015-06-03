@@ -1,0 +1,48 @@
+{
+    "description": "Kl\u00e9os, revista de publica\u00e7\u00e3o anual do Programa de Estudos em Filosofia Antiga da Universidade Federal do Rio de Janeiro, destina-se \u00e0 divulga\u00e7\u00e3o de trabalhos concernentes \u00e0 Filosofia Antiga e \u00e1reas afins.", 
+    "domain": "www.pragma.kit.net", 
+    "history": [
+        "2015-06-03T04:59:53.468326: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/12/open-access-journal-kleos.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access", 
+        "philosophy"
+    ], 
+    "language": [
+        "pt", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9194323707020775896", 
+            "resource_date": "2013-02-28T19:06:52.512-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:53.468864"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-kleos.html", 
+            "resource_date": "2013-02-28T19:06:52.512-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:53.468872"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Kl\u00e9os", 
+    "url": "http://www.pragma.kit.net/kleos.html", 
+    "zotero_id": null
+}

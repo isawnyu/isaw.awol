@@ -1,0 +1,44 @@
+{
+    "description": "2/2000", 
+    "domain": "www.komunikacija.org.rs", 
+    "history": [
+        "2015-06-03T04:59:30.886792: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/05/open-access-journal-singidunum.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3907512170835212811", 
+            "resource_date": "2011-05-08T08:46:10.008-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:30.887359"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-singidunum.html", 
+            "resource_date": "2011-05-08T08:46:10.008-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:30.887367"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Singidunum", 
+    "url": "http://www.komunikacija.org.rs/komunikacija/casopisi/singidunum", 
+    "zotero_id": null
+}

@@ -1,0 +1,47 @@
+{
+    "description": "Journal table of contentsYearVolumes and Issues19478-11(**)19464-7(**)1945", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-03T04:59:31.534955: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/newly-online-journal-boletin.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "es", 
+        0.9999999999712605
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-410057600420437183", 
+            "resource_date": "2010-12-07T11:58:14.954-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:31.535571"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/newly-online-journal-boletin.html", 
+            "resource_date": "2010-12-07T11:58:14.954-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:31.535579"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bolet\u00edn Arqueol\u00f3gico del Sudeste Espa\u00f1ol", 
+    "url": "http://dialnet.unirioja.es/servlet/alerev?codigo=14101", 
+    "zotero_id": null
+}

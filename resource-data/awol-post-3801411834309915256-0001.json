@@ -1,0 +1,55 @@
+{
+    "description": "AMAR: One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-03T04:59:30.438191: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-sendschirli-in-amar.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Amar", 
+        "Berlin", 
+        "Mesopotamia", 
+        "Turkey", 
+        "Zinjirli", 
+        "archaeological site", 
+        "archaeology", 
+        "archive", 
+        "reports", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3801411834309915256", 
+            "resource_date": "2012-03-02T16:42:36.962-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:30.438803"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-sendschirli-in-amar.html", 
+            "resource_date": "2012-03-02T16:42:36.962-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:30.438811"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ausgrabungen in Sendschirli in AMAR", 
+    "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "zotero_id": null
+}

@@ -1,0 +1,53 @@
+{
+    "description": "The Prehistoric Society's interests are world wide and extend from the earliest human origins to the emergence of written records. The Society promotes prehistoric research; facilitates access to the results of this research; and recognises excellence, through its Awards and Grants. It also acts as an important advocate for prehistoric archaeology.An active programme of events \u2013 lectures, study tours, day- and weekend conferences, and research weekends \u2013 allows members to participate fully in the Society and to meet other members and interested parties. The study excursions are lead by professionals and those conducting recent research in the area \u2013 they provide an opportunity to engage with the sites and their researchers. Day visits and short study tours are also a part of a wide and diverse programme.The Society produces three publications: the annual peer-reviewed journal, the Proceedings of the Prehistoric Society (PPS); the topical newsletter, PAST, which is published in April, July and November; and the Research Papers monograph series. In addition, the Society publishes on-line book reviews...", 
+    "domain": "www.prehistoricsociety.org", 
+    "history": [
+        "2015-06-03T04:59:44.092796: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/open-access-journal-past-newsletter-of.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "book", 
+        "book reviews", 
+        "journal", 
+        "monograph", 
+        "newsletter", 
+        "open access", 
+        "prehistory", 
+        "proceedings"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6986261175638467240", 
+            "resource_date": "2012-08-04T07:49:58.465-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:44.093366"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-past-newsletter-of.html", 
+            "resource_date": "2012-08-04T07:49:58.465-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:44.093374"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "PAST: Newsletter of the Prehistoric Society", 
+    "url": "http://www.prehistoricsociety.org/publications/past/", 
+    "zotero_id": null
+}

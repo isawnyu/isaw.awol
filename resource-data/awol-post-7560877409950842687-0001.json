@@ -1,0 +1,52 @@
+{
+    "description": "Pal\u00e9o accueille, sans limitation de champ g\u00e9ographique, toute contribution traitant des pal\u00e9opopulations, activit\u00e9s humaines et comportements, pal\u00e9oenvironnements physique et biologique, chronologie et datation num\u00e9rique, stratigraphie (lithostratigraphie et biostratigraphie), g\u00e9oarch\u00e9ologie, art pal\u00e9olithique, pal\u00e9oanthropologie, \u00e9tude des industries, arch\u00e9ologie exp\u00e9rimentale, ethnoarch\u00e9ologie, processus de formation des sites, m\u00e9thodologie, conservation et pr\u00e9servation des vestiges de tout type.Pal\u00e9o se compose de divers supports : un bulletin p\u00e9riodique annuel comportant des articles originaux d\u2019int\u00e9r\u00eat national et international et des suppl\u00e9ments non soumis \u00e0 p\u00e9riodicit\u00e9 (actes de colloque, th\u00e8ses, monographies, etc.).", 
+    "domain": "paleo.revues.org", 
+    "history": [
+        "2015-06-03T04:59:46.423423: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/open-access-journals-paleo-revue.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "antiquity", 
+        "archaeology", 
+        "art", 
+        "conservation", 
+        "journal", 
+        "open access", 
+        "prehistory"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7560877409950842687", 
+            "resource_date": "2013-10-22T07:35:59.344-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:46.423968"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-paleo-revue.html", 
+            "resource_date": "2013-10-22T07:35:59.344-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:46.423976"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Pal\u00e9o: Revue d'Arch\u00e9ologie Pr\u00e9historique", 
+    "url": "http://paleo.revues.org/", 
+    "zotero_id": null
+}

@@ -1,0 +1,58 @@
+{
+    "description": "Australian Biblical Review is published by the Fellowship for Biblical Studies Inc. and, since 1951, has provided a forum for biblical scholars to make their research available to the international scholarly community.Although the majority of articles published are from Australian biblical scholars, issues include contributions from non-Australian authors, and many important contributions to biblical scholarship have been published in ABR over the years by scholars from around the world.Australian Biblical Review is published annually in October. It has a wide international readership and can be found in the great majority of theological libraries that have a good holding of journals of biblical scholarship. ABR is a refereed journal.", 
+    "domain": "www.fbs.org.au", 
+    "history": [
+        "2015-06-03T04:59:52.036958: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/partially-open-access-journal.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0045-0308"
+            ]
+        }
+    }, 
+    "keywords": [
+        "antiquity", 
+        "bible", 
+        "forum", 
+        "journal", 
+        "libraries", 
+        "open access", 
+        "religion", 
+        "theology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8852730275259242702", 
+            "resource_date": "2011-07-07T14:36:40.450-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:52.037511"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/partially-open-access-journal.html", 
+            "resource_date": "2011-07-07T14:36:40.450-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:52.037519"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Australian Biblical Review", 
+    "url": "http://www.fbs.org.au/abr.html", 
+    "zotero_id": null
+}

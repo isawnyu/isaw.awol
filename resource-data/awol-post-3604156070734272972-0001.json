@@ -1,0 +1,47 @@
+{
+    "description": "Mission arch\u00e9ologique en Iran: (cited variously as D\u00e9l\u00e9gation en Perse; Mission arch\u00e9ologique de Susiane; Mission arch\u00e9ologique de Perse, and commonly known as MDP).", 
+    "domain": "www.archive.org", 
+    "history": [
+        "2015-06-03T04:59:29.551932: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/mission-archeologique-en-iran-online.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Iran", 
+        "archaeology", 
+        "archive"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3604156070734272972", 
+            "resource_date": "2010-10-01T13:58:47.236-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:29.552544"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/mission-archeologique-en-iran-online.html", 
+            "resource_date": "2010-10-01T13:58:47.236-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:29.552552"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Mission arch\u00e9ologique en Iran Online", 
+    "url": "http://www.archive.org/search.php?query=Mission%20arch%C3%A9ologique%20en%20Iran", 
+    "zotero_id": null
+}

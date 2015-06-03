@@ -1,0 +1,45 @@
+{
+    "description": "Journal table of contents20124201132010220091Open Access Ancient Numismatics Journals", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-03T04:59:39.845719: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/open-access-journal-revista-numismatica.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "numismatics", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6051825158650478127", 
+            "resource_date": "2012-12-29T07:27:24.734-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:39.846281"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-revista-numismatica.html", 
+            "resource_date": "2012-12-29T07:27:24.734-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:39.846288"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Revista Numism\u00e1tica OMNI", 
+    "url": "http://dialnet.unirioja.es/servlet/revista?codigo=19789", 
+    "zotero_id": null
+}

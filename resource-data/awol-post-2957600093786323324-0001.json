@@ -1,0 +1,47 @@
+{
+    "description": "Gli Annali del Dipartimento di Filosofia dell'Universit\u00e0 di Firenze riflettono le ricerche scientifiche e le iniziative di studio legate all'attivit\u00e0 del Dipartimento. Pubblicati dal 1979 al 1984 con il titolo di Annali dell'Istituto di Filosofia dell'Universit\u00e0 di Firenze (Olschki, voll. 1-6), hanno successivamente assunto l'attuale denominazione (Olschki, 1985-1993, voll. 1-9). La nuova serie, iniziata col vol. I del 1995 presso le edizioni LED, \u00e8 pubblicata dalla Firenze University Press a partire dal vol. VIII del 2002.La pubblicazione beneficia di un contributo del Dipartimento. Il Direttore della rivista \u00e8 il Direttore del Dipartimento in carica.", 
+    "domain": "ejour-fup.unifi.it", 
+    "history": [
+        "2015-06-03T04:59:26.329200: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/07/open-accesss-journal-annali-del.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "it", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2957600093786323324", 
+            "resource_date": "2010-07-26T13:06:06.987-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:26.329757"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/open-accesss-journal-annali-del.html", 
+            "resource_date": "2010-07-26T13:06:06.987-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:26.329764"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Annali del Dipartimento di Filosofia", 
+    "url": "http://ejour-fup.unifi.it/index.php/adf/index", 
+    "zotero_id": null
+}

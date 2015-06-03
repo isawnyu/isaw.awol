@@ -1,0 +1,57 @@
+{
+    "description": "The Open Journal of Archaeometry is a new, peer-reviewed, Open Access, international scientific journal published by PAGEPress Publications. It is devoted to the publication of research articles, short communications and review papers on every aspect of archaeometry. Archaeometry \u2013 also known as archaeological science \u2013 applies scientific techniques to the analysis of archaeological materials. Research topics mainly comprise the following disciplines and analyzing techniques:physical and chemical dating methods, e.g. 14C and luminescence dating, which provide archaeologists with numerical and relative chronologies; analyses of artifacts, concerning provenance, technology and types of use; environmental approaches, which provide information on past changes in landscape, climate, flora, and fauna; anthropological studies dealing with diet, nutrition, health, and pathology of people mathematical methods for data treatment including the role of computers in handling, analyzing, and modeling the vast sources of data; remote-sensing and geophysical-survey applications, and conservation sciences involving the study of decay processes and the development of new methods of conservation. The Open Journal of Archaeometry may also host contextually relevant announcements, book reviews and abstracts from scientific meetings. Every article published in the Journal will be peer-reviewed by experts in the field and decided upon by members of the editorial board.", 
+    "domain": "www.pagepress.org", 
+    "history": [
+        "2015-06-03T04:59:34.658640: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/07/new-open-access-journal-open-journal-of.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "anthropology", 
+        "antiquity", 
+        "archaeological science", 
+        "archaeology", 
+        "book", 
+        "book reviews", 
+        "conference", 
+        "conservation", 
+        "data", 
+        "journal", 
+        "open access", 
+        "science", 
+        "technology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4867751042209958868", 
+            "resource_date": "2013-08-18T10:30:55.683-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:34.659244"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/new-open-access-journal-open-journal-of.html", 
+            "resource_date": "2013-08-18T10:30:55.683-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:34.659253"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open Journal of Archaeometry", 
+    "url": "http://www.pagepress.org/journals/index.php/arc/index", 
+    "zotero_id": null
+}

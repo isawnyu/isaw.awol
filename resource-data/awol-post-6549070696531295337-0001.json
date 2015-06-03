@@ -1,0 +1,48 @@
+{
+    "description": "Minerva:", 
+    "domain": "minervamagazine.co.uk", 
+    "history": [
+        "2015-06-03T04:59:42.155686: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/08/open-access-journal-minerva.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "antiquities", 
+        "antiquity", 
+        "book", 
+        "book reviews", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6549070696531295337", 
+            "resource_date": "2013-01-31T10:55:55.445-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:42.156282"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-minerva.html", 
+            "resource_date": "2013-01-31T10:55:55.445-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:42.156290"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Minerva", 
+    "url": "http://minervamagazine.co.uk/", 
+    "zotero_id": null
+}

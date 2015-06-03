@@ -1,0 +1,47 @@
+{
+    "description": "Plekos ist eine Internet-Fachzeitschrift f\u00fcr Rezensionen und Berichte zur Erforschung der Sp\u00e4tantike. Sie ber\u00fccksichtigt folgende Fachgebiete:Klassische PhilologieAlte GeschichteByzantinistikSprachwissenschaftPatristik\u00c4ltere KirchengeschichteKunstgeschichtePhilosophieKlassische Arch\u00e4ologieChristliche Arch\u00e4ologieProvinzialarch\u00e4ologie NumismatikHTML-Ausgaben: 1 (1998/99) | 2 (2000) | 3 (2001) | 4 (2002) | 5 (2003) | 6 (2004 ) | 7 (2005) | 8 (2006) | PDF-Ausgaben: 3 (2001) | 4 (2002) | 5 (2003) | 6 (2004) | 7 (2005) | 8 (2006)Ab Jahrgang 9 (2007) erscheint Plekos nur noch im PDF-Format mit Zugang \u00fcber die Startseiten9 (2007) | 10 (2008) | 11 (2009) |12 (2010) |13 (2011) |14 (2012)", 
+    "domain": "www.plekos.uni-muenchen.de", 
+    "history": [
+        "2015-06-03T04:59:50.259489: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/open-access-journal-plekos.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-839055421754444480", 
+            "resource_date": "2012-11-15T13:06:51.324-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:50.260029"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/open-access-journal-plekos.html", 
+            "resource_date": "2012-11-15T13:06:51.324-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:50.260037"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "plekos", 
+    "url": "http://www.plekos.uni-muenchen.de/startseite.html", 
+    "zotero_id": null
+}

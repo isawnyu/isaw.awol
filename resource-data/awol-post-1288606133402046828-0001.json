@@ -1,0 +1,60 @@
+{
+    "description": "Direction : Joseph Denooz, Serge RosmorducSommaire : Joseph Denooz, Serge RosmorducPr\u00e9face Dag T. T. Haug, Marius L. J\u00f8hndal, Hanne M. Eckhoff, Eirik Welo, Mari J. B. Hertzenberg, Angelika M\u00fcthComputational and Linguistic Issues in Designing a Syntactically Annotated Parallel Corpus of Indo-European Languages Svetlana Petrova, Michael Solf, Julia Ritz, Christian Chiarcos, Amir ZeldesBuilding and Using a Richly Annotated Interlinear Diachronic Corpus : The Case of Old High German Tatian Arnaldo Candido Junior, Sandra Maria Alu\u00edsioBuilding a Corpus-based Historical Portuguese Dictionary : Challenges and Opportunities Barbara McGillivray , Marco Passarotti , Paolo RuffoloThe Index Thomisticus Treebank Project : Annotation, Parsing and Valency Lexicon C\u00e9line Poudat, Dominique Longr\u00e9e Variations langagi\u00e8res et annotation morphosyntaxique du latin classique Gilles Souvay, Jean-Marie PierrelLGeRM Fran\u00e7ois Barth\u00e9lemyUne description morphologique structur\u00e9e en arbre du verbe akkadien qui utilise des structures de traits et des transducteurs multirubans Grzegorz KondrakIdenti\ufb01cation of Cognates and Recurrent Sound Correspondences in Word Lists Mark-Jan NederhofAutomatic Creation of Interlinear Text for Philological Purposes Notes de lecture R\u00e9sum\u00e9s de th\u00e8ses", 
+    "domain": "www.atala.org", 
+    "history": [
+        "2015-06-03T04:59:18.741420: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/one-off-journal-issues-traitement.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Christianity", 
+        "German", 
+        "Latin", 
+        "Mari", 
+        "Portuguese", 
+        "antiquity", 
+        "dictionaries", 
+        "history", 
+        "journal", 
+        "journal issues", 
+        "language", 
+        "lexicography", 
+        "lexicon", 
+        "open access", 
+        "project"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1288606133402046828", 
+            "resource_date": "2012-08-03T09:40:29.230-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:18.741985"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/one-off-journal-issues-traitement.html", 
+            "resource_date": "2012-08-03T09:40:29.230-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:18.741992"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Traitement automatique des langues et langues anciennes", 
+    "url": "http://www.atala.org/-Traitement-automatique-des-langues-", 
+    "zotero_id": null
+}

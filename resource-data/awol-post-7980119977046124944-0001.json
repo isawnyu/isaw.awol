@@ -1,0 +1,48 @@
+{
+    "description": "Erster Band. 1863.\u00a0PDF\u00a0Zweiter Band. 1865.\u00a0PDF\u00a0Dritter Band. 1866.\u00a0PDF\u00a0Vierter Band. 1868.\u00a0PDF\u00a0F\u00fcnfter Band. 1870.\u00a0PDF\u00a0Sechster Band. 1871 - 1873.", 
+    "domain": "digital.ub.uni-duesseldorf.de", 
+    "history": [
+        "2015-06-03T04:59:48.376922: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/open-access-journal-berliner-blatter.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "numismatics", 
+        "open access"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7980119977046124944", 
+            "resource_date": "2012-12-29T07:27:56.129-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:48.377572"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-berliner-blatter.html", 
+            "resource_date": "2012-12-29T07:27:56.129-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:48.377581"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Berliner Bl\u00e4tter f\u00fcr M\u00fcnz-, Siegel- und Wappenkunde", 
+    "url": "http://digital.ub.uni-duesseldorf.de/ihd/periodical/structure/4019925", 
+    "zotero_id": null
+}

@@ -1,0 +1,51 @@
+{
+    "description": "Assyriological Studies: are :", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-03T04:59:36.721030: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_23.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Akkadian", 
+        "Hittite", 
+        "Oriental Institute", 
+        "Sumerian", 
+        "backlist", 
+        "open access", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999976186
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5302722719132675692", 
+            "resource_date": "2012-11-30T17:36:36.147-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:36.721588"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_23.html", 
+            "resource_date": "2012-11-30T17:36:36.147-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:36.721596"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Newly Online from the Oriental Institute's Backlist", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/as/", 
+    "zotero_id": null
+}

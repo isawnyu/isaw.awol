@@ -1,0 +1,50 @@
+{
+    "description": "2013 No. 24 (January 2013)", 
+    "domain": "uottawa.scholarsportal.info", 
+    "history": [
+        "2015-06-03T04:59:49.956590: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/04/open-access-journal-canadio-byzantina.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Byzantium", 
+        "Canada", 
+        "antiquity", 
+        "journal", 
+        "newsletter", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8310687495533872421", 
+            "resource_date": "2013-04-29T09:16:08.758-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:49.957176"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/open-access-journal-canadio-byzantina.html", 
+            "resource_date": "2013-04-29T09:16:08.758-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:49.957184"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Canadio-Byzantina: A newsletter published by the Canadian Committee of Byzantinists", 
+    "url": "https://uottawa.scholarsportal.info/ojs/index.php/cb/index", 
+    "zotero_id": null
+}

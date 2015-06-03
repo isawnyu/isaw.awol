@@ -1,0 +1,51 @@
+{
+    "description": "Nuova Archeologia \u00e8 la rivista dei Gruppi Archeologici d'Italia nata dall'evoluzione della rivista cartacea Archeologia, il primo organo di stampa ufficiale dell'Associazione. Oggi la rivista \u00e8 una testata autonoma. Nuova Archeologia raccoglie tutte le notizie riguardanti l'affascinante mondo dei Beni Culturali, non cerca mai lo scoop ma vuole gridare e nello stesso tempo divulgare tutte le problematiche che ruotano intorno all'immenso patrimonio italiano.\u00a0 La rivista lavora per trasmettere le novit\u00e0 della ricerca archeologica, per informare sulle mostre museali presenti sul territorio italiano, per divulgare le attivit\u00e0 dei vari Gruppi Archeologici e prima fra tutti per sollecitare i lettori alla conoscenza e tutela dei Beni Culturali. Perch\u00e9 la forza di ogni rivista \u00e8 data dai suoi lettori, perch\u00e9 \u00e8 anche grazie a loro che Nuova Archeologia continuer\u00e0 la sua missione: informare.", 
+    "domain": "www.gruppiarcheologici.org", 
+    "history": [
+        "2015-06-03T04:59:53.106488: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-journal-nuova-archeologia.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "DAI", 
+        "Italy", 
+        "antiquity", 
+        "archaeology", 
+        "data", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "it", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9105143074614074003", 
+            "resource_date": "2013-01-29T10:24:16.399-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:53.107079"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-journal-nuova-archeologia.html", 
+            "resource_date": "2013-01-29T10:24:16.399-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:53.107087"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Nuova Archeologia", 
+    "url": "http://www.gruppiarcheologici.org/news_pubblicazioni/nuova_archeologia/", 
+    "zotero_id": null
+}

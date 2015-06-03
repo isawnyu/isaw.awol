@@ -1,0 +1,44 @@
+{
+    "description": "MOD is on-line!MOD (Mappa Open Data archaeological archive) is on-line! We wait your opinions\u2026Posted on 11 June 2012 In News da Mappa Mappa 1 is on-line! Free download!MAPPA 1 is on-line!Anichini F., Fabiani F., Gattiglia G., Gualandi M.L. (a cura di ) 2012,\u00a0 MAPPA. Metodologie Applicate alla Predittivit\u00e0 del Potenziale Archeologico, vol.1, Roma Free DownloadPosted on 6 June 2012 In News da Mappa Sotto la superficie 2012. Pisa, San Michele degli Scalzi, 7 giugnoSorry, this entry is only available in Italiano.", 
+    "domain": "mappaproject.arch.unipi.it", 
+    "history": [
+        "2015-06-03T04:59:29.782539: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/mappa-news.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "archaeology", 
+        "data"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3663473797343335070", 
+            "resource_date": "2012-06-11T16:59:14.382-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:29.783079"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/mappa-news.html", 
+            "resource_date": "2012-06-11T16:59:14.382-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:29.783086"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Mappa News", 
+    "url": "http://mappaproject.arch.unipi.it/?page_id=86&lang=en", 
+    "zotero_id": null
+}

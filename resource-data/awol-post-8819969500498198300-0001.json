@@ -1,0 +1,47 @@
+{
+    "description": "VERITAS es una revista de Filosof\u00eda y Teolog\u00eda fundada en 1994 por el Pontificio Seminario Mayor San Rafael de Valpara\u00edso (Chile). Publica dos n\u00fameros al a\u00f1o. Se compone de tres secciones: Tem\u00e1tica, Filosof\u00eda y Teolog\u00eda.VERITAS tiene como objetivo difundir entre los docentes y alumnnos del Seminario, as\u00ed como tambi\u00e9n de otras instituciones eclesi\u00e1sticas y universitarias nacionales y extranjeras, el resultado de la investigaci\u00f3n en las \u00e1reas de la Filosof\u00eda y la Teolog\u00eda. As\u00ed, y desde su talante cat\u00f3lica, pretende la reflexi\u00f3n y el debate abierto en la vida acad\u00e9mica.", 
+    "domain": "www.revistaveritas.cl", 
+    "history": [
+        "2015-06-03T04:59:51.873136: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/07/open-access-journal-veritas.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8819969500498198300", 
+            "resource_date": "2010-07-09T06:28:22.408-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:51.873740"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/open-access-journal-veritas.html", 
+            "resource_date": "2010-07-09T06:28:22.408-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:51.873748"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Veritas", 
+    "url": "http://www.revistaveritas.cl/", 
+    "zotero_id": null
+}

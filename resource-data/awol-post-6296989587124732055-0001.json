@@ -1,0 +1,51 @@
+{
+    "description": "Cyrus\u2019 Paradise is the world\u2019s first comprehensive, online, collaborative commentary for a Classical text: Xenophon\u2019s Education of Cyrus (Cyropaedia). Cyrus\u2019 Paradise incorporates contributions from all generations and communities, from high school and college students to advanced professors to amateur enthusiasts. Contributions take the form of multimedia (pictures, audio, video), grammatical and syntactical instruction, and discussion in the form of questions, comments, and blog posts. Because it is always growing, the collaborative commentary is designed to produce new readings of the text with every new participant. It may be used as a tool for scholarly research at any stage, from a prospectus to a polished article. It may also be used as an intermediate or upper-level Greek text. Sample syllabuses are provided here. Our approach has been to provide students with every conceivable resource for understanding and interpreting the text (e.g., grammatical/syntactical aid, parsing, tree-banking, vocabulary, video instruction, audio recordings), while at the same time developing every conceivable way to assess student mastery.", 
+    "domain": "www.cyropaedia.org", 
+    "history": [
+        "2015-06-03T04:59:41.000708: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/08/cyrus-paradise-worlds-first-online.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Greek", 
+        "antiquity", 
+        "blog", 
+        "classics", 
+        "collaboration", 
+        "education", 
+        "video"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6296989587124732055", 
+            "resource_date": "2013-08-07T18:58:20.104-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:41.001282"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/cyrus-paradise-worlds-first-online.html", 
+            "resource_date": "2013-08-07T18:58:20.104-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:41.001289"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Cyrus' Paradise: The World's First Online Collaborative Commentary to an Ancient Text", 
+    "url": "http://www.cyropaedia.org/", 
+    "zotero_id": null
+}

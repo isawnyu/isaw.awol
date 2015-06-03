@@ -1,0 +1,54 @@
+{
+    "description": "La M\u00e9sopotamie entre 2000 \u00e0 1600 av. J.-C. a vu une v\u00e9ritable explosion dans l'usage de l'\u00e9crit, qui s'est traduite par la multiplication des archives et la transformation de leur nature. La civilisation babylonienne de cette p\u00e9riode nous a ainsi fourni une des documentations les plus riches et les plus vari\u00e9es de toute l'Antiquit\u00e9. Il s'agit d'une source d'un int\u00e9r\u00eat consid\u00e9rable pour l'ensemble des sciences humaines (histoire, histoire du droit, anthropologie, sciences de l'information et de la communication, etc.), mais sous-exploit\u00e9e faute d'instruments de travail ad\u00e9quats.", 
+    "domain": "www.archibab.fr", 
+    "history": [
+        "2015-06-03T04:59:45.588346: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/open-access-cuneiform-texts-archibab.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Assyriology", 
+        "Mari", 
+        "Mesopotamia", 
+        "Old Babylonian", 
+        "archaeology", 
+        "catalogue", 
+        "cuneiform", 
+        "history", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7348807425160176673", 
+            "resource_date": "2013-06-27T11:32:08.577-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:45.588976"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-cuneiform-texts-archibab.html", 
+            "resource_date": "2013-06-27T11:32:08.577-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:45.588984"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ARCHIBAB", 
+    "url": "http://www.archibab.fr/", 
+    "zotero_id": null
+}

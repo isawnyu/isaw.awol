@@ -1,0 +1,52 @@
+{
+    "description": "Journal of Interactive Humanities The Journal of Interactive Humanities is a peer-reviewed, open access journal that provides a forum for discussion and publication on the intersection of interactive media, design and the humanities.", 
+    "domain": "scholarworks.rit.edu", 
+    "history": [
+        "2015-06-03T04:59:18.398671: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/10/new-open-access-journal-journal-of_17.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "art", 
+        "forum", 
+        "journal", 
+        "journal issues", 
+        "open access", 
+        "technology", 
+        "video"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1172039598857440059", 
+            "resource_date": "2013-10-17T15:54:09.567-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:18.399231"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/new-open-access-journal-journal-of_17.html", 
+            "resource_date": "2013-10-17T15:54:09.567-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:18.399239"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Journal of Interactive Humanities", 
+    "url": "http://scholarworks.rit.edu/jih/", 
+    "zotero_id": null
+}

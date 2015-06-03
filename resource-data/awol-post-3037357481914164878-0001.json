@@ -1,0 +1,51 @@
+{
+    "description": "Heritage Daily is an independent online archaeology and palaeontology magazine, dedicated to the heritage and history of the world. We identified the need for a central resource offering the latest archaeological/palaeontological news, journals, articles and press releases.Our contributors range from students currently studying archaeology at University, professional academics working in the field, historians and those with an interest in the archaeological discipline. We accept stories from anyone wishing to contribute and publish their material on a leading editorial platform.HeritageDaily is staffed by a volunteer team of archaeologists, corresponding from all corners of the world. Staff are based in Norway, the United States, Egypt, Australia and with our main editorial team based in the United Kingdom London.", 
+    "domain": "www.heritagedaily.com", 
+    "history": [
+        "2015-06-03T04:59:26.768508: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/open-access-journal-heritage-daily.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Australia", 
+        "antiquity", 
+        "archaeology", 
+        "heritage", 
+        "history", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3037357481914164878", 
+            "resource_date": "2013-07-24T13:37:12.329-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:26.769058"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-heritage-daily.html", 
+            "resource_date": "2013-07-24T13:37:12.329-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:26.769066"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Heritage Daily", 
+    "url": "http://www.heritagedaily.com/", 
+    "zotero_id": null
+}

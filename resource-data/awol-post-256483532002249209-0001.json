@@ -1,0 +1,48 @@
+{
+    "description": "A New Tool for the Digital HumanitiesT\u2011PEN is a web-based tool for working with images of manuscripts. Users attach transcription data (new or uploaded) to the actual lines of the original manuscript in a simple, flexible interface. InteroperabilityT\u2011PEN... Is an open and general tool for scholars of any technical expertise levelAllows transcriptions to be created, manipulated, and viewed in many waysCollaborate with others through simple project managementExports transcriptions as a pdf, XML(plaintext) for further processing, or contribute to a collaborating institution with a clickRespects existing and emerging standards for text, image, and annotation data storageAvoids prejudice in data, allowing users to find new ways to work", 
+    "domain": "t-pen.org", 
+    "history": [
+        "2015-06-03T04:59:24.807865: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/t-pen-transcription-for-paleographical.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "data", 
+        "imagery", 
+        "manuscripts", 
+        "project"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-256483532002249209", 
+            "resource_date": "2012-05-07T10:51:20.202-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:24.808446"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/t-pen-transcription-for-paleographical.html", 
+            "resource_date": "2012-05-07T10:51:20.202-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:24.808454"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "T-PEN: transcription for paleographical and editorial notation", 
+    "url": "http://t-pen.org/TPEN/", 
+    "zotero_id": null
+}

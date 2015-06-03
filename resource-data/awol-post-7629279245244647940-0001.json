@@ -1,0 +1,52 @@
+{
+    "description": "Opuscula: Short Texts of the Middle Ages and Renaissance is a peer-reviewed, on-line journal/text series published by Classical, Medieval and Renaissance Studies at the University of Saskatchewan, specializing in short texts of the Middle Ages and Renaissance. We seek single-witness editions of a broad range of pre-modern texts including but not limited to literary and philosophical works, letters, charters, court documents, and notebooks.The goal of the journal is to establish open access to a substantial body of small but complete texts in scholarly editions to researchers and educators. Our first issue will be published in 2011.", 
+    "domain": "opuscula.synergiesprairies.ca", 
+    "history": [
+        "2015-06-03T04:59:46.723950: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/new-open-access-journal-opuscula-short.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Middle Ages", 
+        "Renaissance", 
+        "antiquity", 
+        "journal", 
+        "journal issues", 
+        "literature", 
+        "open access", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7629279245244647940", 
+            "resource_date": "2012-09-11T06:24:34.345-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:46.724558"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/new-open-access-journal-opuscula-short.html", 
+            "resource_date": "2012-09-11T06:24:34.345-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:46.724566"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Opuscula: Short Texts of the Middle Ages and Renaissance", 
+    "url": "http://opuscula.synergiesprairies.ca/ojs/index.php/opuscula", 
+    "zotero_id": null
+}

@@ -1,0 +1,47 @@
+{
+    "description": "Greek Literature in Late Antiquity: Dynamism, Didacticism, Classicism:", 
+    "domain": "chs.harvard.edu", 
+    "history": [
+        "2015-06-03T04:59:21.577389: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/01/newly-online-from-center-for-hellenic.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "late antiquity", 
+        "literature", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999999977977692
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1843222016928864122", 
+            "resource_date": "2011-01-20T14:10:54.835-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:21.577942"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/01/newly-online-from-center-for-hellenic.html", 
+            "resource_date": "2011-01-20T14:10:54.835-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:21.577949"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Newly Online from the Center for Hellenic Studies", 
+    "url": "http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3267", 
+    "zotero_id": null
+}

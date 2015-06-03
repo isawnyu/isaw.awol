@@ -1,0 +1,55 @@
+{
+    "description": "\"Egypt, 4000 years ago, a land of strange rituals and savage cruelty...\"(trailer of The Mummy, 1959)", 
+    "domain": "www.ancientegyptfilmsite.nl", 
+    "history": [
+        "2015-06-03T04:59:23.046976: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/08/ancient-egypt-in-film.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Egypt", 
+        "antiquity", 
+        "book", 
+        "collecting", 
+        "egyptology", 
+        "monuments", 
+        "reception", 
+        "series", 
+        "travel", 
+        "video"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2170546267912810197", 
+            "resource_date": "2013-08-28T06:06:11.105-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:23.047533"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/08/ancient-egypt-in-film.html", 
+            "resource_date": "2013-08-28T06:06:11.105-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:23.047541"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ancient Egypt in Film", 
+    "url": "http://www.ancientegyptfilmsite.nl/", 
+    "zotero_id": null
+}

@@ -1,0 +1,51 @@
+{
+    "description": "Diffuser la richesse des \u00e9changes scientifiques r\u00e9ussis entre jeunes chercheurs, voil\u00e0 le d\u00e9fi relev\u00e9 par ces nouvelles Annales\u00a0! Cette revue a en effet pour vocation de publier les actes des journ\u00e9es d\u2019\u00e9tudes organis\u00e9es chaque ann\u00e9e par l\u2019association Janua. Celle-ci, fond\u00e9e \u00e0 Poitiers, f\u00e9d\u00e8re des \u00e9tudiants de Master et des doctorants sp\u00e9cialis\u00e9s dans l\u2019analyse des p\u00e9riodes antiques et m\u00e9di\u00e9vales. Les rencontres scientifiques qu\u2019elle organise sont diachroniques et pluridisciplinaires afin de favoriser un dialogue entre diff\u00e9rentes mani\u00e8res d\u2019aborder la recherche. La publication num\u00e9rique des articles issus des communications permettra \u00e0 chacun d\u2019y retrouver soit la diversit\u00e9 des approches envisag\u00e9es soit la sp\u00e9cificit\u00e9 d\u2019un sujet trait\u00e9 par un jeune chercheur. Un comit\u00e9 scientifique compos\u00e9 de chercheurs et d\u2019enseignants-chercheurs est associ\u00e9 au d\u00e9roulement de l\u2019ensemble du projet.", 
+    "domain": "annalesdejanua.edel.univ-poitiers.fr", 
+    "history": [
+        "2015-06-03T04:59:39.894267: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/open-access-journal-annales-de-janua.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "ancient", 
+        "antiquity", 
+        "archaeology", 
+        "history", 
+        "journal", 
+        "open access", 
+        "science"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6057210403388920442", 
+            "resource_date": "2013-07-20T06:41:36.606-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:39.894833"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-annales-de-janua.html", 
+            "resource_date": "2013-07-20T06:41:36.606-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:39.894841"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Annales de Janua \u2013 Actes des journ\u00e9es d\u2019\u00e9tudes", 
+    "url": "http://annalesdejanua.edel.univ-poitiers.fr/", 
+    "zotero_id": null
+}

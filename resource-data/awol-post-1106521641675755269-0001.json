@@ -1,0 +1,49 @@
+{
+    "description": "Esta nueva edici\u00f3n actualizada de las listas de ediciones de referencia y de abreviaturas empleadas en el DGE es la misma que acompa\u00f1a a la segunda edici\u00f3n revisada y aumentada del volumen I, publicado en 2008. Un suplemento, todav\u00eda in\u00e9dito y sin concluir, que aparecer\u00e1 en el volumen VIII, es presentado por separado. La indicaci\u00f3n Supl. en las listas permite consultar individualmente los a\u00f1adidos y correcciones de este nuevo suplemento. Un sistema de men\u00fas facilita el desplazamiento r\u00e1pido entre unas y otras listas y tambi\u00e9n dentro de ellas.En las listas I-III todas las referencias bibliogr\u00e1ficas abreviadas son enlaces que permiten acceder c\u00f3modamente al lugar de la lista IV donde la abreviatura en cuesti\u00f3n es resuelta. Inversamente, en la lista IV todas las abreviaturas de autores y obras, de papiros y \u00f3straca y de inscripciones tambi\u00e9n son enlaces que permiten acceder a la entrada correspondiente de las listas I-III. Adem\u00e1s, en todas las listas las referencias cruzadas entre dos entradas son enlaces que tambi\u00e9n facilitan una consulta r\u00e1pida y eficaz.El trabajo de preparaci\u00f3n y revisi\u00f3n de este original inform\u00e1tico ha corrido a cargo de Juan Rodr\u00edguez Somolinos, con la colaboraci\u00f3n de Eugenio Luj\u00e1n Mart\u00ednez.", 
+    "domain": "dge.cchs.csic.es", 
+    "history": [
+        "2015-06-03T04:59:18.058165: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/diccionario-griego-espanol-canon-lists.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Greek", 
+        "Spain", 
+        "bibliography", 
+        "classics", 
+        "thesaurus"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1106521641675755269", 
+            "resource_date": "2013-09-03T09:43:42.768-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:18.058708"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/diccionario-griego-espanol-canon-lists.html", 
+            "resource_date": "2013-09-03T09:43:42.768-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:18.058715"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "DICCIONARIO GRIEGO-ESPA\u00d1OL Canon Lists of editions and abbreviations", 
+    "url": "http://dge.cchs.csic.es/lst/lst-int.htm", 
+    "zotero_id": null
+}

@@ -1,0 +1,51 @@
+{
+    "description": "\"Fond\u00e9e en 1971 par le D\u00e9partement de litt\u00e9rature fran\u00e7aise de Paris VIII et Larousse, Litt\u00e9rature est la revue de critique et de r\u00e9flexion contemporaines sur la cr\u00e9ation litt\u00e9raire. R\u00e9flexions critiques sur l'invention des formes litt\u00e9raires anciennes et contemporaines, cette revue est un p\u00f4le de r\u00e9flexion sur le r\u00f4le inventif de la litt\u00e9rature dans l'\u00e9volution des soci\u00e9t\u00e9s et des cultures. Au croisement des sciences humaines et des arts, les collaborateurs venus de nombreux pays entretiennent le dialogue avec un lectorat international et abordent parfois le champ de l'histoire des sciences et des id\u00e9es.\"", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T04:59:40.778385: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Roman", 
+        "antiquity", 
+        "imagery", 
+        "journal", 
+        "journal issues", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
+            "resource_date": "2012-08-03T09:39:09.216-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:40.778961"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
+            "resource_date": "2012-08-03T09:39:09.216-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:40.778968"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Litt\u00e9rature", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/revue/litt", 
+    "zotero_id": null
+}

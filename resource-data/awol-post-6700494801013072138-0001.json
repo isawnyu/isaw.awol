@@ -1,0 +1,56 @@
+{
+    "description": "The Digital Fornv\u00e4nnen", 
+    "domain": "fornvannen.se", 
+    "history": [
+        "2015-06-03T04:59:43.110058: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/open-access-journal-fornvannen.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Middle Ages", 
+        "antiquity", 
+        "archaeology", 
+        "catalogue", 
+        "cultural heritage", 
+        "culture", 
+        "heritage", 
+        "history", 
+        "journal", 
+        "open access", 
+        "publisher", 
+        "website"
+    ], 
+    "language": [
+        "fi", 
+        0.9999830768551133
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6700494801013072138", 
+            "resource_date": "2011-07-07T09:15:02.831-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:43.110611"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/open-access-journal-fornvannen.html", 
+            "resource_date": "2011-07-07T09:15:02.831-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:43.110619"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Fornv\u00e4nnen", 
+    "url": "http://fornvannen.se/fornvannen.html", 
+    "zotero_id": null
+}

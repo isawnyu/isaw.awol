@@ -1,0 +1,46 @@
+{
+    "description": "Studies in Honor of Benno Landsberger on His Seventy-fifth Birthday, April 21, 1963.: Edited by Hans G. G\u00fcterbock and Thorkild Jacobsen. Originally published in 1965.", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-03T04:59:49.173897: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/04/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Oriental Institute", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8174888293195998402", 
+            "resource_date": "2011-04-08T15:22:55.950-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:49.174643"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/newly-online-from-oriental-institutes.html", 
+            "resource_date": "2011-04-08T15:22:55.950-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:49.174652"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Studies in Honor of Benno Landsberger", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/as/as16.html", 
+    "zotero_id": null
+}

@@ -1,0 +1,49 @@
+{
+    "description": "Ren\u00e9 Ginouv\u00e8s (1926-1994) \u00e9tait professeur d'arch\u00e9ologie, sp\u00e9cialiste d'architecture grecque et l'un des pr\u00e9curseurs de l'application de l'informatique \u00e0 l'arch\u00e9ologie. Enseignant au d\u00e9partement d'histoire de l'art et d'arch\u00e9ologie \u00e0 l'Universit\u00e9 de Paris X - Nanterre (devenue Paris Ouest), il a cr\u00e9\u00e9 la Maison de l'Arch\u00e9ologie et de l'Ethnologie \u00e0 Nanterre. Anne-Marie Guimier-Sorbets Yvette Morizot, avec la collaboration de Virginie Fromageot-Lani\u00e8pce \u00a9 Ce site a \u00e9t\u00e9 con\u00e7u par l'\u00e9quipe Arch\u00e9ologie du Mone Grec et syst\u00e8mes d\u2019information de l'UMR Arch\u00e9ologies et Sciences de l\u2019antiquit\u00e9 (ArScAn), CNRS, Universit\u00e9s Paris I et Paris Ouest, Minist\u00e8re de la culture, Nanterre, 2004 (mise \u00e0 jour 2011).", 
+    "domain": "www.mae.u-paris10.fr", 
+    "history": [
+        "2015-06-03T04:59:27.731696: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/10/online-hommage-rene-ginouves.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "archaeology", 
+        "biography", 
+        "collaboration", 
+        "journal", 
+        "website"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3157686799286571596", 
+            "resource_date": "2013-10-08T10:41:00.100-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:27.732293"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/online-hommage-rene-ginouves.html", 
+            "resource_date": "2013-10-08T10:41:00.100-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:27.732301"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Online Hommage \u00e0 Ren\u00e9 Ginouv\u00e8s", 
+    "url": "http://www.mae.u-paris10.fr/ginouves/", 
+    "zotero_id": null
+}

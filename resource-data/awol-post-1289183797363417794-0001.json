@@ -1,0 +1,51 @@
+{
+    "description": "Deep Blue provides access to the work that makes the University of Michigan a leader in research, teaching, and creativity. By representing our faculty, staff, and student scholars as individuals and as members of communities, Deep Blue is where you will find and the Library preserves the best scholarly and artistic work done at Michigan.", 
+    "domain": "deepblue.lib.umich.edu", 
+    "history": [
+        "2015-06-03T04:59:18.747788: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-to-university-of-michigan.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Michigan", 
+        "Middle East", 
+        "Near East", 
+        "North Africa", 
+        "antiquity", 
+        "open access", 
+        "theses"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1289183797363417794", 
+            "resource_date": "2010-09-05T13:23:09.165-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:18.748406"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-to-university-of-michigan.html", 
+            "resource_date": "2010-09-05T13:23:09.165-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:18.748415"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open Access to University of Michigan Scholarship", 
+    "url": "http://deepblue.lib.umich.edu/about/index.html", 
+    "zotero_id": null
+}

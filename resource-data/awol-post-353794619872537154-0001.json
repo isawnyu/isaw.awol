@@ -1,0 +1,66 @@
+{
+    "description": "Le Wiki Culture Diff' constitue un espace de diffusion des travaux de chercheurs en sciences exactes et sciences humaines. Diverses publications dans les domaines de l'Astro-Egyptologie, de l'Egyptologie, de la G\u00e9ophysique et de la Glaciologie sont d'ores et d\u00e9j\u00e0 disponibles. Il s'agit d'articles en fran\u00e7ais ou en anglais au format pdf dont le contenu se veut accessible \u00e0 tous et gratuitement.", 
+    "domain": "www.culturediff.org", 
+    "history": [
+        "2015-06-03T04:59:29.322432: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/08/egyotilogical-wiki-culture-diff.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Africa", 
+        "CNRS", 
+        "Egypt", 
+        "Europe", 
+        "Hierakonpolis", 
+        "Renaissance", 
+        "antiquity", 
+        "archaeology", 
+        "catalogue", 
+        "ceramics", 
+        "conference", 
+        "culture", 
+        "data", 
+        "database", 
+        "egyptology", 
+        "journal", 
+        "military", 
+        "papyrology", 
+        "pottery", 
+        "religion", 
+        "website", 
+        "wiki"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-353794619872537154", 
+            "resource_date": "2010-08-05T10:13:56.330-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:29.323033"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/08/egyotilogical-wiki-culture-diff.html", 
+            "resource_date": "2010-08-05T10:13:56.330-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:29.323041"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Egypotological wiki: Culture Diff'", 
+    "url": "http://www.culturediff.org/wikiegypto.htm", 
+    "zotero_id": null
+}

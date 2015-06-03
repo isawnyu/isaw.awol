@@ -1,0 +1,52 @@
+{
+    "description": "The Ostracon is the official research publication of the Egyptian Study Society. It contains articles by ESS members and papers by archaeologists and Egyptologists documenting their research, special areas of interest, and personal experiences. Regular features also include reviews of lectures, books, and exhibits.\u00a0Current Issue Archive", 
+    "domain": "www.egyptstudy.org", 
+    "history": [
+        "2015-06-03T04:59:52.248548: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal-ostracon.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Egypt", 
+        "antiquity", 
+        "archive", 
+        "egyptology", 
+        "journal", 
+        "journal issues", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8887508825782726627", 
+            "resource_date": "2013-04-24T13:27:47.738-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:52.249157"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-ostracon.html", 
+            "resource_date": "2013-04-24T13:27:47.738-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:52.249165"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Ostracon", 
+    "url": "http://www.egyptstudy.org/nonMembers/ostraconCurrentArticle.html", 
+    "zotero_id": null
+}

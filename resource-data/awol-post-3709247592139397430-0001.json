@@ -1,0 +1,54 @@
+{
+    "description": "Lead isotope analysis is at present the most successful method of establishing the geographical origin of lead present in ancient metals and other materials, for which minerals containing lead were used in their manufacture, for example: pigments, glass, glaze and paint.\u00a0\u00a0\u00a0This method of provenancing is based on comparisons of three lead isotope ratios of artefacts that are under investigation with the available lead isotope data for ore deposits.\u00a0\u00a0\u00a0The lead isotope ratios for comparisons have to be measured very accurately (with an overall error of <0.1%). At present there are only two techniques available that can provide this accuracy and total intercomparability: Thermal Ionisation Mass Spectrometry (TIMS) and Multicollector Inductively Coupled Plasma Mass Spectrometry (MC-ICP-MS). All data in the Isotrace Laboratory at Oxford was taken using Multicollector TIMS. The methodology of measurements is described in Stos-Gale et al. 1995 and Gale and Stos-Gale 2000. Additionally in Baker et al 2006 there is a discussion of the comparison of data obtained by MC-ICP-MS and TIMS.\u00a0\u00a0The OXALID database published on this website will include lead isotope data for ore deposits and archaeological artefacts analysed at the Isotrace Laboratory of the University of Oxford in the years 1978-2001. The data for ores was partly published in the journal ' Archaeometry' in the years 1995-1998, much of the other data included in OXALID has also been published, but it is believed that bringing together all these data on one website in digital format\u00a0 will provide a useful resource for students and academics using lead isotope provenance studies for tracing the development of patterns of exploitation and trade of\u00a0 mineral based man made materials.", 
+    "domain": "oxalid.arch.ox.ac.uk", 
+    "history": [
+        "2015-06-03T04:59:29.985047: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/oxford-archaeological-lead-isotope.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "University of Oxford", 
+        "antiquity", 
+        "archaeological science", 
+        "archaeology", 
+        "data", 
+        "database", 
+        "journal", 
+        "metallurgy", 
+        "trade", 
+        "website"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3709247592139397430", 
+            "resource_date": "2013-02-19T09:03:22.060-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:29.985739"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/oxford-archaeological-lead-isotope.html", 
+            "resource_date": "2013-02-19T09:03:22.060-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:29.985750"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Oxford Archaeological Lead Isotope Database Online", 
+    "url": "http://oxalid.arch.ox.ac.uk/", 
+    "zotero_id": null
+}

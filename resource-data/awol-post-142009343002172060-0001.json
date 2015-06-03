@@ -1,0 +1,48 @@
+{
+    "description": "DigItalia, rivista del digitale nei beni culturali, edita dall'ICCU,\u00a0intende contribuire a colmare un vuoto nel campo dell\u2019editoria periodica specializzata in Italia, individuando quale obiettivo primario lo studio ed il dibattito critico sulle tematiche relative all\u2019applicazione delle tecnologie digitali alle varie tipologie del patrimonio culturale.", 
+    "domain": "digitalia.sbn.it", 
+    "history": [
+        "2015-06-03T04:59:19.173536: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/open-access-journal-digitalia-rivista.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Italy", 
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "it", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-142009343002172060", 
+            "resource_date": "2012-03-20T12:14:02.014-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:19.174185"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-digitalia-rivista.html", 
+            "resource_date": "2012-03-20T12:14:02.014-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:19.174194"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "DigItalia, rivista del digitale nei beni culturali", 
+    "url": "http://digitalia.sbn.it/genera.jsp", 
+    "zotero_id": null
+}

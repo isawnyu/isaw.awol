@@ -1,0 +1,49 @@
+{
+    "description": "To allow you to view the latest Egyptology events happening in the North of Britain.", 
+    "domain": "egyptology-north.co.uk", 
+    "history": [
+        "2015-06-03T04:59:35.130604: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-journal-egyptology-north.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "egyptology", 
+        "journal", 
+        "newsletter", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4927328069357932701", 
+            "resource_date": "2012-04-19T18:17:49.591-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:35.131186"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-egyptology-north.html", 
+            "resource_date": "2012-04-19T18:17:49.591-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:35.131195"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Egyptology North", 
+    "url": "http://egyptology-north.co.uk/newsletters/", 
+    "zotero_id": null
+}

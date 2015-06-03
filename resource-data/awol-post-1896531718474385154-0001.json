@@ -1,0 +1,56 @@
+{
+    "description": "Download and read back issues of Nekhen News, the Hierakonpolis Expedition's newsletter, in PDF format - which is accessible by using Adobe Acrobat Reader (which is free to download).", 
+    "domain": "www.hierakonpolis-online.org", 
+    "history": [
+        "2015-06-03T04:59:21.782483: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/07/open-access-journal-nekhen-news.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Cairo", 
+        "Egypt", 
+        "Hierakonpolis", 
+        "antiquity", 
+        "archaeology", 
+        "conservation", 
+        "journal", 
+        "journal issues", 
+        "monuments", 
+        "old kingdom", 
+        "open access", 
+        "reports"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1896531718474385154", 
+            "resource_date": "2013-12-26T10:36:50.830-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:21.783053"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/open-access-journal-nekhen-news.html", 
+            "resource_date": "2013-12-26T10:36:50.830-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:21.783060"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Nekhen News", 
+    "url": "http://www.hierakonpolis-online.org/index.php/nekhen-news", 
+    "zotero_id": null
+}

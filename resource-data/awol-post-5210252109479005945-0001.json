@@ -1,0 +1,55 @@
+{
+    "description": "Animalmummies.net is a searchable database of Ancient Egyptian animal mummies. Animal mummies were created by the millions during the Late-Roman Periods in Egypt, mostly to be used as votive offerings at temples of gods associated with those animals. Some were extravagantly made with decorations and colorful wrappings to be sold at high prices at the temples. During early excavations in Egypt, many animal mummies were dug up and discarded. Very few examples were saved and sent to museums. This has resulted in only a small sampling of these objects being studied. Animal mummies, however, provide important insight into the lives and religion of Ancient Egyptians during a crucial point in their history and deserve to be studied in-depth.This site was created as a resource for both scholars and the interested public in the hopes that it may become a collaborative project to help gather information on animal mummies. We encourage contributions from museums, researchers and individuals in the hopes of enlarging the corpus.Searches can be done on any of the descriptive fields as well as advanced searches, which combine two or more fields. There is also a Browse mode which lists mummies by animal type, wrapping type and museum.", 
+    "domain": "animalmummies.net", 
+    "history": [
+        "2015-06-03T04:59:36.281592: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/01/open-access-database-animal-mummies.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "archaeology", 
+        "collaboration", 
+        "data", 
+        "database", 
+        "egyptology", 
+        "history", 
+        "mummies", 
+        "open access", 
+        "project", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5210252109479005945", 
+            "resource_date": "2011-01-04T11:15:35.245-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:36.282216"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/01/open-access-database-animal-mummies.html", 
+            "resource_date": "2011-01-04T11:15:35.245-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:36.282224"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Animal Mummies", 
+    "url": "http://animalmummies.net/", 
+    "zotero_id": null
+}

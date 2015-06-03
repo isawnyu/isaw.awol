@@ -1,0 +1,63 @@
+{
+    "description": "FOLD&R is an archaeological journal published since 2004 by the International Association for Classical Archaeology in collaboration with the Italian Ministry for Cultural Heritage and Activities.", 
+    "domain": "www.fastionline.org", 
+    "history": [
+        "2015-06-03T04:59:41.802958: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/open-access-journal-fold.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1828-3179"
+            ]
+        }
+    }, 
+    "keywords": [
+        "Italian", 
+        "Italy", 
+        "antiquity", 
+        "archaeology", 
+        "classics", 
+        "collaboration", 
+        "cultural heritage", 
+        "culture", 
+        "heritage", 
+        "journal", 
+        "law", 
+        "open access", 
+        "reports"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6485308727897627331", 
+            "resource_date": "2012-04-30T11:54:26.357-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:41.803498"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-fold.html", 
+            "resource_date": "2012-04-30T11:54:26.357-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:41.803506"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "FOLD&R", 
+    "url": "http://www.fastionline.org/folder.php", 
+    "zotero_id": null
+}

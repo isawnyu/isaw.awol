@@ -1,0 +1,56 @@
+{
+    "description": "AMAR: One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-03T04:59:27.280539: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/beycesultan-in-amar.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Amar", 
+        "Mesopotamia", 
+        "archaeological site", 
+        "archaeology", 
+        "architecture", 
+        "archive", 
+        "bronze", 
+        "ceramics", 
+        "pottery", 
+        "reports", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3129339539768469992", 
+            "resource_date": "2012-03-02T16:40:53.442-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:27.281075"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/beycesultan-in-amar.html", 
+            "resource_date": "2012-03-02T16:40:53.442-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:27.281082"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Beycesultan in AMAR", 
+    "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "zotero_id": null
+}

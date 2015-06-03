@@ -1,0 +1,59 @@
+{
+    "description": "Founded in 2000 by two classical civilization majors, Charlie Edel and Samuel Butt, Hey! Zeus! is the Yale Undergraduate Journal of the Classics. Twice every academic year we publish undergraduate writings on all areas of western antiquity, from history and archaeology to literature and philosophy.", 
+    "domain": "www.yale.edu", 
+    "history": [
+        "2015-06-03T04:59:48.739711: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/open-access-journal-heyzeus-yale.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Greek", 
+        "Homer", 
+        "Wood", 
+        "antiquity", 
+        "archaeology", 
+        "art", 
+        "classics", 
+        "history", 
+        "imagery", 
+        "journal", 
+        "literature", 
+        "open access", 
+        "philosophy", 
+        "religion", 
+        "student journal"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8071892984589505512", 
+            "resource_date": "2013-09-07T08:36:11.921-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:48.740340"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-heyzeus-yale.html", 
+            "resource_date": "2013-09-07T08:36:11.921-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:48.740349"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Hey!Zeus! The Yale Undergraduate Journal of Classics", 
+    "url": "http://www.yale.edu/heyzeus/current.html", 
+    "zotero_id": null
+}

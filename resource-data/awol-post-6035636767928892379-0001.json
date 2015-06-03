@@ -1,0 +1,54 @@
+{
+    "description": "The Journal of Ancient History and Archaeology is seeking to publish profound, rigorous, well-written, high-quality, high-impact papers to generate discussion, debate, fresh perspective.The research area is the European continent and the Near East in the Greek-Roman times. The topics are: ancient history, ancient philology, epigraphy, papyrology, numismatics, archaeological material, archaeological reports, digital archaeology, archaeometry, reviews.We intend to have four issues per year.", 
+    "domain": "www.jaha.org.ro", 
+    "history": [
+        "2015-06-03T04:59:39.759889: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/call-for-papers-journal-of-ancient.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Near East", 
+        "Romania", 
+        "ancient history", 
+        "antiquity", 
+        "archaeology", 
+        "call for papers", 
+        "history", 
+        "journal", 
+        "materials", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6035636767928892379", 
+            "resource_date": "2013-12-06T12:26:48.028-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:39.760454"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/call-for-papers-journal-of-ancient.html", 
+            "resource_date": "2013-12-06T12:26:48.028-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:39.760462"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Call for papers: Journal of Ancient History and Archaeology", 
+    "url": "http://www.jaha.org.ro/index.php/JAHA/index", 
+    "zotero_id": null
+}

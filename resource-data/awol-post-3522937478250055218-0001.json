@@ -1,0 +1,45 @@
+{
+    "description": "Notre site met progressivement en ligne des textes qui fondent notre culture. Il s'agit d'oeuvres qui sont \u00e0 l'origine de la science, de la politique et de la litt\u00e9rature. Nous publions les textes originaux en grec et en latin avec leurs traductions fran\u00e7aises, anglaises et allemandes.", 
+    "domain": "philoctetes.free.fr", 
+    "history": [
+        "2015-06-03T04:59:29.194091: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/philoctetes.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Latin"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3522937478250055218", 
+            "resource_date": "2010-02-23T11:34:19.050-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:29.194710"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/philoctetes.html", 
+            "resource_date": "2010-02-23T11:34:19.050-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:29.194719"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "PHILOCTETES - \u03a6\u0399\u039b\u039f\u039a\u03a4\u0397\u03a4\u0397\u03a3", 
+    "url": "http://philoctetes.free.fr", 
+    "zotero_id": null
+}

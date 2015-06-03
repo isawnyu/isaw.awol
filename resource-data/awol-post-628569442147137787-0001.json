@@ -1,0 +1,50 @@
+{
+    "description": "The aim of EThOS is: To offer a 'single point of access' where researchers the world over can access ALL theses produced by UK Higher EducationTo support Higher Education Institutions through the transition from print to e-thesesTo help UK Higher Education Institutions expand available content by digitising paper thesesTo demonstrate the quality of UK research and help attract students and research investment into UK HE To achieve this, EThOS offers a coherent and consistent interface by implementing a central 'hub' comprising an e-store and a digitisation suite at The British Library site in Boston Spa, Yorkshire. The hub automatically harvests e-theses from Institutional Repositories and digitises paper theses from participating institutions to offer the single point of access.. Many UK institutions support Open Access to their theses, so download of their digital and digitised theses is free to the researcher. A small number of participating institutions may not be able to offer Open Access and in this case the researcher may have to pay for the digitisation. Where a thesis must be digitised before supply, you can expect a short delay. However, you will be informed when the thesis is ready for collection and you can then log on to the system and download it. EThOS can only offer the theses of participating institutions. While we expect a large number of institutions to take part, we cannot supply from an institutions which chooses not to. In this case, you should approach the institution's library directly to gain access to a thesis.", 
+    "domain": "ethos.bl.uk", 
+    "history": [
+        "2015-06-03T04:59:40.915421: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/ethos-electronic-thesis-online-service.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "UK", 
+        "dissertations", 
+        "education", 
+        "institutional repository", 
+        "open access", 
+        "theses"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-628569442147137787", 
+            "resource_date": "2010-04-05T12:04:24.316-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:40.916014"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/04/ethos-electronic-thesis-online-service.html", 
+            "resource_date": "2010-04-05T12:04:24.316-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:40.916022"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ETHoS:  Electronic Thesis Online Service", 
+    "url": "http://ethos.bl.uk/Home.do", 
+    "zotero_id": null
+}

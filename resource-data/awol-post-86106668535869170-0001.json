@@ -1,0 +1,48 @@
+{
+    "description": "Volumen IITransoxiana 14, Agosto 2009Transoxiana 13, Agosto 2008Transoxiana 12, Agosto 2007Transoxiana 11, Julio 2006Volumen ITransoxiana 10, Julio 2005Transoxiana 9, Diciembre 2004Transoxiana 8, Junio 2004Transoxiana 7, Diciembre 2003Transoxiana 6, Julio 2003Transoxiana 5, Diciembre 2002Transoxiana 4, Julio 2002Transoxiana 3, Noviembre 2001Transoxiana 2, Julio 2001Transoxiana 1, Junio 2000Otras Series", 
+    "domain": "www.transoxiana.org", 
+    "history": [
+        "2015-06-03T04:59:51.048521: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/open-access-journals-transoxiana.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access", 
+        "series"
+    ], 
+    "language": [
+        "es", 
+        0.99999927564832
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-86106668535869170", 
+            "resource_date": "2013-07-18T09:17:24.119-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:51.049117"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-transoxiana.html", 
+            "resource_date": "2013-07-18T09:17:24.119-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:51.049125"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Transoxiana: Journal Libre de Estudios Orientales", 
+    "url": "http://www.transoxiana.org/", 
+    "zotero_id": null
+}

@@ -1,0 +1,53 @@
+{
+    "description": "Welcome to the ICOMOS Open Archive: Eprints on Cultural Heritage, a global archive specialising in the conservation and restoration of monuments, sites and landscapes.It is both the institutional archive of the scientific documentation produced by the International Council on Monuments and Sites (ICOMOS) and also a subject archive open to the entire international scientific community in the field of heritage conservation. Research institutes, organizations, universities and individual researchers involved in the conservation of cultural heritage and related fields, whether members of ICOMOS or not, are encouraged to make use of and contribute to this global Archive.The ICOMOS Open Archive accepts peer reviewed scientific or technical documents, in all languages, on topics related to the field of conservation and restoration of monuments, sites and landscapes. The only requirement is that authors wishing to submit a document must register for an account.", 
+    "domain": "openarchive.icomos.org", 
+    "history": [
+        "2015-06-03T04:59:34.589168: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/11/icomos-open-archive-eprints-on-cultural.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "International Council on Monuments and Sites", 
+        "archive", 
+        "collaboration", 
+        "conservation", 
+        "cultural heritage", 
+        "culture", 
+        "document", 
+        "heritage", 
+        "monuments"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-48443482562042733", 
+            "resource_date": "2012-09-18T11:03:21.073-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:34.589698"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/11/icomos-open-archive-eprints-on-cultural.html", 
+            "resource_date": "2012-09-18T11:03:21.073-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:34.589705"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ICOMOS Open Archive: EPrints on Cultural Heritage", 
+    "url": "http://openarchive.icomos.org/", 
+    "zotero_id": null
+}

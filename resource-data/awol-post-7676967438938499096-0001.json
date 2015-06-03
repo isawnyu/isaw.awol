@@ -1,0 +1,51 @@
+{
+    "description": "RAWI is a quarterly publication on Egyptian History and Heritage.", 
+    "domain": "www.rawi-magazine.com", 
+    "history": [
+        "2015-06-03T04:59:47.056767: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/12/open-access-journal-al-rawi.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "antiquity", 
+        "egyptology", 
+        "heritage", 
+        "history", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999985705
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7676967438938499096", 
+            "resource_date": "2011-12-14T16:00:46.364-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:47.057306"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-al-rawi.html", 
+            "resource_date": "2011-12-14T16:00:46.364-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:47.057314"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Al Rawi", 
+    "url": "http://www.rawi-magazine.com/", 
+    "zotero_id": null
+}

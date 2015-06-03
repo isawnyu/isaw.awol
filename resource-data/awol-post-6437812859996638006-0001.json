@@ -1,0 +1,48 @@
+{
+    "description": "La Revue des Sciences Religieuses est une publication scientifique, r\u00e9dig\u00e9e et publi\u00e9e par les enseignants-chercheurs de la Facult\u00e9 de th\u00e9ologie catholique de Strasbourg mais ouverte \u00e0 tous les chercheurs. La revue aborde tous les champs disciplinaires de la th\u00e9ologie, du droit canonique et des sciences religieuses\u00a0: l\u2019ex\u00e9g\u00e8se, l\u2019histoire, la th\u00e9ologie fondamentale et dogmatique, la pastorale et la pratique, l\u2019\u00e9thique, la philosophie, les \u00e9tudes \u0153cum\u00e9niques.La revue propose chaque ann\u00e9e quatre num\u00e9ros, dont deux th\u00e9matiques, et comporte un nombre significatif de recensions. Les articles envoy\u00e9s \u00e0 la revue sont soumis \u00e0 un Comit\u00e9 de lecture.Publication du texte int\u00e9gral en libre acc\u00e8s avec un d\u00e9lai de restriction de 2 ans (soit huit num\u00e9ros) et la publication \u00e9lectronique des r\u00e9sum\u00e9s et sommaires gratuite sans d\u00e9lai.", 
+    "domain": "rsr.revues.org", 
+    "history": [
+        "2015-06-03T04:59:41.647696: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/open-access-journal-revue-des-sciences.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access", 
+        "religion"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6437812859996638006", 
+            "resource_date": "2012-05-10T08:56:26.000-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:41.648241"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-revue-des-sciences.html", 
+            "resource_date": "2012-05-10T08:56:26.000-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:41.648249"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Revue des Sciences Religieuses", 
+    "url": "http://rsr.revues.org/", 
+    "zotero_id": null
+}

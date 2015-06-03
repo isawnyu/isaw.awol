@@ -1,0 +1,54 @@
+{
+    "description": "Dear Colleagues!The Scientific & Educational Centre for Classical Studies at Yaroslavl State University (Russia) resumes acceptance of papers for the web-conference \u00abAncient Civilization: Political Institutions and Legal Regulation\u00bb which is currently conducted on the Centre\u2019s website. The format of the event is a forum-like discussion of presented papers. All professors, PhD students and qualified scholars in Classical Studies are invited to participate.", 
+    "domain": "antik-yar.ru", 
+    "history": [
+        "2015-06-03T04:59:47.489879: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/web-conference-ancient-civilization.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Athens", 
+        "Britain", 
+        "Roman", 
+        "Rome", 
+        "Russia", 
+        "Russian", 
+        "antiquity", 
+        "classics", 
+        "law", 
+        "website"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-776935183632134682", 
+            "resource_date": "2012-04-29T12:09:04.971-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:47.490489"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/web-conference-ancient-civilization.html", 
+            "resource_date": "2012-04-29T12:09:04.971-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:47.490497"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ancient Civilization: Political Institutions and Legal Regulation", 
+    "url": "http://antik-yar.ru/events-2/ancient-civilization-political-institutions-and-legal-regulation?lang=en", 
+    "zotero_id": null
+}

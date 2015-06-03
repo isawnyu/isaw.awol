@@ -1,0 +1,47 @@
+{
+    "description": "Revues n\u00b01 - 2007", 
+    "domain": "www.etudesmagiques.info", 
+    "history": [
+        "2015-06-03T04:59:45.598642: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/08/open-access-journal-ephesia-grammata.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Roman", 
+        "antiquity", 
+        "journal", 
+        "magic", 
+        "open access", 
+        "religion"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7356242589667277340", 
+            "resource_date": "2013-01-22T15:18:57.005-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:45.599187"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-ephesia-grammata.html", 
+            "resource_date": "2013-01-22T15:18:57.005-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:45.599195"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ephesia Grammata", 
+    "url": "http://www.etudesmagiques.info/index2.php?go=revues", 
+    "zotero_id": null
+}

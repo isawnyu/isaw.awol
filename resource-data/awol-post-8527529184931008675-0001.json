@@ -1,0 +1,57 @@
+{
+    "description": "This website is dedicated to the study of numismatics and it\u2019s main objective is to establish a major portal and open access repository for digital publications regarding coins, medals, monetary history and related subjects.", 
+    "domain": "members.ziggo.nl", 
+    "history": [
+        "2015-06-03T04:59:50.684574: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/10/open-access-ancient-numismatics.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "antiquity", 
+        "bibliography", 
+        "book", 
+        "digital library", 
+        "history", 
+        "imagery", 
+        "journal", 
+        "libraries", 
+        "numismatics", 
+        "open access", 
+        "reports", 
+        "website"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8527529184931008675", 
+            "resource_date": "2012-05-19T22:53:20.312-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:50.685237"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-ancient-numismatics.html", 
+            "resource_date": "2012-05-19T22:53:20.312-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:50.685251"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Numis: Digital Library of Numismatics", 
+    "url": "http://members.ziggo.nl/tverspag/NUMIS/", 
+    "zotero_id": null
+}

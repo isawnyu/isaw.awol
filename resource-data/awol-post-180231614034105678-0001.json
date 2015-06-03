@@ -1,0 +1,50 @@
+{
+    "description": "A Revista\u00a0Al\u00e9theia\u00a0incentiva a divulga\u00e7\u00e3o de trabalhos acad\u00eamicos que abordem a Antiguidade e o Medievo, em \u00e2mbito nacional e internacional. Este peri\u00f3dico recebe publica\u00e7\u00f5es de pesquisadores de todas as \u00e1reas das Ci\u00eancias Humanas, em n\u00edvel de gradua\u00e7\u00e3o e p\u00f3s-gradua\u00e7\u00e3o. Os trabalhos ser\u00e3o avaliados por pareceristas ad hoc, sendo veiculados de acordo com as exig\u00eancias estabelecidas nas normas de publica\u00e7\u00e3o.", 
+    "domain": "incubadora.ufrn.br", 
+    "history": [
+        "2015-06-03T04:59:21.342170: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/05/open-access-journal-aletheia-revista-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Middle Ages", 
+        "antiquity", 
+        "history", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "pt", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-180231614034105678", 
+            "resource_date": "2013-08-23T19:24:17.693-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:21.342811"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-aletheia-revista-de.html", 
+            "resource_date": "2013-08-23T19:24:17.693-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:21.342820"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Al\u00e9theia - Revista de estudos sobre Antig\u00fcidade e Medievo", 
+    "url": "http://incubadora.ufrn.br/index.php/aletheia", 
+    "zotero_id": null
+}

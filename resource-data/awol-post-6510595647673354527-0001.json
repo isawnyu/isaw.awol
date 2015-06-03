@@ -1,0 +1,56 @@
+{
+    "description": "The Journal of Ancient History aims to provide a forum for scholarship covering all aspects of ancient history and culture from the Archaic Period to Late Antiquity (roughly the ninth century BCE through the\u00a0eighth century CE). The journal publishes peer-reviewed articles concerning the history and historiography (ancient and modern) of the ancient Mediterranean world and of neighboring civilizations in their relations with it. The journal is open to submissions in disciplines closely related to ancient history, including epigraphy, numismatics, religion and law.", 
+    "domain": "www.degruyter.com", 
+    "history": [
+        "2015-06-03T04:59:41.976664: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/new-jouran-temporarily-open-access.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Mediterranean", 
+        "ancient history", 
+        "antiquity", 
+        "culture", 
+        "forum", 
+        "historiography", 
+        "history", 
+        "journal", 
+        "journal issues", 
+        "late antiquity", 
+        "open access", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6510595647673354527", 
+            "resource_date": "2013-05-03T15:57:49.139-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:41.977303"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/new-jouran-temporarily-open-access.html", 
+            "resource_date": "2013-05-03T15:57:49.139-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:41.977312"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Journal of Ancient History", 
+    "url": "http://www.degruyter.com/view/j/jah", 
+    "zotero_id": null
+}

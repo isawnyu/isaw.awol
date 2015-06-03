@@ -1,0 +1,47 @@
+{
+    "description": "Un \u00e9v\u00e8nement\u00a0! Gr\u00e2ce \u00e0 une coop\u00e9ration par-dessus la M\u00e9diterran\u00e9e, la REVUE AFRICAINE est maintenant en ligne\u00a0: A Alger, Monsieur Hassen KHEZNADJI met \u00e0 disposition sa biblioth\u00e8que ; \u00e0 Alger toujours, Monsieur Mustapha BACHETARZI (fmbachetarzi@yahoo.fr), scanne les ouvrages, et \u00e0 Aurillac, Alain SPENATTO ( alainspenatto@orange.fr) ou spenatto@algerie-ancienne.com termine le travail. Volumes num\u00e9ris\u00e9s en mode texte Volumes num\u00e9ris\u00e9s en mode image.", 
+    "domain": "www.algerie-ancienne.com", 
+    "history": [
+        "2015-06-03T04:59:45.128588: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-acces-journal-revue-africaine.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7225748703935441213", 
+            "resource_date": "2013-06-24T12:03:13.047-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:45.129372"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/open-acces-journal-revue-africaine.html", 
+            "resource_date": "2013-06-24T12:03:13.047-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:45.129381"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "REVUE AFRICAINE", 
+    "url": "http://www.algerie-ancienne.com/livres/Revue/revue.htm", 
+    "zotero_id": null
+}

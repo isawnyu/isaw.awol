@@ -1,0 +1,52 @@
+{
+    "description": "As part of its Electronic Publications Initiative the Oriental Institute Publications Office announces the Adobe Portable Document Format (PDF) publication of the seven titles below. These books were digitized as part of Stony Brook University's AMAR project by the Schoenberg Center for Electronic Text and Image at the University of Pennsylvania:OIP 6. Researches in Anatolia 2. The Alishar H\u00fcy\u00fck Season of 1927, Part 1. Hans Henning von der Osten and Erich F. Schmidt. Originally published in 1930.OIP 7. Researches in Anatolia 3. The Alishar H\u00fcy\u00fck Season of 1927, Part 2. Hans Henning von der Osten and Erich F. Schmidt. Originally published in 1932.OIP 19. Researches in Anatolia 4. The Alishar H\u00fcy\u00fck Seasons of 1928 and 1929, Part 1. Erich F. Schmidt. Originally published in 1932.OIP 20. Researches in Anatolia 5. The Alishar H\u00fcy\u00fck Seasons of 1928 and 1929, Part 2. Erich F. Schmidt with a chapter by Wilton Marion Krogman. Originally published in 1933.OIP 28. Researches in Anatolia 7. The Alishar H\u00fcy\u00fck Seasons of 1930-32, Part 1. Hans Henning von der Osten. Originally published in 1937.OIP 29. Researches in Anatolia 8. The Alishar H\u00fcy\u00fck Seasons of 1930-32, Part 2. Hans Henning von der Osten. Originally published in 1937.OIP 30. Researches in Anatolia 9. The Alishar H\u00fcy\u00fck Seasons of 1930-32, Part 3. Hans Henning von der Osten, with contributions by Wilton Marion Krogman and Others. Originally published in 1937.", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-03T04:59:40.343983: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Amar", 
+        "Anatolia", 
+        "Oriental Institute", 
+        "book", 
+        "document", 
+        "imagery", 
+        "open access", 
+        "project"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6165299289552557374", 
+            "resource_date": "2011-07-30T07:58:05.168-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:40.344598"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/newly-online-from-oriental-institutes.html", 
+            "resource_date": "2011-07-30T07:58:05.168-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:40.344607"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Alishar H\u00fcy\u00fck", 
+    "url": "http://oi.uchicago.edu/news/", 
+    "zotero_id": null
+}

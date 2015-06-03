@@ -1,0 +1,51 @@
+{
+    "description": "Issue 27: August 2011Issue 26: September 2010Issue 25: January 2010Issue 24: May 2009Issue 23: May 2008Issue 22: November 2007Issue 21: May 2007Issue 20: September 2006Issue 19: June 2006Issue 18: March 2006Issue 17: November 2005Issue 16: May 2005Issue 15: January 2005Issue 14: May 2004Issue 13: December 2003Issue 12: August 2003Issue 11: May 2003Issue 10: January 2003Issue 9: September 2002Issue 8: June 2002Issue 7: January 2002Issue 6: not availableIssue 5: April 2001Issue 4: September 2000Issue 3: not availableIssue 2: December 1999Issue 1: August 1999", 
+    "domain": "www.bris.ac.uk", 
+    "history": [
+        "2015-06-03T04:59:30.777197: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/open-access-journal-egypt-society-of.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "antiquity", 
+        "egyptology", 
+        "journal", 
+        "journal issues", 
+        "newsletter", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3864310226959942937", 
+            "resource_date": "2012-12-06T18:57:37.277-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:30.777747"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-egypt-society-of.html", 
+            "resource_date": "2012-12-06T18:57:37.277-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:30.777755"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Egypt Society of Bristol Newsletters", 
+    "url": "http://www.bris.ac.uk/archanth/staff/dodson/esb/newsletters.html", 
+    "zotero_id": null
+}

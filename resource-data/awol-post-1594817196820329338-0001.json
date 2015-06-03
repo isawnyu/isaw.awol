@@ -1,0 +1,64 @@
+{
+    "description": "Amiaud, A.; Mechineau, L., Tableau compare des ecritures babylonienne et assyrienne archaiques et modernes, avec classement des signes d'apres leur forme archaique, 1887 Source information", 
+    "domain": "echo.mpiwg-berlin.mpg.de", 
+    "history": [
+        "2015-06-03T04:59:20.222488: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/historical-sources-on-decipherment-of.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Assyria", 
+        "Babylon", 
+        "Berlin", 
+        "Bible", 
+        "CDLI", 
+        "Max Planck Institute for the History of Science", 
+        "archaeology", 
+        "cultural heritage", 
+        "culture", 
+        "cuneiform", 
+        "epigraphy", 
+        "grammar", 
+        "heritage", 
+        "history", 
+        "monuments", 
+        "open access", 
+        "religion", 
+        "science", 
+        "series", 
+        "website"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1594817196820329338", 
+            "resource_date": "2012-06-06T18:56:42.343-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:20.223088"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/historical-sources-on-decipherment-of.html", 
+            "resource_date": "2012-06-06T18:56:42.343-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:20.223096"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Historical Sources on Decipherment of Several Writing Systems", 
+    "url": "http://echo.mpiwg-berlin.mpg.de/content/cdli/decipher", 
+    "zotero_id": null
+}

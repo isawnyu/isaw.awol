@@ -1,0 +1,53 @@
+{
+    "description": "The ICRI publishes the journal of Caucasology, entitled Amirani. Articles concerning the peoples, cultures and languages of the Caucasus, from the perspective of any of the humanities or social sciences, will be considered for publication. The articles may be written in English, French, Georgian, German, Russian, or any other language accessible to a significant number of Caucasologists.", 
+    "domain": "www.caucasology.com", 
+    "history": [
+        "2015-06-03T04:59:35.944459: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-journal-amirani.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Caucasus", 
+        "antiquity", 
+        "education", 
+        "history", 
+        "journal", 
+        "language", 
+        "materials", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5164212714097182833", 
+            "resource_date": "2013-02-06T06:21:44.766-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:35.945169"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-amirani.html", 
+            "resource_date": "2013-02-06T06:21:44.766-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:35.945177"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Amirani", 
+    "url": "http://www.caucasology.com/amirani.php", 
+    "zotero_id": null
+}

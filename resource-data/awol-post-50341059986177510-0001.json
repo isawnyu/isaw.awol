@@ -1,0 +1,52 @@
+{
+    "description": "The project Pomoerium will focus on the achievements of classics-related sciences, and examine socio-economic and religious transformations, not as a stream of disjointed events, but as an intelligible and determinate process, whether involving a shorter or a longer time span.It constitutes the efforts to render accessible to the interested public hardly-known ideas, journals and books and aims to contribute to the exploration and understanding of religious and socio-economic processes in the classical antiquity and provide an interdisciplinary forum for the discussion of their various aspects.Finally it serves furthermore as a naturally forum for the presentation and discussion of noteworthy issues, including the presentation of minority or at times controversial points of view.", 
+    "domain": "www.pomoerium.eu", 
+    "history": [
+        "2015-06-03T04:59:35.451601: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/open-access-journal-pomoerium.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "book", 
+        "classics", 
+        "forum", 
+        "journal", 
+        "open access", 
+        "project", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-50341059986177510", 
+            "resource_date": "2012-12-17T11:14:36.007-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:35.452237"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-pomoerium.html", 
+            "resource_date": "2012-12-17T11:14:36.007-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:35.452250"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Pomoerium", 
+    "url": "http://www.pomoerium.eu/pomoer.html", 
+    "zotero_id": null
+}

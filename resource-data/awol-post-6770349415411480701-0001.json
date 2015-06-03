@@ -1,0 +1,48 @@
+{
+    "description": "Publication de deux campagnes de fouilles arch\u00e9ologiques conduites par M. Raymond Weill \u00e0 Tell Gezer (1913 \u2013 1924) Le catalogue a \u00e9t\u00e9 r\u00e9organis\u00e9 suivant la hi\u00e9rarchie suivante\u00a0:- Les Tombes - Les planches - N\u00b0 dans la planche Cette classification a \u00e9t\u00e9 report\u00e9e dans le texte r\u00e9vis\u00e9 du m\u00e9moire, tant au niveau des figures que de l\u2019analyse des c\u00e9ramiques (style, r\u00e9alisation, p\u00e2te, d\u00e9cor). 1. Les documents ressaisis - M\u00e9moire r\u00e9vis\u00e9 de Paula Silberberg-Zelwer - Tableau chronologique des tombes de Gezer (pr\u00e9sentation du tableau, condens\u00e9e en une page) - Catalogue des mobiliers des tombes r\u00e9vis\u00e9 (voir ci-dessus) - Planches 2. Les documents originaux num\u00e9ris\u00e9s a) M\u00e9moire de Paula Silberberg-Zelwer (en deux fichiers) Le manuscrit de Paula Zelwer-Silberberg \u2013 partie 1, partie 2, chapitres 1 et 2Le manuscrit de Paula Zelwer-Silberberg \u2013 partie 2, chapitre 3 b) Tableau chronologique des tombes de Gezer (calque original puis saisie num\u00e9rique conforme) c) Catalogue des mobiliers d) Planches 3. Photographies de Paula Silberberg-Zelwer", 
+    "domain": "www.crfj.org", 
+    "history": [
+        "2015-06-03T04:59:43.373151: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/les-fouilles-de-m-raymond-weill-tell.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Gezer", 
+        "Israel", 
+        "archaeology", 
+        "catalogue"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6770349415411480701", 
+            "resource_date": "2012-12-09T14:22:54.744-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:43.373709"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/les-fouilles-de-m-raymond-weill-tell.html", 
+            "resource_date": "2012-12-09T14:22:54.744-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:43.373717"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "LES FOUILLES de M. RAYMOND WEILL \u00e0 TELL-GEZER (1914 et 1924)", 
+    "url": "http://www.crfj.org/?p=430&doing_wp_cron=1355014929.9588339328765869140625", 
+    "zotero_id": null
+}

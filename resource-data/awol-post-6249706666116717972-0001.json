@@ -1,0 +1,54 @@
+{
+    "description": "Je suis heureux de vous souhaiter la bienvenue sur le site de la Biblioth\u00e8que copte de Nag Hammadi, consacr\u00e9 \u00e0 l\u2019\u00e9dition critique et \u00e0 la traduction en fran\u00e7ais de la collection de manuscrits coptes d\u00e9couverte en 1945 pr\u00e8s de la ville de Nag Hammadi en \u00c9gypte.", 
+    "domain": "www.naghammadi.org", 
+    "history": [
+        "2015-06-03T04:59:40.701039: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/10/bibliotheque-copte-de-nag-hammadi.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Berlin", 
+        "Canada", 
+        "Coptic", 
+        "French", 
+        "egyptology", 
+        "history", 
+        "journal", 
+        "manuscripts", 
+        "newsletter", 
+        "website"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6249706666116717972", 
+            "resource_date": "2012-10-04T18:47:48.273-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:40.701614"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/10/bibliotheque-copte-de-nag-hammadi.html", 
+            "resource_date": "2012-10-04T18:47:48.273-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:40.701623"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Biblioth\u00e8que copte de Nag Hammadi", 
+    "url": "http://www.naghammadi.org/", 
+    "zotero_id": null
+}

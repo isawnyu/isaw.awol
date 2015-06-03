@@ -1,0 +1,57 @@
+{
+    "description": "The Polish Centre of Mediterranean Archaeology of the University of Warsaw (PCMA), in Polish Centrum Archeologii \u015ar\u00f3dziemnomorskiej im.\u00a0Kazimierza\u00a0Micha\u0142owskiego\u00a0UW, is dedicated to the organization and coordination of archaeological research, both excavations and study projects, as well as conservation, reconstruction and restoration projects, in northeastern Africa, the Middle East and Cyprus (this currently concerns Egypt, Sudan, Cyprus, Syria, Lebanon, Iran and Kuwait).", 
+    "domain": "www.pcma.uw.edu.pl", 
+    "history": [
+        "2015-06-03T04:59:53.476815: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-acces-journal-newsletter-of-polish.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Cyprus", 
+        "Iran", 
+        "Lebanon", 
+        "Mediterranean", 
+        "Middle East", 
+        "Poland", 
+        "Syria", 
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "late antiquity", 
+        "newsletter", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9196557659504168824", 
+            "resource_date": "2013-08-01T20:25:40.666-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:53.477386"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-acces-journal-newsletter-of-polish.html", 
+            "resource_date": "2013-08-01T20:25:40.666-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:53.477394"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Newsletter of the Polish Centre of Mediterranean Archaeology of the University of Warsaw (PCMA)", 
+    "url": "http://www.pcma.uw.edu.pl/index.php?id=26&L=2", 
+    "zotero_id": null
+}

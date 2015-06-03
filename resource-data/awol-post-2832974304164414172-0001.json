@@ -1,0 +1,50 @@
+{
+    "description": "The Institute of Archaeology, through the Horn Archaeological Museum, publishes a quarterly newsletter. Museum members and other interested individuals find a broad spectrum of valuable notes and announcements: activities of personnel, research reports, schedules of future events and projects, and notices of publications, as well as a variety of short notes. The Newsletter is published in hardcopy and electronic formats.", 
+    "domain": "www.andrews.edu", 
+    "history": [
+        "2015-06-03T04:59:25.827916: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-journal-newsletter.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "museums", 
+        "newsletter", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2832974304164414172", 
+            "resource_date": "2010-01-19T11:11:52.755-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:25.828545"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-newsletter.html", 
+            "resource_date": "2010-01-19T11:11:52.755-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:25.828553"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Newsletter:  The Institute of Archaeology, Siegfried H. Horn Archaeological Museum", 
+    "url": "http://www.andrews.edu/archaeology/pubs/newsletter.html", 
+    "zotero_id": null
+}

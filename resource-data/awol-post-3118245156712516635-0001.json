@@ -1,0 +1,48 @@
+{
+    "description": "Milli K\u00fct\u00fcphane T\u00fcrkiye Makaleler Biblioyografyasi: /", 
+    "domain": "makale.mkutup.gov.tr", 
+    "history": [
+        "2015-06-03T04:59:27.259580: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/open-access-bibliographies-turkish.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Turkey", 
+        "bibliography", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "tr", 
+        0.9999990325322085
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3118245156712516635", 
+            "resource_date": "2010-02-16T11:15:44.624-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:27.260113"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-bibliographies-turkish.html", 
+            "resource_date": "2010-02-16T11:15:44.624-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:27.260120"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Turkish Periodicals", 
+    "url": "http://makale.mkutup.gov.tr/cgi-bin/WebObjects/Makale.woa/8/wo/RtdhtYrKIaHpnfbivqnbN0/11.1.0.1", 
+    "zotero_id": null
+}

@@ -1,0 +1,50 @@
+{
+    "description": "0563MAXIMUS Soph. 002 Dissertationes\u00a01747VITA ADAM ET EVAE Hagiogr. et Apocryph. 002 Vita Adam et Evae\u00a02705NICETAS DAVID Scr. Eccl., Gramm. et Phil. 006 Encomium sancti Diomedis\u00a02944LEO VI SAPIENS Imperator Scr. Eccl., Phil. et Poeta 007 Tactica\u00a03028Nilus DOXAPATRES Gramm. et Nomograph. 001 Notitia patriarchatuum\u00a03293Franciscus PHILELPHUS Rhet. 004 De psychagogia\u00a03327JOASAPH Ephesius Phil. et Scr. Eccl. 002 Responsiones ad quaestiones presbyteri Georgii Drasini 003 Carmina in Joannem Notaram\u00a0004 Exegesis\u00a0005 Homilia in hymnum $*FW=S I(LARON& rogati Nili monachi scripta\u00a0006 Epistula Joasaphi ad Nilum\u00a03359NICETAS AMNIANUS Hagiogr. 002 Vita Philareti Misericordis\u00a03371NARRATIONES ANIMAE UTILES Hagiogr., Biogr., Eccl. et Narr. Fict. 001 De Monacho superbo (BHG 1450x)\u00a04085HESYCHIUS Lexicogr. 001 Epistula ad Eulogium\u00a0002 Lexicon\u00a0003 Lexicon\u00a0004 Lexicon ($*P-*S&)\u00a0005 Lexicon ($*T-*W&)\u00a04146Maximus PLANUDES Theol. et Polyhist. 025 Encomium sancti Diomedis\u00a04157JOANNES Sardianus Rhet. 004 Commentarium in Aphthonii progymnasmata\u00a04239SEVERUS Soph. 002 Narrationes vel $DIHGH/MATA&\u00a0003 Ethopoeiae\u00a05059MENOLOGII IMPERIALES Hagiogr. 031 Vita Iasonis et Sosipatris\u00a0032 Passio sancti Christophori\u00a05133PASSIONES SANCTI GEORGII Hagiogr. 001 Passio s. Georgii (e codice Atheniensi 343 collato Vaticano Palatino graeco 205, palimpsesto)\u00a05134VITAE SANCTI EUSIGNII Hagiogr. 001 Passio sancti Eusignii\u00a05135VITAE ANDREAE SALI Hagiogr. 001 Vita sancti Andreae sali (sub auctore Nicephoro)\u00a0002 Appendices vitae sancti Andreae sali (e codicibus variis)\u00a05136VITA ET PASSIO SANCTI DIOMEDIS Hagiogr. 001 Passio brevis (BHG 550)\u00a05137PASSIONES SANCTI JACOBI ZEBEDAEI Hagiogr. 001 Laudatio seu Passio (BHG 768a)\u00a05138PASSIO SANCTORUM ADRIANI ET NATALIAE Hagiogr. 001 Passio sanctorum Adriani et Nataliae\u00a05139PASSIO MARTYRUM MIII NICOMEDIAE Hagiogr. 001 Passio martyrum MIII Nicomediae\u00a05140PASSIO SANCTAE THEODOSIAE M. CAESAREAE Hagiogr. 001 Passio sanctae Theodosiae m. Caesareae\u00a05141PASSIO SANCTI THEODORI PERGENSIS Hagiogr. 001 Passio sancti Theodori Pergae in Pamphylia\u00a05142PASSIO SANCTI ANANIAE Hagiogr. 001 Passio sancti Ananiae\u00a05143PASSIO MENODORAE et METRODORAE ET NYMPHODORAE Hagiogr. 001 Passio Menodorae, Metrodorae et Nymphodorae (BHG 1272z)\u00a05144PASSIO SANCTI THEOPEMPTI ET THEONAE Hagiogr. 001 Passio sancti Theopompi et Theonae\u00a05145PASSIO SANCTI THEODORETI ANTIOCHENI Hagiogr. 001 Passio sancti Theodoreti Antiocheni (BHG 2425)\u00a05146PASSIO SANCTAE THOMAIDAE LESBIAE Hagiogr. 001 Passio sanctae Thoma\ufffddae Lesbiae\u00a09009Michael APOSTOLIUS Paroemiogr. 009 Sermo ad socerum", 
+    "domain": "www.tlg.uci.edu", 
+    "history": [
+        "2015-06-03T04:59:28.500383: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/thesaurus-linguae-graecae-tlg-updates.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Greek", 
+        "TLG", 
+        "dictionaries", 
+        "lexicography", 
+        "lexicon", 
+        "thesaurus"
+    ], 
+    "language": [
+        "la", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3342662565592456590", 
+            "resource_date": "2013-05-28T05:28:02.219-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:28.500995"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/thesaurus-linguae-graecae-tlg-updates.html", 
+            "resource_date": "2013-05-28T05:28:02.219-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:28.501004"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Thesaurus Linguae Graecae (TLG\u00ae) Updates", 
+    "url": "http://www.tlg.uci.edu/authors/post_tlg_e.php", 
+    "zotero_id": null
+}

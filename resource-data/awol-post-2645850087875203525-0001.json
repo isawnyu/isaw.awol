@@ -1,0 +1,56 @@
+{
+    "description": "La Mission Arch\u00e9ologique Fran\u00e7aise de Th\u00e8bes-Ouest (MAFTO) est l\u2019avatar le plus r\u00e9cent d\u2019une unit\u00e9 de recherche du CNRS qui fut d\u2019abord associ\u00e9e au Mus\u00e9e du Louvre, puis rattach\u00e9e, \u00e0 partir de 2003, \u00e0 la Direction des Mus\u00e9es de France (UMR 171/LC2RMF). Depuis le d\u00e9but des ann\u00e9es soixante-dix, cette \u00e9quipe travaille en \u00e9troite collaboration avec le Centre d'\u00c9tude et de Documentation sur l\u2019Ancienne \u00c9gypte (CEDAE), organe du Conseil Supr\u00eame des Antiquit\u00e9s de l\u2019\u00c9gypte (Minist\u00e8re \u00e9gyptien de la Culture). Elle \u0153uvre, comme son nom l\u2019indique, sur le territoire anciennement couvert par l\u2019antique Th\u00e8bes, capitale m\u00e9ridionale de l\u2019\u00c9gypte pharaonique et l\u2019un des plus riches sites arch\u00e9ologiques de la plan\u00e8te, inscrit \u00e0 l\u2019inventaire du Patrimoine Mondial par l\u2019UNESCO.", 
+    "domain": "www.mafto.fr", 
+    "history": [
+        "2015-06-03T04:59:25.159254: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/09/open-access-publications-of-mission.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "CNRS", 
+        "Christianity", 
+        "Egypt", 
+        "Thebes", 
+        "antiquity", 
+        "archaeology", 
+        "collaboration", 
+        "egyptology", 
+        "graffiti", 
+        "journal", 
+        "museums", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2645850087875203525", 
+            "resource_date": "2012-09-04T15:46:50.190-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:25.159807"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-publications-of-mission.html", 
+            "resource_date": "2012-09-04T15:46:50.190-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:25.159815"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open Access Publications of the Mission Arch\u00e9ologique Fran\u00e7aise de Th\u00e8bes-Ouest", 
+    "url": "http://www.mafto.fr/", 
+    "zotero_id": null
+}

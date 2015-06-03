@@ -1,0 +1,50 @@
+{
+    "description": "1.1908 2.1908 3.1909 4.1909 5.1909(1910) 6.1910 7.1911", 
+    "domain": "digi.ub.uni-heidelberg.de", 
+    "history": [
+        "2015-06-03T04:59:33.231900: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/08/open-access-journal-archaeological.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "Sudan", 
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999889595357967
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4541064545201982117", 
+            "resource_date": "2013-08-23T06:24:14.307-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:33.232529"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/open-access-journal-archaeological.html", 
+            "resource_date": "2013-08-23T06:24:14.307-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:33.232538"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Archaeological Survey of Nubia, Bulletin", 
+    "url": "http://digi.ub.uni-heidelberg.de/diglit/nubia_bulletin", 
+    "zotero_id": null
+}

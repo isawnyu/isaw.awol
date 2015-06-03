@@ -1,0 +1,46 @@
+{
+    "description": "Release Content: Vols. 28-32 (2004-2008) Moving Wall: 5 years Publisher: American Association of Stratigraphic Palynologists ISSN: 0191-6122", 
+    "domain": "www.jstor.org", 
+    "history": [
+        "2015-06-03T04:59:25.605111: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "JSTOR", 
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999999938
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2756486521717468641", 
+            "resource_date": "2009-11-23T12:19:45.104-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:25.605661"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html", 
+            "resource_date": "2009-11-23T12:19:45.104-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:25.605679"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Palynology", 
+    "url": "http://www.jstor.org/action/showPublication?journalCode=palynology", 
+    "zotero_id": null
+}

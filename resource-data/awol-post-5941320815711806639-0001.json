@@ -1,0 +1,51 @@
+{
+    "description": "Das Museum Helveticum ist die einzige Schweizer Zeitschrift, die Beitr\u00e4ge aus der gesamten klassischen Altertumswissenschaft ver\u00f6ffentlicht, einschliesslich der Papyrologie, Epigraphik und (mit Einschr\u00e4nkungen) Arch\u00e4ologie. Es will nicht nur die Schweizer Forschung f\u00f6rdern und repr\u00e4sentativ darstellen, sondern auch die Kontakte mit der internationalen. Forschergemeinschaft pflegen und vertiefen. Entsprechend steht die Zeitschrift zum einen den in der Schweiz Lehrenden und Lernenden offen und versteht sich auch als Mittel der Nachwuchsf\u00f6rderung, zum anderen ist sie seit ihren Anf\u00e4ngen auch Publikationsorgan der internationalen Forschergemeinschaft; dementsprechend ist neben den drei Landessprachen Englisch h\u00e4ufige Publikationssprache. Entstanden ist das Museum Helveticum w\u00e4hrend des Zweiten Weltkrieges aus der Zusammenarbeit einiger damals f\u00fchrender altertumswissenschaftlicher Lehrstuhlinhaber, die, abgeschnitten von den bisherigen europ\u00e4ischen Publikationsorganen, der schweizerischen Altertumswissenschaft ein Diskussionsforum schaffen und gleichzeitig die Zusammengeh\u00f6rigkeit betonen wollten; die erste Nummer erschien 1944. Nach Kriegsende wurde die Zeitschrift zum Organ der schweizerischen altertumswissenschaftlichen Forschung.", 
+    "domain": "retro.seals.ch", 
+    "history": [
+        "2015-06-03T04:59:39.373446: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open-access-journal-museum-helveticum.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Switzerland", 
+        "antiquity", 
+        "classics", 
+        "journal", 
+        "museums", 
+        "open access"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5941320815711806639", 
+            "resource_date": "2013-08-18T17:45:01.258-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:39.374035"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journal-museum-helveticum.html", 
+            "resource_date": "2013-08-18T17:45:01.258-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:39.374043"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Museum Helveticum", 
+    "url": "http://retro.seals.ch/digbib/vollist?UID=mhl-001&id=browse&id2=browse1", 
+    "zotero_id": null
+}

@@ -1,0 +1,59 @@
+{
+    "description": "Das vorliegende Projekt steht im Kontext der Aktionslinie \u201eDigitalisierung der DFG-Sondersammelgebiete\u201c und konzentriert sich auf die Digitalisierung \u00fcberwiegend geistes- und sozialwissenschaftlicher, nicht gemeinfreier Literatur mit Schwerpunkt auf monographischen Werken.\u00a0 Gegenstand des Projekts sind in einer ersten Phase rd. 4700 Titel aus Programmsegmenten der Verlage Vandenhoeck & Ruprecht, Wilhelm Fink / Ferdinand Sch\u00f6ningh sowie Otto Sagner. In einer zweiten Phase werden entlang einer vereinbarten Moving Wall, d.h. einem zeitlichen Abstand zum aktuellen Erscheinungsjahr von drei bis f\u00fcnf Jahren, sukzessive weitere rd. 1750 Titel bis zum Jahr 2014 digitalisiert.\u00a0 Entsprechende Vereinbarungen mit den Verlagen, die ihrerseits im Einvernehmen mit den Autoren handeln, er\u00f6ffnen die M\u00f6glichkeit, die urheberrechtsbehafteten Werke zu digitalisieren und im Open Access entsprechend der Praxisregeln der DFG zur Verf\u00fcgung zu stellen.\u00a0 Der Webauftritt bietet eine Volltextsuche \u00fcber die gesamte Sammlung oder in einzelnen Fachkollektionen. S\u00e4mtliche Titel sind aber auch \u00fcber den OPAC der Bayerischen Staatsbibliothek zug\u00e4nglich. Die Einbindung in fachlich einschl\u00e4gige Virtuelle Fachbibliotheken befindet sich in Vorbereitung.", 
+    "domain": "digi20.digitale-sammlungen.de", 
+    "history": [
+        "2015-06-03T04:59:44.697356: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/open-access-collections-digi20.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "OPACs", 
+        "Verlag Ferdinand Sch\u00f6ningh", 
+        "Verlag Otto Sagner", 
+        "Verlage Vandenhoeck & Ruprecht und V & R unipress", 
+        "Wilhelm Fink Verlag", 
+        "antiquity", 
+        "archaeology", 
+        "digital library", 
+        "libraries", 
+        "literature", 
+        "monograph", 
+        "open access", 
+        "project", 
+        "website"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7174327576362514977", 
+            "resource_date": "2013-11-27T08:46:44.482-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:44.697972"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/open-access-collections-digi20.html", 
+            "resource_date": "2013-11-27T08:46:44.482-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:44.697980"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Digi20", 
+    "url": "http://digi20.digitale-sammlungen.de/en/fs2/start/static.html", 
+    "zotero_id": null
+}

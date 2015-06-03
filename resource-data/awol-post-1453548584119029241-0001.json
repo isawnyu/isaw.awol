@@ -1,0 +1,49 @@
+{
+    "description": "Eruditio Antiqua est une revue \u00e9lectronique th\u00e9matique, \u00e0 comit\u00e9 de lecture international, dont l'objectif est de publier des travaux in\u00e9dits dans les diff\u00e9rents domaines de l'\u00e9rudition gr\u00e9co-latine, depuis les origines jusqu'\u00e0 la p\u00e9riode byzantine.", 
+    "domain": "www.eruditio-antiqua.mom.fr", 
+    "history": [
+        "2015-06-03T04:59:19.337827: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/open-access-journal-eruditio-antiqua.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "antiquity", 
+        "collaboration", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1453548584119029241", 
+            "resource_date": "2013-02-21T13:46:00.221-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:19.338421"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-eruditio-antiqua.html", 
+            "resource_date": "2013-02-21T13:46:00.221-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:19.338429"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Eruditio Antiqua", 
+    "url": "http://www.eruditio-antiqua.mom.fr/", 
+    "zotero_id": null
+}

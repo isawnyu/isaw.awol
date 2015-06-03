@@ -1,0 +1,46 @@
+{
+    "description": "Das halvo-Projekt ist eine studentisch initiierte Datenbank f\u00fcr das Studium der Vorderasiatischen Arch\u00e4ologie. Es ist nicht Ziel diese Datenbank Informationen zu arch\u00e4ologischen Themen m\u00f6glichst komplett aufzunehmen, sondern vielmehr eine Grundlage f\u00fcr die Recherche innerhalb des Studiums oder f\u00fcr frei Interessierte zu bieten. Diese Seite befindet sich immer noch im Aufbau, allerdings ist die Datenbank nun langsam etwas gef\u00fcllt, so das man schon nach einigen Beitr\u00e4gen und Literatur suchen kann. Nach und nach wird diese Seite erweitert werden, sowohl an Eintr\u00e4gen, als auch an Funktionen.FundorteLiteratur Autoren\u00a0Zeitschriften", 
+    "domain": "www.hageneuer.de", 
+    "history": [
+        "2015-06-03T04:59:50.498193: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/03/halvo.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "data", 
+        "database"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8463837465790268123", 
+            "resource_date": "2013-03-02T08:17:06.872-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:50.498804"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/halvo.html", 
+            "resource_date": "2013-03-02T08:17:06.872-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:50.498812"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Halvo", 
+    "url": "http://www.hageneuer.de/", 
+    "zotero_id": null
+}

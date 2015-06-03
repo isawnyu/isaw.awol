@@ -1,0 +1,48 @@
+{
+    "description": "A multilingual electronic journal devoted to medieval studies", 
+    "domain": "www.glossa.fi", 
+    "history": [
+        "2015-06-03T04:59:43.076636: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/open-access-journal-mirator.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Middle Ages", 
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999973798424281
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6683049683561943317", 
+            "resource_date": "2009-12-11T11:42:39.007-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:43.077203"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/open-access-journal-mirator.html", 
+            "resource_date": "2009-12-11T11:42:39.007-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:43.077210"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Mirator", 
+    "url": "http://www.glossa.fi/mirator/", 
+    "zotero_id": null
+}

@@ -1,0 +1,51 @@
+{
+    "description": "La revue M\u00e8tis est n\u00e9e en 1986 d'une collaboration entre hell\u00e9nistes grecs et fran\u00e7ais. Elle s'est donn\u00e9 comme but d'\u00e9tudier l'Antiquit\u00e9 grecque en se pla\u00e7ant dans la perspective d'une anthropologie historique du monde grec ancien, tout en gardant le lien avec les disciplines \u00e9rudites (philologie, histoire, arch\u00e9ologie, etc.), en prenant compte les apports de diverses sciences humaines (ethnologie, sociologie, linguistique, psychologie, psychanalyse). Elle a plus r\u00e9cemment pris le parti d\u2019interroger aussi les cultures romaine, byzantine et n\u00e9o-grecque.De dimension internationale, elle ouvre ses publications \u00e0 cinq langues (fran\u00e7ais, grec, anglais, italien, allemand) et son comit\u00e9 de lecture se compose de sp\u00e9cialistes originaires de divers pays europ\u00e9ens (France, Gr\u00e8ce, Italie, Allemagne, Angleterre, etc.), ainsi que des \u00c9tats Unis. 1986-1989 1986 : [ 1-1 ] [ 1-2 ] 1987 : [ 2-1 ] [ 2-2 ] 1988 : [ 3-1-2 ] 1989 : [ 4-1 ] [ 4-2 ] 1990-1998 1990 : [ 5-1-2 ] 1991 : [ 6-1-2 ] 1992 : [ 7-1-2 ] 1993 : [ 8-1-2 ] 1994 : [ 9-10 ] 1996 : [ 11 ] 1997 : [ 12 ] 1998 : [ 13 ]", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T04:59:41.755243: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/open-access-jouranl-metis-anthropologie.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Byzantium", 
+        "Greece", 
+        "antiquity", 
+        "collaboration", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6473001569091484303", 
+            "resource_date": "2012-03-12T21:00:00.059-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:41.755813"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-jouranl-metis-anthropologie.html", 
+            "resource_date": "2012-03-12T21:00:00.059-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:41.755821"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "M\u00e8tis. Anthropologie des mondes grecs anciens", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/revue/metis", 
+    "zotero_id": null
+}

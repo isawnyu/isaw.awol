@@ -1,0 +1,49 @@
+{
+    "description": "Commentarii Periodici Latini quibus index Retiarius ab anno 1998o\u00a0usque ad annum 2001um\u00a0per rete universale edebantur. Cuius moderator fuit\u00a0Terentius Tunberg\u00a0(\u00a0clatot@uky.edu\u00a0).Quae ex illis fasciculis supersunt, hac in pagina interretiali invenies.Quartus Fasciculus (anni 2001i)Altera ParsMythistoria saec. septimo decimo a Ioanne Ludovico PRASCHIO composita, quae inscribitur PSYCHE CRETICA. Totam fabulam recognovit et edidit Marcus RILEY, cuius\u00a0PRAEFATIO\u00a0hic legitur.Tertius Fasciculus (anni 2000i)Prima ParsExistimatio Haicuum Collectorum, quibus titulus 'Tonight They all Dance' sive Hac Nocte Saltant, ab Accio WATANABEO composita.Specimina Facetiarum Hieroclis et Philagrii Grammatici\u00a0ex editione M. Chii Parisiensi anni 1812 in Latinum conversa ab Accio WATANABEO.Altera ParsArgenidis mythistoriae\u00a0saeculo septimo decimo ab Ioanne Barclaio compositae, quam edendam curavit Marcus RILEY, omnes libri hoc in fasciculo exhibentur.Secundus Fasciculus (anni 1999i)Prima ParsExistimationes Haicuum Latinorum\u00a0quas scripsit Accius WATANABEUS.Altera ParsDe Adami Schall Historica Narratione: Quo Modo Sinae Sint Latinae Factae, commentatio quam scripsit David MORGAN.De Titanicae navis interitu sive de poetis Latinis qui naufragium illud luctuosum cecinerunt, commentatio quam scripsit Theodoricus SACR\u00c3\u2030.Primus Fasciculus (anni 1998i)Prima ParsTabacum et Diabolus.\u00a0Fabella Iaponica a Riunosuke Akutagawa conscripta, quam Latine reddidit Accius WATANABEUS.Altera ParsIani Nicii Erythraei\u00a0Eudemiae\u00a0Libri decem. Mythistoriae neolatinae saec. septimo decimo compositae textus integer, quem transcripsit Lina IJSEWIJN-JACOBS. Annotationes addidit Josephus IJSEWIJN. Praefationem composuit Terentius TUNBERG.Liber ILibri II-IVLiber VLiber VILiber VIILiber VIIILiber IXLiber IX.2Liber X", 
+    "domain": "mcl.as.uky.edu", 
+    "history": [
+        "2015-06-03T04:59:31.359459: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/08/open-access-journal-retiarius-archivum.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Latin", 
+        "antiquity", 
+        "history", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "la", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4060120825464308819", 
+            "resource_date": "2013-08-31T10:14:42.072-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:31.360090"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/open-access-journal-retiarius-archivum.html", 
+            "resource_date": "2013-08-31T10:14:42.072-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:31.360099"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Retiarius: Archivum Recentioris Latinitatis", 
+    "url": "http://mcl.as.uky.edu/retiarius-archivum-recentioris-latinitatis", 
+    "zotero_id": null
+}

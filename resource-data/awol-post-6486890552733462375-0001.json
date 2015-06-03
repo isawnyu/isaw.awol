@@ -1,0 +1,55 @@
+{
+    "description": "New York : Alexander S. Onassis Public Benefit Foundation ; Athens : In collaboration with the Byzantine and Christian Museum, \u00a92011.", 
+    "domain": "www.onassisusa.org", 
+    "history": [
+        "2015-06-03T04:59:41.836202: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-exhibition-catalogue.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Athens", 
+        "Byzantium", 
+        "Christianity", 
+        "art", 
+        "catalogue", 
+        "collaboration", 
+        "culture", 
+        "exhibition", 
+        "exhibition catalogue", 
+        "late antiquity", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6486890552733462375", 
+            "resource_date": "2013-01-08T10:34:38.519-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:41.836739"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-exhibition-catalogue.html", 
+            "resource_date": "2013-01-08T10:34:38.519-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:41.836746"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Transition to Christianity: Art of Late Antiquity, 3rd \u2013 7th Century AD", 
+    "url": "http://www.onassisusa.org/transition/ebook/", 
+    "zotero_id": null
+}

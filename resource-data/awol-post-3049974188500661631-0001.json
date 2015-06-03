@@ -1,0 +1,56 @@
+{
+    "description": "National Agency for Cultural Heritage of Georgia \u201cestablished in 2008 in accordance with the Decree of the President of Georgia. The Agency has been constituted on the bases of the existing complex monuments of national and global significance, represents their totality and is there legal successor. The Monuments united within the Agency are as follows: The Great Mtskheta Archaeological Museum-Reserve;Vardzia Historical-Architectural Museum-Reserve;Uplistsikhe Historical-Architectural Museum-Reserve;R. Ksani Gorge Historical-Architectural Museum-Reserve;Petra-Castle Archaeological-Architectural Museum-Reserve;Gonio-Apsarosi Archaeological-Architectural Museum-Reserve;Kldekari Historical-Architectural Museum-Reserve;Parmen Zakaraia Nokalakevi Architectural-Archaeological Museum-Reserve;Ekvtime Takhaishvili Archaeological Museum-Reserve of the Country of GuriaR. Didi Liakhvi Gorge State Museum-Reserve;Kutaisi Historical-Architectural Museum-Reserve;Stephantsminda History Museum;Borjomi Local History MuseumState Museum of Niko Pirosmanishvili", 
+    "domain": "heritagesites.ge", 
+    "history": [
+        "2015-06-03T04:59:26.964380: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2014/01/open-access-journal-online-archaeology.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Republic of Georgia", 
+        "antiquity", 
+        "archaeology", 
+        "cultural heritage", 
+        "culture", 
+        "heritage", 
+        "history", 
+        "journal", 
+        "monuments", 
+        "museums", 
+        "open access", 
+        "preservation"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3049974188500661631", 
+            "resource_date": "2014-01-22T11:18:10.388-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:26.964926"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/open-access-journal-online-archaeology.html", 
+            "resource_date": "2014-01-22T11:18:10.388-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:26.964935"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Online Archaeology (National Agency for Cultural Heritage Preservation of Georgia)", 
+    "url": "http://heritagesites.ge/?lang=eng&page=228", 
+    "zotero_id": null
+}

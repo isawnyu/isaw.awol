@@ -1,0 +1,47 @@
+{
+    "description": "VESUVIUSonLINE: : LA RASSEGNA STAMPA di www.vesuvioweb.comSee the full List of Open Access Journals in Ancient Studies.", 
+    "domain": "www.vesuvioweb.com", 
+    "history": [
+        "2015-06-03T04:59:27.255745: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/03/open-access-journal-vesuvius-online.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999860314
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-311795710717646723", 
+            "resource_date": "2010-03-23T05:52:21.983-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:27.256281"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/03/open-access-journal-vesuvius-online.html", 
+            "resource_date": "2010-03-23T05:52:21.983-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:27.256289"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Vesuvius Online", 
+    "url": "http://www.vesuvioweb.com/new/article.php3?id_article=718", 
+    "zotero_id": null
+}

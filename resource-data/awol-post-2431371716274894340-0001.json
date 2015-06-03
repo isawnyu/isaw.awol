@@ -1,0 +1,54 @@
+{
+    "description": "Welcome to Amphoreus\u00a0! This site represents the on-line database of the \u00ab Bulletin Amphorologique \u00bb edited by the Revue des \u00e9tudes grecques. Not only does it allow readers to look up all the reviews appearing in the Bulletin, it also announces the publication of studies dealing with amphoras and their stamps, automatically including them in the list of new publications ; where necessary these studies will also be reviewed in the Bulletin. Moreover, a text bank and a picture bank allow one to publish documents online, while the agenda and the forum\u00a0help to\u00a0keep up to date with the latest developments in amphora research. The\u00a0norms for the publication of amphora stamps and a list of bibliographical abbreviations\u00a0are also available. HomeActualit\u00e9sBulletinWebsiteAdd a publicationNew publicationsBibliographic searchNorms of publicationAbbreviationsAgendaForumText BankPicture BankWeblinksFAQLegal MentionsSitemapContact us", 
+    "domain": "www.amphoreus.org", 
+    "history": [
+        "2015-06-03T04:59:24.296003: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/online-database-of-bulletin.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Roman", 
+        "amphorae", 
+        "bibliography", 
+        "ceramics", 
+        "data", 
+        "database", 
+        "forum", 
+        "journal", 
+        "pottery"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2431371716274894340", 
+            "resource_date": "2012-11-27T09:53:28.027-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:24.296576"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/online-database-of-bulletin.html", 
+            "resource_date": "2012-11-27T09:53:28.027-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:24.296583"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Amphoreus: Online Database of the \"Bulletin Amphorologique\"", 
+    "url": "http://www.amphoreus.org/index.php", 
+    "zotero_id": null
+}

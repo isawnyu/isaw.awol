@@ -1,0 +1,53 @@
+{
+    "description": "Africa [1] [2] [3&4] [5&6] [7&8] [9] [10][11&12] [13] [14] [15] [16] [17] [18] [19] Reppal [1] [3] [4] [6]La carte nationale des sites arch\u00e9ologiques et des monuments historiques : feuilles 1/50 000 [005] [008] [016] [019] [027] [028] [029] [036] [043] [049] [050] [064] [067] [068] [072] [074] [112] [117] [147] [157] [158]Le Bulletin arch\u00e9ologique de Sousse : 1903-1904, 1905-1906, 1907-1908, 1925-1926, 1934Atlas Pr\u00e9historique de la Tunisie : Bizerte, Cap-Bon, El Jem, Gab\u00e8s, Kairouan, La Goulette, Mahres, Maktar, Souk el Arba, Sousse, TunisCahiers Byrsa : 1951,\u00a01953,\u00a01955,\u00a01956,\u00a01957,\u00a01958-1959,\u00a01960-1961Dans Ce Num\u00e9ro AFRICA : [18][19][20][21]AFRICA ATP :[12][13][14][15]AFRICA REPPAL :[11][12][13][14]", 
+    "domain": "www.inp.rnrt.tn", 
+    "history": [
+        "2015-06-03T04:59:53.707930: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/04/digital-library-institut-national-du.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Africa", 
+        "Byrsa", 
+        "Tunisia", 
+        "archaeology", 
+        "digital library", 
+        "journal", 
+        "monuments", 
+        "prehistory"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-937761268721486799", 
+            "resource_date": "2013-05-07T11:41:49.933-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:53.708503"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/digital-library-institut-national-du.html", 
+            "resource_date": "2013-05-07T11:41:49.933-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:53.708511"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Institut National du Patrimoine, Tunis", 
+    "url": "http://www.inp.rnrt.tn/", 
+    "zotero_id": null
+}

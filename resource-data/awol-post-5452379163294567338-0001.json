@@ -1,0 +1,49 @@
+{
+    "description": "En 1983,\u00a0 les Travaux et Documents du Centre de Pal\u00e9oanthropologie et de Pal\u00e9opathologie [cr\u00e9\u00e9s en 1974] s'ouvrent aux\u00a0 chercheurs \u00e9trangers et deviennent Paleobios : revue internationale de Pal\u00e9obiologie et en m\u00eame temps vitrine de la Soci\u00e9t\u00e9 Fran\u00e7aise de Pal\u00e9obiologie [fond\u00e9e\u00a0 en 1985 et dissoute en 2009, faute de financement et de bonnes volont\u00e9s]. En 2004, pour la premi\u00e8re fois, une\u00a0version \u00e9lectronique [html] est mise en ligne et pr\u00e9c\u00e8de la version papier.Parall\u00e8lement la version pdf des anciens num\u00e9ros est progressivement mises en ligne.", 
+    "domain": "anthropologie-et-paleopathologie.univ-lyon1.fr", 
+    "history": [
+        "2015-06-03T04:59:37.218859: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal-paleobios.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Paleobiology", 
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5452379163294567338", 
+            "resource_date": "2012-11-29T15:38:19.929-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:37.219483"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-paleobios.html", 
+            "resource_date": "2012-11-29T15:38:19.929-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:37.219492"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Paleobios", 
+    "url": "http://anthropologie-et-paleopathologie.univ-lyon1.fr/HTML/HTML/Paleobios.htm", 
+    "zotero_id": null
+}

@@ -52,7 +52,7 @@ class Article():
             try:
                 self.url = unicode(root.xpath("//*[local-name()='link' and @rel='alternate']")[0].get('href'))
             except IndexError:
-                logger.warning('could not extract blog post URL')
+                logger.warning('could not extract blog post URL: {0}'.format(self.id))
             self.categories = [{'vocabulary' : c.get('scheme'), 'term' : c.get('term')} for c in root.findall('{http://www.w3.org/2005/Atom}category')]
             content = root.find('{http://www.w3.org/2005/Atom}content').text
             if content is None:

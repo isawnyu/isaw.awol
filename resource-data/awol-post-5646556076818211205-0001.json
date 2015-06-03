@@ -1,0 +1,52 @@
+{
+    "description": "La revue pour l\u2019histoire du CNRS: is a special issue entitled . Its contents include an interesting set of articles on French archaeological missions:Girolamo Ramunni\u00c8ve Gran-AymerichM\u00e9diterran\u00e9e, Afrique et Proche-Orient (1945-1970). Vers un nouvel \u00e9quilibreCatherine NicaultLe Centre de recherche fran\u00e7ais de J\u00e9rusalemNicolas Grimal", 
+    "domain": "histoire-cnrs.revues.org", 
+    "history": [
+        "2015-06-03T04:59:37.883450: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/03/one-off-journal-issues-french.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "CNRS", 
+        "French", 
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "journal issues", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5646556076818211205", 
+            "resource_date": "2012-08-03T09:41:00.694-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:37.883989"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/03/one-off-journal-issues-french.html", 
+            "resource_date": "2012-08-03T09:41:00.694-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:37.883996"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "French archaeology abroad", 
+    "url": "http://histoire-cnrs.revues.org/index.html", 
+    "zotero_id": null
+}

@@ -1,0 +1,48 @@
+{
+    "description": "You will find it here: .", 
+    "domain": "www.asor.org", 
+    "history": [
+        "2015-06-03T04:59:27.349986: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/online-errata-for-shechem-iii-by-edward.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "ASOR", 
+        "archaeology", 
+        "report", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        0.999999999999998
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3142106980638157862", 
+            "resource_date": "2012-03-27T18:58:35.901-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:27.350592"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/online-errata-for-shechem-iii-by-edward.html", 
+            "resource_date": "2012-03-27T18:58:35.901-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:27.350600"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Online Errata for Shechem III  by Edward Campbell (ASOR Archaeological Report Series Volume 6, Boston, MA: ASOR, 2002)", 
+    "url": "http://www.asor.org/pubs/books-monographs/ars.html", 
+    "zotero_id": null
+}

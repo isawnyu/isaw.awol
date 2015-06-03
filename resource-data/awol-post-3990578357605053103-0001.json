@@ -1,0 +1,65 @@
+{
+    "description": "The Achemenet project aims to provide a platform for the much needed international cooperation and multidisciplinary approach to the Achaemenid world. Within this project the electronic newsletter ARTA is intended as a speedy vehicle for exchanging ideas and spreading news on excavations, publications, congresses etc.Materials to be published in ARTA should be related to the Achaemenid world in its widest sense. This definition clearly does not exclude notes on Alexander the Great, the Neo-Elamite period, etc. as long as they are relevant to the Achaemenid world.The content of texts submitted to ARTA may be research notes or short articles, announcements or reviews of publications, messages on congresses, exhibitions or excavations.", 
+    "domain": "www.achemenet.com", 
+    "history": [
+        "2015-06-03T04:59:31.130644: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/07/open-access-journal-arta-achaemenid.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Achaemenids", 
+        "Achemenet", 
+        "Elamite", 
+        "Iran", 
+        "Near East", 
+        "antiquity", 
+        "archaeology", 
+        "archive", 
+        "document", 
+        "egyptology", 
+        "epigraphy", 
+        "fortifications", 
+        "journal", 
+        "military", 
+        "museums", 
+        "newsletter", 
+        "open access", 
+        "project", 
+        "report", 
+        "seals"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3990578357605053103", 
+            "resource_date": "2013-12-18T10:49:35.737-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:31.131247"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/07/open-access-journal-arta-achaemenid.html", 
+            "resource_date": "2013-12-18T10:49:35.737-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:31.131255"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ARTA: Achaemenid Research on Texts and Archaeology", 
+    "url": "http://www.achemenet.com/bookmark.do?link=arta", 
+    "zotero_id": null
+}

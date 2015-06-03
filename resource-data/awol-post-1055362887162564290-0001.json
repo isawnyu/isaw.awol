@@ -1,0 +1,54 @@
+{
+    "description": "AMAR: One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-03T04:59:17.837280: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Amar", 
+        "Iran", 
+        "Mesopotamia", 
+        "archaeological site", 
+        "archaeology", 
+        "archive", 
+        "report", 
+        "reports", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1055362887162564290", 
+            "resource_date": "2012-03-04T15:12:57.357-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:17.837864"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html", 
+            "resource_date": "2012-03-04T15:12:57.357-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:17.837872"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Excavations at Tepe Yahya, Iran in AMAR", 
+    "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "zotero_id": null
+}

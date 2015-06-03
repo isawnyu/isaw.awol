@@ -1,0 +1,49 @@
+{
+    "description": "Isched Onlinebeitr\u00e4ge", 
+    "domain": "www.aefobe.de", 
+    "history": [
+        "2015-06-03T04:59:46.113747: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/02/new-online-publication-series-from.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Berlin", 
+        "Egypt", 
+        "Egyptomania", 
+        "art", 
+        "egyptology", 
+        "forum", 
+        "materials", 
+        "series"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7451218649349425126", 
+            "resource_date": "2012-09-24T10:25:00.814-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:46.114343"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/new-online-publication-series-from.html", 
+            "resource_date": "2012-09-24T10:25:00.814-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:46.114351"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "New Online Publication Series from the Aegypten Forum Berlin e.V.", 
+    "url": "http://www.aefobe.de/html/frameset.html", 
+    "zotero_id": null
+}

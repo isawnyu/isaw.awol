@@ -1,0 +1,52 @@
+{
+    "description": "SMAC features the outstanding research of undergraduates at Macalester College in the study of ancient Mediterranean people and cultures. Papers are welcome addressing the languages, literature, material culture, societies or history of the ancient Mediterranean world or their reception in later historical periods. Submissions are peer reviewed by advanced students at Macalester College. Volume 2 (2008)Issue 1", 
+    "domain": "digitalcommons.macalester.edu", 
+    "history": [
+        "2015-06-03T04:59:33.011520: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/open-access-journal-studies-in.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Mediterranean", 
+        "antiquity", 
+        "classics", 
+        "history", 
+        "journal", 
+        "open access", 
+        "reception", 
+        "student journal"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4443403908418511017", 
+            "resource_date": "2013-10-06T09:09:40.524-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:33.012051"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-studies-in.html", 
+            "resource_date": "2013-10-06T09:09:40.524-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:33.012059"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Studies in Mediterranean antiquity and classics", 
+    "url": "http://digitalcommons.macalester.edu/classicsjournal/", 
+    "zotero_id": null
+}

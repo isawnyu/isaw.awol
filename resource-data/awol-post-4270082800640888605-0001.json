@@ -1,0 +1,49 @@
+{
+    "description": "1 (1880) 2 (1882) 3 (1885) 4 (1885) 5 (1888) 6 (1891) 7 (1896) 8 (1898) 9 (1900) 10 (1902) 11 (1904)12 (1907)13 (1911)14 (1914) Nouvelle S\u00e9rie 1 (1919) - vol. 2, fascicles 1-2 (1920)", 
+    "domain": "archive.org", 
+    "history": [
+        "2015-06-03T04:59:32.373316: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/open-access-journal-revue-egyptologique.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "antiquity", 
+        "egyptology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4270082800640888605", 
+            "resource_date": "2012-12-03T16:58:23.687-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:32.373901"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-revue-egyptologique.html", 
+            "resource_date": "2012-12-03T16:58:23.687-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:32.373909"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Revue \u00e9gyptologique", 
+    "url": "http://archive.org/search.php?query=Revue%20%C3%A9gyptologique", 
+    "zotero_id": null
+}
