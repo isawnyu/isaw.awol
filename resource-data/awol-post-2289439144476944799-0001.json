@@ -1,25 +1,26 @@
 {
-    "description": "Povijesni prilozi spadaju u popis \u010dasopisa koji su po vrsno\u0107i izjedna\u010deni sa \u010dasopisima s me\u0111unarodno priznatom recenzijom (kategorija A 1). \u010casopis izlazi u izdanju Hrvatskog instituta za povijest, Opati\u010dka 10, 10 000 Zagreb, gdje je i sjedi\u0161te uredni\u0161tva. Znanstveni \u010dasopis Povijesni prilozi prima potporu Ministarstva znanosti, obrazovanja i \u0161porta Republike Hrvatske. Od 1982. do 2000. godine \u010dasopis je izlazio jedanput godi\u0161nje, a od 2001. izlazi dva puta godi\u0161nje. \u010casopis izlazi na hrvatskom jeziku, a povremeno se objavljuju i \u010dlanci doma\u0107ih ili inozemnih autora na stranim jezicima. Povijesni prilozi su znanstveni \u010dasopis koji objavljuje rezultate istra\u017eivanja s podru\u010dja povijesne znanosti te pomo\u0107nih povijesnih disciplina od antike do sredine 19. stolje\u0107a. U \u010dasopisu se objavljuju rezultati znanstvenih projekata Hrvatskog instituta za povijest te \u010dlanci znanstvenog sadr\u017eaja drugih autora iz Hrvatske i inozemstva. U Povijesnim prilozima objavljuju se sljede\u0107e kategorije \u010dlanaka: izvorni znanstveni radovi, prethodna priop\u0107enja, pregledni \u010dlanci, izlaganja sa znanstvenih skupova i stru\u010dni \u010dlanci. Osim tih radova tiskaju se ocjene i prikazi knjiga i periodike, obavijesti, bilje\u0161ke i sli\u010dno.", 
+    "description": "Povijesni prilozi - Historical Contributions ISSN: 0351-9767", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-03T04:59:23.770739: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-povijesni-prilozi.html. (walk_to_json.py)"
+        "2015-06-03T22:29:02.939582: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-povijesni-prilozi.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0351-9767"
+            ]
+        }
+    }, 
     "keywords": [
-        "Croatia", 
         "Croatian", 
         "antiquity", 
-        "book", 
-        "book reviews", 
-        "education", 
         "history", 
         "journal", 
-        "open access", 
-        "presentations"
+        "open access"
     ], 
     "language": [
         "hr", 
-        1.0
+        0.9880216605798404
     ], 
     "provenance": [
         {
@@ -31,24 +32,120 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2289439144476944799", 
             "resource_date": "2013-02-21T10:44:26.227-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:23.771357"
+            "when": "2015-06-03T22:29:02.940202"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-povijesni-prilozi.html", 
             "resource_date": "2013-02-21T10:44:26.227-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:23.771366"
+            "when": "2015-06-03T22:29:02.940210"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
-    "title": "Povijesni prilozi", 
+    "subordinate_resources": [
+        {
+            "label": "Vol. 42 \u00a0 No. 42", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6857"
+        }, 
+        {
+            "label": "Vol. 41 \u00a0 No. 41", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6131"
+        }, 
+        {
+            "label": "Vol. 40 \u00a0 No. 40", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=5464"
+        }, 
+        {
+            "label": "Vol. 39 \u00a0 No. 39", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=5094"
+        }, 
+        {
+            "label": "Vol. 38 \u00a0 No. 38", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4472"
+        }, 
+        {
+            "label": "Vol. 37 \u00a0 No. 37", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3906"
+        }, 
+        {
+            "label": "Vol. 36 \u00a0 No. 36", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3350"
+        }, 
+        {
+            "label": "Vol. 35 \u00a0 No. 35", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2866"
+        }, 
+        {
+            "label": "Vol. 34 \u00a0 No. 34", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2380"
+        }, 
+        {
+            "label": "Vol. 33 \u00a0 No. 33", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1713"
+        }, 
+        {
+            "label": "Vol. 32 \u00a0 No. 32", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1569"
+        }, 
+        {
+            "label": "Vol. 31 \u00a0 No. 31", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1249"
+        }, 
+        {
+            "label": "Vol. 30 \u00a0 No. 30", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1240"
+        }, 
+        {
+            "label": "Vol. 29 \u00a0 No. 29", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1239"
+        }, 
+        {
+            "label": "Vol. 28 \u00a0 No. 28", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=874"
+        }, 
+        {
+            "label": "Vol. 27 \u00a0 No. 27", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2031"
+        }, 
+        {
+            "label": "Vol. 26 \u00a0 No. 26", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2026"
+        }, 
+        {
+            "label": "Vol. 25 \u00a0 No. 25", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2030"
+        }, 
+        {
+            "label": "Vol. 24 \u00a0 No. 24", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2493"
+        }, 
+        {
+            "label": "Vol. 23 \u00a0 No. 23", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2494"
+        }, 
+        {
+            "label": "Vol. 22 \u00a0 No. 22", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2495"
+        }, 
+        {
+            "label": "Vol. 21 \u00a0 No. 21", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2502"
+        }, 
+        {
+            "label": "Vol. 20 \u00a0 No. 20", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2509"
+        }
+    ], 
+    "title": "Povijesni prilozi - Historical Contributions", 
     "url": "http://hrcak.srce.hr/povijesni-prilozi", 
     "zotero_id": null
 }

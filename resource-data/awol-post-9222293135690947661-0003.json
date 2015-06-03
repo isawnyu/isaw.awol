@@ -1,0 +1,50 @@
+{
+    "description": "Vol. 43 No. 1 Vol. 43 No. 1 2009 Vol. 42 No. 1 Vol. 42 No. 1 Vol. 42 No. 1 Vol. 42 No. 1", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-03T22:29:23.613213: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-vjesnik-arheoloskog.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Croatia", 
+        "Zagreb", 
+        "archaeology", 
+        "journal", 
+        "museums", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9222293135690947661", 
+            "resource_date": "2013-02-21T10:56:33.785-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T22:29:23.613764"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-vjesnik-arheoloskog.html", 
+            "resource_date": "2013-02-21T10:56:33.785-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T22:29:23.613772"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Vol. 43 \u00a0 No. 1", 
+    "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6006", 
+    "zotero_id": null
+}

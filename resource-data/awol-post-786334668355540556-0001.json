@@ -1,22 +1,18 @@
 {
-    "description": "Vjesnik za arheologiju i povijest dalmatinsku je osnovan 1878. godine pod imenom Bullettino di archeologia e storia dalmata, koji je kao stru\u010dno glasilo Arheolo\u0161kog muzeja u Splitu postao jedan od najzna\u010dajnijih arheolo\u0161kih \u010dasopisa u Hrvatskoj i kontinuirano izlazi do danas. Godine 1920. \u010dasopisu (br. 43) je promjenjeno ime u Vjesnik za arheologiju i historiju dalmatinsku (VAHD), a 2005. izlazi pod imenom Vjesnik za arheologiju i povijest dalmatinsku (VAPD). Od osnutka do 2005. godine publicirano je 98 brojeva ovovga \u010dasopisa. Kao znanstvena publikacija sa podru\u010dja arheologije i povijesti u kategorizaciji \u010dasopisa Nacionalnog vije\u0107a za znanost ocijenjen je najve\u0107om ocjenom (a1).Journal of Dalmatian archaeology and history was founded in 1878. as a Bullettino di archeologia e storia Dalmata, which become one of the most important archaeological review in Croatia. Since foundation until 2005. it has been publish 98 numbers of the journal. As a scientific publication on archaeology and history it is revew from National council for science as a most excellent (a1 grade).\u00a0 See the full List of Open Access Journals in Ancient Studies", 
+    "description": "Vjesnik za arheologiju i povijest dalmatinsku ( Journal of Dalmatian archaeology and history)", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-03T04:59:47.860994: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/12/open-access-journal-vjesnik-za.html. (walk_to_json.py)"
+        "2015-06-03T22:29:19.939869: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/12/open-access-journal-vjesnik-za.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "AWOL", 
-        "antiquity", 
         "archaeology", 
-        "history", 
         "journal", 
-        "open access", 
-        "science"
+        "open access"
     ], 
     "language": [
-        "bs", 
-        0.9999376634141698
+        "hr", 
+        0.9600371548439062
     ], 
     "provenance": [
         {
@@ -28,24 +24,27 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-786334668355540556", 
             "resource_date": "2012-11-23T09:38:58.980-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:47.861623"
+            "when": "2015-06-03T22:29:19.940442"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-vjesnik-za.html", 
             "resource_date": "2012-11-23T09:38:58.980-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:47.861632"
+            "when": "2015-06-03T22:29:19.940451"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Vjesnik za arheologiju i povijest dalmatinsku (Journal of Dalmatian archaeology and history)", 
+    "title": "Vjesnik za arheologiju i povijest dalmatinsku", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6076&lang=hr", 
     "zotero_id": null
 }
