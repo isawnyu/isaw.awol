@@ -118,7 +118,8 @@ AGGREGATOR_IGNORE = [
     'http://oi.uchicago.edu/news/'
 ]
 POST_SELECTIVE = {
-    'http://ancientworldonline.blogspot.com/2012/07/chicago-demotic-dictionary-t.html': [0]
+    'http://ancientworldonline.blogspot.com/2012/07/chicago-demotic-dictionary-t.html': [0,]
+    'http://ancientworldonline.blogspot.com/2013/01/new-issues-of-asor-journals.html': [0,1,]
 }
 SUBORDINATE_FLAGS = [
     'terms of use',
@@ -267,7 +268,7 @@ class AwolArticle(Article):
             and d not in DOMAINS_SECONDARY]
         if len(domains) == 1 and len(unique_urls) > 1 and domains[0] in AGGREGATORS:
             # this article is about an aggregator: parse for multiple resources
-            dump_domains = [u'oi.uchicago.edu',]
+            dump_domains = [u'www.jstor.org',]
             if domains[0] in dump_domains:
                 dump_it = True
             else:
