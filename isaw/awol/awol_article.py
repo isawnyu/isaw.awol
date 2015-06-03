@@ -118,7 +118,7 @@ AGGREGATOR_IGNORE = [
     'http://oi.uchicago.edu/news/'
 ]
 POST_SELECTIVE = {
-    'http://ancientworldonline.blogspot.com/2012/07/chicago-demotic-dictionary-t.html': [0,]
+    'http://ancientworldonline.blogspot.com/2012/07/chicago-demotic-dictionary-t.html': [0,],
     'http://ancientworldonline.blogspot.com/2013/01/new-issues-of-asor-journals.html': [0,1,]
 }
 SUBORDINATE_FLAGS = [
