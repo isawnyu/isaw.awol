@@ -1,0 +1,47 @@
+{
+    "description": "No. 39-40 1988 No. 38", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-03T22:29:14.220413: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/open-access-journal-slovo.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Croatia", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6042182322265679896", 
+            "resource_date": "2013-05-19T08:14:18.048-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T22:29:14.220999"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/11/open-access-journal-slovo.html", 
+            "resource_date": "2013-05-19T08:14:18.048-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T22:29:14.221008"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "No. 39-40", 
+    "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1409", 
+    "zotero_id": null
+}

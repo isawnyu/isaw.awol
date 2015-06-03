@@ -1,0 +1,47 @@
+{
+    "description": "Vol. 8 No. 1 Vol. 8 No. 1 1982 Vol. 7 No. 1 Vol. 7 No. 1 Vol. 7 No. 1 Vol. 7 No. 1", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-03T22:29:17.021438: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-journal-opvscvla.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "archaeology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6842039897589014782", 
+            "resource_date": "2012-09-14T05:54:47.148-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T22:29:17.022032"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-opvscvla.html", 
+            "resource_date": "2012-09-14T05:54:47.148-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T22:29:17.022040"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Vol. 8 \u00a0 No. 1", 
+    "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=565", 
+    "zotero_id": null
+}

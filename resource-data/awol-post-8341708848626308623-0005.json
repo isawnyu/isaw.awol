@@ -1,0 +1,48 @@
+{
+    "description": "Vol. III No. 36 Vol. III No. 36 2008 Vol. III No. 35 Vol. III No. 35 Vol. III No. 35 Vol. III No. 35", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-03T22:29:21.271592: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/newly-open-access-journal-starohrvatska.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Croatia", 
+        "archaeology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8341708848626308623", 
+            "resource_date": "2012-12-19T06:16:33.429-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T22:29:21.272187"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/newly-open-access-journal-starohrvatska.html", 
+            "resource_date": "2012-12-19T06:16:33.429-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T22:29:21.272195"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Vol. III \u00a0 No. 36", 
+    "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6552", 
+    "zotero_id": null
+}

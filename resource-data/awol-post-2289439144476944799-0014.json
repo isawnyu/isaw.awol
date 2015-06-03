@@ -1,0 +1,49 @@
+{
+    "description": "Vol. 30 No. 30 Vol. 30 No. 30 2005 Vol. 29 No. 29 Vol. 29 No. 29 Vol. 29 No. 29 Vol. 29 No. 29", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-03T22:29:03.013475: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-povijesni-prilozi.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Croatian", 
+        "antiquity", 
+        "history", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2289439144476944799", 
+            "resource_date": "2013-02-21T10:44:26.227-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T22:29:03.014131"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-povijesni-prilozi.html", 
+            "resource_date": "2013-02-21T10:44:26.227-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T22:29:03.014141"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Vol. 30 \u00a0 No. 30", 
+    "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1240", 
+    "zotero_id": null
+}

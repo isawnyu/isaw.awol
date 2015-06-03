@@ -1,0 +1,46 @@
+{
+    "description": "Vol. 5 No. 2 Vol. 5 No. 2 Vol. 5 No. 1 Vol. 5 No. 1 Vol. 5 No. 1 Vol. 5 No. 1", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-03T22:29:09.982847: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/open-access-journal-bulletin-of.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4638267331575491393", 
+            "resource_date": "2011-12-30T16:44:36.587-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T22:29:09.983436"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-bulletin-of.html", 
+            "resource_date": "2011-12-30T16:44:36.587-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T22:29:09.983444"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Vol. 5 \u00a0 No. 2", 
+    "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6058", 
+    "zotero_id": null
+}

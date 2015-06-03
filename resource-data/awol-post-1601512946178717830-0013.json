@@ -1,0 +1,46 @@
+{
+    "description": "Vol. 26 No. 1 Vol. 26 No. 1 1998 Vol. 25 No. 1 Vol. 25 No. 1 Vol. 25 No. 1 Vol. 25 No. 1", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-03T22:29:00.701361: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/open-access-journal-senjski-zbornik.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1601512946178717830", 
+            "resource_date": "2011-10-10T14:10:50.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T22:29:00.701920"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-senjski-zbornik.html", 
+            "resource_date": "2011-10-10T14:10:50.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T22:29:00.701929"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Vol. 26 \u00a0 No. 1", 
+    "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3470", 
+    "zotero_id": null
+}

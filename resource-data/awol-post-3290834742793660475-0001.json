@@ -1,23 +1,21 @@
 {
-    "description": "\u010casopis je utemeljen 2005. godine pod nazivom Annales Instituti Archaeologici \u2013 AIA (Godi\u0161njak Instituta za arheologiju) u Zagrebu. Objavljuje rezultate arheolo\u0161kih istra\u017eivanja i terenske preglede Instituta za arheologiju. Izlazi jednom godi\u0161nje (jedan volumen, jedan broj).Financijsku potporu daje Ministarstvo znanosti, obrazovanja i \u0161portaThe journal was founded in 2005 by Institute of Archaeology (Zagreb) and originally entitled Annales Instituti Archaeologici \u2013 AIA.The journal publishes results of the archaeological excavations and field surveys carried by Institute of Archaeology. It is being published once a year (one volume, one number).Supported by Ministry of Science, Education and Sport of Croatia.", 
+    "description": "Annales Instituti Archaeologici ISSN: 1845-4046", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-03T04:59:28.348140: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-journal-annales-instituti.html. (walk_to_json.py)"
+        "2015-06-03T22:29:06.182923: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-journal-annales-instituti.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1845-4046"
+            ]
+        }
+    }, 
     "keywords": [
-        "AIA", 
-        "AWOL", 
-        "antiquity", 
-        "archaeology", 
-        "education", 
         "journal", 
         "open access"
     ], 
-    "language": [
-        "en", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -28,23 +26,51 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3290834742793660475", 
             "resource_date": "2012-01-14T09:28:18.750-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:28.348696"
+            "when": "2015-06-03T22:29:06.183513"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-annales-instituti.html", 
             "resource_date": "2012-01-14T09:28:18.750-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:28.348704"
+            "when": "2015-06-03T22:29:06.183521"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "label": "Vol. VI \u00a0 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=5155"
+        }, 
+        {
+            "label": "Vol. V \u00a0 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4068"
+        }, 
+        {
+            "label": "Vol. IV \u00a0 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2923"
+        }, 
+        {
+            "label": "Vol. III \u00a0 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1284"
+        }, 
+        {
+            "label": "Vol. II \u00a0 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=881"
+        }, 
+        {
+            "label": "Vol. I \u00a0 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=64"
+        }
+    ], 
     "title": "Annales Instituti Archaeologici", 
     "url": "http://hrcak.srce.hr/aia?lang=hr", 
     "zotero_id": null
