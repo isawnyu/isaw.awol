@@ -1,35 +1,13 @@
 {
-    "description": "Oriental Institute Seminars 9The volume is the result of the eighth Annual University of Chicago Oriental Institute Seminar, held on March 2-3, 2012. Seventeen speakers, from both the US and abroad, examined the interconnections between temples, ritual, and cosmology from a variety of regional specializations and theoretical perspectives. The seminar revisited a classic topic, one with a long history among scholars of the ancient world: the cosmic symbolism of sacred architecture. Archaeologists, art historians, and philologists working not only in the ancient Near East, but also Mesoamerica, Greece, South Asia, and China, re-evaluated the significance of this topic across the ancient world.", 
+    "description": "OIS 9.\u00a0 Heaven on Earth: Temples, Ritual, and Cosmic Symbolism in the Ancient World: OIS 9. Heaven on Earth: Temples, Ritual, and Cosmic Symbolism in the Ancient World Edited by Deena Ragavan Download PDF", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T04:59:18.972609: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/new-online-from-oriental-institute.html. (walk_to_json.py)"
+        "2015-06-03T19:03:51.080449: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/new-online-from-oriental-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Amar", 
-        "Ancient Near East", 
-        "Buddhism", 
-        "Greek", 
-        "Hittite", 
-        "Iran", 
-        "Karnak", 
-        "Near East", 
         "Oriental Institute", 
-        "Persia", 
-        "South Asia", 
-        "Sumerian", 
-        "antiquity", 
-        "archaeology", 
-        "architecture", 
-        "art", 
-        "egyptology", 
-        "geography", 
-        "graffiti", 
-        "history", 
-        "imagery", 
-        "open access", 
-        "prehistory", 
-        "religion"
+        "antiquity"
     ], 
     "language": [
         "en", 
@@ -45,24 +23,73 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-136894099415794198", 
             "resource_date": "2013-07-19T13:55:30.150-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:18.973187"
+            "when": "2015-06-03T19:03:51.081072"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/new-online-from-oriental-institute.html", 
             "resource_date": "2013-07-19T13:55:30.150-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:18.973194"
+            "when": "2015-06-03T19:03:51.081081"
         }
     ], 
-    "related_resources": [], 
-    "subordinate_resources": [], 
-    "title": "Heaven on Earth: Temples, Ritual, and Cosmic Symbolism in the Ancient World", 
+    "related_resources": [
+        {
+            "label": "List of volumes in print", 
+            "url": "http://oi.uchicago.edu/research/pubs/catalog/ois/"
+        }, 
+        {
+            "label": "Iconoclasm and Text Destruction in the Ancient Near East and Beyond.", 
+            "url": "http://oi.uchicago.edu/research/pubs/catalog/ois/ois8.html"
+        }, 
+        {
+            "label": "Slaves and Households in the Near East", 
+            "url": "http://oi.uchicago.edu/research/pubs/catalog/ois/ois7.html"
+        }, 
+        {
+            "label": "Divination and Interpretation of Signs in the Ancient World", 
+            "url": "http://oi.uchicago.edu/research/pubs/catalog/ois/ois6.html"
+        }, 
+        {
+            "label": "Nomads, Tribes, and the State in the Ancient Near East: Cross-disciplinary Perspectives,", 
+            "url": "http://oi.uchicago.edu/research/pubs/catalog/ois/ois5.html"
+        }, 
+        {
+            "label": "Religion and Power: Divine Kingship in the Ancient World and Beyond,", 
+            "url": "http://oi.uchicago.edu/research/pubs/catalog/ois/ois4.html"
+        }, 
+        {
+            "label": "Performing Death: Social Analyses of Funerary Traditions in the Ancient Near East and Mediterranean.", 
+            "url": "http://oi.uchicago.edu/research/pubs/catalog/ois/ois3.html"
+        }, 
+        {
+            "label": "Margins of Writing, Origins of Cultures.", 
+            "url": "http://oi.uchicago.edu/research/pubs/catalog/ois/ois2.html"
+        }, 
+        {
+            "label": "Changing Social Identity with the Spread of Islam: Archaeological Perspectives.", 
+            "url": "http://oi.uchicago.edu/research/pubs/catalog/ois/ois1.html"
+        }
+    ], 
+    "subordinate_resources": [
+        {
+            "label": "Download PDF", 
+            "url": "http://oi.uchicago.edu/pdf/ois9.pdf"
+        }, 
+        {
+            "label": "Terms of Use", 
+            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
+        }
+    ], 
+    "title": "OIS 9.\u00a0 Heaven on Earth: Temples, Ritual, and Cosmic Symbolism in the Ancient World", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/ois/ois9.html", 
     "zotero_id": null
 }

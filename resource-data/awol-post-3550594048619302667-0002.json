@@ -1,8 +1,8 @@
 {
-    "description": "Release Content: Nos. 1-53 (1978-2004) Moving Wall: 5 years Publisher: Fabrizio Serra editore ISSN: 0392-6338Journal Description: The journal, MD has contributed enormously to the methodological renewal of classical philology studies, reviving and renewing the most effective and respected techniques of the last two centuries, from traditional philology to contemporary hermeneutics. MD first came out in 1978, at the initiative of a team of young Italian Classical scholars. The most signal among them were the Latinists Gian Biagio Conte and Alessandro Barchiesi, and the anthropologist Maurizio Bettini. The Board soon became International, attracting especially what were then avanguard scholars engaged in bringing poststructuralist literary criticism to the study of Classical texts. Today MD typically includes studies of literary criticism alongside shorter notes and studies of the textual transmission of the Classics. Each issue numbers between 200 and 220 pages, and the total number of pages so far has reached 15,000 pages.", 
+    "description": "Release Content: Nos. 1-53 (1978-2004) Moving Wall: 5 years Publisher: Fabrizio Serra editore ISSN: 0392-6338 Journal Description: The journal, MD has contributed enormously to the methodological renewal of classical philology studies, reviving and renewing the most effective and respected techniques of the last two centuries, from traditional philology to contemporary hermeneutics. MD first came out in 1978, at the initiative of a team of young Italian Classical scholars. The most signal among them were the Latinists Gian Biagio Conte and Alessandro Barchiesi, and the anthropologist Maurizio Bettini. The Board soon became International, attracting especially what were then avanguard scholars engaged in bringing poststructuralist literary criticism to the study of Classical texts. Today MD typically includes studies of literary criticism alongside shorter notes and studies of the textual transmission of the Classics. Each issue numbers between 200 and 220 pages, and the total number of pages so far has reached 15,000 pages.", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:29.364262: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T19:03:59.858873: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -29,19 +29,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3550594048619302667", 
             "resource_date": "2010-02-05T09:52:44.401-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:29.364789"
+            "when": "2015-06-03T19:03:59.859494"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2010-02-05T09:52:44.401-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:29.364796"
+            "when": "2015-06-03T19:03:59.859503"
         }
     ], 
     "related_resources": [], 

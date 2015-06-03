@@ -1,8 +1,8 @@
 {
-    "description": "Previous Title: The Journal of the Royal Historical and Archaeological Association of IrelandPrevious Title: The Journal of the Historical and Archaeological Association of IrelandPrevious Title: The Journal of the Kilkenny and South-East of Ireland Archaeological SocietyPrevious Title: Proceedings and Transactions of the Kilkenny and South-East of Ireland Archaeological Society [1854-1855] (0790-6358)Previous Title: Transactions of the Kilkenny Archaeological Society [1849-1853] (0790-634X)Release Content: Vol. 1, No. 2 (1850) \u2013 Vol. 2, No. 2 (1853); Vol. 3, Nos. 1-2 (1854-1855); New Series, Vol. 1, No. 1 (1856) \u2013 New Series, Vol. 6, No. 1 (1867); Third Series, Vol. 1, Nos. 1-2 (1868-1869); Forth Series, Vol. 1, No. 1 (1870) \u2013 Forth Series, Vol. 9, No. 81 (October, 1889 \u2013 January, 1890); Fifth Series, Vol. 1, No. 1 (1890) \u2013 Vol. 133 (2003)Moving Wall: 5 yearsPublisher: Royal Society of Antiquaries of IrelandISSN: 0035-9106Note: The content for Vol. 1, No. 1 (1849) will be released as soon as the issue becomes available to JSTOR. [1870-1889/1890] (0790-6382) [1868-1869] (0790-6374) [1856-1867] (0790-6366)", 
+    "description": "Journal of the County Louth Archaeological Society: [1904-1969] (1393-2195) Release Content: Vol. 1, No. 1 (July, 1904) \u2013 Vol. 17, No. 1 (1969); Vol. 17, No. 2 (1970) \u2013 Vol. 26, No. 1 (2005) Moving Wall: 3 years Publisher: County Louth Archaeological and History Society ISSN: 0070-1327", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:41.298673: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor_16.html. (walk_to_json.py)"
+        "2015-06-03T19:04:09.943010: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor_16.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -11,9 +11,7 @@
         "antiquity", 
         "archaeology", 
         "history", 
-        "journal", 
-        "journal issues", 
-        "proceedings"
+        "journal"
     ], 
     "language": [
         "en", 
@@ -29,19 +27,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6352810972116546516", 
             "resource_date": "2009-12-16T17:16:41.654-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:41.299245"
+            "when": "2015-06-03T19:04:09.943534"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor_16.html", 
             "resource_date": "2009-12-16T17:16:41.654-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:41.299253"
+            "when": "2015-06-03T19:04:09.943541"
         }
     ], 
     "related_resources": [], 

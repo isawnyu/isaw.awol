@@ -2,7 +2,7 @@
     "description": "Archive of Mesopotamian Site Reports (AMAR): has now gone live in its almost final form. \u00a0You can access it at www.stonybrook.edu/amar. \u00a0It contains digitized copies of nearly 600 archaeological site reports. \u00a0These focus on Mesopotamia, but include reports on the archaeology of Iran, the Gulf, Turkey, Syria, Armenia and Lebanon. \u00a0The books can all be downloaded without charge for personal use only. \u00a0This project was funded through the \"Rebuild the Capabilities of Iraq's Museum, Heritage and Archaeology Organizations Project\" funded", 
     "domain": "www.stonybrook.edu", 
     "history": [
-        "2015-06-03T04:59:40.402644: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/02/news-from-amar.html. (walk_to_json.py)"
+        "2015-06-03T19:04:09.107801: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/02/news-from-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -42,13 +42,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6171670439126818671", 
             "resource_date": "2012-03-01T20:32:35.258-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:40.403263"
+            "when": "2015-06-03T19:04:09.108381"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/news-from-amar.html", 
             "resource_date": "2012-03-01T20:32:35.258-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:40.403271"
+            "when": "2015-06-03T19:04:09.108389"
         }
     ], 
     "related_resources": [], 

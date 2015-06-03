@@ -2,7 +2,7 @@
     "description": "This repository is dedicated to documenting and modelling every single aspect of the Semitic languages. The main database holds a record of all known roots that have been entered so far, and gives many means by which to search and compare them.", 
     "domain": "www.semiticroots.net", 
     "history": [
-        "2015-06-03T04:59:33.419700: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/semitic-roots-repository.html. (walk_to_json.py)"
+        "2015-06-03T19:04:03.405344: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/semitic-roots-repository.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -34,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-456794387103054790", 
             "resource_date": "2013-09-23T11:26:17.849-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:33.420240"
+            "when": "2015-06-03T19:04:03.405981"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/semitic-roots-repository.html", 
             "resource_date": "2013-09-23T11:26:17.849-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:33.420248"
+            "when": "2015-06-03T19:04:03.405990"
         }
     ], 
     "related_resources": [], 

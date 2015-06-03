@@ -1,0 +1,50 @@
+{
+    "description": "OIP 23. Medinet Habu, Volume III. The Calendar, the \u201cSlaughterhouse,\u201d and Minor Records of Ramses III. : By the Epigraphic Survey. Originally published in 1934. OIP 21. The Excavation of Medinet Habu, Volume 1: General Plans and Views. 1934 Uvo H\u00f6lscher. OIP 21. The Excavation of Medinet Habu, Volume 1: General Plans and Views. 1934 Uvo H\u00f6lscher.", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-03T19:04:12.543522: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Oriental Institute", 
+        "archaeology", 
+        "epigraphy"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6966019253183957888", 
+            "resource_date": "2009-11-19T14:21:54.141-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T19:04:12.544171"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html", 
+            "resource_date": "2009-11-19T14:21:54.141-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T19:04:12.544180"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "OIP 23. Medinet Habu, Volume III. The Calendar, the \u201cSlaughterhouse,\u201d and Minor Records of Ramses III", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip23.html", 
+    "zotero_id": null
+}

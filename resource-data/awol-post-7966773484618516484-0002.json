@@ -1,24 +1,19 @@
 {
-    "description": "Israel Exploration Journal (Arts & Sciences IX)Coverage:Vol. 1, No. 1 (1950/1951)\u2013Vol. 57, No. 2 (2007)Moving Wall: 3 yearsPublisher: Israel Exploration SocietyISSN: 0021-2059Quaderni di Studi Arabi (Arts & Sciences IX)Coverage:Vols. 1\u201320/21 (1983\u20132002/2003);Nuova Serie, Vols. 1\u20132 (2006\u20132007)Moving Wall: 3 yearsPublisher: Istituto per l'Oriente C. A. NallinoISSN: 1121-2306Zeitschrift des Deutschen Pal\u00e4stina-Vereins (1953\u2013) [1953\u2013 ] (Arts & Sciences IX)Previous Title: Beitr\u00e4ge zur biblischen Landes- und Altertumskunde [1949\u20131951] (2192-3132)Previous Title: Zeitschrift des Deutschen Pal\u00e4stina-Vereins (1878\u20131945) [1878\u20131945] (2192-3124)Coverage:Bd. 1 (1878)\u2013Bd. 67, H. 2 (1945);Bd. 68, H. 1\u20133 (1949\u20131951);Bd. 69, H. 1 (1953)\u2013Bd. 123, H. 2 (2007)Moving Wall: 3 yearsPublisher: Deutscher verein zur Erforschung Pal\u00e4stinasISSN: 0012-1169", 
+    "description": "Canadian Journal of Archaeology / Journal Canadien d'Arch\u00e9ologie: (Arts & Sciences IX) Coverage: Nos. 1\u20136 (1977\u20131982); Vol. 7, No. 1 (1983)\u2013Vol. 31, No. 3 (2007) Moving Wall: 3 years Publisher: Canadian Archaeological Association ISSN:", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:48.288966: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-ancient-wolrd-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T19:04:16.235608: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-ancient-wolrd-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Arabic", 
-        "Islam", 
-        "Israel", 
         "JSTOR", 
         "antiquity", 
         "archaeology", 
-        "history", 
-        "journal", 
-        "religion"
+        "journal"
     ], 
     "language": [
-        "de", 
-        1.0
+        "en", 
+        0.9999931090620509
     ], 
     "provenance": [
         {
@@ -30,19 +25,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7966773484618516484", 
             "resource_date": "2011-10-17T10:17:25.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:48.289567"
+            "when": "2015-06-03T19:04:16.236204"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/new-ancient-wolrd-content-in-jstor.html", 
             "resource_date": "2011-10-17T10:17:25.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:48.289574"
+            "when": "2015-06-03T19:04:16.236213"
         }
     ], 
     "related_resources": [], 

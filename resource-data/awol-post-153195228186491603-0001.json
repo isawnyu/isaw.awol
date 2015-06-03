@@ -1,8 +1,8 @@
 {
-    "description": "The mission of the museum is to inspire and facilitate the study of the ancient world by providing faculty and students access to a remarkable collection of archaeological artifacts.\u00a0 The museum is dedicated to:The preservation of the collectionMuseum quality display and exhibitionsThe accessibility of the collection for teaching, study and research by faculty and studentsInterdisciplinary and collaborative research", 
+    "description": "The mission of the museum is to inspire and facilitate the study of the ancient world by providing faculty and students access to a remarkable collection of archaeological artifacts.\u00a0 The museum is dedicated to: The preservation of the collection Museum quality display and exhibitions The accessibility of the collection for teaching, study and research by faculty and students Interdisciplinary and collaborative research", 
     "domain": "archaeologicalmuseum.jhu.edu", 
     "history": [
-        "2015-06-03T04:59:19.769428: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/johns-hopkins-archaeological-museum.html. (walk_to_json.py)"
+        "2015-06-03T19:03:51.861931: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/johns-hopkins-archaeological-museum.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-153195228186491603", 
             "resource_date": "2012-05-04T09:38:10.969-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:19.769959"
+            "when": "2015-06-03T19:03:51.862508"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/johns-hopkins-archaeological-museum.html", 
             "resource_date": "2012-05-04T09:38:10.969-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:19.769967"
+            "when": "2015-06-03T19:03:51.862516"
         }
     ], 
     "related_resources": [], 

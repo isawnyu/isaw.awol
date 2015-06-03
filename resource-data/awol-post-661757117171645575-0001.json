@@ -1,19 +1,18 @@
 {
-    "description": "Bulletin of the American Schools of Oriental Research, No. 368, November 2012:", 
+    "description": "Near Eastern Archaeology, Vol. 75, No. 4, December 2012: Bulletin of the American Schools of Oriental Research, No. 368, November 2012", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:42.615286: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/new-issues-of-asor-journals.html. (walk_to_json.py)"
+        "2015-06-03T19:04:11.261207: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/new-issues-of-asor-journals.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "ASOR", 
-        "JSTOR", 
         "Near East", 
         "journal"
     ], 
     "language": [
         "en", 
-        0.9999999999998812
+        0.9999999999999338
     ], 
     "provenance": [
         {
@@ -25,19 +24,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-661757117171645575", 
             "resource_date": "2013-01-10T14:59:41.491-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:42.615860"
+            "when": "2015-06-03T19:04:11.262070"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/new-issues-of-asor-journals.html", 
             "resource_date": "2013-01-10T14:59:41.491-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:42.615868"
+            "when": "2015-06-03T19:04:11.262095"
         }
     ], 
     "related_resources": [], 

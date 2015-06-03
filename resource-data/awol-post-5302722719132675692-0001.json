@@ -1,22 +1,17 @@
 {
-    "description": "Assyriological Studies: are :", 
+    "description": "Assyriological Studies: are", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T04:59:36.721030: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_23.html. (walk_to_json.py)"
+        "2015-06-03T19:04:06.045611: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_23.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Akkadian", 
-        "Hittite", 
         "Oriental Institute", 
-        "Sumerian", 
-        "backlist", 
-        "open access", 
-        "series"
+        "backlist"
     ], 
     "language": [
         "en", 
-        0.9999999999976186
+        0.9992889296160188
     ], 
     "provenance": [
         {
@@ -28,24 +23,27 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5302722719132675692", 
             "resource_date": "2012-11-30T17:36:36.147-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:36.721588"
+            "when": "2015-06-03T19:04:06.046174"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_23.html", 
             "resource_date": "2012-11-30T17:36:36.147-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:36.721596"
+            "when": "2015-06-03T19:04:06.046182"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Newly Online from the Oriental Institute's Backlist", 
+    "title": "Assyriological Studies", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/as/", 
     "zotero_id": null
 }

@@ -2,7 +2,7 @@
     "description": "<!-- /* Font Definitions */ @font-face {font-family:Times; panose-1:2 0 5 0 0 0 0 0 0 0; mso-font-charset:0; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:Cambria; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-parent:\"\"; margin:0in; margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:12.0pt; font-family:\"Times New Roman\"; mso-ascii-font-family:Cambria; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Cambria; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Cambria; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:\"Times New Roman\"; mso-bidi-theme-font:minor-bidi;} @page Section1 {size:8.5in 11.0in; margin:1.0in 1.25in 1.0in 1.25in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.Section1 {page:Section1;} -->", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:48.278280: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-ancient-wolrd-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T19:04:16.230492: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-ancient-wolrd-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -25,24 +25,27 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7966773484618516484", 
             "resource_date": "2011-10-17T10:17:25.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:48.278859"
+            "when": "2015-06-03T19:04:16.231061"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/new-ancient-wolrd-content-in-jstor.html", 
             "resource_date": "2011-10-17T10:17:25.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:48.278867"
+            "when": "2015-06-03T19:04:16.231069"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Archive for History of Exact Sciences (Arts & Sciences X)", 
+    "title": "Archive for History of Exact Sciences (Arts & Sciences X", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=archhistexacscie", 
     "zotero_id": null
 }

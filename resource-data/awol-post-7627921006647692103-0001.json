@@ -2,7 +2,7 @@
     "description": "Mail-list for Phoenician/Punic research in the UK", 
     "domain": "www.jiscmail.ac.uk", 
     "history": [
-        "2015-06-03T04:59:46.717306: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/phoenicianpunic-mailing-list.html. (walk_to_json.py)"
+        "2015-06-03T19:04:14.788426: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/phoenicianpunic-mailing-list.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -34,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7627921006647692103", 
             "resource_date": "2013-01-13T19:04:48.796-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:46.717886"
+            "when": "2015-06-03T19:04:14.788982"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/phoenicianpunic-mailing-list.html", 
             "resource_date": "2013-01-13T19:04:48.796-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:46.717894"
+            "when": "2015-06-03T19:04:14.788990"
         }
     ], 
     "related_resources": [], 

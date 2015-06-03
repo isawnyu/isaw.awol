@@ -2,7 +2,7 @@
     "description": "This is an attempt to pull together (outside the Facebook, Twitter, etc. firewalls) the various pieces of information available online on the fire at the Institut d'Egypte, Cairo, 17 December 2011.", 
     "domain": "ancientworldbloggers.blogspot.com", 
     "history": [
-        "2015-06-03T04:59:19.095583: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/12/information-fire-at-institut-degypte.html. (walk_to_json.py)"
+        "2015-06-03T19:03:51.245131: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/12/information-fire-at-institut-degypte.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -28,13 +28,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1411053846651876735", 
             "resource_date": "2011-12-25T12:00:54.460-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:19.096199"
+            "when": "2015-06-03T19:03:51.245888"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/information-fire-at-institut-degypte.html", 
             "resource_date": "2011-12-25T12:00:54.460-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:19.096209"
+            "when": "2015-06-03T19:03:51.245896"
         }
     ], 
     "related_resources": [], 

@@ -1,8 +1,8 @@
 {
-    "description": "Release Content: Vol. 1, No. 1 (1925) \u2013 Vol. 75, No. 8 (2003) Moving Wall: 5 years Publisher: Verlag C.H.Beck ISSN: 0017-1417Note: The remaining content for 2003 will be released as soon as the issues become available to JSTOR.", 
+    "description": "Release Content: Vol. 1, No. 1 (1925) \u2013 Vol. 75, No. 8 (2003) Moving Wall: 5 years Publisher: Verlag C.H.Beck ISSN: 0017-1417 Note: The remaining content for 2003 will be released as soon as the issues become available to JSTOR.", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:25.591402: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T19:03:56.965374: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -23,19 +23,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2756486521717468641", 
             "resource_date": "2009-11-23T12:19:45.104-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:25.591957"
+            "when": "2015-06-03T19:03:56.965973"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2009-11-23T12:19:45.104-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:25.591964"
+            "when": "2015-06-03T19:03:56.965981"
         }
     ], 
     "related_resources": [], 

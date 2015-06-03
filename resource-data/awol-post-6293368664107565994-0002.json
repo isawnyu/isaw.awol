@@ -1,0 +1,48 @@
+{
+    "description": "The Megiddo Ivories: . Gordon Loud. Originally published in 1939. OIP 62. Megiddo 2. Seasons of 1935-39: Text and Plates . Gordon Loud. Originally published in 1948. OIP 62.", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-03T19:04:09.687971: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/newly-online-from-oriental-institutes_15.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Oriental Institute"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6293368664107565994", 
+            "resource_date": "2011-04-08T15:23:58.570-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T19:04:09.688602"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/newly-online-from-oriental-institutes_15.html", 
+            "resource_date": "2011-04-08T15:23:58.570-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T19:04:09.688611"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Megiddo Ivories", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip52.html", 
+    "zotero_id": null
+}

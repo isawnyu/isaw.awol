@@ -1,8 +1,8 @@
 {
-    "description": "An index of the authors and works of the Coptic literature\u00a0Corpus dei Manoscritti Copti Letterari\u00a0Direttore: Tito Orlandi", 
+    "description": "An index of the authors and works of the Coptic literature Corpus dei Manoscritti Copti Letterari Direttore: Tito Orlandi", 
     "domain": "cmcl.aai.uni-hamburg.de", 
     "history": [
-        "2015-06-03T04:59:25.289658: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/online-clavis-patrum-copticorum.html. (walk_to_json.py)"
+        "2015-06-03T19:03:56.667578: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/online-clavis-patrum-copticorum.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -31,13 +31,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2685440055707074645", 
             "resource_date": "2013-07-01T16:49:40.126-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:25.290188"
+            "when": "2015-06-03T19:03:56.668882"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/online-clavis-patrum-copticorum.html", 
             "resource_date": "2013-07-01T16:49:40.126-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:25.290195"
+            "when": "2015-06-03T19:03:56.668900"
         }
     ], 
     "related_resources": [], 

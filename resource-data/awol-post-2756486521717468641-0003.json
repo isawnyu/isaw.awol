@@ -1,8 +1,8 @@
 {
-    "description": "Release Content: Vols. 1-6 (1989-1994) Publisher: Museum of Fine Arts, Boston ISSN: 1041-2433Note: Publication of this title ceased in 1994.", 
+    "description": "Release Content: Vols. 1-6 (1989-1994) Publisher: Museum of Fine Arts, Boston ISSN: 1041-2433 Note: Publication of this title ceased in 1994.", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:25.594982: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T19:03:56.969562: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -25,19 +25,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2756486521717468641", 
             "resource_date": "2009-11-23T12:19:45.104-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:25.595527"
+            "when": "2015-06-03T19:03:56.970089"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2009-11-23T12:19:45.104-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:25.595535"
+            "when": "2015-06-03T19:03:56.970097"
         }
     ], 
     "related_resources": [], 
