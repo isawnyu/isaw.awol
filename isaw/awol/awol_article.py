@@ -106,9 +106,17 @@ del dreader
 TITLE_SUBSTRING_TERMS = {k:v for (k,v) in TITLE_SUBSTRING_TAGS.iteritems() if ' ' not in k}
 TITLE_SUBSTRING_TERMS[u'boğazköy'] = u'Boğazköy'
 TITLE_SUBSTRING_PHRASES = {k:v for (k,v) in TITLE_SUBSTRING_TAGS.iteritems() if k not in TITLE_SUBSTRING_TERMS.keys()}
+AGGREGATORS = [
+    'www.jstor.org',
+    'oi.uchicago.edu'
+]
 AGGREGATOR_IGNORE = [
     'http://www.jstor.org/page/info/about/archives/collections.jsp'
 ]
+POST_SELECTIVE = {
+    'http://ancientworldonline.blogspot.com/2012/07/chicago-demotic-dictionary-t.html': [0]
+}
+
 RX_DASHES = re.compile(r'[‒–—-]+')
 
 class AwolArticle(Article):
@@ -160,8 +168,16 @@ class AwolArticle(Article):
         domains = [d for d in domains 
             if d not in DOMAINS_TO_IGNORE 
             and d not in DOMAINS_SECONDARY]
-        if len(domains) == 1 and len(unique_urls) > 1 and u'www.jstor.org' in domains[0]:
+        if len(domains) == 1 and len(unique_urls) > 1 and domains[0] in AGGREGATORS:
             # this article is about an aggregator: parse for multiple resources
+            if domains[0] == u'oi.uchicago.edu':
+                print '***********************************************************'
+                print 'oi.uchicago.edu:'
+                print u'    url: {0}'.format(self.url)
+                print u'    title: {0}'.format(self.title)
+                print u'    tag: {0}'.format(self.id)
+            if self.url in POST_SELECTIVE.keys():
+                anchors = [a for i,a in enumerate(anchors) if i in POST_SELECTIVE[self.url]]
             for a in [a for a in anchors if domains[0] in a.get('href') and a.get('href') not in AGGREGATOR_IGNORE and a.get_text().strip() != u'']:
                 html = u''
                 next_node = a.next_element
@@ -183,6 +199,11 @@ class AwolArticle(Article):
                 resource.set_provenance(self.id, 'citesAsDataSource', updated, resource_fields)
                 resource.set_provenance(self.url, 'citesAsMetadataDocument', updated)
                 resources.append(resource)
+                if domains[0] == u'oi.uchicago.edu':
+                    print '----------------------------------------------------------'
+                    print u'    resource: {0}'.format(resource.title)
+                    print u'              {0}'.format(resource.url)
+
         elif len(domains) == 1 and len(unique_urls) > 1:
             logger.warning('aggregator detected, but ignored: {0}'.format(domains[0]))
         elif len(domains) == 1:
