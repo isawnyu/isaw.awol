@@ -1,0 +1,50 @@
+{
+    "description": "5 1980 4 1980", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-03T21:41:58.319769: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/open-access-journal-memorias-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Spain", 
+        "ancient history", 
+        "antiquity", 
+        "history", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8476008991115147483", 
+            "resource_date": "2012-06-18T12:53:35.306-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:41:58.320352"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-memorias-de.html", 
+            "resource_date": "2012-06-18T12:53:35.306-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:41:58.320360"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "5", 
+    "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=5169", 
+    "zotero_id": null
+}

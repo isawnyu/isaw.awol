@@ -1,0 +1,57 @@
+{
+    "description": "DavarLogos ISSN: 1666-7832 Estudios del Patrimonio Cultural", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-03T21:41:57.310423: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1666-7832"
+            ]
+        }
+    }, 
+    "keywords": [
+        "antiquity", 
+        "culture", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "es", 
+        0.9999248488188935
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8214559682146973850", 
+            "resource_date": "2009-09-20T15:33:38.380-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:41:57.311077"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html", 
+            "resource_date": "2009-09-20T15:33:38.380-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:41:57.311086"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "DavarLogos", 
+    "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=10587", 
+    "zotero_id": null
+}

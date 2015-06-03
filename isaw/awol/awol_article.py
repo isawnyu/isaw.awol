@@ -110,7 +110,8 @@ TITLE_SUBSTRING_PHRASES = {k:v for (k,v) in TITLE_SUBSTRING_TAGS.iteritems() if 
 AGGREGATORS = [
     'www.jstor.org',
     'oi.uchicago.edu',
-    'www.persee.fr'
+    'www.persee.fr',
+    'dialnet.unirioja.es'
 ]
 AGGREGATOR_IGNORE = [
     'http://www.jstor.org/page/info/about/archives/collections.jsp',
@@ -127,7 +128,9 @@ SUBORDINATE_FLAGS = [
     'download',
 ]
 NO_FORCING = [
-    'http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html'
+    'http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html',
+    'http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html',
+    'http://ancientworldonline.blogspot.com/2011/05/open-access-journal-bsaa-arqueologia.html',
 ]
 FORCE_AS_SUBORDINATE_AFTER = [
     'http://oi.uchicago.edu/research/library/acquisitions.html',
@@ -186,6 +189,25 @@ FORCE_AS_SUBORDINATE_AFTER = [
     'https://oi.uchicago.edu/research/pubs/ar/11-20/11-12/',
     'https://oi.uchicago.edu/research/pubs/catalog/oip/',
     'oriental institute news & notes',
+    'http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=937',
+    'http://dialnet.unirioja.es/servlet/revista?codigo=19825',
+    'http://dialnet.unirioja.es/servlet/revista?codigo=5689',
+    'http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=633',
+    'http://dialnet.unirioja.es/servlet/revista?codigo=515',
+    'http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=231',
+    'http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=945',
+    'http://dialnet.unirioja.es/servlet/revista?codigo=13138',
+    'http://dialnet.unirioja.es/servlet/revista?codigo=19789',
+    'http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=8011',
+    'http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=611',
+    'http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=255',
+    'http://dialnet.unirioja.es/servlet/revista?codigo=831',
+    'http://dialnet.unirioja.es/servlet/alerev?codigo=14101',
+    'http://dialnet.unirioja.es/servlet/revista?codigo=7340',
+    'http://dialnet.unirioja.es/servlet/revista?codigo=514',
+    'http://dialnet.unirioja.es/servlet/revista?codigo=13109',
+    'http://dialnet.unirioja.es/servlet/revista?codigo=13883',
+    'http://dialnet.unirioja.es/servlet/revista?codigo=13040',
 ]
 RELATED_FLAGS = [
     'list of volumes in print',
@@ -266,9 +288,20 @@ class AwolArticle(Article):
         domains = [d for d in domains 
             if d not in DOMAINS_TO_IGNORE 
             and d not in DOMAINS_SECONDARY]
+        ################# TESTING
+        dump_domains = [u'dialnet.unirioja.es',]
+        if len(domains) > 1:
+            return None
+        if len(domains) == 1 and len(unique_urls) <= 1:
+            return None
+        if len(domains) == 0:
+            return None
+        if domains[0] not in dump_domains:
+            return None
+        ################# TESTING
         if len(domains) == 1 and len(unique_urls) > 1 and domains[0] in AGGREGATORS:
             # this article is about an aggregator: parse for multiple resources
-            dump_domains = []
+            
             if domains[0] in dump_domains:
                 dump_it = True
             else:

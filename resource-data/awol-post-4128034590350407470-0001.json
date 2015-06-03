@@ -1,13 +1,18 @@
 {
-    "description": "KALAKORIKOS es el fruto de una larga carrera de concienciaci\u00f3n y de lucha en favor del patrimonio hist\u00f3rico-art\u00edstico calagurritano por parte de la Asociaci\u00f3n Amigos de la Historia de Calahorra. Sus objetivos principales son difundir la historia de Calahorra y su comarca, promover estudios e investigaciones, actuar en defensa del patrimonio arqueol\u00f3gico, hist\u00f3rico, art\u00edstico y cultural de esta ciudad. La revista admite colaboraciones de investigadores que centren su \u00e1mbito de trabajo en cualquier aspecto vinculado con Calahorra y su comarca.\u00a020101520091420081320071220061120051020049200382002720016200051999419983199721996", 
+    "description": "Kalakorikos: Revista para el estudio, defensa, protecci\u00f3n y divulgaci\u00f3n del patrimonio hist\u00f3rico, art\u00edstico y cultural de Calahorra y su entorno ISSN: 1137-0572 KALAKORIKOS es el fruto de una larga carrera de concienciaci\u00f3n y de lucha en favor del patrimonio hist\u00f3rico-art\u00edstico calagurritano por parte de la Asociaci\u00f3n Amigos de la Historia de Calahorra. Sus objetivos principales son difundir la historia de Calahorra y su comarca, promover estudios e investigaciones, actuar en defensa del patrimonio arqueol\u00f3gico, hist\u00f3rico, art\u00edstico y cultural de esta ciudad. La revista admite colaboraciones de investigadores que centren su \u00e1mbito de trabajo en cualquier aspecto vinculado con Calahorra y su comarca. 2010 15 2009 14 2008 13 2007 12 2006 11 2005 10 2004 9 2003 8 2002 7 2001 6 2000 5 1999 4 1998 3 1997 2 1996", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-03T04:59:31.687802: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/newly-open-access-journal-kalakorikos.html. (walk_to_json.py)"
+        "2015-06-03T21:41:44.528424: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/newly-open-access-journal-kalakorikos.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1137-0572"
+            ]
+        }
+    }, 
     "keywords": [
         "Spain", 
-        "antiquity", 
         "culture", 
         "history", 
         "journal", 
@@ -27,24 +32,144 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4128034590350407470", 
             "resource_date": "2011-10-14T09:39:57.140-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:31.688369"
+            "when": "2015-06-03T21:41:44.529011"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/newly-open-access-journal-kalakorikos.html", 
             "resource_date": "2011-10-14T09:39:57.140-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:31.688377"
+            "when": "2015-06-03T21:41:44.529019"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
-    "title": "Kalakorikos", 
+    "subordinate_resources": [
+        {
+            "label": "2010", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=2010"
+        }, 
+        {
+            "label": "15", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=255376"
+        }, 
+        {
+            "label": "2009", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=2009"
+        }, 
+        {
+            "label": "14", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=234155"
+        }, 
+        {
+            "label": "2008", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=2008"
+        }, 
+        {
+            "label": "13", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=205181"
+        }, 
+        {
+            "label": "2007", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=2007"
+        }, 
+        {
+            "label": "12", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=177703"
+        }, 
+        {
+            "label": "2006", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=2006"
+        }, 
+        {
+            "label": "11", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=150371"
+        }, 
+        {
+            "label": "2005", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=2005"
+        }, 
+        {
+            "label": "10", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=123175"
+        }, 
+        {
+            "label": "2004", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=2004"
+        }, 
+        {
+            "label": "9", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=103267"
+        }, 
+        {
+            "label": "2003", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=2003"
+        }, 
+        {
+            "label": "8", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=82661"
+        }, 
+        {
+            "label": "2002", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=2002"
+        }, 
+        {
+            "label": "7", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=58534"
+        }, 
+        {
+            "label": "2001", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=2001"
+        }, 
+        {
+            "label": "6", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=18738"
+        }, 
+        {
+            "label": "2000", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=2000"
+        }, 
+        {
+            "label": "5", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=18737"
+        }, 
+        {
+            "label": "1999", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=1999"
+        }, 
+        {
+            "label": "4", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=18736"
+        }, 
+        {
+            "label": "1998", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=1998"
+        }, 
+        {
+            "label": "3", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=18735"
+        }, 
+        {
+            "label": "1997", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=1997"
+        }, 
+        {
+            "label": "2", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=18734"
+        }, 
+        {
+            "label": "1996", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=1996"
+        }
+    ], 
+    "title": "Kalakorikos: Revista para el estudio, defensa, protecci\u00f3n y divulgaci\u00f3n del patrimonio hist\u00f3rico, art\u00edstico y cultural de Calahorra y su entorno", 
     "url": "http://dialnet.unirioja.es/servlet/revista?codigo=831", 
     "zotero_id": null
 }
