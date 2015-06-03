@@ -58,6 +58,7 @@ DOMAINS_SECONDARY = [
     'ancientworldonline.blogspot.com'
 ]
 LANGID_THRESHOLD = 0.95
+RX_CANARY = re.compile(r'[\.,:!\"“„\;\-\s]+', re.IGNORECASE)
 RX_MATCH_DOMAIN = re.compile('^https?:\/\/([^/#]+)')
 RX_IDENTIFIERS = {
     'issn': {
@@ -111,7 +112,9 @@ AGGREGATORS = [
     'oi.uchicago.edu'
 ]
 AGGREGATOR_IGNORE = [
-    'http://www.jstor.org/page/info/about/archives/collections.jsp'
+    'http://www.jstor.org/page/info/about/archives/collections.jsp',
+    'https://oi.uchicago.edu/getinvolved/',
+    'http://oi.uchicago.edu/news/'
 ]
 POST_SELECTIVE = {
     'http://ancientworldonline.blogspot.com/2012/07/chicago-demotic-dictionary-t.html': [0]
@@ -119,10 +122,37 @@ POST_SELECTIVE = {
 SUBORDINATE_FLAGS = [
     'terms of use',
     'download pdf',
-    'download'
+    'download',
+]
+FORCE_AS_SUBORDINATE_AFTER = [
+    'oriental institute news & notes',
+]
+RELATED_FLAGS = [
+    'list of volumes in print',
+    'membership'
+]
+FORCE_AS_RELATED_AFTER = [
+    'list of volumes in print',
+]
+SUPPRESS_RESOURCE = [
+    'terms of use',
+    'download pdf',
+    'download',
+    'membership'
 ]
 
+
 RX_DASHES = re.compile(r'[‒–—-]+')
+
+
+def clean_title(raw):
+    cooked = normalize_space(raw)
+    brackets = u'"\'()[]{}/<>.,;:\|-_=+*&^%$#@!`~?'
+    for b in list(brackets):
+        cooked = cooked[1:] if cooked[0] == b else cooked
+        cooked = cooked[:-1] if cooked[-1] == b else cooked
+        cooked = cooked.strip()
+    return cooked
 
 class AwolArticle(Article):
     """Manipulate and extract data from an AWOL blog post."""
@@ -181,38 +211,88 @@ class AwolArticle(Article):
                 print u'    url: {0}'.format(self.url)
                 print u'    title: {0}'.format(self.title)
                 print u'    tag: {0}'.format(self.id)
+
+            # filter urls selectively before processing
             if self.url in POST_SELECTIVE.keys():
                 anchors = [a for i,a in enumerate(anchors) if i in POST_SELECTIVE[self.url]]
+
+            # loop through anchors and process each as a potential resource
+            force_related = None
+            force_subordinate = None
             for a in [a for a in anchors if domains[0] in a.get('href') and a.get('href') not in AGGREGATOR_IGNORE and a.get_text().strip() != u'']:
-                if normalize_space(a.get_text()).lower() in SUBORDINATE_FLAGS:
-                    print u'          append {0} to {1}'.format(a.get_text(), resources[-1].title)
+                anchor_text = normalize_space(a.get_text())
+                anchor_text_lower = anchor_text.lower()
+                anchor_href = normalize_space(a.get('href'))
+
+                # detect subordinate and related links and append them to the preceding resource
+                if anchor_text_lower in SUBORDINATE_FLAGS:
+                    print u'              subordinate: "{0}" ({1})'.format(anchor_text, anchor_href)
                     resources[-1].subordinate_resources.append({
-                        'url': a.get('href'),
-                        'label': normalize_space(a.get_text())
+                        'url': anchor_href,
+                        'label': anchor_text
                         })
-                else:
-                    html = u''
+                elif anchor_text_lower in RELATED_FLAGS:
+                    print u'              related: "{0}" ({1})'.format(anchor_text, anchor_href)
+                    resources[-1].related_resources.append({
+                        'url': anchor_href,
+                        'label': anchor_text
+                        })
+
+                # if we've previously passed something that forces us to treat all subsequent
+                # anchors as related or subordinate resources, handle accordingly
+                if force_related is not None:
+                    if force_related.url != anchor_href:
+                        print u'    >>>>>>>>> FORCE related: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_related.title, force_related.url)
+                        force_related.related_resources.append({
+                            'url': anchor_href,
+                            'label': anchor_text
+                            })
+                elif force_subordinate is not None:
+                    if force_subordinate.url != anchor_href:
+                        print u'    >>>>>>>>> FORCE subordinate: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_related.title, force_related.url)
+                        force_subordinate.subordinate_resources.append({
+                            'url': anchor_href,
+                            'label': anchor_text
+                            })
+
+                # detect conditions that will force treatment of subsequent anchors as
+                # subordinate or related resources
+                if anchor_text_lower in FORCE_AS_RELATED_AFTER:
+                    force_related = resources[-1]
+                if anchor_text_lower in FORCE_AS_SUBORDINATE_AFTER:
+                    try:
+                        force_subordinate = resources[-1]
+                    except IndexError:
+                        logger.warning('failed to set force_subordinate at {0} in {1}'.format(anchor_url, self.url))
+
+                # parse a new resource related to this anchor
+                if anchor_text_lower not in SUPPRESS_RESOURCE and anchor_href not in [r.url for r in resources]:
+                    html = u' {0}\n'.format(unicode(a))
                     next_node = a.next_element
                     while True:
-                        html = html + unicode(next_node)
-                        if next_node.name in ['blockquote', 'hr']:
+                        html = html + u' {0}\n'.format(unicode(next_node))
+                        if next_node.name in ['blockquote', 'hr', 'a', 'h1', 'h2']:
                             break
                         next_node = next_node.next_element
                         if next_node is None:
                             break
-                    html = u'<div>' + html + u'</div>'
+                    html = u'<div>\n' + html + u'\n</div>'
                     this_soup = BeautifulSoup(html)
                     resource = self._parse_resource(
                         domain=domains[0],
-                        url=a.get('href'),
-                        title=a.get_text().strip(),
+                        url=anchor_href,
+                        title=clean_title(anchor_text),
                         content_soup=this_soup)
-                    resource_fields = sorted([k for k in resource.__dict__.keys() if '_' not in k])
+                    if force_related is not None:
+                        resource.related_resources.append({
+                            'url': force_related.url,
+                            'label': force_related.title
+                            })
+                    resource_fields = sorted([k for k in resource.__dict__.keys() if '_' != k[0]])
                     resource.set_provenance(self.id, 'citesAsDataSource', updated, resource_fields)
                     resource.set_provenance(self.url, 'citesAsMetadataDocument', updated)
                     resources.append(resource)
                     if domains[0] == u'oi.uchicago.edu':
-                        print '----------------------------------------------------------'
                         print u'    resource: {0}'.format(resource.title)
                         print u'              {0}'.format(resource.url)
 
@@ -249,18 +329,32 @@ class AwolArticle(Article):
     def _parse_description(self, content_soup):
         """Parse plain-text description from soup content."""
 
+        def deduplicate(raws):
+            prev_line = u''
+            cookeds = u''
+            lines = raws.split(u'\n')
+            lines = [normalize_space(line) for line in lines if normalize_space(line) != u'']
+            for line in lines:
+                canary = RX_CANARY.sub(u'', line.lower())
+                if canary != prev_line:
+                    cookeds = u' '.join((cookeds, line))
+                    prev_line = canary
+            return normalize_space(cookeds)
+
         desc_node = content_soup.blockquote
         try:
-            desc_text = normalize_space(desc_node.get_text())
+            desc_lines = desc_node.get_text('\n')
         except AttributeError:
             desc_text = u''
+        else:
+            desc_text = deduplicate(desc_lines)
         if desc_text == u'':
             try:
                 desc_node = content_soup.find_all('blockquote')[1]
             except IndexError:
                 desc_text = u''
             else:
-                desc_text = normalize_space(desc_node.get_text())
+                desc_text = deduplicate(desc_node.get_text('\n'))
             if desc_text == u'':
                 first_anchor = content_soup.a
                 try:
@@ -269,11 +363,11 @@ class AwolArticle(Article):
                     desc_text == u''
                 else:
                     nodes = [node for node in nodes if node.name not in ['a', 'h1', 'h2', 'h3', 'h4', 'hr']]
-                    html = u'<div>' + first_anchor.text + u': ' + u''.join([unicode(node) for node in nodes]) + u'</div>'
+                    html = u'<div>\n' + first_anchor.text + u':\n' + u'\n'.join([unicode(node) for node in nodes]) + u'</div>'
                     soup = BeautifulSoup(html)
-                    desc_text = normalize_space(soup.get_text())
+                    desc_text = deduplicate(soup.get_text('\n'))
                     if desc_text == u'':
-                        desc_text = normalize_space(content_soup.get_text())
+                        desc_text = deduplicate(content_soup.get_text('\n'))
         return desc_text
 
     def _parse_resource(self, domain, url, title, content_soup):
@@ -408,11 +502,7 @@ class AwolArticle(Article):
             colon_prefix = title.split(u':')[0].lower()
             if colon_prefix in COLON_PREFIXES.keys() and (COLON_PREFIXES[colon_prefix])[1] == 'yes':
                 title = u':'.join(title.split(u':')[1:])
-                return title.strip()
-            else:
-                return title
-        else:
-            return title
+        return clean_title(title)
 
     def _parse_identifiers(self, content_text):
         """Parse identifying strings of interest from an AWOL blog post."""
