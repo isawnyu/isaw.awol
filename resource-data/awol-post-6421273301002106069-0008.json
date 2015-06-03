@@ -1,8 +1,8 @@
 {
-    "description": "Center For Ancient Middle Eastern Landscapes (CAMEL). Scott Branting: Chicago Demotic Dictionary (CDD). Fran\u00e7ois Gaudard And Janet H. Johnson", 
+    "description": "Center For Ancient Middle Eastern Landscapes (CAMEL). Scott Branting Chicago Demotic Dictionary (CDD). Fran\u00e7ois Gaudard And Janet H. Johnson", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T19:04:10.252049: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html. (walk_to_json.py)"
+        "2015-06-03T21:21:36.152068: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -38,13 +38,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6421273301002106069", 
             "resource_date": "2013-02-19T12:59:49.211-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:10.252625"
+            "when": "2015-06-03T21:21:36.152678"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html", 
             "resource_date": "2013-02-19T12:59:49.211-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:10.252633"
+            "when": "2015-06-03T21:21:36.152686"
         }
     ], 
     "related_resources": [], 

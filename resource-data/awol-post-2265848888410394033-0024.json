@@ -1,0 +1,54 @@
+{
+    "description": "Monuments et m\u00e9moires de la Fondation Eug\u00e8ne Piot Pal\u00e9o, Revue d'Arch\u00e9ologie Pr\u00e9historique", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T21:21:19.403930: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Aegean", 
+        "Pers\u00e9e", 
+        "antiquity", 
+        "digital library", 
+        "journal", 
+        "monuments", 
+        "prehistory"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
+            "resource_date": "2013-04-12T11:22:30.006-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:21:19.404475"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
+            "resource_date": "2013-04-12T11:22:30.006-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:21:19.404483"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Monuments et m\u00e9moires de la Fondation Eug\u00e8ne Piot", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/revue/piot", 
+    "zotero_id": null
+}

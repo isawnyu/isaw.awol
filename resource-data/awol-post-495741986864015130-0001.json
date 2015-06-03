@@ -1,8 +1,8 @@
 {
-    "description": "CyArk is a 501c3 non profit organization with the mission of: digitally preserving cultural heritage sites through collecting, archiving and providing open access to data created by laser scanning, digital modeling, and other state-of-the-art technologies.", 
+    "description": "CyArk : Creating a Digital Archive of the World's Heritage Sites for Preservation and Education CyArk is a 501c3 non profit organization with the mission of: digitally preserving cultural heritage sites through collecting, archiving and providing open access to data created by laser scanning, digital modeling, and other state-of-the-art technologies.", 
     "domain": "archive.cyark.org", 
     "history": [
-        "2015-06-03T19:04:04.954912: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/digital-archive-of-worlds-heritage.html. (walk_to_json.py)"
+        "2015-06-03T21:21:30.625943: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/digital-archive-of-worlds-heritage.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -35,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-495741986864015130", 
             "resource_date": "2011-10-05T10:47:28.484-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:04.955510"
+            "when": "2015-06-03T21:21:30.626731"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/digital-archive-of-worlds-heritage.html", 
             "resource_date": "2011-10-05T10:47:28.484-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:04.955518"
+            "when": "2015-06-03T21:21:30.626742"
         }
     ], 
     "related_resources": [], 

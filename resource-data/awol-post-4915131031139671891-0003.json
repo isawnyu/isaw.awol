@@ -1,8 +1,8 @@
 {
-    "description": "Classical Studies: Published by: British School at Athens Published by: British School at Athens Published by:", 
+    "description": "Classical Studies Published by: British School at Athens Published by: British School at Athens Published by: British School at Athens", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T19:04:04.876030: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T21:21:30.538037: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -11,7 +11,7 @@
     ], 
     "language": [
         "en", 
-        0.9999996607515104
+        0.9999749621212118
     ], 
     "provenance": [
         {
@@ -32,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4915131031139671891", 
             "resource_date": "2011-07-24T07:51:55.926-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:04.876552"
+            "when": "2015-06-03T21:21:30.538603"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html", 
             "resource_date": "2011-07-24T07:51:55.926-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:04.876559"
+            "when": "2015-06-03T21:21:30.538611"
         }
     ], 
     "related_resources": [], 

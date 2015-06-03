@@ -1,10 +1,12 @@
 {
-    "description": "Canadian Journal of Archaeology / Journal Canadien d'Arch\u00e9ologie: (Arts & Sciences IX) Coverage: Nos. 1\u20136 (1977\u20131982); Vol. 7, No. 1 (1983)\u2013Vol. 31, No. 3 (2007) Moving Wall: 3 years Publisher: Canadian Archaeological Association ISSN:", 
+    "description": "Canadian Journal of Archaeology / Journal Canadien d'Arch\u00e9ologie (Arts & Sciences IX) Coverage: Nos. 1\u20136 (1977\u20131982); Vol. 7, No. 1 (1983)\u2013Vol. 31, No. 3 (2007) Moving Wall: 3 years Publisher: Canadian Archaeological Association ISSN:", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T19:04:16.235608: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-ancient-wolrd-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T21:21:43.963936: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-ancient-wolrd-content-in-jstor.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {}
+    }, 
     "keywords": [
         "JSTOR", 
         "antiquity", 
@@ -13,7 +15,7 @@
     ], 
     "language": [
         "en", 
-        0.9999931090620509
+        0.9999223477167039
     ], 
     "provenance": [
         {
@@ -34,13 +36,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7966773484618516484", 
             "resource_date": "2011-10-17T10:17:25.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:16.236204"
+            "when": "2015-06-03T21:21:43.964518"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/new-ancient-wolrd-content-in-jstor.html", 
             "resource_date": "2011-10-17T10:17:25.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:16.236213"
+            "when": "2015-06-03T21:21:43.964527"
         }
     ], 
     "related_resources": [], 

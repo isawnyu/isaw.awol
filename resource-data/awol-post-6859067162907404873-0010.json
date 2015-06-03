@@ -1,0 +1,46 @@
+{
+    "description": "[ 10 ] 2000-2009 2000 : [ 11 ] 2001 : [ 12 ] 2002 : [ 13 ] 2003 : [ 14 ] 2004 : [ 15 ] 2005 : [ 16 ] 2006 : [ 17 ] 2000-2009", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T21:21:38.190449: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6859067162907404873", 
+            "resource_date": "2012-11-15T13:02:17.828-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:21:38.191052"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html", 
+            "resource_date": "2012-11-15T13:02:17.828-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:21:38.191061"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "10", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1999_num_10_1", 
+    "zotero_id": null
+}

@@ -1,0 +1,53 @@
+{
+    "description": "Bulletin de la Soci\u00e9t\u00e9 pr\u00e9historique fran\u00e7aise Bulletin de l'\u00c9cole fran\u00e7aise d'Extr\u00eame-Orient", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T21:21:19.351024: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Aegean", 
+        "Pers\u00e9e", 
+        "antiquity", 
+        "digital library", 
+        "journal", 
+        "prehistory"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
+            "resource_date": "2013-04-12T11:22:30.006-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:21:19.351548"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
+            "resource_date": "2013-04-12T11:22:30.006-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:21:19.351556"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bulletin de la Soci\u00e9t\u00e9 pr\u00e9historique fran\u00e7aise", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/revue/bspf", 
+    "zotero_id": null
+}

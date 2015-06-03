@@ -1,15 +1,19 @@
 {
-    "description": "Syria, qui para\u00eet depuis 1920 sans interruption, est publi\u00e9e par l\u2019Institut Fran\u00e7ais du Proche-Orient, en une seule livraison annuelle. La revue se consacre \u00e0 l\u2019histoire et l\u2019arch\u00e9ologie du Proche-Orient s\u00e9mitique (y compris Chypre) de la pr\u00e9histoire \u00e0 la conqu\u00eate islamique. Elle publie des articles dans toutes les disciplines de ce champ de recherche, arch\u00e9ologie, \u00e9pigraphie, philologie, histoire, histoire de l\u2019art ; ces articles peuvent \u00eatre quelquefois regroup\u00e9s en dossiers th\u00e9matiques, mais le plus souvent chaque volume tente de donner, \u00e0 travers 12 \u00e0 18 articles, un panorama vari\u00e9 de la recherche au Proche-Orient ancien. Les langues employ\u00e9es sont le fran\u00e7ais, l\u2019anglais, l\u2019allemand, l\u2019italien et l\u2019espagnol. Tous les articles sont pr\u00e9c\u00e9d\u00e9s d\u2019un r\u00e9sum\u00e9 en fran\u00e7ais, en anglais et en arabe. La revue publie aussi \u00e0 l\u2019occasion de courtes notes d\u2019actualit\u00e9, et consacre dans chaque num\u00e9ro un \u00e9pais cahier aux recensions d\u2019ouvrages parus sur le Proche-Orient ancien.", 
+    "description": "Syria. Arch\u00e9ologie, Art et histoire ISSN format papier: 0039-7946", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-03T04:59:45.544844: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open.html. (walk_to_json.py)"
+        "2015-06-03T21:21:40.837942: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "0039-7946"
+            ]
+        }
+    }, 
     "keywords": [
-        "AWOL", 
         "Pers\u00e9e", 
         "Syria", 
-        "antiquity", 
         "archaeology", 
         "art", 
         "history", 
@@ -18,7 +22,7 @@
     ], 
     "language": [
         "fr", 
-        1.0
+        0.9999999999927758
     ], 
     "provenance": [
         {
@@ -30,23 +34,735 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-733349865844137791", 
             "resource_date": "2013-12-07T12:54:56.396-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:45.545418"
+            "when": "2015-06-03T21:21:40.838548"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/open.html", 
             "resource_date": "2013-12-07T12:54:56.396-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:45.545426"
+            "when": "2015-06-03T21:21:40.838556"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "label": "[ 1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1920_num_1_1"
+        }, 
+        {
+            "label": "[ 4-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1923_num_4_1"
+        }, 
+        {
+            "label": "[ 4-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1923_num_4_2"
+        }, 
+        {
+            "label": "[ 4-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1923_num_4_3"
+        }, 
+        {
+            "label": "[ 4-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1923_num_4_4"
+        }, 
+        {
+            "label": "[ 5-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1924_num_5_1"
+        }, 
+        {
+            "label": "[ 5-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1924_num_5_2"
+        }, 
+        {
+            "label": "[ 5-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1924_num_5_3"
+        }, 
+        {
+            "label": "[ 5-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1924_num_5_4"
+        }, 
+        {
+            "label": "[ 6-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1925_num_6_1"
+        }, 
+        {
+            "label": "[ 6-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1925_num_6_2"
+        }, 
+        {
+            "label": "[ 6-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1925_num_6_3"
+        }, 
+        {
+            "label": "[ 6-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1925_num_6_4"
+        }, 
+        {
+            "label": "[ 8-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1927_num_8_1"
+        }, 
+        {
+            "label": "[ 8-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1927_num_8_2"
+        }, 
+        {
+            "label": "[ 8-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1927_num_8_3"
+        }, 
+        {
+            "label": "[ 8-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1927_num_8_4"
+        }, 
+        {
+            "label": "[ 9-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1928_num_9_1"
+        }, 
+        {
+            "label": "[ 9-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1928_num_9_2"
+        }, 
+        {
+            "label": "[ 9-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1928_num_9_3"
+        }, 
+        {
+            "label": "[ 9-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1928_num_9_4"
+        }, 
+        {
+            "label": "[ 10-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1929_num_10_1"
+        }, 
+        {
+            "label": "[ 10-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1929_num_10_2"
+        }, 
+        {
+            "label": "[ 10-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1929_num_10_3"
+        }, 
+        {
+            "label": "[ 10-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1929_num_10_4"
+        }, 
+        {
+            "label": "[ 11-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1930_num_11_1"
+        }, 
+        {
+            "label": "[ 11-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1930_num_11_2"
+        }, 
+        {
+            "label": "[ 11-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1930_num_11_3"
+        }, 
+        {
+            "label": "[ 11-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1930_num_11_4"
+        }, 
+        {
+            "label": "[ 12-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1931_num_12_1"
+        }, 
+        {
+            "label": "[ 12-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1931_num_12_2"
+        }, 
+        {
+            "label": "[ 12-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1931_num_12_3"
+        }, 
+        {
+            "label": "[ 12-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1931_num_12_4"
+        }, 
+        {
+            "label": "[ 13-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1932_num_13_1"
+        }, 
+        {
+            "label": "[ 13-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1932_num_13_2"
+        }, 
+        {
+            "label": "[ 13-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1932_num_13_3"
+        }, 
+        {
+            "label": "[ 13-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1932_num_13_4"
+        }, 
+        {
+            "label": "[ 14-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1933_num_14_1"
+        }, 
+        {
+            "label": "[ 14-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1933_num_14_2"
+        }, 
+        {
+            "label": "[ 14-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1933_num_14_3"
+        }, 
+        {
+            "label": "[ 14-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1933_num_14_4"
+        }, 
+        {
+            "label": "[ 15-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1934_num_15_1"
+        }, 
+        {
+            "label": "[ 15-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1934_num_15_2"
+        }, 
+        {
+            "label": "[ 15-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1934_num_15_3"
+        }, 
+        {
+            "label": "[ 15-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1934_num_15_4"
+        }, 
+        {
+            "label": "[ 16-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1935_num_16_1"
+        }, 
+        {
+            "label": "[ 16-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1935_num_16_2"
+        }, 
+        {
+            "label": "[ 16-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1935_num_16_3"
+        }, 
+        {
+            "label": "[ 16-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1935_num_16_4"
+        }, 
+        {
+            "label": "[ 17-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1936_num_17_1"
+        }, 
+        {
+            "label": "[ 17-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1936_num_17_2"
+        }, 
+        {
+            "label": "[ 17-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1936_num_17_3"
+        }, 
+        {
+            "label": "[ 17-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1936_num_17_4"
+        }, 
+        {
+            "label": "[ 18-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1937_num_18_1"
+        }, 
+        {
+            "label": "[ 18-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1937_num_18_2"
+        }, 
+        {
+            "label": "[ 18-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1937_num_18_3"
+        }, 
+        {
+            "label": "[ 18-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1937_num_18_4"
+        }, 
+        {
+            "label": "[ 19-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1938_num_19_1"
+        }, 
+        {
+            "label": "[ 19-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1938_num_19_2"
+        }, 
+        {
+            "label": "[ 19-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1938_num_19_3"
+        }, 
+        {
+            "label": "[ 19-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1938_num_19_4"
+        }, 
+        {
+            "label": "[ 20-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1939_num_20_1"
+        }, 
+        {
+            "label": "[ 20-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1939_num_20_2"
+        }, 
+        {
+            "label": "[ 20-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1939_num_20_3"
+        }, 
+        {
+            "label": "[ 20-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1939_num_20_4"
+        }, 
+        {
+            "label": "[ 21-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1940_num_21_1"
+        }, 
+        {
+            "label": "[ 21-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1940_num_21_2"
+        }, 
+        {
+            "label": "[ 21-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1940_num_21_3"
+        }, 
+        {
+            "label": "[ 22-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1941_num_22_1"
+        }, 
+        {
+            "label": "[ 22-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1941_num_22_2"
+        }, 
+        {
+            "label": "[ 22-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1941_num_22_3"
+        }, 
+        {
+            "label": "[ 23-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1942_num_23_1"
+        }, 
+        {
+            "label": "[ 23-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1942_num_23_3"
+        }, 
+        {
+            "label": "[ 24-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1944_num_24_1"
+        }, 
+        {
+            "label": "[ 24-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1944_num_24_3"
+        }, 
+        {
+            "label": "[ 25-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1946_num_25_1"
+        }, 
+        {
+            "label": "[ 25-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1946_num_25_3"
+        }, 
+        {
+            "label": "[ 26-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1949_num_26_1"
+        }, 
+        {
+            "label": "[ 26-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1949_num_26_3"
+        }, 
+        {
+            "label": "[ 27-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1950_num_27_1"
+        }, 
+        {
+            "label": "[ 27-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1950_num_27_3"
+        }, 
+        {
+            "label": "[ 28-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1951_num_28_1"
+        }, 
+        {
+            "label": "[ 28-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1951_num_28_3"
+        }, 
+        {
+            "label": "[ 29-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1952_num_29_1"
+        }, 
+        {
+            "label": "[ 29-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1952_num_29_3"
+        }, 
+        {
+            "label": "[ 30-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1953_num_30_1"
+        }, 
+        {
+            "label": "[ 30-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1953_num_30_3"
+        }, 
+        {
+            "label": "[ 31-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1954_num_31_1"
+        }, 
+        {
+            "label": "[ 31-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1954_num_31_3"
+        }, 
+        {
+            "label": "[ 32-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1955_num_32_1"
+        }, 
+        {
+            "label": "[ 32-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1955_num_32_3"
+        }, 
+        {
+            "label": "[ 33-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1956_num_33_1"
+        }, 
+        {
+            "label": "[ 34-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1957_num_34_1"
+        }, 
+        {
+            "label": "[ 34-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1957_num_34_3"
+        }, 
+        {
+            "label": "[ 35-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1958_num_35_1"
+        }, 
+        {
+            "label": "[ 35-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1958_num_35_3"
+        }, 
+        {
+            "label": "[ 36-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1959_num_36_1"
+        }, 
+        {
+            "label": "[ 36-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1959_num_36_3"
+        }, 
+        {
+            "label": "[ 37-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1960_num_37_1"
+        }, 
+        {
+            "label": "[ 37-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1960_num_37_3"
+        }, 
+        {
+            "label": "[ 38-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1961_num_38_1"
+        }, 
+        {
+            "label": "[ 38-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1961_num_38_3"
+        }, 
+        {
+            "label": "[ 39-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1962_num_39_1"
+        }, 
+        {
+            "label": "[ 39-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1962_num_39_3"
+        }, 
+        {
+            "label": "[ 40-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1963_num_40_1"
+        }, 
+        {
+            "label": "[ 40-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1963_num_40_3"
+        }, 
+        {
+            "label": "[ 41-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1964_num_41_1"
+        }, 
+        {
+            "label": "[ 41-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1964_num_41_3"
+        }, 
+        {
+            "label": "[ 42-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1965_num_42_1"
+        }, 
+        {
+            "label": "[ 42-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1965_num_42_3"
+        }, 
+        {
+            "label": "[ 43-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1966_num_43_1"
+        }, 
+        {
+            "label": "[ 43-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1966_num_43_3"
+        }, 
+        {
+            "label": "[ 44-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1967_num_44_1"
+        }, 
+        {
+            "label": "[ 44-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1967_num_44_3"
+        }, 
+        {
+            "label": "[ 45-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1968_num_45_1"
+        }, 
+        {
+            "label": "[ 45-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1968_num_45_3"
+        }, 
+        {
+            "label": "[ 46-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1969_num_46_1"
+        }, 
+        {
+            "label": "[ 46-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1969_num_46_3"
+        }, 
+        {
+            "label": "[ 47-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1970_num_47_1"
+        }, 
+        {
+            "label": "[ 47-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1970_num_47_3"
+        }, 
+        {
+            "label": "[ 48-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1971_num_48_1"
+        }, 
+        {
+            "label": "[ 48-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1971_num_48_3"
+        }, 
+        {
+            "label": "[ 49-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1972_num_49_1"
+        }, 
+        {
+            "label": "[ 49-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1972_num_49_3"
+        }, 
+        {
+            "label": "[ 50-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1973_num_50_1"
+        }, 
+        {
+            "label": "[ 50-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1973_num_50_3"
+        }, 
+        {
+            "label": "[ 51-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1974_num_51_1"
+        }, 
+        {
+            "label": "[ 51-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1974_num_51_3"
+        }, 
+        {
+            "label": "[ 52-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1975_num_52_1"
+        }, 
+        {
+            "label": "[ 52-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1975_num_52_3"
+        }, 
+        {
+            "label": "[ 53-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1976_num_53_1"
+        }, 
+        {
+            "label": "[ 53-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1976_num_53_3"
+        }, 
+        {
+            "label": "[ 54-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1977_num_54_1"
+        }, 
+        {
+            "label": "[ 54-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1977_num_54_3"
+        }, 
+        {
+            "label": "[ 55-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1978_num_55_1"
+        }, 
+        {
+            "label": "[ 55-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1978_num_55_3"
+        }, 
+        {
+            "label": "[ 56-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1979_num_56_1"
+        }, 
+        {
+            "label": "[ 56-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1979_num_56_3"
+        }, 
+        {
+            "label": "[ 57-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1980_num_57_1"
+        }, 
+        {
+            "label": "[ 57-2-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1980_num_57_2"
+        }, 
+        {
+            "label": "[ 58-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1981_num_58_1"
+        }, 
+        {
+            "label": "[ 58-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1981_num_58_3"
+        }, 
+        {
+            "label": "[ 59-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1982_num_59_1"
+        }, 
+        {
+            "label": "[ 59-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1982_num_59_3"
+        }, 
+        {
+            "label": "[ 60-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1983_num_60_1"
+        }, 
+        {
+            "label": "[ 60-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1983_num_60_3"
+        }, 
+        {
+            "label": "[ 61-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1984_num_61_1"
+        }, 
+        {
+            "label": "[ 61-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1984_num_61_3"
+        }, 
+        {
+            "label": "[ 62-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1985_num_62_1"
+        }, 
+        {
+            "label": "[ 62-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1985_num_62_3"
+        }, 
+        {
+            "label": "[ 63-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1986_num_63_1"
+        }, 
+        {
+            "label": "[ 63-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1986_num_63_3"
+        }, 
+        {
+            "label": "[ 64-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1987_num_64_1"
+        }, 
+        {
+            "label": "[ 64-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1987_num_64_3"
+        }, 
+        {
+            "label": "[ 65-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1988_num_65_1"
+        }, 
+        {
+            "label": "[ 65-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1988_num_65_3"
+        }, 
+        {
+            "label": "[ 66-1-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1989_num_66_1"
+        }, 
+        {
+            "label": "[ 67-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1990_num_67_1"
+        }, 
+        {
+            "label": "[ 67-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1990_num_67_2"
+        }, 
+        {
+            "label": "[ 67-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1990_num_67_3"
+        }, 
+        {
+            "label": "[ 68-1-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1991_num_68_1"
+        }, 
+        {
+            "label": "[ 69-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1992_num_69_1"
+        }, 
+        {
+            "label": "[ 69-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1992_num_69_3"
+        }, 
+        {
+            "label": "[ 70-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1993_num_70_1"
+        }, 
+        {
+            "label": "[ 70-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1993_num_70_3"
+        }, 
+        {
+            "label": "[ 71-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1994_num_71_1"
+        }, 
+        {
+            "label": "[ 71-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1994_num_71_3"
+        }, 
+        {
+            "label": "[ 72-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1995_num_72_1"
+        }, 
+        {
+            "label": "[ 72-3-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1995_num_72_3"
+        }, 
+        {
+            "label": "[ 73-1-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1996_num_73_1"
+        }, 
+        {
+            "label": "[ 74 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1997_num_74_1"
+        }, 
+        {
+            "label": "[ 75 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1998_num_75_1"
+        }, 
+        {
+            "label": "[ 76 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1999_num_76_1"
+        }, 
+        {
+            "label": "[ 77 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_2000_num_77_1"
+        }, 
+        {
+            "label": "[ 78 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_2001_num_78_1"
+        }, 
+        {
+            "label": "[ 81 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_2004_num_81_1"
+        }, 
+        {
+            "label": "[ 82 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_2005_num_82_1"
+        }
+    ], 
     "title": "Syria. Arch\u00e9ologie, Art et histoire", 
     "url": "http://www.persee.fr/web/revues/home/prescript/revue/syria", 
     "zotero_id": null

@@ -1,8 +1,8 @@
 {
-    "description": "OIP 71. Coptic Ostraca from Medinet Habu.: By Elizabeth Stefanski and Miriam Lichtheim. Originally published in 1952 OIP 66. Post-Ramessid Remains. The Excavation of Medinet Habu, Volume 5. By Uvo H\u00f6lscher. Originally published in 1954 OIP 66. Post-Ramessid Remains. The Excavation of Medinet Habu, Volume 5. By Uvo H\u00f6lscher. Originally published in 1954", 
+    "description": "OIP 71. Coptic Ostraca from Medinet Habu. By Elizabeth Stefanski and Miriam Lichtheim. Originally published in 1952 OIP 66. Post-Ramessid Remains. The Excavation of Medinet Habu, Volume 5. By Uvo H\u00f6lscher. Originally published in 1954 OIP 66. Post-Ramessid Remains. The Excavation of Medinet Habu, Volume 5. By Uvo H\u00f6lscher. Originally published in 1954 OIP 66. Post-Ramessid Remains. The Excavation of Medinet Habu, Volume 5.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T19:04:12.506856: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html. (walk_to_json.py)"
+        "2015-06-03T21:21:38.520273: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -34,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6966019253183957888", 
             "resource_date": "2009-11-19T14:21:54.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:12.507612"
+            "when": "2015-06-03T21:21:38.520818"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html", 
             "resource_date": "2009-11-19T14:21:54.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:12.507623"
+            "when": "2015-06-03T21:21:38.520826"
         }
     ], 
     "related_resources": [], 

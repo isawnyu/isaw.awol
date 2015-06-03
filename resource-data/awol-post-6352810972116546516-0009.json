@@ -1,10 +1,16 @@
 {
-    "description": "Transactions of the Kilkenny Archaeological Society: [1849-1853] (0790-634X) Release Content: Vol. 1, No. 2 (1850) \u2013 Vol. 2, No. 2 (1853); Vol. 3, Nos. 1-2 (1854-1855); New Series, Vol. 1, No. 1 (1856) \u2013 New Series, Vol. 6, No. 1 (1867); Third Series, Vol. 1, Nos. 1-2 (1868-1869); Forth Series, Vol. 1, No. 1 (1870) \u2013 Forth Series, Vol. 9, No. 81 (October, 1889 \u2013 January, 1890); Fifth Series, Vol. 1, No. 1 (1890) \u2013 Vol. 133 (2003) Moving Wall: 5 years Publisher: Royal Society of Antiquaries of Ireland ISSN: 0035-9106 Note: The content for Vol. 1, No. 1 (1849) will be released as soon as the issue becomes available to JSTOR. [1870-1889/1890] (0790-6382) [1868-1869] (0790-6374) [1856-1867] (0790-6366)", 
+    "description": "Transactions of the Kilkenny Archaeological Society [1849-1853] (0790-634X) Release Content: Vol. 1, No. 2 (1850) \u2013 Vol. 2, No. 2 (1853); Vol. 3, Nos. 1-2 (1854-1855); New Series, Vol. 1, No. 1 (1856) \u2013 New Series, Vol. 6, No. 1 (1867); Third Series, Vol. 1, Nos. 1-2 (1868-1869); Forth Series, Vol. 1, No. 1 (1870) \u2013 Forth Series, Vol. 9, No. 81 (October, 1889 \u2013 January, 1890); Fifth Series, Vol. 1, No. 1 (1890) \u2013 Vol. 133 (2003) Moving Wall: 5 years Publisher: Royal Society of Antiquaries of Ireland ISSN: 0035-9106 Note: The content for Vol. 1, No. 1 (1849) will be released as soon as the issue becomes available to JSTOR. [1870-1889/1890] (0790-6382) [1868-1869] (0790-6374) [1856-1867] (0790-6366)", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T19:04:09.971536: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor_16.html. (walk_to_json.py)"
+        "2015-06-03T21:21:35.844108: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor_16.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0035-9106"
+            ]
+        }
+    }, 
     "keywords": [
         "Ireland", 
         "JSTOR", 
@@ -36,13 +42,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6352810972116546516", 
             "resource_date": "2009-12-16T17:16:41.654-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:09.972141"
+            "when": "2015-06-03T21:21:35.844709"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor_16.html", 
             "resource_date": "2009-12-16T17:16:41.654-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:09.972149"
+            "when": "2015-06-03T21:21:35.844718"
         }
     ], 
     "related_resources": [], 

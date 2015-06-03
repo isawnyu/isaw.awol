@@ -1,8 +1,8 @@
 {
-    "description": "This beta version of Trismegistos Authors is the result of work in progress on the Leuven Database of Ancient Books. The Trismegistos Team is currently converting the information on attestations and quotations of ancient authors and their works to a new relational system.", 
+    "description": "Trismegistos Authors A database of Ancient Authors and Works by\u00a0 Trismegistos This beta version of Trismegistos Authors is the result of work in progress on the Leuven Database of Ancient Books. The Trismegistos Team is currently converting the information on attestations and quotations of ancient authors and their works to a new relational system. Once ready, the user will be able to navigate from authors and works to attestations and quotes, but right now TM has only covered the non-christian part of the manuscripts included in the LDAB, and even that still has to be checked. Checking the existing references and converting the christian material to the same system will probably take until late September, and we therefore urge the LDAB user to continue using the old system , which will remain in function until then. Please also note that this new database of Authors is in the first instance a tool to facilitate navigation in the various sections of Trismegistos: Texts attested in manuscripts dated before AD 800, place names from Egypt in Trismegistos Places, and in the future also some attestations of individuals from Ptolemaic Egypt. This explains some of the lacunae such as e.g. Tacitus.", 
     "domain": "www.trismegistos.org", 
     "history": [
-        "2015-06-03T19:04:01.470300: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/new-at-trismegistos.html. (walk_to_json.py)"
+        "2015-06-03T21:21:27.232005: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/new-at-trismegistos.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -34,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4071869202831883026", 
             "resource_date": "2013-07-12T10:49:23.501-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:01.470886"
+            "when": "2015-06-03T21:21:27.232570"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/new-at-trismegistos.html", 
             "resource_date": "2013-07-12T10:49:23.501-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:01.470894"
+            "when": "2015-06-03T21:21:27.232578"
         }
     ], 
     "related_resources": [], 

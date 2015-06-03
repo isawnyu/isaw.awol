@@ -1,0 +1,46 @@
+{
+    "description": "[ 15-1 ] [ 15-2 ]", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T21:21:46.769218: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/newly-open-acccess-cahiers-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8741331195138178178", 
+            "resource_date": "2013-02-03T12:23:38.047-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:21:46.769756"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/newly-open-acccess-cahiers-de.html", 
+            "resource_date": "2013-02-03T12:23:38.047-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:21:46.769764"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "15-1", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1986_num_15_1", 
+    "zotero_id": null
+}

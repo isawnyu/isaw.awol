@@ -1,10 +1,17 @@
 {
-    "description": "Mediterranean Studies (Arts & Sciences XI) http://www.jstor.org/action/ showPublication?journalCode= mediterraneanstu Coverage: Vols. 1-15 (1989-2006) Moving Wall: 5 years Publisher: Pennsylvania State University Press ISSN: 1074-164X", 
+    "description": "http://www.jstor.org/action/ showPublication?journalCode= illiclasstud http://www.jstor.org/action/ showPublication?journalCode= illiclasstud Coverage: Vols. 1 - 31/32 (1976 \u2013 2006/2007) Moving Wall: 3 years Publisher: University of Illinois Press ISSN: 0363-1923 Coverage: Vols. 1 - 31/32 (1976 \u2013 2006/2007) Moving Wall: 3 years Publisher: University of Illinois Press ISSN: 0363-1923 Mediterranean Studies (Arts & Sciences XI) http://www.jstor.org/action/ showPublication?journalCode= mediterraneanstu Coverage: Vols. 1-15 (1989-2006) Moving Wall: 5 years Publisher: Pennsylvania State University Press ISSN: 1074-164X", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T19:03:55.047032: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html. (walk_to_json.py)"
+        "2015-06-03T21:21:19.227356: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0363-1923", 
+                "1074-164X"
+            ]
+        }
+    }, 
     "keywords": [
         "JSTOR", 
         "Mediterranean", 
@@ -13,7 +20,7 @@
     ], 
     "language": [
         "en", 
-        0.9999999998835718
+        1.0
     ], 
     "provenance": [
         {
@@ -34,13 +41,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2247526536842272315", 
             "resource_date": "2012-06-15T12:47:49.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:03:55.047574"
+            "when": "2015-06-03T21:21:19.227885"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html", 
             "resource_date": "2012-06-15T12:47:49.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:03:55.047582"
+            "when": "2015-06-03T21:21:19.227892"
         }
     ], 
     "related_resources": [], 

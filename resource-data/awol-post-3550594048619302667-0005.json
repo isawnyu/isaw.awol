@@ -1,10 +1,16 @@
 {
-    "description": "Release Content: Vol. 12, No. 3/4 (1924/1925); Vol. 54 (2002) Moving Wall: 4 years Publisher: Galway Archaeological & Historical Society ISSN: 0332-415X", 
+    "description": "Journal of the Galway Archaeological and Historical Society (Ireland) Release Content: Vol. 12, No. 3/4 (1924/1925); Vol. 54 (2002) Moving Wall: 4 years Publisher: Galway Archaeological & Historical Society ISSN: 0332-415X", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T19:03:59.874555: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T21:21:24.690518: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0332-415X"
+            ]
+        }
+    }, 
     "keywords": [
         "JSTOR", 
         "antiquity", 
@@ -35,13 +41,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3550594048619302667", 
             "resource_date": "2010-02-05T09:52:44.401-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:03:59.875269"
+            "when": "2015-06-03T21:21:24.691148"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2010-02-05T09:52:44.401-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:03:59.875277"
+            "when": "2015-06-03T21:21:24.691156"
         }
     ], 
     "related_resources": [], 

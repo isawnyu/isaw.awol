@@ -1,8 +1,8 @@
 {
-    "description": "OIP 35. Reliefs and Inscriptions at Karnak, Volume II. Ramses III's Temple within the Great Inclosure of Amon, Part II; and Ramses III's Temple in the Precinct of Mut. By The Epigraphic Survey. Originally published in 1936.:", 
+    "description": "OIP 35. Reliefs and Inscriptions at Karnak, Volume II. Ramses III's Temple within the Great Inclosure of Amon, Part II; and Ramses III's Temple in the Precinct of Mut. By The Epigraphic Survey. Originally published in 1936.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T19:04:02.506950: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_13.html. (walk_to_json.py)"
+        "2015-06-03T21:21:28.199261: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_13.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4308619886868912773", 
             "resource_date": "2009-11-13T18:17:24.306-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:02.507759"
+            "when": "2015-06-03T21:21:28.199917"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_13.html", 
             "resource_date": "2009-11-13T18:17:24.306-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:02.507770"
+            "when": "2015-06-03T21:21:28.199926"
         }
     ], 
     "related_resources": [], 

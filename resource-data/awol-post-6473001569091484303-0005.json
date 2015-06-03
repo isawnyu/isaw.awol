@@ -1,0 +1,47 @@
+{
+    "description": "[ 2-2 ] 1988 : [ 3-1-2 ] 1988 : [ 3-1-2 ] 1988 : [ 3-1-2 ] 1988 : [ 3-1-2 ]", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T21:21:36.408335: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/open-access-jouranl-metis-anthropologie.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Greece", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6473001569091484303", 
+            "resource_date": "2012-03-12T21:00:00.059-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:21:36.408945"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-jouranl-metis-anthropologie.html", 
+            "resource_date": "2012-03-12T21:00:00.059-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:21:36.408953"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "2-2", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1987_num_2_2", 
+    "zotero_id": null
+}

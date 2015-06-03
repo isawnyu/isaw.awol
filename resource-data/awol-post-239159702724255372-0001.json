@@ -1,8 +1,8 @@
 {
-    "description": "Step 1: Select a criterion (ex. County) and wait for the list of keywords. Step 2: Select one or more keywords (hold Shift to select consecutive keywords or Ctrl for scattered keywords) and then press Search button. The result of the selection is listed below. Step 3: Press ID of the first column to display site\u2019s details. Note: The result of the first selection can be filtered by another criterion (for example, Period). The first criterion is preserved until it is canceled, modified or all criteria are canceled. Any selection observes all the selected criteria. And to each criterion the selection result displays records that contain at least one selected keyword.", 
+    "description": "Ministerul Culturii \u015fi Patrimoniului Na\u0163ional Repertoriul Arheologic Na\u0163ional (RAN) - National Archaeological Record Database Step 1: Select a criterion (ex. County) and wait for the list of keywords. Step 2: Select one or more keywords (hold Shift to select consecutive keywords or Ctrl for scattered keywords) and then press Search button. The result of the selection is listed below. Step 3: Press ID of the first column to display site\u2019s details. Note: The result of the first selection can be filtered by another criterion (for example, Period). The first criterion is preserved until it is canceled, modified or all criteria are canceled. Any selection observes all the selected criteria. And to each criterion the selection result displays records that contain at least one selected keyword.", 
     "domain": "www.cimec.ro", 
     "history": [
-        "2015-06-03T19:03:55.766652: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/romanian-national-archaeological-record.html. (walk_to_json.py)"
+        "2015-06-03T21:21:20.063781: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/romanian-national-archaeological-record.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-239159702724255372", 
             "resource_date": "2013-05-09T10:49:11.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:03:55.767341"
+            "when": "2015-06-03T21:21:20.064408"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/romanian-national-archaeological-record.html", 
             "resource_date": "2013-05-09T10:49:11.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:03:55.767350"
+            "when": "2015-06-03T21:21:20.064417"
         }
     ], 
     "related_resources": [], 

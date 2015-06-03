@@ -1,8 +1,8 @@
 {
-    "description": "Arches is an open-source, web-based, geospatial information system for cultural heritage inventory and management. Purpose-built for the international cultural heritage field, Arches is designed to record all types of immovable heritage, including archaeological sites, buildings and other historic structures, landscapes, and heritage ensembles or districts.", 
+    "description": "Arches: Heritage Inventory & Management System Arches is an open-source, web-based, geospatial information system for cultural heritage inventory and management. Purpose-built for the international cultural heritage field, Arches is designed to record all types of immovable heritage, including archaeological sites, buildings and other historic structures, landscapes, and heritage ensembles or districts.", 
     "domain": "archesproject.org", 
     "history": [
-        "2015-06-03T19:03:51.606808: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/arches-heritage-inventory-management.html. (walk_to_json.py)"
+        "2015-06-03T21:21:15.792982: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/arches-heritage-inventory-management.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1475357241050241183", 
             "resource_date": "2013-12-17T13:41:41.153-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:03:51.607410"
+            "when": "2015-06-03T21:21:15.793614"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/arches-heritage-inventory-management.html", 
             "resource_date": "2013-12-17T13:41:41.153-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:03:51.607418"
+            "when": "2015-06-03T21:21:15.793623"
         }
     ], 
     "related_resources": [], 

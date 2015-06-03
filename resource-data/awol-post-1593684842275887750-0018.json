@@ -1,8 +1,8 @@
 {
-    "description": "\"Ancient Nubia. Oriental Institute Museum. Originally published in 2006.\": \"Artists in Egypt (1920-1935). John Carswell. Originally published in 1991.\"", 
+    "description": "\"Ancient Nubia. Oriental Institute Museum. Originally published in 2006.\" \"Artists in Egypt (1920-1935). John Carswell. Originally published in 1991.\"", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T19:03:52.303118: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html. (walk_to_json.py)"
+        "2015-06-03T21:21:16.579450: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -36,19 +36,19 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1593684842275887750", 
             "resource_date": "2013-09-11T12:42:16.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:03:52.303674"
+            "when": "2015-06-03T21:21:16.579994"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html", 
             "resource_date": "2013-09-11T12:42:16.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:03:52.303681"
+            "when": "2015-06-03T21:21:16.580002"
         }
     ], 
     "related_resources": [
         {
-            "label": "OIMP 36. Our Work: Modern Jobs \u2013 Ancient Origins [Paperback", 
-            "url": "http://oi.uchicago.edu/research/pubs/catalog/oimp/oimp36.html"
+            "label": "List of volumes in print", 
+            "url": "http://oi.uchicago.edu/research/pubs/catalog/oimp/"
         }
     ], 
     "subordinate_resources": [], 

@@ -1,8 +1,8 @@
 {
-    "description": "\"OIP 47. Ancient Oriental Cylinder and Other Seals with a Description of the Collection of Mrs. William H. Moore. Gustavus A. Eisen. Originally published in 1940.\": \"OIP 57. Nuzi Personal Names. Ignace J. Gelb, Pierre M. Purves, and Allan A. MacRae. Originally published in 1943.\"", 
+    "description": "\"OIP 47. Ancient Oriental Cylinder and Other Seals with a Description of the Collection of Mrs. William H. Moore. Gustavus A. Eisen. Originally published in 1940.\" \"OIP 57. Nuzi Personal Names. Ignace J. Gelb, Pierre M. Purves, and Allan A. MacRae. Originally published in 1943.\"", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T19:04:18.262682: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+        "2015-06-03T21:21:46.051916: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -34,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8559132705741967670", 
             "resource_date": "2012-12-07T16:39:37.242-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:18.263222"
+            "when": "2015-06-03T21:21:46.052448"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes.html", 
             "resource_date": "2012-12-07T16:39:37.242-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:18.263230"
+            "when": "2015-06-03T21:21:46.052456"
         }
     ], 
     "related_resources": [], 

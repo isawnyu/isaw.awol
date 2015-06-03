@@ -1,10 +1,16 @@
 {
-    "description": "Zeitschrift des Deutschen Pal\u00e4stina-Vereins: (1878\u20131945) [1878\u20131945] (2192-3124) Coverage: Bd. 1 (1878)\u2013Bd. 67, H. 2 (1945); Bd. 68, H. 1\u20133 (1949\u20131951); Bd. 69, H. 1 (1953)\u2013Bd. 123, H. 2 (2007) Moving Wall: 3 years Publisher: Deutscher verein zur Erforschung Pal\u00e4stinas ISSN: 0012-1169 And see also The Ancient World in JSTOR : AWOL's full list of journals in JSTOR with substantial representation of the Ancient World. And see also The Ancient World in JSTOR : AWOL's full list of journals in JSTOR with substantial representation of the Ancient World.", 
+    "description": "Zeitschrift des Deutschen Pal\u00e4stina-Vereins (1878\u20131945) [1878\u20131945] (2192-3124) Coverage: Bd. 1 (1878)\u2013Bd. 67, H. 2 (1945); Bd. 68, H. 1\u20133 (1949\u20131951); Bd. 69, H. 1 (1953)\u2013Bd. 123, H. 2 (2007) Moving Wall: 3 years Publisher: Deutscher verein zur Erforschung Pal\u00e4stinas ISSN: 0012-1169 And see also The Ancient World in JSTOR : AWOL's full list of journals in JSTOR with substantial representation of the Ancient World. And see also The Ancient World in JSTOR : AWOL's full list of journals in JSTOR with substantial representation of the Ancient World. The Ancient World in JSTOR", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T19:04:16.285060: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-ancient-wolrd-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T21:21:44.003991: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-ancient-wolrd-content-in-jstor.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0012-1169"
+            ]
+        }
+    }, 
     "keywords": [
         "JSTOR", 
         "antiquity", 
@@ -12,7 +18,7 @@
     ], 
     "language": [
         "en", 
-        0.9998552195768184
+        1.0
     ], 
     "provenance": [
         {
@@ -33,13 +39,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7966773484618516484", 
             "resource_date": "2011-10-17T10:17:25.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:16.285683"
+            "when": "2015-06-03T21:21:44.004516"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/new-ancient-wolrd-content-in-jstor.html", 
             "resource_date": "2011-10-17T10:17:25.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:16.285692"
+            "when": "2015-06-03T21:21:44.004524"
         }
     ], 
     "related_resources": [], 

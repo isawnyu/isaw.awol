@@ -1,8 +1,8 @@
 {
-    "description": "The Jewish National and University Library, David and Fela Shapell Family Digitization Project and the Hebrew University Department of Talmud are happy to present to the public the Online Treasury of Talmudic Manuscripts. This project brings together images of major Talmudic manuscripts from libraries throughout the world. The manuscripts are indexed to enable access by standard citation (tractate, daf and amud for the Talmud Bavli, and tractate, chapter and mishna for the Mishna). As the manuscripts are entirely in Hebrew and Aramaic, the navigation tools of this site are in Hebrew. It is best viewed under Microsoft Windows with Microsoft Explorer version 5 or higher.", 
+    "description": "\u05d0\u05d5\u05e6\u05e8 \u05db\u05ea\u05d1\u05d9 \u05d9\u05d3 \u05ea\u05dc\u05de\u05d5\u05d3\u05d9\u05d9\u05dd - Online Treasury of Talmudic Manuscripts The Jewish National and University Library, David and Fela Shapell Family Digitization Project and the Hebrew University Department of Talmud are happy to present to the public the Online Treasury of Talmudic Manuscripts. This project brings together images of major Talmudic manuscripts from libraries throughout the world. The manuscripts are indexed to enable access by standard citation (tractate, daf and amud for the Talmud Bavli, and tractate, chapter and mishna for the Mishna). As the manuscripts are entirely in Hebrew and Aramaic, the navigation tools of this site are in Hebrew. It is best viewed under Microsoft Windows with Microsoft Explorer version 5 or higher.", 
     "domain": "www.jnul.huji.ac.il", 
     "history": [
-        "2015-06-03T19:04:15.546700: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/talmudic-manuscripts-online.html. (walk_to_json.py)"
+        "2015-06-03T21:21:43.082338: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/talmudic-manuscripts-online.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -36,13 +36,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7765563571134714905", 
             "resource_date": "2011-03-29T14:24:25.262-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:15.547274"
+            "when": "2015-06-03T21:21:43.082938"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/talmudic-manuscripts-online.html", 
             "resource_date": "2011-03-29T14:24:25.262-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:15.547282"
+            "when": "2015-06-03T21:21:43.082946"
         }
     ], 
     "related_resources": [], 

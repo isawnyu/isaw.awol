@@ -1,0 +1,48 @@
+{
+    "description": "[ 5 ] 1980-1989 1980 : [ 6 ] 1981 : [ 7-1 ] [ 7-2 ] 1982 : [ 8-1 ] [ 8-2 ] 1983 : [ 9-1 ] [ 9-2 ] 1984 : [ 10-1 ] [ 10-2 ] 1985 : [ 11-1 ] [ 11-2 ] 1986 : [ 12-1 ] [ 12-2 ] 1987 : [ 13-1 ] [ 13-2 ] 1988 : [ 14-1 ] [ 14-2 ] 1989 : [ 15-1 ] [ 15-2 ] 1980-1989", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T21:21:21.745672: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-juournal-paleorient.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "archaeology", 
+        "journal", 
+        "open access", 
+        "prehistory"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2883078622035089529", 
+            "resource_date": "2013-07-11T07:30:34.475-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:21:21.746245"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-juournal-paleorient.html", 
+            "resource_date": "2013-07-11T07:30:34.475-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:21:21.746253"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "5", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1979_num_5_1", 
+    "zotero_id": null
+}

@@ -1,0 +1,50 @@
+{
+    "description": "[ 13 ] [ 14 ]", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T21:21:37.429914: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/newly-open-access-journal-antiquites.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "North Africa", 
+        "antiquity", 
+        "archaeology", 
+        "classics", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6664532935434239322", 
+            "resource_date": "2013-02-21T06:18:34.731-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:21:37.430435"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/newly-open-access-journal-antiquites.html", 
+            "resource_date": "2013-02-21T06:18:34.731-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:21:37.430443"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "13", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1979_num_13_1", 
+    "zotero_id": null
+}

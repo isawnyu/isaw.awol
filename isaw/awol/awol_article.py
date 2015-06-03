@@ -63,7 +63,7 @@ RX_MATCH_DOMAIN = re.compile('^https?:\/\/([^/#]+)')
 RX_IDENTIFIERS = {
     'issn': {
         'electronic': [
-            re.compile(r'(electronic|e-|e‒|e–|e—|online|on-line|digital)([\s:]*issn[^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4})', re.IGNORECASE),
+            re.compile(r'(electronic|e-|e‒|e–|e—|e|online|on-line|digital)([\s:]*issn[^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4})', re.IGNORECASE),
             re.compile(r'(issn[\s\(]*)(electrónico|électronique|online|on-line|digital)([^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4})', re.IGNORECASE),
             re.compile(r'(issn[^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4}[\s\(]*)(electrónico|électronique|online|on-line|digital)', re.IGNORECASE),
         ],
@@ -109,7 +109,8 @@ TITLE_SUBSTRING_TERMS[u'boğazköy'] = u'Boğazköy'
 TITLE_SUBSTRING_PHRASES = {k:v for (k,v) in TITLE_SUBSTRING_TAGS.iteritems() if k not in TITLE_SUBSTRING_TERMS.keys()}
 AGGREGATORS = [
     'www.jstor.org',
-    'oi.uchicago.edu'
+    'oi.uchicago.edu',
+    'www.persee.fr'
 ]
 AGGREGATOR_IGNORE = [
     'http://www.jstor.org/page/info/about/archives/collections.jsp',
@@ -117,14 +118,73 @@ AGGREGATOR_IGNORE = [
     'http://oi.uchicago.edu/news/'
 ]
 POST_SELECTIVE = {
-    'http://ancientworldonline.blogspot.com/2012/07/chicago-demotic-dictionary-t.html': [0]
+    'http://ancientworldonline.blogspot.com/2012/07/chicago-demotic-dictionary-t.html': [0,],
+    'http://ancientworldonline.blogspot.com/2013/01/new-issues-of-asor-journals.html': [0,1,]
 }
 SUBORDINATE_FLAGS = [
     'terms of use',
     'download pdf',
     'download',
 ]
+NO_FORCING = [
+    'http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html'
+]
 FORCE_AS_SUBORDINATE_AFTER = [
+    'http://oi.uchicago.edu/research/library/acquisitions.html',
+    'http://oi.uchicago.edu/research/pubs/ar/10-11/',
+    'http://oi.uchicago.edu/research/pubs/ar/28-59/',
+    'http://oi.uchicago.edu/research/pubs/catalog/as/',
+    'http://oi.uchicago.edu/research/pubs/catalog/as/',
+    'http://oi.uchicago.edu/research/pubs/catalog/saoc/',
+    'http://www.persee.fr/web/ouvrages/home/prescript/fond/befar',
+    'http://www.persee.fr/web/ouvrages/home/prescript/issue/mom_0184-1785_2011_act_45_1#',
+    'http://www.persee.fr/web/revues/home/prescript/revue/ahess',
+    'http://www.persee.fr/web/revues/home/prescript/revue/amime',
+    'http://www.persee.fr/web/revues/home/prescript/revue/anata',
+    'http://www.persee.fr/web/revues/home/prescript/revue/antaf',
+    'http://www.persee.fr/web/revues/home/prescript/revue/antiq',
+    'http://www.persee.fr/web/revues/home/prescript/revue/arasi',
+    'http://www.persee.fr/web/revues/home/prescript/revue/arsci',
+    'http://www.persee.fr/web/revues/home/prescript/revue/asie',
+    'http://www.persee.fr/web/revues/home/prescript/revue/bch',
+    'http://www.persee.fr/web/revues/home/prescript/revue/befeo',
+    'http://www.persee.fr/web/revues/home/prescript/revue/bspf',
+    'http://www.persee.fr/web/revues/home/prescript/revue/bude',
+    'http://www.persee.fr/web/revues/home/prescript/revue/ccgg',
+    'http://www.persee.fr/web/revues/home/prescript/revue/clao',
+    'http://www.persee.fr/web/revues/home/prescript/revue/crai',
+    'http://www.persee.fr/web/revues/home/prescript/revue/dha',
+    'http://www.persee.fr/web/revues/home/prescript/revue/ethio',
+    'http://www.persee.fr/web/revues/home/prescript/revue/gaia',
+    'http://www.persee.fr/web/revues/home/prescript/revue/galia',
+    'http://www.persee.fr/web/revues/home/prescript/revue/galip',
+    'http://www.persee.fr/web/revues/home/prescript/revue/jafr',
+    'http://www.persee.fr/web/revues/home/prescript/revue/jds',
+    'http://www.persee.fr/web/revues/home/prescript/revue/jsa',
+    'http://www.persee.fr/web/revues/home/prescript/revue/jso',
+    'http://www.persee.fr/web/revues/home/prescript/revue/litt',
+    'http://www.persee.fr/web/revues/home/prescript/revue/medit',
+    'http://www.persee.fr/web/revues/home/prescript/revue/mefr',
+    'http://www.persee.fr/web/revues/home/prescript/revue/metis',
+    'http://www.persee.fr/web/revues/home/prescript/revue/nauti',
+    'http://www.persee.fr/web/revues/home/prescript/revue/numi',
+    'http://www.persee.fr/web/revues/home/prescript/revue/pal',
+    'http://www.persee.fr/web/revues/home/prescript/revue/paleo',
+    'http://www.persee.fr/web/revues/home/prescript/revue/pica',
+    'http://www.persee.fr/web/revues/home/prescript/revue/piot',
+    'http://www.persee.fr/web/revues/home/prescript/revue/pumus',
+    'http://www.persee.fr/web/revues/home/prescript/revue/quate',
+    'http://www.persee.fr/web/revues/home/prescript/revue/racf',
+    'http://www.persee.fr/web/revues/home/prescript/revue/ran',
+    'http://www.persee.fr/web/revues/home/prescript/revue/rao',
+    'http://www.persee.fr/web/revues/home/prescript/revue/rbph',
+    'http://www.persee.fr/web/revues/home/prescript/revue/rebyz',
+    'http://www.persee.fr/web/revues/home/prescript/revue/reg',
+    'http://www.persee.fr/web/revues/home/prescript/revue/remmm',
+    'http://www.persee.fr/web/revues/home/prescript/revue/syria',
+    'http://www.persee.fr/web/revues/home/prescript/revue/vita',
+    'https://oi.uchicago.edu/research/pubs/ar/11-20/11-12/',
+    'https://oi.uchicago.edu/research/pubs/catalog/oip/',
     'oriental institute news & notes',
 ]
 RELATED_FLAGS = [
@@ -132,6 +192,9 @@ RELATED_FLAGS = [
     'membership'
 ]
 FORCE_AS_RELATED_AFTER = [
+    'http://oi.uchicago.edu/research/library/dissertation/nolan.html',
+    'http://oi.uchicago.edu/research/pubs/ar/28-59',
+    'https://oi.uchicago.edu/research/pubs/archeological/',
     'list of volumes in print',
 ]
 SUPPRESS_RESOURCE = [
@@ -205,9 +268,14 @@ class AwolArticle(Article):
             and d not in DOMAINS_SECONDARY]
         if len(domains) == 1 and len(unique_urls) > 1 and domains[0] in AGGREGATORS:
             # this article is about an aggregator: parse for multiple resources
-            if domains[0] == u'oi.uchicago.edu':
+            dump_domains = []
+            if domains[0] in dump_domains:
+                dump_it = True
+            else:
+                dump_it = False
+            if dump_it:
                 print '***********************************************************'
-                print 'oi.uchicago.edu:'
+                print '{0}'.format(domains[0])
                 print u'    url: {0}'.format(self.url)
                 print u'    title: {0}'.format(self.title)
                 print u'    tag: {0}'.format(self.id)
@@ -226,13 +294,15 @@ class AwolArticle(Article):
 
                 # detect subordinate and related links and append them to the preceding resource
                 if anchor_text_lower in SUBORDINATE_FLAGS:
-                    print u'              subordinate: "{0}" ({1})'.format(anchor_text, anchor_href)
+                    if dump_it:
+                        print u'              subordinate: "{0}" ({1})'.format(anchor_text, anchor_href)
                     resources[-1].subordinate_resources.append({
                         'url': anchor_href,
                         'label': anchor_text
                         })
                 elif anchor_text_lower in RELATED_FLAGS:
-                    print u'              related: "{0}" ({1})'.format(anchor_text, anchor_href)
+                    if dump_it:
+                        print u'              related: "{0}" ({1})'.format(anchor_text, anchor_href)
                     resources[-1].related_resources.append({
                         'url': anchor_href,
                         'label': anchor_text
@@ -242,28 +312,20 @@ class AwolArticle(Article):
                 # anchors as related or subordinate resources, handle accordingly
                 if force_related is not None:
                     if force_related.url != anchor_href:
-                        print u'    >>>>>>>>> FORCE related: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_related.title, force_related.url)
+                        if dump_it:
+                            print u'    >>>>>>>>> FORCE related: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_related.title, force_related.url)
                         force_related.related_resources.append({
                             'url': anchor_href,
                             'label': anchor_text
                             })
                 elif force_subordinate is not None:
                     if force_subordinate.url != anchor_href:
-                        print u'    >>>>>>>>> FORCE subordinate: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_related.title, force_related.url)
+                        if dump_it:
+                            print u'    >>>>>>>>> FORCE subordinate: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_subordinate.title, force_subordinate.url)
                         force_subordinate.subordinate_resources.append({
                             'url': anchor_href,
                             'label': anchor_text
                             })
-
-                # detect conditions that will force treatment of subsequent anchors as
-                # subordinate or related resources
-                if anchor_text_lower in FORCE_AS_RELATED_AFTER:
-                    force_related = resources[-1]
-                if anchor_text_lower in FORCE_AS_SUBORDINATE_AFTER:
-                    try:
-                        force_subordinate = resources[-1]
-                    except IndexError:
-                        logger.warning('failed to set force_subordinate at {0} in {1}'.format(anchor_url, self.url))
 
                 # parse a new resource related to this anchor
                 if anchor_text_lower not in SUPPRESS_RESOURCE and anchor_href not in [r.url for r in resources]:
@@ -292,9 +354,24 @@ class AwolArticle(Article):
                     resource.set_provenance(self.id, 'citesAsDataSource', updated, resource_fields)
                     resource.set_provenance(self.url, 'citesAsMetadataDocument', updated)
                     resources.append(resource)
-                    if domains[0] == u'oi.uchicago.edu':
+                    if dump_it:
                         print u'    resource: {0}'.format(resource.title)
                         print u'              {0}'.format(resource.url)
+
+                # detect conditions that will force treatment of subsequent anchors as
+                # subordinate or related resources
+                if self.url not in NO_FORCING:
+                    if anchor_text_lower in FORCE_AS_RELATED_AFTER or anchor_href in FORCE_AS_RELATED_AFTER:
+                        force_subordinate = None
+                        force_related = resource
+                    if anchor_text_lower in FORCE_AS_SUBORDINATE_AFTER or anchor_href in FORCE_AS_SUBORDINATE_AFTER:
+                        try:
+                            force_subordinate = resource
+                        except IndexError:
+                            logger.warning('failed to set force_subordinate at {0} in {1}'.format(anchor_href, self.url))
+                        else:
+                            force_related = None
+
 
         elif len(domains) == 1 and len(unique_urls) > 1:
             logger.warning('aggregator detected, but ignored: {0}'.format(domains[0]))
@@ -341,7 +418,7 @@ class AwolArticle(Article):
                     prev_line = canary
             return normalize_space(cookeds)
 
-        desc_node = content_soup.blockquote
+        desc_node = content_soup
         try:
             desc_lines = desc_node.get_text('\n')
         except AttributeError:
@@ -389,10 +466,9 @@ class AwolArticle(Article):
             print 'r.title: {0} ({1})'.format(r.title, self.url)
         else:
             r.title = title
-        content_text = content_soup.get_text()
-        r.identifiers = self._parse_identifiers(content_text)
         r.description = self._parse_description(content_soup)
-        r.keywords = self._parse_tags(self.title, title, self.categories, content_text) 
+        r.identifiers = self._parse_identifiers(r.description)
+        r.keywords = self._parse_tags(self.title, title, self.categories, r.description) 
         s = u''
         try:
             s = u'{0}'.format(r.title)
@@ -540,7 +616,7 @@ class AwolArticle(Article):
             raise Exception
 
         for k in RX_IDENTIFIERS.keys():
-            if k in words:
+            if k in u' '.join(words):
                 if k not in identifiers.keys():
                     identifiers[k] = {}
                 for kk in ['electronic', 'generic']:
@@ -561,7 +637,16 @@ class AwolArticle(Article):
                         identifiers[k]['electronic'] = [RX_DASHES.sub(u'-', normalize_space(issn).replace(u' ', u'-')).upper() for issn in identifiers[k]['electronic']]
                     except KeyError:
                         pass
-                    identifiers[k]['generic'] = [RX_DASHES.sub(u'-', normalize_space(issn).replace(u' ', u'-')).upper() for issn in identifiers[k]['generic']]
+                    try:
+                        identifiers[k]['generic'] = [RX_DASHES.sub(u'-', normalize_space(issn).replace(u' ', u'-')).upper() for issn in identifiers[k]['generic']]
+                    except KeyError:
+                        pass
+                    if 'electronic' in identifiers[k].keys() and 'generic' in identifiers[k].keys():
+                        for ident in identifiers[k]['generic']:
+                            if ident in identifiers[k]['electronic']:
+                                identifiers[k]['generic'].remove(ident)
+                        if len(identifiers[k]['generic']) == 0:
+                            del identifiers[k]['generic']
         return identifiers
 
 
