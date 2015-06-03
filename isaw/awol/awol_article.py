@@ -109,7 +109,8 @@ TITLE_SUBSTRING_TERMS[u'boğazköy'] = u'Boğazköy'
 TITLE_SUBSTRING_PHRASES = {k:v for (k,v) in TITLE_SUBSTRING_TAGS.iteritems() if k not in TITLE_SUBSTRING_TERMS.keys()}
 AGGREGATORS = [
     'www.jstor.org',
-    'oi.uchicago.edu'
+    'oi.uchicago.edu',
+    'www.persee.fr'
 ]
 AGGREGATOR_IGNORE = [
     'http://www.jstor.org/page/info/about/archives/collections.jsp',
@@ -205,12 +206,18 @@ class AwolArticle(Article):
             and d not in DOMAINS_SECONDARY]
         if len(domains) == 1 and len(unique_urls) > 1 and domains[0] in AGGREGATORS:
             # this article is about an aggregator: parse for multiple resources
-            if domains[0] == u'oi.uchicago.edu':
+            dump_domains = [u'www.persee.fr',]
+            if domains[0] in dump_domains:
+                dump_it = True
+            else:
+                dump_it = False
+            if dump_it:
                 print '***********************************************************'
-                print 'oi.uchicago.edu:'
+                print '{0}'.format(domains[0])
                 print u'    url: {0}'.format(self.url)
                 print u'    title: {0}'.format(self.title)
                 print u'    tag: {0}'.format(self.id)
+                print u'    anchors: {0}'.format(repr(anchors))
 
             # filter urls selectively before processing
             if self.url in POST_SELECTIVE.keys():
@@ -226,13 +233,15 @@ class AwolArticle(Article):
 
                 # detect subordinate and related links and append them to the preceding resource
                 if anchor_text_lower in SUBORDINATE_FLAGS:
-                    print u'              subordinate: "{0}" ({1})'.format(anchor_text, anchor_href)
+                    if dump_it:
+                        print u'              subordinate: "{0}" ({1})'.format(anchor_text, anchor_href)
                     resources[-1].subordinate_resources.append({
                         'url': anchor_href,
                         'label': anchor_text
                         })
                 elif anchor_text_lower in RELATED_FLAGS:
-                    print u'              related: "{0}" ({1})'.format(anchor_text, anchor_href)
+                    if dump_it:
+                        print u'              related: "{0}" ({1})'.format(anchor_text, anchor_href)
                     resources[-1].related_resources.append({
                         'url': anchor_href,
                         'label': anchor_text
@@ -242,14 +251,16 @@ class AwolArticle(Article):
                 # anchors as related or subordinate resources, handle accordingly
                 if force_related is not None:
                     if force_related.url != anchor_href:
-                        print u'    >>>>>>>>> FORCE related: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_related.title, force_related.url)
+                        if dump_it:
+                            print u'    >>>>>>>>> FORCE related: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_related.title, force_related.url)
                         force_related.related_resources.append({
                             'url': anchor_href,
                             'label': anchor_text
                             })
                 elif force_subordinate is not None:
                     if force_subordinate.url != anchor_href:
-                        print u'    >>>>>>>>> FORCE subordinate: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_related.title, force_related.url)
+                        if dump_it:
+                            print u'    >>>>>>>>> FORCE subordinate: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_related.title, force_related.url)
                         force_subordinate.subordinate_resources.append({
                             'url': anchor_href,
                             'label': anchor_text
@@ -257,13 +268,16 @@ class AwolArticle(Article):
 
                 # detect conditions that will force treatment of subsequent anchors as
                 # subordinate or related resources
-                if anchor_text_lower in FORCE_AS_RELATED_AFTER:
+                if anchor_text_lower in FORCE_AS_RELATED_AFTER or anchor_href in FORCE_AS_RELATED_AFTER:
+                    force_subordinate = None
                     force_related = resources[-1]
-                if anchor_text_lower in FORCE_AS_SUBORDINATE_AFTER:
+                if anchor_text_lower in FORCE_AS_SUBORDINATE_AFTER or anchor_href in FORCE_AS_SUBORDINATE_AFTER:
                     try:
                         force_subordinate = resources[-1]
                     except IndexError:
                         logger.warning('failed to set force_subordinate at {0} in {1}'.format(anchor_url, self.url))
+                    else:
+                        force_related = None
 
                 # parse a new resource related to this anchor
                 if anchor_text_lower not in SUPPRESS_RESOURCE and anchor_href not in [r.url for r in resources]:
@@ -292,7 +306,7 @@ class AwolArticle(Article):
                     resource.set_provenance(self.id, 'citesAsDataSource', updated, resource_fields)
                     resource.set_provenance(self.url, 'citesAsMetadataDocument', updated)
                     resources.append(resource)
-                    if domains[0] == u'oi.uchicago.edu':
+                    if dump_it:
                         print u'    resource: {0}'.format(resource.title)
                         print u'              {0}'.format(resource.url)
 
