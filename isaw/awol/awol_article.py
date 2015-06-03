@@ -129,6 +129,12 @@ NO_FORCING = [
     'http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html'
 ]
 FORCE_AS_SUBORDINATE_AFTER = [
+    'http://oi.uchicago.edu/research/library/acquisitions.html',
+    'http://oi.uchicago.edu/research/pubs/ar/10-11/',
+    'http://oi.uchicago.edu/research/pubs/ar/28-59/',
+    'http://oi.uchicago.edu/research/pubs/catalog/as/',
+    'http://oi.uchicago.edu/research/pubs/catalog/as/',
+    'http://oi.uchicago.edu/research/pubs/catalog/saoc/',
     'http://www.persee.fr/web/ouvrages/home/prescript/fond/befar',
     'http://www.persee.fr/web/ouvrages/home/prescript/issue/mom_0184-1785_2011_act_45_1#',
     'http://www.persee.fr/web/revues/home/prescript/revue/ahess',
@@ -138,7 +144,7 @@ FORCE_AS_SUBORDINATE_AFTER = [
     'http://www.persee.fr/web/revues/home/prescript/revue/antiq',
     'http://www.persee.fr/web/revues/home/prescript/revue/arasi',
     'http://www.persee.fr/web/revues/home/prescript/revue/arsci',
-    'http://www.persee.fr/web/revues/home/prescript/revue/asie'
+    'http://www.persee.fr/web/revues/home/prescript/revue/asie',
     'http://www.persee.fr/web/revues/home/prescript/revue/bch',
     'http://www.persee.fr/web/revues/home/prescript/revue/befeo',
     'http://www.persee.fr/web/revues/home/prescript/revue/bspf',
@@ -176,6 +182,8 @@ FORCE_AS_SUBORDINATE_AFTER = [
     'http://www.persee.fr/web/revues/home/prescript/revue/remmm',
     'http://www.persee.fr/web/revues/home/prescript/revue/syria',
     'http://www.persee.fr/web/revues/home/prescript/revue/vita',
+    'https://oi.uchicago.edu/research/pubs/ar/11-20/11-12/',
+    'https://oi.uchicago.edu/research/pubs/catalog/oip/',
     'oriental institute news & notes',
 ]
 RELATED_FLAGS = [
@@ -183,6 +191,9 @@ RELATED_FLAGS = [
     'membership'
 ]
 FORCE_AS_RELATED_AFTER = [
+    'http://oi.uchicago.edu/research/library/dissertation/nolan.html',
+    'http://oi.uchicago.edu/research/pubs/ar/28-59',
+    'https://oi.uchicago.edu/research/pubs/archeological/',
     'list of volumes in print',
 ]
 SUPPRESS_RESOURCE = [
@@ -256,7 +267,7 @@ class AwolArticle(Article):
             and d not in DOMAINS_SECONDARY]
         if len(domains) == 1 and len(unique_urls) > 1 and domains[0] in AGGREGATORS:
             # this article is about an aggregator: parse for multiple resources
-            dump_domains = [u'www.persee.fr',]
+            dump_domains = [u'oi.uchicago.edu',]
             if domains[0] in dump_domains:
                 dump_it = True
             else:
