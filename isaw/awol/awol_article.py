@@ -63,7 +63,7 @@ RX_MATCH_DOMAIN = re.compile('^https?:\/\/([^/#]+)')
 RX_IDENTIFIERS = {
     'issn': {
         'electronic': [
-            re.compile(r'(electronic|e-|e‒|e–|e—|online|on-line|digital)([\s:]*issn[^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4})', re.IGNORECASE),
+            re.compile(r'(electronic|e-|e‒|e–|e—|e|online|on-line|digital)([\s:]*issn[^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4})', re.IGNORECASE),
             re.compile(r'(issn[\s\(]*)(electrónico|électronique|online|on-line|digital)([^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4})', re.IGNORECASE),
             re.compile(r'(issn[^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4}[\s\(]*)(electrónico|électronique|online|on-line|digital)', re.IGNORECASE),
         ],
@@ -218,7 +218,6 @@ class AwolArticle(Article):
                 print u'    url: {0}'.format(self.url)
                 print u'    title: {0}'.format(self.title)
                 print u'    tag: {0}'.format(self.id)
-                print u'    anchors: {0}'.format(repr(anchors))
 
             # filter urls selectively before processing
             if self.url in POST_SELECTIVE.keys():
@@ -357,7 +356,7 @@ class AwolArticle(Article):
                     prev_line = canary
             return normalize_space(cookeds)
 
-        desc_node = content_soup.blockquote
+        desc_node = content_soup
         try:
             desc_lines = desc_node.get_text('\n')
         except AttributeError:
@@ -405,10 +404,9 @@ class AwolArticle(Article):
             print 'r.title: {0} ({1})'.format(r.title, self.url)
         else:
             r.title = title
-        content_text = content_soup.get_text()
-        r.identifiers = self._parse_identifiers(content_text)
         r.description = self._parse_description(content_soup)
-        r.keywords = self._parse_tags(self.title, title, self.categories, content_text) 
+        r.identifiers = self._parse_identifiers(r.description)
+        r.keywords = self._parse_tags(self.title, title, self.categories, r.description) 
         s = u''
         try:
             s = u'{0}'.format(r.title)
@@ -556,7 +554,7 @@ class AwolArticle(Article):
             raise Exception
 
         for k in RX_IDENTIFIERS.keys():
-            if k in words:
+            if k in u' '.join(words):
                 if k not in identifiers.keys():
                     identifiers[k] = {}
                 for kk in ['electronic', 'generic']:
@@ -577,7 +575,20 @@ class AwolArticle(Article):
                         identifiers[k]['electronic'] = [RX_DASHES.sub(u'-', normalize_space(issn).replace(u' ', u'-')).upper() for issn in identifiers[k]['electronic']]
                     except KeyError:
                         pass
-                    identifiers[k]['generic'] = [RX_DASHES.sub(u'-', normalize_space(issn).replace(u' ', u'-')).upper() for issn in identifiers[k]['generic']]
+                    try:
+                        identifiers[k]['generic'] = [RX_DASHES.sub(u'-', normalize_space(issn).replace(u' ', u'-')).upper() for issn in identifiers[k]['generic']]
+                    except KeyError:
+                        pass
+                    if 'electronic' in identifiers[k].keys() and 'generic' in identifiers[k].keys():
+                        print "BORKBORK"
+                        for ident in identifiers[k]['generic']:
+                            print ident
+                            if ident in identifiers[k]['electronic']:
+                                print "KABOOM"
+                                identifiers[k]['generic'].remove(ident)
+                        if len(identifiers[k]['generic']) == 0:
+                            print "SLABOOM"
+                            del identifiers[k]['generic']
         return identifiers
 
 
