@@ -127,6 +127,7 @@ SUBORDINATE_FLAGS = [
 ]
 FORCE_AS_SUBORDINATE_AFTER = [
     'oriental institute news & notes',
+    'http://www.persee.fr/web/revues/home/prescript/revue/nauti'
 ]
 RELATED_FLAGS = [
     'list of volumes in print',
@@ -260,24 +261,11 @@ class AwolArticle(Article):
                 elif force_subordinate is not None:
                     if force_subordinate.url != anchor_href:
                         if dump_it:
-                            print u'    >>>>>>>>> FORCE subordinate: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_related.title, force_related.url)
+                            print u'    >>>>>>>>> FORCE subordinate: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_subordinate.title, force_subordinate.url)
                         force_subordinate.subordinate_resources.append({
                             'url': anchor_href,
                             'label': anchor_text
                             })
-
-                # detect conditions that will force treatment of subsequent anchors as
-                # subordinate or related resources
-                if anchor_text_lower in FORCE_AS_RELATED_AFTER or anchor_href in FORCE_AS_RELATED_AFTER:
-                    force_subordinate = None
-                    force_related = resources[-1]
-                if anchor_text_lower in FORCE_AS_SUBORDINATE_AFTER or anchor_href in FORCE_AS_SUBORDINATE_AFTER:
-                    try:
-                        force_subordinate = resources[-1]
-                    except IndexError:
-                        logger.warning('failed to set force_subordinate at {0} in {1}'.format(anchor_url, self.url))
-                    else:
-                        force_related = None
 
                 # parse a new resource related to this anchor
                 if anchor_text_lower not in SUPPRESS_RESOURCE and anchor_href not in [r.url for r in resources]:
@@ -309,6 +297,20 @@ class AwolArticle(Article):
                     if dump_it:
                         print u'    resource: {0}'.format(resource.title)
                         print u'              {0}'.format(resource.url)
+
+                # detect conditions that will force treatment of subsequent anchors as
+                # subordinate or related resources
+                if anchor_text_lower in FORCE_AS_RELATED_AFTER or anchor_href in FORCE_AS_RELATED_AFTER:
+                    force_subordinate = None
+                    force_related = resource
+                if anchor_text_lower in FORCE_AS_SUBORDINATE_AFTER or anchor_href in FORCE_AS_SUBORDINATE_AFTER:
+                    try:
+                        force_subordinate = resource
+                    except IndexError:
+                        logger.warning('failed to set force_subordinate at {0} in {1}'.format(anchor_href, self.url))
+                    else:
+                        force_related = None
+
 
         elif len(domains) == 1 and len(unique_urls) > 1:
             logger.warning('aggregator detected, but ignored: {0}'.format(domains[0]))
