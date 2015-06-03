@@ -111,7 +111,8 @@ AGGREGATORS = [
     'www.jstor.org',
     'oi.uchicago.edu',
     'www.persee.fr',
-    'dialnet.unirioja.es'
+    'dialnet.unirioja.es',
+    'amar.hsclib.sunysb.edu'
 ]
 AGGREGATOR_IGNORE = [
     'http://www.jstor.org/page/info/about/archives/collections.jsp',
@@ -208,6 +209,8 @@ FORCE_AS_SUBORDINATE_AFTER = [
     'http://dialnet.unirioja.es/servlet/revista?codigo=13109',
     'http://dialnet.unirioja.es/servlet/revista?codigo=13883',
     'http://dialnet.unirioja.es/servlet/revista?codigo=13040',
+    'http://amar.hsclib.sunysb.edu/amar/',
+    
 ]
 RELATED_FLAGS = [
     'list of volumes in print',
@@ -289,7 +292,7 @@ class AwolArticle(Article):
             if d not in DOMAINS_TO_IGNORE 
             and d not in DOMAINS_SECONDARY]
         ################# TESTING
-        dump_domains = [u'dialnet.unirioja.es',]
+        dump_domains = [u'amar.hsclib.sunysb.edu',]
         if len(domains) > 1:
             return None
         if len(domains) == 1 and len(unique_urls) <= 1:
