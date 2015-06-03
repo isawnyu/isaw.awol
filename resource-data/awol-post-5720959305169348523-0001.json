@@ -2,7 +2,7 @@
     "description": "The goal of e-codices is to provide access to the medieval manuscripts of Switzerland via a virtual library. On the e-codices site, complete digital reproductions of the manuscripts are linked with corresponding scholarly descriptions. Our aim is to serve not only manuscript researchers, but also interested members of the general public.", 
     "domain": "www.e-codices.unifr.ch", 
     "history": [
-        "2015-06-03T04:59:38.359106: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-manuscript-library-of.html. (walk_to_json.py)"
+        "2015-06-03T19:04:07.362309: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-manuscript-library-of.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5720959305169348523", 
             "resource_date": "2010-01-09T16:43:42.114-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:38.359723"
+            "when": "2015-06-03T19:04:07.362942"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-manuscript-library-of.html", 
             "resource_date": "2010-01-09T16:43:42.114-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:38.359732"
+            "when": "2015-06-03T19:04:07.362951"
         }
     ], 
     "related_resources": [], 

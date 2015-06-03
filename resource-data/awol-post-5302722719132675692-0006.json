@@ -1,0 +1,49 @@
+{
+    "description": "\"AS 15. The Second Dynasty of Isin According to A New King-List Tablet. Arno Poebel. Originally published in 1955.\": \"AS 14. Miscellaneous Studies. Arno Poebel. Originally published in 1947.\"", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-03T19:04:06.070263: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_23.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Oriental Institute", 
+        "backlist"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5302722719132675692", 
+            "resource_date": "2012-11-30T17:36:36.147-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T19:04:06.070875"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_23.html", 
+            "resource_date": "2012-11-30T17:36:36.147-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T19:04:06.070883"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "AS 15. The Second Dynasty of Isin According to A New King-List Tablet. Arno Poebel. Originally published in 1955", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/as/as15.html", 
+    "zotero_id": null
+}

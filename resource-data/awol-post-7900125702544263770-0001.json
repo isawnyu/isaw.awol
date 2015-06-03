@@ -1,8 +1,8 @@
 {
-    "description": "Israel Prehistoric Society /\u05d4\u05e2\u05de\u05d5\u05ea\u05d4 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea \u05dc\u05e4\u05e8\u05d4\u05d9\u05e1\u05d8\u05d5\u05e8\u05d9\u05d4:", 
+    "description": "Mitekufat Haeven: Journal of the Israel Prehistoric Society /\u05de\u05ea\u05e7\u05d5\u05e4\u05ea \u05d4\u05d0\u05d1\u05df: Mitekufat Haeven: Journal of the Israel Prehistoric Society / \u05de\u05ea\u05e7\u05d5\u05e4\u05ea \u05d4\u05d0\u05d1\u05df Mitekufat Haeven: Journal of the Israel Prehistoric Society / \u05de\u05ea\u05e7\u05d5\u05e4\u05ea \u05d4\u05d0\u05d1\u05df Mitekufat Haeven: Journal of the Israel Prehistoric Society / \u05de\u05ea\u05e7\u05d5\u05e4\u05ea \u05d4\u05d0\u05d1\u05df Coverage: 1960-2009 (\u05db\u05e8\u05db\u05d9\u05dd \u05d0'-\u05dc\"\u05d8) Published by: Israel Prehistoric Society / \u05d4\u05e2\u05de\u05d5\u05ea\u05d4 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea \u05dc\u05e4\u05e8\u05d4\u05d9\u05e1\u05d8\u05d5\u05e8\u05d9\u05d4 Coverage: 1960-2009 (\u05db\u05e8\u05db\u05d9\u05dd \u05d0'-\u05dc\"\u05d8) Coverage: 1960-2009 (\u05db\u05e8\u05db\u05d9\u05dd \u05d0'-\u05dc\"\u05d8) Published by: Israel Prehistoric Society / \u05d4\u05e2\u05de\u05d5\u05ea\u05d4 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea \u05dc\u05e4\u05e8\u05d4\u05d9\u05e1\u05d8\u05d5\u05e8\u05d9\u05d4 Published by:", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:47.957807: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T19:04:16.003414: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,19 +26,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7900125702544263770", 
             "resource_date": "2013-12-27T08:09:10.256-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:47.958414"
+            "when": "2015-06-03T19:04:16.004026"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2013-12-27T08:09:10.256-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:47.958423"
+            "when": "2015-06-03T19:04:16.004035"
         }
     ], 
     "related_resources": [], 

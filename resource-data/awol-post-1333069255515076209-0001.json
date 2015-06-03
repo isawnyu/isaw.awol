@@ -1,8 +1,8 @@
 {
-    "description": "As part of its ELECTRONIC PUBLICATIONS ON-LINE, the Oriental Institute Publications Office announces an additional letter, T, for the Chicago Demotic Dictionary, edited by Janet H. Johnson. This document is available in the Adobe Acrobat Portable Document Format (PDF) file.", 
+    "description": "As part of its ELECTRONIC PUBLICATIONS ON-LINE, the Oriental Institute Publications Office announces an additional letter, T, for the Chicago Demotic Dictionary , edited by Janet H. Johnson. This document is available in the Adobe Acrobat Portable Document Format (PDF) file.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T04:59:18.866638: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/chicago-demotic-dictionary-t.html. (walk_to_json.py)"
+        "2015-06-03T19:03:51.007970: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/chicago-demotic-dictionary-t.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -11,8 +11,7 @@
         "dictionaries", 
         "document", 
         "egyptology", 
-        "lexicography", 
-        "open access"
+        "lexicography"
     ], 
     "language": [
         "en", 
@@ -28,24 +27,27 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1333069255515076209", 
             "resource_date": "2012-07-17T10:03:07.584-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:18.867206"
+            "when": "2015-06-03T19:03:51.008652"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/chicago-demotic-dictionary-t.html", 
             "resource_date": "2012-07-17T10:03:07.584-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:18.867214"
+            "when": "2015-06-03T19:03:51.008661"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Chicago Demotic Dictionary: \"T\"", 
+    "title": "The Demotic Dictionary of the Oriental Institute of the University of Chicago", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/cdd/", 
     "zotero_id": null
 }

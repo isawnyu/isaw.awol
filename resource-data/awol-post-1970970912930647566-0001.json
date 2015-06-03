@@ -1,20 +1,19 @@
 {
-    "description": "Release Content: Vol. 1, No. 1 (Winter, 2005) \u2013 Vol. 2, No. 3 (2006) |Moving Wall: 3 years Publisher: Indiana University Press ISSN: 1552-5864 Note: The content for Vol. 2, No. 2 (2006) will be released as soon as the issue becomes available to JSTOR.", 
+    "description": "Journal of Middle East Women's Studies: (Arts & Sciences VI)", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:21.985974: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T19:03:53.737832: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "JSTOR", 
         "Middle East", 
         "antiquity", 
-        "journal", 
-        "journal issues"
+        "journal"
     ], 
     "language": [
         "en", 
-        1.0
+        0.999999995568565
     ], 
     "provenance": [
         {
@@ -26,19 +25,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1970970912930647566", 
             "resource_date": "2010-04-27T18:42:09.328-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:21.986542"
+            "when": "2015-06-03T19:03:53.738487"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2010-04-27T18:42:09.328-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:21.986549"
+            "when": "2015-06-03T19:03:53.738495"
         }
     ], 
     "related_resources": [], 

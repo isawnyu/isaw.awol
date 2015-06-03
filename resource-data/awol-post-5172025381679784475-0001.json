@@ -2,7 +2,7 @@
     "description": "\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u0935\u093e\u0923\u0940 - The Unique Sanskrit Aggregator", 
     "domain": "sanskritcentral.com", 
     "history": [
-        "2015-06-03T04:59:36.033846: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/sanskrit-aggregator.html. (walk_to_json.py)"
+        "2015-06-03T19:04:05.533825: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/sanskrit-aggregator.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -29,13 +29,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5172025381679784475", 
             "resource_date": "2011-06-26T07:55:36.124-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:36.034401"
+            "when": "2015-06-03T19:04:05.534449"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/sanskrit-aggregator.html", 
             "resource_date": "2011-06-26T07:55:36.124-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:36.034408"
+            "when": "2015-06-03T19:04:05.534457"
         }
     ], 
     "related_resources": [], 

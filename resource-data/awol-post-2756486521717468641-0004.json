@@ -2,7 +2,7 @@
     "description": "Release Content: Vol. 10, Index (1906); Vol. 70, Index (1966) Moving Wall: 5 years Publisher: Archaeological Institute of America ISSN: 0002-9114", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:25.598491: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T19:03:56.973274: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -27,19 +27,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2756486521717468641", 
             "resource_date": "2009-11-23T12:19:45.104-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:25.599021"
+            "when": "2015-06-03T19:03:56.973849"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2009-11-23T12:19:45.104-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:25.599028"
+            "when": "2015-06-03T19:03:56.973856"
         }
     ], 
     "related_resources": [], 

@@ -1,8 +1,8 @@
 {
-    "description": "a new search tool: for its published content. You can now find articles by geographic region, subject area, or keyword.To find articles, field reports, newsletters, state of the discipline essays, notes, and forums published in the AJA from 2005 to the present, .", 
+    "description": "a new search tool: for its published content. You can now find articles by geographic region, subject area, or keyword. To find articles, field reports, newsletters, state of the discipline essays, notes, and forums published in the AJA from 2005 to the present, .", 
     "domain": "www.ajaonline.org", 
     "history": [
-        "2015-06-03T04:59:30.043598: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/new-aja-search-tool.html. (walk_to_json.py)"
+        "2015-06-03T19:04:00.335189: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/new-aja-search-tool.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -30,13 +30,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3723294401222636446", 
             "resource_date": "2012-04-24T09:06:59.810-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:30.044152"
+            "when": "2015-06-03T19:04:00.335780"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/new-aja-search-tool.html", 
             "resource_date": "2012-04-24T09:06:59.810-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:30.044161"
+            "when": "2015-06-03T19:04:00.335788"
         }
     ], 
     "related_resources": [], 

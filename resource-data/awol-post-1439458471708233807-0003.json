@@ -1,8 +1,8 @@
 {
-    "description": "Release Content: Vol. 1, No. 1 (1824) \u2013 Vol. 3, No. 3 (1834) Moving Wall: N/A Publisher: Cambridge University on behalf of the Royal Asiatic Society of Great Britain and Ireland ISSN: 0950-4737Note: Transactions of the Royal Asiatic Society of Great Britain and Ireland is a previous title to Journal of the Royal Asiatic Society.", 
+    "description": "Release Content: Vol. 1, No. 1 (1824) \u2013 Vol. 3, No. 3 (1834) Moving Wall: N/A Publisher: Cambridge University on behalf of the Royal Asiatic Society of Great Britain and Ireland ISSN: 0950-4737 Note: Transactions of the Royal Asiatic Society of Great Britain and Ireland is a previous title to Journal of the Royal Asiatic Society .", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:19.285261: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/03/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T19:03:51.390761: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/03/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -28,19 +28,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1439458471708233807", 
             "resource_date": "2010-03-29T13:40:40.916-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:19.285782"
+            "when": "2015-06-03T19:03:51.391346"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/03/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2010-03-29T13:40:40.916-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:19.285789"
+            "when": "2015-06-03T19:03:51.391354"
         }
     ], 
     "related_resources": [], 

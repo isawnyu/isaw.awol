@@ -1,8 +1,8 @@
 {
-    "description": "The Archives Directory for the History of Collecting is a pioneering resource created to help researchers locate primary source material about American collectors, dealers, agents and advisors, and the repositories that hold these records. The database is a work in progress that is regularly updated with information contributed by both institutions and individuals.For more information about the directory, contact Samantha Deutch, Research and Program Manager for the Center for the History of Collecting in America. For other news and related activities visit the Center for the History of Collecting in America.The Center for the History of Collecting in America gratefully acknowledges Melvin R Seiden, the Billy Rose Foundation, Townsend I. Burden, Peter Blanchard, DeCourcy E. McIntosh, Juan Sabater, and an anonymous donor for their generous support of this project.", 
+    "description": "The Archives Directory for the History of Collecting is a pioneering resource created to help researchers locate primary source material about American collectors, dealers, agents and advisors, and the repositories that hold these records. The database is a work in progress that is regularly updated with information contributed by both institutions and individuals. For more information about the directory, contact Samantha Deutch, Research and Program Manager for the Center for the History of Collecting in America. For other news and related activities visit the Center for the History of Collecting in America. The Center for the History of Collecting in America gratefully acknowledges Melvin R Seiden, the Billy Rose Foundation, Townsend I. Burden, Peter Blanchard, DeCourcy E. McIntosh, Juan Sabater, and an anonymous donor for their generous support of this project.", 
     "domain": "research.frick.org", 
     "history": [
-        "2015-06-03T04:59:35.668968: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/open-access-datbase-on-history-of.html. (walk_to_json.py)"
+        "2015-06-03T19:04:05.278879: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/open-access-datbase-on-history-of.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,18 +32,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5081321998800749645", 
             "resource_date": "2010-02-23T22:49:43.292-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:35.669510"
+            "when": "2015-06-03T19:04:05.279447"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-datbase-on-history-of.html", 
             "resource_date": "2010-02-23T22:49:43.292-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:35.669517"
+            "when": "2015-06-03T19:04:05.279454"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Open Access Database on the History  of Collecting in America", 
+    "title": "Open Access Database on the History of Collecting in America", 
     "url": "http://research.frick.org/directoryweb/home.php", 
     "zotero_id": null
 }

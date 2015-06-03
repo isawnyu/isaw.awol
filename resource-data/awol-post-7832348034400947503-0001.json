@@ -1,19 +1,15 @@
 {
-    "description": "http://www.jstor.org/action/showPublication?journalCode=studscuopapi: http://www.jstor.org/action/showPublication?journalCode=studscuopapi Coverage: Vol. 1 (1915); Vol. 3 (1920); Anno 1, No. 1 (Gennaio, 1920)\u2013Anno 86 (2006) Moving Wall: 5 years Publisher: VITA E PENSIERO (Revenue Sharing Payee); Vita e Penseiro\u2013Pubblicazioni dell\u2019Universit\u00e0 Cattolica del Sacro Cuore ISSN: 0001-9046And see also The Ancient World in JSTOR: AWOL's full list of journals in JSTOR with substantial representation of the Ancient World.The Ancient World in JSTOR: AWOL's full list of journals in JSTOR with substantial representation of the Ancient World.", 
+    "description": "http://www.jstor.org/action/showPublication?journalCode=aegy: http://www.jstor.org/action/ showPublication?journalCode= aegy Previous Title: Studi della Scuola papirologica [1915\u20131920] (0394-123X)", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:47.722017: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T19:04:15.770572: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "JSTOR", 
-        "antiquity", 
-        "journal"
+        "antiquity"
     ], 
-    "language": [
-        "en", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -24,19 +20,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7832348034400947503", 
             "resource_date": "2012-04-06T04:09:08.850-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:47.722595"
+            "when": "2015-06-03T19:04:15.771164"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2012-04-06T04:09:08.850-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:47.722603"
+            "when": "2015-06-03T19:04:15.771172"
         }
     ], 
     "related_resources": [], 

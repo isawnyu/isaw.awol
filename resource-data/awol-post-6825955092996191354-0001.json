@@ -1,28 +1,16 @@
 {
-    "description": "\"Changing Watercourses in Babylonia: Towards a Reconstruction of the Ancient Environment in Lower Mesopotamia Volume 1. Hermann Gasche and Michel Tanret, editors. Originally published in 1998.\"\"Dating the Fall of Babylon: A Reappraisal of Second-Millennium Chronology. J. A. Armstrong, S. W. Cole, and V. G. Gurzadyan. Originally published in 1998.\"\"The Research Archives of the Oriental Institute: Introduction and Guide. The oriental Institute. Originally published in 1990.\"\"Feasts for Pharaohs & Kings: A Cookbook by the Oriental Institute Museum, The University of Chicago. Edited and compiled by Anne S. Blomstrom. Originally published in 1983.\"\"Prehistoric Research in Southeastern Anatolia -- Guneydogu Anadolu Tarihoncesi Arastirmalari. Halet Cambel and Robert J. Braidwood. Originally published in 1980.\"\"Remembrances of the Near East: The Photographs of Bonfils, 1867-1907. The Bonfils Firm.. Originally published in 1980.\"\"Old Babylonian Contracts From Nippur: Selected Texts From the University Museum University of Pennsylvania. Catalogue by Elizabeth C. Stone. Photos by Paul E. Zimansky. Originally published in 1976.\"\"Studies Presented to A. Leo Oppenheim, June 7, 1964. R. D. Biggs and J. A. Brinkman, editors. Originally published in 1964.\"\"The Sumerians: Their History, Culture, and Character. Samuel Noah Kramer. Originally published in 1963.\"\"Standard Operating Procedure for the Assyrian Dictionary. I. J. Gelb. Originally published in 1954.\"\"Third Century Iran: Sapor and Kartir. Martin Sprengling. Originally published in 1953.\"\"Medieval Islam: A Study in Cultural Orientation. Gustave E. von Grunebaum. Originally published in 1953.\"\"A Study of Writing. I. J. Gelb. Originally published in 1952.\"\"Two Queens of Baghdad: Mother and Wife of Harun al-Rashid. Nabia Abbott. Originally published in 1946.\"\"The Problem of Ezekiel: An Inductive Study. William A. Irwin. Originally published in 1943.\"\"The Rayy Expedition. Erich F. Schmidt. Originally published in 1942.\"\"The Persepolis Expedition. Erich F. Schmidt. Originally published in 1941.\"\"A Political History of Parthia. Neilson C. Debevoise. Originally published in 1938.\"\"They Wrote on Clay: The Babylonian Tablets Speak Today. By Edward Chiera. Edited by George G. Cameron. Originally published in 1938.\"\"Syrian Expedition: The Oriental Institute of the University of Chicago. The Oriental Institute. Originally published in 1937.\"", 
+    "description": "\"Changing Watercourses in Babylonia: Towards a Reconstruction of the Ancient Environment in Lower Mesopotamia Volume 1. Hermann Gasche and Michel Tanret, editors. Originally published in 1998.\": \"Dating the Fall of Babylon: A Reappraisal of Second-Millennium Chronology. J. A. Armstrong, S. W. Cole, and V. G. Gurzadyan. Originally published in 1998.\"", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T04:59:43.538418: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+        "2015-06-03T19:04:12.021270: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Anatolia", 
-        "Assyria", 
-        "Babylon", 
         "Mesopotamia", 
-        "Near East", 
-        "Old Babylonian", 
         "Oriental Institute", 
         "antiquity", 
         "backlist", 
-        "catalogue", 
-        "culture", 
-        "environment", 
-        "history", 
-        "imagery", 
-        "museums", 
-        "open access", 
-        "research archives"
+        "environment"
     ], 
     "language": [
         "en", 
@@ -38,24 +26,27 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6825955092996191354", 
             "resource_date": "2013-01-15T05:42:26.919-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:43.539015"
+            "when": "2015-06-03T19:04:12.021902"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/newly-online-from-oriental-institutes.html", 
             "resource_date": "2013-01-15T05:42:26.919-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:43.539023"
+            "when": "2015-06-03T19:04:12.021911"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Newly Online from the Oriental Institute's Backlist", 
-    "url": "http://oi.uchicago.edu/news/", 
+    "title": "Changing Watercourses in Babylonia: Towards a Reconstruction of the Ancient Environment in Lower Mesopotamia Volume 1. Hermann Gasche and Michel Tanret, editors. Originally published in 1998", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/misc/changing_watercourses.html", 
     "zotero_id": null
 }

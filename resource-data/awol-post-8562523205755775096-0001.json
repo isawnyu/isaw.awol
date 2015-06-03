@@ -2,7 +2,7 @@
     "description": "Welcome to the Northwest Semitic Inscription Archive", 
     "domain": "suder.berea.edu", 
     "history": [
-        "2015-06-03T04:59:50.797629: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/northwest-semitic-inscription-archive.html. (walk_to_json.py)"
+        "2015-06-03T19:04:18.289218: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/northwest-semitic-inscription-archive.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -38,13 +38,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8562523205755775096", 
             "resource_date": "2013-02-13T16:41:42.842-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:50.798187"
+            "when": "2015-06-03T19:04:18.289796"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/northwest-semitic-inscription-archive.html", 
             "resource_date": "2013-02-13T16:41:42.842-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:50.798195"
+            "when": "2015-06-03T19:04:18.289803"
         }
     ], 
     "related_resources": [], 

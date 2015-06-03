@@ -1,8 +1,8 @@
 {
-    "description": "Abzu: . Abzu is a partner project to this blog. Not everything that appears here appears there, and vice versa. Abzu's focus is on the ancient Near East and Mediterranan world, and AWOL's focus is the ancient world more broadly conceived. It's easy enough to follow both if you wish to.Also in the righthand side bar is a form allowing you to receive notifications of updates to AWOL by email. This seems useful for those for whom news feeds are not. Your address will be safe. Neither AWOL nor feedburner will send spam. I have been testing it for some weeks and I'm satisfied that it works reliably.", 
+    "description": "Abzu: . Abzu is a partner project to this blog. Not everything that appears here appears there, and vice versa. Abzu's focus is on the ancient Near East and Mediterranan world, and AWOL's focus is the ancient world more broadly conceived. It's easy enough to follow both if you wish to. Also in the righthand side bar is a form allowing you to receive notifications of updates to AWOL by email. This seems useful for those for whom news feeds are not. Your address will be safe. Neither AWOL nor feedburner will send spam. I have been testing it for some weeks and I'm satisfied that it works reliably.", 
     "domain": "www.etana.org", 
     "history": [
-        "2015-06-03T04:59:22.158153: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/06/blog-changes.html. (walk_to_json.py)"
+        "2015-06-03T19:03:53.898317: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/06/blog-changes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -33,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-199452738241766659", 
             "resource_date": "2009-06-07T19:16:16.110-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:22.158718"
+            "when": "2015-06-03T19:03:53.898950"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/06/blog-changes.html", 
             "resource_date": "2009-06-07T19:16:16.110-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:22.158726"
+            "when": "2015-06-03T19:03:53.898958"
         }
     ], 
     "related_resources": [], 

@@ -1,8 +1,8 @@
 {
-    "description": "Le site \"AMPHORES, Recueil de Timbres sur Amphores Romaines\" est le fruit de nombreuses ann\u00e9es de travail des membres de l'\u00e9quipe RTAR du Centre Camille Jullian, CNRS - Universit\u00e9 de Provence. Ce site met \u00e0 la disposition de la communaut\u00e9 scientifique un outil documentaire et de recherche concernant les timbres sur amphores romaines. Les droits des illustrations et textes des publications d'origine restent ceux de leurs auteurs, cit\u00e9s dans les notices \u00e9pigraphiques de RTAR. Les relectures, interpr\u00e9tations et commentaires compl\u00e9mentaires sont ceux de l'\u00e9quipe RTAR. Les notices ne mentionnent pas syst\u00e9matiquement les auteurs de ces relectures et/ou interpr\u00e9tations. La comparaison entre les publications d'origine et les notices permettra au lecteur de faire la part de ce qui revient \u00e0 l'auteur et \u00e0 celles de l'\u00e9quipe RTAR. Direction du projet \"AMPHORES, Recueil de Timbres sur Amphores Romaines\" : A. Hesnard, Directeur de Recherche au CNRS, Centre Camille Jullian, CNRS - Universit\u00e9 de Provence. D\u00e9veloppeurs informatiques : A. Hesnard, N. Richard, Centre Camille Jullian, CNRS - Universit\u00e9 de Provence / projet europ\u00e9en ArcheoMed. Auteurs des notices \u00e9pigraphiques : V. Blanc Bijon, M.-B. Carre, A. Hesnard, A. Tchernia, Centre Camille Jullian, CNRS - Universit\u00e9 de Provence. Le site est h\u00e9berg\u00e9 et soutenu par l'Universit\u00e9 de Provence. Il est d\u00e9velopp\u00e9 gr\u00e2ce \u00e0 des fonds europ\u00e9ens dans le cadre du projet ArcheoMed (programme Interreg IIIB Medocc). Il constitue une production du Centre Camille Jullian, UMR 6573, Universit\u00e9 de Provence - CNRS.", 
+    "description": "Le site \"AMPHORES, Recueil de Timbres sur Amphores Romaines\" est le fruit de nombreuses ann\u00e9es de travail des membres de l'\u00e9quipe RTAR du Centre Camille Jullian, CNRS - Universit\u00e9 de Provence. Ce site met \u00e0 la disposition de la communaut\u00e9 scientifique un outil documentaire et de recherche concernant les timbres sur amphores romaines. Les droits des illustrations et textes des publications d'origine restent ceux de leurs auteurs, cit\u00e9s dans les notices \u00e9pigraphiques de RTAR. Les relectures, interpr\u00e9tations et commentaires compl\u00e9mentaires sont ceux de l'\u00e9quipe RTAR. Les notices ne mentionnent pas syst\u00e9matiquement les auteurs de ces relectures et/ou interpr\u00e9tations. La comparaison entre les publications d'origine et les notices permettra au lecteur de faire la part de ce qui revient \u00e0 l'auteur et \u00e0 celles de l'\u00e9quipe RTAR . Direction du projet \"AMPHORES, Recueil de Timbres sur Amphores Romaines\" : A. Hesnard, Directeur de Recherche au CNRS, Centre Camille Jullian, CNRS - Universit\u00e9 de Provence. D\u00e9veloppeurs informatiques : A. Hesnard, N. Richard, Centre Camille Jullian, CNRS - Universit\u00e9 de Provence / projet europ\u00e9en ArcheoMed . Auteurs des notices \u00e9pigraphiques : V. Blanc Bijon, M.-B. Carre, A. Hesnard, A. Tchernia, Centre Camille Jullian, CNRS - Universit\u00e9 de Provence. Le site est h\u00e9berg\u00e9 et soutenu par l'Universit\u00e9 de Provence. Il est d\u00e9velopp\u00e9 gr\u00e2ce \u00e0 des fonds europ\u00e9ens dans le cadre du projet ArcheoMed (programme Interreg IIIB Medocc). Il constitue une production du Centre Camille Jullian, UMR 6573, Universit\u00e9 de Provence - CNRS.", 
     "domain": "publications.univ-provence.fr", 
     "history": [
-        "2015-06-03T04:59:43.478470: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/10/amphores-recueil-de-timbres-sur.html. (walk_to_json.py)"
+        "2015-06-03T19:04:11.975623: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/10/amphores-recueil-de-timbres-sur.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -33,18 +33,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6811432754798596869", 
             "resource_date": "2012-10-16T16:13:37.371-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:43.479045"
+            "when": "2015-06-03T19:04:11.976193"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/amphores-recueil-de-timbres-sur.html", 
             "resource_date": "2012-10-16T16:13:37.371-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:43.479054"
+            "when": "2015-06-03T19:04:11.976201"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Amphores. Recueil de timbres sur amphores romaines (RATAR)", 
+    "title": "Amphores. Recueil de timbres sur amphores romaines (RATAR", 
     "url": "http://publications.univ-provence.fr/rtar/", 
     "zotero_id": null
 }

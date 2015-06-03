@@ -2,7 +2,7 @@
     "description": "The web presentation of the AIIS photographic archive is a joint venture of the AIIS and the Digital South Asia Library project. The data included been collected and edited by AIIS staff in Gurgaon. Programming and database design have been undertaken by DSAL project staff in Chicago.", 
     "domain": "dsal.uchicago.edu", 
     "history": [
-        "2015-06-03T04:59:17.982608: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/05/american-institute-of-indian-studies.html. (walk_to_json.py)"
+        "2015-06-03T19:03:50.317928: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/05/american-institute-of-indian-studies.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -44,13 +44,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1092479623412845010", 
             "resource_date": "2011-05-03T11:19:54.637-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:17.983218"
+            "when": "2015-06-03T19:03:50.363233"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/american-institute-of-indian-studies.html", 
             "resource_date": "2011-05-03T11:19:54.637-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:17.983226"
+            "when": "2015-06-03T19:03:50.363255"
         }
     ], 
     "related_resources": [], 

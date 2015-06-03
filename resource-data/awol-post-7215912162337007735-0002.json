@@ -1,19 +1,16 @@
 {
-    "description": "Journal of the American Research Center in Egypt: Journal of the American Research Center in EgyptJournal of the American Research Center in EgyptJournal of the American Research Center in EgyptJournal of the AmericanAmerican ResearchResearch CenterCenter in EgyptEgypt (Arts & Sciences V) Release Content: Vols. 1 \u2013 40 (1962 - 2003) Moving Wall: 5 years Publisher: American Research Center in Egypt ISSN: 0065-9991 (Arts & Sciences V) Release Content: Vols. 1 \u2013 40 (1962 - 2003) Moving Wall: 5 years Publisher: AmericanAmerican ResearchResearch CenterCenter in EgyptEgyptEgypt ISSN: 0065-9991Moving Wall ReductionsLatin American Antiquity Latin American Antiquity Latin American Antiquity Latin American Antiquity (Arts & Sciences Complement) Release Content: Vol. 16, No. 1 (March, 2005) - Vol. 17, No. 4 (December, 2006) Moving Wall: 2 years Publisher: Society for American Archaeology ISSN: 1045-6635 Note: By publisher request, JSTOR is decreasing the moving wall from 3 years to 2 years.(Arts & Sciences Complement)) Release Content: Vol. 16, No. 1 (March, 2005) - Vol. 17, No. 4 (December, 2006) Moving Wall: 2 years Publisher: Society for American Archaeology ISSN: 1045-6635 Note:Note:Note: By publisher request, JSTOR is decreasing the moving wall from 3 years to 2 years.Transactions of the American Philological AssociationTransactions of the American Philological AssociationTransactions of the American Philological AssociationTransactions of the American Philological Association (Arts & Sciences II) Release Content: Vol. 132, No. 1/2 (Autumn, 2002) - Vol. 133, No. 2 (Autumn, 2003) Moving Wall: 5 years Publisher: The Johns Hopkins University Press ISSN: 0360-5949 Note: By publisher request, JSTOR is reducing the moving wall from fixed to 5 years. Note: The content for 2001 will be released as soon as the issues become available to JSTOR. (Arts & Sciences II)) Release Content: Vol. 132, No. 1/2 (Autumn, 2002) - Vol. 133, No. 2 (Autumn, 2003) Moving Wall: 5 years Publisher: The Johns Hopkins University Press ISSN: 0360-5949 Note:Note:Note: By publisher request, JSTOR is reducing the moving wall from fixed to 5 years. Note:Note:Note: The content for 2001 will be released as soon as the issues become available to JSTOR.", 
+    "description": "Bulletin of the American Schools of Oriental Research. Supplementary Studies: (Arts & Sciences Complement ) Release Content: Nos. 1 \u2013 27 (1945 \u2013 1991) Publication of this title ceased in 1991. Publisher: The American Schools of Oriental Research ISSN: 0145-3661 (Arts & Sciences Complement ) Release Content: Nos. 1 \u2013 27 (1945 \u2013 1991) Publication of this title ceased in 1991. Publisher: The American Schools of Oriental Research ISSN: 0145-3661", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:45.026179: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T19:04:13.333710: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "ASOR", 
         "Egypt", 
         "JSTOR", 
-        "Latin", 
         "antiquity", 
-        "archaeology", 
-        "journal", 
-        "publisher"
+        "journal"
     ], 
     "language": [
         "en", 
@@ -29,19 +26,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7215912162337007735", 
             "resource_date": "2009-01-29T18:11:39.254-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:45.026760"
+            "when": "2015-06-03T19:04:13.334244"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2009-01-29T18:11:39.254-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:45.026768"
+            "when": "2015-06-03T19:04:13.334252"
         }
     ], 
     "related_resources": [], 

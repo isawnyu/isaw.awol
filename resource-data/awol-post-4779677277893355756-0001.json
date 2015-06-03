@@ -2,7 +2,7 @@
     "description": "Il progetto PSI on-line \u00e8 nato grazie ad accordi di cooperazione stipulati tra diverse istituzioni nazionali ed internazionali: l\u2019Universit\u00e0 di Cassino, l\u2019Accademia Fiorentina di Papirologia, la Biblioteca Medicea Laurenziana, l\u2019Istituto Papirologico Vitelli, il Museo Archeologico del Cairo, la Biblioteca di Alessandria. Attualmente, la sua realizzazione \u00e8 curata dal Centro Editoriale e dal Laboratorio di Ricerche Storiche e Archeologiche dell\u2019Antichit\u00e0 (Dipartimento di Scienze Umanistiche) dell\u2019Universit\u00e0 di Cassino.", 
     "domain": "www.psi-online.it", 
     "history": [
-        "2015-06-03T04:59:34.110375: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/psionline-papiri-della-societa-italiana.html. (walk_to_json.py)"
+        "2015-06-03T19:04:03.973989: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/psionline-papiri-della-societa-italiana.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4779677277893355756", 
             "resource_date": "2013-01-15T21:17:44.482-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:34.110952"
+            "when": "2015-06-03T19:04:03.974591"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/psionline-papiri-della-societa-italiana.html", 
             "resource_date": "2013-01-15T21:17:44.482-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:34.110960"
+            "when": "2015-06-03T19:04:03.974599"
         }
     ], 
     "related_resources": [], 

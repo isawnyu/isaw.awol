@@ -1,8 +1,8 @@
 {
-    "description": "", 
+    "description": "Transactions of the American Philological Association: (Arts & Sciences II ) Release Content: Vol. 132, No. 1/2 (Autumn, 2002) - Vol. 133, No. 2 (Autumn, 2003) Moving Wall: 5 years Publisher: The Johns Hopkins University Press ISSN: 0360-5949 Note: By publisher request, JSTOR is reducing the moving wall from fixed to 5 years. Note: The content for 2001 will be released as soon as the issues become available to JSTOR. (Arts & Sciences II ) Release Content: Vol. 132, No. 1/2 (Autumn, 2002) - Vol. 133, No. 2 (Autumn, 2003) Moving Wall: 5 years Publisher: The Johns Hopkins University Press ISSN: 0360-5949 Note: By publisher request, JSTOR is reducing the moving wall from fixed to 5 years. Note: The content for 2001 will be released as soon as the issues become available to JSTOR.", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:45.055741: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T19:04:13.364222: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -12,7 +12,7 @@
     ], 
     "language": [
         "en", 
-        0.9999999999999907
+        1.0
     ], 
     "provenance": [
         {
@@ -24,19 +24,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7215912162337007735", 
             "resource_date": "2009-01-29T18:11:39.254-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:45.056324"
+            "when": "2015-06-03T19:04:13.364773"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2009-01-29T18:11:39.254-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:45.056333"
+            "when": "2015-06-03T19:04:13.364781"
         }
     ], 
     "related_resources": [], 

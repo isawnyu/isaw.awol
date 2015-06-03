@@ -1,8 +1,8 @@
 {
-    "description": "Release Content: Vol. 1, No. 1 (1902) \u2013 Vol. 74 (2006) Moving Wall: 3 years Publisher: The British School at Rome ISSN: 0068-2462", 
+    "description": "Papers of the British School at Rome: (Arts & Sciences VIII)", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:21.989957: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T19:03:53.741787: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -24,19 +24,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1970970912930647566", 
             "resource_date": "2010-04-27T18:42:09.328-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:21.990485"
+            "when": "2015-06-03T19:03:53.742406"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2010-04-27T18:42:09.328-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:21.990493"
+            "when": "2015-06-03T19:03:53.742414"
         }
     ], 
     "related_resources": [], 

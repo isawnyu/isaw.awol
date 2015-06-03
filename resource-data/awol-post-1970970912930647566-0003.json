@@ -1,22 +1,18 @@
 {
-    "description": "Release Content: Vol. 46, No. 4 (May, 2007) \u2013 Vol. 49, No. 1 (August, 2009) Moving Wall: 5 years Publisher: University of Chicago Press ISSN: 0018-2710", 
+    "description": "Journal of Field Archaeo: logy (Arts & Sciences II)", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T04:59:22.006281: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T19:03:53.750114: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "JSTOR", 
         "antiquity", 
-        "archaeology", 
-        "history", 
-        "journal", 
-        "publisher", 
-        "website"
+        "journal"
     ], 
     "language": [
         "en", 
-        1.0
+        0.9999999997900797
     ], 
     "provenance": [
         {
@@ -28,19 +24,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1970970912930647566", 
             "resource_date": "2010-04-27T18:42:09.328-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:22.006892"
+            "when": "2015-06-03T19:03:53.750712"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2010-04-27T18:42:09.328-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:22.006901"
+            "when": "2015-06-03T19:03:53.750720"
         }
     ], 
     "related_resources": [], 
