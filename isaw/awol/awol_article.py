@@ -116,6 +116,11 @@ AGGREGATOR_IGNORE = [
 POST_SELECTIVE = {
     'http://ancientworldonline.blogspot.com/2012/07/chicago-demotic-dictionary-t.html': [0]
 }
+SUBORDINATE_FLAGS = [
+    'terms of use',
+    'download pdf',
+    'download'
+]
 
 RX_DASHES = re.compile(r'[‒–—-]+')
 
@@ -179,30 +184,37 @@ class AwolArticle(Article):
             if self.url in POST_SELECTIVE.keys():
                 anchors = [a for i,a in enumerate(anchors) if i in POST_SELECTIVE[self.url]]
             for a in [a for a in anchors if domains[0] in a.get('href') and a.get('href') not in AGGREGATOR_IGNORE and a.get_text().strip() != u'']:
-                html = u''
-                next_node = a.next_element
-                while True:
-                    html = html + unicode(next_node)
-                    if next_node.name in ['blockquote', 'hr']:
-                        break
-                    next_node = next_node.next_element
-                    if next_node is None:
-                        break
-                html = u'<div>' + html + u'</div>'
-                this_soup = BeautifulSoup(html)
-                resource = self._parse_resource(
-                    domain=domains[0],
-                    url=a.get('href'),
-                    title=a.get_text().strip(),
-                    content_soup=this_soup)
-                resource_fields = sorted([k for k in resource.__dict__.keys() if '_' not in k])
-                resource.set_provenance(self.id, 'citesAsDataSource', updated, resource_fields)
-                resource.set_provenance(self.url, 'citesAsMetadataDocument', updated)
-                resources.append(resource)
-                if domains[0] == u'oi.uchicago.edu':
-                    print '----------------------------------------------------------'
-                    print u'    resource: {0}'.format(resource.title)
-                    print u'              {0}'.format(resource.url)
+                if normalize_space(a.get_text()).lower() in SUBORDINATE_FLAGS:
+                    print u'          append {0} to {1}'.format(a.get_text(), resources[-1].title)
+                    resources[-1].subordinate_resources.append({
+                        'url': a.get('href'),
+                        'label': normalize_space(a.get_text())
+                        })
+                else:
+                    html = u''
+                    next_node = a.next_element
+                    while True:
+                        html = html + unicode(next_node)
+                        if next_node.name in ['blockquote', 'hr']:
+                            break
+                        next_node = next_node.next_element
+                        if next_node is None:
+                            break
+                    html = u'<div>' + html + u'</div>'
+                    this_soup = BeautifulSoup(html)
+                    resource = self._parse_resource(
+                        domain=domains[0],
+                        url=a.get('href'),
+                        title=a.get_text().strip(),
+                        content_soup=this_soup)
+                    resource_fields = sorted([k for k in resource.__dict__.keys() if '_' not in k])
+                    resource.set_provenance(self.id, 'citesAsDataSource', updated, resource_fields)
+                    resource.set_provenance(self.url, 'citesAsMetadataDocument', updated)
+                    resources.append(resource)
+                    if domains[0] == u'oi.uchicago.edu':
+                        print '----------------------------------------------------------'
+                        print u'    resource: {0}'.format(resource.title)
+                        print u'              {0}'.format(resource.url)
 
         elif len(domains) == 1 and len(unique_urls) > 1:
             logger.warning('aggregator detected, but ignored: {0}'.format(domains[0]))
