@@ -1,10 +1,16 @@
 {
-    "description": "RES PUBLICA LITTERARUM es la revista digital que, en el marco del Instituto de Estudios Cl\u00e1sicos para la Sociedad y la Pol\u00edtica \"Lucio Anneo S\u00e9neca\", publica art\u00edculos, textos y documentos de trabajo sobre Estudios Cl\u00e1sicos y Human\u00edsticos, Derecho Romano, Historia Antigua y temas afines en las \u00e1reas de investigaci\u00f3n del instituto. Asimismo, es un foro para la publicaci\u00f3n de los resultados del trabajo del Grupo de investigaci\u00f3n sobre el pensamiento pol\u00edtico y el derecho antiguos y su recepci\u00f3n 'NOMOS' , de sus colaboradores y, en general, de otros estudiosos que env\u00edan sus contribuciones al campo de estudio de ambas instituciones. Los art\u00edculos se publican en forma de documentos de trabajo o working papers, para su discusi\u00f3n y el avance en las investigaciones del grupo de trabajo.2012123201112010120091200812007122006123456720051234567891020041234", 
+    "description": "RES PUBLICA LITTERARUM: Documentos de Trabajo del grupo de investigaci\u00f3n 'Nomos' ISSN 1699-7840 RES PUBLICA LITTERARUM es la revista digital que, en el marco del Instituto de Estudios Cl\u00e1sicos para la Sociedad y la Pol\u00edtica \"Lucio Anneo S\u00e9neca\", publica art\u00edculos, textos y documentos de trabajo sobre Estudios Cl\u00e1sicos y Human\u00edsticos, Derecho Romano, Historia Antigua y temas afines en las \u00e1reas de investigaci\u00f3n del instituto. Asimismo, es un foro para la publicaci\u00f3n de los resultados del trabajo del Grupo de investigaci\u00f3n sobre el pensamiento pol\u00edtico y el derecho antiguos y su recepci\u00f3n 'NOMOS' , de sus colaboradores y, en general, de otros estudiosos que env\u00edan sus contribuciones al campo de estudio de ambas instituciones. Los art\u00edculos se publican en forma de documentos de trabajo o working papers, para su discusi\u00f3n y el avance en las investigaciones del grupo de trabajo. 2012 1 2 3 2011 1 2010 1 2009 1 2008 1 2007 1 2 2006 1 2 3 4 5 6 7 2005 1 2 3 4 5 6 7 8 9 10 2004 1 2 3 4", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-03T04:59:25.670679: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/ope-access-journal-res-publica.html. (walk_to_json.py)"
+        "2015-06-03T21:41:40.327656: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/ope-access-journal-res-publica.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1699-7840"
+            ]
+        }
+    }, 
     "keywords": [
         "Spain", 
         "antiquity", 
@@ -27,24 +33,184 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2779907104128032722", 
             "resource_date": "2013-11-05T10:20:28.501-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:25.671264"
+            "when": "2015-06-03T21:41:40.328282"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/ope-access-journal-res-publica.html", 
             "resource_date": "2013-11-05T10:20:28.501-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:25.671272"
+            "when": "2015-06-03T21:41:40.328291"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
-    "title": "RES PUBLICA LITTERARUM", 
+    "subordinate_resources": [
+        {
+            "label": "2012", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13109&claveDeBusqueda=2012"
+        }, 
+        {
+            "label": "1", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=318167"
+        }, 
+        {
+            "label": "2", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=318168"
+        }, 
+        {
+            "label": "3", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=318169"
+        }, 
+        {
+            "label": "2011", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13109&claveDeBusqueda=2011"
+        }, 
+        {
+            "label": "1", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=277950"
+        }, 
+        {
+            "label": "2010", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13109&claveDeBusqueda=2010"
+        }, 
+        {
+            "label": "1", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=248660"
+        }, 
+        {
+            "label": "2009", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13109&claveDeBusqueda=2009"
+        }, 
+        {
+            "label": "1", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=238576"
+        }, 
+        {
+            "label": "2008", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13109&claveDeBusqueda=2008"
+        }, 
+        {
+            "label": "1", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224966"
+        }, 
+        {
+            "label": "2007", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13109&claveDeBusqueda=2007"
+        }, 
+        {
+            "label": "1", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224967"
+        }, 
+        {
+            "label": "2", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224968"
+        }, 
+        {
+            "label": "2006", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13109&claveDeBusqueda=2006"
+        }, 
+        {
+            "label": "1", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225031"
+        }, 
+        {
+            "label": "2", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225032"
+        }, 
+        {
+            "label": "3", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225033"
+        }, 
+        {
+            "label": "4", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225034"
+        }, 
+        {
+            "label": "5", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225035"
+        }, 
+        {
+            "label": "6", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225036"
+        }, 
+        {
+            "label": "7", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225037"
+        }, 
+        {
+            "label": "2005", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13109&claveDeBusqueda=2005"
+        }, 
+        {
+            "label": "1", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225114"
+        }, 
+        {
+            "label": "2", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225115"
+        }, 
+        {
+            "label": "3", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225116"
+        }, 
+        {
+            "label": "4", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225117"
+        }, 
+        {
+            "label": "5", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225118"
+        }, 
+        {
+            "label": "6", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225119"
+        }, 
+        {
+            "label": "7", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225120"
+        }, 
+        {
+            "label": "8", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225121"
+        }, 
+        {
+            "label": "9", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225122"
+        }, 
+        {
+            "label": "10", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225123"
+        }, 
+        {
+            "label": "2004", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13109&claveDeBusqueda=2004"
+        }, 
+        {
+            "label": "1", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225124"
+        }, 
+        {
+            "label": "2", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225125"
+        }, 
+        {
+            "label": "3", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225126"
+        }, 
+        {
+            "label": "4", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225128"
+        }
+    ], 
+    "title": "RES PUBLICA LITTERARUM: Documentos de Trabajo del grupo de investigaci\u00f3n 'Nomos", 
     "url": "http://dialnet.unirioja.es/servlet/revista?codigo=13109", 
     "zotero_id": null
 }

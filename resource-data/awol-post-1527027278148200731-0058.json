@@ -1,0 +1,48 @@
+{
+    "description": "1965 10 11 12 10 11 12 10 11 12 10", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-03T21:41:36.531608: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-cuadernos-de-la.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Spain", 
+        "classics", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1527027278148200731", 
+            "resource_date": "2013-12-15T08:15:54.695-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:41:36.532142"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-cuadernos-de-la.html", 
+            "resource_date": "2013-12-15T08:15:54.695-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:41:36.532150"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "1965", 
+    "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1965", 
+    "zotero_id": null
+}

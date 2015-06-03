@@ -1,0 +1,49 @@
+{
+    "description": "2011 Vol. 1 1 Extra 2 Vol. 1 1 Extra 2 Vol. 1 1 Extra 2 Vol. 1 1 Extra 2 Vol. 1", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-03T21:41:58.181991: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/open-access-journal-studia-hermetica.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "classics", 
+        "journal", 
+        "open access", 
+        "philosophy", 
+        "reception"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8466512562592678832", 
+            "resource_date": "2012-12-09T08:15:22.700-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:41:58.182524"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-studia-hermetica.html", 
+            "resource_date": "2012-12-09T08:15:22.700-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:41:58.182531"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "2011", 
+    "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=19825&clave_busqueda=2011", 
+    "zotero_id": null
+}

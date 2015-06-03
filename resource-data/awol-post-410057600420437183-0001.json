@@ -1,18 +1,16 @@
 {
-    "description": "Journal table of contentsYearVolumes and Issues19478-11(**)19464-7(**)1945", 
+    "description": "Bolet\u00edn Arqueol\u00f3gico del Sudeste Espa\u00f1ol Journal table of contents Year Volumes and Issues 1947 8-11 (**) 1946 4-7 (**) 1945", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-03T04:59:31.534955: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/newly-online-journal-boletin.html. (walk_to_json.py)"
+        "2015-06-03T21:41:44.392862: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/newly-online-journal-boletin.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "antiquity", 
-        "journal", 
-        "open access"
+        "journal"
     ], 
     "language": [
         "es", 
-        0.9999999999712605
+        0.9999999999999989
     ], 
     "provenance": [
         {
@@ -24,23 +22,47 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-410057600420437183", 
             "resource_date": "2010-12-07T11:58:14.954-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:31.535571"
+            "when": "2015-06-03T21:41:44.393855"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/newly-online-journal-boletin.html", 
             "resource_date": "2010-12-07T11:58:14.954-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:31.535579"
+            "when": "2015-06-03T21:41:44.393869"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "label": "1947", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=14101&clave_busqueda=1947"
+        }, 
+        {
+            "label": "8-11", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=14101&clave_busqueda=253717"
+        }, 
+        {
+            "label": "1946", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=14101&clave_busqueda=1946"
+        }, 
+        {
+            "label": "4-7", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=14101&clave_busqueda=253718"
+        }, 
+        {
+            "label": "1945", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=14101&clave_busqueda=1945"
+        }
+    ], 
     "title": "Bolet\u00edn Arqueol\u00f3gico del Sudeste Espa\u00f1ol", 
     "url": "http://dialnet.unirioja.es/servlet/alerev?codigo=14101", 
     "zotero_id": null
