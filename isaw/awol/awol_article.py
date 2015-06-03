@@ -268,7 +268,7 @@ class AwolArticle(Article):
             and d not in DOMAINS_SECONDARY]
         if len(domains) == 1 and len(unique_urls) > 1 and domains[0] in AGGREGATORS:
             # this article is about an aggregator: parse for multiple resources
-            dump_domains = [u'www.jstor.org',]
+            dump_domains = []
             if domains[0] in dump_domains:
                 dump_it = True
             else:
