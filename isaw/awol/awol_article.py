@@ -125,9 +125,58 @@ SUBORDINATE_FLAGS = [
     'download pdf',
     'download',
 ]
+NO_FORCING = [
+    'http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html'
+]
 FORCE_AS_SUBORDINATE_AFTER = [
+    'http://www.persee.fr/web/ouvrages/home/prescript/fond/befar',
+    'http://www.persee.fr/web/ouvrages/home/prescript/issue/mom_0184-1785_2011_act_45_1#',
+    'http://www.persee.fr/web/revues/home/prescript/revue/ahess',
+    'http://www.persee.fr/web/revues/home/prescript/revue/amime',
+    'http://www.persee.fr/web/revues/home/prescript/revue/anata',
+    'http://www.persee.fr/web/revues/home/prescript/revue/antaf',
+    'http://www.persee.fr/web/revues/home/prescript/revue/antiq',
+    'http://www.persee.fr/web/revues/home/prescript/revue/arasi',
+    'http://www.persee.fr/web/revues/home/prescript/revue/arsci',
+    'http://www.persee.fr/web/revues/home/prescript/revue/asie'
+    'http://www.persee.fr/web/revues/home/prescript/revue/bch',
+    'http://www.persee.fr/web/revues/home/prescript/revue/befeo',
+    'http://www.persee.fr/web/revues/home/prescript/revue/bspf',
+    'http://www.persee.fr/web/revues/home/prescript/revue/bude',
+    'http://www.persee.fr/web/revues/home/prescript/revue/ccgg',
+    'http://www.persee.fr/web/revues/home/prescript/revue/clao',
+    'http://www.persee.fr/web/revues/home/prescript/revue/crai',
+    'http://www.persee.fr/web/revues/home/prescript/revue/dha',
+    'http://www.persee.fr/web/revues/home/prescript/revue/ethio',
+    'http://www.persee.fr/web/revues/home/prescript/revue/gaia',
+    'http://www.persee.fr/web/revues/home/prescript/revue/galia',
+    'http://www.persee.fr/web/revues/home/prescript/revue/galip',
+    'http://www.persee.fr/web/revues/home/prescript/revue/jafr',
+    'http://www.persee.fr/web/revues/home/prescript/revue/jds',
+    'http://www.persee.fr/web/revues/home/prescript/revue/jsa',
+    'http://www.persee.fr/web/revues/home/prescript/revue/jso',
+    'http://www.persee.fr/web/revues/home/prescript/revue/litt',
+    'http://www.persee.fr/web/revues/home/prescript/revue/medit',
+    'http://www.persee.fr/web/revues/home/prescript/revue/mefr',
+    'http://www.persee.fr/web/revues/home/prescript/revue/metis',
+    'http://www.persee.fr/web/revues/home/prescript/revue/nauti',
+    'http://www.persee.fr/web/revues/home/prescript/revue/numi',
+    'http://www.persee.fr/web/revues/home/prescript/revue/pal',
+    'http://www.persee.fr/web/revues/home/prescript/revue/paleo',
+    'http://www.persee.fr/web/revues/home/prescript/revue/pica',
+    'http://www.persee.fr/web/revues/home/prescript/revue/piot',
+    'http://www.persee.fr/web/revues/home/prescript/revue/pumus',
+    'http://www.persee.fr/web/revues/home/prescript/revue/quate',
+    'http://www.persee.fr/web/revues/home/prescript/revue/racf',
+    'http://www.persee.fr/web/revues/home/prescript/revue/ran',
+    'http://www.persee.fr/web/revues/home/prescript/revue/rao',
+    'http://www.persee.fr/web/revues/home/prescript/revue/rbph',
+    'http://www.persee.fr/web/revues/home/prescript/revue/rebyz',
+    'http://www.persee.fr/web/revues/home/prescript/revue/reg',
+    'http://www.persee.fr/web/revues/home/prescript/revue/remmm',
+    'http://www.persee.fr/web/revues/home/prescript/revue/syria',
+    'http://www.persee.fr/web/revues/home/prescript/revue/vita',
     'oriental institute news & notes',
-    'http://www.persee.fr/web/revues/home/prescript/revue/nauti'
 ]
 RELATED_FLAGS = [
     'list of volumes in print',
@@ -299,16 +348,17 @@ class AwolArticle(Article):
 
                 # detect conditions that will force treatment of subsequent anchors as
                 # subordinate or related resources
-                if anchor_text_lower in FORCE_AS_RELATED_AFTER or anchor_href in FORCE_AS_RELATED_AFTER:
-                    force_subordinate = None
-                    force_related = resource
-                if anchor_text_lower in FORCE_AS_SUBORDINATE_AFTER or anchor_href in FORCE_AS_SUBORDINATE_AFTER:
-                    try:
-                        force_subordinate = resource
-                    except IndexError:
-                        logger.warning('failed to set force_subordinate at {0} in {1}'.format(anchor_href, self.url))
-                    else:
-                        force_related = None
+                if self.url not in NO_FORCING:
+                    if anchor_text_lower in FORCE_AS_RELATED_AFTER or anchor_href in FORCE_AS_RELATED_AFTER:
+                        force_subordinate = None
+                        force_related = resource
+                    if anchor_text_lower in FORCE_AS_SUBORDINATE_AFTER or anchor_href in FORCE_AS_SUBORDINATE_AFTER:
+                        try:
+                            force_subordinate = resource
+                        except IndexError:
+                            logger.warning('failed to set force_subordinate at {0} in {1}'.format(anchor_href, self.url))
+                        else:
+                            force_related = None
 
 
         elif len(domains) == 1 and len(unique_urls) > 1:
@@ -580,14 +630,10 @@ class AwolArticle(Article):
                     except KeyError:
                         pass
                     if 'electronic' in identifiers[k].keys() and 'generic' in identifiers[k].keys():
-                        print "BORKBORK"
                         for ident in identifiers[k]['generic']:
-                            print ident
                             if ident in identifiers[k]['electronic']:
-                                print "KABOOM"
                                 identifiers[k]['generic'].remove(ident)
                         if len(identifiers[k]['generic']) == 0:
-                            print "SLABOOM"
                             del identifiers[k]['generic']
         return identifiers
 
