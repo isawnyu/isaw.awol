@@ -1,0 +1,49 @@
+{
+    "description": "... The Society also publishes a quarterly journal, the Proceedings.\u00a0 The first volume of the Proceedings published in 1838.\u00a0 Articles in the journal include papers read at the Society's biannual meetings, independent essays sent to the APS by outside scholars, and biographical memoirs of Society members. Recent issues are available online on the APS website.", 
+    "domain": "www.amphilsoc.org", 
+    "history": [
+        "2015-06-03T04:59:43.808287: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/open-access-journal-proceedings-of.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "antiquity", 
+        "journal", 
+        "open access", 
+        "proceedings"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6917475422564531069", 
+            "resource_date": "2012-05-22T09:26:59.370-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:43.808842"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-proceedings-of.html", 
+            "resource_date": "2012-05-22T09:26:59.370-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:43.808850"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Proceedings of the American Philosophical Society", 
+    "url": "http://www.amphilsoc.org/publications/proceedings", 
+    "zotero_id": null
+}

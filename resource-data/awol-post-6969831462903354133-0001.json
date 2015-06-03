@@ -1,0 +1,88 @@
+{
+    "description": "Cet ouvrage rassemble les vingt-quatre communications prononc\u00e9es lors du colloque Roma illustrata organis\u00e9 \u00e0 l\u2019universit\u00e9 de Caen Basse-Normandie en 2005 autour du Plan de Rome de Paul Bigot et de son double virtuel. Cette rencontre s\u2019est ouverte de fa\u00e7on tr\u00e8s large \u00e0 la question de la repr\u00e9sentation de la ville et de ses symboles. Il s\u2019agissait de mettre \u00e0 contribution, dans une confrontation sans a priori disciplinaire ou m\u00e9thodologique, diff\u00e9rentes approches possibles\u00a0: litt\u00e9raires, iconographiques et arch\u00e9ologiques.", 
+    "domain": "www.unicaen.fr", 
+    "history": [
+        "2015-06-03T04:59:44.057705: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/11/roma-illustrata.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Asia", 
+        "Athens", 
+        "Babylon", 
+        "Byzantium", 
+        "Egypt", 
+        "Etruscans", 
+        "Greece", 
+        "Greek", 
+        "Italian", 
+        "Italy", 
+        "Latin", 
+        "Mesopotamia", 
+        "Pompeii", 
+        "Roman", 
+        "Rome", 
+        "antiquity", 
+        "archaeology", 
+        "architecture", 
+        "book", 
+        "classics", 
+        "conference", 
+        "culture", 
+        "data", 
+        "document", 
+        "empires", 
+        "epigraphy", 
+        "forum", 
+        "geography", 
+        "history", 
+        "imagery", 
+        "journal", 
+        "journal issues", 
+        "law", 
+        "literature", 
+        "military", 
+        "monuments", 
+        "museums", 
+        "mythology", 
+        "numismatics", 
+        "reception", 
+        "religion", 
+        "series", 
+        "statuary", 
+        "teaching"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6969831462903354133", 
+            "resource_date": "2010-11-24T11:11:09.783-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:44.058292"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/roma-illustrata.html", 
+            "resource_date": "2010-11-24T11:11:09.783-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:44.058300"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Roma illustrata", 
+    "url": "http://www.unicaen.fr/services/puc/ecrire/ouvrages/roma_illustrata/00roma_illustrata.pdf", 
+    "zotero_id": null
+}

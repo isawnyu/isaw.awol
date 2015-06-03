@@ -1,0 +1,52 @@
+{
+    "description": "Kernos est la seule revue scientifique internationale enti\u00e8rement consacr\u00e9e \u00e0 l\u2019\u00e9tude des faits et ph\u00e9nom\u00e8nes religieux de la Gr\u00e8ce antique. Elle a pour ambition de fournir aux chercheurs en ce domaine, mais aussi \u00e0 toute personne int\u00e9ress\u00e9e par les questions religieuses, un instrument de r\u00e9flexion et des outils de travail pour progresser dans la connaissance du syst\u00e8me religieux des Grecs.", 
+    "domain": "kernos.revues.org", 
+    "history": [
+        "2015-06-03T04:59:29.641064: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-coming-soon-kernos.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Greece", 
+        "antiquity", 
+        "classics", 
+        "journal", 
+        "monograph", 
+        "open access", 
+        "religion"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3633555356732043428", 
+            "resource_date": "2013-07-09T10:39:17.465-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:29.641638"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-coming-soon-kernos.html", 
+            "resource_date": "2013-07-09T10:39:17.465-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:29.641646"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Kernos - Revue internationale et pluridisciplinaire de religion grecque antique", 
+    "url": "http://kernos.revues.org/", 
+    "zotero_id": null
+}

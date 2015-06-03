@@ -1,0 +1,49 @@
+{
+    "description": "Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res n\u00b018-19 (2012-2013) Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res n\u00b017 (2011) Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res n\u00b016 (2010) Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res n\u00b015 (2009) Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res n\u00b014 (2008)", 
+    "domain": "www.ephe.sorbonne.fr", 
+    "history": [
+        "2015-06-03T04:59:23.054420: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/10/open-access-journal-lettre-du.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Libya", 
+        "antiquity", 
+        "epigraphy", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2172646963823304744", 
+            "resource_date": "2013-10-28T09:51:02.137-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:23.055022"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-lettre-du.html", 
+            "resource_date": "2013-10-28T09:51:02.137-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:23.055031"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res", 
+    "url": "http://www.ephe.sorbonne.fr/en/research/repertoire-des-inscriptions-libyco-berberes.html", 
+    "zotero_id": null
+}

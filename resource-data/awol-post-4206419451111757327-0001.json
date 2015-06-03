@@ -1,0 +1,44 @@
+{
+    "description": "201182201081200980200879200778200677200276200175 (1)75 (2)200074199973199772199570711992691991681989-199066-67198865198764198663198561-62198459-60198153-54198051-52197949-501975-197639-40", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-03T04:59:32.047252: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4206419451111757327", 
+            "resource_date": "2013-09-30T11:09:09.925-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:32.048447"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html", 
+            "resource_date": "2013-09-30T11:09:09.925-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:32.048463"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Caesaraugusta", 
+    "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=255", 
+    "zotero_id": null
+}

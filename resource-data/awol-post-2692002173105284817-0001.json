@@ -1,0 +1,49 @@
+{
+    "description": "Das G\u00f6ttinger Forum f\u00fcr Altertumswissenschaft (GFA) macht es sich zur Aufgabe, neueste Forschungsergebnisse auf schnellstem Wege der wissenschaftlichen \u00d6ffentlichkeit vorzustellen. Es publiziert Aufs\u00e4tze und Rezensionen zu Themen aus dem gesamten Bereich der griechisch-r\u00f6mischen Antike und ihren Randgebieten. Es ist insbesondere den Gegenst\u00e4nden der Klassischen Philologie, der Alten Geschichte und der Arch\u00e4ologie gewidmet. Publikationen von fach\u00fcbergreifendem Interesse sind sehr willkommen.", 
+    "domain": "gfa.gbv.de", 
+    "history": [
+        "2015-06-03T04:59:25.380752: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal-gottinger-forum-fur.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "archaeology", 
+        "forum", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2692002173105284817", 
+            "resource_date": "2013-12-22T08:41:03.446-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:25.381353"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-gottinger-forum-fur.html", 
+            "resource_date": "2013-12-22T08:41:03.446-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:25.381362"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "G\u00f6ttinger Forum f\u00fcr Altertumswissenschaft", 
+    "url": "http://gfa.gbv.de/z/", 
+    "zotero_id": null
+}

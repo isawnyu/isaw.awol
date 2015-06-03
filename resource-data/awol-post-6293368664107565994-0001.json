@@ -1,0 +1,46 @@
+{
+    "description": "Megiddo Tombs: . P. L. O. Guy. Originally published in 1938.", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-03T04:59:40.943840: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/newly-online-from-oriental-institutes_15.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Oriental Institute", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999999930397527
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6293368664107565994", 
+            "resource_date": "2011-04-08T15:23:58.570-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:40.944410"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/newly-online-from-oriental-institutes_15.html", 
+            "resource_date": "2011-04-08T15:23:58.570-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:40.944417"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Three More Megiddo volumes", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip33.html", 
+    "zotero_id": null
+}

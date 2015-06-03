@@ -1,0 +1,47 @@
+{
+    "description": "Journal table of contents201029200928200827(*)200726(*)200625(*)200524(*)200423(*)200322(*)200221(*)200120(*)200019(*)199918(*)199817(*)199716(*)199614-15(*)19762", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-03T04:59:37.686608: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999997797361319
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5594714661926615041", 
+            "resource_date": "2011-12-23T08:01:20.974-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:37.687185"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html", 
+            "resource_date": "2011-12-23T08:01:20.974-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:37.687194"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open Access Journal : Gallaecia", 
+    "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=611", 
+    "zotero_id": null
+}

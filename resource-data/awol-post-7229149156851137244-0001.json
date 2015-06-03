@@ -1,0 +1,56 @@
+{
+    "description": "ERAS is an on-line journal edited and produced by postgraduate students from the School of Philosophical Historical and International Studies at Monash University, Melbourne, Australia.", 
+    "domain": "arts.monash.edu.au", 
+    "history": [
+        "2015-06-03T04:59:45.136307: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/09/open-access-journal-eras-journal.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Australia", 
+        "Judaisim", 
+        "ancient history", 
+        "antiquity", 
+        "archaeology", 
+        "forum", 
+        "history", 
+        "journal", 
+        "open access", 
+        "philosophy", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7229149156851137244", 
+            "resource_date": "2012-09-07T16:28:53.499-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:45.136910"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-journal-eras-journal.html", 
+            "resource_date": "2012-09-07T16:28:53.499-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:45.136919"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ERAS Journal", 
+    "url": "http://arts.monash.edu.au/publications/eras/", 
+    "zotero_id": null
+}

@@ -1,0 +1,63 @@
+{
+    "description": "SCHWEICH LECTURES ON BIBLICAL ARCHAEOLOGY", 
+    "domain": "www.britac.ac.uk", 
+    "history": [
+        "2015-06-03T04:59:18.306832: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/audio-lemaire-levantine-epigraphy-and.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Aramaic", 
+        "Babylon", 
+        "Bible", 
+        "Cyprus", 
+        "Greece", 
+        "Jerusalem", 
+        "Levant", 
+        "Mediterranean", 
+        "Phoenician", 
+        "archaeology", 
+        "bible", 
+        "book", 
+        "data", 
+        "epigraphy", 
+        "history", 
+        "journal", 
+        "numismatics", 
+        "religion", 
+        "semitics"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999998488
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1158773916355440663", 
+            "resource_date": "2013-07-27T07:27:04.040-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:18.307379"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/audio-lemaire-levantine-epigraphy-and.html", 
+            "resource_date": "2013-07-27T07:27:04.040-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:18.307387"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Lemaire, Levantine Epigraphy and History in the Achaemenid Period", 
+    "url": "http://www.britac.ac.uk/events/2013/levantine_epigraphy_and_history.cfm", 
+    "zotero_id": null
+}

@@ -1,0 +1,52 @@
+{
+    "description": "These pages contain photos and drawings of sub-fossil charred plant remains from archaeological sites in the Fertile Crescent (compiled by George Willcox, Sandra Fornite & Linda Herveux in conjunction a European Research Project n\u00baICA3-CT-2002-10022 and Arch\u00e9orient (UMR 5133) of the CNRS. The study of the birth of farming and vegetation history in the Near East at the end of the Pleistocene and the beginning of the Holocene relies on accurate identifications of charred plant remains. We present here photos and drawings of charred sub-fossil plant remains from sites including Jerf el Ahmar, Tell Qaramel and Dja'de; (in some cases we include modern equivalents, numbers given after the site names refer to sample numbers).\u00a0Important points concerning the identifications1) Exact species identification in many cases is not possible due to a) morphological variability, b) species diversity, c) the effect of charring and d) perhaps evolutionary changes. 2) Often the testa is missing from seeds so that 3) identification may rely on the internal seed structure. 4) Hard thick-coated seeds survive preferentially and are over represented compared to fragile seeds.\u00a0We have included a few drawings taken from publications of W. van Zeist and G. Hillman; bibliographical references are given on the appropriate pages.", 
+    "domain": "g.willcox.pagesperso-orange.fr", 
+    "history": [
+        "2015-06-03T04:59:51.567596: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/database-photos-of-charred-plant.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Near East", 
+        "agriculture", 
+        "archaeobotany", 
+        "archaeological site", 
+        "archaeology", 
+        "bibliography", 
+        "history", 
+        "project"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8724221854783774425", 
+            "resource_date": "2012-12-07T08:52:22.699-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:51.568178"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/database-photos-of-charred-plant.html", 
+            "resource_date": "2012-12-07T08:52:22.699-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:51.568186"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Photos of charred plant remains from early agriculture sites in the Near East", 
+    "url": "http://g.willcox.pagesperso-orange.fr/archaeobotanical%20images/index1.htm", 
+    "zotero_id": null
+}

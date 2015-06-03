@@ -1,0 +1,48 @@
+{
+    "description": "Release Content: Vols. 1-12 (1994-2005) Moving Wall: 3 years Publisher: Classical Association of Ireland ISSN: 0791-9417", 
+    "domain": "www.jstor.org", 
+    "history": [
+        "2015-06-03T04:59:25.587332: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Ireland", 
+        "JSTOR", 
+        "antiquity", 
+        "classics"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999999951
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2756486521717468641", 
+            "resource_date": "2009-11-23T12:19:45.104-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:25.588050"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html", 
+            "resource_date": "2009-11-23T12:19:45.104-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:25.588058"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Classics Ireland", 
+    "url": "http://www.jstor.org/action/showPublication?journalCode=classicsireland", 
+    "zotero_id": null
+}

@@ -1,0 +1,52 @@
+{
+    "description": "The British School at Athens is an educational charity founded in 1886. It now forms part of the British Academy's network of Sponsored Institutes and Societies (BASIS) which sustains and supports British research overseas. The School exists to promote research of international excellence in all disciplines pertaining to Greek lands, from fine art to archaeometry and in all periods to modern times.", 
+    "domain": "www.bsa.ac.uk", 
+    "history": [
+        "2015-06-03T04:59:43.275391: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/opern-access-annual-report-british.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Athens", 
+        "Greek", 
+        "annual report", 
+        "antiquity", 
+        "art", 
+        "journal", 
+        "open access", 
+        "report"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6754506920629089811", 
+            "resource_date": "2012-11-16T21:41:09.256-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:43.275942"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/opern-access-annual-report-british.html", 
+            "resource_date": "2012-11-16T21:41:09.256-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:43.275950"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The British School at Athens", 
+    "url": "http://www.bsa.ac.uk/pages/content.php?cat_id=11", 
+    "zotero_id": null
+}

@@ -1,0 +1,55 @@
+{
+    "description": "Online Lead Seals CatalogueThe site of the ongoing project to catalogue the 17,000 Byzantine seals in the Dumbarton Oaks Collection.Resources for Syriac StudiesAn annotated collection of free and open source books, journals, and more related to the study of Syriac.Bibliography on Gender in ByzantiumThis resource started out as a bibliography on women in Byzantium, begun by Thalia Gouma-Peterson and maintained by Alice-Mary Talbot. Work on women\u2019s history has recently been supplemented by studies on eunuchs, and a concern for masculinity, which together enable work on the Byzantine gender system.Hagiography DatabaseTranslations of Byzantine Saints' LivesGraduate Programs in North AmericaDissertations in North America", 
+    "domain": "www.doaks.org", 
+    "history": [
+        "2015-06-03T04:59:42.355818: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/04/dumbarton-oaks-resources-for-byzantine.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Byzantium", 
+        "Dumbarton Oaks", 
+        "Syriac", 
+        "bibliography", 
+        "catalogue", 
+        "gender", 
+        "history", 
+        "imagery", 
+        "project", 
+        "seals", 
+        "women"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6585175168383285288", 
+            "resource_date": "2013-05-13T12:50:46.035-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:42.356366"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/dumbarton-oaks-resources-for-byzantine.html", 
+            "resource_date": "2013-05-13T12:50:46.035-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:42.356373"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Dumbarton Oaks Resources for Byzantine Studies", 
+    "url": "http://www.doaks.org/research/byzantine/resources", 
+    "zotero_id": null
+}

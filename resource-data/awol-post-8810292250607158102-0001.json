@@ -1,0 +1,49 @@
+{
+    "description": "Each year thousands of students and volunteers go into the field to experience an excavation firsthand and the Archaeological Fieldwork Opportunities Bulletin (AFOB) helps them find a project. AFOB is one of the largest fieldwork resources in the world, featuring hundreds of listings for archaeological projects around the globe. The listings are continuously updated throughout the year and provide full details, including in-depth project description, project size, age requirements, academic credit availability, accommodation information, bibliographies, and more.", 
+    "domain": "www.archaeological.org", 
+    "history": [
+        "2015-06-03T04:59:51.805027: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/open-access-journal-archaeological.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "open access", 
+        "project"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8810292250607158102", 
+            "resource_date": "2011-07-06T11:42:00.220-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:51.805631"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-archaeological.html", 
+            "resource_date": "2011-07-06T11:42:00.220-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:51.805639"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Archaeological Fieldwork Opportunities Bulletin", 
+    "url": "http://www.archaeological.org/fieldwork/afob", 
+    "zotero_id": null
+}

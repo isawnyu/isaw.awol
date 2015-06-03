@@ -1,0 +1,51 @@
+{
+    "description": "Portugal Romano: Arqueologia Romana em Portugal: See the full List of Open Access Journals in Ancient Studies", 
+    "domain": "www.portugalromano.com", 
+    "history": [
+        "2015-06-03T04:59:20.062472: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/new-open-access-journal-portugal-romano.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Portugal", 
+        "Portuguese", 
+        "Roman", 
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999970548
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1553571120802260442", 
+            "resource_date": "2012-05-27T10:52:21.915-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:20.063098"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/new-open-access-journal-portugal-romano.html", 
+            "resource_date": "2012-05-27T10:52:21.915-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:20.063106"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Portugal Romano", 
+    "url": "http://www.portugalromano.com/revista/", 
+    "zotero_id": null
+}

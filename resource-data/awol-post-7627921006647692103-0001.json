@@ -1,0 +1,51 @@
+{
+    "description": "Mail-list for Phoenician/Punic research in the UK", 
+    "domain": "www.jiscmail.ac.uk", 
+    "history": [
+        "2015-06-03T04:59:46.717306: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/phoenicianpunic-mailing-list.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Phoenician", 
+        "Punic", 
+        "UK", 
+        "archaeology", 
+        "education", 
+        "history", 
+        "mailing list"
+    ], 
+    "language": [
+        "en", 
+        0.999999999303669
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7627921006647692103", 
+            "resource_date": "2013-01-13T19:04:48.796-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:46.717886"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/phoenicianpunic-mailing-list.html", 
+            "resource_date": "2013-01-13T19:04:48.796-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:46.717894"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Phoenician/Punic Mailing List", 
+    "url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=PUNIC-UK", 
+    "zotero_id": null
+}

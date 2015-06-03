@@ -1,0 +1,75 @@
+{
+    "description": "Established in 2001 to promote marine research and exploration throughout the world, ProMare is a non-profit corporation and public charity, 501(c)(3).Our team of experienced archaeologists and marine professionals execute a variety of research projects independently and in concert with academic, corporate, public, and governmental organizations and agencies that are designed to advance man\u2019s knowledge of history and science.", 
+    "domain": "www.promare.org", 
+    "history": [
+        "2015-06-03T04:59:20.764919: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/promare-promoting-marine-research-and.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AIA", 
+        "AJA", 
+        "Athens", 
+        "Catalan", 
+        "Etruscans", 
+        "Gaul", 
+        "Greece", 
+        "Greek", 
+        "Hesperia", 
+        "Isis", 
+        "Mediterranean", 
+        "Roman", 
+        "Sardinia", 
+        "amphorae", 
+        "antiquity", 
+        "archaeology", 
+        "bible", 
+        "bibliography", 
+        "book", 
+        "ceramics", 
+        "classics", 
+        "history", 
+        "journal", 
+        "monograph", 
+        "nautical archaeology", 
+        "newsletter", 
+        "open access", 
+        "philology", 
+        "pottery", 
+        "religion", 
+        "trade"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1689836197334675383", 
+            "resource_date": "2013-02-28T10:41:42.105-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:20.765508"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/promare-promoting-marine-research-and.html", 
+            "resource_date": "2013-02-28T10:41:42.105-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:20.765516"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "PROMARE: Promoting Marine Research and Exploration", 
+    "url": "http://www.promare.org/", 
+    "zotero_id": null
+}

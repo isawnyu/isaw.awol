@@ -1,0 +1,47 @@
+{
+    "description": "Volumes Period of publication Title Volume 1 1879 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel Volume 2 1880 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel Volume 3 1881 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel Volume 4 1883 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel Volume 5 1884 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel Volume 6 1885 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel Volume 7 1886 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel Volume 8 1887 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel Volume 9 1888 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel Volume 10 1889 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel Volume 11 1890 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel Volume 12 1891 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel Volume 13 1892 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel Volume 14 1893 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel Volume 15 1894 L'Afrique explor\u00e9e et civilis\u00e9e : journal mensuel", 
+    "domain": "retro.seals.ch", 
+    "history": [
+        "2015-06-03T04:59:52.937890: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/05/open-access-journal-lafrique-exploree.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-905665605500052221", 
+            "resource_date": "2011-05-27T12:59:12.126-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:52.938520"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-lafrique-exploree.html", 
+            "resource_date": "2011-05-27T12:59:12.126-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:52.938528"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "L'Afrique explor\u00e9e et civilis\u00e9e", 
+    "url": "http://retro.seals.ch/digbib/vollist?UID=aec-001", 
+    "zotero_id": null
+}

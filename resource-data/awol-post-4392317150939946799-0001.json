@@ -1,0 +1,46 @@
+{
+    "description": "Clues for new medicines are hidden in old books reporting centuries of therapeutic experiences and practice. We trace these documents worldwide, decipher and interpret their texts, and repurpose their information for new scientific research.", 
+    "domain": "medicaltraditions.org", 
+    "history": [
+        "2015-06-03T04:59:32.852553: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/05/emerging-online-resources-institute-for.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "book", 
+        "preservation"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4392317150939946799", 
+            "resource_date": "2012-08-01T11:49:55.136-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:32.853105"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/emerging-online-resources-institute-for.html", 
+            "resource_date": "2012-08-01T11:49:55.136-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:32.853113"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Institute for the Preservation of Medical Traditions", 
+    "url": "http://medicaltraditions.org/", 
+    "zotero_id": null
+}

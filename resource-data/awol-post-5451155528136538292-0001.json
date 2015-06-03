@@ -1,0 +1,60 @@
+{
+    "description": "La rivista \u00e8 quadrimestrale e accoglie articoli e studi su tutti gli argomenti che costituiscono materia d\u2019insegnamento della Facolt\u00e0 di Lettere e Filosofia.", 
+    "domain": "www.ledonline.it", 
+    "history": [
+        "2015-06-03T04:59:37.184058: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/07/newly-open-accesss-journal-acme.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "DAI", 
+        "Greek", 
+        "Italy", 
+        "Latin", 
+        "Persia", 
+        "Portuguese", 
+        "Roman", 
+        "antiquity", 
+        "culture", 
+        "history", 
+        "journal", 
+        "literature", 
+        "open access", 
+        "series", 
+        "video"
+    ], 
+    "language": [
+        "it", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5451155528136538292", 
+            "resource_date": "2013-06-03T16:06:12.324-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:37.184656"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/newly-open-accesss-journal-acme.html", 
+            "resource_date": "2013-06-03T16:06:12.324-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:37.184665"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ACME", 
+    "url": "http://www.ledonline.it/acme/index.html", 
+    "zotero_id": null
+}

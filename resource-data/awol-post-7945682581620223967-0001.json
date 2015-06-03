@@ -1,0 +1,49 @@
+{
+    "description": "L'Antiquit\u00e9 Classique est une revue annuelle, de renomm\u00e9e internationale, sp\u00e9cialis\u00e9e dans le domaine de l'Antiquit\u00e9 grecque et romaine (de la p\u00e9riode pr\u00e9hell\u00e9nique jusqu'\u00e0 l'Antiquit\u00e9 tardive ou aux aspects de la Renaissance li\u00e9s aux \u00e9tudes antiques). Soutenue par la Fondation universitaire de Belgique et le Fonds de la Recherche scientifique (FNRS), la revue publie dans les langues usuelles de la recherche (anglais, fran\u00e7ais, allemand, italien, espagnol\u2026) des contributions originales, soumises pr\u00e9alablement \u00e0 l'avis d'un Comit\u00e9 de lecture (avec experts internationaux).", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T04:59:48.167356: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Renaissance", 
+        "antiquity", 
+        "classics", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7945682581620223967", 
+            "resource_date": "2013-12-29T07:35:34.289-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:48.167958"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html", 
+            "resource_date": "2013-12-29T07:35:34.289-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:48.167967"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "L'Antiquit\u00e9 Classique", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/revue/antiq", 
+    "zotero_id": null
+}

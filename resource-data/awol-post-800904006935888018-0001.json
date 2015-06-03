@@ -1,0 +1,59 @@
+{
+    "description": "Vol. 8, 2013", 
+    "domain": "www.cefas.com.ye", 
+    "history": [
+        "2015-06-03T04:59:48.472713: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/open-access-journak-raydan-journal-of.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Arabia", 
+        "Christianity", 
+        "South Arabia", 
+        "Yemen", 
+        "antiquities", 
+        "antiquity", 
+        "archaeology", 
+        "art", 
+        "culture", 
+        "epigraphy", 
+        "history", 
+        "irrigation", 
+        "journal", 
+        "open access", 
+        "prehistory"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999999458
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-800904006935888018", 
+            "resource_date": "2013-07-10T13:33:41.745-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:48.473273"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journak-raydan-journal-of.html", 
+            "resource_date": "2013-07-10T13:33:41.745-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:48.473280"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Rayda\u0304n: journal of ancient Yemeni antiquities and epigraphy", 
+    "url": "http://www.cefas.com.ye/spip.php?article520", 
+    "zotero_id": null
+}

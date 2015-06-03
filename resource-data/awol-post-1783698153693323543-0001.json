@@ -1,0 +1,49 @@
+{
+    "description": "The Forum for Classics, Libraries, and Scholarly Communication (FCLSC)\u00a0\u2013 also known as the Classics Librarians\u2019 Forum \u2014 brings together librarians and scholars interested in classics studies, in order to promote timely exchange of information and ideas. Members also collaborate on projects of mutual concern. The impetus for the forum grew out of meetings at Princeton University and\u00a0the Center for Hellenic Studies in 2004. As an officially affiliated group of the American Philological Association since 2005, the Forum aims to support initiatives of the APA relating to libraries and scholarly communication.", 
+    "domain": "www.classicslibrarians.org", 
+    "history": [
+        "2015-06-03T04:59:21.180571: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/08/forum-for-classics-libraries-and.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "APA", 
+        "SCS", 
+        "classics", 
+        "forum", 
+        "libraries"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1783698153693323543", 
+            "resource_date": "2013-11-19T17:29:52.910-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:21.181130"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/08/forum-for-classics-libraries-and.html", 
+            "resource_date": "2013-11-19T17:29:52.910-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:21.181138"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Forum for Classics, Libraries, and Scholarly Communication", 
+    "url": "http://www.classicslibrarians.org/", 
+    "zotero_id": null
+}

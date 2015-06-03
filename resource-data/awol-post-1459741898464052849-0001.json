@@ -1,0 +1,66 @@
+{
+    "description": "OAPEN (Open Access Publishing in European Networks) is a collaborative initiative to develop and implement a sustainable Open Access publication model for academic books in the Humanities and Social Sciences. The OAPEN Library aims to improve the visibility and usability of high quality academic research by aggregating peer reviewed Open Access publications from across Europe.", 
+    "domain": "www.oapen.org", 
+    "history": [
+        "2015-06-03T04:59:19.377702: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-library-oapen.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Cyprus", 
+        "Italy", 
+        "Mycenean", 
+        "Roman", 
+        "Roman Empire", 
+        "anthropology", 
+        "antiquity", 
+        "archaeology", 
+        "book", 
+        "ceramics", 
+        "collaboration", 
+        "digital library", 
+        "empires", 
+        "historical Jesus", 
+        "history", 
+        "literature", 
+        "maps", 
+        "open access", 
+        "pottery", 
+        "prehistory", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1459741898464052849", 
+            "resource_date": "2012-08-08T17:22:00.656-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:19.378463"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-library-oapen.html", 
+            "resource_date": "2012-08-08T17:22:00.656-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:19.378473"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "OAPEN", 
+    "url": "http://www.oapen.org/", 
+    "zotero_id": null
+}

@@ -1,0 +1,60 @@
+{
+    "description": "Greek and Roman marble statues were not set up in blazing white. They were colourful. We are now on the track of the colours that remain on sculptures in our collection.", 
+    "domain": "www.glyptoteket.com", 
+    "history": [
+        "2015-06-03T04:59:23.039361: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/06/tracking-colour-polychromy-of-greek-and.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Greece", 
+        "Greek", 
+        "Roman", 
+        "Rome", 
+        "antiquity", 
+        "bronze", 
+        "collaboration", 
+        "conservation", 
+        "document", 
+        "empires", 
+        "history", 
+        "museums", 
+        "natural history", 
+        "project", 
+        "report", 
+        "sculpture"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2169898421255358865", 
+            "resource_date": "2013-06-02T17:36:39.818-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:23.039976"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/06/tracking-colour-polychromy-of-greek-and.html", 
+            "resource_date": "2013-06-02T17:36:39.818-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:23.039984"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Tracking Colour - the polychromy of Greek and Roman sculpture", 
+    "url": "http://www.glyptoteket.com/explore/research/tracking-colour", 
+    "zotero_id": null
+}

@@ -1,0 +1,51 @@
+{
+    "description": "The Princeton/Stanford Working Papers in Classics is a collaborative project of the Classics Department of Princeton University and the Classics Department of Stanford University. Its purpose is to make the results of current research undertaken by members of Princeton and Stanford Universities in the field of classics available in advance of final publication. The Papers By Author A-L By Author M-Z By Date By Department By Subject", 
+    "domain": "www.princeton.edu", 
+    "history": [
+        "2015-06-03T04:59:48.716955: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-princetonstanford.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "antiquity", 
+        "classics", 
+        "collaboration", 
+        "journal", 
+        "open access", 
+        "project"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8071178566183267825", 
+            "resource_date": "2012-07-08T11:23:11.299-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:48.717571"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-princetonstanford.html", 
+            "resource_date": "2012-07-08T11:23:11.299-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:48.717579"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Princeton/Stanford Working Papers in Classics", 
+    "url": "http://www.princeton.edu/%7Epswpc/", 
+    "zotero_id": null
+}

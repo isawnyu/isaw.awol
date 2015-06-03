@@ -1,0 +1,47 @@
+{
+    "description": "L'association AGER a \u00e9t\u00e9 cr\u00e9\u00e9e au mois de f\u00e9vrier 1991. Son objectif est de promouvoir la recherche dans le domaine de l'arch\u00e9ologie et de l'histoire rurale de la Gaule romaine, d'en valoriser l'image et de participer \u00e0 une relance des recherches en la mati\u00e8re.\u00a0 Dans ce but elle organise un Colloque tous les deux ans et diffuse chaque ann\u00e9e un Bulletin de Liaison, de 25 \u00e0 35 pages, contenant diverses informations et actualit\u00e9s des recherches.", 
+    "domain": "ager2.voila.net", 
+    "history": [
+        "2015-06-03T04:59:18.492659: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/open-access-journal-ager-bulletin-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1198401906736570567", 
+            "resource_date": "2012-04-14T07:59:04.314-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:18.493267"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-ager-bulletin-de.html", 
+            "resource_date": "2012-04-14T07:59:04.314-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:18.493276"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "AGER, Bulletin de liaison (association d'\u00e9tude du monde rural gallo-romain)", 
+    "url": "http://ager2.voila.net/Bulletin.html", 
+    "zotero_id": null
+}

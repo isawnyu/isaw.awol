@@ -1,0 +1,50 @@
+{
+    "description": "El Bolet\u00edn del Museo Chileno de Arte Precolombino es una revista bianual fundada en marzo de 1985. Su objetivo es publicar art\u00edculos, ensayos e informes de investigaci\u00f3n en espa\u00f1ol o ingl\u00e9s sobre arte y simbolismo aborigen americano, especialmente pre-europeo.Actualmente es la \u00fanica publicaci\u00f3n en Latinoam\u00e9rica especializada en estos temas.The only periodical in Latin America specialized in these subjects", 
+    "domain": "www.precolombino.cl", 
+    "history": [
+        "2015-06-03T04:59:20.964313: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-journal-boletin-del-museo.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Latin", 
+        "antiquity", 
+        "art", 
+        "journal", 
+        "museums", 
+        "open access"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-171996821659180642", 
+            "resource_date": "2012-05-15T09:27:00.123-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:20.964861"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-boletin-del-museo.html", 
+            "resource_date": "2012-05-15T09:27:00.123-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:20.964868"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bolet\u00edn del Museo Chileno de Arte Precolombino", 
+    "url": "http://www.precolombino.cl/es/boletines/index.php", 
+    "zotero_id": null
+}

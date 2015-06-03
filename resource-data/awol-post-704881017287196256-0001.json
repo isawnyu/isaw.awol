@@ -1,0 +1,52 @@
+{
+    "description": "Welcome to www.bensira.org, the website devoted to the ancient and medieval Hebrew manuscripts of the book of Ben Sira. These documents, which are housed in Cambridge, Oxford, London, Paris, New York, Los Angeles, and Jerusalem, are here presented in a single platform, to allow the scholar and the interested layperson to view these precious texts. To learn more about the remarkable recovery of the once-lost Hebrew original of Ben Sira, and its presentation at our website, click on 'Introduction'. To proceed directly to the images of the disparate manuscripts, click on 'View the Manuscripts'. We invite you to explore, peruse the website, and learn more about the book of Ben Sira, its contents, and its textual history.", 
+    "domain": "www.bensira.org", 
+    "history": [
+        "2015-06-03T04:59:44.197607: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/the-book-of-ben-sira.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Hebrew", 
+        "Hebrew manuscripts", 
+        "Middle Ages", 
+        "antiquity", 
+        "book", 
+        "imagery", 
+        "manuscripts", 
+        "website"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-704881017287196256", 
+            "resource_date": "2013-12-09T20:08:56.428-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:44.198156"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/the-book-of-ben-sira.html", 
+            "resource_date": "2013-12-09T20:08:56.428-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:44.198164"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Book of Ben Sira", 
+    "url": "http://www.bensira.org/", 
+    "zotero_id": null
+}

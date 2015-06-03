@@ -1,0 +1,55 @@
+{
+    "description": "MINOS. REVISTA DE FILOLOG\u00cdA EGEA es una revista de Filolog\u00eda fundada en 1951 y cuyo tema es la filolog\u00eda egea. Actualmente, sus responsables son JOS\u00c9 LUIS MELENA Y THOMAS PALAIMA, profesores respectivamente de las universidades del Pa\u00eds Vasco y Austin (Texas, EEUU). La revista tiene una periodicidad anual (1 volumen al a\u00f1o) y publica los textos fundamentalmente en ingl\u00e9s. Espor\u00e1dicamente publica una serie paralela denominada SUPLEMENTOS A MINOS, en la que han visto la luz hasta el momento 17 t\u00edtulos monogr\u00e1ficos", 
+    "domain": "campus.usal.es", 
+    "history": [
+        "2015-06-03T04:59:34.771471: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-journal-minos.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Aegean", 
+        "Crete", 
+        "Greece", 
+        "Spain", 
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "open access", 
+        "philology", 
+        "series"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4879755691996232435", 
+            "resource_date": "2013-05-22T10:41:36.411-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:34.772088"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-minos.html", 
+            "resource_date": "2013-05-22T10:41:36.411-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:34.772097"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Minos: Revista de Filolog\u00eda Egea", 
+    "url": "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/index", 
+    "zotero_id": null
+}

@@ -1,0 +1,52 @@
+{
+    "description": "This online journal contains papers selected from submissions by students from the University of British Columbia. The editors of the paper are from the Classical, Near Eastern and Religious Studies Students Association. All the articles will therefore be related to subjects such as Religion, Greece, Rome, Egypt, the Near East, Ancient Languages, Archaeology or Ancient History.", 
+    "domain": "cnersundergraduatejournal.wordpress.com", 
+    "history": [
+        "2015-06-03T04:59:24.609794: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/06/open-access-journal-agora-undergraduate.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Near East", 
+        "ancient history", 
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "open access", 
+        "religion", 
+        "student journal"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2545589220610584728", 
+            "resource_date": "2013-10-06T09:10:14.575-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:24.610421"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/06/open-access-journal-agora-undergraduate.html", 
+            "resource_date": "2013-10-06T09:10:14.575-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:24.610430"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "AGORA: The Undergraduate Journal of UBC Classical, Near Eastern and Religious Studies", 
+    "url": "http://cnersundergraduatejournal.wordpress.com/", 
+    "zotero_id": null
+}

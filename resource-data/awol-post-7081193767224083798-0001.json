@@ -1,0 +1,51 @@
+{
+    "description": "2010232009222008212006-200719-202004-200517-18200316200215200114200013199912199811199710199691995819947199361992519914199031989219881", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-03T04:59:44.456977: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/espacio-tiempo-y-forma.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Spain", 
+        "antiquity", 
+        "history", 
+        "journal", 
+        "open access", 
+        "series"
+    ], 
+    "language": [
+        "es", 
+        0.9999975482822605
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7081193767224083798", 
+            "resource_date": "2012-06-17T08:11:56.192-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:44.457621"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/espacio-tiempo-y-forma.html", 
+            "resource_date": "2012-06-17T08:11:56.192-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:44.457630"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Espacio, tiempo y forma. Serie II, Historia antigua", 
+    "url": "http://dialnet.unirioja.es/servlet/revista?codigo=515", 
+    "zotero_id": null
+}

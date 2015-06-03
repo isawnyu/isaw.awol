@@ -1,0 +1,75 @@
+{
+    "description": "The iDAI.bookbrowser integrates documents in the object structure of Arachne, providing direct links between \u201creal world\u201d objects and their textual descriptions. It also helps to overcome the isolated presentation of books and contextualises them against the background of their cultural environments.\u00a0\u00a0The iDAI.bookbrowser's most important components are digitized prints from the 16th to 19th centuries, currently about 2000. Every title is biographically referenced in the ZENON DAI and linked to its record in the iDAI.bookbrowser. These books belong to the holdings of the Rome Department of the German Archaeological Institute (DAI), the Cologne Digital Archeology Laboratory (CoDArchLab) at the Archaeological Institute of the University of Cologne, the Cologne University Library and to the Winckelmann-Institute at Stendal.\u00a0As another component thematically coherent convolutes are edited and contextualised. These include the photo album of baron Max von Oppenheim, a very valuable document for regional studies, or the handwritten inventory of the photograph collection of the Rome Department of the German Archaeological Institute.Additionally, the iDAI.Bookbrowser is linked with external web portals like the virtual library Propylaeum specialized in classical and ancient studies as well as the Central Register of Digitised Prints (zvdd). Thus, its contents cannot be retrieved only directly via Arachne and ZENON but can be also found and retrieved through different other web portals. In this way the iDAI.Bookbrowser's web presence is growing progressively. Furthermore, the iDAI.Bookbrowser supports the Metadata Encoding and Transmission Standard (METS) due to its OAI-interface. Its programming takes place at the Cologne Digital Archeology Laboratory. The Berlin head office of the German Archeological Institute as well as the Faculty of Arts and Humanities of the University of Cologne provide financing for this project.\u00a0ancient Middle East (4)\u00a0anthropology (30)\u00a0architecture (701)\u00a0epigraphy (188)\u00a0Etruscan culture (33)\u00a0history of art (45)\u00a0iconographic themes (48)\u00a0Italian and sicilian cultures (17)\u00a0jewelry (4)\u00a0law and administration (15)\u00a0Minoan-Mycenaean culture (0)\u00a0mosaic (15)\u00a0museums and collections (77)\u00a0numismatics (67)\u00a0painting (40)\u00a0peripheral cultures (3)\u00a0philosophy (3)\u00a0plastic art and sculpture (258)\u00a0portrait (23)\u00a0practice and institutions (229)\u00a0prehistory (17)\u00a0private and public life (6)\u00a0religion (38)\u00a0sarcophagi (25)\u00a0technology and material (24)\u00a0topography (787)\u00a0utensils (31)\u00a0vessels (52)", 
+    "domain": "arachne.uni-koeln.de", 
+    "history": [
+        "2015-06-03T04:59:18.079690: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/11/idaibookbrowser.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Arachne", 
+        "Berlin", 
+        "DAI", 
+        "Etruscans", 
+        "German", 
+        "Italian", 
+        "Middle East", 
+        "Rome", 
+        "Zenon", 
+        "anthropology", 
+        "antiquity", 
+        "archaeology", 
+        "architecture", 
+        "art", 
+        "book", 
+        "classics", 
+        "culture", 
+        "digital library", 
+        "document", 
+        "epigraphy", 
+        "history", 
+        "imagery", 
+        "law", 
+        "museums", 
+        "numismatics", 
+        "philosophy", 
+        "prehistory", 
+        "religion", 
+        "sculpture", 
+        "technology", 
+        "website"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1111922213181555620", 
+            "resource_date": "2013-11-29T07:57:14.931-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:18.080321"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/idaibookbrowser.html", 
+            "resource_date": "2013-11-29T07:57:14.931-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:18.080329"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "iDAI.bookbrowser", 
+    "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/188", 
+    "zotero_id": null
+}

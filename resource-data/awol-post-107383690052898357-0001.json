@@ -1,0 +1,50 @@
+{
+    "description": "Il capitale culturale (ISSN: 2039-2362) \u00e8 la rivista del Dipartimento di Beni Culturali dell\u2019Universit\u00e0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\u2019arte) unite dal comune obiettivo della implementazione di attivit\u00e0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.", 
+    "domain": "www.unimc.it", 
+    "history": [
+        "2015-06-03T04:59:17.898625: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/new-open-access-journal-il-capitale.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "cultural heritage", 
+        "culture", 
+        "history", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "it", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-107383690052898357", 
+            "resource_date": "2013-03-09T11:04:14.699-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:17.899156"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/new-open-access-journal-il-capitale.html", 
+            "resource_date": "2013-03-09T11:04:14.699-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:17.899163"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Il capitale culturale", 
+    "url": "http://www.unimc.it/riviste/index.php/cap-cult/index", 
+    "zotero_id": null
+}

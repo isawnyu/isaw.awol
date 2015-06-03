@@ -1,0 +1,49 @@
+{
+    "description": "La Newsletter Settimanale viene trasmessa il venerdi pomeriggio e contiene la sintesi delle informazioni salienti pubblicate sul sito. Per riceverla direttamente nella propria cassetta postale \u00e8 necessario compilare il modulo on-line di iscrizione.", 
+    "domain": "www.beniculturali.it", 
+    "history": [
+        "2015-06-03T04:59:43.304268: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open-access-journal-newsletter.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "antiquity", 
+        "journal", 
+        "newsletter", 
+        "open access"
+    ], 
+    "language": [
+        "it", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-675786681677650088", 
+            "resource_date": "2012-03-19T08:38:13.800-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:43.304852"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journal-newsletter.html", 
+            "resource_date": "2012-03-19T08:38:13.800-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:43.304859"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Newsletter Settimanale del Ministero per i Beni e le Attivit\u00e0 Culturali", 
+    "url": "http://draft.blogger.com/http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuServizio/Newsletter/index.html", 
+    "zotero_id": null
+}

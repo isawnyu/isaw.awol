@@ -1,0 +1,57 @@
+{
+    "description": "Please advise your readership that I have turned on the lexicon itself, which can be found at http://cal.huc.edu!\u00a0 There are also a few other tools that have been added or will be added shortly.A brief list of its advantages:The Advantages of the Online Comprehensive Aramaic Lexicon", 
+    "domain": "cal.huc.edu", 
+    "history": [
+        "2015-06-03T04:59:21.851524: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/news-from-comprehensive-aramaic-lexicon.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Aramaic", 
+        "Roman", 
+        "Syria", 
+        "Syriac", 
+        "classics", 
+        "data", 
+        "database", 
+        "dictionaries", 
+        "language", 
+        "lexicography", 
+        "lexicon", 
+        "semitics", 
+        "tools"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1919890343969498771", 
+            "resource_date": "2013-02-16T16:26:57.193-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:21.852088"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/news-from-comprehensive-aramaic-lexicon.html", 
+            "resource_date": "2013-02-16T16:26:57.193-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:21.852095"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "News from the Comprehensive Aramaic Lexicon", 
+    "url": "http://cal.huc.edu/", 
+    "zotero_id": null
+}

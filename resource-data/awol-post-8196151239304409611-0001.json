@@ -1,0 +1,43 @@
+{
+    "description": "SEDER ZERA\u2018IM (Seeds: 11 tractates)", 
+    "domain": "www.halakhah.com", 
+    "history": [
+        "2015-06-03T04:59:49.261456: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/online-soncino-babylonian-talmud.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Babylon", 
+        "manuscripts"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8196151239304409611", 
+            "resource_date": "2012-01-21T09:28:10.116-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:49.262039"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/online-soncino-babylonian-talmud.html", 
+            "resource_date": "2012-01-21T09:28:10.116-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:49.262047"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Online Soncino Babylonian Talmud Translation", 
+    "url": "http://www.halakhah.com/indexrst.html", 
+    "zotero_id": null
+}

@@ -1,0 +1,52 @@
+{
+    "description": "Ahuvia Kahane and Martin Mueller, editors Craig Berry and Bill Parod, technical editors", 
+    "domain": "digital.library.northwestern.edu", 
+    "history": [
+        "2015-06-03T04:59:49.968408: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/chicago-homer.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "German", 
+        "Greek", 
+        "Homer", 
+        "antiquity", 
+        "data", 
+        "database", 
+        "papyrology", 
+        "website"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999999722
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8312642218166771883", 
+            "resource_date": "2012-03-04T08:54:06.303-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:49.969026"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/chicago-homer.html", 
+            "resource_date": "2012-03-04T08:54:06.303-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:49.969034"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Chicago Homer", 
+    "url": "http://digital.library.northwestern.edu/homer/", 
+    "zotero_id": null
+}

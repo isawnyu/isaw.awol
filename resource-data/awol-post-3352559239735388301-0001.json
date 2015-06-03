@@ -1,0 +1,45 @@
+{
+    "description": "The Open Library of Humanities aims to provide a platform for Open Access publishing that is: Reputable and respected through rigorous peer review Sustainable Digitally preserved and safely archived in perpetuity Non-profit Open in both monetary and permission terms Non-discriminatory (APCs are waiverable) Technically innovative in response to the needs of scholars and librarians A solution to the serials crisis HomeAbout \u00bb Media \u00bb Get Involved \u00bb Committees", 
+    "domain": "www.openlibhums.org", 
+    "history": [
+        "2015-06-03T04:59:28.513967: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/under-development-open-library-of.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3352559239735388301", 
+            "resource_date": "2013-01-26T08:39:35.977-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:28.514586"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/under-development-open-library-of.html", 
+            "resource_date": "2013-01-26T08:39:35.977-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:28.514595"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open Library of Humanities (OLH)", 
+    "url": "http://www.openlibhums.org/", 
+    "zotero_id": null
+}

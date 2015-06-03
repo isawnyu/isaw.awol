@@ -1,0 +1,49 @@
+{
+    "description": "Textes des s\u00e9minaires organis\u00e9s par les th\u00e8mes transversaux de l'Unit\u00e9 de recherche Arch\u00e9ologies et Sciences de l'Antiquit\u00e9 (ArScAn) - UMR 7041.Direction de la publication :Anne-Marie Guimier-Sorbets, Philippe SoulierCoordination :Sophie M\u00e9ryLe Cahier des th\u00e8mes transversaux existe sous une forme imprim\u00e9e qui para\u00eet chaque ann\u00e9e (ISSN : 1953-5120) et sur Internet dans une base de donn\u00e9es regroupant l'ensemble des textes rassembl\u00e9s depuis la cr\u00e9ation des th\u00e8mes (ISSN : 1776-0798).", 
+    "domain": "www.mae.u-paris10.fr", 
+    "history": [
+        "2015-06-03T04:59:47.572691: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-journal-cahier-des-themes.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "data", 
+        "database", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7794699882819104756", 
+            "resource_date": "2010-01-21T13:51:15.975-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:47.573277"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-cahier-des-themes.html", 
+            "resource_date": "2010-01-21T13:51:15.975-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:47.573285"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Cahier des th\u00e8mes transversaux ArScAn", 
+    "url": "http://www.mae.u-paris10.fr/Cahiers/index.htm", 
+    "zotero_id": null
+}

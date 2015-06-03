@@ -1,0 +1,56 @@
+{
+    "description": "The Holy Land has been the subject of a relatively large number of maps, chiefly due to its religious importance. Some of the earliest maps reflected ancient traditions of mapping such as that of Ptolemy; others were meant to illustrate the Holy Scriptures. Some maps were printed separately; while others were published as part of atlases, itineraries and travel books. Owners who could afford the expense added coloring to their maps.", 
+    "domain": "www.jnul.huji.ac.il", 
+    "history": [
+        "2015-06-03T04:59:43.663293: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/08/holy-land-maps-from-eran-laor.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Bible", 
+        "Egypt", 
+        "Judaisim", 
+        "Latin", 
+        "New Testament", 
+        "Palestine", 
+        "antiquity", 
+        "atlas", 
+        "bible", 
+        "maps", 
+        "religion", 
+        "travel"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6868779384035102794", 
+            "resource_date": "2011-08-11T10:26:20.705-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:43.663831"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/holy-land-maps-from-eran-laor.html", 
+            "resource_date": "2011-08-11T10:26:20.705-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:43.663839"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Holy Land Maps from the Eran Laor Cartographic Collection", 
+    "url": "http://www.jnul.huji.ac.il/dl/maps/pal/html/", 
+    "zotero_id": null
+}

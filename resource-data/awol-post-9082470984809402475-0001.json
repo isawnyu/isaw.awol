@@ -1,0 +1,52 @@
+{
+    "description": "The first independent English language publication covering Egypt in general and especially Luxor. With views, news and reviews concerning all aspects of Egyptian life, Culture, people and history as an aid to tourists and ex-pats alike.", 
+    "domain": "luxortimesmagazine.blogspot.com", 
+    "history": [
+        "2015-06-03T04:59:53.032247: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-luxor-times.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "Luxor", 
+        "antiquity", 
+        "egyptology", 
+        "history", 
+        "journal", 
+        "language", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9082470984809402475", 
+            "resource_date": "2011-02-24T10:21:05.084-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:53.032792"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-luxor-times.html", 
+            "resource_date": "2011-02-24T10:21:05.084-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:53.032800"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Luxor Times", 
+    "url": "http://luxortimesmagazine.blogspot.com/", 
+    "zotero_id": null
+}

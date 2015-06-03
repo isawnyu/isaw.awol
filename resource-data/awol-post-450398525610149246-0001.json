@@ -1,0 +1,43 @@
+{
+    "description": "En una primera fase, y de manera paulatina, ir\u00e1n apareciendo los \u00edndices de referencias de los grupos de silabogramas en transliteraci\u00f3n (directo e inverso), as\u00ed como los de logogramas y el de las citas num\u00e9ricas contenidos en la documentaci\u00f3n escrita en lineal B.Sucesivamente se ir\u00e1n publicando por esta v\u00eda otros materiales relacionados con el DMic., as\u00ed como las noticias de inter\u00e9s que genere su realizaci\u00f3n. En un primer momento tenemos previsto hacer accesibles la lista de correspondencias griego alfab\u00e9tico-griego mic\u00e9nico, las \u00ablistas accesorias\u00bb al \u00edndice de logogramas y los borradores de lemas nuevos del DMic. :: Presentaci\u00f3n:: \u00cdndice directo:: \u00cdndice inverso:: \u00cdndice logogramas:: Realizaci\u00f3n", 
+    "domain": "bib.cervantesvirtual.com", 
+    "history": [
+        "2015-06-03T04:59:33.148876: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/diccionario-micenico-online.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-450398525610149246", 
+            "resource_date": "2012-01-26T06:24:45.440-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:33.150214"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/diccionario-micenico-online.html", 
+            "resource_date": "2012-01-26T06:24:45.440-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:33.150236"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Diccionario mic\u00e9nico Online", 
+    "url": "http://bib.cervantesvirtual.com/portal/diccionariomicenico/", 
+    "zotero_id": null
+}

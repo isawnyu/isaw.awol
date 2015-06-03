@@ -1,0 +1,52 @@
+{
+    "description": "The first issue of the Newsletter of the Directorate of the National Archive of Monuments is in preparation and will soon be available.", 
+    "domain": "nam.culture.gr", 
+    "history": [
+        "2015-06-03T04:59:38.313288: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/01/coming-soon-open-access-journal.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Greece", 
+        "antiquity", 
+        "archive", 
+        "journal", 
+        "journal issues", 
+        "monuments", 
+        "newsletter", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5705508485508372457", 
+            "resource_date": "2011-01-27T11:18:57.619-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:38.313891"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/01/coming-soon-open-access-journal.html", 
+            "resource_date": "2011-01-27T11:18:57.619-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:38.313899"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open Access Journal:  National Archive of Monuments Newsletter", 
+    "url": "http://nam.culture.gr/portal/page/portal/deam/newsletter", 
+    "zotero_id": null
+}

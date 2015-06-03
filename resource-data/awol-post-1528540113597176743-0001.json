@@ -1,0 +1,48 @@
+{
+    "description": "The Archimedes Palimpsest is a medieval parchment manuscript, now consisting of 174 parchment folios. While it contains no less than seven treatises by Archimedes, calling it the Archimedes Palimpsest is a little confusing. As it is now, the manuscript is a Byzantine prayerbook, written in Greek, and technically called a euchologion.", 
+    "domain": "www.digitalpalimpsest.org", 
+    "history": [
+        "2015-06-03T04:59:19.764510: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/07/archimedes-palimpsest-online.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Byzantium", 
+        "Middle Ages", 
+        "book", 
+        "manuscripts"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1528540113597176743", 
+            "resource_date": "2013-06-27T11:36:40.153-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:19.765079"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/archimedes-palimpsest-online.html", 
+            "resource_date": "2013-06-27T11:36:40.153-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:19.765086"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Archimedes Palimpsest Online", 
+    "url": "http://www.digitalpalimpsest.org/", 
+    "zotero_id": null
+}

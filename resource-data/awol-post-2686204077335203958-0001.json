@@ -1,0 +1,50 @@
+{
+    "description": "La BAN a pour objectif de pr\u00e9senter en ligne, aux chercheurs comme \u00e0 tous les amateurs d'objets historiques, des ouvrages et des manuscrits appartenant au patrimoine de la Franche-Comt\u00e9. Au cours de cette premi\u00e8re \u00e9tape, les documents propos\u00e9s proviennent de la Biblioth\u00e8que d'\u00e9tude et de conservation de Besan\u00e7on.La BAN est con\u00e7ue et aliment\u00e9e par l'Institut des Sciences et Techniques de l'Antiquit\u00e9 (ISTA) de l'Universit\u00e9 de Franche-Comt\u00e9, lequel d\u00e9veloppe des recherches, en lien avec les documents pr\u00e9sent\u00e9s dans la BAN, en particulier sur la r\u00e9ception et la transmission des savoirs antiques de la fin du Moyen \u00c2ge au XIXe si\u00e8cle. La BAN est soutenue par l'Universit\u00e9 de Franche-Comt\u00e9, le Conseil R\u00e9gional de Franche-Comt\u00e9, la ville de Besan\u00e7on et la MSHE Claude-Nicolas Ledoux R\u00e9ception de l'Antiquit\u00e9\u00a0Liste des volumes de ce fonds Il y a 5 volume(s) associ\u00e9(s) \u00e0 ce fonds Recueil de gravures d'apr\u00e8s des vases antiques Recueil de peintures antiques Sylv\u00e6, quas vario carminum... C. Plinii Secundi historiae mundi libri XXXVII Cosmographiae Introductio/Americi Vespucii navigationesBibliotheca Antiqua HispanicaListe des volumes de ce fonds Il y a 7 volume(s) associ\u00e9(s) \u00e0 ce fonds Silva de varia lecion... Historia General de Espa\u00f1a, tomo 2 Relacion del sitio y toma de la villa de Breda Cargos contra el Conde Duque y repuesta del mismo (Nicandro) Historia General de Espa\u00f1a, tomo I Historia imperial y cesarea De Natura Rerum", 
+    "domain": "ista-project.univ-fcomte.fr", 
+    "history": [
+        "2015-06-03T04:59:25.324504: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/bibliotheca-antiqua-numerica-linstitut.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "conservation", 
+        "digital library", 
+        "empires", 
+        "history", 
+        "library"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2686204077335203958", 
+            "resource_date": "2013-10-22T08:44:10.804-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:25.325518"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/bibliotheca-antiqua-numerica-linstitut.html", 
+            "resource_date": "2013-10-22T08:44:10.804-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:25.325531"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bibliotheca Antiqua Numerica (l'Institut des Sciences et Techniques de l'Antiquit\u00e9 (ISTA) de l'Universit\u00e9 de Franche-Comt\u00e9)", 
+    "url": "http://ista-project.univ-fcomte.fr/ban/", 
+    "zotero_id": null
+}

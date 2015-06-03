@@ -1,0 +1,49 @@
+{
+    "description": "Nr.Titel Autor Jahr Band 1Brandenburger Antike-Denkwerk : o tempora, o mores ; Relevanz und Relativierung von Wertbegriffen201342Brandenburger Antike-Denkwerk : kulturelle Identit\u00e4t \u2013 Alltagsleben ; Pr\u00e4gung kultureller Identit\u00e4t200933Antike in Potsdam-Sanssouci : F\u00fchrungsbl\u00e4tter ; Materialien f\u00fcr den Unterricht200724R\u00f6mische Geschichte und Geschichtsschreibung20051", 
+    "domain": "opus.kobv.de", 
+    "history": [
+        "2015-06-03T04:59:30.036764: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-potsdamer.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Latin", 
+        "Rome", 
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3720920126198325436", 
+            "resource_date": "2013-08-19T07:21:42.591-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:30.037338"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-potsdamer.html", 
+            "resource_date": "2013-08-19T07:21:42.591-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:30.037346"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Potsdamer Lateintage", 
+    "url": "http://opus.kobv.de/ubp/schriftenreihen_ebene2.php?sr_id=30&la=de", 
+    "zotero_id": null
+}

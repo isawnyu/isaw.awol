@@ -1,0 +1,49 @@
+{
+    "description": "La revista Cuadernos de Estudios Gallegos, publicada por el Instituto de Estudios Galegos Padre Sarmiento, aparece con regularidad desde el a\u00f1o 1944. Los contenidos de Cuadernos de Estudios Gallegos se estructuran en cinco secciones o \u00e1mbitos tem\u00e1ticos: Arqueolog\u00eda, Historia del Arte, Geograf\u00eda e Historia, Etnograf\u00eda y Lengua y Literatura. Se han publicado varios n\u00fameros extraordinarios en homenaje a distintas personalidades", 
+    "domain": "estudiosgallegos.revistas.csic.es", 
+    "history": [
+        "2015-06-03T04:59:32.665820: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/09/open-access-journal-cuadernos-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Spain", 
+        "antiquity", 
+        "history", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4344549495765124403", 
+            "resource_date": "2011-09-13T09:23:23.668-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:32.666395"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/09/open-access-journal-cuadernos-de.html", 
+            "resource_date": "2011-09-13T09:23:23.668-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:32.666403"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Cuadernos de Estudios Gallegos", 
+    "url": "http://estudiosgallegos.revistas.csic.es/index.php/estudiosgallegos/index", 
+    "zotero_id": null
+}

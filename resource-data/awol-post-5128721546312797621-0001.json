@@ -1,0 +1,47 @@
+{
+    "description": ":", 
+    "domain": "www.digizeitschriften.de", 
+    "history": [
+        "2015-06-03T04:59:35.805514: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/05/open-access-journals-at.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "DigiZeitschriften", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "de", 
+        0.9904645908484748
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5128721546312797621", 
+            "resource_date": "2009-12-07T10:02:45.736-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:35.806066"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/05/open-access-journals-at.html", 
+            "resource_date": "2009-12-07T10:02:45.736-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:35.806073"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open access journals at DigiZeitschriften", 
+    "url": "http://www.digizeitschriften.de/index.php?id=loader&tx_jkDigiTools_pi1%5BIDDOC%5D=427117", 
+    "zotero_id": null
+}

@@ -1,0 +1,48 @@
+{
+    "description": "Die Bayerische Numismatische Gesellschaft e.V. besteht seit 1881. Unsere Gesellschaft hat weltweit Mitglieder und f\u00f6rdert die Numismatik und den Gedankenaustausch unter Wissenschaftlern, Sammlern und Interessierten.\u00a0Die neuesten Erkenntnisse auf dem Gebiet der Numismatik werden in den Publikationen unserer Gesellschaft ver\u00f6ffentlicht. Von 1882 bis 1937 erschienen j\u00e4hrlich die\u00a0 \u201cMitteilungen der Bayerischen Numismatischen Gesellschaft\u201d. In der NS Zeit nannte sich unser Jahrbuch \u201cDeutsches Jahrbuch f\u00fcr Numismatik\u201d und seit 1949 erscheint regelm\u00e4\u00dfig das \u201cJahrbuch f\u00fcr Numismatik und Geldgeschichte\u201d (JNG). Aktuell ist Band 61 erschienen. Mitglieder der BNG beziehen das \u201cJNG\u201d kostenlos...", 
+    "domain": "www.bngev.de", 
+    "history": [
+        "2015-06-03T04:59:35.423805: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/open-access-journal-jahrbuch-fur_25.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "numismatics", 
+        "open access"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5028162898818875878", 
+            "resource_date": "2013-09-25T11:44:21.781-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:35.424464"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-jahrbuch-fur_25.html", 
+            "resource_date": "2013-09-25T11:44:21.781-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:35.424473"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Jahrbuch fu\u0308r Numismatik und Geldgeschichte", 
+    "url": "http://www.bngev.de/veroffentlichungen/", 
+    "zotero_id": null
+}

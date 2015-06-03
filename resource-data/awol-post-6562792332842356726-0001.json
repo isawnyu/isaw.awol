@@ -1,0 +1,48 @@
+{
+    "description": "Byblos. Bollettino del Museo Papirologico dell'Universit\u00e0 del Salento 1, 2009 Consulta \u00a0 Byblos. Bollettino del Museo Papirologico dell'Universit\u00e0 del Salento 2, 2010 Consulta", 
+    "domain": "www.museopapirologico.eu", 
+    "history": [
+        "2015-06-03T04:59:42.254902: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/04/open-access-journal-byblos-bollettino.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "museums", 
+        "open access"
+    ], 
+    "language": [
+        "it", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6562792332842356726", 
+            "resource_date": "2011-04-11T14:24:26.734-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:42.255466"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/open-access-journal-byblos-bollettino.html", 
+            "resource_date": "2011-04-11T14:24:26.734-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:42.255473"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Byblos. Bollettino del Museo Papirologico dell'Universit\u00e0 del Salento", 
+    "url": "http://www.museopapirologico.eu/Componenti%20web/Elenco%20Consultazione.htm", 
+    "zotero_id": null
+}

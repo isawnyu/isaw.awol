@@ -1,0 +1,46 @@
+{
+    "description": "ArchaeoSeek is the place to discuss archaeological issues, sites, excavations, and field schools. Please use your real name to join.", 
+    "domain": "www.archaeoseek.com", 
+    "history": [
+        "2015-06-03T04:59:47.132640: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/09/archaeoseek-social-network-for.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "archaeology", 
+        "social network"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7684735312244059192", 
+            "resource_date": "2012-09-07T14:58:43.604-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:47.133225"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/archaeoseek-social-network-for.html", 
+            "resource_date": "2012-09-07T14:58:43.604-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:47.133233"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ArchaeoSeek: A Social Network for Archaeologists", 
+    "url": "http://www.archaeoseek.com/", 
+    "zotero_id": null
+}

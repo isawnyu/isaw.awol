@@ -1,0 +1,54 @@
+{
+    "description": "Archives 2004 N. 5:\u00a0 Il ritorno di Cornelio Gallo : Il papiro di Qasr Ibr\u00eem venticinque anni dopo 2003 N. 4:\u00a0 The Bologna and Lecce Universities Joint Archaeological Mission in Egypt: Ten Years of Excavations at Bakchias (1993-2002) 2002 N. 3:\u00a0 Dieci anni di Papirologia a Lecce. Il Centro di Studi Papirologici dal 1992 al 2002 2001 N. 1:\u00a0 The Restoration of Egyptian and Greek Papyri Housed in Cairo Egyptian Museum (1997-2000)", 
+    "domain": "siba-ese.unisalento.it", 
+    "history": [
+        "2015-06-03T04:59:33.207169: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-serial-gli-album-del-centro.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Cairo", 
+        "Egypt", 
+        "Greek", 
+        "antiquity", 
+        "archaeology", 
+        "egyptology", 
+        "journal", 
+        "museums", 
+        "open access", 
+        "papyrology"
+    ], 
+    "language": [
+        "it", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4527445746297620634", 
+            "resource_date": "2013-02-17T08:12:18.636-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:33.207800"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-serial-gli-album-del-centro.html", 
+            "resource_date": "2013-02-17T08:12:18.636-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:33.207809"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open Access Serial: Gli Album del Centro di Studi Papirologici dell'Universit\u00e0 degli Studi di Lecce", 
+    "url": "http://siba-ese.unisalento.it/index.php/albstudpapir/issue/archive", 
+    "zotero_id": null
+}

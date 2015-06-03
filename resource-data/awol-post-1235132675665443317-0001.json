@@ -1,0 +1,54 @@
+{
+    "description": "The Berkeley Undergraduate Journal of Classics is committed to the progress and proliferation of scholarship in the field of Classics and to providing a common medium through which undergraduates from all relevant disciplines can actively engage in one another\u2019s work. In order to establish a channel for interdepartmental exchange and collaboration, we seek to publish exceptional papers and translations from a wide range of fields pertaining to Classics and the world of the ancient Mediterranean.", 
+    "domain": "escholarship.org", 
+    "history": [
+        "2015-06-03T04:59:18.570671: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/10/open-access-journal-berkeley.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Christianity", 
+        "Latin", 
+        "antiquity", 
+        "classics", 
+        "journal", 
+        "journal issues", 
+        "numismatics", 
+        "open access", 
+        "rhetoric", 
+        "student journal"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1235132675665443317", 
+            "resource_date": "2013-11-12T08:06:14.217-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:18.571282"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/10/open-access-journal-berkeley.html", 
+            "resource_date": "2013-11-12T08:06:14.217-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:18.571290"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Berkeley Undergraduate Journal of Classics", 
+    "url": "http://escholarship.org/uc/search?entity=ucbclassics_bujc", 
+    "zotero_id": null
+}

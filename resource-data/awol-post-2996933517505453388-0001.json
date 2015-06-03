@@ -1,0 +1,48 @@
+{
+    "description": "A\u00f1o I, N\u00fam.1 / 2011 A\u00f1o II, N\u00fam. 2 / 2012", 
+    "domain": "www.uca.edu.ar", 
+    "history": [
+        "2015-06-03T04:59:26.482641: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/12/new-open-access-journal-de-rebus.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Greece", 
+        "Rome", 
+        "antiquity", 
+        "classics", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2996933517505453388", 
+            "resource_date": "2012-12-10T15:56:09.409-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:26.483245"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/new-open-access-journal-de-rebus.html", 
+            "resource_date": "2012-12-10T15:56:09.409-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:26.483253"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "De Rebus Antiquis", 
+    "url": "http://www.uca.edu.ar/index.php/site/index/es/uca/facultades/buenos-aires/cs-sociales-politicas-y-de-la-comunicacion/investigacion/proyecto-de-estudios-greco-romanos/de-rebus-antiquis/", 
+    "zotero_id": null
+}

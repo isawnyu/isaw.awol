@@ -1,0 +1,47 @@
+{
+    "description": "2008 iss. 24 2007 iss. 23 2006 iss. 22 2005 vol. 22, iss. 21 2004 vol. 21, iss. 20 2003 vol. 20, iss. 19 2002 vol. 19, iss. 18 2001 iss. 17 1999-2000 iss. 15-16 1998 iss. 14 1997 iss. 13 1996 iss. 12 iss. 11", 
+    "domain": "scindeks.nb.rs", 
+    "history": [
+        "2015-06-03T04:59:36.733756: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/10/open-access-journal-glasnik-srpskog.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Serbian", 
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5303485522201988590", 
+            "resource_date": "2012-11-04T14:23:04.687-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:36.734377"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journal-glasnik-srpskog.html", 
+            "resource_date": "2012-11-04T14:23:04.687-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:36.734385"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Glasnik Srpskog arheolo\u0161kog dru\u0161tva", 
+    "url": "http://scindeks.nb.rs/journalDetails.aspx?issn=0352-5678", 
+    "zotero_id": null
+}

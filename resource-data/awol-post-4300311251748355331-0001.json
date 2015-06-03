@@ -1,0 +1,52 @@
+{
+    "description": "Ancient Lives is a collaboration between a diverse collection of Oxford Papyrologists and Researchers, The Imaging Papyri Project, The Oxyrhynchus Papyri Project, and the Egypt Exploration Society and the following institutions.", 
+    "domain": "www.ancientlives.org", 
+    "history": [
+        "2015-06-03T04:59:32.539453: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/ancient-lives-oxyrhynchus-papyri.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "Egypt Exploration Society", 
+        "antiquity", 
+        "collaboration", 
+        "imagery", 
+        "papyrology", 
+        "project", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4300311251748355331", 
+            "resource_date": "2011-07-26T05:05:24.328-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:32.540023"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/ancient-lives-oxyrhynchus-papyri.html", 
+            "resource_date": "2011-07-26T05:05:24.328-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:32.540031"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ancient Lives: Oxyrhynchus Papyri", 
+    "url": "http://www.ancientlives.org/", 
+    "zotero_id": null
+}

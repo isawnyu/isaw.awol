@@ -1,0 +1,68 @@
+{
+    "description": "Bioarchaeology of the Near East (printed version ISSN 1898-9403, online ISSN 1899-962X) is published annually in one volume. The aim of the journal is to promote research on the history of human populations inhabiting South-Western Asia (chiefly Mesopotamia, Syria, Palestine, Anatolia, Iran, and Egypt). It will publish original contributions in which methods of physical anthropology and bioarchaeology are used to answer historical questions. Three kinds of texts will be considered for publication: original papers, general review articles (especially those focussing on methodological issues), and short fieldwork reports. Papers of two first categories will be subject to peer review.The editors welcome contributions focusing on the biological background of historical processes observed in past populations in the region where most ancient civilisations of the Old World emerged. This includes large-scale studies e.g., on migrations, secular trends, microevolution, temporal changes or regional differences in the quality of life, disease patterns or demographical profiles, but also local studies or diagnostic case studies of distinguished individuals. Papers using not only biological, but also archaeological and textual evidence are mostly appreciated. For more effective exchange of information the journal also includes short fieldwork reports on human remains excavated at archaeological sites located in the region of interest.", 
+    "domain": "www.anthropology.uw.edu.pl", 
+    "history": [
+        "2015-06-03T04:59:51.866069: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/07/open-access-journal-bioarchaeology-of.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "1898-9403", 
+                "1899-962X"
+            ], 
+            "generic": [
+                "1898-9403", 
+                "1899-962X"
+            ]
+        }
+    }, 
+    "keywords": [
+        "AWOL", 
+        "Asia", 
+        "Near East", 
+        "Poland", 
+        "anthropology", 
+        "antiquity", 
+        "archaeological site", 
+        "archaeology", 
+        "bronze", 
+        "history", 
+        "journal", 
+        "open access", 
+        "reports"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8816183293570871224", 
+            "resource_date": "2013-07-24T09:16:33.995-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:51.866695"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/07/open-access-journal-bioarchaeology-of.html", 
+            "resource_date": "2013-07-24T09:16:33.995-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:51.866703"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bioarchaeology of the Near East", 
+    "url": "http://www.anthropology.uw.edu.pl/", 
+    "zotero_id": null
+}

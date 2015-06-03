@@ -1,0 +1,46 @@
+{
+    "description": "Coverage: 1923-1957 (Nos. 1-2)JSTOR Discipline(s): Archaeology, Classical Studies Published by: British School at AthensISSN: 2045-4112", 
+    "domain": "www.jstor.org", 
+    "history": [
+        "2015-06-03T04:59:35.080657: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Athens", 
+        "classics"
+    ], 
+    "language": [
+        "en", 
+        0.9999999764478528
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4915131031139671891", 
+            "resource_date": "2011-07-24T07:51:55.926-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:35.081192"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html", 
+            "resource_date": "2011-07-24T07:51:55.926-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:35.081199"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The British School at Athens. Supplementary Papers", 
+    "url": "http://www.jstor.org/action/showPublication?journalCode=britschathsuppap", 
+    "zotero_id": null
+}

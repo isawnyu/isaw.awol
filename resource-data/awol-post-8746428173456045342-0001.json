@@ -1,0 +1,50 @@
+{
+    "description": "VOLUME I 1973 VOLUME XXI-XXII 1995-1996 VOLUME II 1974 VOLUME XXIII-XXIV 1997-1998 VOLUME III-IV 1975-1976 VOLUME XXV 1999 VOLUME V 1977 VOLUME XXVI 2000 VOLUME VI 1978 VOLUME XXVII 2001 VOLUME VII 1979 VOLUME XXVIII 2002 VOLUME VIII-IX 1980-1981 VOLUME XXIX 2003 VOLUME X 1982 VOLUME XXX 2004 VOLUME XI 1983 VOLUME XXXI 2005 VOLUME XII 1984 VOLUME XXXII 2006 VOLUME XIII 1985-1986 VOLUME XXXIII 2007 VOLUME XIV 1987-1988 VOLUME XXXIV 2008 VOLUME XV-XVI 1989-1990 VOLUME XXXV 2009 VOLUME XVII-XVIII 1991-1992 VOLUME XXXVI 2010 VOLUME XIX-XX 1993-1994", 
+    "domain": "www.indologica.com", 
+    "history": [
+        "2015-06-03T04:59:51.647117: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/03/open-access-journal-indologica.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "India", 
+        "Indology", 
+        "Sanskrit", 
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.99999999999999
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8746428173456045342", 
+            "resource_date": "2013-12-28T15:23:08.027-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:51.647705"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/open-access-journal-indologica.html", 
+            "resource_date": "2013-12-28T15:23:08.027-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:51.647713"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Indologica Tauriensia: The Journal of the International Association of Sanskrit Studies", 
+    "url": "http://www.indologica.com/index.asp", 
+    "zotero_id": null
+}

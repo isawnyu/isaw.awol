@@ -1,0 +1,52 @@
+{
+    "description": "The NMCSU represents students at the University of Toronto enrolled in NMC courses and those working towards an NMC minor, major, or specialist. We serve as a liaison between students and faculty to help improve the student experience and make their voices heard. By organizing lectures, discussions, film festivals, graduate seminars, and socials pertaining to the historical and contemporary Middle East, we bring a sense of community and an advancing academic environment to the NMC department. We also process all NMC course evaluations to help students learn more about their courses and professors.", 
+    "domain": "groups.chass.utoronto.ca", 
+    "history": [
+        "2015-06-03T04:59:20.515194: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/new-open-access-journal-journal-of-near.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Middle East", 
+        "antiquity", 
+        "collaboration", 
+        "environment", 
+        "history", 
+        "journal", 
+        "open access", 
+        "video"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-162813510460464997", 
+            "resource_date": "2013-03-10T09:00:02.585-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:20.515793"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/new-open-access-journal-journal-of-near.html", 
+            "resource_date": "2013-03-10T09:00:02.585-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:20.515801"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Orient: Journal of Near & Middle Eastern Studies", 
+    "url": "http://groups.chass.utoronto.ca/nmcsu/journal.html", 
+    "zotero_id": null
+}

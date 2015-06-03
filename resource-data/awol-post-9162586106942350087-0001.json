@@ -1,0 +1,57 @@
+{
+    "description": "Projects and Collections Each project represents a specific study or research effort conducted by a single investigator or a team of collaborating investigators. The data and documentation presented in a project can be freely used and referenced by the research community and public for re-analysis, comparison with other collections, visualization , or other applications provided data contributors are properly credited with citation.", 
+    "domain": "opencontext.org", 
+    "history": [
+        "2015-06-03T04:59:53.337835: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/03/new-content-at-open-context.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Anatolia", 
+        "Asia", 
+        "Russian", 
+        "UK", 
+        "archaeology", 
+        "catalogue", 
+        "collaboration", 
+        "data", 
+        "history", 
+        "open context", 
+        "project", 
+        "visualization"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9162586106942350087", 
+            "resource_date": "2013-03-12T16:44:53.345-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:53.338410"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/new-content-at-open-context.html", 
+            "resource_date": "2013-03-12T16:44:53.345-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:53.338417"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "New Content at Open Context", 
+    "url": "http://opencontext.org/", 
+    "zotero_id": null
+}

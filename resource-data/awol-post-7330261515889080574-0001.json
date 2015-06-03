@@ -1,0 +1,53 @@
+{
+    "description": "This site contains information about the prehistoric archaeology of the Aegean. Through a series of lessons and illustrations, it traces the cultural evolution of humanity in the Aegean basin from the era of hunting and gathering (Palaeolithic-Mesolithic) through the early village farming stage (Neolithic) and the formative period of Aegean civilization into the age of the great palatial cultures of Minoan Crete and Mycenaean Greece.", 
+    "domain": "www.dartmouth.edu", 
+    "history": [
+        "2015-06-03T04:59:45.485721: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/11/aegean-prehistoric-archaeology-textbook.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Aegean", 
+        "Crete", 
+        "Mycenean", 
+        "archaeology", 
+        "culture", 
+        "imagery", 
+        "prehistory", 
+        "series", 
+        "textbooks"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7330261515889080574", 
+            "resource_date": "2013-11-30T09:00:14.756-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:45.486279"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/11/aegean-prehistoric-archaeology-textbook.html", 
+            "resource_date": "2013-11-30T09:00:14.756-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:45.486287"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Aegean Prehistoric Archaeology Textbook Online", 
+    "url": "http://www.dartmouth.edu/%7Eprehistory/aegean/", 
+    "zotero_id": null
+}

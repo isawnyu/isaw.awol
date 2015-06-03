@@ -1,0 +1,61 @@
+{
+    "description": "One year on from the events that took place in Egypt in 2011, ICOM\u2019s actions to protect the country\u2019s cultural heritage from the ensuing thefts of non\u2010inventoried objects from archaeological sites and museums have led to the publication of the Emergency Red List of Egyptian Cultural Objects at Risk.English\u00a0 Arabic", 
+    "domain": "icom.museum", 
+    "history": [
+        "2015-06-03T04:59:21.093609: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/02/icom-emergency-red-list-of-egyptian.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Afghanistan", 
+        "Africa", 
+        "Arabic", 
+        "Cambodia", 
+        "China", 
+        "Egypt", 
+        "Iraq", 
+        "Latin", 
+        "archaeological site", 
+        "archaeology", 
+        "cultural heritage", 
+        "culture", 
+        "data", 
+        "database", 
+        "egyptology", 
+        "heritage", 
+        "museums"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1765380277855317557", 
+            "resource_date": "2012-02-06T14:20:10.921-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:21.094208"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/icom-emergency-red-list-of-egyptian.html", 
+            "resource_date": "2012-02-06T14:20:10.921-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:21.094217"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ICOM Emergency Red List of Egyptian Cultural Objects at Risk", 
+    "url": "http://icom.museum/press-releases/press-release/article/icom-publishes-a-new-emergency-red-list-the-emergency-red-list-of-egyptian-cultural-objects-at-risk.html", 
+    "zotero_id": null
+}

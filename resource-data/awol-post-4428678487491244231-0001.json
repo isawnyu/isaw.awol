@@ -1,0 +1,54 @@
+{
+    "description": "As part of its Electronic Publications Initiative and with the generous support of Misty and Lewis Gruber, the Oriental Institute Publications Office announces the Adobe Portable Document Format (PDF) publication of:", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-03T04:59:32.962932: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/newly-scaned-at-oriental-institute.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Coptic", 
+        "Demotic", 
+        "Oriental Institute", 
+        "archaeology", 
+        "digitization", 
+        "document", 
+        "egyptology", 
+        "epigraphy", 
+        "history", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4428678487491244231", 
+            "resource_date": "2009-12-03T18:38:17.902-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:32.963483"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/newly-scaned-at-oriental-institute.html", 
+            "resource_date": "2009-12-03T18:38:17.902-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:32.963491"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Medinet Habu IV", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip55.html", 
+    "zotero_id": null
+}

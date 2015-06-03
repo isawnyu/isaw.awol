@@ -1,0 +1,61 @@
+{
+    "description": "A peer reviewed open access journal for the history and archaeology of the Balkan peninsula.", 
+    "domain": "haemus.mk", 
+    "history": [
+        "2015-06-03T04:59:36.236937: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/new-open-access-journal-haemus-call-for.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Balkans", 
+        "Croatian", 
+        "FYROM", 
+        "Macedonia", 
+        "Middle Ages", 
+        "Roman", 
+        "antiquity", 
+        "archaeology", 
+        "culture", 
+        "glass", 
+        "history", 
+        "imagery", 
+        "journal", 
+        "journal issues", 
+        "open access", 
+        "prehistory", 
+        "tools"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5195264465974389787", 
+            "resource_date": "2013-02-11T09:15:02.230-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:36.237543"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/new-open-access-journal-haemus-call-for.html", 
+            "resource_date": "2013-02-11T09:15:02.230-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:36.237551"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "HAEMUS: An electronic journal for the history and archaeology of the Balkan peninsula", 
+    "url": "http://haemus.mk/", 
+    "zotero_id": null
+}

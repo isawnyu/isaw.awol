@@ -1,0 +1,47 @@
+{
+    "description": "Introduction", 
+    "domain": "www.doaks.org", 
+    "history": [
+        "2015-06-03T04:59:20.134881: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/resources-for-syriac-studies.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Aramaic", 
+        "Dumbarton Oaks", 
+        "Syriac", 
+        "book", 
+        "materials", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1587289547026890940", 
+            "resource_date": "2013-04-18T09:11:53.313-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:20.135436"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/resources-for-syriac-studies.html", 
+            "resource_date": "2013-04-18T09:11:53.313-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:20.135444"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Dumbarton Oaks Resources for Syriac Studies", 
+    "url": "http://www.doaks.org/research/byzantine/resources/syriac", 
+    "zotero_id": null
+}

@@ -1,0 +1,58 @@
+{
+    "description": "The Current Scholarship Program (CSP) makes current and historical scholarly content available on a single, integrated platform, providing a single point for librarians and end users around the world to access this content, and ensuring this content's long-term preservation. Faculty and students around the world will be able to access all licensed content on JSTOR \u2014 current issues, back issues, and a growing set of primary source materials from libraries \u2014 easily and seamlessly.", 
+    "domain": "about.jstor.org", 
+    "history": [
+        "2015-06-03T04:59:17.993124: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/11/ancient-world-in-jstors-new-current.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "California", 
+        "JSTOR", 
+        "Near East", 
+        "anthropology", 
+        "antiquity", 
+        "classics", 
+        "culture", 
+        "history", 
+        "journal", 
+        "journal issues", 
+        "libraries", 
+        "materials", 
+        "publisher", 
+        "science"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-109532209489238765", 
+            "resource_date": "2010-11-26T09:28:59.680-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:17.993665"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/ancient-world-in-jstors-new-current.html", 
+            "resource_date": "2010-11-26T09:28:59.680-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:17.993672"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ancient world in JSTOR's new Current Scholarship Program", 
+    "url": "http://about.jstor.org/participate-jstor/libraries/current-scholarship-program/2011-title-list", 
+    "zotero_id": null
+}

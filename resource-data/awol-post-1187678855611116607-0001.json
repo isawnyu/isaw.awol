@@ -1,0 +1,72 @@
+{
+    "description": "The Editor-in-Chief invites you to read these free print-published articles. You can also tell us your favorite articles.", 
+    "domain": "www.ajaonline.org", 
+    "history": [
+        "2015-06-03T04:59:18.456717: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/10/aja-editors-picks-open-access.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AIA", 
+        "AJA", 
+        "Aegean", 
+        "Asia", 
+        "Caucasus", 
+        "Cyprus", 
+        "Greek", 
+        "Iraq", 
+        "Mycenean", 
+        "Pompeii", 
+        "Renaissance", 
+        "Roman", 
+        "Rome", 
+        "antiquity", 
+        "archaeology", 
+        "architecture", 
+        "archive", 
+        "art", 
+        "bronze", 
+        "ceramics", 
+        "classics", 
+        "empires", 
+        "history", 
+        "journal", 
+        "museums", 
+        "open access", 
+        "pottery", 
+        "preservation"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1187678855611116607", 
+            "resource_date": "2012-10-22T15:09:27.101-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:18.457337"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/10/aja-editors-picks-open-access.html", 
+            "resource_date": "2012-10-22T15:09:27.101-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:18.457346"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "AJA Editor's Picks (Open Access)", 
+    "url": "http://www.ajaonline.org/ed-picks", 
+    "zotero_id": null
+}

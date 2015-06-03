@@ -1,0 +1,49 @@
+{
+    "description": "AUTHOR INDEX \u00a0 SUBJECT\u00a0 INDEX \u00a0 ANALYTICAL INDEX TO THE TRANSACTIONS \u00a0 OBITUARIESAn index to the Transactions from 1921 until 1990 was compiled by Margaret Medley and was published in volume 54 (1989-1990) of the Transactions and may be consulted by downloading the file from the following link. Download Link (right click save as)", 
+    "domain": "www.ocs-london.com", 
+    "history": [
+        "2015-06-03T04:59:46.835879: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/open-access-journal-transactions-of.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "ceramics", 
+        "journal", 
+        "open access", 
+        "pottery"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7645919971913263789", 
+            "resource_date": "2012-12-04T11:08:50.832-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:46.836510"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-transactions-of.html", 
+            "resource_date": "2012-12-04T11:08:50.832-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:46.836519"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Transactions of the Oriental Ceramics Society", 
+    "url": "http://www.ocs-london.com/tocs.htm", 
+    "zotero_id": null
+}

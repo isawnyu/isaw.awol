@@ -1,0 +1,64 @@
+{
+    "description": "The Greek-Egyptian town of Naukratis in the Nile Delta was a major centre of cross-cultural contact in the ancient world. This catalogue presents the wealth of archaeological finds made in late 19th and early 20th century excavations at the site that are today dispersed in museums worldwide. Comprising Egyptian, Greek, Roman, and Cypriot objects dating from the 7th century BC to the 7th century AD, it will eventually contain over 16,000 objects.", 
+    "domain": "www.britishmuseum.org", 
+    "history": [
+        "2015-06-03T04:59:25.097333: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/04/british-museum-online-research.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "British Museum", 
+        "Cyprus", 
+        "Egypt", 
+        "Greek", 
+        "Luxor", 
+        "Naukratis", 
+        "Roman", 
+        "antiquity", 
+        "archaeology", 
+        "bibliography", 
+        "catalogue", 
+        "ceramics", 
+        "data", 
+        "database", 
+        "history", 
+        "museums", 
+        "numismatics", 
+        "open access", 
+        "papyrology", 
+        "pottery"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2628755985533643375", 
+            "resource_date": "2013-04-02T09:58:49.668-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:25.097939"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/british-museum-online-research.html", 
+            "resource_date": "2013-04-02T09:58:49.668-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:25.097948"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "British Museum Online Research Catalogues: Naukratis: Greeks in Egypt", 
+    "url": "http://www.britishmuseum.org/research/online_research_catalogues/ng.aspx", 
+    "zotero_id": null
+}

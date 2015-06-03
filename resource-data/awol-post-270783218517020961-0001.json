@@ -1,0 +1,49 @@
+{
+    "description": "Since 2003 DAI istanbul, a brochure with general informations on the activities of the Istanbul department, appears annually.Heft 7/2009 Reports on 2008 (PDF 1.18 MB) Heft 6/2008 Reports on 2007 (PDF 1165 KB) Heft 5/2007 Reports on 2006 (PDF 1059 KB) Heft 4/2006 Reports on 2005 (PDF 1320 KB) Heft 3/2005 Reports on 2004 (PDF 1100 KB)Heft 2/2004 Istanbul Department 1929-2004 Part 1: p.1-9 (PDF 1066 KB)Part 2: p.10-21 (PDF 894 KB)Part 3: p.22-32 (PDF 1265 KB)", 
+    "domain": "www.dainst.org", 
+    "history": [
+        "2015-06-03T04:59:25.410232: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-journal-dai-istanbul.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "DAI", 
+        "antiquity", 
+        "journal", 
+        "open access", 
+        "reports"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-270783218517020961", 
+            "resource_date": "2010-12-08T11:44:14.817-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:25.410780"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-journal-dai-istanbul.html", 
+            "resource_date": "2010-12-08T11:44:14.817-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:25.410788"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "DAI istanbul", 
+    "url": "http://www.dainst.org/index.php?id=8159&sessionLanguage=en", 
+    "zotero_id": null
+}

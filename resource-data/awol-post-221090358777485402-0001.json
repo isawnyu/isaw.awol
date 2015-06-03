@@ -1,0 +1,48 @@
+{
+    "description": "A semi-annual journal dedicated to the academic study of Japanese religions. First published in 1960 as Contemporary Religions in Japan, it was given its present name in 1974. The journal was taken over by the\u00a0Nanzan Institute in 1981.", 
+    "domain": "nirc.nanzan-u.ac.jp", 
+    "history": [
+        "2015-06-03T04:59:23.136578: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/11/open-access-journal-japanese-journal-of.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-221090358777485402", 
+            "resource_date": "2011-11-01T15:19:16.307-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:23.137182"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/11/open-access-journal-japanese-journal-of.html", 
+            "resource_date": "2011-11-01T15:19:16.307-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:23.137191"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Japanese Journal of Religious Studies", 
+    "url": "http://nirc.nanzan-u.ac.jp/publications/jjrs/jjrsMain.htm", 
+    "zotero_id": null
+}

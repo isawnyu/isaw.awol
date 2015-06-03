@@ -1,0 +1,53 @@
+{
+    "description": "The journal PaleoAnthropology is published jointly by the Society and the University of Pennsylvania Museum. The journal is accessible free of charge to everyone, including non-members of the Paleoanthropology Society. The journal can be accessed here.In addition to the publication of articles, book reviews, and the abstracts of the annual meetings of the Society, the journal accepts commentaries on articles, summaries of current work in the various fields of paleoanthropology. Articles are fully peer-reviewed and may contain large data files, numerous illustrations and links to visualizations; manuscripts based on dissertation work, up to entire dissertations, may be submitted as appropriate. As always, the journal depends on the contributions of scholars within the field, and the editors would like to take this opportunity to encourage all of you to think of our journal as an outlet for the presentation of your research.", 
+    "domain": "www.paleoanthro.org", 
+    "history": [
+        "2015-06-03T04:59:20.315310: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-journl-paleoanthropology.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Pennsylvania", 
+        "antiquity", 
+        "book", 
+        "book reviews", 
+        "data", 
+        "journal", 
+        "manuscripts", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1618811717734363562", 
+            "resource_date": "2012-03-06T09:59:23.131-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:20.315927"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journl-paleoanthropology.html", 
+            "resource_date": "2012-03-06T09:59:23.131-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:20.315936"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "PaleoAnthropology", 
+    "url": "http://www.paleoanthro.org/journal/contents_dynamic.asp", 
+    "zotero_id": null
+}

@@ -1,0 +1,51 @@
+{
+    "description": "This website publishes manuscripts on the ancient Egyptian funerary cones, which were written by the late Norman de Garis Davies, a famous Egyptologist and epigrapher, and the late Miles Frederick Laming Macadam, a renowned archaeologist and philologist in the fields of both Egyptology and Nubiology. Here you will find available high-resolution pictures and transcribed JPEG images of all 958 pages that I found at The Sudan Library, Khartoum, wholly free of charge.", 
+    "domain": "sites.google.com", 
+    "history": [
+        "2015-06-03T04:59:43.469620: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/macadam-collections-on-funerary-cones.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Sudan", 
+        "antiquity", 
+        "egyptology", 
+        "imagery", 
+        "manuscripts", 
+        "website", 
+        "wiki"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6804763349169107033", 
+            "resource_date": "2012-04-23T06:19:52.544-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:43.470189"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/macadam-collections-on-funerary-cones.html", 
+            "resource_date": "2012-04-23T06:19:52.544-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:43.470197"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Macadam Collections on funerary cones from The Sudan Library", 
+    "url": "https://sites.google.com/site/macadamcollections/", 
+    "zotero_id": null
+}

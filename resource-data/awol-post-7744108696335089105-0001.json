@@ -1,0 +1,50 @@
+{
+    "description": "Vol.14(2007)\u00a0Vol.13(2006)\u00a0Vol.12(2005)\u00a0Vol.11(2004)\u00a0Vol.10(2003)\u00a0Vol.9(2002)\u00a0Vol.8(2001)\u00a0Vol.7(2000)\u00a0Vol.6(1999)\u00a0Vol.5(1998)\u00a0Vol.4(1997)\u00a0Vol.3(1996)\u00a0Vol.2(1995)\u00a0Vol.1(1994)", 
+    "domain": "www.jstage.jst.go.jp", 
+    "history": [
+        "2015-06-03T04:59:47.349989: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/open-access-journal-nihon-kokogaku.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Japan", 
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999999998361542
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7744108696335089105", 
+            "resource_date": "2012-05-02T10:41:45.770-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:47.350606"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-nihon-kokogaku.html", 
+            "resource_date": "2012-05-02T10:41:45.770-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:47.350614"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Nihon Kokogaku (Journal of the Japanese Archaeological Association)", 
+    "url": "https://www.jstage.jst.go.jp/browse/nihonkokogaku1994", 
+    "zotero_id": null
+}

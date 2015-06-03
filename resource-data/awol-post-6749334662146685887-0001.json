@@ -1,0 +1,52 @@
+{
+    "description": "Digital Antiquity announces\u00a0Reports in Digital Archaeology, a series devoted to issues related to archaeological information, including: research and practice in digital archiving of archaeological materials,policy and other challenges facing the preservation of archaeological results,advanced uses of tDAR,research projects funded by the DA-tDAR Grants Program, andmajor data accessions or partnerships.If you are interested in submitting to\u00a0Reports in Digital Archaeology, please\u00a0contact Digital Antiquity.", 
+    "domain": "www.digitalantiquity.org", 
+    "history": [
+        "2015-06-03T04:59:43.263328: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/12/open-access-journal-reports-in-digital.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "archaeology", 
+        "data", 
+        "journal", 
+        "open access", 
+        "preservation", 
+        "reports", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6749334662146685887", 
+            "resource_date": "2011-12-30T09:14:55.133-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:43.263860"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-reports-in-digital.html", 
+            "resource_date": "2011-12-30T09:14:55.133-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:43.263867"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Reports in Digital Archaeology: a Digital Antiquity Publication Series", 
+    "url": "http://www.digitalantiquity.org/publications/", 
+    "zotero_id": null
+}

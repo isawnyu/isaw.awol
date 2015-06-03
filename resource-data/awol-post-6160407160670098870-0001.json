@@ -1,0 +1,55 @@
+{
+    "description": "At the end of 2000 steps were taken to initiate a digitalization project of the Oslo papyrus collection. The project was named OPES (Oslo Papyri Electronic System) and its aims were first 1) to make all the published papyri (around 280 out of a total of 2272) available, catalogued and imaged, on the www, then 2) to catalogue and image the rest of the papyri, making the catalogue available on the web and keeping the images in a separate database that users may access on demand. Due to the international character of papyrological study and research, English was chosen as the language of the project. The project has benefited greatly from the collaboration with the APIS project, whose the late project director Traianos Gagos generously let us use the Michigan FileMaker Pro template for cataloguing and registration of data. A further aim is to scan and make accessible the collection\u00b4s inventory list made by the late professor Leiv Amundsen. So far only a few have been scanned and a password is required to access them.", 
+    "domain": "ub-fmserver.uio.no", 
+    "history": [
+        "2015-06-03T04:59:40.321426: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/opes-oslo-papyri-electronic-system.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Michigan", 
+        "catalogue", 
+        "collaboration", 
+        "data", 
+        "database", 
+        "digitization", 
+        "imagery", 
+        "language", 
+        "papyrology", 
+        "project", 
+        "website"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6160407160670098870", 
+            "resource_date": "2013-02-25T11:40:45.289-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:40.321985"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/opes-oslo-papyri-electronic-system.html", 
+            "resource_date": "2013-02-25T11:40:45.289-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:40.321993"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "OPES: Oslo Papyri Electronic System", 
+    "url": "http://ub-fmserver.uio.no/home.php", 
+    "zotero_id": null
+}

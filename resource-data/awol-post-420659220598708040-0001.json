@@ -1,0 +1,48 @@
+{
+    "description": "Journal of Archaeology is a peer-reviewed, open access journal that publishes original research articles as well as review articles in all areas of archaeology.", 
+    "domain": "www.hindawi.com", 
+    "history": [
+        "2015-06-03T04:59:32.055326: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/10/new-open-access-journal-journal-of.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-420659220598708040", 
+            "resource_date": "2013-10-03T08:29:00.954-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:32.056133"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/new-open-access-journal-journal-of.html", 
+            "resource_date": "2013-10-03T08:29:00.954-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:32.056144"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Journal of Archaeology", 
+    "url": "http://www.hindawi.com/journals/jarchae/", 
+    "zotero_id": null
+}

@@ -1,0 +1,50 @@
+{
+    "description": "The objective of the magazine is to offer a wide range of relevant subjects to its readers. The magazine will appear once every two months and will offer news, events, reviews, conference announcements, scientific articles on the latest technology and research, dissemination of current projects, case studies, international projects and many other subjects yet to come.", 
+    "domain": "www.e-conservationline.com", 
+    "history": [
+        "2015-06-03T04:59:27.077523: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/open-access-journal-e-conservation.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "conference", 
+        "journal", 
+        "magazine", 
+        "open access", 
+        "technology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-308175711505389706", 
+            "resource_date": "2012-03-26T05:51:21.472-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:27.078216"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-e-conservation.html", 
+            "resource_date": "2012-03-26T05:51:21.472-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:27.078227"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "e-conservation: The Online Magazine", 
+    "url": "http://www.e-conservationline.com/", 
+    "zotero_id": null
+}

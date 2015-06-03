@@ -1,0 +1,71 @@
+{
+    "description": "List of object categories Context Acknowledgements Support Legislation Bilateral agreements Press release Download red list Contacts", 
+    "domain": "icom.museum", 
+    "history": [
+        "2015-06-03T04:59:23.182957: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/08/online-emergency-red-list-of-egyptian.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Arabic", 
+        "Coptic", 
+        "Egypt", 
+        "French", 
+        "German", 
+        "Islam", 
+        "Wood", 
+        "archaeology", 
+        "art", 
+        "ceramics", 
+        "culture", 
+        "data", 
+        "database", 
+        "egyptology", 
+        "glass", 
+        "heritage", 
+        "law", 
+        "looting", 
+        "manuscripts", 
+        "materials", 
+        "mummies", 
+        "numismatics", 
+        "papyrology", 
+        "pottery", 
+        "religion", 
+        "seals", 
+        "tools"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2213283515023017485", 
+            "resource_date": "2013-08-19T13:31:24.755-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:23.183586"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/online-emergency-red-list-of-egyptian.html", 
+            "resource_date": "2013-08-19T13:31:24.755-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:23.183594"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Online Emergency Red List of Egyptian Cultural Objects at Risk", 
+    "url": "http://icom.museum/resources/red-lists-database/red-list/egypt/", 
+    "zotero_id": null
+}

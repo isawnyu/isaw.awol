@@ -1,0 +1,57 @@
+{
+    "description": "Queensland Archaeological Research, is a refereed journal published since 1984 devoted to publishing substantive archaeological material pertaining to research in Queensland, Australia and adjacent areas. Data-rich manuscripts are particularly welcome. Contributions are accepted in six sections: Articles (5000+ words), Short Reports (<3000 words), Obituaries (500-2000), Thesis Abstracts (200-500), Book Reviews (500-2000) and Backfill (which includes letters and other material of interest to readers). Queensland Archaeological Research is published in one volume\u00a0each year.", 
+    "domain": "www.library.uq.edu.au", 
+    "history": [
+        "2015-06-03T04:59:35.126204: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/08/open-access-journal-queensland.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Australia", 
+        "antiquity", 
+        "archaeological site", 
+        "archaeology", 
+        "book", 
+        "book reviews", 
+        "cultural heritage", 
+        "culture", 
+        "heritage", 
+        "journal", 
+        "manuscripts", 
+        "open access", 
+        "reports"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4925003747998565386", 
+            "resource_date": "2011-08-27T20:46:09.902-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:35.126743"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-queensland.html", 
+            "resource_date": "2011-08-27T20:46:09.902-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:35.126751"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Queensland Archaeological Research", 
+    "url": "http://www.library.uq.edu.au/ojs/index.php/qar/index", 
+    "zotero_id": null
+}

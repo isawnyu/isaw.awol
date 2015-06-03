@@ -1,0 +1,44 @@
+{
+    "description": "http://www.jstor.org/token/BASOR368CzhaPBETvyZM8MqZBwSH/mark.asor.org:", 
+    "domain": "www.jstor.org", 
+    "history": [
+        "2015-06-03T04:59:42.638004: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/new-issues-of-asor-journals.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "ASOR", 
+        "JSTOR", 
+        "journal"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-661757117171645575", 
+            "resource_date": "2013-01-10T14:59:41.491-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:42.638534"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/new-issues-of-asor-journals.html", 
+            "resource_date": "2013-01-10T14:59:41.491-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:42.638541"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "http://www.jstor.org/token/NEA754vuQC7S54wHT2GEHW4xc/mark.asor.org", 
+    "url": "http://www.jstor.org/token/NEA754vuQC7S54wHT2GEHW4xc/mark.asor.org", 
+    "zotero_id": null
+}

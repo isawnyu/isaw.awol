@@ -1,0 +1,53 @@
+{
+    "description": "CategoriesCorrespondence(3)Historical Social Economical and Political Background(1)Lists of travellers(3)On-Line resources(7)", 
+    "domain": "earlyexplorersegypt.blogspot.com", 
+    "history": [
+        "2015-06-03T04:59:33.005214: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/08/early-explorers-in-egypt-nubia.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "Nubia", 
+        "blog", 
+        "book", 
+        "egyptology", 
+        "history", 
+        "literature", 
+        "open access", 
+        "travel"
+    ], 
+    "language": [
+        "en", 
+        0.999999999999986
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4438612302048004422", 
+            "resource_date": "2011-08-24T09:12:01.315-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:33.005843"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/early-explorers-in-egypt-nubia.html", 
+            "resource_date": "2011-08-24T09:12:01.315-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:33.005851"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Early Explorers in Egypt & Nubia", 
+    "url": "http://earlyexplorersegypt.blogspot.com/", 
+    "zotero_id": null
+}

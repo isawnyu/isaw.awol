@@ -1,0 +1,51 @@
+{
+    "description": "2006-200823200522200421200320200219200118200017199916199815199714199613199512199411199310199291991819907198961988519874198631985", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-03T04:59:40.712557: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/09/open-access-journal-bolskan-revista-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Spain", 
+        "antiquity", 
+        "archaeology", 
+        "archeaology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "es", 
+        0.9999999361722328
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6251838140725817873", 
+            "resource_date": "2013-01-22T15:06:05.099-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:40.713168"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-journal-bolskan-revista-de.html", 
+            "resource_date": "2013-01-22T15:06:05.099-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:40.713175"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bolskan: Revista de arqueolog\u00eda del Instituto de Estudios Altoaragoneses", 
+    "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=231", 
+    "zotero_id": null
+}

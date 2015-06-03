@@ -1,0 +1,54 @@
+{
+    "description": "Deir el-Medina is the modern name of an ancient Egyptian village situated on the west bank of the Nile opposite Luxor, the site of ancient Thebes. The village was inhabited by workmen who were responsible for the construction and decoration of the royal tombs from the New Kingdom. The exploration of Deir el-Medina has yielded a huge quantity of artefacts and texts written on ostraca or papyri, which offer a unique view into the daily life of an ancient Egyptian community.", 
+    "domain": "www.wepwawet.nl", 
+    "history": [
+        "2015-06-03T04:59:17.906351: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/deir-el-medina-database_2.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "Thebes", 
+        "antiquity", 
+        "bibliography", 
+        "collaboration", 
+        "data", 
+        "database", 
+        "egyptology", 
+        "graffiti", 
+        "project"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1075889442157857139", 
+            "resource_date": "2012-07-03T06:24:56.553-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:17.906931"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/deir-el-medina-database_2.html", 
+            "resource_date": "2012-07-03T06:24:56.553-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:17.906939"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Deir el-Medina Database", 
+    "url": "http://www.wepwawet.nl/dmd/", 
+    "zotero_id": null
+}

@@ -1,0 +1,50 @@
+{
+    "description": "Fundada en 1933 por D. Ram\u00f3n Men\u00e9ndez Pidal, EMERITA publica art\u00edculos, notas, informaciones y rese\u00f1as, rigurosamente originales, de Filolog\u00eda cl\u00e1sica, Ling\u00fc\u00edstica griega, latina, indoeuropea e ib\u00e9rica, y de Historia antigua.EMERITA es, desde su fundaci\u00f3n, una de las revistas cient\u00edficas de alto nivel m\u00e1s valoradas en su campo.EMERITA facilita el acceso sin restricciones a todo su contenido seis meses despu\u00e9s de su publicaci\u00f3n. Durante este periodo de embargo, el acceso al texto completo de los art\u00edculos est\u00e1 reservado a los suscriptores de la edici\u00f3n impresa.", 
+    "domain": "emerita.revistas.csic.es", 
+    "history": [
+        "2015-06-03T04:59:30.349837: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/open-access-journal-emerita.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "classics", 
+        "history", 
+        "journal", 
+        "open access", 
+        "philology"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3795044224815796295", 
+            "resource_date": "2012-11-20T13:22:52.258-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:30.350420"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/open-access-journal-emerita.html", 
+            "resource_date": "2012-11-20T13:22:52.258-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:30.350428"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Emerita", 
+    "url": "http://emerita.revistas.csic.es/index.php/emerita", 
+    "zotero_id": null
+}

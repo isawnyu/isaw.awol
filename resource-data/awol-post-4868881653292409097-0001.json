@@ -1,0 +1,56 @@
+{
+    "description": "came online today: :", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-03T04:59:34.664942: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Ancient Near East", 
+        "Arabic", 
+        "Egypt", 
+        "Near East", 
+        "Oriental Institute", 
+        "antiquity", 
+        "art", 
+        "backlist", 
+        "catalogue", 
+        "manuscripts", 
+        "museums", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999999997373274
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4868881653292409097", 
+            "resource_date": "2013-02-13T14:18:41.154-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:34.665480"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/newly-online-from-oriental-institutes.html", 
+            "resource_date": "2013-02-13T14:18:41.154-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:34.665488"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Newly Online from the Oriental Institute's Backlist", 
+    "url": "http://oi.uchicago.edu/news/", 
+    "zotero_id": null
+}

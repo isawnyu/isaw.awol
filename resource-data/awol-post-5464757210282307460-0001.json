@@ -1,0 +1,52 @@
+{
+    "description": "Institut d'arch\u00e9ologie et des sciences de l'Antiquit\u00e9, Universit\u00e9 de Lausanne (\u00e9d.) ; r\u00e9daction: Monique Hofstetter, Emmanuel Abetel ; r\u00e9unis par Dieter Holstein.An. 1, 1981 - 28, 2008 (PDF 14591 KB)", 
+    "domain": "www.archaeologie-schweiz.ch", 
+    "history": [
+        "2015-06-03T04:59:37.252870: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2014/01/open-access-journal-resumes.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Roman", 
+        "Switzerland", 
+        "archaeology", 
+        "bibliography", 
+        "book reviews", 
+        "document", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5464757210282307460", 
+            "resource_date": "2014-01-24T12:55:25.727-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:37.253441"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/open-access-journal-resumes.html", 
+            "resource_date": "2014-01-24T12:55:25.727-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:37.253449"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "R\u00e9sum\u00e9s d'arch\u00e9ologie suisse: \u00e9poque romaine", 
+    "url": "http://www.archaeologie-schweiz.ch/fileadmin/user_upload/customers/archaeologie_schweiz/AS/Dokumente_dt/Onlinepublikationen_dt/RAS_EpRom/RAS_EpR.pdf", 
+    "zotero_id": null
+}

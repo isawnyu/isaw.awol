@@ -1,0 +1,53 @@
+{
+    "description": "The Prosopography of EblaDatabase Studies on the Prosopography of EblaBibliographyStudies on prosopographyList of PN", 
+    "domain": "www.unifi.it", 
+    "history": [
+        "2015-06-03T04:59:31.588703: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/prosopography-of-ebla.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Ebla", 
+        "Mari", 
+        "SEB", 
+        "Sumerian", 
+        "Syria", 
+        "Tell Mardikh", 
+        "cuneiform", 
+        "prosopography"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4109363790167225146", 
+            "resource_date": "2013-01-03T15:25:31.386-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:31.589276"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/prosopography-of-ebla.html", 
+            "resource_date": "2013-01-03T15:25:31.386-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:31.589284"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Prosopography of Ebla Online", 
+    "url": "http://www.unifi.it/ebla/mdswitch.html", 
+    "zotero_id": null
+}

@@ -1,0 +1,44 @@
+{
+    "description": "Vol. 29-30, 2008-2009Vol. 27-28, 2006-2007Vol. 26, 2005Vol. 25, 2004Vol. 24, 2003Vol. 23, 2002Vol. 21-22, 2000-2001Vol. 19-20, 1998-1999Vol. 17-18, 1996-1997Vol. 16, 1995Vol. 15, 1994Vol. 13-14, 1992-1993Vol. 11-12, 1990-1991Vol. 09-10, 1988-1989Vol. 08, 1987Vol. 06-07, 1985-1986Vol. 04-05, 1983-1984Vol. 02-03, 1981-1982Vol. 01, 1980", 
+    "domain": "ler.letras.up.pt", 
+    "history": [
+        "2015-06-03T04:59:19.046905: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-portugalia.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1399649138884609153", 
+            "resource_date": "2010-09-23T14:06:21.003-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:19.047488"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-portugalia.html", 
+            "resource_date": "2010-09-23T14:06:21.003-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:19.047495"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Portugalia", 
+    "url": "http://ler.letras.up.pt/site/default.aspx?qry=id04id13&sum=sim", 
+    "zotero_id": null
+}

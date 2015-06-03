@@ -1,0 +1,50 @@
+{
+    "description": "Latest edition of The INA Annual just published!This annual review features over 100\u00a0pages of INA research, analysis and study conducted during the previous calendar year. New to this edition are eight full-color pages of extraordinary images depicting underwater excavation, recovered finds and the INA researchers themselves, who conducted projects across the globe, from North Vietnam to Canada's Yukon Territory and the Mediterranean Sea.", 
+    "domain": "nauticalarch.org", 
+    "history": [
+        "2015-06-03T04:59:24.390910: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/open-access-journal-ina-annual.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Institute of Nautical Archaeology", 
+        "Mediterranean", 
+        "antiquity", 
+        "imagery", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2456351740804916646", 
+            "resource_date": "2013-05-01T09:03:00.344-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:24.391446"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-journal-ina-annual.html", 
+            "resource_date": "2013-05-01T09:03:00.344-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:24.391454"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "INA Annual", 
+    "url": "http://nauticalarch.org/publications/ina_annual/", 
+    "zotero_id": null
+}

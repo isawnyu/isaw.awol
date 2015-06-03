@@ -1,0 +1,45 @@
+{
+    "description": "Post CD-ROM #E Authors Updated on: 2010-01-26 1515 MOERIS Attic. (1 work) 2702 Michael PSELLUS Epist., Hagiogr., Phil., Polyhist. et Theol. (1 work) 2766 EUDOCIA AUGUSTA Poeta (1 work) 3074 Constantinus MANASSES Hist. et Poeta (1 work) 4090 CYRILLUS Alexandrinus Theol. (2 works) 4394 JOANNES ANTIOCHENUS Hist. (1 work) 4422 LIBISTRUS ET RHODAMNE (1 work) 4423 BELLUM TROIANUM 001 $*(O *PO/LEMOS TH=S *TRWA/DOS& (hide) 4424 HISTORIA BELISARII (4 works) 5500 GEORGIUS CHORTATZES (2 works) 9022 Joannes TZETZES Gramm. et Poeta (1 work) Updated on: 2009-02-11 0086 ARISTOTELES et CORPUS ARISTOTELICUM Phil. (1 work) 2057 SOCRATES Scholasticus Hist. (1 work) 2833 Pseudo-GREGENTIUS Biogr., Hagiogr. et Legal. (4 works) 3024 Constantinus STILBES Poeta et Rhet. (1 work) 3207 Georgius TORNICES Epist. et Rhet. (1 work) 3218 Manuel CARANTENUS Rhet. (1 work) 3358 ANONYMI HISTORIA IMPERATORUM Chronogr. (2 works) 3365 PHRANGOPULUS Joannes Rhet. (1 work) 3366 Andronicus II PALAEOLOGUS Imperator Hist. (1 work) 4040 PHOTIUS Lexicogr., Scr. Eccl. et Theol. (1 work) 4090 CYRILLUS Alexandrinus Theol. (1 work) 4321 RHETORIUS Astrol. (1 work)", 
+    "domain": "www.tlg.uci.edu", 
+    "history": [
+        "2015-06-03T04:59:18.957056: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/thesaurus-linguae-graecae-tlg-updates.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Greek", 
+        "TLG", 
+        "history", 
+        "thesaurus"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1366019329045596413", 
+            "resource_date": "2010-02-02T09:14:59.403-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:18.957621"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/thesaurus-linguae-graecae-tlg-updates.html", 
+            "resource_date": "2010-02-02T09:14:59.403-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:18.957629"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Thesaurus Linguae Graecae (TLG\u00ae) Updates", 
+    "url": "http://www.tlg.uci.edu/authors/post_tlg_e.php", 
+    "zotero_id": null
+}

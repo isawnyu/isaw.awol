@@ -1,0 +1,58 @@
+{
+    "description": "The Byzantine Institute was founded by Thomas Whittemore\u00a0in 1930 with the goal to conserve, restore, study, and document the art and architecture of the former Byzantine Empire.\u00a0Starting with its first fieldwork project, conducted from 1929 to 1931 at the Red Sea Monasteries in Egypt, the Byzantine Institute used the medium of the moving image to document the site and its inhabitants.\u00a0The Byzantine Institute reprised this approach to documentation during its cleaning and restoration work at Hagia Sophia and Kariye Camii in Istanbul, using color films to record the mosaics in different light situations and stages of uncovering.\u00a0The Image Collections and Fieldwork Archives (ICFA) at Dumbarton Oaks holds thirteen (13) of the Byzantine Institute's motion picture films: one of the Red Sea Monasteries, eleven (11) of the Hagia Sophia, and another one of the Kariye Camii. This exhibit aims to reveal the context of these films by combining them with archival records from the Byzantine Institute and Dumbarton Oaks Fieldwork Records and Papers. While the films themselves provide indispensable testimony of the mosaics and the techniques employed to uncover them, the meticulous written documentation produced by Byzantine Institute staff - especially the restorers Ernest Hawkins and the brothers Richard and William Gregory - make the history of their creation come alive. These fieldwork notebooks and letters make it possible to reconstruct a detailed timeline of the making and showing of the films of Hagia Sophia and Kariye Camii.", 
+    "domain": "www.doaks.org", 
+    "history": [
+        "2015-06-03T04:59:49.227866: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2014/01/online-exhibition-truthful-record.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Byzantium", 
+        "Dumbarton Oaks", 
+        "Egypt", 
+        "Red Sea", 
+        "architecture", 
+        "archives", 
+        "art", 
+        "conservation", 
+        "document", 
+        "empires", 
+        "history", 
+        "imagery", 
+        "mosaics", 
+        "video"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8188062821183502425", 
+            "resource_date": "2014-01-13T11:28:10.828-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:49.228448"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/online-exhibition-truthful-record.html", 
+            "resource_date": "2014-01-13T11:28:10.828-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:49.228456"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "A Truthful Record: The Byzantine Institute Films", 
+    "url": "http://www.doaks.org/library-archives/icfa/special-projects/online-exhibitions/a-truthful-record/history", 
+    "zotero_id": null
+}

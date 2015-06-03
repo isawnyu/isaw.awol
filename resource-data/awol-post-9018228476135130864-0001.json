@@ -1,0 +1,46 @@
+{
+    "description": "Das Institut f\u00fcr Dokumentologie und Editorik nimmt in seiner Schriftenreihe Stellung zur Diskussion \u00fcber den Einsatz moderner Informationstechnologien in der Arbeit mit historischen Dokumenten und Texten. Es \u00fcbernimmt die Herausgeberschaft f\u00fcr Publikationen aus dem Arbeitsumfeld des Instituts.", 
+    "domain": "www.i-d-e.de", 
+    "history": [
+        "2015-06-03T04:59:52.714097: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/09/open-access-publictions-from-institut.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "open access"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9018228476135130864", 
+            "resource_date": "2013-01-13T18:30:34.887-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:52.714643"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/09/open-access-publictions-from-institut.html", 
+            "resource_date": "2013-01-13T18:30:34.887-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:52.714650"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open Access Publications from the Institut f\u00fcr Dokumentologie und Editorik", 
+    "url": "http://www.i-d-e.de/schriften", 
+    "zotero_id": null
+}

@@ -1,0 +1,46 @@
+{
+    "description": "News from the project written by its developers and users", 
+    "domain": "pleiades.stoa.org", 
+    "history": [
+        "2015-06-03T04:59:40.300524: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/12/keeping-up-with-pleiades.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "blog", 
+        "project"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6155643359293318287", 
+            "resource_date": "2011-12-07T15:04:30.306-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:40.301645"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/keeping-up-with-pleiades.html", 
+            "resource_date": "2011-12-07T15:04:30.306-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:40.301655"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Keeping up with Pleiades", 
+    "url": "http://pleiades.stoa.org/news/blog", 
+    "zotero_id": null
+}

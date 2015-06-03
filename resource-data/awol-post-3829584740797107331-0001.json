@@ -1,0 +1,58 @@
+{
+    "description": "First published in 1999, Pseudo-Dionysius is run by undergraduate and graduate students at Dalhousie and the University of King's College.\u00a0 It offers the opportunity for university students at all levels to publish their work.", 
+    "domain": "ojs.library.dal.ca", 
+    "history": [
+        "2015-06-03T04:59:30.503989: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/11/newly-open-access-journal-pseudo.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Gaul", 
+        "Roman", 
+        "Rome", 
+        "antiquity", 
+        "book", 
+        "classics", 
+        "conference", 
+        "gender", 
+        "history", 
+        "journal", 
+        "open access", 
+        "philosophy", 
+        "student journal", 
+        "website"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3829584740797107331", 
+            "resource_date": "2013-11-18T08:34:46.203-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:30.504567"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/11/newly-open-access-journal-pseudo.html", 
+            "resource_date": "2013-11-18T08:34:46.203-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:30.504575"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Pseudo-Dionysius", 
+    "url": "http://ojs.library.dal.ca/PseudoDio/index", 
+    "zotero_id": null
+}

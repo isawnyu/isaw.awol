@@ -1,0 +1,55 @@
+{
+    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports:", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-03T04:59:29.066161: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/03/viewing-complete-books-in-amar.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Amar", 
+        "Mesopotamia", 
+        "archaeological site", 
+        "archaeology", 
+        "archive", 
+        "book", 
+        "digital library", 
+        "open access", 
+        "reports", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        0.999999555978418
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3469875165025212226", 
+            "resource_date": "2013-03-28T10:53:49.922-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:29.066694"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/viewing-complete-books-in-amar.html", 
+            "resource_date": "2013-03-28T10:53:49.922-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:29.066701"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Viewing complete books in AMAR", 
+    "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "zotero_id": null
+}

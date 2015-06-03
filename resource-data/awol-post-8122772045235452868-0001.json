@@ -1,0 +1,55 @@
+{
+    "description": "ISSN: 1361-9144 The Society publishes an annual Bulletin in the Spring giving information on research, publications, field work, conferences and events in the Arabian peninsula in fields ranging from archaeology and history to natural history and the environment. It also carries feature articles and book reviews.", 
+    "domain": "www.societyforarabianstudies.org", 
+    "history": [
+        "2015-06-03T04:59:48.924698: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-journal-bulletin-of-society.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Arabia", 
+        "antiquity", 
+        "archaeology", 
+        "book", 
+        "book reviews", 
+        "history", 
+        "imagery", 
+        "journal", 
+        "natural history", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8122772045235452868", 
+            "resource_date": "2012-01-26T18:52:20.884-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:48.925321"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-bulletin-of-society.html", 
+            "resource_date": "2012-01-26T18:52:20.884-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:48.925330"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bulletin of the Society for Arabian Studies", 
+    "url": "http://www.societyforarabianstudies.org/bulletin.shtml", 
+    "zotero_id": null
+}

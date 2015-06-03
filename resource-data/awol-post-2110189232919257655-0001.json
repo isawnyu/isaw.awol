@@ -1,0 +1,74 @@
+{
+    "description": "Studii de Preistorie 12002 Studii de Preistorie 22003-2004 Studii de Preistorie 32005-2006", 
+    "domain": "arheologie.ro", 
+    "history": [
+        "2015-06-03T04:59:22.627962: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/07/open-access-journal-studii-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {
+        "isbn": {
+            "generic": [
+                "0", 
+                "13", 
+                "2", 
+                "978"
+            ]
+        }
+    }, 
+    "keywords": [
+        "Cambridge", 
+        "Cucuteni", 
+        "Mediterranean", 
+        "Romania", 
+        "Romanian", 
+        "Romanian archaeology", 
+        "anthropology", 
+        "antiquity", 
+        "archaeological site", 
+        "archaeology", 
+        "atlas", 
+        "bronze", 
+        "collaboration", 
+        "culture", 
+        "data", 
+        "imagery", 
+        "journal", 
+        "open access", 
+        "prehistory", 
+        "project", 
+        "women"
+    ], 
+    "language": [
+        "ro", 
+        0.9999999999994034
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2110189232919257655", 
+            "resource_date": "2010-07-07T10:26:17.930-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:22.628569"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/open-access-journal-studii-de.html", 
+            "resource_date": "2010-07-07T10:26:17.930-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:22.628578"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Studii de Preistorie", 
+    "url": "http://arheologie.ro/activitate.html", 
+    "zotero_id": null
+}

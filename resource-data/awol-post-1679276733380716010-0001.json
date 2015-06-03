@@ -1,0 +1,48 @@
+{
+    "description": "La Revista Virtual Byblos nace de la dificultad planteada en los \u00faltimos a\u00f1os de estar al tanto de la ingente producci\u00f3n bibliogr\u00e1fica que en los campos hist\u00f3rico e hist\u00f3rico-jur\u00eddico se ha generado. En los pa\u00edses anglosajones, donde el desarrollo de los recursos en red est\u00e1 m\u00e1s avanzado, hace tiempo que algunas universidades, aprovechando la extensi\u00f3n de las listas de distribuci\u00f3n de correo, han creado p\u00e1ginas web donde el staff universitario y los miembros de dichas listas cuelgan peri\u00f3dicamente rese\u00f1as y, sobre todo, recensiones cr\u00edticas de los trabajos le\u00eddos por todos ellos, de modo que, mediante este procedimiento, se consigue que el trabajo de lectura de todos enriquezca a gran n\u00famero de personas, que se evitan la penosa tarea de leer gran cantidad de estudios.", 
+    "domain": "www.ucm.es", 
+    "history": [
+        "2015-06-03T04:59:20.712385: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-byblos-revista-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access", 
+        "website"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1679276733380716010", 
+            "resource_date": "2010-09-24T10:35:38.329-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:20.712987"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-byblos-revista-de.html", 
+            "resource_date": "2010-09-24T10:35:38.329-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:20.712995"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Byblos: Revista de Historiograf\u00eda Hist\u00f3rico-Jur\u00eddica", 
+    "url": "http://www.ucm.es/info/byblos/", 
+    "zotero_id": null
+}

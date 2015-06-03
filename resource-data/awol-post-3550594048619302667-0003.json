@@ -1,0 +1,54 @@
+{
+    "description": "Release Content: Vols. 100-101 (2005-2006)Moving Wall: 3 yearsPublisher: The British School at AthensISSN: 0068-2454", 
+    "domain": "www.jstor.org", 
+    "history": [
+        "2015-06-03T04:59:29.370333: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Athens", 
+        "Ireland", 
+        "JSTOR", 
+        "Middle Ages", 
+        "antiquity", 
+        "archaeology", 
+        "classics", 
+        "history", 
+        "journal", 
+        "language"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3550594048619302667", 
+            "resource_date": "2010-02-05T09:52:44.401-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:29.370860"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/new-ancient-world-content-in-jstor.html", 
+            "resource_date": "2010-02-05T09:52:44.401-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:29.370867"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Annual of the British School at Athens", 
+    "url": "http://www.jstor.org/action/showPublication?journalCode=annubritschoathe", 
+    "zotero_id": null
+}

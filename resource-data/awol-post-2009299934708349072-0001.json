@@ -1,0 +1,82 @@
+{
+    "description": "The Center for the Preservation of Ancient Religious Texts is devoted to the recovery, study, preservation, and publication of ancient religious texts. Our primary focus is upon textual research and the development of print and electronic editions and research tools which advance the study of the Bible and its context, early Christianity, and the Christian East. Since 1997 the Center has been involved in research and preservation projects relating to the Dead Sea Scrolls, the Herculaneum papyri, Syriac manuscripts from the Vatican Library, and many other texts and collections. All of these projects are characterized by a successful collaboration between traditional textual scholarship and emerging technologies.", 
+    "domain": "cpart.byu.edu", 
+    "history": [
+        "2015-06-03T04:59:22.263885: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open-access-books-from-center-for.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Arabic", 
+        "Bible", 
+        "British Museum", 
+        "Cambridge", 
+        "Christianity", 
+        "Coptic", 
+        "Dead Sea Scrolls", 
+        "Europe", 
+        "German", 
+        "Herculaneum", 
+        "Jerusalem", 
+        "New Testament", 
+        "Old Testament", 
+        "Syria", 
+        "Syriac", 
+        "antiquity", 
+        "bible", 
+        "book", 
+        "catalogue", 
+        "collaboration", 
+        "dictionaries", 
+        "digital library", 
+        "egyptology", 
+        "geography", 
+        "history", 
+        "lexicography", 
+        "lexicon", 
+        "library", 
+        "literature", 
+        "manuscripts", 
+        "museums", 
+        "papyrology", 
+        "preservation", 
+        "project", 
+        "religion", 
+        "theology", 
+        "tools"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2009299934708349072", 
+            "resource_date": "2012-04-05T07:36:48.015-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:22.264534"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-books-from-center-for.html", 
+            "resource_date": "2012-04-05T07:36:48.015-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:22.264543"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Center for the Preservation of Ancient Religious Texts", 
+    "url": "http://cpart.byu.edu/?page=1", 
+    "zotero_id": null
+}

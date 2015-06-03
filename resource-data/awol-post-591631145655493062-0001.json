@@ -1,0 +1,51 @@
+{
+    "description": "The Journal of Ancient Numismatics (JAN) is a quarterly newsletter that focuses on articles and news of interest the the collector and student of Ancient Numismatics.Hopefully we will be able to continue providing articles for both the beginning and seasoned collector and introduce different areas of collecting interests as well as provide relevant news to our readers.JAN began as a newsletter for Imperial Coins & Artifacts but has taken on a life of it's own. It is my hope that it will continue to grow and become a valuable resource to the advanced numismatist and the beginning collector alike.", 
+    "domain": "imperialcoins.com", 
+    "history": [
+        "2015-06-03T04:59:39.143162: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/open-access-journal-journal-of-ancient.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "collecting", 
+        "empires", 
+        "journal", 
+        "newsletter", 
+        "numismatics", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-591631145655493062", 
+            "resource_date": "2012-05-15T10:14:50.957-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:39.144771"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-journal-of-ancient.html", 
+            "resource_date": "2012-05-15T10:14:50.957-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:39.144787"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Journal of Ancient Numismatics", 
+    "url": "http://imperialcoins.com/newsletters/index.html", 
+    "zotero_id": null
+}

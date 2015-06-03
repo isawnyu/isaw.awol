@@ -1,0 +1,51 @@
+{
+    "description": "Edited by Michael L. Galaty, Dimitri Nakassis, and William A. Parkinson", 
+    "domain": "www.ajaonline.org", 
+    "history": [
+        "2015-06-03T04:59:50.901426: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/04/open-access-forum-redistribution-in.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AJA", 
+        "Aegean", 
+        "Mycenean", 
+        "archaeology", 
+        "bronze", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999999997220792
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8591143550092572530", 
+            "resource_date": "2011-04-13T06:32:43.349-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:50.902035"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/open-access-forum-redistribution-in.html", 
+            "resource_date": "2011-04-13T06:32:43.349-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:50.902044"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Redistribution in Aegean Palatial Societies", 
+    "url": "http://www.ajaonline.org/toc/1152", 
+    "zotero_id": null
+}

@@ -1,0 +1,52 @@
+{
+    "description": "Septuaginta LXX ProjectSeptuaginta LXX Project aims to produce an online\u00a0edition of the Septuagint with a comprehensive critical apparatus, and a new English translation. We seek to collate all extant ancient manuscripts of the Septuagint and make them available at this website.Septuaginta\u2019s Goals:A new critical text of the Septuagint that is as close as possible to the original text.A comprehensive critical apparatus.A new English translation for the Septuagint, Aquila, Symmachus, and Theodotion.A PDF version of the Septuagint\u00a0that will be made available for download. New VersesGenesis 1:5Genesis 1:4Genesis 1:3Genesis 1:2Genesis 1:1BooksGenesis", 
+    "domain": "septuaginta.net", 
+    "history": [
+        "2015-06-03T04:59:38.076663: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/09/emerging-online-septuagint.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Bible", 
+        "Greek", 
+        "Old Testament", 
+        "Septuagint", 
+        "antiquity", 
+        "manuscripts", 
+        "project", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5678129668490364792", 
+            "resource_date": "2012-10-11T15:46:03.619-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:38.077221"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/emerging-online-septuagint.html", 
+            "resource_date": "2012-10-11T15:46:03.619-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:38.077228"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Emerging Online Septuagint", 
+    "url": "http://septuaginta.net/", 
+    "zotero_id": null
+}

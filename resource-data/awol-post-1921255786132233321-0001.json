@@ -1,0 +1,56 @@
+{
+    "description": "The INSTAP-SCEC Newsletter, published annually, is a marvelous way to keep up with events and happenings at the Center. This newsletter contains short articles on member projects, work conducted at the Center, and special features. It regularly offers scholars from the Center a forum for presenting their work.", 
+    "domain": "www.instapstudycenter.net", 
+    "history": [
+        "2015-06-03T04:59:21.868460: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/02/opern-access-journal-kentro.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Crete", 
+        "Greece", 
+        "antiquity", 
+        "archaeology", 
+        "ceramics", 
+        "conservation", 
+        "forum", 
+        "journal", 
+        "newsletter", 
+        "open access", 
+        "pottery", 
+        "report"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1921255786132233321", 
+            "resource_date": "2012-12-27T16:57:20.398-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:21.869014"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/opern-access-journal-kentro.html", 
+            "resource_date": "2012-12-27T16:57:20.398-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:21.869022"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Kentro", 
+    "url": "http://www.instapstudycenter.net/newsletter/index.html", 
+    "zotero_id": null
+}

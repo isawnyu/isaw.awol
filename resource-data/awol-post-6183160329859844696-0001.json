@@ -1,0 +1,51 @@
+{
+    "description": "Misi\u00f3n Publicar art\u00edculos, notas breves y rese\u00f1as sobre temas de filolog\u00eda, filosof\u00eda, historia y arte grecorromanos, producidos por investigadores argentinos y extranjeros.N\u00fameros disponibles*A\u00f1oVolumen \u00a0\u00a0 N\u00famero \u00a0\u00a02011341\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a020103312\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a020093212", 
+    "domain": "www.scielo.org.ar", 
+    "history": [
+        "2015-06-03T04:59:40.433757: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/02/newly-open-access-journal-argos-revista.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Argentina", 
+        "antiquity", 
+        "art", 
+        "classics", 
+        "history", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6183160329859844696", 
+            "resource_date": "2012-02-06T18:28:14.253-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:40.434428"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/newly-open-access-journal-argos-revista.html", 
+            "resource_date": "2012-02-06T18:28:14.253-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:40.434436"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Argos: Revista de la Asociaci\u00f3n Argentina de Estudios Cl\u00e1sicos", 
+    "url": "http://www.scielo.org.ar/scielo.php?script=sci_serial&pid=1853-6379", 
+    "zotero_id": null
+}

@@ -1,0 +1,57 @@
+{
+    "description": "AIGYPTOS was developed as a tool to enable a fast and precise search for Egyptological publications. With its help you can find the latest material for any Egyptological subject you are interested in either by use of a single search term or by combination of several keywords. The database was developed in 1990 at the Institute of Egyptology of the University of Munich, Germany. Since 1996 the Department of Egyptology at the University of Heidelberg, Germany has participated in processing the material. The database concentrates on: comprehensive processing of the publications in the field of Egyptology since the publication year 1978high degree of topicality through continuous input of new publicationsextensive subject indexing of all material by means of a standardized and detailed keyword systemquick and easy availability of the literature through a hyperlink to Subito, the literature delivery service of the academic libraries in GermanyIn addition to the main issue, i.e. Egyptology from Prehistory until Graeco-Roman times, you will find material concerning Coptic and Nubian studies, but not to the same extent.The collaboration with the Heidelberg University Library which started in November 2002 enabled us to enlarge the literature stock of AIGYPTOS considerably. As a result, the major part of the Egyptological literature starting with the publication year 1978, consisting of 52931\u00a0entries, is now searchable in our database. There will, however, always be some publications since 1978, which escaped our attention; if in your opinion you detect a severe lack, please send an e-mail with the relevant information to us.Please keep in mind: The AIGYPTOS project does not aim at providing a bibliography of all Egyptological material ever published. For this you may refer to the Annual Egyptological Bibliography in Leiden, Netherlands where abstracts of Egyptological publications have been edited since 1947; also you may use the Bibliographie Altaegypten 1822-1946 which was compiled by Dr. Beinlich-Seeber (Munich/Wuerzburg, Germany). Links to additional tools for searching Egyptological publications are available here.", 
+    "domain": "www.aigyptos.uni-muenchen.de", 
+    "history": [
+        "2015-06-03T04:59:33.095803: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/05/aigyptos-egyptological-bibliographical.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Coptic", 
+        "Germany", 
+        "Netherlands", 
+        "bibliography", 
+        "collaboration", 
+        "data", 
+        "database", 
+        "egyptology", 
+        "libraries", 
+        "literature", 
+        "prehistory", 
+        "project", 
+        "tools"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4470187794213347103", 
+            "resource_date": "2011-05-31T11:39:42.432-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:33.096344"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/aigyptos-egyptological-bibliographical.html", 
+            "resource_date": "2011-05-31T11:39:42.432-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:33.096352"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Aigyptos Egyptological Bibliographical Database", 
+    "url": "http://www.aigyptos.uni-muenchen.de/", 
+    "zotero_id": null
+}

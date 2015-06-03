@@ -1,0 +1,47 @@
+{
+    "description": "Release Content: Vol. 46, No. 4 (May, 2007) \u2013 Vol. 49, No. 1 (August, 2009) Moving Wall: 5 years Publisher: University of Chicago Press ISSN: 0018-2710", 
+    "domain": "www.jstor.org", 
+    "history": [
+        "2015-06-03T04:59:22.022869: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "JSTOR", 
+        "antiquity", 
+        "history"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1970970912930647566", 
+            "resource_date": "2010-04-27T18:42:09.328-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:22.023456"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html", 
+            "resource_date": "2010-04-27T18:42:09.328-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:22.023464"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "History of Religions", 
+    "url": "http://www.jstor.org/action/showPublication?journalCode=historyreligions", 
+    "zotero_id": null
+}

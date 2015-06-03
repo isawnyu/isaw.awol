@@ -1,0 +1,46 @@
+{
+    "description": "Periodice", 
+    "domain": "www.mnir.ro", 
+    "history": [
+        "2015-06-03T04:59:39.393085: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/08/digital-library-muzeul-national-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Romania", 
+        "digital library"
+    ], 
+    "language": [
+        "ro", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-594967432813277624", 
+            "resource_date": "2011-08-26T09:35:12.748-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:39.393647"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/digital-library-muzeul-national-de.html", 
+            "resource_date": "2011-08-26T09:35:12.748-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:39.393655"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Muzeul Na\u0163ional de Istorie a Rom\u00e2niei", 
+    "url": "http://www.mnir.ro/ro/Publicatii/Periodice.aspx", 
+    "zotero_id": null
+}

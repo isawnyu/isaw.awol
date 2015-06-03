@@ -1,0 +1,53 @@
+{
+    "description": "Munibe Antropologia-Arkeologia is one of the journals published by the Sociedad de Ciencias Aranzadi Reserach Centre, which was founded in 1947 with aim of protecting, researching and disseminating our archeological, ethnografic and natural heritage.", 
+    "domain": "www.aranzadi-zientziak.org", 
+    "history": [
+        "2015-06-03T04:59:27.048100: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-journal-munibe-antropologia.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Spain", 
+        "anthropology", 
+        "antiquity", 
+        "archaeology", 
+        "art", 
+        "catalogue", 
+        "journal", 
+        "journal issues", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3075116150511841759", 
+            "resource_date": "2013-01-24T09:35:51.489-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:27.048734"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-journal-munibe-antropologia.html", 
+            "resource_date": "2013-01-24T09:35:51.489-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:27.048743"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Munibe Antropologia-Arkeologia", 
+    "url": "http://www.aranzadi-zientziak.org/fileadmin/webs/Munibe/Html/MunibeAA/index-eng.html", 
+    "zotero_id": null
+}

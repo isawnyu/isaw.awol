@@ -1,0 +1,56 @@
+{
+    "description": "The Paleoanthropology Society provides a dissertation (PhD thesis) distribution service. We will place your dissertation, in Adobe Acrobat PDF format, on our web server so that others can easily access it. This service does not preclude you from publishing it elsewhere.To place your dissertation on this web site, you will first need to submit the abstract to us for review. We will assess whether it meets with our mission to support work in the field of paleoanthropology. Once it is accepted, you will then provide us with a PDF version.", 
+    "domain": "www.paleoanthro.org", 
+    "history": [
+        "2015-06-03T04:59:26.737348: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-paleoanthropology.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "California", 
+        "Europe", 
+        "Hebrew", 
+        "South Africa", 
+        "archaeology", 
+        "collaboration", 
+        "dissertations", 
+        "food", 
+        "history", 
+        "open access", 
+        "technology", 
+        "website"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3029520076253638769", 
+            "resource_date": "2013-08-30T11:43:29.567-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:26.737934"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-paleoanthropology.html", 
+            "resource_date": "2013-08-30T11:43:29.567-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:26.737942"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open Access Paleoanthropology Dissertations", 
+    "url": "http://www.paleoanthro.org/", 
+    "zotero_id": null
+}

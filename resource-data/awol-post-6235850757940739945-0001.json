@@ -1,0 +1,58 @@
+{
+    "description": "This is the archive of Gouden Hoorn (Golden Horn), Journal of Byzantium, which was published by Godiva \u00c9ditions on the initiative of the Council of Independent Byzantinists (Onafhankelijk Byzantinologen Overleg, OBO), that was founded on 29th November, 1991. The OBO aims at informing and bringing together lovers of Byzantium. The OBO hoped to reach its goal by publishing Gouden Hoorn twice a year.", 
+    "domain": "goudenhoorn.com", 
+    "history": [
+        "2015-06-03T04:59:40.670164: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/open-access-journal-gouden-hoorn.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0929-7820"
+            ]
+        }
+    }, 
+    "keywords": [
+        "AWOL", 
+        "Byzantium", 
+        "Netherlands", 
+        "antiquity", 
+        "archive", 
+        "journal", 
+        "journal issues", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6235850757940739945", 
+            "resource_date": "2013-12-16T06:26:03.771-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:40.670717"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-gouden-hoorn.html", 
+            "resource_date": "2013-12-16T06:26:03.771-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:40.670725"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Gouden Hoorn, Golden Horn: Journal of Byzantium", 
+    "url": "http://goudenhoorn.com/", 
+    "zotero_id": null
+}

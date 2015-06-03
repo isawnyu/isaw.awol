@@ -1,0 +1,48 @@
+{
+    "description": "L'arch\u00e9ologie pr\u00e9ventive dans le monde Jean-Paul Demoule 2007La D\u00e9couverte Consulter L'avenir du pass\u00e9 Jean-Paul Demoule et al.2008La D\u00e9couverte Consulter Pyth\u00e9as le Grec d\u00e9couvre l\u2019Europe du Nord Barry Cunliffe 2003Autrement Consulter La r\u00e9sistance africaine \u00e0 la romanisation Alain B\u00e9nabent 2005La D\u00e9couverte Consulter Vies priv\u00e9es des \u00c9gyptiens 1539-1075 Lynn Meskell 2002Autrement Consulter", 
+    "domain": "www.cairn.info", 
+    "history": [
+        "2015-06-03T04:59:43.194905: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2014/01/open-access-archaeology-books-from-cairn.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "archaeology", 
+        "book", 
+        "digital library", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6730820566622516105", 
+            "resource_date": "2014-01-11T09:54:01.615-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:43.195516"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/open-access-archaeology-books-from-cairn.html", 
+            "resource_date": "2014-01-11T09:54:01.615-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:43.195524"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open Access Archaeology Books from Cairn", 
+    "url": "http://www.cairn.info/Disc_OuvragesCollectifs.php?POS=27&TITRE=ALL", 
+    "zotero_id": null
+}

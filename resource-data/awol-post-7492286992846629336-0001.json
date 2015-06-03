@@ -1,0 +1,49 @@
+{
+    "description": "Open Access is a term used to describe content that a reader can access free of charge. With the ProQuest Open Access Publishing PLUS option (formerly UMI Open Access Publishing), graduate students can now publish their dissertations and theses with ProQuest on an open access basis, significantly increasing the reach of their research.", 
+    "domain": "www.proquest.com", 
+    "history": [
+        "2015-06-03T04:59:46.206389: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/04/how-to-convert-your-proquest.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "data", 
+        "database", 
+        "dissertations", 
+        "open access", 
+        "theses"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7492286992846629336", 
+            "resource_date": "2013-07-23T10:09:54.083-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:46.206942"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/how-to-convert-your-proquest.html", 
+            "resource_date": "2013-07-23T10:09:54.083-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:46.206949"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "How to convert your ProQuest Dissertation to Open Access", 
+    "url": "http://www.proquest.com/en-US/products/dissertations/epoa.shtml", 
+    "zotero_id": null
+}

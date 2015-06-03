@@ -1,0 +1,52 @@
+{
+    "description": "Fourth issue (year 2, nr. 1; May, 16, 1996) - go to its contents - download it for Mac or for PC.\u00a0\u00a0Previous Issues", 
+    "domain": "www.cisi.unito.it", 
+    "history": [
+        "2015-06-03T04:59:31.931476: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-arachnion.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "antiquity", 
+        "classics", 
+        "history", 
+        "journal", 
+        "journal issues", 
+        "literature", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.999999999997879
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4172615587830420486", 
+            "resource_date": "2012-07-09T10:46:53.532-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:31.932037"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-arachnion.html", 
+            "resource_date": "2012-07-09T10:46:53.532-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:31.932045"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ARACHNION", 
+    "url": "http://www.cisi.unito.it/arachne/arachne.html", 
+    "zotero_id": null
+}

@@ -1,0 +1,52 @@
+{
+    "description": "Annual digital journal on research in Conservation and Cultural Heritage e-\u03b4ialogos is an annual digital journal on research in conservation and cultural heritage.", 
+    "domain": "www.diadrasis.org", 
+    "history": [
+        "2015-06-03T04:59:29.722218: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2014/01/open-access-journal-e-ialogos-annual.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Dialogos", 
+        "antiquity", 
+        "conservation", 
+        "cultural heritage", 
+        "culture", 
+        "heritage", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3653173498665999396", 
+            "resource_date": "2014-01-10T07:38:18.799-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:29.722751"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/open-access-journal-e-ialogos-annual.html", 
+            "resource_date": "2014-01-10T07:38:18.799-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:29.722759"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "e-\u03b4ialogos: Annual digital journal on research in Conservation and Cultural Heritage", 
+    "url": "http://www.diadrasis.org/edialogos.html", 
+    "zotero_id": null
+}

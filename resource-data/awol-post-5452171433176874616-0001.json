@@ -1,0 +1,47 @@
+{
+    "description": "The Journal of Ancient Fingerprints was initiated in 2005 by the newly formed non-profi organisation The Society of Ancient Fingerprints.Our Journal is published on the internet and is available for free download.", 
+    "domain": "www.ancientfingerprints.org", 
+    "history": [
+        "2015-06-03T04:59:37.195127: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/03/journal-of-ancient-fingerprints-journal.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5452171433176874616", 
+            "resource_date": "2010-03-23T05:51:45.347-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:37.195680"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/03/journal-of-ancient-fingerprints-journal.html", 
+            "resource_date": "2010-03-23T05:51:45.347-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:37.195687"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Journal of Ancient Fingerprints", 
+    "url": "http://www.ancientfingerprints.org/journal.htm", 
+    "zotero_id": null
+}

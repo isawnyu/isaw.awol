@@ -1,0 +1,55 @@
+{
+    "description": "The Bulletin of the Indo-Pacific Prehistory Association is an international, peer-reviewed, open access online journal. It's purpose is to disseminate rapid communications and field reports on the archaeology of East Asia, Southeast Asia and the Pacific.", 
+    "domain": "journals.lib.washington.edu", 
+    "history": [
+        "2015-06-03T04:59:41.140502: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/06/open-access-journal-bulletin-of-indo.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Asia", 
+        "Southeast Asia", 
+        "antiquity", 
+        "archaeology", 
+        "conference", 
+        "journal", 
+        "journal issues", 
+        "open access", 
+        "prehistory", 
+        "reports"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6332785520785037410", 
+            "resource_date": "2012-06-22T08:07:20.863-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:41.141130"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/06/open-access-journal-bulletin-of-indo.html", 
+            "resource_date": "2012-06-22T08:07:20.863-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:41.141138"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bulletin of the Indo-Pacific Prehistory Association", 
+    "url": "http://journals.lib.washington.edu/index.php/BIPPA/index", 
+    "zotero_id": null
+}

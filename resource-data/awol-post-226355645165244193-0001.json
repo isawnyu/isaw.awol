@@ -1,0 +1,50 @@
+{
+    "description": "Please enter the award-winning internet encyclopedia of mythology, folklore, and religion. Here you will find everything from A-gskw to Zveda Vechanyaya, with plenty in between.", 
+    "domain": "www.pantheon.org", 
+    "history": [
+        "2015-06-03T04:59:23.601501: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/encyclopedia-mythica-online.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Arabia", 
+        "Middle East", 
+        "encyclopedia", 
+        "imagery", 
+        "mythology", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-226355645165244193", 
+            "resource_date": "2013-01-13T18:38:51.304-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:23.602055"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/encyclopedia-mythica-online.html", 
+            "resource_date": "2013-01-13T18:38:51.304-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:23.602063"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Encyclopedia Mythica Online", 
+    "url": "http://www.pantheon.org/", 
+    "zotero_id": null
+}

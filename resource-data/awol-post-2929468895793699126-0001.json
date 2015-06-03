@@ -1,0 +1,46 @@
+{
+    "description": "G\u00f6ttinger Miszellen : have come on line.Volumes (1972) - 219 (2008) are currently accessible to subscribers to .Other ancient content in this aggregation is .If you'd like to have access to these and the rest of the Digizeitschriften collection, bring it to the attention of your librarians.", 
+    "domain": "www.digizeitschriften.de", 
+    "history": [
+        "2015-06-03T04:59:26.131324: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/05/more-gottinger-miszellen-online.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "DigiZeitschriften", 
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2929468895793699126", 
+            "resource_date": "2013-09-30T10:52:12.868-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:26.132067"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/05/more-gottinger-miszellen-online.html", 
+            "resource_date": "2013-09-30T10:52:12.868-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:26.132081"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "More G\u00f6ttinger Miszellen online", 
+    "url": "http://www.digizeitschriften.de/resolveppn/PPN522563589", 
+    "zotero_id": null
+}

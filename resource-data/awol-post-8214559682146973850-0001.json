@@ -1,0 +1,53 @@
+{
+    "description": "Anales de prehistoria y arqueolog\u00eda: ISSN: 0213-5663: cuadernos de estudios sobre el Ej\u00e9rcito RomanoISSN: 1578-1518ISSN: 1996-5214ISSN: 0210-9573ISSN: 0214-4999ISSN: 1133-2085ISSN: 0212-1824ISSN: 1852-0723ISSN: 1666-7832ISSN: 1988-8015ISSN: 1130-0515ISSN: 0211-1187ISSN: 1575-0221ISSN: 1885-3145: Sociedad Espa\u00f1ola de Estudios MayasISSN: 1130-6157ISSN: 0210-2943ISSN: 0213-9634ISSN: 1137-0793ISSN: 0211-5174", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-03T04:59:49.382889: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "archaeology", 
+        "archeaology", 
+        "art", 
+        "history", 
+        "journal", 
+        "open access", 
+        "philology", 
+        "prehistory"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8214559682146973850", 
+            "resource_date": "2009-09-20T15:33:38.380-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:49.383429"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html", 
+            "resource_date": "2009-09-20T15:33:38.380-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:49.383436"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open Access Journals in Ancient Studies at Dialnet", 
+    "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=78", 
+    "zotero_id": null
+}

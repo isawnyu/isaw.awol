@@ -1,0 +1,48 @@
+{
+    "description": "Annuaire du Mus\u00e9e Gr\u00e9co-Romain d'Alexandrie 1925-1931:", 
+    "domain": "www.e-corpus.org", 
+    "history": [
+        "2015-06-03T04:59:20.190195: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/05/open-access-journal-annuaire-du-musee.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "journal", 
+        "museums", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1591097540905869240", 
+            "resource_date": "2010-05-17T15:37:20.669-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:20.190792"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/05/open-access-journal-annuaire-du-musee.html", 
+            "resource_date": "2010-05-17T15:37:20.669-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:20.190800"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Annuaire du Mus\u00e9e Gr\u00e9co-Romain d'Alexandrie", 
+    "url": "http://www.e-corpus.org/eng/notices/32503-Annuaire-du-Musee-Greco-Romain-d-Alexandrie-1925-1931.html", 
+    "zotero_id": null
+}

@@ -1,0 +1,50 @@
+{
+    "description": "1960 wurde erstmals ein Jahresbericht des Deutschen Arch\u00e4ologischen Instituts in der Zeitschrift Arch\u00e4ologischer Anzeiger gedruckt ver\u00f6ffentlicht. Ab dem Jahrgang 2006 wird der Jahresbericht in Farbe herausgegeben und ist von nun an gleichzeitig als Online-Version verf\u00fcgbar.Jahresbericht 2006Jahresbericht 2007 Jahresbericht 2008 Jahresbericht 2009 Jahresbericht 2010 Jahresbericht 2011", 
+    "domain": "www.dainst.org", 
+    "history": [
+        "2015-06-03T04:59:50.043557: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/10/open-access-journal-jahresberichte-des.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "DAI", 
+        "annual report", 
+        "antiquity", 
+        "journal", 
+        "open access", 
+        "report"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-834432348754860870", 
+            "resource_date": "2013-10-03T06:19:33.048-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:50.044093"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journal-jahresberichte-des.html", 
+            "resource_date": "2013-10-03T06:19:33.048-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:50.044101"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Jahresberichte des Deutschen Arch\u00e4ologischen Instituts", 
+    "url": "http://www.dainst.org/de/node/28799", 
+    "zotero_id": null
+}

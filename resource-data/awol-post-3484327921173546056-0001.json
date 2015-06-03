@@ -1,0 +1,54 @@
+{
+    "description": "THIS CONCORDANCE was prepared as the basis for a new study of the lexicon, orthography, and grammar of the Pyramid Texts. It contains all currently available instances of Pyramid Texts from the pyramids of Unis to those of Pepi II\u2019s queens. Where possible, the texts have been scanned from photographs (Unis) or published facsimiles, each sized to a width of 8.9 mm (0.35 in); I am grateful to E\u0301lise Be\u0300ne for permission to use the facsimiles of Teti\u2019s texts that she prepared for her doctoral dissertation. Where no facsimile was available, I have used the hand copies published by Sethe, sometimes rearranged to avoid excessively large signs or gaps between signs; I have also reversed Sethe\u2019s consistent left-facing lines when the original faces right. The Merenre fragments published in Orientalia are rendered in normalized hieroglyphs.", 
+    "domain": "www.dropbox.com", 
+    "history": [
+        "2015-06-03T04:59:29.109430: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/a-new-concordance-of-pyramid-texts.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "Hieroglyphs", 
+        "digitization", 
+        "egyptology", 
+        "epigraphy", 
+        "grammar", 
+        "imagery", 
+        "old kingdom", 
+        "philology", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3484327921173546056", 
+            "resource_date": "2013-10-14T10:51:27.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:29.110079"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/a-new-concordance-of-pyramid-texts.html", 
+            "resource_date": "2013-10-14T10:51:27.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:29.110088"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "A New Concordance of the Pyramid Texts", 
+    "url": "https://www.dropbox.com/sh/0xo88uy04urnz0v/o16_ojF8f_", 
+    "zotero_id": null
+}

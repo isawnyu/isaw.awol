@@ -1,0 +1,54 @@
+{
+    "description": "Ancient World Open Bibliographies: (announced on October 18 2010) will be used for collecting links to existing open-access bibliographies that fit the scope of the project.", 
+    "domain": "ancientbiblio.wordpress.com", 
+    "history": [
+        "2015-06-03T04:59:21.974317: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/11/ancient-world-open-bibliographies.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Bible", 
+        "Near East", 
+        "New Testament", 
+        "antiquity", 
+        "bibliography", 
+        "collecting", 
+        "language", 
+        "manuscripts", 
+        "project", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1969144471530287954", 
+            "resource_date": "2010-11-09T10:31:18.973-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:21.974852"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/ancient-world-open-bibliographies.html", 
+            "resource_date": "2010-11-09T10:31:18.973-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:21.974859"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ancient World Open Bibliographies Update", 
+    "url": "http://ancientbiblio.wordpress.com/", 
+    "zotero_id": null
+}

@@ -1,0 +1,49 @@
+{
+    "description": "Die Grenzanlagen des r\u00f6mischen Reiches \u2013 lat. limes bzw. ripa genannt \u2013 sind in Europa eines der gr\u00f6\u00dften Bodendenkmale. Sie pr\u00e4gen mit ihrer fast f\u00fcnfhundertj\u00e4hrigen Geschichte zahlreiche Kulturlandschaften und bilden die Keimzelle vieler europ\u00e4ischer St\u00e4dte.", 
+    "domain": "www.limes-oesterreich.at", 
+    "history": [
+        "2015-06-03T04:59:26.384515: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/10/der-romischen-limes-in-osterreich.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Roman", 
+        "fortifications", 
+        "journal", 
+        "military", 
+        "open access"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2984677870544674153", 
+            "resource_date": "2013-10-16T11:54:31.588-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:26.385068"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/der-romischen-limes-in-osterreich.html", 
+            "resource_date": "2013-10-16T11:54:31.588-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:26.385076"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Der r\u00f6mische Limes in \u00d6sterreich", 
+    "url": "http://www.limes-oesterreich.at/html/", 
+    "zotero_id": null
+}

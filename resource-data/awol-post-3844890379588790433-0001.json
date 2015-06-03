@@ -1,0 +1,73 @@
+{
+    "description": "Antiquities of the Institute for Antiquity and Christianity The artifacts in this collection represent part of the antiquities of the Institute for Antiquity and Christianity. The items are mostly eastern Mediterranean in provenance, originating from ancient Greece, Cyprus, Anatolia, Syria, Palestine, Egypt, and neighboring regions. A fair proportion of the collection dates to the Bronze Age, but every period thereafter is represented up to the fourth century of the current era. Although the majority is earthenware, other artifacts include objects of glass, ceramic, stone, metal and Cypriote.Bulletin of the Institute for Antiquity and Christianity The Institute for Antiquity and Christianity is a center for basic research on the origins and meaning of the cultural heritage of Western civilization. The Bulletin of the Institute for Antiquity and Christianity is published periodically under the auspices of the Society for Antiquity and Christianity for the general information of persons interested in the research programs of the Institute.", 
+    "domain": "ccdl.libraries.claremont.edu", 
+    "history": [
+        "2015-06-03T04:59:30.711909: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/claremont-colleges-digital-library.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Christianity", 
+        "Coptic", 
+        "Egypt", 
+        "French", 
+        "Mediterranean", 
+        "antiquities", 
+        "antiquity", 
+        "archaeology", 
+        "archive", 
+        "book", 
+        "bronze", 
+        "conference", 
+        "cultural heritage", 
+        "culture", 
+        "digital library", 
+        "egyptology", 
+        "encyclopedia", 
+        "heritage", 
+        "history", 
+        "imagery", 
+        "institutional repository", 
+        "journal", 
+        "language", 
+        "manuscripts", 
+        "open access", 
+        "project", 
+        "religion", 
+        "report", 
+        "science"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3844890379588790433", 
+            "resource_date": "2013-10-27T08:48:50.747-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:30.712512"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/01/claremont-colleges-digital-library.html", 
+            "resource_date": "2013-10-27T08:48:50.747-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:30.712520"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Claremont Colleges Digital Library", 
+    "url": "http://ccdl.libraries.claremont.edu/cdm/collections", 
+    "zotero_id": null
+}

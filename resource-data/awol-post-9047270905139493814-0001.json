@@ -1,0 +1,48 @@
+{
+    "description": "On May 22, the ISAW community celebrated the completion of the fifth year of the Institute\u2019s life. A festive crowd of about eighty gathered for a lively and wide-ranging lecture by Senior Fellow Holly Pittman, drinks in the garden (the threatened rain held off), and a dinner in the Oak Library. President John Sexton and Provost David McLaughlin were present along with other university leaders to celebrate with us the accomplishments of the past five years and the many people who have made those possible... [From the notice of the event in ISAW Newsletter 7: Fall 2012]", 
+    "domain": "isaw.nyu.edu", 
+    "history": [
+        "2015-06-03T04:59:52.847614: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/isaw-at-five.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "ISAW", 
+        "antiquity", 
+        "collaboration", 
+        "newsletter"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9047270905139493814", 
+            "resource_date": "2012-11-12T15:47:19.332-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:52.848206"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/isaw-at-five.html", 
+            "resource_date": "2012-11-12T15:47:19.332-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:52.848215"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ISAW at Five", 
+    "url": "http://isaw.nyu.edu/publications/newsletters/isaw-at-five-may-2012/view", 
+    "zotero_id": null
+}

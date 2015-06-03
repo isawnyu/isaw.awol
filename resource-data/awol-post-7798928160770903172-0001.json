@@ -1,0 +1,53 @@
+{
+    "description": "Factum Foundation is a registered Foundation, established in 2009 and based in Spain, dedicated to the development and use of non-contact high-resolution digital recording as part of a coherent approach to the preservation, understanding and public exhibition of objects from our cultural heritage.Advances in digital technology are dramatically and radically changing our understanding and appreciation of our shared cultural heritage. Science and technology are assisting art by providing forensically accurate information to both specialists and an interested public.The foundation is dedicated to demonstrating that the way we understand the original object is part of a dynamic process and not a fixed state of being. When the dynamic nature of originality is successfully presented, works of art come alive - their complex biographies inform the present and influence the future. \u00a0When viewed in this way they cease to be discrete objects to be viewed in museums and become complex subjects that can reveal their past (and also reveal how they have been valued and cared for by previous generations in diverse locations).\u00a0Read moreProjects", 
+    "domain": "www.factumfoundation.org", 
+    "history": [
+        "2015-06-03T04:59:47.598811: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/06/high-resolution-recording.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "art", 
+        "cultural heritage", 
+        "culture", 
+        "exhibition", 
+        "imagery", 
+        "museums", 
+        "photography", 
+        "science", 
+        "technology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7798928160770903172", 
+            "resource_date": "2013-06-18T13:30:25.977-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:47.599421"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/06/high-resolution-recording.html", 
+            "resource_date": "2013-06-18T13:30:25.977-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:47.599429"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "High-resolution recording: Ashurnasirpal II and Tutankhamun", 
+    "url": "http://www.factumfoundation.org/index.php", 
+    "zotero_id": null
+}

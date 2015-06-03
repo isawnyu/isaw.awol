@@ -1,0 +1,50 @@
+{
+    "description": "EDENDA ist ein nicht-kommerzielles Projekt zur F\u00f6rderung wissenschaftlicher Kommunikation. Private Angaben wie etwa E-mail-Adressen werden nur mit ausdr\u00fccklicher Einwilligung der Teilnehmer in die Database aufgenommen.", 
+    "domain": "www.csel.eu", 
+    "history": [
+        "2015-06-03T04:59:34.101976: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/database-of-kommission-zur-herausgabe.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Christianity", 
+        "Latin", 
+        "data", 
+        "database", 
+        "patristics", 
+        "project"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4777279722146575357", 
+            "resource_date": "2013-07-25T11:27:02.697-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:34.102578"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/database-of-kommission-zur-herausgabe.html", 
+            "resource_date": "2013-07-25T11:27:02.697-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:34.102586"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "EDENDA: Database of editions of Latin patristic texts", 
+    "url": "http://www.csel.eu/edenda/index.htm", 
+    "zotero_id": null
+}

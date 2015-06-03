@@ -1,0 +1,52 @@
+{
+    "description": "The Electronic Text Corpus of Sumerian Royal Inscriptions (ETCSRI) project's main objective is the creation of an annotated, grammatically and morphologically analyzed, transliterated, trilingual (Sumerian-English-Hungarian), parallel corpus of all Sumerian royal inscriptions. ETCSRI is to be developed at the Department of Assyriology and Hebrew Studies (Institute of Ancient Studies, E\u00f6tv\u00f6s L. University, Budapest) by a research team led by G\u00e1bor Z\u00f3lyomi as part of The Open Richly Annotated Cuneiform Corpus with the continuous assistance and help of Steve Tinney. Funding for ETCSRI is provided by the Hungarian Scientific Research Fund (OTKA) between 2008.10.01 - 2013.06.30 (project no. K75104). If you cite the corpus, please use the next citation form: Z\u00f3lyomi, G\u00e1bor - Tanos, B\u00e1lint - S\u00f6vegj\u00e1rt\u00f3, Szilvia. The Electronic Text Corpus of Sumerian Royal Inscriptions. 2008-. http://oracc.museum.upenn.edu/etcsri/index.html Do a a full text search in ETCSRI. [HELP] Main menuHomeIntroductionETCSRI corpusStaffGlossingParsingSearching in ETCSRIDownloadsBibliographyLinksContacts", 
+    "domain": "oracc.museum.upenn.edu", 
+    "history": [
+        "2015-06-03T04:59:51.359769: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/11/the-electronic-text-corpus-of-sumerian.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Assyria", 
+        "Assyriology", 
+        "Hebrew", 
+        "Sumerian", 
+        "antiquity", 
+        "cuneiform", 
+        "epigraphy", 
+        "text editions"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8665964004173566317", 
+            "resource_date": "2013-11-11T05:31:40.544-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:51.360310"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/11/the-electronic-text-corpus-of-sumerian.html", 
+            "resource_date": "2013-11-11T05:31:40.544-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:51.360318"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Electronic Text Corpus of Sumerian Royal Inscriptions", 
+    "url": "http://oracc.museum.upenn.edu/etcsri/", 
+    "zotero_id": null
+}

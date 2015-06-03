@@ -1,0 +1,49 @@
+{
+    "description": "The Ancient World in JSTOR: : AWOL's full list of journals in JSTOR with substantial representation of the Ancient World. AddThis Button BEGIN", 
+    "domain": "www.jstor.org", 
+    "history": [
+        "2015-06-03T04:59:45.635479: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/06/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "JSTOR", 
+        "antiquity", 
+        "archaeology", 
+        "history", 
+        "journal"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7372978400796051511", 
+            "resource_date": "2010-06-17T11:47:56.350-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:45.636033"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/06/new-ancient-world-content-in-jstor.html", 
+            "resource_date": "2010-06-17T11:47:56.350-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:45.636041"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Historical Archaeology", 
+    "url": "http://www.jstor.org/action/showPublication?journalCode=histarch", 
+    "zotero_id": null
+}

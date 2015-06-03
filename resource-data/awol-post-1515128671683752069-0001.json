@@ -1,0 +1,52 @@
+{
+    "description": "The Aleppo Codex is a full manuscript of the entire Bible, which was written in about 930. For more than a thousand years, the manuscript was preserved in its entirety in important Jewish communities in the Near East: Tiberias, Jerusalem, Egypt, and in the city of Aleppo in Syria. However, in 1947, after the United Nations Resolution establishing the State of Israel, it was damaged in riots that broke out in Syria. At first people thought that it had been completely destroyed. Later, however, it turned out that most of the manuscript had been saved and kept in a secret hiding place. In 1958, the Aleppo Codex was smuggled out of Syria to Jerusalem and delivered to the President of the State of Israel, Izhak Ben-Zvi... This entire web site is dedicated to the Aleppo Codex. It was constructed in 2004 at the initiative of the Ben Zvi Institute for the Study of Jewish Communities in the East, which is responsible for preserving the Aleppo Codex and maintaining it properly. The web site was established with the support of The George Blumenthal Foundation, New York.\u00a0 This site enables people to see photographs of the entire Aleppo Codex in a quality that had not hitherto been presented. You can leaf through the Codex, look for a certain verse in a certain book, and even see an enlargement of details from the photograph. Take note of the detailed instructions for browsing...", 
+    "domain": "www.aleppocodex.org", 
+    "history": [
+        "2015-06-03T04:59:19.705356: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/01/aleppo-codex.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Jerusalem", 
+        "Judaisim", 
+        "Near East", 
+        "Syria", 
+        "imagery", 
+        "manuscripts", 
+        "religion", 
+        "website"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1515128671683752069", 
+            "resource_date": "2011-01-10T18:36:48.086-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:19.705956"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/01/aleppo-codex.html", 
+            "resource_date": "2011-01-10T18:36:48.086-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:19.705965"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Aleppo Codex", 
+    "url": "http://www.aleppocodex.org/", 
+    "zotero_id": null
+}

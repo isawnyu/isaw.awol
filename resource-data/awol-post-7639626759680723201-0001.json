@@ -1,0 +1,47 @@
+{
+    "description": "Cultura MadreEgittoEventiGreciaItaliaMediterraneoMesopotamiaRomaSudamericaVicino Oriente", 
+    "domain": "www.ancientworldmagazine.net", 
+    "history": [
+        "2015-06-03T04:59:46.802158: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/open-access-journal-ancient-world.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Italian", 
+        "antiquity", 
+        "archaeology", 
+        "journal", 
+        "magazine", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7639626759680723201", 
+            "resource_date": "2012-04-28T08:18:21.891-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:46.802764"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-ancient-world.html", 
+            "resource_date": "2012-04-28T08:18:21.891-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:46.802773"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ancient World Magazine", 
+    "url": "http://www.ancientworldmagazine.net/wordpress/", 
+    "zotero_id": null
+}

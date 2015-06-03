@@ -1,0 +1,48 @@
+{
+    "description": "R\u00c9I 1 (document pdf)R\u00c9I 2 (document pdf) R\u00c9I 3 (document pdf) R\u00c9I 4 (document pdf) R\u00c9I 5 (document pdf)", 
+    "domain": "www.segweb.ch", 
+    "history": [
+        "2015-06-03T04:59:48.692341: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/ressources-egyptologiques-informatisees.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "bibliography", 
+        "egyptology", 
+        "journal"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8051203153903508903", 
+            "resource_date": "2012-01-15T08:52:29.308-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:48.692948"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/ressources-egyptologiques-informatisees.html", 
+            "resource_date": "2012-01-15T08:52:29.308-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:48.692957"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ressources \u00c9gyptologiques Informatis\u00e9es", 
+    "url": "http://www.segweb.ch/resso.htm", 
+    "zotero_id": null
+}

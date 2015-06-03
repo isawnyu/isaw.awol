@@ -1,0 +1,59 @@
+{
+    "description": "The Technical Research Bulletin publishes the results of collaborative work by the British Museum's curators, conservators and scientists covering a broad range of objects and materials from across the Museum\u2019s collection.Published once a year, each issue aims to encompass objects from different continents, historical periods and material types. The Bulletin is designed to appeal both to those with a general interest in the Museum\u2019s collections and those with a specialist interest who wish to broaden their horizons.", 
+    "domain": "www.britishmuseum.org", 
+    "history": [
+        "2015-06-03T04:59:17.918772: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal-british-museum.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "British Museum", 
+        "Roman", 
+        "antiquity", 
+        "collaboration", 
+        "conservation", 
+        "culture", 
+        "glass", 
+        "history", 
+        "journal", 
+        "journal issues", 
+        "maps", 
+        "materials", 
+        "museums", 
+        "open access", 
+        "trade"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1077944458039409564", 
+            "resource_date": "2013-11-25T11:04:56.785-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:17.919332"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-british-museum.html", 
+            "resource_date": "2013-11-25T11:04:56.785-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:17.919340"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "British Museum Technical Research Bulletin", 
+    "url": "http://www.britishmuseum.org/research/publications/online_journals/technical_research_bulletin.aspx", 
+    "zotero_id": null
+}

@@ -1,0 +1,50 @@
+{
+    "description": "The American Schools of Oriental Research (ASOR) is a non-profit 501 (c)3 organization that supports and encourages the study of the peoples and cultures of the Near East, from the earliest times to the present.\u00a0 ASOR is apolitical and has no religious affiliation.", 
+    "domain": "www.youtube.com", 
+    "history": [
+        "2015-06-03T04:59:37.732458: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/08/asor-launches-youtube-channel.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "ASOR", 
+        "Near East", 
+        "bronze", 
+        "imagery", 
+        "religion", 
+        "video"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5601524958357570067", 
+            "resource_date": "2013-08-16T08:30:59.300-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:37.733006"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/asor-launches-youtube-channel.html", 
+            "resource_date": "2013-08-16T08:30:59.300-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:37.733013"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ASOR Launches YouTube Channel", 
+    "url": "http://www.youtube.com/user/ASORTV?feature=c4-feed-u", 
+    "zotero_id": null
+}

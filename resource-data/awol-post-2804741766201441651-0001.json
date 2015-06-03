@@ -1,0 +1,50 @@
+{
+    "description": "Usually object information in the database Arachne is developed by inquiries. With this in mind, browsing is the common navigation form for information retrieval.Although Arachne already provides this opportunity within the attached context browser, it can be realized more explicitly within some exemplified, figuratively created monuments and types.Ara PacisSarcophagiPergamon AltarTrajan\u2019s ColumnMercator\u2019s Map of Cologne", 
+    "domain": "arachne.uni-koeln.de", 
+    "history": [
+        "2015-06-03T04:59:25.733234: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/arachne-monument-browser.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Arachne", 
+        "DAI", 
+        "data", 
+        "database", 
+        "maps", 
+        "monuments"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2804741766201441651", 
+            "resource_date": "2012-07-16T11:28:04.958-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:25.733795"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/arachne-monument-browser.html", 
+            "resource_date": "2012-07-16T11:28:04.958-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:25.733802"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Arachne Monument Browser", 
+    "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/182", 
+    "zotero_id": null
+}

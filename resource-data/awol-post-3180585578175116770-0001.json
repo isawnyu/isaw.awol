@@ -1,0 +1,59 @@
+{
+    "description": "This is a collection of pages on pottery and ceramics in archaeology, principally of the Roman period (1st cent. BC - 5th cent. AD) in Britain and western Europe. The pages include an introductory Atlas of Roman Pottery, containing descriptions and distribution maps of types of Roman pottery (particularly types found in Britain). The pages of the Atlas describing the individual wares can be accessed through the main menu, which lists the wares by CLASS (table wares, cooking wares, transport amphoras etc) or SOURCE (by province of origin). Links to these indices will also be found in the main menu bar. Introduction Home Atlas Publications Wares All wares Classes All classes Amphoras Terra Sigillata Coarse wares Fine wares Mortaria Sources All sources Britain Gaul Germania Iberia Italy Africa Eastern Empire Mapping & Databases Terra sigillata kilns Romano-British kilns (GB) JRPS Bibliography (GB) Terra sigillata forms National Roman fabric reference collection Other topics Tools Sherd scans", 
+    "domain": "potsherd.net", 
+    "history": [
+        "2015-06-03T04:59:27.793609: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/potsherd-atlas-of-roman-pottery.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Africa", 
+        "Britain", 
+        "Gaul", 
+        "Italy", 
+        "Roman", 
+        "atlas", 
+        "bibliography", 
+        "ceramics", 
+        "class", 
+        "data", 
+        "database", 
+        "maps", 
+        "pottery", 
+        "tools"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3180585578175116770", 
+            "resource_date": "2012-11-27T18:34:33.264-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:27.794180"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/potsherd-atlas-of-roman-pottery.html", 
+            "resource_date": "2012-11-27T18:34:33.264-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:27.794189"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "POTSHERD - Atlas of Roman Pottery", 
+    "url": "http://potsherd.net/", 
+    "zotero_id": null
+}

@@ -1,0 +1,48 @@
+{
+    "description": "Revue consacr\u00e9e \u00e0 l'histoire culturelle et philosophique de la Gr\u00e8ce antique.", 
+    "domain": "www.openedition.org", 
+    "history": [
+        "2015-06-03T04:59:47.294348: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-coming-soon-aitia.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "antiquity", 
+        "culture", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7725673324352941208", 
+            "resource_date": "2012-07-13T11:41:11.623-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:47.294939"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-coming-soon-aitia.html", 
+            "resource_date": "2012-07-13T11:41:11.623-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:47.294947"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Aitia. Regards sur la culture hell\u00e9nistique au XXI\u00e8me si\u00e8cle", 
+    "url": "http://www.openedition.org/7719", 
+    "zotero_id": null
+}

@@ -1,0 +1,66 @@
+{
+    "description": "La collana, diretta da Lucio Milano, \u00e8 dedicata agli studi sul mondo antico e tardo-antico. Essa \u00e8 destinata ad ospitare pubblicazioni che scaturiscono dalle attivit\u00e0 di ricerca di Ca\u2019 Foscari e pubblicazioni di studiosi e istituzioni italiane e straniere che contribuiscano a mettere in evidenza la rete delle collaborazioni nazionali e internazionali dell\u2019Ateneo in ambito antichistico. \u00c8 suddivisa in quattro sezioni: Storia ed epigrafia; Archeologia; Orientalistica; Filologia e letteratura.", 
+    "domain": "edizionicf.unive.it", 
+    "history": [
+        "2015-06-03T04:59:36.555127: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/new-open-access-journalseries.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Aegean", 
+        "Athens", 
+        "Ebla", 
+        "Italian", 
+        "Italy", 
+        "Latin", 
+        "Roman", 
+        "antiquity", 
+        "archaeological site", 
+        "archaeology", 
+        "architecture", 
+        "bronze", 
+        "ceramics", 
+        "culture", 
+        "data", 
+        "epigraphy", 
+        "history", 
+        "journal", 
+        "language", 
+        "onomastics", 
+        "open access", 
+        "pottery"
+    ], 
+    "language": [
+        "it", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5265141004348271316", 
+            "resource_date": "2013-10-30T16:59:58.146-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T04:59:36.555723"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/new-open-access-journalseries.html", 
+            "resource_date": "2013-10-30T16:59:58.146-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T04:59:36.555732"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Antichistica", 
+    "url": "http://edizionicf.unive.it/index.php/Ant/index", 
+    "zotero_id": null
+}
