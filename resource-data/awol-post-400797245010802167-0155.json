@@ -1,0 +1,48 @@
+{
+    "description": "[ 16 ] 1959 : [ 17 ] 1959 : [ 17 ] 1959 : [ 17 ] 1959 : [ 17 ]", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T21:21:26.857102: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-journal-revue-des-etudes.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Byzantium", 
+        "French", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-400797245010802167", 
+            "resource_date": "2014-01-07T17:18:20.367-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:21:26.857620"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-journal-revue-des-etudes.html", 
+            "resource_date": "2014-01-07T17:18:20.367-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:21:26.857627"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "16", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1958_num_16_1", 
+    "zotero_id": null
+}

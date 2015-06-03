@@ -1,0 +1,50 @@
+{
+    "description": "Parler, penser, voir : le Roman de la Rose et l'\u00e9trange Parler, penser, voir : le Roman de la Rose et l'\u00e9trange [Article] Stephen G. Nichols", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T21:21:35.471764: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Roman", 
+        "journal", 
+        "journal issues"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
+            "resource_date": "2012-08-03T09:39:09.216-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:21:35.472283"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
+            "resource_date": "2012-08-03T09:39:09.216-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:21:35.472291"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Parler, penser, voir : le Roman de la Rose et l'\u00e9trange", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2003_num_130_2_1801", 
+    "zotero_id": null
+}

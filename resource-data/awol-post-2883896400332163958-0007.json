@@ -1,0 +1,49 @@
+{
+    "description": "Jean-Louis Ferrary . Ferrary Jean-Louis. Onofrio Panvinio et les antiquit\u00e9s romaines.\u00a01996.", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T21:21:21.990384: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/newly-online-from-ecole-francaise-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Rome", 
+        "antiquity"
+    ], 
+    "language": [
+        "fr", 
+        0.9999999999687046
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2883896400332163958", 
+            "resource_date": "2012-12-04T10:30:03.736-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:21:21.990951"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/newly-online-from-ecole-francaise-de.html", 
+            "resource_date": "2012-12-04T10:30:03.736-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:21:21.990959"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Jean-Louis Ferrary", 
+    "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_efr_187", 
+    "zotero_id": null
+}

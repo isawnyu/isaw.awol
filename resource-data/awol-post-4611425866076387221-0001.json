@@ -1,8 +1,8 @@
 {
-    "description": "As part of its Electronic Publications Initiative and with the generous support of Misty and Lewis Gruber, the Oriental Institute Publications Office announces the Adobe Portable Document Format (PDF) publication of: OIP 9. Medinet Habu, Volume II. The Later Historical Records of Ramses III. The Epigraphic Survey. Originally published in 1932.", 
+    "description": "Egypt is now online: As part of its Electronic Publications Initiative and with the generous support of Misty and Lewis Gruber, the Oriental Institute Publications Office announces the Adobe Portable Document Format (PDF) publication of: OIP 9. Medinet Habu, Volume II. The Later Historical Records of Ramses III. The Epigraphic Survey. Originally published in 1932.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T19:04:03.596163: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute.html. (walk_to_json.py)"
+        "2015-06-03T21:21:29.161671: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -35,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4611425866076387221", 
             "resource_date": "2009-11-07T08:19:10.540-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:03.596763"
+            "when": "2015-06-03T21:21:29.162243"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute.html", 
             "resource_date": "2009-11-07T08:19:10.540-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:03.596772"
+            "when": "2015-06-03T21:21:29.162251"
         }
     ], 
     "related_resources": [], 

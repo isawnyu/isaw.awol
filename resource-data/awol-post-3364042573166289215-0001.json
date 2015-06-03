@@ -1,8 +1,8 @@
 {
-    "description": "ITEMS LOOTED FROM ARCHAEOLOGICAL SITES AND EGYPTIAN, GREEK & ROMAN ANTIQUITIES SUSPECTED TO BE LOOTED", 
+    "description": "LOOT \u00a0BUSTERS ITEMS LOOTED FROM ARCHAEOLOGICAL SITES AND EGYPTIAN, GREEK & ROMAN ANTIQUITIES SUSPECTED TO BE LOOTED", 
     "domain": "www.lootbusters.com", 
     "history": [
-        "2015-06-03T19:03:59.204337: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/02/loot-busters.html. (walk_to_json.py)"
+        "2015-06-03T21:21:24.050024: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/02/loot-busters.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -29,13 +29,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3364042573166289215", 
             "resource_date": "2012-02-29T06:12:20.540-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:03:59.204951"
+            "when": "2015-06-03T21:21:24.050582"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/loot-busters.html", 
             "resource_date": "2012-02-29T06:12:20.540-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:03:59.204960"
+            "when": "2015-06-03T21:21:24.050590"
         }
     ], 
     "related_resources": [], 

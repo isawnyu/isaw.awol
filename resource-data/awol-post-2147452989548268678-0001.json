@@ -1,10 +1,16 @@
 {
-    "description": "Annual Report of the Trustees of the Metropolitan Museum of Art: (Arts & Sciences VIII) Coverage: No. 1 (1871) \u2013 No. 138 (July 1, 2007/June 30, 2008) Moving Wall: 3 years Publisher: Metropolitan Museum of Art ISSN: 0740-7661 (Arts & Sciences VIII) Coverage: No. 1 (1871) \u2013 No. 138 (July 1, 2007/June 30, 2008) Moving Wall: 3 years Publisher: Metropolitan Museum of Art ISSN: 0740-7661 And see also The Ancient World in JSTOR : AWOL's full list of journals in JSTOR with substantial representation of the Ancient World. And see also The Ancient World in JSTOR : AWOL's full list of journals in JSTOR with substantial representation of the Ancient World.", 
+    "description": "Annual Report of the Trustees of the Metropolitan Museum of Art (Arts & Sciences VIII) Coverage: No. 1 (1871) \u2013 No. 138 (July 1, 2007/June 30, 2008) Moving Wall: 3 years Publisher: Metropolitan Museum of Art ISSN: 0740-7661 (Arts & Sciences VIII) Coverage: No. 1 (1871) \u2013 No. 138 (July 1, 2007/June 30, 2008) Moving Wall: 3 years Publisher: Metropolitan Museum of Art ISSN: 0740-7661 And see also The Ancient World in JSTOR : AWOL's full list of journals in JSTOR with substantial representation of the Ancient World. And see also The Ancient World in JSTOR : AWOL's full list of journals in JSTOR with substantial representation of the Ancient World. The Ancient World in JSTOR", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T19:03:54.400980: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T21:21:18.638781: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0740-7661"
+            ]
+        }
+    }, 
     "keywords": [
         "JSTOR", 
         "Metropolitan Museum of Art", 
@@ -38,13 +44,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2147452989548268678", 
             "resource_date": "2011-06-28T22:01:17.829-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:03:54.401558"
+            "when": "2015-06-03T21:21:18.639387"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2011-06-28T22:01:17.829-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:03:54.401566"
+            "when": "2015-06-03T21:21:18.639396"
         }
     ], 
     "related_resources": [], 

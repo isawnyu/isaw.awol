@@ -1,13 +1,17 @@
 {
-    "description": "Publi\u00e9 sans interruption depuis 1904, le Bulletin de la Soci\u00e9t\u00e9 pr\u00e9historique fran\u00e7aise est la plus importante revue de Pr\u00e9histoire fran\u00e7aise. Il publie des articles originaux de Pr\u00e9histoire, depuis le Pal\u00e9olithique jusqu\u2019au premier \u00c2ge du Fer.", 
+    "description": "Bulletin de la Soci\u00e9t\u00e9 pr\u00e9historique fran\u00e7ais eISSN - 1760-7361", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-03T04:59:44.154630: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/open-access-journal-bulletin-de-la.html. (walk_to_json.py)"
+        "2015-06-03T21:21:38.664146: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/open-access-journal-bulletin-de-la.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "1760-7361"
+            ]
+        }
+    }, 
     "keywords": [
-        "AWOL", 
-        "antiquity", 
         "journal", 
         "open access", 
         "prehistory"
@@ -26,19 +30,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7020687316909452926", 
             "resource_date": "2013-03-19T14:00:46.168-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:44.155187"
+            "when": "2015-06-03T21:21:38.664712"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-bulletin-de-la.html", 
             "resource_date": "2013-03-19T14:00:46.168-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:44.155196"
+            "when": "2015-06-03T21:21:38.664720"
         }
     ], 
     "related_resources": [], 

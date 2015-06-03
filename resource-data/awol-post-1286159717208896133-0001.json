@@ -1,8 +1,8 @@
 {
-    "description": "Brill's new open access policy: . What do you make of this?", 
+    "description": "Brill's new open access policy . What do you make of this?", 
     "domain": "www.brill.nl", 
     "history": [
-        "2015-06-03T19:03:50.905258: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/brills-new-open-access-policy.html. (walk_to_json.py)"
+        "2015-06-03T21:21:15.054927: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/brills-new-open-access-policy.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -28,13 +28,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1286159717208896133", 
             "resource_date": "2009-11-04T20:25:44.641-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:03:50.905868"
+            "when": "2015-06-03T21:21:15.055484"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/brills-new-open-access-policy.html", 
             "resource_date": "2009-11-04T20:25:44.641-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:03:50.905876"
+            "when": "2015-06-03T21:21:15.055492"
         }
     ], 
     "related_resources": [], 

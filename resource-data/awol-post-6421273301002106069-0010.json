@@ -1,8 +1,8 @@
 {
-    "description": "Chicago Hittite Dictionary (CHD). Theo Van Den Hout: Diyala Project. Clemens Reichel", 
+    "description": "Chicago Hittite Dictionary (CHD). Theo Van Den Hout Diyala Project. Clemens Reichel", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T19:04:10.262321: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html. (walk_to_json.py)"
+        "2015-06-03T21:21:36.158868: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -14,7 +14,7 @@
     ], 
     "language": [
         "en", 
-        0.9999999999815128
+        0.9999999999957478
     ], 
     "provenance": [
         {
@@ -35,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6421273301002106069", 
             "resource_date": "2013-02-19T12:59:49.211-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:10.263071"
+            "when": "2015-06-03T21:21:36.159451"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html", 
             "resource_date": "2013-02-19T12:59:49.211-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:10.263079"
+            "when": "2015-06-03T21:21:36.159459"
         }
     ], 
     "related_resources": [], 

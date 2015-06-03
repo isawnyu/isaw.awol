@@ -1,8 +1,8 @@
 {
-    "description": "OIP 31. The Mastaba of Mereruka, Part I. Chambers A 1-10. By The Sakkara Expedition. Originally published in 1938.:", 
+    "description": "OIP 31. The Mastaba of Mereruka, Part I. Chambers A 1-10. By The Sakkara Expedition. Originally published in 1938.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T19:04:16.424680: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_12.html. (walk_to_json.py)"
+        "2015-06-03T21:21:44.275143: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_12.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -31,13 +31,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8032728012236187945", 
             "resource_date": "2009-11-12T11:29:04.513-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:16.425215"
+            "when": "2015-06-03T21:21:44.275719"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_12.html", 
             "resource_date": "2009-11-12T11:29:04.513-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:16.425223"
+            "when": "2015-06-03T21:21:44.275728"
         }
     ], 
     "related_resources": [], 

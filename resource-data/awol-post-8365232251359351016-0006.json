@@ -1,8 +1,8 @@
 {
-    "description": "OIC 24. The American Expedition to Idalion, Cyprus 1973-1980. L. E. Stager and A. M. Walker, eds. 1989.: OIC 25. Figurines and Other Clay Objects from Sarab and Cay\u00f6n\u00fc. V. B. Morales. 1990.", 
+    "description": "OIC 24. The American Expedition to Idalion, Cyprus 1973-1980. L. E. Stager and A. M. Walker, eds. 1989. OIC 25. Figurines and Other Clay Objects from Sarab and Cay\u00f6n\u00fc. V. B. Morales. 1990.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T19:04:17.711502: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+        "2015-06-03T21:21:45.524868: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -34,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8365232251359351016", 
             "resource_date": "2012-11-23T07:14:32.413-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:17.712050"
+            "when": "2015-06-03T21:21:45.525412"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html", 
             "resource_date": "2012-11-23T07:14:32.413-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:17.712058"
+            "when": "2015-06-03T21:21:45.525420"
         }
     ], 
     "related_resources": [], 

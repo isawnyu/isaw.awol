@@ -1,13 +1,17 @@
 {
-    "description": "Arts asiatiques a repris la t\u00e2che qu'avait assum\u00e9e la Revue des Arts asiatiques, fond\u00e9e en 1924. Apr\u00e8s une interruption due \u00e0 la deuxi\u00e8me guerre mondiale, cette revue a repris, sous l'\u00e9gide des Mus\u00e9es Guimet et Cernuschi, son r\u00f4le d'information. Arts asiatiques fait para\u00eetre chaque ann\u00e9e, sans p\u00e9riodicit\u00e9, des recueils d'articles de fond, largement illustr\u00e9s, sur des questions d'arch\u00e9ologie et d'art de l'Asie, ainsi qu'une chronique et des comptes rendus.", 
+    "description": "Arts Asiatiques eISSN - 2111-4552 Arts asiatiques a repris la t\u00e2che qu'avait assum\u00e9e la Revue des Arts asiatiques , fond\u00e9e en 1924. Apr\u00e8s une interruption due \u00e0 la deuxi\u00e8me guerre mondiale, cette revue a repris, sous l'\u00e9gide des Mus\u00e9es Guimet et Cernuschi, son r\u00f4le d'information. Arts asiatiques fait para\u00eetre chaque ann\u00e9e, sans p\u00e9riodicit\u00e9, des recueils d'articles de fond, largement illustr\u00e9s, sur des questions d'arch\u00e9ologie et d'art de l'Asie, ainsi qu'une chronique et des comptes rendus.", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-03T04:59:49.650414: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/06/open-access-journal-arts-asiatiques.html. (walk_to_json.py)"
+        "2015-06-03T21:21:45.202748: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/06/open-access-journal-arts-asiatiques.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "2111-4552"
+            ]
+        }
+    }, 
     "keywords": [
-        "AWOL", 
-        "antiquity", 
         "journal", 
         "open access"
     ], 
@@ -25,19 +29,22 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8263100182466995754", 
             "resource_date": "2013-11-04T20:58:26.783-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:49.651032"
+            "when": "2015-06-03T21:21:45.203368"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-arts-asiatiques.html", 
             "resource_date": "2013-11-04T20:58:26.783-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:49.651041"
+            "when": "2015-06-03T21:21:45.203376"
         }
     ], 
     "related_resources": [], 

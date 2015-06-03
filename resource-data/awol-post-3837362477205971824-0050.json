@@ -1,0 +1,48 @@
+{
+    "description": "[ 164 ] 2002 : [ 165 ] [ 166 ] [ 167 ] 2002 : [ 165 ] [ 166 ] [ 167 ] 2002 : [ 165 ] [ 166 ] [ 167 ] 2002 : [ 165 ]", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T21:21:25.698296: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/newly-online-journal-vita-latina.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Latin", 
+        "classics", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3837362477205971824", 
+            "resource_date": "2013-09-03T11:41:36.607-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:21:25.698816"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/newly-online-journal-vita-latina.html", 
+            "resource_date": "2013-09-03T11:41:36.607-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:21:25.698823"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "164", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2001_num_164_1", 
+    "zotero_id": null
+}

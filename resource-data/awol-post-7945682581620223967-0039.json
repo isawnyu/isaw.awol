@@ -1,0 +1,47 @@
+{
+    "description": "[ 32-1 ] [ 32-2 ]", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T21:21:43.726516: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "classics", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7945682581620223967", 
+            "resource_date": "2013-12-29T07:35:34.289-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:21:43.727073"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html", 
+            "resource_date": "2013-12-29T07:35:34.289-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:21:43.727080"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "32-1", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/antiq_0770-2817_1963_num_32_1", 
+    "zotero_id": null
+}

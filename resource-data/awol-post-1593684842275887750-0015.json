@@ -1,8 +1,8 @@
 {
-    "description": "OIMP 23. Ancient Egypt: Treasures from the Collection of the Oriental Institute.: E. Teeter. 2003. Islamic Bindings & Bookmaking. A Catalogue of an Exhibition in the Oriental Institute Museum, University of Chicago, May 18-August 18, 1981. By Gulnar Bosch, John Carswell, and Guy Petherbridge. Originally published in 1981. Islamic Bindings & Bookmaking. A Catalogue of an Exhibition in the Oriental Institute Museum, University of Chicago, May 18-August 18, 1981. By Gulnar Bosch, John Carswell, and Guy Petherbridge. Originally published in 1981. Islamic Bindings & Bookmaking. A Catalogue of an Exhibition in the Oriental Institute Museum, University of Chicago, May 18-August 18, 1981. By Gulnar Bosch, John Carswell, and Guy Petherbridge. Originally published in 1981.", 
+    "description": "OIMP 23. Ancient Egypt: Treasures from the Collection of the Oriental Institute. E. Teeter. 2003. Islamic Bindings & Bookmaking. A Catalogue of an Exhibition in the Oriental Institute Museum, University of Chicago, May 18-August 18, 1981. By Gulnar Bosch, John Carswell, and Guy Petherbridge. Originally published in 1981. Islamic Bindings & Bookmaking. A Catalogue of an Exhibition in the Oriental Institute Museum, University of Chicago, May 18-August 18, 1981. By Gulnar Bosch, John Carswell, and Guy Petherbridge. Originally published in 1981. Islamic Bindings & Bookmaking. A Catalogue of an Exhibition in the Oriental Institute Museum, University of Chicago, May 18-August 18, 1981. By Gulnar Bosch, John Carswell, and Guy Petherbridge. Originally published in 1981. Islamic Bindings & Bookmaking.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T19:03:52.285885: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html. (walk_to_json.py)"
+        "2015-06-03T21:21:16.566588: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -37,19 +37,19 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1593684842275887750", 
             "resource_date": "2013-09-11T12:42:16.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:03:52.286485"
+            "when": "2015-06-03T21:21:16.567194"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html", 
             "resource_date": "2013-09-11T12:42:16.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:03:52.286493"
+            "when": "2015-06-03T21:21:16.567202"
         }
     ], 
     "related_resources": [
         {
-            "label": "OIMP 36. Our Work: Modern Jobs \u2013 Ancient Origins [Paperback", 
-            "url": "http://oi.uchicago.edu/research/pubs/catalog/oimp/oimp36.html"
+            "label": "List of volumes in print", 
+            "url": "http://oi.uchicago.edu/research/pubs/catalog/oimp/"
         }
     ], 
     "subordinate_resources": [], 

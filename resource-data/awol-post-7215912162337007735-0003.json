@@ -1,10 +1,16 @@
 {
-    "description": "Journal of the American Research Center in Egypt: Journal of the American Research Center in Egypt Journal of the American Research Center in Egypt Journal of the American Research Center in Egypt Journal of the American Research Center in Egypt (Arts & Sciences V) Release Content: Vols. 1 \u2013 40 (1962 - 2003) Moving Wall: 5 years Publisher: American Research Center in Egypt ISSN: 0065-9991 (Arts & Sciences V) Release Content: Vols. 1 \u2013 40 (1962 - 2003) Moving Wall: 5 years Publisher: American Research Center in Egypt ISSN: 0065-9991 Moving Wall Reductions Latin American Antiquity", 
+    "description": "Journal of the American Research Center in Egypt Journal of the American Research Center in Egypt Journal of the American Research Center in Egypt Journal of the American Research Center in Egypt Journal of the American Research Center in Egypt (Arts & Sciences V) Release Content: Vols. 1 \u2013 40 (1962 - 2003) Moving Wall: 5 years Publisher: American Research Center in Egypt ISSN: 0065-9991 (Arts & Sciences V) Release Content: Vols. 1 \u2013 40 (1962 - 2003) Moving Wall: 5 years Publisher: American Research Center in Egypt ISSN: 0065-9991 Moving Wall Reductions Latin American Antiquity", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T19:04:13.346837: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T21:21:40.441452: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0065-9991"
+            ]
+        }
+    }, 
     "keywords": [
         "Egypt", 
         "JSTOR", 
@@ -35,13 +41,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7215912162337007735", 
             "resource_date": "2009-01-29T18:11:39.254-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:13.347400"
+            "when": "2015-06-03T21:21:40.441982"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2009-01-29T18:11:39.254-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:13.347407"
+            "when": "2015-06-03T21:21:40.441989"
         }
     ], 
     "related_resources": [], 

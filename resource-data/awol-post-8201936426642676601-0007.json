@@ -1,8 +1,8 @@
 {
-    "description": "OIP 51. Medinet Habu, Volume 4. Festival Scenes of Ramses III. By the Epigraphic Survey. Originally published in 1940.: OIP 39. The Mastaba of Mereruka, Part II: Chamber A 11-13, Doorjambs and Inscriptions of Chambers A 1-21, Tomb Chamber, and Exterior. By the Sakkarah Expedition. Originally published in 1938.", 
+    "description": "OIP 51. Medinet Habu, Volume 4. Festival Scenes of Ramses III. By the Epigraphic Survey. Originally published in 1940. OIP 39. The Mastaba of Mereruka, Part II: Chamber A 11-13, Doorjambs and Inscriptions of Chambers A 1-21, Tomb Chamber, and Exterior. By the Sakkarah Expedition. Originally published in 1938.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T19:04:17.023930: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/eleven-additional-volumes-online-at.html. (walk_to_json.py)"
+        "2015-06-03T21:21:44.870812: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/eleven-additional-volumes-online-at.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8201936426642676601", 
             "resource_date": "2009-09-16T10:34:52.091-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:17.024555"
+            "when": "2015-06-03T21:21:44.871334"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/eleven-additional-volumes-online-at.html", 
             "resource_date": "2009-09-16T10:34:52.091-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:17.024563"
+            "when": "2015-06-03T21:21:44.871342"
         }
     ], 
     "related_resources": [], 

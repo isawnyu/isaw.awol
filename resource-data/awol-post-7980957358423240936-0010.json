@@ -1,0 +1,48 @@
+{
+    "description": "Variaci\u00f3n y cambio en etrusco\u00a0: los genitivos arn\u03b8(i)al y lar\u03b8(i)al [Article] Ignasi-Xavier Adiego", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-03T21:21:44.122018: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Mediterranean"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7980957358423240936", 
+            "resource_date": "2011-10-14T14:27:16.756-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:21:44.122597"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html", 
+            "resource_date": "2011-10-14T14:27:16.756-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:21:44.122605"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Variaci\u00f3n y cambio en etrusco\u00a0: los genitivos arn\u03b8(i)al y lar\u03b8(i)al", 
+    "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2007", 
+    "zotero_id": null
+}

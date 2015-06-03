@@ -1,10 +1,12 @@
 {
-    "description": "AS 4. Beitrage zum Assyrischen W\u00f6rterbuch II.: Bruno Meissner. Originally published in 1932. AS 3. Das appositionell bestimmte Pronomen der 1. Pers. sing. in den westsemitischen Inschriften und im Alten Testament. Arnold Poebel. Originally published in 1932. AS 3. Das appositionell bestimmte Pronomen der 1. Pers. sing. in den westsemitischen Inschriften und im Alten Testament. Arnold Poebel. Originally published in 1932. AS 3. Das appositionell bestimmte Pronomen der 1. Pers. sing. in den westsemitischen Inschriften und im Alten Testament. Arnold Poebel. Originally published in 1932.", 
+    "description": "AS 4. Beitrage zum Assyrischen W\u00f6rterbuch II. Bruno Meissner. Originally published in 1932. AS 3. Das appositionell bestimmte Pronomen der 1. Pers. sing. in den westsemitischen Inschriften und im Alten Testament. Arnold Poebel. Originally published in 1932. AS 3. Das appositionell bestimmte Pronomen der 1. Pers. sing. in den westsemitischen Inschriften und im Alten Testament. Arnold Poebel. Originally published in 1932. AS 3. Das appositionell bestimmte Pronomen der 1. Pers. sing. in den westsemitischen Inschriften und im Alten Testament. Arnold Poebel. Originally published in 1932. AS 3. Das appositionell bestimmte Pronomen der 1. Pers. sing. in den westsemitischen Inschriften und im Alten Testament.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T19:03:55.431077: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html. (walk_to_json.py)"
+        "2015-06-03T21:21:19.729658: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {}
+    }, 
     "keywords": [
         "Oriental Institute", 
         "open access"
@@ -32,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2310553175017692217", 
             "resource_date": "2013-12-29T16:00:12.703-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:03:55.431715"
+            "when": "2015-06-03T21:21:19.730189"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html", 
             "resource_date": "2013-12-29T16:00:12.703-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:03:55.431725"
+            "when": "2015-06-03T21:21:19.730196"
         }
     ], 
     "related_resources": [], 

@@ -1,10 +1,17 @@
 {
-    "description": "Illinois Classical Studies (Arts & Sciences XI) http://www.jstor.org/action/ showPublication?journalCode= illiclasstud Coverage: Vols. 1 - 31/32 (1976 \u2013 2006/2007) Moving Wall: 3 years Publisher: University of Illinois Press ISSN: 0363-1923", 
+    "description": "http://www.jstor.org/action/ showPublication?journalCode= antikekunst http://www.jstor.org/action/ showPublication?journalCode= antikekunst Coverage: 1. Jahrg., H. 1 (1958) \u2013 49. Jahrg. (2006) Moving Wall: 5 years Publisher: Vereinigung der Freunde Antiker Kunst ISSN: 0003-5688 Coverage: 1. Jahrg., H. 1 (1958) \u2013 49. Jahrg. (2006) Moving Wall: 5 years Publisher: Vereinigung der Freunde Antiker Kunst ISSN: 0003-5688 Illinois Classical Studies (Arts & Sciences XI) http://www.jstor.org/action/ showPublication?journalCode= illiclasstud Coverage: Vols. 1 - 31/32 (1976 \u2013 2006/2007) Moving Wall: 3 years Publisher: University of Illinois Press ISSN: 0363-1923", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T19:03:55.042242: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html. (walk_to_json.py)"
+        "2015-06-03T21:21:19.222255: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0003-5688", 
+                "0363-1923"
+            ]
+        }
+    }, 
     "keywords": [
         "JSTOR", 
         "antiquity", 
@@ -12,7 +19,7 @@
     ], 
     "language": [
         "en", 
-        0.999999999989319
+        0.9553792082874129
     ], 
     "provenance": [
         {
@@ -33,13 +40,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2247526536842272315", 
             "resource_date": "2012-06-15T12:47:49.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:03:55.042818"
+            "when": "2015-06-03T21:21:19.222811"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html", 
             "resource_date": "2012-06-15T12:47:49.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:03:55.042826"
+            "when": "2015-06-03T21:21:19.222819"
         }
     ], 
     "related_resources": [], 

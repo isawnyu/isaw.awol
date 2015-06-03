@@ -1,8 +1,8 @@
 {
-    "description": "here:", 
+    "description": "The new HEB News (Vol. 3, No. 1) has just been released and will be available shortly at the link below. This issue announces publication of a new HEB White Paper on XML Conversion. Announces it but doesn't yet give a link. Hmmm... It also introduces new viewing options for the books on the HEB site and a new title-list format. And last, but not least, it announces 500 new titles added to the HEB site in December 2008. But it doesn't seem to specify what they are. Hmmm... All issues of HEB News can also be downloaded here", 
     "domain": "www.humanitiesebook.org", 
     "history": [
-        "2015-06-03T19:04:01.056126: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/acls-humanities-e-book-update.html. (walk_to_json.py)"
+        "2015-06-03T21:21:26.082580: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/acls-humanities-e-book-update.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -10,7 +10,10 @@
         "journal", 
         "journal issues"
     ], 
-    "language": null, 
+    "language": [
+        "en", 
+        1.0
+    ], 
     "provenance": [
         {
             "fields": [
@@ -27,13 +30,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3903587539915312354", 
             "resource_date": "2009-01-28T17:47:54.156-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:01.056762"
+            "when": "2015-06-03T21:21:26.083257"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/acls-humanities-e-book-update.html", 
             "resource_date": "2009-01-28T17:47:54.156-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:01.056770"
+            "when": "2015-06-03T21:21:26.083266"
         }
     ], 
     "related_resources": [], 

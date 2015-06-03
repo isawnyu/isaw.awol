@@ -1,8 +1,8 @@
 {
-    "description": "1928 Annual Report: For an up to date list of all Oriental Institute publications available online see: The Oriental Institute Open Access Publications", 
+    "description": "1928 Annual Report For an up to date list of all Oriental Institute publications available online see: The Oriental Institute Open Access Publications", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T19:03:56.830122: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/the-electronic-publication-of-oriental.html. (walk_to_json.py)"
+        "2015-06-03T21:21:21.094549: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/the-electronic-publication-of-oriental.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -35,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-271376235497338450", 
             "resource_date": "2013-05-29T09:49:42.972-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:03:56.830666"
+            "when": "2015-06-03T21:21:21.095136"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/the-electronic-publication-of-oriental.html", 
             "resource_date": "2013-05-29T09:49:42.972-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:03:56.830673"
+            "when": "2015-06-03T21:21:21.095143"
         }
     ], 
     "related_resources": [], 

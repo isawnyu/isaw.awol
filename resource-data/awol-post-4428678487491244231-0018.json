@@ -1,8 +1,8 @@
 {
-    "description": "OIP 8. Medinet Habu, Volume I. Earlier Historical Records of Ramses III.: By the Epigraphic Survey. Originally published in 1930.", 
+    "description": "OIP 8. Medinet Habu, Volume I. Earlier Historical Records of Ramses III. By the Epigraphic Survey. Originally published in 1930.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-03T19:04:03.013300: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/newly-scaned-at-oriental-institute.html. (walk_to_json.py)"
+        "2015-06-03T21:21:28.627597: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/newly-scaned-at-oriental-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -34,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4428678487491244231", 
             "resource_date": "2009-12-03T18:38:17.902-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:03.013984"
+            "when": "2015-06-03T21:21:28.628187"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/newly-scaned-at-oriental-institute.html", 
             "resource_date": "2009-12-03T18:38:17.902-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:03.013999"
+            "when": "2015-06-03T21:21:28.628195"
         }
     ], 
     "related_resources": [], 

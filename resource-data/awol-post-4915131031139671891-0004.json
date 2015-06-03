@@ -1,10 +1,16 @@
 {
-    "description": "British School at Athens: ISSN: 2159-4996 Journal Description The Studies series of the British School at Athens publishes a range of material beyond the excavation reports which are the focus of the Supplementary Volumes.\u00a0\u00a0 They consist mainly of BSA-led conference reports or Festschriften for BSA members, both of which embrace a wide range of content, from the mesolithic to mediaeval periods.\u00a0\u00a0 In addition two volumes present authoritative accounts of pottery production at Knossos on Crete in the Bronze Age and in the Greek and Roman periods.", 
+    "description": "British School at Athens ISSN: 2159-4996 Journal Description The Studies series of the British School at Athens publishes a range of material beyond the excavation reports which are the focus of the Supplementary Volumes.\u00a0\u00a0 They consist mainly of BSA-led conference reports or Festschriften for BSA members, both of which embrace a wide range of content, from the mesolithic to mediaeval periods.\u00a0\u00a0 In addition two volumes present authoritative accounts of pottery production at Knossos on Crete in the Bronze Age and in the Greek and Roman periods. The British School at Athens. Supplementary Volumes", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-03T19:04:04.882328: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html. (walk_to_json.py)"
+        "2015-06-03T21:21:30.544098: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html. (walk_to_json.py)"
     ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "2159-4996"
+            ]
+        }
+    }, 
     "keywords": [
         "Athens", 
         "Crete", 
@@ -43,13 +49,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4915131031139671891", 
             "resource_date": "2011-07-24T07:51:55.926-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T19:04:04.882851"
+            "when": "2015-06-03T21:21:30.544685"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html", 
             "resource_date": "2011-07-24T07:51:55.926-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T19:04:04.882858"
+            "when": "2015-06-03T21:21:30.544693"
         }
     ], 
     "related_resources": [], 
