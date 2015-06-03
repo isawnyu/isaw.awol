@@ -183,6 +183,8 @@ class AwolArticle(Article):
                 resource.set_provenance(self.id, 'citesAsDataSource', updated, resource_fields)
                 resource.set_provenance(self.url, 'citesAsMetadataDocument', updated)
                 resources.append(resource)
+        elif len(domains) == 1 and len(unique_urls) > 1:
+            logger.warning('aggregator detected, but ignored: {0}'.format(domains[0]))
         elif len(domains) == 1:
             # this is an article about a single resource
             urls=[url for url in urls if domains[0] in url]
