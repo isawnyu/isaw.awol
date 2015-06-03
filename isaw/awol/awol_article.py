@@ -112,7 +112,8 @@ AGGREGATORS = [
     'oi.uchicago.edu',
     'www.persee.fr',
     'dialnet.unirioja.es',
-    'amar.hsclib.sunysb.edu'
+    'amar.hsclib.sunysb.edu',
+    'hrcak.srce.hr'
 ]
 AGGREGATOR_IGNORE = [
     'http://www.jstor.org/page/info/about/archives/collections.jsp',
@@ -292,7 +293,7 @@ class AwolArticle(Article):
             if d not in DOMAINS_TO_IGNORE 
             and d not in DOMAINS_SECONDARY]
         ################# TESTING
-        dump_domains = [u'amar.hsclib.sunysb.edu',]
+        dump_domains = [u'hrcak.srce.hr',]
         if len(domains) > 1:
             return None
         if len(domains) == 1 and len(unique_urls) <= 1:
@@ -323,45 +324,11 @@ class AwolArticle(Article):
             # loop through anchors and process each as a potential resource
             force_related = None
             force_subordinate = None
+            prev_superior = None
             for a in [a for a in anchors if domains[0] in a.get('href') and a.get('href') not in AGGREGATOR_IGNORE and a.get_text().strip() != u'']:
                 anchor_text = normalize_space(a.get_text())
                 anchor_text_lower = anchor_text.lower()
                 anchor_href = normalize_space(a.get('href'))
-
-                # detect subordinate and related links and append them to the preceding resource
-                if anchor_text_lower in SUBORDINATE_FLAGS:
-                    if dump_it:
-                        print u'              subordinate: "{0}" ({1})'.format(anchor_text, anchor_href)
-                    resources[-1].subordinate_resources.append({
-                        'url': anchor_href,
-                        'label': anchor_text
-                        })
-                elif anchor_text_lower in RELATED_FLAGS:
-                    if dump_it:
-                        print u'              related: "{0}" ({1})'.format(anchor_text, anchor_href)
-                    resources[-1].related_resources.append({
-                        'url': anchor_href,
-                        'label': anchor_text
-                        })
-
-                # if we've previously passed something that forces us to treat all subsequent
-                # anchors as related or subordinate resources, handle accordingly
-                if force_related is not None:
-                    if force_related.url != anchor_href:
-                        if dump_it:
-                            print u'    >>>>>>>>> FORCE related: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_related.title, force_related.url)
-                        force_related.related_resources.append({
-                            'url': anchor_href,
-                            'label': anchor_text
-                            })
-                elif force_subordinate is not None:
-                    if force_subordinate.url != anchor_href:
-                        if dump_it:
-                            print u'    >>>>>>>>> FORCE subordinate: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_subordinate.title, force_subordinate.url)
-                        force_subordinate.subordinate_resources.append({
-                            'url': anchor_href,
-                            'label': anchor_text
-                            })
 
                 # parse a new resource related to this anchor
                 if anchor_text_lower not in SUPPRESS_RESOURCE and anchor_href not in [r.url for r in resources]:
@@ -393,6 +360,50 @@ class AwolArticle(Article):
                     if dump_it:
                         print u'    resource: {0}'.format(resource.title)
                         print u'              {0}'.format(resource.url)
+
+                # detect subordinate and related links and append them to the preceding resource
+                if anchor_text_lower in SUBORDINATE_FLAGS:
+                    if dump_it:
+                        print u'              subordinate to "{0}" ({1})'.format(resources[-2].title, resources[-2].url)
+                    resources[-1].subordinate_resources.append({
+                        'url': anchor_href,
+                        'label': anchor_text
+                        })
+                elif anchor_text_lower in RELATED_FLAGS:
+                    if dump_it:
+                        print u'              related to "{0}" ({1})'.format(resources[-2].title, resources[-2].url)
+                    resources[-1].related_resources.append({
+                        'url': anchor_href,
+                        'label': anchor_text
+                        })
+                elif anchor_text_lower[:5] == u'vol. ' or anchor_text_lower[:4] == u'no. ':
+                    if prev_superior is not None:
+                        pass
+                    else:
+                        prev_superior = resources[-2]
+                    if prev_superior.url != anchor_href:
+                        if dump_it:
+                            print u'              subordinate to "{0}" ({1})'.format(prev_superior.title, prev_superior.url)
+                        prev_superior.subordinate_resources.append({
+                            'url': anchor_href,
+                            'label': anchor_text
+                            })
+                elif force_related is not None:
+                    if force_related.url != anchor_href:
+                        if dump_it:
+                            print u'              FORCE related: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_related.title, force_related.url)
+                        force_related.related_resources.append({
+                            'url': anchor_href,
+                            'label': anchor_text
+                            })
+                elif force_subordinate is not None:
+                    if force_subordinate.url != anchor_href:
+                        if dump_it:
+                            print u'              FORCE subordinate: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_subordinate.title, force_subordinate.url)
+                        force_subordinate.subordinate_resources.append({
+                            'url': anchor_href,
+                            'label': anchor_text
+                            })
 
                 # detect conditions that will force treatment of subsequent anchors as
                 # subordinate or related resources
