@@ -1,12 +1,11 @@
 {
-    "description": "AMAR: One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports Larsa: travaux de 1987 et 1989 OK Larsa (8e\u0300me et 9e\u0300me campagnes, 1978 et 1981) et \u02bcOueili (2e\u0300me et 3e\u0300me campagnes, 1978 et 1981): rapport pre\u0301liminaire 1983 OK Larsa (10e campagne, 1983) et \u02bcOueili (4e campagne, 1983): rapport pre\u0301liminaire 1987 OK Larsa: travaux de 1985 1989 OK Larsa: travaux de 1987 et 1989 OK Larsa (8e\u0300me et 9e\u0300me campagnes, 1978 et 1981) et \u02bcOueili (2e\u0300me et 3e\u0300me campagnes, 1978 et 1981): rapport pre\u0301liminaire 1983 OK Larsa (10e campagne, 1983) et \u02bcOueili (4e campagne, 1983): rapport pre\u0301liminaire 1987 OK Larsa: travaux de 1985 1989 OK", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-03T04:59:30.313648: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/larsa-reports-in-amar.html. (walk_to_json.py)"
+        "2015-06-03T21:55:47.367845: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/larsa-reports-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "AWOL", 
         "Amar", 
         "Iraq", 
         "Larsa", 
@@ -14,11 +13,10 @@
         "archaeological site", 
         "archaeology", 
         "archive", 
-        "reports", 
-        "series"
+        "reports"
     ], 
     "language": [
-        "en", 
+        "fr", 
         1.0
     ], 
     "provenance": [
@@ -31,24 +29,44 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3783077536232104276", 
             "resource_date": "2012-03-02T16:39:07.355-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:30.314289"
+            "when": "2015-06-03T21:55:47.368447"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/larsa-reports-in-amar.html", 
             "resource_date": "2012-03-02T16:39:07.355-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:30.314298"
+            "when": "2015-06-03T21:55:47.368455"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
-    "title": "Larsa Reports in AMAR", 
+    "subordinate_resources": [
+        {
+            "label": "Larsa: travaux de 1987 et 1989", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=34201&REC=1"
+        }, 
+        {
+            "label": "Larsa (8e\u0300me et 9e\u0300me campagnes, 1978 et 1981) et \u02bcOueili (2e\u0300me et 3e\u0300me campagnes, 1978 et 1981): rapport pre\u0301liminaire", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=32945&REC=3"
+        }, 
+        {
+            "label": "Larsa (10e campagne, 1983) et \u02bcOueili (4e campagne, 1983): rapport pre\u0301liminaire", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=35075&REC=4"
+        }, 
+        {
+            "label": "Larsa: travaux de 1985", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=68343&REC=5"
+        }
+    ], 
+    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "zotero_id": null
 }

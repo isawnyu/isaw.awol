@@ -1,12 +1,11 @@
 {
-    "description": "AMAR: One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports Excavations at Tell Brak. v. 1: The Mitanni and Old Babylonian periods Oates, David, 1927- 1997 OK Excavations at Tell Brak. v. 2: Nagar in the third millennuium BC Oates, David, 1927- 2001 OK Excavations at Tell Brak. v. 4: Exploring an upper Mesopotamian regional centre, 1994-1996 2003 OK See more", 
+    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports Excavations at Tell Brak. v. 1: The Mitanni and Old Babylonian periods Oates, David, 1927- 1997 OK Excavations at Tell Brak. v. 2: Nagar in the third millennuium BC Oates, David, 1927- 2001 OK Excavations at Tell Brak. v. 4: Exploring an upper Mesopotamian regional centre, 1994-1996 2003 OK Excavations at Tell Brak. v. 1: The Mitanni and Old Babylonian periods Oates, David, 1927- 1997 OK Excavations at Tell Brak. v. 2: Nagar in the third millennuium BC Oates, David, 1927- 2001 OK Excavations at Tell Brak. v. 4: Exploring an upper Mesopotamian regional centre, 1994-1996 2003 OK Excavations at Tell Brak. v. 1: The Mitanni and Old Babylonian periods Oates, David, 1927- 1997 OK", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-03T04:59:39.714045: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/excavations-at-tell-brak-in-amar.html. (walk_to_json.py)"
+        "2015-06-03T21:55:53.774510: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/excavations-at-tell-brak-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "AWOL", 
         "Amar", 
         "Babylon", 
         "Mesopotamia", 
@@ -16,8 +15,7 @@
         "archaeological site", 
         "archaeology", 
         "archive", 
-        "reports", 
-        "series"
+        "reports"
     ], 
     "language": [
         "en", 
@@ -33,24 +31,40 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6014684559764687998", 
             "resource_date": "2012-03-02T16:38:35.594-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:39.714669"
+            "when": "2015-06-03T21:55:53.775123"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tell-brak-in-amar.html", 
             "resource_date": "2012-03-02T16:38:35.594-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:39.714678"
+            "when": "2015-06-03T21:55:53.775131"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
-    "title": "Excavations at Tell Brak in AMAR", 
+    "subordinate_resources": [
+        {
+            "label": "Excavations at Tell Brak. v. 1: The Mitanni and Old Babylonian periods", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=56230&REC=1"
+        }, 
+        {
+            "label": "Excavations at Tell Brak. v. 2: Nagar in the third millennuium BC", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=40913&REC=2"
+        }, 
+        {
+            "label": "Excavations at Tell Brak. v. 4: Exploring an upper Mesopotamian regional centre, 1994-1996", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=55574&REC=3"
+        }
+    ], 
+    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "zotero_id": null
 }

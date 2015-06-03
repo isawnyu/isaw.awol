@@ -1,12 +1,11 @@
 {
-    "description": "AMAR: One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports Archa\u0308ologische Berichte aus dem Yemen. Bd. 2: Die Erforschung der antiken Oase von Ma\u0304rib mit Hilfe geomorphologischer Untersuchungsmethoden Deutsches Archa\u0308ologisches Institut S\u0323ana\u0304 1983 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 43 1987 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 5: Antike Technologie: die saba\u0308ische Wasserwirtschaft von Ma\u0304rib. Teil 1 Deutsches Archa\u0308ologisches Institut S\u0323ana\u0304 1991 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 6: Antike Technologie: die saba\u0308ische Wasserwirtschaft von Ma\u0304rib. Teil 2 Deutsches Archa\u0308ologisches Institut S\u0323an\u0304a 1993 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 8: Les fortifications d'Arabie me\u0301ridionale du 7e au 1er sie\u0300cle avant notre e\u0300re Deutsches Archa\u0308ologisches Institut S\u0323an\u0304a 1994 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 7: Antike Technologie: die saba\u0308ische Wasserwirtschaft von Ma\u0304rib. Teil 3 Deutsches Archa\u0308ologisches Institut S\u0323an\u0304a 1995 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 12: Ma\u02bblayba et l'a\u0302ge du bronze du Ye\u0301men Buffa, Vittoria 2007 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 4 Deutsches Archa\u0308ologisches Institut S\u0323ana\u0304 1988 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 9 Deutsches Archa\u0308ologisches Institut S\u0323ana\u0304 2002 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 10: Rencontres Sabe\u0301ennes 6 Deutsches Archa\u0308ologisches Institut S\u0323ana\u0304 2005 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 11 Deutsches Archa\u0308ologisches Institut S\u0323ana\u0304 2007 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 2: Die Erforschung der antiken Oase von Ma\u0304rib mit Hilfe geomorphologischer Untersuchungsmethoden Deutsches Archa\u0308ologisches Institut S\u0323ana\u0304 1983 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 43 1987 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 5: Antike Technologie: die saba\u0308ische Wasserwirtschaft von Ma\u0304rib. Teil 1 Deutsches Archa\u0308ologisches Institut S\u0323ana\u0304 1991 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 6: Antike Technologie: die saba\u0308ische Wasserwirtschaft von Ma\u0304rib. Teil 2 Deutsches Archa\u0308ologisches Institut S\u0323an\u0304a 1993 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 8: Les fortifications d'Arabie me\u0301ridionale du 7e au 1er sie\u0300cle avant notre e\u0300re Deutsches Archa\u0308ologisches Institut S\u0323an\u0304a 1994 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 7: Antike Technologie: die saba\u0308ische Wasserwirtschaft von Ma\u0304rib. Teil 3 Deutsches Archa\u0308ologisches Institut S\u0323an\u0304a 1995 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 12: Ma\u02bblayba et l'a\u0302ge du bronze du Ye\u0301men Buffa, Vittoria 2007 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 4 Deutsches Archa\u0308ologisches Institut S\u0323ana\u0304 1988 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 9 Deutsches Archa\u0308ologisches Institut S\u0323ana\u0304 2002 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 10: Rencontres Sabe\u0301ennes 6 Deutsches Archa\u0308ologisches Institut S\u0323ana\u0304 2005 OK Archa\u0308ologische Berichte aus dem Yemen. Bd. 11 Deutsches Archa\u0308ologisches Institut S\u0323ana\u0304 2007 OK", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-03T04:59:52.705842: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html. (walk_to_json.py)"
+        "2015-06-03T21:56:01.862935: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "AWOL", 
         "Amar", 
         "Mesopotamia", 
         "Yemen", 
@@ -16,11 +15,10 @@
         "archive", 
         "bronze", 
         "fortifications", 
-        "reports", 
-        "series"
+        "reports"
     ], 
     "language": [
-        "en", 
+        "de", 
         1.0
     ], 
     "provenance": [
@@ -33,24 +31,72 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9016964047355295590", 
             "resource_date": "2012-03-02T16:39:52.240-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:52.706433"
+            "when": "2015-06-03T21:56:01.863557"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html", 
             "resource_date": "2012-03-02T16:39:52.240-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:52.706442"
+            "when": "2015-06-03T21:56:01.863566"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
-    "title": "Archa\u0308ologische Berichte aus dem Yemen in AMAR", 
+    "subordinate_resources": [
+        {
+            "label": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 2: Die Erforschung der antiken Oase von Ma\u0304rib mit Hilfe geomorphologischer Untersuchungsmethoden", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=84537&REC=1"
+        }, 
+        {
+            "label": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 43", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=162425&REC=2"
+        }, 
+        {
+            "label": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 5: Antike Technologie: die saba\u0308ische Wasserwirtschaft von Ma\u0304rib. Teil 1", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=84682&REC=3"
+        }, 
+        {
+            "label": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 6: Antike Technologie: die saba\u0308ische Wasserwirtschaft von Ma\u0304rib. Teil 2", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=95261&REC=4"
+        }, 
+        {
+            "label": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 8: Les fortifications d'Arabie me\u0301ridionale du 7e au 1er sie\u0300cle avant notre e\u0300re", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=87274&REC=5"
+        }, 
+        {
+            "label": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 7: Antike Technologie: die saba\u0308ische Wasserwirtschaft von Ma\u0304rib. Teil 3", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=87019&REC=6"
+        }, 
+        {
+            "label": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 12: Ma\u02bblayba et l'a\u0302ge du bronze du Ye\u0301men", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=162782&REC=7"
+        }, 
+        {
+            "label": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 4", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=84978&REC=8"
+        }, 
+        {
+            "label": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 9", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=95124&REC=9"
+        }, 
+        {
+            "label": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 10: Rencontres Sabe\u0301ennes 6", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=94855&REC=10"
+        }, 
+        {
+            "label": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 11", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=94395&REC=11"
+        }
+    ], 
+    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "zotero_id": null
 }

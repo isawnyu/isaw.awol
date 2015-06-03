@@ -1,12 +1,11 @@
 {
-    "description": "AMAR: One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports Les Monuments ayyoubides de Damas ; v. 1 Le tombeau de Safwat-el-Molk. Le d\u00e2r al-had\u00eeth de No\u00fbr ad-Din Le tombeau de Farroukh-Ch\u00e2h et de Bahr\u00e2m-Ch\u00e2h. La madrasa Djah\u00e2rkasiya Institut Franc\u0327ais de Damas (Damascus) 1938 OK Les Monuments ayyoubides de Damas ; v. 2 La madrasa Raih\u00e2niya. La madrasa 'Adr\u00e2wiya. La madrasa 'Izziya hors-les-murs. La madrasa 'Adiliya. Trois bains ayyoubides de Damas Institut Franc\u0327ais de Damas (Damascus) 1940 OK Les Monuments ayyoubides de Damas ; v. 3 Mitq\u00e2l. La Madrasa M\u00e2rid\u00e2niya. La Madrasa Chibliya Hors-Ies-Murs. Tombeau anonyme Institut Franc\u0327ais de Damas (Damascus) 1948 OK Les Monuments ayyoubides de Damas ; v. 4 Epitaphes coufiques de B\u00e2b Sagh\u00eer par Janine Sourdel-Thomine Institut Franc\u0327ais de Damas (Damascus) 1950 OK See more", 
+    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports Les Monuments ayyoubides de Damas ; v. 1 Le tombeau de Safwat-el-Molk. Le d\u00e2r al-had\u00eeth de No\u00fbr ad-Din Le tombeau de Farroukh-Ch\u00e2h et de Bahr\u00e2m-Ch\u00e2h. La madrasa Djah\u00e2rkasiya Institut Franc\u0327ais de Damas (Damascus) 1938 OK Les Monuments ayyoubides de Damas ; v. 2 La madrasa Raih\u00e2niya. La madrasa 'Adr\u00e2wiya. La madrasa 'Izziya hors-les-murs. La madrasa 'Adiliya. Trois bains ayyoubides de Damas Institut Franc\u0327ais de Damas (Damascus) 1940 OK Les Monuments ayyoubides de Damas ; v. 3 Mitq\u00e2l. La Madrasa M\u00e2rid\u00e2niya. La Madrasa Chibliya Hors-Ies-Murs. Tombeau anonyme Institut Franc\u0327ais de Damas (Damascus) 1948 OK Les Monuments ayyoubides de Damas ; v. 4 Epitaphes coufiques de B\u00e2b Sagh\u00eer par Janine Sourdel-Thomine Institut Franc\u0327ais de Damas (Damascus) 1950 OK Les Monuments ayyoubides de Damas ; v. 1 Le tombeau de Safwat-el-Molk. Le d\u00e2r al-had\u00eeth de No\u00fbr ad-Din Le tombeau de Farroukh-Ch\u00e2h et de Bahr\u00e2m-Ch\u00e2h. La madrasa Djah\u00e2rkasiya Institut Franc\u0327ais de Damas (Damascus) 1938 OK Les Monuments ayyoubides de Damas ; v. 2 La madrasa Raih\u00e2niya. La madrasa 'Adr\u00e2wiya. La madrasa 'Izziya hors-les-murs. La madrasa 'Adiliya. Trois bains ayyoubides de Damas Institut Franc\u0327ais de Damas (Damascus) 1940 OK Les Monuments ayyoubides de Damas ; v. 3 Mitq\u00e2l. La Madrasa M\u00e2rid\u00e2niya. La Madrasa Chibliya Hors-Ies-Murs. Tombeau anonyme Institut Franc\u0327ais de Damas (Damascus) 1948 OK Les Monuments ayyoubides de Damas ; v. 4 Epitaphes coufiques de B\u00e2b Sagh\u00eer par Janine Sourdel-Thomine Institut Franc\u0327ais de Damas (Damascus) 1950 OK Les Monuments ayyoubides de Damas ; v. 1 Le tombeau de Safwat-el-Molk. Le d\u00e2r al-had\u00eeth de No\u00fbr ad-Din Le tombeau de Farroukh-Ch\u00e2h et de Bahr\u00e2m-Ch\u00e2h. La madrasa Djah\u00e2rkasiya Institut Franc\u0327ais de Damas (Damascus) 1938 OK", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-03T04:59:18.008793: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html. (walk_to_json.py)"
+        "2015-06-03T21:55:39.213236: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "AWOL", 
         "Amar", 
         "Damascus", 
         "Mesopotamia", 
@@ -15,8 +14,7 @@
         "archaeology", 
         "archive", 
         "monuments", 
-        "reports", 
-        "series"
+        "reports"
     ], 
     "language": [
         "fr", 
@@ -32,24 +30,44 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1096390894177956598", 
             "resource_date": "2012-03-02T16:43:23.871-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:18.009360"
+            "when": "2015-06-03T21:55:39.213853"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html", 
             "resource_date": "2012-03-02T16:43:23.871-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:18.009368"
+            "when": "2015-06-03T21:55:39.213862"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
-    "title": "Les Monuments ayyoubides de Damas in AMAR", 
+    "subordinate_resources": [
+        {
+            "label": "Les Monuments ayyoubides de Damas ; v. 1 Le tombeau de Safwat-el-Molk. Le d\u00e2r al-had\u00eeth de No\u00fbr ad-Din Le tombeau de Farroukh-Ch\u00e2h et de Bahr\u00e2m-Ch\u00e2h. La madrasa Djah\u00e2rkasiya", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106805&REC=1"
+        }, 
+        {
+            "label": "Les Monuments ayyoubides de Damas ; v. 2 La madrasa Raih\u00e2niya. La madrasa 'Adr\u00e2wiya. La madrasa 'Izziya hors-les-murs. La madrasa 'Adiliya. Trois bains ayyoubides de Damas", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106898&REC=2"
+        }, 
+        {
+            "label": "Les Monuments ayyoubides de Damas ; v. 3 Mitq\u00e2l. La Madrasa M\u00e2rid\u00e2niya. La Madrasa Chibliya Hors-Ies-Murs. Tombeau anonyme", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106951&REC=3"
+        }, 
+        {
+            "label": "Les Monuments ayyoubides de Damas ; v. 4 Epitaphes coufiques de B\u00e2b Sagh\u00eer par Janine Sourdel-Thomine", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=107060&REC=4"
+        }
+    ], 
+    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "zotero_id": null
 }

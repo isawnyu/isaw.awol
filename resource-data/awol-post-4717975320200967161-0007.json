@@ -1,0 +1,52 @@
+{
+    "description": "Ugaritica. VI: publie\u0301 a\u0300 l'occasion de la XXXe campagne de fouilles a\u0300 Ras Shamra (1968) Schaeffer, Claude F.-A. (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 1969 OK", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-03T21:55:49.977852: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Amar", 
+        "Ras Shamra", 
+        "Syria", 
+        "Ugarit", 
+        "archaeology"
+    ], 
+    "language": [
+        "fr", 
+        0.9999999718907963
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4717975320200967161", 
+            "resource_date": "2012-03-02T16:45:40.809-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:55:49.978387"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html", 
+            "resource_date": "2012-03-02T16:45:40.809-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:55:49.978395"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ugaritica. VI: publie\u0301 a\u0300 l'occasion de la XXXe campagne de fouilles a\u0300 Ras Shamra (1968", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=117332&REC=6", 
+    "zotero_id": null
+}

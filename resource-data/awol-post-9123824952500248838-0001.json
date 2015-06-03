@@ -1,12 +1,11 @@
 {
-    "description": "AMAR: One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports Parthian pottery from Seleucia on the Tigris Debevoise, Neilson Carel, 1903- 1934 OK Stamped and inscribed objects from Seleucia on the Tigris McDowell, Robert Harbold, b. 1894. 1935 OK Coins from Seleucia on the Tigris McDowell, Robert Harbold, b. 1894 1935 OK Figurines from Seleucia on the Tigris: discovered by the expeditions conducted by the University of Michigan with the cooperation of the Toledo Museum of Art and the Cleveland Museum of Art, 1927-1932 Elarth, Wilhelmina Van Ingen, 1905-1969 1939 OK Topography and architecture of Seleucia on the Tigris 1972 OK Parthian pottery from Seleucia on the Tigris Debevoise, Neilson Carel, 1903- 1934 OK Stamped and inscribed objects from Seleucia on the Tigris McDowell, Robert Harbold, b. 1894. 1935 OK Coins from Seleucia on the Tigris McDowell, Robert Harbold, b. 1894 1935 OK Figurines from Seleucia on the Tigris: discovered by the expeditions conducted by the University of Michigan with the cooperation of the Toledo Museum of Art and the Cleveland Museum of Art, 1927-1932 Elarth, Wilhelmina Van Ingen, 1905-1969 1939 OK Topography and architecture of Seleucia on the Tigris 1972 OK Parthian pottery from Seleucia on the Tigris Debevoise, Neilson Carel, 1903- 1934 OK", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-03T04:59:53.181582: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/seleucia-on-tigris-in-amar.html. (walk_to_json.py)"
+        "2015-06-03T21:56:02.268990: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/seleucia-on-tigris-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "AWOL", 
         "Amar", 
         "Mesopotamia", 
         "Michigan", 
@@ -21,8 +20,7 @@
         "museums", 
         "numismatics", 
         "pottery", 
-        "reports", 
-        "series"
+        "reports"
     ], 
     "language": [
         "en", 
@@ -38,24 +36,48 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9123824952500248838", 
             "resource_date": "2012-03-02T16:38:05.272-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:53.182353"
+            "when": "2015-06-03T21:56:02.269637"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/seleucia-on-tigris-in-amar.html", 
             "resource_date": "2012-03-02T16:38:05.272-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:53.182391"
+            "when": "2015-06-03T21:56:02.269645"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
-    "title": "Seleucia on the Tigris in AMAR", 
+    "subordinate_resources": [
+        {
+            "label": "Parthian pottery from Seleucia on the Tigris", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=24933&REC=1"
+        }, 
+        {
+            "label": "Stamped and inscribed objects from Seleucia on the Tigris", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=10631&REC=2"
+        }, 
+        {
+            "label": "Coins from Seleucia on the Tigris", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=150574&REC=3"
+        }, 
+        {
+            "label": "Figurines from Seleucia on the Tigris: discovered by the expeditions conducted by the University of Michigan with the cooperation of the Toledo Museum of Art and the Cleveland Museum of Art, 1927-1932", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=145290&REC=4"
+        }, 
+        {
+            "label": "Topography and architecture of Seleucia on the Tigris", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=10132&REC=5"
+        }
+    ], 
+    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "zotero_id": null
 }

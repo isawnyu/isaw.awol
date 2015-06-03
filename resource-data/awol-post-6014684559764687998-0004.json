@@ -1,0 +1,53 @@
+{
+    "description": "Excavations at Tell Brak. v. 4: Exploring an upper Mesopotamian regional centre, 1994-1996 2003 OK See more Series in AMAR", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-03T21:55:53.788631: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/excavations-at-tell-brak-in-amar.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Amar", 
+        "Mesopotamia", 
+        "Syria", 
+        "Tell Brak", 
+        "archaeology", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6014684559764687998", 
+            "resource_date": "2012-03-02T16:38:35.594-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:55:53.789189"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tell-brak-in-amar.html", 
+            "resource_date": "2012-03-02T16:38:35.594-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:55:53.789197"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Excavations at Tell Brak. v. 4: Exploring an upper Mesopotamian regional centre, 1994-1996", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=55574&REC=3", 
+    "zotero_id": null
+}

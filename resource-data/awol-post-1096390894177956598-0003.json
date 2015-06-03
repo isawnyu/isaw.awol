@@ -1,0 +1,52 @@
+{
+    "description": "Les Monuments ayyoubides de Damas ; v. 2 La madrasa Raih\u00e2niya. La madrasa 'Adr\u00e2wiya. La madrasa 'Izziya hors-les-murs. La madrasa 'Adiliya. Trois bains ayyoubides de Damas Institut Franc\u0327ais de Damas (Damascus) 1940 OK", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-03T21:55:39.223696: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Amar", 
+        "Damascus", 
+        "Syria", 
+        "archaeology", 
+        "monuments"
+    ], 
+    "language": [
+        "fr", 
+        0.9999997318130633
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1096390894177956598", 
+            "resource_date": "2012-03-02T16:43:23.871-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:55:39.224234"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html", 
+            "resource_date": "2012-03-02T16:43:23.871-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:55:39.224242"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Les Monuments ayyoubides de Damas ; v. 2 La madrasa Raih\u00e2niya. La madrasa 'Adr\u00e2wiya. La madrasa 'Izziya hors-les-murs. La madrasa 'Adiliya. Trois bains ayyoubides de Damas", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106898&REC=2", 
+    "zotero_id": null
+}

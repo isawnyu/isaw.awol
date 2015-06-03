@@ -1,12 +1,11 @@
 {
-    "description": "AMAR: One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports Ugaritica. I: e\u0301tudes relatives aux de\u0301couvertes de Ras Shamra Schaeffer, Claude F.-A. (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 1939 OK Ugaritica. II: nouvelles e\u0301tudes relatives aux de\u0301couvertes de Ras Shamra Schaeffer, Claude F.-A. (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 1949 OK Ugaritica. III : sceaux et cylindres hittites, e\u0301pe\u0301e grave\u0301e du cartouche de Mineptah, tablettes chypro-minoennes et autres de\u0301couvertes nouvelles de Ras Shamra Schaeffer, Claude F.-A (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 1956 OK Ugaritica. IV: De\u0301couvertes des 18e et 19e campagnes, 1954-1955 : fondements pre\u0301historiques d'Ugarit et nouveaux sondages, e\u0301tudes anthropologiques, poteries grecques et monnaies islamiques de Ras Shamra et environs Schaeffer, Claude F.-A. (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 1962 OK Ugaritica. V: nouveaux textes accadiens, hourrites et ugaritiques des archives et bibliothe\u0300ques prive\u0301es d'Ugarit Nougayrol, Jean 1968 OK Ugaritica. VI: publie\u0301 a\u0300 l'occasion de la XXXe campagne de fouilles a\u0300 Ras Shamra (1968) Schaeffer, Claude F.-A. (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 1969 OK Ugaritica. VII Schaeffer, Claude F.-A. (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 Ugaritica. I: e\u0301tudes relatives aux de\u0301couvertes de Ras Shamra Schaeffer, Claude F.-A. (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 1939 OK Ugaritica. II: nouvelles e\u0301tudes relatives aux de\u0301couvertes de Ras Shamra Schaeffer, Claude F.-A. (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 1949 OK Ugaritica. III : sceaux et cylindres hittites, e\u0301pe\u0301e grave\u0301e du cartouche de Mineptah, tablettes chypro-minoennes et autres de\u0301couvertes nouvelles de Ras Shamra Schaeffer, Claude F.-A (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 1956 OK Ugaritica. IV: De\u0301couvertes des 18e et 19e campagnes, 1954-1955 : fondements pre\u0301historiques d'Ugarit et nouveaux sondages, e\u0301tudes anthropologiques, poteries grecques et monnaies islamiques de Ras Shamra et environs Schaeffer, Claude F.-A. (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 1962 OK Ugaritica. V: nouveaux textes accadiens, hourrites et ugaritiques des archives et bibliothe\u0300ques prive\u0301es d'Ugarit Nougayrol, Jean 1968 OK Ugaritica. VI: publie\u0301 a\u0300 l'occasion de la XXXe campagne de fouilles a\u0300 Ras Shamra (1968) Schaeffer, Claude F.-A. (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 1969 OK Ugaritica. VII Schaeffer, Claude F.-A. (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 Ugaritica. I: e\u0301tudes relatives aux de\u0301couvertes de Ras Shamra Schaeffer, Claude F.-A. (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 1939 OK", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-03T04:59:33.969282: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html. (walk_to_json.py)"
+        "2015-06-03T21:55:49.940653: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "AWOL", 
         "Amar", 
         "Mesopotamia", 
         "Ras Shamra", 
@@ -15,11 +14,10 @@
         "archaeological site", 
         "archaeology", 
         "archive", 
-        "reports", 
-        "series"
+        "reports"
     ], 
     "language": [
-        "en", 
+        "fr", 
         1.0
     ], 
     "provenance": [
@@ -32,24 +30,56 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4717975320200967161", 
             "resource_date": "2012-03-02T16:45:40.809-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:33.970236"
+            "when": "2015-06-03T21:55:49.941311"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html", 
             "resource_date": "2012-03-02T16:45:40.809-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:33.970250"
+            "when": "2015-06-03T21:55:49.941321"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
-    "title": "Ugaritica in AMAR", 
+    "subordinate_resources": [
+        {
+            "label": "Ugaritica. I: e\u0301tudes relatives aux de\u0301couvertes de Ras Shamra", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=115543&REC=1"
+        }, 
+        {
+            "label": "Ugaritica. II: nouvelles e\u0301tudes relatives aux de\u0301couvertes de Ras Shamra", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=54988&REC=2"
+        }, 
+        {
+            "label": "Ugaritica. III : sceaux et cylindres hittites, e\u0301pe\u0301e grave\u0301e du cartouche de Mineptah, tablettes chypro-minoennes et autres de\u0301couvertes nouvelles de Ras Shamra", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=33529&REC=3"
+        }, 
+        {
+            "label": "Ugaritica. IV: De\u0301couvertes des 18e et 19e campagnes, 1954-1955 : fondements pre\u0301historiques d'Ugarit et nouveaux sondages, e\u0301tudes anthropologiques, poteries grecques et monnaies islamiques de Ras Shamra et environs", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=116620&REC=4"
+        }, 
+        {
+            "label": "Ugaritica. V: nouveaux textes accadiens, hourrites et ugaritiques des archives et bibliothe\u0300ques prive\u0301es d'Ugarit", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=7250&REC=5"
+        }, 
+        {
+            "label": "Ugaritica. VI: publie\u0301 a\u0300 l'occasion de la XXXe campagne de fouilles a\u0300 Ras Shamra (1968)", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=117332&REC=6"
+        }, 
+        {
+            "label": "Ugaritica. VII", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=118406&REC=7"
+        }
+    ], 
+    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "zotero_id": null
 }

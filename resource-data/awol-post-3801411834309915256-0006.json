@@ -1,0 +1,53 @@
+{
+    "description": "Ausgrabungen in Sendschirli. v. 5: Die Kleinfunde von Senschirli Staatliche Museen zu Berlin See more Series in AMAR", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-03T21:55:47.538188: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-sendschirli-in-amar.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Amar", 
+        "Berlin", 
+        "Turkey", 
+        "Zinjirli", 
+        "archaeology", 
+        "series"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3801411834309915256", 
+            "resource_date": "2012-03-02T16:42:36.962-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-03T21:55:47.538809"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-sendschirli-in-amar.html", 
+            "resource_date": "2012-03-02T16:42:36.962-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-03T21:55:47.538817"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ausgrabungen in Sendschirli. v. 5: Die Kleinfunde von Senschirli", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=108809&REC=5", 
+    "zotero_id": null
+}
