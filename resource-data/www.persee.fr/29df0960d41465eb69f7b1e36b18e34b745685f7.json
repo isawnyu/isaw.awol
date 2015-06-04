@@ -2,7 +2,7 @@
     "description": "[ 7-4 ] 1929 : [ 8-1 ] [ 8-2 ] [ 8-3 ] [ 8-4 ] 1929 : [ 8-1 ] [ 8-2 ] [ 8-3 ] [ 8-4 ] 1929 : [ 8-1 ] [ 8-2 ] [ 8-3 ] [ 8-4 ] 1929 : [ 8-1 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:30.499632: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
+        "2015-06-04T03:56:42.370465: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,18 +32,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707332784338276556", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:30.500149"
+            "when": "2015-06-04T03:56:42.371013"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:30.500157"
+            "when": "2015-06-04T03:56:42.371020"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "7-4", 
+    "title": "7-4: Revue belge de Philologie et d'Histoire", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1928_num_7_4", 
     "zotero_id": null
 }

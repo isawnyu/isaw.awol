@@ -2,7 +2,7 @@
     "description": "[ 13-2 ] 1971 : [ 14-1 ] [ 14-2 ] 1971 : [ 14-1 ] [ 14-2 ] 1971 : [ 14-1 ] [ 14-2 ] 1971 : [ 14-1 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:12.814010: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-journal-gallia-prehistoire.html. (walk_to_json.py)"
+        "2015-06-04T03:56:29.490228: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-journal-gallia-prehistoire.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -29,18 +29,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-294888600895384136", 
             "resource_date": "2010-01-19T11:12:48.581-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:12.814558"
+            "when": "2015-06-04T03:56:29.490845"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-gallia-prehistoire.html", 
             "resource_date": "2010-01-19T11:12:48.581-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:12.814567"
+            "when": "2015-06-04T03:56:29.490853"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "13-2", 
+    "title": "13-2: Gallia Pr\u00e9histoire", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/galip_0016-4127_1970_num_13_2", 
     "zotero_id": null
 }

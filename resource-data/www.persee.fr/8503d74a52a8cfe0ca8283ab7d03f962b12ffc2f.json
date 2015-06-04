@@ -2,7 +2,7 @@
     "description": "[ 38-1 ] 1970-1979 1970 : [ 39-1 ] [ 39-2 ] 1971 : [ 40-1 ] [ 40-2 ] 1972 : [ 41-1 ] [ 41-2 ] 1973 : [ 42-1 ] 1975 : [ 44-2 ] 1976 : [ 45-1 ] [ 45-2 ] 1977 : [ 46-1 ] [ 46-2 ] 1978 : [ 47-1 ] [ 47-2 ] 1979 : [ 48-1 ] [ 48-2 ] 1970-1979", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:35.628934: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html. (walk_to_json.py)"
+        "2015-06-04T03:56:46.709546: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -30,18 +30,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7945682581620223967", 
             "resource_date": "2013-12-29T07:35:34.289-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:35.629556"
+            "when": "2015-06-04T03:56:46.710108"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html", 
             "resource_date": "2013-12-29T07:35:34.289-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:35.629565"
+            "when": "2015-06-04T03:56:46.710116"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1969 : [ 38-1 ]", 
+    "title": "1969 : [ 38-1 ]: L'Antiquit\u00e9 Classique", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/antiq_0770-2817_1969_num_38_1", 
     "zotero_id": null
 }

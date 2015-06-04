@@ -2,7 +2,7 @@
     "description": "[ 6 ] 1996 : [ 7 ] 1996 : [ 7 ] 1996 : [ 7 ] 1996 : [ 7 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:29.802146: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html. (walk_to_json.py)"
+        "2015-06-04T03:56:41.823023: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -29,18 +29,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6859067162907404873", 
             "resource_date": "2012-11-15T13:02:17.828-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:29.802666"
+            "when": "2015-06-04T03:56:41.823585"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html", 
             "resource_date": "2012-11-15T13:02:17.828-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:29.802673"
+            "when": "2015-06-04T03:56:41.823594"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1995 : [ 6 ]", 
+    "title": "1995 : [ 6 ]: Cahiers du Centre Gustave Glotz", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1995_num_6_1", 
     "zotero_id": null
 }

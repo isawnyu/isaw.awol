@@ -2,7 +2,7 @@
     "description": "[ 5-2 ] 1963 : [ 6 ] 1963 : [ 6 ] 1963 : [ 6 ] 1963 : [ 6 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:12.773767: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-journal-gallia-prehistoire.html. (walk_to_json.py)"
+        "2015-06-04T03:56:29.445958: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-journal-gallia-prehistoire.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -29,18 +29,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-294888600895384136", 
             "resource_date": "2010-01-19T11:12:48.581-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:12.774293"
+            "when": "2015-06-04T03:56:29.446510"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-gallia-prehistoire.html", 
             "resource_date": "2010-01-19T11:12:48.581-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:12.774301"
+            "when": "2015-06-04T03:56:29.446519"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "5-2", 
+    "title": "5-2: Gallia Pr\u00e9histoire", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/galip_0016-4127_1962_num_5_2", 
     "zotero_id": null
 }

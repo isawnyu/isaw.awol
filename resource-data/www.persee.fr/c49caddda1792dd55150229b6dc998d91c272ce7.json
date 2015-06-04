@@ -2,7 +2,7 @@
     "description": "[ 9 ] 1990-1999 1990 : [ 10 ] 1993 : [ 11 ] 1994 : [ 12 ] 1995 : [ 13 ] 1998 : [ 14 ] 1990-1999", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:05.678501: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html. (walk_to_json.py)"
+        "2015-06-04T03:56:24.404826: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -31,18 +31,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1423394332945157365", 
             "resource_date": "2013-10-28T10:28:50.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:05.679054"
+            "when": "2015-06-04T03:56:24.405452"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html", 
             "resource_date": "2013-10-28T10:28:50.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:05.679061"
+            "when": "2015-06-04T03:56:24.405460"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1989 : [ 9 ]", 
+    "title": "1989 : [ 9 ]: Archaeonautica", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1989_mon_9_1", 
     "zotero_id": null
 }

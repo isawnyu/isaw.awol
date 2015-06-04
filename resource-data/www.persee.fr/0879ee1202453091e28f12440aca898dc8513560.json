@@ -2,7 +2,7 @@
     "description": "[ 2-1 ] [ 2-2 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:30.440270: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
+        "2015-06-04T03:56:42.308038: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,18 +32,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707332784338276556", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:30.440912"
+            "when": "2015-06-04T03:56:42.308564"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:30.440920"
+            "when": "2015-06-04T03:56:42.308571"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2-1", 
+    "title": "2-1: Revue belge de Philologie et d'Histoire", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1923_num_2_1", 
     "zotero_id": null
 }

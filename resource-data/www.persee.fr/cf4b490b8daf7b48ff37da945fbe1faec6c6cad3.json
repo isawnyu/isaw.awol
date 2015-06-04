@@ -2,7 +2,7 @@
     "description": "[ 158 ] 2003 : [ 159 ] 2003 : [ 159 ] 2003 : [ 159 ] 2003 : [ 159 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:11.978939: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html. (walk_to_json.py)"
+        "2015-06-04T03:56:28.791133: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -30,18 +30,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2809080792372293247", 
             "resource_date": "2012-07-09T11:33:23.311-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:11.979474"
+            "when": "2015-06-04T03:56:28.791710"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html", 
             "resource_date": "2012-07-09T11:33:23.311-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:11.979481"
+            "when": "2015-06-04T03:56:28.791718"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2002 : [ 158 ]", 
+    "title": "2002 : [ 158 ]: Revue Numismatique", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2002_num_6_158", 
     "zotero_id": null
 }

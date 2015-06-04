@@ -2,7 +2,7 @@
     "description": "[ 11-2 ] 1983 : [ 12-1 ] [ 12-2 ] 1983 : [ 12-1 ] [ 12-2 ] 1983 : [ 12-1 ] [ 12-2 ] 1983 : [ 12-1 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:38.901815: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/newly-open-acccess-cahiers-de.html. (walk_to_json.py)"
+        "2015-06-04T03:56:48.899887: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/newly-open-acccess-cahiers-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -29,18 +29,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8741331195138178178", 
             "resource_date": "2013-02-03T12:23:38.047-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:38.902350"
+            "when": "2015-06-04T03:56:48.900490"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/newly-open-acccess-cahiers-de.html", 
             "resource_date": "2013-02-03T12:23:38.047-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:38.902358"
+            "when": "2015-06-04T03:56:48.900499"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "11-2", 
+    "title": "11-2: Cahiers de Linguistique - Asie Orientale", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1982_num_11_2", 
     "zotero_id": null
 }

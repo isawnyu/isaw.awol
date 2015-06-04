@@ -2,7 +2,7 @@
     "description": "[ Tables 1-14 ] [ 92 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:17.086919: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-journal-revue-des-etudes.html. (walk_to_json.py)"
+        "2015-06-04T03:56:32.964340: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-journal-revue-des-etudes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -31,13 +31,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-400797245010802167", 
             "resource_date": "2014-01-07T17:18:20.367-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:17.087447"
+            "when": "2015-06-04T03:56:32.964874"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-journal-revue-des-etudes.html", 
             "resource_date": "2014-01-07T17:18:20.367-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:17.087455"
+            "when": "2015-06-04T03:56:32.964881"
         }
     ], 
     "related_resources": [], 

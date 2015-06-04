@@ -2,7 +2,7 @@
     "description": "[ 82-4 ] 2005 : [ 83-1 ] [ 83-2 ] [ 83-Bibl. ] [ 83-3 ] [ 83-4 ] 2005 : [ 83-1 ] [ 83-2 ] [ 83-Bibl. ] [ 83-3 ] [ 83-4 ] 2005 : [ 83-1 ] [ 83-2 ] [ 83-Bibl. ] [ 83-3 ] [ 83-4 ] 2005 : [ 83-1 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:31.330103: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
+        "2015-06-04T03:56:43.316384: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,18 +32,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707332784338276556", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:31.330641"
+            "when": "2015-06-04T03:56:43.317095"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:31.330648"
+            "when": "2015-06-04T03:56:43.317104"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "82-4", 
+    "title": "82-4: Revue belge de Philologie et d'Histoire", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2004_num_82_4", 
     "zotero_id": null
 }

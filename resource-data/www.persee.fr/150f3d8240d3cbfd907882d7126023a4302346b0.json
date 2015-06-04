@@ -2,7 +2,7 @@
     "description": "[ 12 ] 1971 : [ 13 ] 1971 : [ 13 ] 1971 : [ 13 ] 1971 : [ 13 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:11.861347: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html. (walk_to_json.py)"
+        "2015-06-04T03:56:28.672564: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -30,18 +30,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2809080792372293247", 
             "resource_date": "2012-07-09T11:33:23.311-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:11.861900"
+            "when": "2015-06-04T03:56:28.673120"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html", 
             "resource_date": "2012-07-09T11:33:23.311-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:11.861908"
+            "when": "2015-06-04T03:56:28.673128"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1970 : [ 12 ]", 
+    "title": "1970 : [ 12 ]: Revue Numismatique", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1970_num_6_12", 
     "zotero_id": null
 }

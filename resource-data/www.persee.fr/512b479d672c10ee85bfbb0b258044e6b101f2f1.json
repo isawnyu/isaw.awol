@@ -2,7 +2,7 @@
     "description": "[ 8 ] 1951 : [ 9 ] 1951 : [ 9 ] 1951 : [ 9 ] 1951 : [ 9 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:17.391959: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-journal-revue-des-etudes.html. (walk_to_json.py)"
+        "2015-06-04T03:56:33.304574: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-journal-revue-des-etudes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -31,18 +31,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-400797245010802167", 
             "resource_date": "2014-01-07T17:18:20.367-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:17.392478"
+            "when": "2015-06-04T03:56:33.305193"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-journal-revue-des-etudes.html", 
             "resource_date": "2014-01-07T17:18:20.367-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:17.392485"
+            "when": "2015-06-04T03:56:33.305201"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1950 : [ 8 ]", 
+    "title": "1950 : [ 8 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1950_num_8_1", 
     "zotero_id": null
 }

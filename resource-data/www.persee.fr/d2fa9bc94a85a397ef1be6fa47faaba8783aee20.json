@@ -2,7 +2,7 @@
     "description": "[ 12 ] 2009 : [ 13 ] [ 14 ] 2009 : [ 13 ] [ 14 ] 2009 : [ 13 ] [ 14 ] 2009 : [ 13 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:24.185850: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-culture-musees.html. (walk_to_json.py)"
+        "2015-06-04T03:56:38.152909: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-culture-musees.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -30,18 +30,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5763382825317509391", 
             "resource_date": "2011-02-14T09:02:33.881-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:24.186368"
+            "when": "2015-06-04T03:56:38.153461"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-culture-musees.html", 
             "resource_date": "2011-02-14T09:02:33.881-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:24.186375"
+            "when": "2015-06-04T03:56:38.153468"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "12", 
+    "title": "12: Culture & Mus\u00e9es", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/pumus_1766-2923_2008_num_12_1", 
     "zotero_id": null
 }

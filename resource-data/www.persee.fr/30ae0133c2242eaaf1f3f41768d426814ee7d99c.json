@@ -2,7 +2,7 @@
     "description": "[ 31 ] 1990-1999 1990 : [ 32 ] 1991 : [ 33 ] 1992 : [ 34 ] 1993 : [ 35 ] 1994 : [ 36 ] 1995 : [ 150 ] 1996 : [ 151 ] 1997 : [ 152 ] 1998 : [ 153 ] 1999 : [ 154 ] 1990-1999", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:11.926442: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html. (walk_to_json.py)"
+        "2015-06-04T03:56:28.741776: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -30,18 +30,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2809080792372293247", 
             "resource_date": "2012-07-09T11:33:23.311-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:11.927007"
+            "when": "2015-06-04T03:56:28.742398"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html", 
             "resource_date": "2012-07-09T11:33:23.311-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:11.927014"
+            "when": "2015-06-04T03:56:28.742407"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1989 : [ 31 ]", 
+    "title": "1989 : [ 31 ]: Revue Numismatique", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1989_num_6_31", 
     "zotero_id": null
 }

@@ -2,7 +2,7 @@
     "description": "[ LH-19 ] 1961 : [ 1 ] [ 2 ] [ 3 ] [ LH-20 ] 1961 : [ 1 ] [ 2 ] [ 3 ] [ LH-20 ] 1961 : [ 1 ] [ 2 ] [ 3 ] [ LH-20 ] 1961 : [ 1 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:06.864602: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html. (walk_to_json.py)"
+        "2015-06-04T03:56:25.114566: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -29,13 +29,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1582488232425081359", 
             "resource_date": "2013-09-03T11:18:21.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:06.865144"
+            "when": "2015-06-04T03:56:25.115177"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html", 
             "resource_date": "2013-09-03T11:18:21.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:06.865151"
+            "when": "2015-06-04T03:56:25.115185"
         }
     ], 
     "related_resources": [], 

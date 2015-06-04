@@ -2,7 +2,7 @@
     "description": "[ 5-1-2 ] 1991 : [ 6-1-2 ] 1991 : [ 6-1-2 ] 1991 : [ 6-1-2 ] 1991 : [ 6-1-2 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:27.894307: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/open-access-jouranl-metis-anthropologie.html. (walk_to_json.py)"
+        "2015-06-04T03:56:40.492160: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/open-access-jouranl-metis-anthropologie.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -30,18 +30,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6473001569091484303", 
             "resource_date": "2012-03-12T21:00:00.059-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:27.894957"
+            "when": "2015-06-04T03:56:40.492700"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-jouranl-metis-anthropologie.html", 
             "resource_date": "2012-03-12T21:00:00.059-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:27.894966"
+            "when": "2015-06-04T03:56:40.492707"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1990 : [ 5-1-2 ]", 
+    "title": "1990 : [ 5-1-2 ]: M\u00e8tis. Anthropologie des mondes grecs anciens", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1990_num_5_1", 
     "zotero_id": null
 }

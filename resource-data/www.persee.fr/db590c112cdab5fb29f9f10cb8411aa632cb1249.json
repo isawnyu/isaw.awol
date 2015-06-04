@@ -2,7 +2,7 @@
     "description": "here ). It is opened to all scholars wishing to publish studies and notes on various fields of Byzantine history and civilization. A 5-year restriction will be applied to online publication. Our N\u00b0 66 (2008) will be available in 2013. The access to previous years is free. Subscriptions to more recent, printed issues remain unchanged (publisher De Boccard). The \u00c9chos d\u2019Orient will soon be digitalized and put on line on this website. Available periods\u00a0\u00a0:", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:36:16.953992: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-journal-revue-des-etudes.html. (walk_to_json.py)"
+        "2015-06-04T03:56:32.800372: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-journal-revue-des-etudes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -35,17 +35,822 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-400797245010802167", 
             "resource_date": "2014-01-07T17:18:20.367-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:16.954589"
+            "when": "2015-06-04T03:56:32.800909"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-journal-revue-des-etudes.html", 
             "resource_date": "2014-01-07T17:18:20.367-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:16.954597"
+            "when": "2015-06-04T03:56:32.800917"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "label": "1-1: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1897_num_1_1"
+        }, 
+        {
+            "label": "1-2: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1897_num_1_2"
+        }, 
+        {
+            "label": "1-4: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1898_num_1_4"
+        }, 
+        {
+            "label": "1-5: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1898_num_1_5"
+        }, 
+        {
+            "label": "1-6: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1898_num_1_6"
+        }, 
+        {
+            "label": "1-7: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1898_num_1_7"
+        }, 
+        {
+            "label": "1-8: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1898_num_1_8"
+        }, 
+        {
+            "label": "1-9: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1898_num_1_9"
+        }, 
+        {
+            "label": "1-10: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1898_num_1_10"
+        }, 
+        {
+            "label": "1-11: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1898_num_1_11"
+        }, 
+        {
+            "label": "1-12: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1898_num_1_12"
+        }, 
+        {
+            "label": "2-2: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1898_num_2_2"
+        }, 
+        {
+            "label": "2-3: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1898_num_2_3"
+        }, 
+        {
+            "label": "2-4: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1899_num_2_4"
+        }, 
+        {
+            "label": "2-5: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1899_num_2_5"
+        }, 
+        {
+            "label": "2-6: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1899_num_2_6"
+        }, 
+        {
+            "label": "2-7: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1899_num_2_7"
+        }, 
+        {
+            "label": "3-1: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1899_num_3_1"
+        }, 
+        {
+            "label": "3-2: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1899_num_3_2"
+        }, 
+        {
+            "label": "3-3: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1900_num_3_3"
+        }, 
+        {
+            "label": "3-4: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1900_num_3_4"
+        }, 
+        {
+            "label": "68: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1908_num_11_68"
+        }, 
+        {
+            "label": "69: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1908_num_11_69"
+        }, 
+        {
+            "label": "70: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1908_num_11_70"
+        }, 
+        {
+            "label": "71: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1908_num_11_71"
+        }, 
+        {
+            "label": "72: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1908_num_11_72"
+        }, 
+        {
+            "label": "73: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1908_num_11_73"
+        }, 
+        {
+            "label": "74: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1909_num_12_74"
+        }, 
+        {
+            "label": "75: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1909_num_12_75"
+        }, 
+        {
+            "label": "76: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1909_num_12_76"
+        }, 
+        {
+            "label": "77: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1909_num_12_77"
+        }, 
+        {
+            "label": "78: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1909_num_12_78"
+        }, 
+        {
+            "label": "79: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1909_num_12_79"
+        }, 
+        {
+            "label": "80: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1910_num_13_80"
+        }, 
+        {
+            "label": "81: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1910_num_13_81"
+        }, 
+        {
+            "label": "82: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1910_num_13_82"
+        }, 
+        {
+            "label": "83: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1910_num_13_83"
+        }, 
+        {
+            "label": "84: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1910_num_13_84"
+        }, 
+        {
+            "label": "86: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1911_num_14_86"
+        }, 
+        {
+            "label": "87: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1911_num_14_87"
+        }, 
+        {
+            "label": "90: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1911_num_14_90"
+        }, 
+        {
+            "label": "91: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1911_num_14_91"
+        }, 
+        {
+            "label": "92: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1912_num_15_92"
+        }, 
+        {
+            "label": "93: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1912_num_15_93"
+        }, 
+        {
+            "label": "94: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1912_num_15_94"
+        }, 
+        {
+            "label": "95: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1912_num_15_95"
+        }, 
+        {
+            "label": "96: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1912_num_15_96"
+        }, 
+        {
+            "label": "97: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1912_num_15_97"
+        }, 
+        {
+            "label": "98: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1913_num_16_98"
+        }, 
+        {
+            "label": "99: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1913_num_16_99"
+        }, 
+        {
+            "label": "100: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1913_num_16_100"
+        }, 
+        {
+            "label": "101: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1913_num_16_101"
+        }, 
+        {
+            "label": "102: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1913_num_16_102"
+        }, 
+        {
+            "label": "103: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1913_num_16_103"
+        }, 
+        {
+            "label": "104: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1914_num_17_104"
+        }, 
+        {
+            "label": "105: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1914_num_17_105"
+        }, 
+        {
+            "label": "106: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1914_num_17_106"
+        }, 
+        {
+            "label": "107: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1914_num_17_107"
+        }, 
+        {
+            "label": "108: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1915_num_17_108"
+        }, 
+        {
+            "label": "109: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1915_num_17_109"
+        }, 
+        {
+            "label": "110-111: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1916_num_18_110"
+        }, 
+        {
+            "label": "112-113: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1916_num_18_112"
+        }, 
+        {
+            "label": "1918 : [ 114 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1918_num_18_114"
+        }, 
+        {
+            "label": "115: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1919_num_18_115"
+        }, 
+        {
+            "label": "116: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1919_num_18_116"
+        }, 
+        {
+            "label": "117: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1920_num_19_117"
+        }, 
+        {
+            "label": "118: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1920_num_19_118"
+        }, 
+        {
+            "label": "119: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1920_num_19_119"
+        }, 
+        {
+            "label": "122: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1921_num_20_122"
+        }, 
+        {
+            "label": "123: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1921_num_20_123"
+        }, 
+        {
+            "label": "124: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1921_num_20_124"
+        }, 
+        {
+            "label": "125: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1922_num_21_125"
+        }, 
+        {
+            "label": "126: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1922_num_21_126"
+        }, 
+        {
+            "label": "127-128: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1922_num_21_127"
+        }, 
+        {
+            "label": "129: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1923_num_22_129"
+        }, 
+        {
+            "label": "130: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1923_num_22_130"
+        }, 
+        {
+            "label": "131: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1923_num_22_131"
+        }, 
+        {
+            "label": "132: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1923_num_22_132"
+        }, 
+        {
+            "label": "133: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1924_num_23_133"
+        }, 
+        {
+            "label": "134: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1924_num_23_134"
+        }, 
+        {
+            "label": "135: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1924_num_23_135"
+        }, 
+        {
+            "label": "136: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1924_num_23_136"
+        }, 
+        {
+            "label": "137: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1925_num_24_137"
+        }, 
+        {
+            "label": "138: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1925_num_24_138"
+        }, 
+        {
+            "label": "139: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1925_num_24_139"
+        }, 
+        {
+            "label": "140: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1925_num_24_140"
+        }, 
+        {
+            "label": "142: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1926_num_25_142"
+        }, 
+        {
+            "label": "143: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1926_num_25_143"
+        }, 
+        {
+            "label": "144: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1926_num_25_144"
+        }, 
+        {
+            "label": "145: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1927_num_26_145"
+        }, 
+        {
+            "label": "146: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1927_num_26_146"
+        }, 
+        {
+            "label": "147: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1927_num_26_147"
+        }, 
+        {
+            "label": "148: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1927_num_26_148"
+        }, 
+        {
+            "label": "1928 : [ 149 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1928_num_27_149"
+        }, 
+        {
+            "label": "153: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1929_num_28_153"
+        }, 
+        {
+            "label": "154: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1929_num_28_154"
+        }, 
+        {
+            "label": "155: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1929_num_28_155"
+        }, 
+        {
+            "label": "156: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1929_num_28_156"
+        }, 
+        {
+            "label": "157: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1930_num_29_157"
+        }, 
+        {
+            "label": "158: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1930_num_29_158"
+        }, 
+        {
+            "label": "159: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1930_num_29_159"
+        }, 
+        {
+            "label": "160: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1930_num_29_160"
+        }, 
+        {
+            "label": "161: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1931_num_30_161"
+        }, 
+        {
+            "label": "162: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1931_num_30_162"
+        }, 
+        {
+            "label": "163: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1931_num_30_163"
+        }, 
+        {
+            "label": "164: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1931_num_30_164"
+        }, 
+        {
+            "label": "165: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1932_num_31_165"
+        }, 
+        {
+            "label": "166: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1932_num_31_166"
+        }, 
+        {
+            "label": "167: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1932_num_31_167"
+        }, 
+        {
+            "label": "168: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1932_num_31_168"
+        }, 
+        {
+            "label": "169: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1933_num_32_169"
+        }, 
+        {
+            "label": "170: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1933_num_32_170"
+        }, 
+        {
+            "label": "171: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1933_num_32_171"
+        }, 
+        {
+            "label": "172: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1933_num_32_172"
+        }, 
+        {
+            "label": "173: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1934_num_33_173"
+        }, 
+        {
+            "label": "174: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1934_num_33_174"
+        }, 
+        {
+            "label": "175: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1934_num_33_175"
+        }, 
+        {
+            "label": "176: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1934_num_33_176"
+        }, 
+        {
+            "label": "177: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1935_num_34_177"
+        }, 
+        {
+            "label": "178: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1935_num_34_178"
+        }, 
+        {
+            "label": "179: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1935_num_34_179"
+        }, 
+        {
+            "label": "180: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1935_num_34_180"
+        }, 
+        {
+            "label": "181: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1936_num_35_181"
+        }, 
+        {
+            "label": "182: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1936_num_35_182"
+        }, 
+        {
+            "label": "183: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1936_num_35_183"
+        }, 
+        {
+            "label": "184: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1936_num_35_184"
+        }, 
+        {
+            "label": "185: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1937_num_36_185"
+        }, 
+        {
+            "label": "186: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1937_num_36_186"
+        }, 
+        {
+            "label": "187: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1937_num_36_187"
+        }, 
+        {
+            "label": "188: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1937_num_36_188"
+        }, 
+        {
+            "label": "189-190: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1938_num_37_189"
+        }, 
+        {
+            "label": "191-192: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1938_num_37_191"
+        }, 
+        {
+            "label": "193-194: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1939_num_38_193"
+        }, 
+        {
+            "label": "195-196: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1939_num_38_195"
+        }, 
+        {
+            "label": "1940 : [ 197-198 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1940_num_39_197"
+        }, 
+        {
+            "label": "1941 : [ 199-200 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1941_num_39_199"
+        }, 
+        {
+            "label": "1943 : [ 1 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0258-2880_1943_num_1_1"
+        }, 
+        {
+            "label": "1944 : [ 2 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0258-2880_1944_num_2_1"
+        }, 
+        {
+            "label": "1945 : [ 3 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0258-2880_1945_num_3_1"
+        }, 
+        {
+            "label": "1946 : [ 4 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1946_num_4_1"
+        }, 
+        {
+            "label": "1947 : [ 5 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1947_num_5_1"
+        }, 
+        {
+            "label": "1948 : [ 6 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1948_num_6_1"
+        }, 
+        {
+            "label": "1949 : [ 7 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1949_num_7_1"
+        }, 
+        {
+            "label": "1950 : [ 8 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1950_num_8_1"
+        }, 
+        {
+            "label": "1951 : [ 9 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1951_num_9_1"
+        }, 
+        {
+            "label": "1952 : [ 10 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1952_num_10_1"
+        }, 
+        {
+            "label": "1953 : [ 11 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1953_num_11_1"
+        }, 
+        {
+            "label": "1954 : [ 12 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1954_num_12_1"
+        }, 
+        {
+            "label": "1955 : [ 13 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1955_num_13_1"
+        }, 
+        {
+            "label": "1956 : [ 14 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1956_num_14_1"
+        }, 
+        {
+            "label": "1957 : [ 15 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1957_num_15_1"
+        }, 
+        {
+            "label": "1958 : [ 16 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1958_num_16_1"
+        }, 
+        {
+            "label": "1959 : [ 17 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1959_num_17_1"
+        }, 
+        {
+            "label": "1960 : [ 18 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1960_num_18_1"
+        }, 
+        {
+            "label": "1961 : [ 19 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1961_num_19_1"
+        }, 
+        {
+            "label": "1962 : [ 20 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1962_num_20_1"
+        }, 
+        {
+            "label": "1963 : [ 21 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1963_num_21_1"
+        }, 
+        {
+            "label": "1964 : [ 22 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1964_num_22_1"
+        }, 
+        {
+            "label": "1965 : [ 23 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1965_num_23_1"
+        }, 
+        {
+            "label": "1966 : [ 24 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1966_num_24_1"
+        }, 
+        {
+            "label": "1967 : [ 25 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1967_num_25_1"
+        }, 
+        {
+            "label": "1968 : [ 26 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1968_num_26_1"
+        }, 
+        {
+            "label": "1969 : [ 27 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1969_num_27_1"
+        }, 
+        {
+            "label": "1970 : [ 28 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1970_num_28_1"
+        }, 
+        {
+            "label": "1971 : [ 29 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1971_num_29_1"
+        }, 
+        {
+            "label": "1972 : [ 30 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1972_num_30_1"
+        }, 
+        {
+            "label": "1973 : [ 31 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1973_num_31_1"
+        }, 
+        {
+            "label": "1974 : [ 32 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1974_num_32_1"
+        }, 
+        {
+            "label": "1975 : [ 33 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1975_num_33_1"
+        }, 
+        {
+            "label": "1976 : [ 34 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1976_num_34_1"
+        }, 
+        {
+            "label": "1977 : [ 35 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1977_num_35_1"
+        }, 
+        {
+            "label": "1978 : [ 36 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1978_num_36_1"
+        }, 
+        {
+            "label": "1979 : [ 37 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1979_num_37_1"
+        }, 
+        {
+            "label": "1980 : [ 38 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1980_num_38_1"
+        }, 
+        {
+            "label": "1981 : [ 39 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1981_num_39_1"
+        }, 
+        {
+            "label": "1982 : [ 40 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1982_num_40_1"
+        }, 
+        {
+            "label": "1983 : [ 1-40 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1983_tab_41_1"
+        }, 
+        {
+            "label": "1984 : [ 42 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1984_num_42_1"
+        }, 
+        {
+            "label": "1985 : [ 43 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1985_num_43_1"
+        }, 
+        {
+            "label": "1986 : [ 44 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1986_num_44_1"
+        }, 
+        {
+            "label": "1987 : [ 45 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1987_num_45_1"
+        }, 
+        {
+            "label": "1988 : [ 46 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1988_num_46_1"
+        }, 
+        {
+            "label": "1989 : [ 47 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1989_num_47_1"
+        }, 
+        {
+            "label": "1990 : [ 48 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1990_num_48_1"
+        }, 
+        {
+            "label": "1991 : [ 49 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1991_num_49_1"
+        }, 
+        {
+            "label": "1992 : [ 50 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1992_num_50_1"
+        }, 
+        {
+            "label": "1993 : [ 51 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1993_num_51_1"
+        }, 
+        {
+            "label": "1994 : [ 52 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1994_num_52_1"
+        }, 
+        {
+            "label": "1995 : [ 53 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1995_num_53_1"
+        }, 
+        {
+            "label": "1996 : [ 54 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1996_num_54_1"
+        }, 
+        {
+            "label": "1997 : [ 55 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1997_num_55_1"
+        }, 
+        {
+            "label": "1998 : [ 56 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1998_num_56_1"
+        }, 
+        {
+            "label": "1999 : [ 57 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_1999_num_57_1"
+        }, 
+        {
+            "label": "2000 : [ 58 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_2000_num_58_1"
+        }, 
+        {
+            "label": "2001 : [ 59 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_2001_num_59_1"
+        }, 
+        {
+            "label": "2002 : [ 60 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_2002_num_60_1"
+        }, 
+        {
+            "label": "2003 : [ 61 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_2003_num_61_1"
+        }, 
+        {
+            "label": "2004 : [ 62 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_2004_num_62_1"
+        }, 
+        {
+            "label": "2005 : [ 63 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_2005_num_63_1"
+        }, 
+        {
+            "label": "2006 : [ 64-65 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_2006_num_64_1"
+        }, 
+        {
+            "label": "2008 : [ 66 ]: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_0766-5598_2008_num_66_1"
+        }
+    ], 
     "title": "The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
     "url": "http://www.persee.fr/web/revues/home/prescript/article/rebyz_0766-5598_1995_num_53_1_1900", 
     "zotero_id": null
