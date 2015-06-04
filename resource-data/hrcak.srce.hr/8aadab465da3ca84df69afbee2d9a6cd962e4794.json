@@ -1,0 +1,59 @@
+{
+    "description": "Nuntius ISSN: 1333-3852", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-04T03:36:08.322904: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2014/01/open-access-journal-nuntius.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1333-3852"
+            ]
+        }
+    }, 
+    "keywords": [
+        "Croatia", 
+        "classics", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1909321759332139434", 
+            "resource_date": "2014-01-05T13:58:34.245-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:08.323599"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/open-access-journal-nuntius.html", 
+            "resource_date": "2014-01-05T13:58:34.245-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:08.323608"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        {
+            "label": "Vol. 31: Nuntius", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3157"
+        }
+    ], 
+    "title": "Nuntius", 
+    "url": "http://hrcak.srce.hr/nuntius", 
+    "zotero_id": null
+}

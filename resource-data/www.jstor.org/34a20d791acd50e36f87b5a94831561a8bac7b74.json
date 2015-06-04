@@ -1,0 +1,50 @@
+{
+    "description": "Papers of the British School at Rome (Arts & Sciences VIII)", 
+    "domain": "www.jstor.org", 
+    "history": [
+        "2015-06-04T03:36:08.454667: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "JSTOR", 
+        "Rome", 
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1970970912930647566", 
+            "resource_date": "2010-04-27T18:42:09.328-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:08.455934"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html", 
+            "resource_date": "2010-04-27T18:42:09.328-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:08.455947"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Papers of the British School at Rome (Arts & Sciences VIII)", 
+    "url": "http://www.jstor.org/action/showPublication?journalCode=papbritschrome", 
+    "zotero_id": null
+}

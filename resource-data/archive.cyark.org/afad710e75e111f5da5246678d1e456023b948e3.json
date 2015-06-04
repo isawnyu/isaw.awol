@@ -1,0 +1,52 @@
+{
+    "description": "CyArk : Creating a Digital Archive of the World's Heritage Sites for Preservation and Education CyArk is a 501c3 non profit organization with the mission of: digitally preserving cultural heritage sites through collecting, archiving and providing open access to data created by laser scanning, digital modeling, and other state-of-the-art technologies.", 
+    "domain": "archive.cyark.org", 
+    "history": [
+        "2015-06-04T03:36:21.598756: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/digital-archive-of-worlds-heritage.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "archive", 
+        "cultural heritage", 
+        "culture", 
+        "data", 
+        "education", 
+        "heritage", 
+        "open access", 
+        "preservation"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-495741986864015130", 
+            "resource_date": "2011-10-05T10:47:28.484-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:21.599324"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/digital-archive-of-worlds-heritage.html", 
+            "resource_date": "2011-10-05T10:47:28.484-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:21.599331"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Digital Archive of the World's Heritage Sites", 
+    "url": "http://archive.cyark.org/", 
+    "zotero_id": null
+}

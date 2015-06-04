@@ -1,0 +1,49 @@
+{
+    "description": "Vol. 2 No. 1 Vol. 2 No. 1 1993 Vol. 1 No. 2 Vol. 1 No. 2 Vol. 1 No. 2 Vol. 1 No. 2", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-04T03:36:30.043192: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-open-access-journal-biblijski.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Bible", 
+        "Croatia", 
+        "journal", 
+        "open access", 
+        "religion"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6953816549638786002", 
+            "resource_date": "2013-02-03T17:37:22.419-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:30.043724"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-open-access-journal-biblijski.html", 
+            "resource_date": "2013-02-03T17:37:22.419-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:30.043732"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Vol. 2 \u00a0 No. 1: Biblijski pogledi (Biblical Perspectives)", 
+    "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=7196", 
+    "zotero_id": null
+}

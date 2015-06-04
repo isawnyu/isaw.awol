@@ -1,0 +1,50 @@
+{
+    "description": "Zeitschrift des Deutschen Pal\u00e4stina-Vereins (1953\u2013) [1953\u2013 ] (Arts & Sciences IX) Previous Title: Beitr\u00e4ge zur biblischen Landes- und Altertumskunde", 
+    "domain": "www.jstor.org", 
+    "history": [
+        "2015-06-04T03:36:35.888081: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-ancient-wolrd-content-in-jstor.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "JSTOR", 
+        "antiquity", 
+        "journal"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7966773484618516484", 
+            "resource_date": "2011-10-17T10:17:25.670-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:35.888607"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/new-ancient-wolrd-content-in-jstor.html", 
+            "resource_date": "2011-10-17T10:17:25.670-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:35.888614"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Zeitschrift des Deutschen Pal\u00e4stina-Vereins", 
+    "url": "http://www.jstor.org/action/showPublication?journalCode=zeitdeutpalavere", 
+    "zotero_id": null
+}

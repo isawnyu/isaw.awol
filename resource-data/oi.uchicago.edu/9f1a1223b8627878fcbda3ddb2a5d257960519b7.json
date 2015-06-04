@@ -1,0 +1,49 @@
+{
+    "description": "OIP 6. Researches in Anatolia 2. The Alishar H\u00fcy\u00fck Season of 1927, Part 1. Hans Henning von der Osten and Erich F. Schmidt. Originally published in 1930. OIP 7. Researches in Anatolia 3. The Alishar H\u00fcy\u00fck Season of 1927, Part 2. Hans Henning von der Osten and Erich F. Schmidt. Originally published in 1932. OIP 7. Researches in Anatolia 3. The Alishar H\u00fcy\u00fck Season of 1927, Part 2. Hans Henning von der Osten and Erich F. Schmidt. Originally published in 1932. OIP 7. Researches in Anatolia 3. The Alishar H\u00fcy\u00fck Season of 1927, Part 2.", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-04T03:36:26.181314: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Anatolia", 
+        "Oriental Institute"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999998812
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6165299289552557374", 
+            "resource_date": "2011-07-30T07:58:05.168-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:26.182674"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/newly-online-from-oriental-institutes.html", 
+            "resource_date": "2011-07-30T07:58:05.168-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:26.182694"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "OIP 6. Researches in Anatolia 2. The Alishar H\u00fcy\u00fck Season of 1927, Part 1", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip6.html", 
+    "zotero_id": null
+}

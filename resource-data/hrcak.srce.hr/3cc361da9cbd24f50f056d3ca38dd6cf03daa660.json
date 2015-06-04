@@ -1,0 +1,75 @@
+{
+    "description": "Hrcak: Portal of scientific journals of Croatia Acta Turistica Nova ISSN:1846-4394 Anali Zavoda za povijesne znanosti Hrvatske akademije znanosti i umjetnosti u Dubrovniku ISSN:1330-0598 Annales Instituti Archaeologici ISSN:1845-4046 Archaeologica Adriatica ISSN:1846-4807 Asseria ISSN:1334-2479 Biblical Perspectives ISSN:1330-1497 Building and Stone-masonry ISSN:0353-7897 Bulletin of the International Association for Paleodontology e-ISSN:1846-6273 Contributions of Institute of Archaeology in Zagreb ISSN:1330-0644 Cris: Journal of the Historical Society of Kri\u017eevci ISSN:1332-2567 Dubrovnik Annals ISSN:1331-3878", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-04T03:36:21.441456: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "1846-6273"
+            ], 
+            "generic": [
+                "1330-0644", 
+                "1846-4394", 
+                "1330-1497", 
+                "1334-2479", 
+                "1330-0598", 
+                "1332-2567", 
+                "1845-4046", 
+                "1331-3878", 
+                "1846-4807", 
+                "0353-7897"
+            ]
+        }
+    }, 
+    "keywords": [
+        "Balkans", 
+        "Croatia", 
+        "Croatian", 
+        "Zagreb", 
+        "archaeology", 
+        "bible", 
+        "history", 
+        "journal", 
+        "open access", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
+            "resource_date": "2012-11-30T10:12:29.204-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:21.442921"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html", 
+            "resource_date": "2012-11-30T10:12:29.204-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:21.442937"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Hrcak: Portal of scientific journals of Croatia", 
+    "url": "http://hrcak.srce.hr/", 
+    "zotero_id": null
+}

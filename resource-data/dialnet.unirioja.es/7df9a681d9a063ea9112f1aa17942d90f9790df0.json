@@ -1,0 +1,46 @@
+{
+    "description": "14-15 2007 10 2007", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-04T03:36:25.631942: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6061835246856823322", 
+            "resource_date": "2013-06-08T09:18:27.263-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:25.632473"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html", 
+            "resource_date": "2013-06-08T09:18:27.263-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:25.632480"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "14-15", 
+    "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13138&clave_busqueda=328793", 
+    "zotero_id": null
+}

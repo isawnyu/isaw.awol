@@ -1,0 +1,53 @@
+{
+    "description": "Comptes-rendus des s\u00e9ances de l'Acad\u00e9mie des Inscriptions et Belles-Lettres Culture & Mus\u00e9es", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-04T03:36:09.735655: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Aegean", 
+        "Pers\u00e9e", 
+        "antiquity", 
+        "culture", 
+        "digital library", 
+        "epigraphy"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
+            "resource_date": "2013-04-12T11:22:30.006-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:09.736200"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
+            "resource_date": "2013-04-12T11:22:30.006-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:09.736208"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Comptes-rendus des s\u00e9ances de l'Acad\u00e9mie des Inscriptions et Belles-Lettres", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/revue/crai", 
+    "zotero_id": null
+}

@@ -1,0 +1,61 @@
+{
+    "description": "Media, Culture and Public Relations ISSN:1333-6371 Opuscula Archaeologica Papers of the Department of Archaeology ISSN:0473-0992 Opuscula Archaeologica Papers of the Department of Archaeology", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-04T03:36:21.531885: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0473-0992", 
+                "1333-6371"
+            ]
+        }
+    }, 
+    "keywords": [
+        "Balkans", 
+        "Croatia", 
+        "Croatian", 
+        "archaeology", 
+        "culture", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
+            "resource_date": "2012-11-30T10:12:29.204-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:21.532415"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html", 
+            "resource_date": "2012-11-30T10:12:29.204-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:21.532423"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Media, Culture and Public Relations ISSN:1333-6371", 
+    "url": "http://hrcak.srce.hr/mcpr", 
+    "zotero_id": null
+}

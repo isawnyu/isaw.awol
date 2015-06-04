@@ -1,0 +1,220 @@
+{
+    "description": "Oriental Institute 2011-2012 Annual Report", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-04T03:36:27.596384: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Oriental Institute", 
+        "annual report", 
+        "report"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6421273301002106069", 
+            "resource_date": "2013-02-19T12:59:49.211-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:27.596954"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html", 
+            "resource_date": "2013-02-19T12:59:49.211-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:27.596962"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        {
+            "label": "The Entire 2011-2012 Annual Report In A Single Adobe Acrobat Document", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_AnnualReport.pdf"
+        }, 
+        {
+            "label": "Introduction. Gil J. Stein", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Introduction.pdf"
+        }, 
+        {
+            "label": "In Memoriam: Eleanor Guralnick", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Memoriam_Guralnick.pdf"
+        }, 
+        {
+            "label": "In Memoriam: Cissy Haas", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Memoriam_Haas.pdf"
+        }, 
+        {
+            "label": "In Memoriam: Donald Oster", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Memoriam_Oster.pdf"
+        }, 
+        {
+            "label": "\u00c7adir H\u00f6y\u00fck. Gregory McMahon", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Cadir%20Hoyuk.pdf"
+        }, 
+        {
+            "label": "Center For Ancient Middle Eastern Landscapes (CAMEL). Scott Branting", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_CAMEL.pdf"
+        }, 
+        {
+            "label": "Chicago Demotic Dictionary (CDD). Fran\u00e7ois Gaudard And Janet H. Johnson", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_CDD.pdf"
+        }, 
+        {
+            "label": "Chicago Hittite Dictionary (CHD). Theo Van Den Hout", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_CHD.pdf"
+        }, 
+        {
+            "label": "Diyala Project. Clemens Reichel", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Diyala.pdf"
+        }, 
+        {
+            "label": "Epigraphic Survey. W. Raymond Johnson", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Epigraphic.pdf"
+        }, 
+        {
+            "label": "The Giza Plateau Mapping Project. Mark Lehner", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Giza.pdf"
+        }, 
+        {
+            "label": "Hamoukar. Clemens Reichel", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Hamoukar.pdf"
+        }, 
+        {
+            "label": "Heaven On Earth. Deena Ragavan", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Heaven_on_Earth.pdf"
+        }, 
+        {
+            "label": "Islamic Archeaology And The Oriental Institute. Tasha Vorderstrasse And Donald Whitcomb", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_IslamicArch.pdf"
+        }, 
+        {
+            "label": "Jericho Mafjar Project. Donald Whitcomb", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Mafjar.pdf"
+        }, 
+        {
+            "label": "Kerkenes Dag Project. Scott Branting", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Kerkenes.pdf"
+        }, 
+        {
+            "label": "Marj Rabba. Yorke M. Rowan", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Marj_Rabba.pdf"
+        }, 
+        {
+            "label": "Mummy Label Database (MLD). Fran\u00e7ois Gaudard, Raquel Mart\u00edn Hern\u00e1ndez, And Sof\u00eda Torallas Tovar", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_MLD.pdf"
+        }, 
+        {
+            "label": "Nippur. Mcguire Gibson", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Nippur.pdf"
+        }, 
+        {
+            "label": "Oriental Institute National Musem Of Afghanistan Partnership. Gil J. Stein", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_NMA.pdf"
+        }, 
+        {
+            "label": "Oriental Institute Nubian Expedition (OINE). Bruce Williams", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Nubian.pdf"
+        }, 
+        {
+            "label": "Pathways To Power. Gil J. Stein", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Pathways2Power.pdf"
+        }, 
+        {
+            "label": "Persepolis Fortification Archive Project. Matthew W. Stolper", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_PFA.pdf"
+        }, 
+        {
+            "label": "Tell Edfu. Nadine Moeller and Gregory Marouard", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Tell_Edfu.pdf"
+        }, 
+        {
+            "label": "Individual Research 2011-2012", 
+            "url": "https://oi.uchicago.edu/research/pubs/ar/11-20/11-12/is.html"
+        }, 
+        {
+            "label": "Computer Laboratory. John C. Sanders", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Computer_Lab.pdf"
+        }, 
+        {
+            "label": "Electronic Resources. John C. Sanders", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Elec_Resources.pdf"
+        }, 
+        {
+            "label": "Integrated Database Project. Scott Branting, John Sanders, Wendy Ennes, Angela Spinazze, Helen Mcdonald, Susan Allison, Foy Scalf, And Jack Green", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Integrated_Database.pdf"
+        }, 
+        {
+            "label": "Ochre Data Project. Sandra R. Schloen", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_OCHRE.pdf"
+        }, 
+        {
+            "label": "Publications Office. Thomas G. Urban", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Publications.pdf"
+        }, 
+        {
+            "label": "Research Archives. Foy Scalf", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Research_Arch.pdf"
+        }, 
+        {
+            "label": "Tablet Collection. Andrew Dix", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Tablet_Collection.pdf"
+        }, 
+        {
+            "label": "Museum. Jack Green", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Museum.pdf"
+        }, 
+        {
+            "label": "Public Education: Carole Krucoff", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Public_Education.pdf"
+        }, 
+        {
+            "label": "Volunteer Program: Catherine Duenas and Terry Friedman", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Volunteer_Program.pdf"
+        }, 
+        {
+            "label": "Development. Steve Camp", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Development.pdf"
+        }, 
+        {
+            "label": "Visiting Committee.", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Visiting_Com.pdf"
+        }, 
+        {
+            "label": "Membership. Amy Weber", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Membership.pdf"
+        }, 
+        {
+            "label": "Special Events. Meghan A. Winston", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Special_Events.pdf"
+        }, 
+        {
+            "label": "Honor Roll.", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Honor_Roll.pdf"
+        }, 
+        {
+            "label": "Faculty and Staff of the Oriental Institute", 
+            "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_Staff.pdf"
+        }, 
+        {
+            "label": "Thirty two issues of Oriental Institute Annual Reports are available digitally", 
+            "url": "http://oi.uchicago.edu/research/pubs/ar/"
+        }
+    ], 
+    "title": "Oriental Institute 2011-2012 Annual Report", 
+    "url": "https://oi.uchicago.edu/research/pubs/ar/11-20/11-12/", 
+    "zotero_id": null
+}

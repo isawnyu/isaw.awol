@@ -1,0 +1,47 @@
+{
+    "description": "2005 10", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-04T03:36:18.035951: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/newly-open-access-journal-kalakorikos.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Spain", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4128034590350407470", 
+            "resource_date": "2011-10-14T09:39:57.140-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:18.036478"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/newly-open-access-journal-kalakorikos.html", 
+            "resource_date": "2011-10-14T09:39:57.140-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:18.036486"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "2005", 
+    "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=831&clave_busqueda=2005", 
+    "zotero_id": null
+}

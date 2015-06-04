@@ -1,0 +1,54 @@
+{
+    "description": "MUDIRA: MU nich DI gital R esearch A rchives MU nich DI gital R esearch A rchives ist ein im Fr\u00fchjahr 2012 gestartetes Gemeinschaftsprojekt des Instituts f\u00fcr \u00c4gyptologie der LMU M\u00fcnchen und des Staatlichen Museums \u00c4gyptischer Kunst M\u00fcnchen (SM\u00c4K), in welchem die umfangreichen Bildbest\u00e4nde beider Institutionen zu Alt\u00e4gypten digitalisiert und zug\u00e4nglich gemacht werden. In der ersten (auf 2 bis 3 Jahre angelegten) Projektphase werden etwa 30.000\u00a0als Kleinbild-Diapositive vorliegende Originalaufnahmen aus \u00c4gypten sowie von Best\u00e4nden \u00e4gyptischer Museen und Sammlungen professionell gescannt und im Rahmen einer durch die IT-Gruppe Geisteswissenschaften (ITG) der LMU erstellten Datenbank online pr\u00e4sentiert. Ziele des Projektes sind die Erleichterung des Zugangs zu den Bildern, die wissenschaftliche Aufbereitung der dazugeh\u00f6renden Informationen sowie letztendlich der Erhalt der oftmals wissenschaftshistorisch bedeutsamen Abbildungen auf einem zeitgem\u00e4\u00dfen Speichermedium. Der UNI\u00a0DIA Verlag hat zudem seine knapp 6.000\u00a0Bilder zu Alt\u00e4gypten in digitalisierter Form zur Verf\u00fcgung gestellt. Diese Bilder sind bereits komplett bearbeitet und abrufbar. In einem zweiten Schritt soll dann die Glasplattensammlung des M\u00fcnchner \u00c4gyptologischen Instituts digitalisiert und aufbereitet werden.", 
+    "domain": "mudira.gwi.uni-muenchen.de", 
+    "history": [
+        "2015-06-04T03:36:22.416265: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/mudira-munich-digital-research-archives.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "Munich", 
+        "archaeology", 
+        "data", 
+        "database", 
+        "egyptology", 
+        "imagery", 
+        "museums", 
+        "photography", 
+        "research archives"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-51927873962314770", 
+            "resource_date": "2013-05-22T14:09:38.467-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:22.416858"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/mudira-munich-digital-research-archives.html", 
+            "resource_date": "2013-05-22T14:09:38.467-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:22.416866"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "MUDIRA: MUnich DIgital Research Archives", 
+    "url": "http://mudira.gwi.uni-muenchen.de/", 
+    "zotero_id": null
+}

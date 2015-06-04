@@ -1,0 +1,53 @@
+{
+    "description": "Petrie's Photographs of Egypt. Landscape, monuments, people . A database of photographs taken by Flinders Petrie in Egypt in 1886-7. (July 18, 2011) The list of current archive projects has been updated. (July 14, 2011) The list of current archive projects has been updated. (July 14, 2011) The list of current archive projects", 
+    "domain": "www.griffith.ox.ac.uk", 
+    "history": [
+        "2015-06-04T03:36:36.256770: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "Griffith Institute", 
+        "archive", 
+        "data", 
+        "database", 
+        "imagery"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8094499180810007320", 
+            "resource_date": "2011-07-20T10:19:51.273-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:36.257314"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html", 
+            "resource_date": "2011-07-20T10:19:51.273-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:36.257322"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Petrie's Photographs of Egypt. Landscape, monuments, people", 
+    "url": "http://www.griffith.ox.ac.uk/gri/ppoe_opening_page.html", 
+    "zotero_id": null
+}

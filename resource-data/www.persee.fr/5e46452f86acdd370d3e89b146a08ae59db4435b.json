@@ -1,0 +1,46 @@
+{
+    "description": "[ 1 ] [ 2 ]", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-04T03:36:06.795843: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1582488232425081359", 
+            "resource_date": "2013-09-03T11:18:21.547-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:06.796373"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html", 
+            "resource_date": "2013-09-03T11:18:21.547-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:06.796380"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "1", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1954_num_1_1", 
+    "zotero_id": null
+}

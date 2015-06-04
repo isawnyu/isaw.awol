@@ -1,0 +1,94 @@
+{
+    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports Sardis: publications of the American Society for the excavation of Sardis ; v. 11 coins ; pt. 1 1910-1914 Bell, H. W. 1916 OK Sardis: publications of the American Society for the Excavation of Sardis ; v. 6 Lydian inscriptions ; pt. 1 Littmann, Enno, 1875-1958 1916 OK Sardis: publications of the American Society for the excavation of Sardis ; v. 1 the excavations ; pt. 1 1910-1914 Butler, Howard Crosby, 1872-1922 1922 OK Sardis: publications of the American Society for the excavation of Sardis ; v. 5 Roman and christian sculpture ; pt.1 the Sarcophagus of Claudia Antonia Sabina Morey, Charles Rufus 1924 OK Sardis: publications of the American Society for the Excavation of Sardis ; v. 6 Lydian inscriptions ; part 2 A collection of the texts in Lydian script found at Sardis and elsewhere Buckler, W. H. (William Hepburn), 1867-1952 1924 OK Sardis: publications of the American Society for the excavation of Sardis ; v. 2 architecture ; pt. 1 The Temple of Artemis ; plates Butler, Howard Crosby, 1872-1922 1925 OK Sardis: publications of the American Society for the Excavation of Sardis ; v. 7 Greek and Latin Inscriptions ; part 1 Buckler, W. H. (William Hepburn), 1867-1952 1932 OK Sardis: publications of the American Society for the excavation of Sardis ; v. 11 coins ; pt. 1 1910-1914 Bell, H. W. 1916 OK Sardis: publications of the American Society for the Excavation of Sardis ; v. 6 Lydian inscriptions ; pt. 1 Littmann, Enno, 1875-1958 1916 OK Sardis: publications of the American Society for the excavation of Sardis ; v. 1 the excavations ; pt. 1 1910-1914 Butler, Howard Crosby, 1872-1922 1922 OK Sardis: publications of the American Society for the excavation of Sardis ; v. 5 Roman and christian sculpture ; pt.1 the Sarcophagus of Claudia Antonia Sabina Morey, Charles Rufus 1924 OK Sardis: publications of the American Society for the Excavation of Sardis ; v. 6 Lydian inscriptions ; part 2 A collection of the texts in Lydian script found at Sardis and elsewhere Buckler, W. H. (William Hepburn), 1867-1952 1924 OK Sardis: publications of the American Society for the excavation of Sardis ; v. 2 architecture ; pt. 1 The Temple of Artemis ; plates Butler, Howard Crosby, 1872-1922 1925 OK Sardis: publications of the American Society for the Excavation of Sardis ; v. 7 Greek and Latin Inscriptions ; part 1 Buckler, W. H. (William Hepburn), 1867-1952 1932 OK", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-04T03:36:06.162532: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/sardis-publications-of-american-society.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Amar", 
+        "Christianity", 
+        "Greek", 
+        "Latin", 
+        "Mesopotamia", 
+        "Roman", 
+        "Sardis", 
+        "Turkey", 
+        "archaeological site", 
+        "archaeology", 
+        "architecture", 
+        "archive", 
+        "epigraphy", 
+        "numismatics", 
+        "reports", 
+        "sculpture", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1512953949363753591", 
+            "resource_date": "2012-03-04T14:52:15.927-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:06.163232"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/sardis-publications-of-american-society.html", 
+            "resource_date": "2012-03-04T14:52:15.927-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:06.163241"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        {
+            "label": "Sardis: publications of the American Society for the excavation of Sardis ; v. 11 coins ; pt. 1 1910-1914", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=7665&REC=1"
+        }, 
+        {
+            "label": "Sardis: publications of the American Society for the Excavation of Sardis ; v. 6 Lydian inscriptions ; pt. 1", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=9777&REC=2"
+        }, 
+        {
+            "label": "Sardis: publications of the American Society for the excavation of Sardis ; v. 1 the excavations ; pt. 1 1910-1914", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=32580&REC=3"
+        }, 
+        {
+            "label": "Sardis: publications of the American Society for the excavation of Sardis ; v. 5 Roman and christian sculpture ; pt.1 the Sarcophagus of Claudia Antonia Sabina", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=38865&REC=4"
+        }, 
+        {
+            "label": "Sardis: publications of the American Society for the Excavation of Sardis ; v. 6 Lydian inscriptions ; part 2 A collection of the texts in Lydian script found at Sardis and elsewhere", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=9939&REC=5"
+        }, 
+        {
+            "label": "Sardis: publications of the American Society for the excavation of Sardis ; v. 2 architecture ; pt. 1 The Temple of Artemis ; plates", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=124878&REC=6"
+        }, 
+        {
+            "label": "Sardis: publications of the American Society for the Excavation of Sardis ; v. 7 Greek and Latin Inscriptions ; part 1", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=103141&REC=7"
+        }
+    ], 
+    "title": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "zotero_id": null
+}

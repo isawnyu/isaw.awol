@@ -1,0 +1,53 @@
+{
+    "description": "An Inquiry into the Provenance of 654 Aramaic Incantation Bowls Delivered into the Possession of UCL by, or on the Instruction of, Mr. Martin Sch\u00f8yen By John David Freeman, Sally MacDonald, Colin Renfrew. This file concerns art works in the UK alleged to have been looted from Iraq. It was physically deposited in House of Lords library in the UK Parliament. People may have access to the physical document by request, but it does not appear to be otherwise available. The file is the report from an expert inquiry into the provenance of 654 Mesopotamian incantation bowls owned by antiquities collector Martin Schoyen and loaned to University College London. The inquiry was begun after allegations were made that the bowls were were looted from Iraq. The report was suppressed as part of the legal settlement in which the bowls were returned to Schoyen. Hansard (the record of the UK Parliament) documents a debate in which Lord Renfrew of Kaimsthorn tells the House of Lords he has deposited a copy of the report in the House of Lords Library. This report has been the subject of a number of news articles and it is important for scholars, individuals and the press to see the original documents which are the subject of these articles", 
+    "domain": "www.wikileaks.org", 
+    "history": [
+        "2015-06-04T03:36:39.562526: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/open-access-document-inquiry-into.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Aramaic", 
+        "Mesopotamia", 
+        "UK", 
+        "antiquities", 
+        "art", 
+        "document", 
+        "journal", 
+        "open access", 
+        "report"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8960662507376018546", 
+            "resource_date": "2009-11-15T21:01:06.386-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:39.563160"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/11/open-access-document-inquiry-into.html", 
+            "resource_date": "2009-11-15T21:01:06.386-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:39.563169"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "An Inquiry into the Provenance of 654 Aramaic Incantation Bowls Delivered into the Possession of UCL", 
+    "url": "http://www.wikileaks.org/wiki/UK_possession_of_art_works_looted_from_Iraq:_Schoyen_UCL_Inquiry_report%2C_2009", 
+    "zotero_id": null
+}

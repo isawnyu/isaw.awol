@@ -1,0 +1,49 @@
+{
+    "description": "Les Monuments ayyoubides de Damas ; v. 3 Mitq\u00e2l. La Madrasa M\u00e2rid\u00e2niya. La Madrasa Chibliya Hors-Ies-Murs. Tombeau anonyme Institut Franc\u0327ais de Damas (Damascus) 1948 OK", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-04T03:36:04.850685: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Amar", 
+        "Damascus", 
+        "Syria", 
+        "archaeology", 
+        "monuments"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1096390894177956598", 
+            "resource_date": "2012-03-02T16:43:23.871-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:04.851239"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html", 
+            "resource_date": "2012-03-02T16:43:23.871-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:04.851247"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Les Monuments ayyoubides de Damas ; v. 3 Mitq\u00e2l", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106951&REC=3", 
+    "zotero_id": null
+}

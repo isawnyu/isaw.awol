@@ -1,0 +1,51 @@
+{
+    "description": "\"SAOC 21. Hittite Hieroglyphs 3. Ignace J. Gelb. Originally published in 1942.\" \"SAOC 18. The Hyksos Reconsidered. Robert M. Engberg. Originally published in 1939.\"", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-04T03:36:41.981044: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes_14.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Hieroglyphs", 
+        "Hittite", 
+        "Oriental Institute", 
+        "backlist"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-951769456683844148", 
+            "resource_date": "2012-12-14T12:35:59.191-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:41.982190"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes_14.html", 
+            "resource_date": "2012-12-14T12:35:59.191-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:41.982207"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "\"SAOC 21. Hittite Hieroglyphs 3. Ignace J", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/saoc/saoc21.html", 
+    "zotero_id": null
+}

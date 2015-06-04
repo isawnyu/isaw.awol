@@ -1,0 +1,59 @@
+{
+    "description": "Cl\u00e1sicos de la arqueolog\u00eda de Huelva ISSN: 1133-2085 Cuadernos de prehistoria y arqueolog\u00eda castellonenses", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-04T03:36:36.792504: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1133-2085"
+            ]
+        }
+    }, 
+    "keywords": [
+        "antiquity", 
+        "archeaology", 
+        "classics", 
+        "journal", 
+        "open access", 
+        "prehistory"
+    ], 
+    "language": [
+        "es", 
+        0.9999999999899514
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8214559682146973850", 
+            "resource_date": "2009-09-20T15:33:38.380-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:36.793084"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html", 
+            "resource_date": "2009-09-20T15:33:38.380-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:36.793092"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Cl\u00e1sicos de la arqueolog\u00eda de Huelva", 
+    "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=10381", 
+    "zotero_id": null
+}

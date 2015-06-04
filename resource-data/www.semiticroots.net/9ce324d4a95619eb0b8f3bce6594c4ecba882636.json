@@ -1,0 +1,51 @@
+{
+    "description": "Semitic Roots Repository This repository is dedicated to documenting and modelling every single aspect of the Semitic languages. The main database holds a record of all known roots that have been entered so far, and gives many means by which to search and compare them. The script used for the roots is the Ancient South Arabian script known as the \"Musnad\". This script was chosen because it is the only known Semitic abjad that contains graphemes for all of the known Semitic phonemes. As this abjad has only recently been included in the Unicode specification, it's not included on most Operating Systems. Therefore you'll need to download the Musnad font from our downloads section. The script is fairly easy to learn (only took me about a day or two) and it is a much better choice than using Latin characters, with various modified characters to represent those letters not known in Latin-based alphabets. The use of the Musnad for the roots does not mean the roots are necessarily existent in the Ancient South Arabian languages, the script is being used as a general way to represent common Semitic roots. However when the script appears in a word, then it is being used to represent an Ancient South Arabian word.", 
+    "domain": "www.semiticroots.net", 
+    "history": [
+        "2015-06-04T03:36:19.647155: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/semitic-roots-repository.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Arabia", 
+        "Latin", 
+        "South Arabia", 
+        "antiquity", 
+        "data", 
+        "database", 
+        "semitics"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-456794387103054790", 
+            "resource_date": "2013-09-23T11:26:17.849-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:19.647791"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/semitic-roots-repository.html", 
+            "resource_date": "2013-09-23T11:26:17.849-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:19.647799"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Semitic Roots Repository", 
+    "url": "http://www.semiticroots.net/", 
+    "zotero_id": null
+}

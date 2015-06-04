@@ -1,0 +1,48 @@
+{
+    "description": "[ 1 ] 1978 : [ 2 ] 1978 : [ 2 ] 1978 : [ 2 ] 1978 : [ 2 ]", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-04T03:36:05.649105: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "archaeology", 
+        "journal", 
+        "nautical archaeology", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1423394332945157365", 
+            "resource_date": "2013-10-28T10:28:50.547-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:05.649648"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html", 
+            "resource_date": "2013-10-28T10:28:50.547-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:05.649656"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "1977 : [ 1 ]", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1977_mon_1_1", 
+    "zotero_id": null
+}

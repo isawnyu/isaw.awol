@@ -1,0 +1,46 @@
+{
+    "description": "[ 11-1 ] [ 11-2 ]", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-04T03:36:12.797716: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/open-access-journal-gallia-prehistoire.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-294888600895384136", 
+            "resource_date": "2010-01-19T11:12:48.581-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:12.798232"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-gallia-prehistoire.html", 
+            "resource_date": "2010-01-19T11:12:48.581-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:12.798239"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "11-1", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/galip_0016-4127_1968_num_11_1", 
+    "zotero_id": null
+}

@@ -1,0 +1,50 @@
+{
+    "description": "\"Standard Operating Procedure for the Assyrian Dictionary. I. J. Gelb. Originally published in 1954.\" \"Third Century Iran: Sapor and Kartir. Martin Sprengling. Originally published in 1953.\"", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-04T03:36:29.478826: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Assyria", 
+        "Oriental Institute", 
+        "backlist"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6825955092996191354", 
+            "resource_date": "2013-01-15T05:42:26.919-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:29.479427"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/newly-online-from-oriental-institutes.html", 
+            "resource_date": "2013-01-15T05:42:26.919-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:29.479435"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "\"Standard Operating Procedure for the Assyrian Dictionary. I", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/misc/cad_operating_procedures.html", 
+    "zotero_id": null
+}

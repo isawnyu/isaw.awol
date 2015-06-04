@@ -1,0 +1,45 @@
+{
+    "description": "What Should we Call Me Classics", 
+    "domain": "whatshouldwecallmeclassics.tumblr.com", 
+    "history": [
+        "2015-06-04T03:36:10.518254: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/04/what-should-we-call-me-classics.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "classics"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2416398900567999518", 
+            "resource_date": "2013-04-01T11:44:32.385-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:10.518818"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/what-should-we-call-me-classics.html", 
+            "resource_date": "2013-04-01T11:44:32.385-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:10.518826"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "What Should we Call Me Classics", 
+    "url": "http://whatshouldwecallmeclassics.tumblr.com/", 
+    "zotero_id": null
+}

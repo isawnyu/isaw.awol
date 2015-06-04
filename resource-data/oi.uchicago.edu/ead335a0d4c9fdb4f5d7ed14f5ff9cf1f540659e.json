@@ -1,0 +1,52 @@
+{
+    "description": "IN MEMORIAM: Barbara L. Hamann IN MEMORIAM: David A. Kipper", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-04T03:36:26.327709: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-oriental-institute-annual.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Oriental Institute", 
+        "annual report", 
+        "open access", 
+        "report", 
+        "reports"
+    ], 
+    "language": [
+        "mt", 
+        0.9614388436691107
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6193195451668305174", 
+            "resource_date": "2012-08-04T21:40:14.784-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:26.328236"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-oriental-institute-annual.html", 
+            "resource_date": "2012-08-04T21:40:14.784-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:26.328244"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "IN MEMORIAM: Barbara L. Hamann", 
+    "url": "http://oi.uchicago.edu/pdf/10_11_Memoriam_Hamann.pdf", 
+    "zotero_id": null
+}

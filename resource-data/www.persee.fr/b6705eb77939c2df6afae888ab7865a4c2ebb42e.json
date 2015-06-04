@@ -1,0 +1,47 @@
+{
+    "description": "[ 14 ] 1999 : [ 15 ] [ 16 ] 1999 : [ 15 ] [ 16 ] 1999 : [ 15 ] [ 16 ] 1999 : [ 15 ]", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-04T03:36:24.139698: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-culture-musees.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "culture", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5763382825317509391", 
+            "resource_date": "2011-02-14T09:02:33.881-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:24.140241"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-culture-musees.html", 
+            "resource_date": "2011-02-14T09:02:33.881-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:24.140248"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "14", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/pumus_1164-5385_1998_num_14_1", 
+    "zotero_id": null
+}

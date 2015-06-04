@@ -1,0 +1,49 @@
+{
+    "description": "AnaBiDeut - Analytische Bibliographie zum Deuteronomium Institut f\u00fcr Alttestamentliche Bibelwissenschaft, Universit\u00e4t Wien AnaBiDeut is the abbreviation for Analytical Bibliography of Deuteronomy . AnaBiDeut is an analytical internet bibliography of the book of Deuteronomy, designed for quick searches and title downloads. Why do we need a new type of bibliography? If you want to do research on a biblical text or biblical book, you cannot begin from scratch. While it is essential to start from the texts themselves, it is also indispensable to consult the work already done by others. A brief look at the existing literature will show you in what ways the text has already been treated and so both save valuable time and, perhaps, provide some inspiration for your own work. The body of scholarly literature, however, has grown immense in recent years. It is tedious and time-consuming to find, sort, and evaluate the sources you need. In terms of its bibliographical resources, the field of biblical scholarship is already better-equipped than other fields of theology. However, much more is possible, and AnaBiDeut seeks to make a contribution to this promising new field.", 
+    "domain": "www.univie.ac.at", 
+    "history": [
+        "2015-06-04T03:36:22.134198: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/06/deuteronomy-bibliography.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "bible", 
+        "bibliography", 
+        "book", 
+        "literature", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5125763186577093978", 
+            "resource_date": "2010-06-07T11:09:25.064-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:22.134826"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/06/deuteronomy-bibliography.html", 
+            "resource_date": "2010-06-07T11:09:25.064-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:22.134834"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Deuteronomy Bibliography", 
+    "url": "http://www.univie.ac.at/anabideut/", 
+    "zotero_id": null
+}

@@ -1,0 +1,50 @@
+{
+    "description": "Portraits and manuscript images of handwriting of Egyptologists . (July 2, 2011) An album of Howard Carter's watercolours of birds and animals (July 1, 2011) An album of Howard Carter's watercolours of birds and animals (July 1, 2011) An album of Howard Carter's watercolours of birds and animals", 
+    "domain": "www.griffith.ox.ac.uk", 
+    "history": [
+        "2015-06-04T03:36:36.275544: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Griffith Institute", 
+        "imagery", 
+        "manuscripts"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8094499180810007320", 
+            "resource_date": "2011-07-20T10:19:51.273-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:36.276089"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html", 
+            "resource_date": "2011-07-20T10:19:51.273-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:36.276096"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Further additions have been made to Portraits and manuscript images of handwriting of Egyptologists. (July 2, 2011)", 
+    "url": "http://www.griffith.ox.ac.uk/gri/4porhand.html", 
+    "zotero_id": null
+}

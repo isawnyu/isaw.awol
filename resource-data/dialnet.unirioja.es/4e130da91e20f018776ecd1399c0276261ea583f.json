@@ -1,0 +1,47 @@
+{
+    "description": "10 , 11", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-04T03:36:37.820961: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-revista-general-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Roman", 
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8442261624361591182", 
+            "resource_date": "2010-09-24T09:43:21.473-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:37.821489"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-revista-general-de.html", 
+            "resource_date": "2010-09-24T09:43:21.473-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:37.821496"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "10", 
+    "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=5689&clave_busqueda=196773", 
+    "zotero_id": null
+}

@@ -1,0 +1,53 @@
+{
+    "description": "Les C\u00e9r\u00e9ales en \u00c9gypte ancienne Une exposition r\u00e9alis\u00e9e en 2004 en collaboration entre Agropolis-Museum - Montpellier - France Le Mus\u00e9e de l'agriculture ancienne - Le Caire - \u00c9gypte & l' UMR 5052 Religions et Soci\u00e9t\u00e9 dans l'\u00c9gypte de l'\u00c9poque tardive (Univ. Montpellier\u00a0III/CNRS) Avec la participation du CIHEAM-IAMM (Centre International des Hautes Etudes Agronomiques M\u00e9diterran\u00e9ennes - Institut Agronomique M\u00e9diterran\u00e9en de Montpellier) Et le soutien de La R\u00e9gion Languedoc-Roussillon BLAFE (Bureau de Liaison Agricole Franco-\u00c9gyptien) - Le Caire - \u00c9gypte", 
+    "domain": "museum.agropolis.fr", 
+    "history": [
+        "2015-06-04T03:36:12.609879: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/11/les-cereales-en-egypte-ancienne.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "agriculture", 
+        "antiquity", 
+        "catalogue", 
+        "collaboration", 
+        "exhibition", 
+        "exhibition catalogue", 
+        "food", 
+        "museums"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2890348164915902911", 
+            "resource_date": "2013-11-15T06:17:49.362-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:12.610420"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/11/les-cereales-en-egypte-ancienne.html", 
+            "resource_date": "2013-11-15T06:17:49.362-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:12.610427"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Les C\u00e9r\u00e9ales en \u00c9gypte ancienne", 
+    "url": "http://museum.agropolis.fr/pages/expos/egypte/fr/index.htm", 
+    "zotero_id": null
+}

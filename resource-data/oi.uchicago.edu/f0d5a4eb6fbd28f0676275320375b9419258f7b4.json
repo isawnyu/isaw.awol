@@ -1,0 +1,52 @@
+{
+    "description": "\"AS 6. Philological Notes on Eshnunna and Its Inscriptions. Thorkild Jacobsen. Originally published in 1934.\" \"AS 4. Beitrage zum Assyrischen W\u00f6rterbuch II. Bruno Meissner. Originally published in 1932.\"", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-04T03:36:22.720624: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_23.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {
+        "issn": {}
+    }, 
+    "keywords": [
+        "Oriental Institute", 
+        "backlist", 
+        "epigraphy"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5302722719132675692", 
+            "resource_date": "2012-11-30T17:36:36.147-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:22.721201"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_23.html", 
+            "resource_date": "2012-11-30T17:36:36.147-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:22.721209"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "\"AS 6. Philological Notes on Eshnunna and Its Inscriptions", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/as/as6.html", 
+    "zotero_id": null
+}

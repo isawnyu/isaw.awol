@@ -1,0 +1,53 @@
+{
+    "description": "\"OIP 22. Ancient Oriental Seals in the Collection of Mr. Edward T. Newell. Hans Henning von der Osten. Originally published in 1934.\" \"OIP 27. Researches in Anatolia 6. Inscriptions from Alishar and Vicinity. Ignace J. Gelb. Originally published in 1935.\"", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-04T03:36:38.257089: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Anatolia", 
+        "Oriental Institute", 
+        "antiquity", 
+        "backlist", 
+        "epigraphy", 
+        "seals"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8559132705741967670", 
+            "resource_date": "2012-12-07T16:39:37.242-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:38.257628"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes.html", 
+            "resource_date": "2012-12-07T16:39:37.242-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:38.257636"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "\"OIP 22. Ancient Oriental Seals in the Collection of Mr", 
+    "url": "https://oi.uchicago.edu/research/pubs/catalog/oip/oip22.html", 
+    "zotero_id": null
+}

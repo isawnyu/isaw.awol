@@ -1,0 +1,50 @@
+{
+    "description": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 10: Rencontres Sabe\u0301ennes 6 Deutsches Archa\u0308ologisches Institut S\u0323ana\u0304 2005 OK", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-04T03:36:40.755329: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Amar", 
+        "Yemen", 
+        "archaeology"
+    ], 
+    "language": [
+        "de", 
+        0.9999999999940756
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9016964047355295590", 
+            "resource_date": "2012-03-02T16:39:52.240-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:40.755852"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html", 
+            "resource_date": "2012-03-02T16:39:52.240-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:40.755860"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Archa\u0308ologische Berichte aus dem Yemen. Bd", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=94855&REC=10", 
+    "zotero_id": null
+}

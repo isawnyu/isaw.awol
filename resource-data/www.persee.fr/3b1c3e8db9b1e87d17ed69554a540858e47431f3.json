@@ -1,0 +1,50 @@
+{
+    "description": "Jean Hadas-Lebel See the full list of Open Access Publications of the Maison de l'Orient et de la M\u00e9diterran\u00e9e at Pers\u00e9e See the full list of Open Access Publications of the Maison de l'Orient et de la M\u00e9diterran\u00e9e at Pers\u00e9e See the full list of Open Access Publications of the Maison de l'Orient et de la M\u00e9diterran\u00e9e at Pers\u00e9e", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-04T03:36:36.027422: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Mediterranean", 
+        "Pers\u00e9e", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7980957358423240936", 
+            "resource_date": "2011-10-14T14:27:16.756-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:36.027964"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html", 
+            "resource_date": "2011-10-14T14:27:16.756-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:36.027971"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Jean Hadas-Lebel", 
+    "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_776", 
+    "zotero_id": null
+}

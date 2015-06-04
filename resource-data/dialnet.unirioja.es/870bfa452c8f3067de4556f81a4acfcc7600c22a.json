@@ -1,0 +1,57 @@
+{
+    "description": "Aquila legionis : cuadernos de estudios sobre el Ej\u00e9rcito Romano ISSN: 1578-1518 Arqueobios", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-04T03:36:36.775664: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1578-1518"
+            ]
+        }
+    }, 
+    "keywords": [
+        "Roman", 
+        "antiquity", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "es", 
+        0.9999996217215742
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8214559682146973850", 
+            "resource_date": "2009-09-20T15:33:38.380-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:36.776221"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html", 
+            "resource_date": "2009-09-20T15:33:38.380-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:36.776229"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Aquila legionis", 
+    "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=3930", 
+    "zotero_id": null
+}

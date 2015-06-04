@@ -1,0 +1,49 @@
+{
+    "description": "Nature et sentiment [Article] Michel Zink", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-04T03:36:27.035011: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "journal", 
+        "journal issues"
+    ], 
+    "language": [
+        "fr", 
+        0.9997703601164887
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
+            "resource_date": "2012-08-03T09:39:09.216-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:27.035589"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
+            "resource_date": "2012-08-03T09:39:09.216-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:27.035597"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Nature et sentiment [Article]", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2003_num_130_2_1797", 
+    "zotero_id": null
+}

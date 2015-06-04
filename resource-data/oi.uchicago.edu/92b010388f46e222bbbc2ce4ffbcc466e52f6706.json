@@ -1,0 +1,50 @@
+{
+    "description": "\"AS 13. The System of The Quadriliteral Verb in Akkadian. Alexander Heidel. Originally published in 1940.\" \"AS 12. Lamentation Over the Destruction of Ur. Samuel N. Kramer. Originally published in 1940.\"", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-04T03:36:22.695245: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_23.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Akkadian", 
+        "Oriental Institute", 
+        "backlist"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5302722719132675692", 
+            "resource_date": "2012-11-30T17:36:36.147-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:22.695786"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_23.html", 
+            "resource_date": "2012-11-30T17:36:36.147-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:22.695793"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "\"AS 13. The System of The Quadriliteral Verb in Akkadian", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/as/as13.html", 
+    "zotero_id": null
+}

@@ -1,0 +1,51 @@
+{
+    "description": "The Department of Egyptian Art,\u00a0 The Metropolitan Museum of Art presents A Symposium on Haremhab: General and King of Egypt May 5, 2011 The Grace Rainey Rogers Auditorium Held in conjunction with the special exhibition Haremhab, The General Who Became King November 16, 2010 -- July 4, 2011", 
+    "domain": "www.metmuseum.org", 
+    "history": [
+        "2015-06-04T03:36:22.814005: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/video-symposium-on-haremhab-general-and.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "Metropolitan Museum of Art", 
+        "art", 
+        "conference", 
+        "egyptology", 
+        "exhibition", 
+        "museums"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5343623093497862513", 
+            "resource_date": "2012-01-30T09:00:24.516-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:22.814626"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/video-symposium-on-haremhab-general-and.html", 
+            "resource_date": "2012-01-30T09:00:24.516-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:22.814634"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "A Symposium on Haremhab: General and King of Egypt", 
+    "url": "http://www.metmuseum.org/en/exhibitions/listings/2010/haremhab", 
+    "zotero_id": null
+}

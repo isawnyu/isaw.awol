@@ -1,0 +1,51 @@
+{
+    "description": "Excavations at Tepe Yahya, Iran 1967-1975: the Iron Age settlement Magee, Peter, 1968- 2004 OK See more Series in AMAR", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-04T03:36:04.728837: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Amar", 
+        "Iran", 
+        "archaeology", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1055362887162564290", 
+            "resource_date": "2012-03-04T15:12:57.357-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:04.729355"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html", 
+            "resource_date": "2012-03-04T15:12:57.357-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:04.729362"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Excavations at Tepe Yahya, Iran 1967-1975: the Iron Age settlement", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=122592&REC=5", 
+    "zotero_id": null
+}

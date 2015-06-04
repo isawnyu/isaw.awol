@@ -1,0 +1,52 @@
+{
+    "description": "The working and uncorrected files . Volume viii ( Objects of Provenance Not Known Part 5 ( Reliefs and Paintings ) The working and uncorrected files .", 
+    "domain": "www.griffith.ox.ac.uk", 
+    "history": [
+        "2015-06-04T03:36:41.080223: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/topographical-bibliography-of-ancient.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "Roman", 
+        "antiquity", 
+        "bibliography", 
+        "egyptology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9116220403534355854", 
+            "resource_date": "2013-02-07T10:52:11.094-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:41.080807"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/08/topographical-bibliography-of-ancient.html", 
+            "resource_date": "2013-02-07T10:52:11.094-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:41.080816"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Volume viii (Objects of Provenance Not Known Part 4 (Stelae. Dynasty XVIII to the Roman Period) The working and uncorrected files: Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Statues, Reliefs, and Paintings", 
+    "url": "http://www.griffith.ox.ac.uk/gri/3stelae.html", 
+    "zotero_id": null
+}

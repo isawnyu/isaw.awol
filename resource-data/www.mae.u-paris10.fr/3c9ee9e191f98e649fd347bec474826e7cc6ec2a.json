@@ -1,0 +1,49 @@
+{
+    "description": "Bibliographie de l'architecture grecque Ce site est l'archive des bulletins de bibliographie publi\u00e9s de 1992 \u00e0 2008, dans la Revue arch\u00e9ologique, sous le nom de Bulletin analytique d'architecture du monde grec, et se consulte comme un moteur de recherche. A partir de 2009, les notices sont uniquement \u00e9lectroniques et la mise \u00e0 jour comprend les notices de 2012.", 
+    "domain": "www.mae.u-paris10.fr", 
+    "history": [
+        "2015-06-04T03:36:39.219677: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/bibliographie-de-larchitecture-grecque.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Greece", 
+        "archaeology", 
+        "architecture", 
+        "bibliography", 
+        "journal"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8823095998817827070", 
+            "resource_date": "2013-09-21T09:38:34.200-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:39.220253"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/bibliographie-de-larchitecture-grecque.html", 
+            "resource_date": "2013-09-21T09:38:34.200-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:39.220261"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bibliographie de l'architecture grecque", 
+    "url": "http://www.mae.u-paris10.fr/bullarchi/index.php", 
+    "zotero_id": null
+}

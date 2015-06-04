@@ -1,0 +1,51 @@
+{
+    "description": "OIP 83. Medinet Habu, Volume V. The Temple Proper, Part I: The Portico, the Treasury, and Chapels Adjoining the First Hypostyle Hall with Marginal Material from the Forecourts. By the Epigraphic Survey. Originally published in 1957. OIP 80. Demotic Ostraca from Medinet Habu. By Miriam Lichtheim. Originally published in 1957. OIP 80. Demotic Ostraca from Medinet Habu. By Miriam Lichtheim. Originally published in 1957. OIP 80. Demotic Ostraca from Medinet Habu. By Miriam Lichtheim.", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-04T03:36:30.143471: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Demotic", 
+        "Oriental Institute", 
+        "egyptology", 
+        "epigraphy"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6966019253183957888", 
+            "resource_date": "2009-11-19T14:21:54.141-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:30.144017"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html", 
+            "resource_date": "2009-11-19T14:21:54.141-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:30.144025"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "OIP 83. Medinet Habu, Volume V. The Temple Proper, Part I: The Portico, the Treasury, and Chapels Adjoining the First Hypostyle Hall with Marginal Material from the Forecourts", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip83.html", 
+    "zotero_id": null
+}

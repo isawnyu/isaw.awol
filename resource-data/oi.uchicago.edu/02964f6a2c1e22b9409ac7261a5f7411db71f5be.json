@@ -1,0 +1,214 @@
+{
+    "description": "Oriental Institute 2010-2011 Annual Report", 
+    "domain": "oi.uchicago.edu", 
+    "history": [
+        "2015-06-04T03:36:26.313479: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-oriental-institute-annual.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Oriental Institute", 
+        "annual report", 
+        "open access", 
+        "report", 
+        "reports"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6193195451668305174", 
+            "resource_date": "2012-08-04T21:40:14.784-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:26.314044"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-oriental-institute-annual.html", 
+            "resource_date": "2012-08-04T21:40:14.784-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:26.314052"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        {
+            "label": "The Entire 2010-2011 Annual Report In A Single Adobe Acrobat Document", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_AnnualReport.pdf"
+        }, 
+        {
+            "label": "INTRODUCTION. Gil J. Stein", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Introduction.pdf"
+        }, 
+        {
+            "label": "IN MEMORIAM: Alan Reid Brodie", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Memoriam_Brodie.pdf"
+        }, 
+        {
+            "label": "IN MEMORIAM: John L. Foster", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Memoriam_Foster.pdf"
+        }, 
+        {
+            "label": "IN MEMORIAM: Barbara L. Hamann", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Memoriam_Hamann.pdf"
+        }, 
+        {
+            "label": "IN MEMORIAM: David A. Kipper", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Memoriam_Kipper.pdf"
+        }, 
+        {
+            "label": "IN MEMORIAM: Janina Monkut\u00e9 Marks", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Memoriam_Marks.pdf"
+        }, 
+        {
+            "label": "IN MEMORIAM: William Sumner, Director Emeritus, Oriental Institute", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Memoriam_Sumner.pdf"
+        }, 
+        {
+            "label": "IN MEMORIAM: Marjorie Webster", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Memoriam_Webster.pdf"
+        }, 
+        {
+            "label": "CENTER FOR ANCIENT MIDDLE EASTERN LANDSCAPES (CAMEL). Scott Branting", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_CAMEL.pdf"
+        }, 
+        {
+            "label": "CHICAGO ASSYRIA N DICTIONARY (CAD). Martha T. Roth", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_CAD.pdf"
+        }, 
+        {
+            "label": "CHICAGO DEMOTIC DICTIONARY (CDD). Fran\u00e7ois Gaudard and Janet H. Johnson", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_CDD.pdf"
+        }, 
+        {
+            "label": "CHICAGO HITTITE DICTIONARY (CHD). Theo van den Hout", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_CHD.pdf"
+        }, 
+        {
+            "label": "DIYALA PROJECT. Clemens Reichel", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Diyala.pdf"
+        }, 
+        {
+            "label": "EPIGRAPHIC SURVEY. W. Raymond Johnson", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Epigraphic.pdf"
+        }, 
+        {
+            "label": "HAMOUKAR. Clemens Reichel", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Hamoukar.pdf"
+        }, 
+        {
+            "label": "ICONOCLASM. Natalie N. May", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Iconoclasm.pdf"
+        }, 
+        {
+            "label": "JERICHO MAFJAR PROJECT AND ISLAMIC ARCHAEOLOGY. Donald Whitcomb", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Mafjar.pdf"
+        }, 
+        {
+            "label": "KERKENES DAG PROJECT. Scott Branting", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Kerkenes.pdf"
+        }, 
+        {
+            "label": "KHORSABAD RELIEF FRAGMENT PROJECT. Eleanor Guralnick", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Khorsabad.pdf"
+        }, 
+        {
+            "label": "MARJ RABBA. Yorke M. Rowan", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Marj_Rabba.pdf"
+        }, 
+        {
+            "label": "MUMMY LABEL DATABASE (MLD). Fran\u00e7ois Gaudard, Raquel Mart\u00edn Hern\u00e1ndez, and Sof\u00eda Torallas Tovar", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_MLD.pdf"
+        }, 
+        {
+            "label": "NIPPUR. McGuire Gibson", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Nippur.pdf"
+        }, 
+        {
+            "label": "PERSEPOLIS FORTIFICATION ARCHIVE PROJECT. Matthew W. Stolper", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_PFA.pdf"
+        }, 
+        {
+            "label": "TELL EDFU. Nadine Moeller", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Tell_Edfu.pdf"
+        }, 
+        {
+            "label": "TELL ZEIDAN. Gil J. Stein", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Tell_Zeidan.pdf"
+        }, 
+        {
+            "label": "INDIVIDUAL RESEARCH 2010-2011", 
+            "url": "http://oi.uchicago.edu/research/pubs/ar/10-11/is.html"
+        }, 
+        {
+            "label": "COMPUTER LABORATORY. John C. Sanders", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Computer_Lab.pdf"
+        }, 
+        {
+            "label": "ELECTRONIC RESOURCES. John C. Sanders", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Elec_Resources.pdf"
+        }, 
+        {
+            "label": "PUBLICATIONS OFFICE. Thomas G. Urban", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Publications.pdf"
+        }, 
+        {
+            "label": "RESEARCH ARCHIVES. Foy Scalf", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Research_Arch.pdf"
+        }, 
+        {
+            "label": "TABLET COLLECTION. Andrew Dix", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Tablet_Collection.pdf"
+        }, 
+        {
+            "label": "MUSEUM.", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Museum.pdf"
+        }, 
+        {
+            "label": "Public Education: Carole Krucoff", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Public_Education.pdf"
+        }, 
+        {
+            "label": "Volunteer Program: Catherine Duenas and Terry Friedman", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Volunteer_Program.pdf"
+        }, 
+        {
+            "label": "DEVELOPMENT. Steve Camp", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Development.pdf"
+        }, 
+        {
+            "label": "VISITING COMMITTEE.", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Volunteer_Program.pdf"
+        }, 
+        {
+            "label": "MEMBERSHIP. Maeve Reed", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Visiting_Com.pdf"
+        }, 
+        {
+            "label": "SPECIAL EVENTS. Meghan A. Winston", 
+            "url": "http://oi.uchicago.edu/pdf/10_11_Special_Events.pdf"
+        }, 
+        {
+            "label": "FACULTY AND STAFF OF THE ORIENTAL INSTITUTE", 
+            "url": "http://oi.uchicago.edu/pdf/09_10_Staff.pdf"
+        }, 
+        {
+            "label": "available digitally", 
+            "url": "http://oi.uchicago.edu/research/pubs/ar/"
+        }
+    ], 
+    "title": "Oriental Institute 2010-2011 Annual Report", 
+    "url": "http://oi.uchicago.edu/research/pubs/ar/10-11/", 
+    "zotero_id": null
+}

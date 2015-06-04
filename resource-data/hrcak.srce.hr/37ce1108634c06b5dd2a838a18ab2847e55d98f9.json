@@ -1,0 +1,50 @@
+{
+    "description": "Vjesnik za arheologiju i povijest dalmatinsku ( Journal of Dalmatian archaeology and history)", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-04T03:36:35.227523: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/12/open-access-journal-vjesnik-za.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "archaeology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "hr", 
+        0.9600371548439062
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-786334668355540556", 
+            "resource_date": "2012-11-23T09:38:58.980-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:35.228099"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-vjesnik-za.html", 
+            "resource_date": "2012-11-23T09:38:58.980-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:35.228107"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Vjesnik za arheologiju i povijest dalmatinsku (", 
+    "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6076&lang=hr", 
+    "zotero_id": null
+}

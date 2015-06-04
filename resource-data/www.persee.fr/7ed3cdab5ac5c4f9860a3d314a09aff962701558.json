@@ -1,0 +1,49 @@
+{
+    "description": "L'acte de m\u00eem\u00easis L'acte de m\u00eem\u00easis [Article] Philippe Brunet", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-04T03:36:26.959177: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "journal", 
+        "journal issues"
+    ], 
+    "language": [
+        "ku", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
+            "resource_date": "2012-08-03T09:39:09.216-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:26.959745"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
+            "resource_date": "2012-08-03T09:39:09.216-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:26.959752"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "L'acte de m\u00eem\u00easis [Article]", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2001_num_122_2_1710", 
+    "zotero_id": null
+}

@@ -1,0 +1,61 @@
+{
+    "description": "Starohrvatska prosvjeta ISSN:0351-4536 The Museum Courier. Organ of the Museums of Northwestern Croatia ISSN:0350-9370 The Museum Courier. Organ of the Museums of Northwestern Croatia", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-04T03:36:21.557050: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0350-9370", 
+                "0351-4536"
+            ]
+        }
+    }, 
+    "keywords": [
+        "Balkans", 
+        "Croatia", 
+        "Croatian", 
+        "archaeology", 
+        "journal", 
+        "museums", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
+            "resource_date": "2012-11-30T10:12:29.204-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:21.557599"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html", 
+            "resource_date": "2012-11-30T10:12:29.204-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:21.557607"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Starohrvatska prosvjeta ISSN:0351-4536", 
+    "url": "http://hrcak.srce.hr/starohrvatska-prosvjeta", 
+    "zotero_id": null
+}

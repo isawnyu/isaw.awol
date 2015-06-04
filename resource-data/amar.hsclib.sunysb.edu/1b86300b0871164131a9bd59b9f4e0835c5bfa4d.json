@@ -1,0 +1,78 @@
+{
+    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports Excavations at Tepe Yahya, Iran, 1967-1975: the early periods Lamberg-Karlovsky, C. C., 1937- 1986 OK Excavations at Tepe Yahya, Iran 1967-1969: progress report 1 Lamberg-Karlovsky, C. C., 1937- 1970 OK The proto-elamite texts from Tepe Yahya Damerow, Peter 1989 OK Excavations at Tepe Yahya, Iran, 1967-1975: the third millennium Potts, Daniel T. 2001 OK Excavations at Tepe Yahya, Iran 1967-1975: the Iron Age settlement Magee, Peter, 1968- 2004 OK Excavations at Tepe Yahya, Iran, 1967-1975: the early periods Lamberg-Karlovsky, C. C., 1937- 1986 OK Excavations at Tepe Yahya, Iran 1967-1969: progress report 1 Lamberg-Karlovsky, C. C., 1937- 1970 OK The proto-elamite texts from Tepe Yahya Damerow, Peter 1989 OK Excavations at Tepe Yahya, Iran, 1967-1975: the third millennium Potts, Daniel T. 2001 OK Excavations at Tepe Yahya, Iran 1967-1975: the Iron Age settlement Magee, Peter, 1968- 2004 OK Excavations at Tepe Yahya, Iran, 1967-1975: the early periods Lamberg-Karlovsky, C. C., 1937- 1986 OK", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-04T03:36:04.671331: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "AWOL", 
+        "Amar", 
+        "Iran", 
+        "Mesopotamia", 
+        "archaeological site", 
+        "archaeology", 
+        "archive", 
+        "report", 
+        "reports", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1055362887162564290", 
+            "resource_date": "2012-03-04T15:12:57.357-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:04.709504"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html", 
+            "resource_date": "2012-03-04T15:12:57.357-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:04.709512"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        {
+            "label": "Excavations at Tepe Yahya, Iran, 1967-1975: the early periods", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=4626&REC=1"
+        }, 
+        {
+            "label": "Excavations at Tepe Yahya, Iran 1967-1969: progress report 1", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=145447&REC=2"
+        }, 
+        {
+            "label": "The proto-elamite texts from Tepe Yahya", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=126889&REC=3"
+        }, 
+        {
+            "label": "Excavations at Tepe Yahya, Iran, 1967-1975: the third millennium", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=79921&REC=4"
+        }, 
+        {
+            "label": "Excavations at Tepe Yahya, Iran 1967-1975: the Iron Age settlement", 
+            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=122592&REC=5"
+        }
+    ], 
+    "title": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "zotero_id": null
+}

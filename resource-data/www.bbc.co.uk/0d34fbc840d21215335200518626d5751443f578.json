@@ -1,0 +1,49 @@
+{
+    "description": "The Man who Discovered Egypt A documentary about William Flinders Petrie, Presented by Chris Naunton, Director of the Egypt Exploration Society. Aired on BBC 4 Ancient Egypt was vandalised by tomb raiders and treasure hunters until one Victorian adventurer took them on. Most of us have never heard of Flinders Petrie, but this maverick genius underook a scientific survey of the pyramids, discovered the oldest portraits in the world, unearthed Egypt's prehistoric roots - and in the process invented modern field archaeology, giving meaning to a whole civilisation. is now available globally on YouTube:", 
+    "domain": "www.bbc.co.uk", 
+    "history": [
+        "2015-06-04T03:36:15.309362: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/video-man-who-discovered-egypt.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "Egypt Exploration Society", 
+        "William Matthew Flinders Petrie", 
+        "antiquity", 
+        "prehistory"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3536903262253529286", 
+            "resource_date": "2012-04-12T15:42:27.513-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:15.309922"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/video-man-who-discovered-egypt.html", 
+            "resource_date": "2012-04-12T15:42:27.513-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:15.309929"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Man who Discovered Egypt", 
+    "url": "http://www.bbc.co.uk/programmes/b01f13f4", 
+    "zotero_id": null
+}

@@ -1,0 +1,54 @@
+{
+    "description": "PictureIt: Epistles of Paul [video describing the app Pictureit: EP] Welcome to the world of second century C.E. Egypt. This app will allow you to leaf through pages of the world's oldest existing manuscript of the letters of St. Paul (P.Mich.inv.6238, also known in NT scholarship as P46). Thirty leaves of this manuscript, written in about 200 C.E., were found in Egypt and purchased by the University of Michigan Papyrology Collection in 1931 and 1933 (another 56 leaves, not included in this app, are housed in the Chester Beatty Library, Dublin; 18 leaves are missing completely). The app will give you the feel of what it was like reading an ancient Greek book on papyrus, where the text is written without word division, punctuation, headings, or chapter and verse numbers. To aid the reader without knowledge of ancient Greek the translation mode will give a literal translation of the Greek text preserved on these pages (with addition of chapter and verse numbers), with explanatory notes showing where this text is different from the Standard text.", 
+    "domain": "www.youtube.com", 
+    "history": [
+        "2015-06-04T03:36:05.411620: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/app-pictureit-epistles-of-paul.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Bible", 
+        "Egypt", 
+        "Greek", 
+        "Michigan", 
+        "antiquity", 
+        "book", 
+        "computer program", 
+        "manuscripts", 
+        "papyrology", 
+        "religion"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-134935681385812694", 
+            "resource_date": "2012-12-22T17:42:39.189-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:05.412263"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/app-pictureit-epistles-of-paul.html", 
+            "resource_date": "2012-12-22T17:42:39.189-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:05.412272"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "PictureIt: Epistles of Paul", 
+    "url": "http://www.youtube.com/watch?v=BxIkcONUSdU", 
+    "zotero_id": null
+}

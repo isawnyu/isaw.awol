@@ -1,0 +1,46 @@
+{
+    "description": "2 1990", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-04T03:36:08.249938: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/11/open-access-journal-quaderns-de-difusio.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1883830925452066930", 
+            "resource_date": "2010-11-06T17:41:18.935-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:08.250486"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/open-access-journal-quaderns-de-difusio.html", 
+            "resource_date": "2010-11-06T17:41:18.935-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:08.250494"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "2", 
+    "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13883&clave_busqueda=251499", 
+    "zotero_id": null
+}

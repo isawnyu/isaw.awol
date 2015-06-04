@@ -1,0 +1,50 @@
+{
+    "description": "Vol. 15 No. 1 Vol. 15 No. 1 1919 Vol. 14 No. 1 Vol. 14 No. 1 Vol. 14 No. 1 Vol. 14 No. 1", 
+    "domain": "hrcak.srce.hr", 
+    "history": [
+        "2015-06-04T03:36:41.671397: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-vjesnik-arheoloskog.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Croatia", 
+        "Zagreb", 
+        "archaeology", 
+        "journal", 
+        "museums", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9222293135690947661", 
+            "resource_date": "2013-02-21T10:56:33.785-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:41.671927"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-vjesnik-arheoloskog.html", 
+            "resource_date": "2013-02-21T10:56:33.785-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:41.671935"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Vol. 15 \u00a0 No. 1: Vjesnik Arheolo\u0161kog muzeja u Zagrebu - Journal of the Zagreb Archaeological Museum", 
+    "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4034", 
+    "zotero_id": null
+}

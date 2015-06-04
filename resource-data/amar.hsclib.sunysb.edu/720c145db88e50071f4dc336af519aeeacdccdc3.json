@@ -1,0 +1,52 @@
+{
+    "description": "Isin - Isan Bahriyat 2: die Ergebnisse der Ausgrabungen 1975-1978 OK", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-04T03:36:07.479516: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/isin-isan-bahriyat-in-amar.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Amar", 
+        "Iraq", 
+        "Isis", 
+        "archaeology", 
+        "religion"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1640575574774770026", 
+            "resource_date": "2012-03-02T16:37:33.042-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:07.480042"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/isin-isan-bahriyat-in-amar.html", 
+            "resource_date": "2012-03-02T16:37:33.042-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:07.480049"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Isin - Isan Bahriyat 2: die Ergebnisse der Ausgrabungen 1975-1978", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=86800&REC=2", 
+    "zotero_id": null
+}

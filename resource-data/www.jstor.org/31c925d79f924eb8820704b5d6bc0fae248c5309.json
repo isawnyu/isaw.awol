@@ -1,0 +1,49 @@
+{
+    "description": "http://www.jstor.org/action/ showPublication?journalCode= aegy http://www.jstor.org/action/ showPublication?journalCode= aegy Previous Title: Studi della Scuola papirologica [1915\u20131920] (0394-123X) http://www.jstor.org/action/ showPublication?journalCode= studscuopapi", 
+    "domain": "www.jstor.org", 
+    "history": [
+        "2015-06-04T03:36:35.146141: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "JSTOR", 
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        0.9999281279276151
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7832348034400947503", 
+            "resource_date": "2012-04-06T04:09:08.850-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:35.146762"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/new-ancient-world-content-in-jstor.html", 
+            "resource_date": "2012-04-06T04:09:08.850-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:35.146771"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "http://www.jstor.org/action/showPublication?journalCode=aegy", 
+    "url": "http://www.jstor.org/action/showPublication?journalCode=aegy", 
+    "zotero_id": null
+}

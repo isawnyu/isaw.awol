@@ -1,0 +1,46 @@
+{
+    "description": "Sanskrit Central :\u00a0 Sanskrit Aggregator, Books and Everything Sanskrit \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u0935\u093e\u0923\u0940 - The Unique Sanskrit Aggregator", 
+    "domain": "sanskritcentral.com", 
+    "history": [
+        "2015-06-04T03:36:22.253490: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/sanskrit-aggregator.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Sanskrit", 
+        "book"
+    ], 
+    "language": [
+        "no", 
+        0.9999999999998943
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "title", 
+                "url"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5172025381679784475", 
+            "resource_date": "2011-06-26T07:55:36.124-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:22.254060"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/sanskrit-aggregator.html", 
+            "resource_date": "2011-06-26T07:55:36.124-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:22.254068"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Sanskrit Aggregator", 
+    "url": "http://sanskritcentral.com/", 
+    "zotero_id": null
+}

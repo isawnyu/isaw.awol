@@ -1,0 +1,53 @@
+{
+    "description": "Portraits and manuscript images of handwriting of Egyptologists . (June 5, 2011) The Topographical Bibliography working list of objects in \u00c4gyptisches Museum in Berlin . (June 3, 2011) The Topographical Bibliography working list of objects in \u00c4gyptisches Museum in Berlin . (June 3, 2011) The Topographical Bibliography working list of objects in \u00c4gyptisches Museum in Berlin", 
+    "domain": "www.griffith.ox.ac.uk", 
+    "history": [
+        "2015-06-04T03:36:18.344877: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/new-from-griffith-institute.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Berlin", 
+        "Griffith Institute", 
+        "bibliography", 
+        "imagery", 
+        "manuscripts", 
+        "museums"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4195572223629835088", 
+            "resource_date": "2011-07-20T10:18:05.822-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:18.345411"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/new-from-griffith-institute.html", 
+            "resource_date": "2011-07-20T10:18:05.822-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:18.345419"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Further additions have been made to Portraits and manuscript images of handwriting of Egyptologists. (June 5, 2011)", 
+    "url": "http://www.griffith.ox.ac.uk/gri/4porhand.html", 
+    "zotero_id": null
+}

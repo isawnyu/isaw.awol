@@ -1,0 +1,51 @@
+{
+    "description": "BSAA Arqueolog\u00eda: Bolet\u00edn del Seminario de Estudios de Arqueolog\u00eda (continuing Bolet\u00edn del Seminario de Estudios de Arte y Arqueolog\u00eda", 
+    "domain": "dialnet.unirioja.es", 
+    "history": [
+        "2015-06-04T03:36:34.367488: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/05/open-access-journal-bsaa-arqueologia.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "archeaology", 
+        "art", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7680663990464356791", 
+            "resource_date": "2012-02-16T05:56:50.152-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:34.368067"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-bsaa-arqueologia.html", 
+            "resource_date": "2012-02-16T05:56:50.152-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:34.368075"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "BSAA Arqueolog\u00eda: Bolet\u00edn del Seminario de Estudios de Arqueolog\u00eda", 
+    "url": "http://dialnet.unirioja.es/servlet/revista?codigo=15437", 
+    "zotero_id": null
+}

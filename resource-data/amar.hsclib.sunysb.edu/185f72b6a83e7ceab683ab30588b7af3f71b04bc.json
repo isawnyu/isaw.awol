@@ -1,0 +1,50 @@
+{
+    "description": "Ka\u0304mid el-Lo\u0304z. 18: Die spa\u0308tbronzezeitlichen Palastanlagen ; Text Adler, Wolfgang 2001 OK", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "history": [
+        "2015-06-04T03:36:13.780715: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/kamid-el-loz-in-amar.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Amar", 
+        "Lebanon", 
+        "archaeology"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3152921216295895396", 
+            "resource_date": "2012-03-02T16:44:17.255-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:13.781305"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/kamid-el-loz-in-amar.html", 
+            "resource_date": "2012-03-02T16:44:17.255-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:13.781313"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ka\u0304mid el-Lo\u0304z. 18: Die spa\u0308tbronzezeitlichen Palastanlagen ; Text", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=165827&REC=15", 
+    "zotero_id": null
+}

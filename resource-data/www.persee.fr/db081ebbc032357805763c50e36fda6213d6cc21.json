@@ -1,0 +1,49 @@
+{
+    "description": "[ 46-4 ] 1969 : [ 47-1 ] [ 47-2 ] [ 47-3 ] [ 47-4 ] 1969 : [ 47-1 ] [ 47-2 ] [ 47-3 ] [ 47-4 ] 1969 : [ 47-1 ] [ 47-2 ] [ 47-3 ] [ 47-4 ] 1969 : [ 47-1 ]", 
+    "domain": "www.persee.fr", 
+    "history": [
+        "2015-06-04T03:36:30.864754: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Belgium", 
+        "classics", 
+        "journal", 
+        "open access", 
+        "philology"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707332784338276556", 
+            "resource_date": "2013-05-21T09:01:08.351-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:36:30.865273"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html", 
+            "resource_date": "2013-05-21T09:01:08.351-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:36:30.865281"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "46-4", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1968_num_46_4", 
+    "zotero_id": null
+}
