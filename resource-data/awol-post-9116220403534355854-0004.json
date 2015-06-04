@@ -1,0 +1,48 @@
+{
+    "description": "2007 , 2008,", 
+    "domain": "www.griffith.ox.ac.uk", 
+    "history": [
+        "2015-06-04T03:00:51.049070: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/topographical-bibliography-of-ancient.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Egypt", 
+        "antiquity", 
+        "bibliography", 
+        "egyptology"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9116220403534355854", 
+            "resource_date": "2013-02-07T10:52:11.094-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:00:51.049602"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/08/topographical-bibliography-of-ancient.html", 
+            "resource_date": "2013-02-07T10:52:11.094-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:00:51.049609"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "2007: Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Statues, Reliefs, and Paintings", 
+    "url": "http://www.griffith.ox.ac.uk/gri/3rep07.pdf", 
+    "zotero_id": null
+}
