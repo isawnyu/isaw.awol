@@ -2,7 +2,7 @@
     "description": "26 (*) 2006 25 (*) 2006", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:36:23.456205: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html. (walk_to_json.py)"
+        "2015-06-04T03:53:10.834037: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -29,13 +29,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5594714661926615041", 
             "resource_date": "2011-12-23T08:01:20.974-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:23.456796"
+            "when": "2015-06-04T03:53:10.834561"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html", 
             "resource_date": "2011-12-23T08:01:20.974-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:23.456803"
+            "when": "2015-06-04T03:53:10.834574"
         }
     ], 
     "related_resources": [], 

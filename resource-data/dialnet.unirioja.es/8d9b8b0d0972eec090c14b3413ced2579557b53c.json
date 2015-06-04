@@ -2,7 +2,7 @@
     "description": "43 2011 42 2011", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:36:34.524523: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html. (walk_to_json.py)"
+        "2015-06-04T03:53:17.497427: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,18 +32,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7705375700946621781", 
             "resource_date": "2013-01-05T10:55:30.411-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:34.525051"
+            "when": "2015-06-04T03:53:17.497982"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html", 
             "resource_date": "2013-01-05T10:55:30.411-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:34.525059"
+            "when": "2015-06-04T03:53:17.497990"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "43", 
+    "title": "43: Habis", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=633&clave_busqueda=317625", 
     "zotero_id": null
 }

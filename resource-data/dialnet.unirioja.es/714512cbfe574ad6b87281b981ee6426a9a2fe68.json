@@ -2,7 +2,7 @@
     "description": "2 List of Open Access Journals in Ancient Studies", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:36:23.544705: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html. (walk_to_json.py)"
+        "2015-06-04T03:53:10.918046: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -33,18 +33,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5594714661926615041", 
             "resource_date": "2011-12-23T08:01:20.974-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:23.545279"
+            "when": "2015-06-04T03:53:10.918598"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html", 
             "resource_date": "2011-12-23T08:01:20.974-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:23.545286"
+            "when": "2015-06-04T03:53:10.918606"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2", 
+    "title": "2: Gallaecia", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=198665", 
     "zotero_id": null
 }

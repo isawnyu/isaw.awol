@@ -2,7 +2,7 @@
     "description": "1998 29", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:36:34.624173: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html. (walk_to_json.py)"
+        "2015-06-04T03:53:17.597185: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,18 +32,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7705375700946621781", 
             "resource_date": "2013-01-05T10:55:30.411-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:34.624768"
+            "when": "2015-06-04T03:53:17.597746"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html", 
             "resource_date": "2013-01-05T10:55:30.411-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:34.624776"
+            "when": "2015-06-04T03:53:17.597754"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1998", 
+    "title": "1998: Habis", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=633&clave_busqueda=1998", 
     "zotero_id": null
 }

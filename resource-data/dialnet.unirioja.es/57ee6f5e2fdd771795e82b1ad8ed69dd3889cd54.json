@@ -2,7 +2,7 @@
     "description": "1990 List\u00a0 of Open Access Journals in Ancient Studies", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:36:08.252941: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/11/open-access-journal-quaderns-de-difusio.html. (walk_to_json.py)"
+        "2015-06-04T03:53:00.617881: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/11/open-access-journal-quaderns-de-difusio.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -33,18 +33,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1883830925452066930", 
             "resource_date": "2010-11-06T17:41:18.935-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:08.253527"
+            "when": "2015-06-04T03:53:00.618408"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/11/open-access-journal-quaderns-de-difusio.html", 
             "resource_date": "2010-11-06T17:41:18.935-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:08.253535"
+            "when": "2015-06-04T03:53:00.618416"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1990", 
+    "title": "1990: Quaderns de difusi\u00f3 arqueol\u00f2gica", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13883&clave_busqueda=1990", 
     "zotero_id": null
 }

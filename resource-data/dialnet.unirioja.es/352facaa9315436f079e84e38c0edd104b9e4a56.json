@@ -2,7 +2,7 @@
     "description": "Historiae ISSN: 1697-5456 2011 8 2010 7 2009 6 2008 5 2007 4 2006 3 2005 2 2004 1", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:36:24.559552: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/08/open-access-journal-historiae.html. (walk_to_json.py)"
+        "2015-06-04T03:53:11.747949: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/08/open-access-journal-historiae.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
@@ -36,79 +36,79 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5899739834116650541", 
             "resource_date": "2013-02-08T12:50:18.209-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:24.560194"
+            "when": "2015-06-04T03:53:11.748513"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-historiae.html", 
             "resource_date": "2013-02-08T12:50:18.209-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:24.560202"
+            "when": "2015-06-04T03:53:11.748521"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
         {
-            "label": "2011", 
+            "label": "2011: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=8011&clave_busqueda=2011"
         }, 
         {
-            "label": "8", 
+            "label": "8: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=8011&clave_busqueda=295815"
         }, 
         {
-            "label": "2010", 
+            "label": "2010: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=8011&clave_busqueda=2010"
         }, 
         {
-            "label": "7", 
+            "label": "7: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=8011&clave_busqueda=255890"
         }, 
         {
-            "label": "2009", 
+            "label": "2009: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=8011&clave_busqueda=2009"
         }, 
         {
-            "label": "6", 
+            "label": "6: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=8011&clave_busqueda=237706"
         }, 
         {
-            "label": "2008", 
+            "label": "2008: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=8011&clave_busqueda=2008"
         }, 
         {
-            "label": "5", 
+            "label": "5: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=8011&clave_busqueda=202395"
         }, 
         {
-            "label": "2007", 
+            "label": "2007: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=8011&clave_busqueda=2007"
         }, 
         {
-            "label": "4", 
+            "label": "4: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=8011&clave_busqueda=166030"
         }, 
         {
-            "label": "2006", 
+            "label": "2006: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=8011&clave_busqueda=2006"
         }, 
         {
-            "label": "3", 
+            "label": "3: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=8011&clave_busqueda=146253"
         }, 
         {
-            "label": "2005", 
+            "label": "2005: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=8011&clave_busqueda=2005"
         }, 
         {
-            "label": "2", 
+            "label": "2: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=8011&clave_busqueda=146672"
         }, 
         {
-            "label": "2004", 
+            "label": "2004: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=8011&clave_busqueda=2004"
         }, 
         {
-            "label": "1", 
+            "label": "1: Historiae", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=8011&clave_busqueda=146670"
         }
     ], 

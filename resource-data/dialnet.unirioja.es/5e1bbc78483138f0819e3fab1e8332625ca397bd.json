@@ -2,7 +2,7 @@
     "description": "14 1999 13 1999", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:36:26.056876: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/10/open-access-journal-minerva-revista-de.html. (walk_to_json.py)"
+        "2015-06-04T03:53:12.903291: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/10/open-access-journal-minerva-revista-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -33,18 +33,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6165193776227937698", 
             "resource_date": "2013-10-20T08:43:08.339-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:26.057421"
+            "when": "2015-06-04T03:53:12.903859"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-minerva-revista-de.html", 
             "resource_date": "2013-10-20T08:43:08.339-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:26.057429"
+            "when": "2015-06-04T03:53:12.903867"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "14", 
+    "title": "14: Minerva: Revista de filolog\u00eda cl\u00e1sica", 
     "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=11485", 
     "zotero_id": null
 }

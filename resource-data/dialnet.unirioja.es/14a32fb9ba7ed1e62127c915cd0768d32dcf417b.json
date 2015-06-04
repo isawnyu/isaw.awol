@@ -2,7 +2,7 @@
     "description": "2011-2012 14-15", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:36:25.628830: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html. (walk_to_json.py)"
+        "2015-06-04T03:53:12.449010: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -29,18 +29,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6061835246856823322", 
             "resource_date": "2013-06-08T09:18:27.263-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:25.629365"
+            "when": "2015-06-04T03:53:12.449677"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html", 
             "resource_date": "2013-06-08T09:18:27.263-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:25.629372"
+            "when": "2015-06-04T03:53:12.449685"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2011-2012", 
+    "title": "2011-2012: ISIMU: Revista sobre Oriente Pro\u0301ximo y Egipto en la antigu\u0308edad", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13138&clave_busqueda=2011", 
     "zotero_id": null
 }

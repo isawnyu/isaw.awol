@@ -2,7 +2,7 @@
     "description": "2004 1", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:36:24.609947: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/08/open-access-journal-historiae.html. (walk_to_json.py)"
+        "2015-06-04T03:53:11.797393: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/08/open-access-journal-historiae.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -30,18 +30,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5899739834116650541", 
             "resource_date": "2013-02-08T12:50:18.209-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:24.610489"
+            "when": "2015-06-04T03:53:11.797933"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-historiae.html", 
             "resource_date": "2013-02-08T12:50:18.209-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:24.610497"
+            "when": "2015-06-04T03:53:11.797940"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2004", 
+    "title": "2004: Historiae", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=8011&clave_busqueda=2004", 
     "zotero_id": null
 }

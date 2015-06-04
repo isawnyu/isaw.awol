@@ -2,7 +2,7 @@
     "description": "4 , 5", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:36:37.852647: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-revista-general-de.html. (walk_to_json.py)"
+        "2015-06-04T03:53:19.702680: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-revista-general-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -30,18 +30,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8442261624361591182", 
             "resource_date": "2010-09-24T09:43:21.473-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:37.853168"
+            "when": "2015-06-04T03:53:19.703219"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-revista-general-de.html", 
             "resource_date": "2010-09-24T09:43:21.473-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:37.853176"
+            "when": "2015-06-04T03:53:19.703227"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "4", 
+    "title": "4: Revista General de Derecho Romano", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=5689&clave_busqueda=112757", 
     "zotero_id": null
 }

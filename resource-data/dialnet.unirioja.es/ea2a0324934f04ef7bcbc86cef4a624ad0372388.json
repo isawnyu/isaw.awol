@@ -2,7 +2,7 @@
     "description": "1974 5", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:36:34.781135: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html. (walk_to_json.py)"
+        "2015-06-04T03:53:17.759599: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,18 +32,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7705375700946621781", 
             "resource_date": "2013-01-05T10:55:30.411-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:34.781656"
+            "when": "2015-06-04T03:53:17.760143"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html", 
             "resource_date": "2013-01-05T10:55:30.411-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:34.781664"
+            "when": "2015-06-04T03:53:17.760151"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1974", 
+    "title": "1974: Habis", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=633&clave_busqueda=1974", 
     "zotero_id": null
 }

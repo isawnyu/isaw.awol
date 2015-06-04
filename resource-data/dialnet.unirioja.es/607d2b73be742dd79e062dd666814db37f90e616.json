@@ -2,7 +2,7 @@
     "description": "72 1995 70 71 1995", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:36:18.465817: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html. (walk_to_json.py)"
+        "2015-06-04T03:53:07.353747: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -29,18 +29,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4206419451111757327", 
             "resource_date": "2013-09-30T11:09:09.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:18.466360"
+            "when": "2015-06-04T03:53:07.354304"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html", 
             "resource_date": "2013-09-30T11:09:09.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:18.466368"
+            "when": "2015-06-04T03:53:07.354311"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "72", 
+    "title": "72: Caesaraugusta", 
     "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=553", 
     "zotero_id": null
 }
