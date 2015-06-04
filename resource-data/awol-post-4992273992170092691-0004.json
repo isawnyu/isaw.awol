@@ -1,0 +1,48 @@
+{
+    "description": "Two letters from Howard Carter to A. H. Gardiner . (March 22, 2011) An ISAD(G) entry for Charles Gordon Jelf (1886-1915) . (March 11, 2011) An ISAD(G) entry for Charles Gordon Jelf (1886-1915)", 
+    "domain": "www.griffith.ox.ac.uk", 
+    "history": [
+        "2015-06-04T03:00:40.798465: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Griffith Institute"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4992273992170092691", 
+            "resource_date": "2011-04-20T16:01:53.138-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:00:40.799170"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html", 
+            "resource_date": "2011-04-20T16:01:53.138-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:00:40.799178"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Two letters from Howard Carter to A. H. Gardiner", 
+    "url": "http://www.griffith.ox.ac.uk/gri/4two_letters.html", 
+    "zotero_id": null
+}

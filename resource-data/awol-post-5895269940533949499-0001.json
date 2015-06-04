@@ -1,23 +1,18 @@
 {
-    "description": "Concept and direction: Jaromir Malek", 
+    "description": "The watercolours and drawings by George Alexander Hoskins in the Archive of the Griffith Institute, University of Oxford Concept and direction: Jaromir Malek", 
     "domain": "www.griffith.ox.ac.uk", 
     "history": [
-        "2015-06-03T04:59:39.016123: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/new-from-griffith-institute.html. (walk_to_json.py)"
+        "2015-06-04T03:00:42.824555: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/new-from-griffith-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Egypt", 
         "Griffith Institute", 
-        "Near East", 
         "University of Oxford", 
-        "archive", 
-        "open access", 
-        "project", 
-        "travel"
+        "archive"
     ], 
     "language": [
         "en", 
-        0.99999999999938
+        1.0
     ], 
     "provenance": [
         {
@@ -29,24 +24,27 @@
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5895269940533949499", 
             "resource_date": "2012-04-26T11:44:40.410-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-03T04:59:39.016711"
+            "when": "2015-06-04T03:00:42.825141"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/new-from-griffith-institute.html", 
             "resource_date": "2012-04-26T11:44:40.410-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-03T04:59:39.016719"
+            "when": "2015-06-04T03:00:42.825149"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "watercolours and drawings by George Alexander Hoskins", 
+    "title": "The watercolours and drawings by George Alexander Hoskins in the Archive of the Griffith Institute, University of Oxford", 
     "url": "http://www.griffith.ox.ac.uk/gri/4hoskins_opening_page.html", 
     "zotero_id": null
 }

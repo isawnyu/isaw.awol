@@ -1,0 +1,48 @@
+{
+    "description": "1922-3 and 1923-4", 
+    "domain": "www.griffith.ox.ac.uk", 
+    "history": [
+        "2015-06-04T03:00:40.811997: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html. (walk_to_json.py)"
+    ], 
+    "identifiers": {}, 
+    "keywords": [
+        "Griffith Institute"
+    ], 
+    "language": [
+        "en", 
+        0.9996966732171467
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "history", 
+                "identifiers", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4992273992170092691", 
+            "resource_date": "2011-04-20T16:01:53.138-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-04T03:00:40.812573"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html", 
+            "resource_date": "2011-04-20T16:01:53.138-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-04T03:00:40.812581"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "1922-3: Howard Carter's notes on the contents of baskets found in the tomb of Tutankhamun. (March 11, 2011)", 
+    "url": "http://www.griffith.ox.ac.uk/gri/4macedia1.html", 
+    "zotero_id": null
+}
