@@ -59,6 +59,7 @@ DOMAINS_SECONDARY = [
 ]
 LANGID_THRESHOLD = 0.95
 RX_CANARY = re.compile(r'[\.,:!\"“„\;\-\s]+', re.IGNORECASE)
+RX_NUMERICISH = re.compile(r'^a?n?d?\s*[\.,:!\"“„\;\-\s\d\(\)\[\]]+$', re.IGNORECASE)
 RX_MATCH_DOMAIN = re.compile('^https?:\/\/([^/#]+)')
 RX_IDENTIFIERS = {
     'issn': {
@@ -113,7 +114,8 @@ AGGREGATORS = [
     'www.persee.fr',
     'dialnet.unirioja.es',
     'amar.hsclib.sunysb.edu',
-    'hrcak.srce.hr'
+    'hrcak.srce.hr',
+    'www.griffith.ox.ac.uk'
 ]
 AGGREGATOR_IGNORE = [
     'http://www.jstor.org/page/info/about/archives/collections.jsp',
@@ -235,11 +237,47 @@ RX_DASHES = re.compile(r'[‒–—-]+')
 
 
 def clean_title(raw):
-    cooked = normalize_space(raw)
-    brackets = u'"\'()[]{}/<>.,;:\|-_=+*&^%$#@!`~?'
-    for b in list(brackets):
-        cooked = cooked[1:] if cooked[0] == b else cooked
-        cooked = cooked[:-1] if cooked[-1] == b else cooked
+    prepped = normalize_space(raw)
+    chopped = prepped.split(u'.')
+    if len(chopped) > 2:
+        cooked = u'.'.join(tuple(chopped[:2]))
+        i = 2
+        while i < len(chopped) and len(cooked) < 40:
+            cooked = cooked + u'.' + chopped[i]
+            i = i + 1
+    else:
+        cooked = prepped
+    junk = [
+        (u'(', u')'),
+        (u'[', u']'),
+        (u'{', u'}'),
+        (u'"', u'"'),
+        (u"'", u"'"),
+        (u'<', u'>'),
+        (u'«', u'»'),
+        (u'‘', u'’'),
+        (u'‚', u'‛'),
+        (u'“', u'”'),
+        (u'‟', u'„'),
+        (u'‹', u'›'),
+        (u'〟', u'＂'),
+        (u'\\'),
+        (u'/'),
+        (u'|'),
+        (u','),
+        (u';'),
+        (u'-'),
+        (u'.'),
+        (u'_'),
+    ]
+    for j in junk:
+        if len(j) == 2:
+            cooked = cooked[1:-1] if cooked[0] == j[0] and cooked[-1] == j[1] else cooked
+        else:
+            cooked = cooked[1:] if cooked[0] == j[0] else cooked
+            cooked = cooked[:-1] if cooked[-1] == j[0] else cooked
+        if cooked[0:4] == u'and ':
+            cooked = cooked[4:]
         cooked = cooked.strip()
     return cooked
 
@@ -293,7 +331,7 @@ class AwolArticle(Article):
             if d not in DOMAINS_TO_IGNORE 
             and d not in DOMAINS_SECONDARY]
         ################# TESTING
-        dump_domains = [u'hrcak.srce.hr',]
+        dump_domains = [u'www.griffith.ox.ac.uk',]
         if len(domains) > 1:
             return None
         if len(domains) == 1 and len(unique_urls) <= 1:
@@ -326,7 +364,22 @@ class AwolArticle(Article):
             force_subordinate = None
             prev_superior = None
             for a in [a for a in anchors if domains[0] in a.get('href') and a.get('href') not in AGGREGATOR_IGNORE and a.get_text().strip() != u'']:
-                anchor_text = normalize_space(a.get_text())
+                parents = a.find_parents('li')
+                if len(parents) > 0 and len(parents[0].find_all('a')) == 1:
+                    anchor_text = parents[0].get_text()
+                else:
+                    parents = a.find_parents('span')
+                    i = 0
+                    while i < len(parents):
+                        if len(parents[i].find_all('a')) > 1:
+                            break
+                        i = i+1
+                    i = i - 1
+                    if i > -1:
+                        anchor_text = parents[i].get_text()
+                    else:
+                        anchor_text = a.get_text()
+                anchor_text = normalize_space(anchor_text)
                 anchor_text_lower = anchor_text.lower()
                 anchor_href = normalize_space(a.get('href'))
 
@@ -376,18 +429,6 @@ class AwolArticle(Article):
                         'url': anchor_href,
                         'label': anchor_text
                         })
-                elif anchor_text_lower[:5] == u'vol. ' or anchor_text_lower[:4] == u'no. ':
-                    if prev_superior is not None:
-                        pass
-                    else:
-                        prev_superior = resources[-2]
-                    if prev_superior.url != anchor_href:
-                        if dump_it:
-                            print u'              subordinate to "{0}" ({1})'.format(prev_superior.title, prev_superior.url)
-                        prev_superior.subordinate_resources.append({
-                            'url': anchor_href,
-                            'label': anchor_text
-                            })
                 elif force_related is not None:
                     if force_related.url != anchor_href:
                         if dump_it:
@@ -404,6 +445,26 @@ class AwolArticle(Article):
                             'url': anchor_href,
                             'label': anchor_text
                             })
+                else:
+                    m = RX_NUMERICISH.match(anchor_text_lower)
+                    if (anchor_text_lower[:5] == u'vol. ' 
+                        or anchor_text_lower[:4] == u'no. '
+                        or anchor_text_lower[:7] == u'volume '
+                        or m is not None):
+                        if prev_superior is not None:
+                            pass
+                        else:
+                            prev_superior = resources[-2]
+                        if prev_superior.url != anchor_href:
+                            resource.title = u': '.join((resource.title, prev_superior.title))
+                            if dump_it:
+                                print u'              title changed to {0}'.format(resource.title)
+                            prev_superior.subordinate_resources.append({
+                                'url': anchor_href,
+                                'label': resource.title
+                                })
+                            if dump_it:
+                                print u'              subordinate to "{0}" ({1})'.format(prev_superior.title, prev_superior.url)
 
                 # detect conditions that will force treatment of subsequent anchors as
                 # subordinate or related resources
