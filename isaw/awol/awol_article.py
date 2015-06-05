@@ -154,7 +154,9 @@ FORCE_AS_SUBORDINATE_AFTER = [
     'https://oi.uchicago.edu/research/pubs/catalog/oip/',
     'oriental institute news & notes',
     'http://amar.hsclib.sunysb.edu/amar/',
-    'http://www.persee.fr/web/revues/home/prescript/issue/litt_0047-4800_2001_num_122_2'
+    'http://www.persee.fr/web/revues/home/prescript/issue/litt_0047-4800_2001_num_122_2',
+    'http://oi.uchicago.edu/research/pubs/nn/',
+    'http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html'
 ]
 RELATED_FLAGS = [
     'list of volumes in print',
@@ -242,7 +244,11 @@ class AwolArticle(Article):
             return None
         resources = []
 
-        title = self.title
+        try:
+            title = self.title
+        except AttributeError:
+            logger.debug('post ignored: no post title')
+            return resources
         colon_prefix = title.split(u':')[0].lower()
         if colon_prefix in COLON_PREFIXES.keys() and (COLON_PREFIXES[colon_prefix])[0] == 'yes':
             logger.debug('post ignored: title prefix "{0}" found in COLON_PREFIXES with omit=yes'.format(colon_prefix))
@@ -273,15 +279,15 @@ class AwolArticle(Article):
             if d not in DOMAINS_TO_IGNORE 
             and d not in DOMAINS_SECONDARY]
         ################# TESTING
-        dump_domains = [u'oi.uchicago.edu',]
-        if len(domains) > 1:
-            return None
-        if len(domains) == 1 and len(unique_urls) <= 1:
-            return None
-        if len(domains) == 0:
-            return None
-        if domains[0] not in dump_domains:
-            return None
+        dump_domains = []
+        #if len(domains) > 1:
+        #    return None
+        #if len(domains) == 1 and len(unique_urls) <= 1:
+        #    return None
+        #if len(domains) == 0:
+        #    return None
+        #if domains[0] not in dump_domains:
+        #    return None
         ################# TESTING
         if len(domains) == 1 and len(unique_urls) > 1 and domains[0] in AGGREGATORS:
             # this article is about an aggregator: parse for multiple resources

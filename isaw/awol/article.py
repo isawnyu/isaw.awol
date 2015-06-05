@@ -12,8 +12,9 @@ import logging
 import pprint
 import re
 import sys
+import unicodedata
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, UnicodeDammit
 from lxml import etree as exml
 
 from isaw.awol.normalize_space import normalize_space
@@ -48,18 +49,30 @@ class Article():
             self.root = self.doc.getroot()
             root = self.root
             self.id = root.find('{http://www.w3.org/2005/Atom}id').text.strip()
-            self.title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text).strip()
+            raw_title = root.find('{http://www.w3.org/2005/Atom}title').text
             try:
-                self.url = unicode(root.xpath("//*[local-name()='link' and @rel='alternate']")[0].get('href'))
+                self.title = normalize_space(unicodedata.normalize('NFC', UnicodeDammit(raw_title).unicode_markup))
+            except TypeError:
+                logger.warning('could not extract blog post title: {0}'.format(self.id))
+            try:
+                raw_url = root.xpath("//*[local-name()='link' and @rel='alternate']")[0].get('href')
             except IndexError:
                 logger.warning('could not extract blog post URL: {0}'.format(self.id))
+            else:
+                try:
+                    self.url = unicodedata.normalize('NFC', UnicodeDammit(raw_url).unicode_markup)
+                except TypeError:
+                    logger.warning('could not extract blog post URL: {0}'.format(self.id))
             self.categories = [{'vocabulary' : c.get('scheme'), 'term' : c.get('term')} for c in root.findall('{http://www.w3.org/2005/Atom}category')]
-            content = root.find('{http://www.w3.org/2005/Atom}content').text
-            if content is None:
+            raw_content = root.find('{http://www.w3.org/2005/Atom}content').text
+            try:
+                content = normalize_space(unicodedata.normalize('NFC', UnicodeDammit(raw_content).unicode_markup))
+            except TypeError:
+                content = None
                 logger.warning('could not extract content')
             else:
-                self.content = normalize_space(root.find('{http://www.w3.org/2005/Atom}content').text)
-                self.soup = BeautifulSoup(self.content)
+                self.content = content
+                self.soup = BeautifulSoup(content)
         elif json_file_name is not None:
             # todo
             emsg = 'Article constructor does not yet support JSON.'
