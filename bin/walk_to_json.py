@@ -44,6 +44,7 @@ def main (args):
     dest_dir = args.thence[0]
     walk_count = 0
     resources = None
+    index = {}
     for dir_name, sub_dir_list, file_list in os.walk(root_dir):
         if resources is not None:
             del resources
@@ -99,12 +100,74 @@ def main (args):
                             logger.debug('filename: {0}'.format(filename))
                             this_path = os.path.join(this_dir, filename)
                             r.json_dump(this_path, formatted=True)
+                            try:
+                                domain_index = index[r.domain]
+                            except KeyError:
+                                domain_index = index[r.domain] = {}
+                            try:
+                                resource_title = r.extended_title
+                            except AttributeError:
+                                resource_title = r.title
+                            resource_key = resource_title.replace(u' ', u'-').lower()
+                            resource_package = {
+                                'title_full': resource_title,
+                                'url': r.url,
+                                'sha1': this_hash,
+                            }
+                            if resource_title != r.title:
+                                resource_package['title'] = r.title
+                            try:
+                                resource_list = domain_index[resource_key]
+                            except KeyError:
+                                resource_list = domain_index[resource_key] = []
+                            resource_list.append(resource_package)
+                            if len(resource_list) > 1:
+                                logger.info(u'resource key collision (count={0}): "{1}"'.format(len(resource_list), resource_key))
             else:
                 logger.debug('skipping {0}'.format(file_name))
         for ignore_dir in ['.git', '.svn', '.hg']:
             if ignore_dir in sub_dir_list:
                 sub_dir_list.remove(ignore_dir)
 
+    logger.info('sorting domain list')
+    domain_list = sorted(index.keys())
+    domain_count = len(domain_list)
+    resource_count = 0
+    record_count = 0
+    max_collisions = 0
+    total_collisions = 0
+    redundant_resources = 0
+    logger.info("FULL INDEX OF RESOURCES")
+    logger.info("=======================")
+    for domain in domain_list:
+        logger.info(domain)
+        i = 0
+        dash = ''
+        while i < len(domain):
+            dash = dash+'-'
+            i = i+1
+        logger.info(dash)
+        logger.info('sorting resource list for domain {0}'.format(domain))
+        resource_list = sorted(index[domain].keys())
+        logger.info('{0} unique resources in this domain'.format(len(resource_list)))
+        resource_count = resource_count + len(resource_list)
+        for resource_key in resource_list:
+            resources = index[domain][resource_key]
+            logger.info(u'    {0}'.format(resources[0]['title_full']))
+            record_count = record_count + len(resources)
+            if len(resources) > 1:
+                logger.info ('        multiple records: {0}'.format(len(resources)))
+                total_collisions = total_collisions + len(resources)
+                redundant_resources = redundant_resources + 1
+                if len(resources) > max_collisions:
+                    max_collisions = len(resources)
+    logger.info("=======================")
+    logger.info("Total {0} domains".format(domain_count))
+    logger.info("Total {0} unique resources recorded".format(resource_count))
+    logger.info("Total number of records: {0}".format(record_count))
+    logger.info("Highest number of redundancies (collisions): {0}".format(max_collisions))
+    logger.info("Total number of redundant records: {0}".format(total_collisions))
+    logger.info("Percentage of redundantly recorded resources: {0:.2f}".format(round(float(redundant_resources)/float(resource_count)*100.0),2))
 if __name__ == "__main__":
     log_level = DEFAULTLOGLEVEL
     log_level_name = logging.getLevelName(log_level)
