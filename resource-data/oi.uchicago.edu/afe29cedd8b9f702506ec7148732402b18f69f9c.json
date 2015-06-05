@@ -1,14 +1,13 @@
 {
-    "description": "SAOC 49. A Critical Study of the Temple Scroll from Qumran Cave 11. M. O. Wise. 1990. SAOC 50. Subsistence, Trade, and Social Change in Early Bronze Age Palestine. D. L. Esse. 1991.", 
+    "description": "SAOC 49. A Critical Study of the Temple Scroll from Qumran Cave 11. M. O. Wise. 1990.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:37.544408: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+        "2015-06-05T03:50:28.685645: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Oriental Institute", 
-        "backlist", 
-        "bronze"
+        "backlist"
     ], 
     "language": [
         "en", 
@@ -33,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8365232251359351016", 
             "resource_date": "2012-11-23T07:14:32.413-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:37.544969"
+            "when": "2015-06-05T03:50:28.686227"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html", 
             "resource_date": "2012-11-23T07:14:32.413-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:37.544976"
+            "when": "2015-06-05T03:50:28.686234"
         }
     ], 
     "related_resources": [], 

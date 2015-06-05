@@ -1,8 +1,8 @@
 {
-    "description": "Larsa (8e\u0300me et 9e\u0300me campagnes, 1978 et 1981) et \u02bcOueili (2e\u0300me et 3e\u0300me campagnes, 1978 et 1981): rapport pre\u0301liminaire 1983 OK", 
+    "description": "Larsa (8e\u0300me et 9e\u0300me campagnes, 1978 et 1981) et \u02bcOueili (2e\u0300me et 3e\u0300me campagnes, 1978 et 1981): rapport pre\u0301liminaire", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:15.984275: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/larsa-reports-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:08.194155: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/larsa-reports-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -14,7 +14,7 @@
     ], 
     "language": [
         "fr", 
-        0.9999999999987992
+        0.9999999999804516
     ], 
     "provenance": [
         {
@@ -35,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3783077536232104276", 
             "resource_date": "2012-03-02T16:39:07.355-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:15.984899"
+            "when": "2015-06-05T03:50:08.194720"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/larsa-reports-in-amar.html", 
             "resource_date": "2012-03-02T16:39:07.355-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:15.984907"
+            "when": "2015-06-05T03:50:08.194728"
         }
     ], 
     "related_resources": [], 

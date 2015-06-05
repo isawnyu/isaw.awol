@@ -1,20 +1,16 @@
 {
-    "description": "[ 161 ] List of Open Access Journals in Ancient Studies", 
+    "description": "2005 : [ 161 ] 2005 : [ 161 ] 2005 : [ 161 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:28.800370: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html. (walk_to_json.py)"
+        "2015-06-05T03:50:04.261316: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "antiquity", 
         "journal", 
         "numismatics", 
         "open access"
     ], 
-    "language": [
-        "en", 
-        0.9999916766867696
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -28,24 +24,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2809080792372293247", 
             "resource_date": "2012-07-09T11:33:23.311-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:28.800913"
+            "when": "2015-06-05T03:50:04.261959"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html", 
             "resource_date": "2012-07-09T11:33:23.311-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:28.800920"
+            "when": "2015-06-05T03:50:04.261968"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2005 : [ 161 ]: Revue Numismatique", 
+    "title": "161", 
+    "title_extended": "Revue Numismatique: 161", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2005_num_6_161", 
     "zotero_id": null
 }

@@ -1,24 +1,15 @@
 {
-    "description": "Arion (Arts & Sciences V) Release Content: Third Series, Vol. 13, Nos. 1-2 (Spring/Summer \u2013 Fall, 2005) Moving Wall: 3 years Publisher: Trustees of Boston University ISSN: 0095-5809", 
+    "description": "Arion (Arts & Sciences V) Arion (Arts & Sciences V) Arion", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:11.559269: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-05T03:50:03.787962: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
-    "identifiers": {
-        "issn": {
-            "generic": [
-                "0095-5809"
-            ]
-        }
-    }, 
+    "identifiers": {}, 
     "keywords": [
         "JSTOR", 
         "antiquity"
     ], 
-    "language": [
-        "en", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -38,18 +29,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2756486521717468641", 
             "resource_date": "2009-11-23T12:19:45.104-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:11.559792"
+            "when": "2015-06-05T03:50:03.788997"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2009-11-23T12:19:45.104-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:11.559799"
+            "when": "2015-06-05T03:50:03.789010"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Arion (Arts & Sciences V)", 
+    "title": "Arion", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=arion", 
     "zotero_id": null
 }

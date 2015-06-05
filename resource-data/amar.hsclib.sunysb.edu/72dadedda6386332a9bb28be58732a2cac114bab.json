@@ -1,8 +1,8 @@
 {
-    "description": "Mission arche\u0301ologique de Mari. V. II: le palais. Pt. 1: architecture Parrot, Andre, 1901-1980 1958 OK", 
+    "description": "Mission arche\u0301ologique de Mari. V. II: le palais. Pt. 1: architecture", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:21.390491: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/mission-archeologique-de-mari-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:13.285587: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/mission-archeologique-de-mari-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -35,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-492969630572444609", 
             "resource_date": "2012-03-02T16:41:33.535-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:21.391017"
+            "when": "2015-06-05T03:50:13.286119"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/mission-archeologique-de-mari-in-amar.html", 
             "resource_date": "2012-03-02T16:41:33.535-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:21.391024"
+            "when": "2015-06-05T03:50:13.286126"
         }
     ], 
     "related_resources": [], 

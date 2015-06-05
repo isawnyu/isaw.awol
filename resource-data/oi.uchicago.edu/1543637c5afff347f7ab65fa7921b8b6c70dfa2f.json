@@ -1,8 +1,8 @@
 {
-    "description": "\"Two Queens of Baghdad: Mother and Wife of Harun al-Rashid. Nabia Abbott. Originally published in 1946.\" \"The Problem of Ezekiel: An Inductive Study. William A. Irwin. Originally published in 1943.\"", 
+    "description": "\"Two Queens of Baghdad: Mother and Wife of Harun al-Rashid. Nabia Abbott. Originally published in 1946.\"", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:29.494116: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+        "2015-06-05T03:50:21.076176: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6825955092996191354", 
             "resource_date": "2013-01-15T05:42:26.919-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:29.494640"
+            "when": "2015-06-05T03:50:21.076707"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/newly-online-from-oriental-institutes.html", 
             "resource_date": "2013-01-15T05:42:26.919-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:29.494647"
+            "when": "2015-06-05T03:50:21.076714"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\"Two Queens of Baghdad: Mother and Wife of Harun al-Rashid. Nabia Abbott", 
+    "title_extended": "\"Changing Watercourses in Babylonia: Towards a Reconstruction of the Ancient Environment in Lower Mesopotamia Volume 1. Hermann Gasche and Michel Tanret, editors: \"Two Queens of Baghdad: Mother and Wife of Harun al-Rashid. Nabia Abbott", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/misc/two_queens_baghdad.html", 
     "zotero_id": null
 }

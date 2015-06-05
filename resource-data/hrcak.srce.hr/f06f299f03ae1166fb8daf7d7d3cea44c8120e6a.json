@@ -1,8 +1,8 @@
 {
-    "description": "No. 6-7-8 1955 No. 4-5", 
+    "description": "No. 6-7-8", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:25.458056: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/open-access-journal-slovo.html. (walk_to_json.py)"
+        "2015-06-05T03:50:17.074362: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/open-access-journal-slovo.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -24,24 +24,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6042182322265679896", 
             "resource_date": "2013-05-19T08:14:18.048-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:25.458598"
+            "when": "2015-06-05T03:50:17.074878"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/open-access-journal-slovo.html", 
             "resource_date": "2013-05-19T08:14:18.048-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:25.458606"
+            "when": "2015-06-05T03:50:17.074885"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "No. 6-7-8: Slovo: Journal of the Old Church Slavonic Institute", 
+    "title": "No. 6-7-8", 
+    "title_extended": "Slovo: Journal of the Old Church Slavonic Institute: No. 6-7-8", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1332", 
     "zotero_id": null
 }

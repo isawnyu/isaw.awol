@@ -2,7 +2,7 @@
     "description": "The Oriental Institute Archaeological Newsletter From the 1950s to early 1973 (Oct 15, 1950-Mar 11, 1973) the Oriental Institute issued these archaeological newsletters to members and friends. The newsletters were written mostly by Oriental Institute faculty and researchers about their travels and work at more than thirty sites in the Middle East. Issued infrequently, in 1973 Director John A. Brinkman initiated an expanded newsletter, News & Notes , that continued the field reports and included other news from the Institute. Archeological Newsletters: Oct. 15 1950 - Mar. 11, 1973", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:14.622630: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/10/open-access-journal-oriental-institute.html. (walk_to_json.py)"
+        "2015-06-05T03:50:06.858495: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/10/open-access-journal-oriental-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -37,23 +37,19 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3325074711412428013", 
             "resource_date": "2013-11-03T08:06:59.206-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:14.623260"
+            "when": "2015-06-05T03:50:06.859102"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-oriental-institute.html", 
             "resource_date": "2013-11-03T08:06:59.206-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:14.623268"
+            "when": "2015-06-05T03:50:06.859110"
         }
     ], 
     "related_resources": [
         {
-            "label": "From the 1950s to early 1973 (Oct 15, 1950-Mar 11, 1973) the Oriental Institute issued these archaeological newsletters to members and friends. The newsletters were written mostly by Oriental Institute faculty and researchers about their travels and work at more than thirty sites in the Middle East. Issued infrequently, in 1973 Director John A. Brinkman initiated an expanded newsletter, News & Notes, that continued the field reports and included other news from the Institute.", 
+            "label": "News & Notes", 
             "url": "http://oi.uchicago.edu/research/pubs/nn/"
-        }, 
-        {
-            "label": "Archeological Newsletters: Oct. 15 1950 - Mar. 11, 1973", 
-            "url": "https://oi.uchicago.edu/pdf/Archeological_Newsletters.pdf"
         }
     ], 
     "subordinate_resources": [], 

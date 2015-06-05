@@ -1,19 +1,15 @@
 {
-    "description": "39-40 See the full List of Open Access Journals in Ancient Studies See the full List of Open Access Journals in Ancient Studies", 
+    "description": "39-40", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:07.439355: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html. (walk_to_json.py)"
+        "2015-06-05T03:50:10.661605: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "antiquity", 
         "journal", 
         "open access"
     ], 
-    "language": [
-        "en", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -27,24 +23,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4206419451111757327", 
             "resource_date": "2013-09-30T11:09:09.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:07.439928"
+            "when": "2015-06-05T03:50:10.662128"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html", 
             "resource_date": "2013-09-30T11:09:09.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:07.439935"
+            "when": "2015-06-05T03:50:10.662136"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "39-40: Caesaraugusta", 
+    "title": "39-40", 
+    "title_extended": "Caesaraugusta: 39-40", 
     "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=129395", 
     "zotero_id": null
 }

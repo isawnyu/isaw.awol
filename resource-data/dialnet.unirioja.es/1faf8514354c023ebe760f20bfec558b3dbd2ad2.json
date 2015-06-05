@@ -1,8 +1,8 @@
 {
-    "description": "2007 10", 
+    "description": "2007", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:12.456131: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html. (walk_to_json.py)"
+        "2015-06-05T03:50:17.213208: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -23,24 +23,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6061835246856823322", 
             "resource_date": "2013-06-08T09:18:27.263-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:12.456693"
+            "when": "2015-06-05T03:50:17.213731"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html", 
             "resource_date": "2013-06-08T09:18:27.263-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:12.456701"
+            "when": "2015-06-05T03:50:17.213738"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2007: ISIMU: Revista sobre Oriente Pro\u0301ximo y Egipto en la antigu\u0308edad", 
+    "title": "2007", 
+    "title_extended": "ISIMU: Revista sobre Oriente Pro\u0301ximo y Egipto en la antigu\u0308edad: 2007", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13138&clave_busqueda=2007", 
     "zotero_id": null
 }

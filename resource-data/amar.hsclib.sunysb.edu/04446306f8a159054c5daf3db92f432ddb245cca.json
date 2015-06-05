@@ -1,8 +1,8 @@
 {
-    "description": "Isin - Isan Bahriyat 3: die Ergebnisse der Ausgrabungen 1983-1984 1987 OK See more Series in AMAR", 
+    "description": "Isin - Isan Bahriyat 3: die Ergebnisse der Ausgrabungen 1983-1984", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:07.483533: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/isin-isan-bahriyat-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:49:59.485636: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/isin-isan-bahriyat-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -10,8 +10,7 @@
         "Iraq", 
         "Isis", 
         "archaeology", 
-        "religion", 
-        "series"
+        "religion"
     ], 
     "language": [
         "de", 
@@ -36,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1640575574774770026", 
             "resource_date": "2012-03-02T16:37:33.042-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:07.484056"
+            "when": "2015-06-05T03:49:59.486234"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/isin-isan-bahriyat-in-amar.html", 
             "resource_date": "2012-03-02T16:37:33.042-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:07.484064"
+            "when": "2015-06-05T03:49:59.486242"
         }
     ], 
     "related_resources": [], 

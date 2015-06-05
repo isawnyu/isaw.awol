@@ -1,8 +1,8 @@
 {
-    "description": "Vol. XXI No. 3-4 Vol. XXI No. 3-4 Vol. XXI No. 1-2 Vol. XXI No. 1-2 Vol. XXI No. 1-2 Vol. XXI No. 1-2", 
+    "description": "Vol. XXI No. 3-4 Vol. XXI No. 3-4", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:28.597025: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-klesarstvo-i.html. (walk_to_json.py)"
+        "2015-06-05T03:50:20.206459: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-klesarstvo-i.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -23,24 +23,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6597661854229069270", 
             "resource_date": "2012-05-16T09:51:32.436-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:28.597613"
+            "when": "2015-06-05T03:50:20.207071"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-klesarstvo-i.html", 
             "resource_date": "2012-05-16T09:51:32.436-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:28.597621"
+            "when": "2015-06-05T03:50:20.207079"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Vol. XXI \u00a0 No. 3-4: Klesarstvo i graditeljstvo - Building and Stone-masonry", 
+    "title": "Vol. XXI \u00a0 No. 3-4", 
+    "title_extended": "Klesarstvo i graditeljstvo - Building and Stone-masonry: Vol. XXI \u00a0 No. 3-4", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=5093", 
     "zotero_id": null
 }

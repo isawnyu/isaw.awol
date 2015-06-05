@@ -1,8 +1,8 @@
 {
-    "description": "Summaries of articles [Abstract]", 
+    "description": "Summaries of articles [Abstract] Summaries of articles", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:39.842667: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
+        "2015-06-05T03:50:18.499663: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -11,7 +11,7 @@
     ], 
     "language": [
         "en", 
-        0.9999999999994302
+        1.0
     ], 
     "provenance": [
         {
@@ -32,18 +32,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
             "resource_date": "2012-08-03T09:39:09.216-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:39.843222"
+            "when": "2015-06-05T03:50:18.500203"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
             "resource_date": "2012-08-03T09:39:09.216-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:39.843230"
+            "when": "2015-06-05T03:50:18.500210"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Summaries of articles [Abstract]", 
+    "title": "Summaries of articles", 
     "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2001_num_122_2_1737", 
     "zotero_id": null
 }

@@ -1,8 +1,8 @@
 {
-    "description": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 9 Deutsches Archa\u0308ologisches Institut S\u0323ana\u0304 2002 OK", 
+    "description": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 9", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:40.751117: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html. (walk_to_json.py)"
+        "2015-06-05T03:50:31.641958: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -12,7 +12,7 @@
     ], 
     "language": [
         "de", 
-        0.9999999999999092
+        0.9999999999999156
     ], 
     "provenance": [
         {
@@ -33,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9016964047355295590", 
             "resource_date": "2012-03-02T16:39:52.240-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:40.751637"
+            "when": "2015-06-05T03:50:31.642474"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html", 
             "resource_date": "2012-03-02T16:39:52.240-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:40.751644"
+            "when": "2015-06-05T03:50:31.642481"
         }
     ], 
     "related_resources": [], 

@@ -1,8 +1,8 @@
 {
-    "description": "Ausgrabungen der Deutschen Orient-Gesellschaft in Babylon VIII: Das Babylon der Spa\u0308tzeit Wetzel, Friedrich 1957 See more Series in AMAR", 
+    "description": "Ausgrabungen der Deutschen Orient-Gesellschaft in Babylon VIII: Das Babylon der Spa\u0308tzeit", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:33.907609: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-der-deutschen-orient.html. (walk_to_json.py)"
+        "2015-06-05T03:50:25.357213: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-der-deutschen-orient.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -10,8 +10,7 @@
         "Babylon", 
         "Iraq", 
         "Mesopotamia", 
-        "archaeology", 
-        "series"
+        "archaeology"
     ], 
     "language": [
         "de", 
@@ -36,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7604339822458723814", 
             "resource_date": "2012-03-02T16:42:06.738-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:33.908224"
+            "when": "2015-06-05T03:50:25.357880"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-der-deutschen-orient.html", 
             "resource_date": "2012-03-02T16:42:06.738-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:33.908232"
+            "when": "2015-06-05T03:50:25.357891"
         }
     ], 
     "related_resources": [], 

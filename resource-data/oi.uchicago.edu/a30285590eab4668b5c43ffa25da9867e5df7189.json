@@ -1,8 +1,8 @@
 {
-    "description": "Ayla: Art and Industry in the Islamic Port of Aqaba. D. Whitcomb. 1994. In the next few day I will incorporate these titles into the list of all Oriental Institute publications available online: The Oriental Institute Open Access Publications", 
+    "description": "Ayla: Art and Industry in the Islamic Port of Aqaba. D. Whitcomb. 1994.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:37.559381: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+        "2015-06-05T03:50:28.699902: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -11,7 +11,6 @@
         "art", 
         "backlist", 
         "industry", 
-        "open access", 
         "religion"
     ], 
     "language": [
@@ -37,13 +36,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8365232251359351016", 
             "resource_date": "2012-11-23T07:14:32.413-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:37.559944"
+            "when": "2015-06-05T03:50:28.700499"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html", 
             "resource_date": "2012-11-23T07:14:32.413-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:37.559952"
+            "when": "2015-06-05T03:50:28.700507"
         }
     ], 
     "related_resources": [], 

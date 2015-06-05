@@ -1,8 +1,8 @@
 {
-    "description": "OINE 2. Ausgrabungen von Khor-Dehmit bis Bet El-Wali. H. Ricke. Originally published in 1967. OIP 106. The Great Hypostyle Hall at Karnak, Volume 1, Part 1: The Wall Reliefs. By Harold Hayden Nelson. Edited by William J. Murnane. Originally published in 1981", 
+    "description": "OINE 2. Ausgrabungen von Khor-Dehmit bis Bet El-Wali. H. Ricke. Originally published in 1967.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:29.180287: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/06/eleven-additional-books-from-oriental.html. (walk_to_json.py)"
+        "2015-06-05T03:50:20.772881: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/06/eleven-additional-books-from-oriental.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -11,8 +11,8 @@
         "open access"
     ], 
     "language": [
-        "en", 
-        0.9999999999999856
+        "de", 
+        1.0
     ], 
     "provenance": [
         {
@@ -33,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-673709284168022240", 
             "resource_date": "2009-06-26T13:21:14.172-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:29.180861"
+            "when": "2015-06-05T03:50:20.773441"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/06/eleven-additional-books-from-oriental.html", 
             "resource_date": "2009-06-26T13:21:14.172-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:29.180869"
+            "when": "2015-06-05T03:50:20.773448"
         }
     ], 
     "related_resources": [], 

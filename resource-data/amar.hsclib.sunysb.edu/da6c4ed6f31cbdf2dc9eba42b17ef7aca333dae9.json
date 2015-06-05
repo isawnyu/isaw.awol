@@ -1,8 +1,8 @@
 {
-    "description": "Ugaritica. VII Schaeffer, Claude F.-A. (Claude Fre\u0301de\u0301ric-Armand), 1898-1982 See more Series in AMAR", 
+    "description": "Ugaritica. VII", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:20.254790: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:12.305396: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -10,8 +10,7 @@
         "Ras Shamra", 
         "Syria", 
         "Ugarit", 
-        "archaeology", 
-        "series"
+        "archaeology"
     ], 
     "language": null, 
     "provenance": [
@@ -33,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4717975320200967161", 
             "resource_date": "2012-03-02T16:45:40.809-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:20.255329"
+            "when": "2015-06-05T03:50:12.305922"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html", 
             "resource_date": "2012-03-02T16:45:40.809-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:20.255337"
+            "when": "2015-06-05T03:50:12.305929"
         }
     ], 
     "related_resources": [], 

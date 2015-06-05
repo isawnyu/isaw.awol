@@ -2,7 +2,7 @@
     "description": "2008, and 2009 and 2009", 
     "domain": "www.griffith.ox.ac.uk", 
     "history": [
-        "2015-06-04T03:36:41.062450: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/topographical-bibliography-of-ancient.html. (walk_to_json.py)"
+        "2015-06-05T03:50:31.982734: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/topographical-bibliography-of-ancient.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -28,24 +28,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9116220403534355854", 
             "resource_date": "2013-02-07T10:52:11.094-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:41.063056"
+            "when": "2015-06-05T03:50:31.983343"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/topographical-bibliography-of-ancient.html", 
             "resource_date": "2013-02-07T10:52:11.094-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:41.063064"
+            "when": "2015-06-05T03:50:31.983351"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2008: Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Statues, Reliefs, and Paintings", 
+    "title": "2008", 
+    "title_extended": "Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Statues, Reliefs, and Paintings: 2008", 
     "url": "http://www.griffith.ox.ac.uk/gri/3rep08.pdf", 
     "zotero_id": null
 }

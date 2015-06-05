@@ -1,13 +1,12 @@
 {
-    "description": "The Review of Senj ISSN:0582-673X The Yearbook of the Vara\u017edin City Museum ISSN:0351-7926 The Yearbook of the Vara\u017edin City Museum", 
+    "description": "The Review of Senj ISSN:0582-673X The Review of Senj", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:21.570165: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
+        "2015-06-05T03:50:13.421550: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
             "generic": [
-                "0351-7926", 
                 "0582-673X"
             ]
         }
@@ -18,12 +17,11 @@
         "Croatian", 
         "archaeology", 
         "journal", 
-        "museums", 
         "open access"
     ], 
     "language": [
         "en", 
-        1.0
+        0.9999999999999969
     ], 
     "provenance": [
         {
@@ -38,24 +36,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:21.570721"
+            "when": "2015-06-05T03:50:13.422124"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:21.570729"
+            "when": "2015-06-05T03:50:13.422133"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "The Review of Senj ISSN:0582-673X", 
+    "title": "The Review of Senj", 
+    "title_extended": "Hrcak: Portal of scientific journals of Croatia: The Review of Senj", 
     "url": "http://hrcak.srce.hr/senjski-zbornik", 
     "zotero_id": null
 }

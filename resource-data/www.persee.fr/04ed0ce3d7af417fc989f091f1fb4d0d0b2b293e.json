@@ -1,8 +1,8 @@
 {
-    "description": "Publications de l'\u00c9cole Fran\u00e7aise de Rome L\u2019\u00c9cole fran\u00e7aise de Rome est un \u00e9tablissement public de recherche et de formation \u00e0 la recherche sous tutelle du minist\u00e8re charg\u00e9 de l\u2019enseignement sup\u00e9rieur et de la recherche. Con\u00e7ue d\u2019abord comme relais romain de l\u2019\u00c9cole fran\u00e7aise d\u2019Ath\u00e8nes (1873), puis comme \u00c9cole d\u2019arch\u00e9ologie (1874), elle est fond\u00e9e en 1875 et occupe le Palais Farn\u00e8se, partag\u00e9 depuis avec l\u2019Ambassade de France en Italie.", 
+    "description": "Publications de l'\u00c9cole Fran\u00e7aise de Rome", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:27.342025: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
+        "2015-06-05T03:50:01.927704: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -14,7 +14,7 @@
     ], 
     "language": [
         "fr", 
-        1.0
+        0.9999996117049197
     ], 
     "provenance": [
         {
@@ -35,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2013-04-12T11:22:30.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:27.342570"
+            "when": "2015-06-05T03:50:01.928323"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2013-04-12T11:22:30.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:27.342578"
+            "when": "2015-06-05T03:50:01.928331"
         }
     ], 
     "related_resources": [], 

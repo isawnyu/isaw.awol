@@ -1,19 +1,17 @@
 {
-    "description": "Egypt is now online: The Oriental Institute Publications Office announces the Adobe Portable Document Format (PDF) publication of: OIP 136. Medinet Habu IX. The Eighteenth Dynasty Temple, Part I: The Inner Sanctuaries. With Translations of Texts, Commentary, and Glossary. By The Epigraphic Survey. 2009.", 
+    "description": "Egypt is now online:", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:30.107059: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html. (walk_to_json.py)"
+        "2015-06-05T03:50:21.586756: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Egypt", 
-        "Oriental Institute", 
-        "document", 
-        "epigraphy"
+        "Oriental Institute"
     ], 
     "language": [
         "en", 
-        1.0
+        0.9999893895623078
     ], 
     "provenance": [
         {
@@ -34,17 +32,22 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6966019253183957888", 
             "resource_date": "2009-11-19T14:21:54.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:30.107631"
+            "when": "2015-06-05T03:50:21.587393"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html", 
             "resource_date": "2009-11-19T14:21:54.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:30.107639"
+            "when": "2015-06-05T03:50:21.587402"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "label": "OIP 136. Medinet Habu IX. The Eighteenth Dynasty Temple, Part I: The Inner Sanctuaries", 
+            "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip136.html"
+        }
+    ], 
     "title": "Egypt", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/egypt.html", 
     "zotero_id": null

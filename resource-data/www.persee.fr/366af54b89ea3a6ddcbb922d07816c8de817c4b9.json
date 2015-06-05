@@ -1,8 +1,8 @@
 {
-    "description": "Annales d'\u00c9thiopie Antiquit\u00e9s africaines", 
+    "description": "Annales d'\u00c9thiopie", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:27.200007: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
+        "2015-06-05T03:50:01.759323: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -14,7 +14,7 @@
     ], 
     "language": [
         "fr", 
-        1.0
+        0.999998514420765
     ], 
     "provenance": [
         {
@@ -35,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2013-04-12T11:22:30.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:27.200554"
+            "when": "2015-06-05T03:50:01.759842"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2013-04-12T11:22:30.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:27.200562"
+            "when": "2015-06-05T03:50:01.759849"
         }
     ], 
     "related_resources": [], 

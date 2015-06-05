@@ -1,16 +1,10 @@
 {
-    "description": "Journal of the Museum of Fine Arts, Boston (Arts & Sciences V) Release Content: Vols. 1-6 (1989-1994) Publisher: Museum of Fine Arts, Boston ISSN: 1041-2433 Note: Publication of this title ceased in 1994.", 
+    "description": "Journal of the Museum of Fine Arts, Boston (Arts & Sciences V) Journal of the Museum of Fine Arts, Boston (Arts & Sciences V) Journal of the Museum of Fine Arts, Boston", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:11.551789: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-05T03:50:03.777166: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
-    "identifiers": {
-        "issn": {
-            "generic": [
-                "1041-2433"
-            ]
-        }
-    }, 
+    "identifiers": {}, 
     "keywords": [
         "JSTOR", 
         "antiquity", 
@@ -40,18 +34,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2756486521717468641", 
             "resource_date": "2009-11-23T12:19:45.104-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:11.552320"
+            "when": "2015-06-05T03:50:03.777745"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2009-11-23T12:19:45.104-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:11.552327"
+            "when": "2015-06-05T03:50:03.777753"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Journal of the Museum of Fine Arts, Boston (Arts & Sciences V)", 
+    "title": "Journal of the Museum of Fine Arts, Boston", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=jmusfineartsbos", 
     "zotero_id": null
 }

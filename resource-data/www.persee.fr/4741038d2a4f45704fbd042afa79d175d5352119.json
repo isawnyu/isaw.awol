@@ -1,8 +1,8 @@
 {
-    "description": "[ 75 ] 1999 : [ 76 ] 1999 : [ 76 ] 1999 : [ 76 ] 1999 : [ 76 ]", 
+    "description": "1998 : [ 75 ] 1998 : [ 75 ] 1998 : [ 75 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:44.803069: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open.html. (walk_to_json.py)"
+        "2015-06-05T03:50:24.560987: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -28,24 +28,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-733349865844137791", 
             "resource_date": "2013-12-07T12:54:56.396-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:44.803615"
+            "when": "2015-06-05T03:50:24.561614"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/open.html", 
             "resource_date": "2013-12-07T12:54:56.396-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:44.803623"
+            "when": "2015-06-05T03:50:24.561623"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1998 : [ 75 ]: Syria. Arch\u00e9ologie, Art et histoire", 
+    "title": "75", 
+    "title_extended": "Syria. Arch\u00e9ologie, Art et histoire: 75", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1998_num_75_1", 
     "zotero_id": null
 }

@@ -1,19 +1,15 @@
 {
-    "description": "[ 17 ] See the full List of Open Access Journals in Ancient Studies See the full List of Open Access Journals in Ancient Studies", 
+    "description": "2006 : [ 17 ] 2006 : [ 17 ] 2006 : [ 17 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:41.865201: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html. (walk_to_json.py)"
+        "2015-06-05T03:50:21.341394: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "antiquity", 
         "journal", 
         "open access"
     ], 
-    "language": [
-        "en", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -27,24 +23,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6859067162907404873", 
             "resource_date": "2012-11-15T13:02:17.828-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:41.866110"
+            "when": "2015-06-05T03:50:21.341945"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html", 
             "resource_date": "2012-11-15T13:02:17.828-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:41.866122"
+            "when": "2015-06-05T03:50:21.341953"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2006 : [ 17 ]: Cahiers du Centre Gustave Glotz", 
+    "title": "17", 
+    "title_extended": "Cahiers du Centre Gustave Glotz: 17", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2006_num_17_1", 
     "zotero_id": null
 }

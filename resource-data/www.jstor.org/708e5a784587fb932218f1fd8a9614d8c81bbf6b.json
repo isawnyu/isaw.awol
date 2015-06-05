@@ -1,25 +1,15 @@
 {
-    "description": "International Journal of the Classical Tradition (Arts & Sciences VIII) Release Content: Vol. 1, No. 1 (Summer, 1994) \u2013 Vol. 13, No. 2 (Fall, 2006) Moving Wall: 3 years Publisher: Springer ISSN: 1073-0508 Journal Description: The first journal exclusively dedicated to the reception of Greek and Roman antiquity by other cultures, from the ancient world to the present time, International Journal of Classical Tradition 's primary focus is on the creative use of the ancient Greco-Roman heritage in a broad range of scholarly endeavors. Articles are published in five languages. The journal includes articles, short notes, research reports, review articles, and news of the field. The official journal of the International Society for the Classical Tradition.", 
+    "description": "International Journal of the Classical Tradition (Arts & Sciences VIII) International Journal of the Classical Tradition (Arts & Sciences VIII) International Journal of the Classical Tradition", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:15.364707: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-05T03:50:07.575854: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
-    "identifiers": {
-        "issn": {
-            "generic": [
-                "1073-0508"
-            ]
-        }
-    }, 
+    "identifiers": {}, 
     "keywords": [
-        "Greek", 
         "JSTOR", 
-        "Roman", 
         "antiquity", 
         "classics", 
-        "heritage", 
-        "journal", 
-        "reception"
+        "journal"
     ], 
     "language": [
         "en", 
@@ -44,18 +34,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3550594048619302667", 
             "resource_date": "2010-02-05T09:52:44.401-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:15.365309"
+            "when": "2015-06-05T03:50:07.576467"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2010-02-05T09:52:44.401-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:15.365317"
+            "when": "2015-06-05T03:50:07.576475"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "International Journal of the Classical Tradition (Arts & Sciences VIII)", 
+    "title": "International Journal of the Classical Tradition", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=intjclasstrad", 
     "zotero_id": null
 }

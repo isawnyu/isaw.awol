@@ -1,8 +1,8 @@
 {
-    "description": "19-20 1997 18 1997", 
+    "description": "19-20", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:19.829301: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/open-access-journal-memorias-de.html. (walk_to_json.py)"
+        "2015-06-05T03:50:29.103048: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/open-access-journal-memorias-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -27,24 +27,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8476008991115147483", 
             "resource_date": "2012-06-18T12:53:35.306-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:19.829835"
+            "when": "2015-06-05T03:50:29.103698"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-memorias-de.html", 
             "resource_date": "2012-06-18T12:53:35.306-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:19.829843"
+            "when": "2015-06-05T03:50:29.103707"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "19-20: Memorias de historia antigua", 
+    "title": "19-20", 
+    "title_extended": "Memorias de historia antigua: 19-20", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=27327", 
     "zotero_id": null
 }

@@ -1,8 +1,8 @@
 {
-    "description": "Revue arch\u00e9ologique de Picardie Revue arch\u00e9ologique du Centre de la France", 
+    "description": "Revue arch\u00e9ologique de Picardie", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:27.295815: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
+        "2015-06-05T03:50:01.889566: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -15,7 +15,7 @@
     ], 
     "language": [
         "fr", 
-        1.0
+        0.9999999977881138
     ], 
     "provenance": [
         {
@@ -36,13 +36,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2013-04-12T11:22:30.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:27.296370"
+            "when": "2015-06-05T03:50:01.890139"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2013-04-12T11:22:30.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:27.296378"
+            "when": "2015-06-05T03:50:01.890147"
         }
     ], 
     "related_resources": [], 

@@ -1,8 +1,8 @@
 {
-    "description": "2007 78", 
+    "description": "2007", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:07.308627: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html. (walk_to_json.py)"
+        "2015-06-05T03:50:10.556254: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -23,24 +23,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4206419451111757327", 
             "resource_date": "2013-09-30T11:09:09.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:07.309204"
+            "when": "2015-06-05T03:50:10.557131"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html", 
             "resource_date": "2013-09-30T11:09:09.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:07.309213"
+            "when": "2015-06-05T03:50:10.557143"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2007: Caesaraugusta", 
+    "title": "2007", 
+    "title_extended": "Caesaraugusta: 2007", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=2007", 
     "zotero_id": null
 }

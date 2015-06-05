@@ -1,8 +1,8 @@
 {
-    "description": "OIP 84. Medinet Habu, Volume IV. The Temple Proper, Part II: The Re Chapel, the Royal Mortuary Complex, and Adjacent Rooms with Miscellaneous Material from the Pylons, the Forecourts, and the First Hypostyle Hall. By The Epigraphic Survey. Originally published in 1963. OIP 35. Reliefs and Inscriptions at Karnak, Volume II. Ramses III's Temple within the Great Inclosure of Amon, Part II; and Ramses III's Temple in the Precinct of Mut. By The Epigraphic Survey. Originally published in 1936.", 
+    "description": "OIP 84. Medinet Habu, Volume IV. The Temple Proper, Part II: The Re Chapel, the Royal Mortuary Complex, and Adjacent Rooms with Miscellaneous Material from the Pylons, the Forecourts, and the First Hypostyle Hall. By The Epigraphic Survey. Originally published in 1963.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:18.990312: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_13.html. (walk_to_json.py)"
+        "2015-06-05T03:50:11.136543: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_13.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4308619886868912773", 
             "resource_date": "2009-11-13T18:17:24.306-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:18.990879"
+            "when": "2015-06-05T03:50:11.137126"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_13.html", 
             "resource_date": "2009-11-13T18:17:24.306-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:18.990887"
+            "when": "2015-06-05T03:50:11.137134"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "OIP 84. Medinet Habu, Volume IV. The Temple Proper, Part II: The Re Chapel, the Royal Mortuary Complex, and Adjacent Rooms with Miscellaneous Material from the Pylons, the Forecourts, and the First Hypostyle Hall", 
+    "title_extended": "Egypt: OIP 84. Medinet Habu, Volume IV. The Temple Proper, Part II: The Re Chapel, the Royal Mortuary Complex, and Adjacent Rooms with Miscellaneous Material from the Pylons, the Forecourts, and the First Hypostyle Hall", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip84.html", 
     "zotero_id": null
 }

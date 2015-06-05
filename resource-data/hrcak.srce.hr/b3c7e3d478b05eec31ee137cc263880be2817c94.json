@@ -1,22 +1,18 @@
 {
-    "description": "Vol. 1 No. 1 Vol. 1 No. 1 See the full List of Open Access Journals in Ancient Studies See the full List of Open Access Journals in Ancient Studies", 
+    "description": "Vol. 1 No. 1 Vol. 1 No. 1", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:30.051826: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-open-access-journal-biblijski.html. (walk_to_json.py)"
+        "2015-06-05T03:50:21.521325: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-open-access-journal-biblijski.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Bible", 
         "Croatia", 
-        "antiquity", 
         "journal", 
         "open access", 
         "religion"
     ], 
-    "language": [
-        "en", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -30,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6953816549638786002", 
             "resource_date": "2013-02-03T17:37:22.419-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:30.052401"
+            "when": "2015-06-05T03:50:21.522077"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-open-access-journal-biblijski.html", 
             "resource_date": "2013-02-03T17:37:22.419-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:30.052409"
+            "when": "2015-06-05T03:50:21.522086"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Vol. 1 \u00a0 No. 1: Biblijski pogledi (Biblical Perspectives)", 
+    "title": "Vol. 1 \u00a0 No. 1", 
+    "title_extended": "Biblijski pogledi (Biblical Perspectives): Vol. 1 \u00a0 No. 1", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=7175", 
     "zotero_id": null
 }

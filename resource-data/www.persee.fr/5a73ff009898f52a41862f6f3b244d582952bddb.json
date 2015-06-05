@@ -1,8 +1,8 @@
 {
-    "description": "Stephen G. Nichols 8 - 25 Le Moyen \u00c2ge ou la Fin des Temps. Avenirs d'un refoul\u00e9 [Article] Christopher Lucken 8 - 25 Le Moyen \u00c2ge ou la Fin des Temps. Avenirs d'un refoul\u00e9 [Article] Christopher Lucken 8 - 25", 
+    "description": "Stephen G. Nichols", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:39.857319: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
+        "2015-06-05T03:50:18.507690: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -10,8 +10,8 @@
         "journal issues"
     ], 
     "language": [
-        "fr", 
-        1.0
+        "de", 
+        0.9995103994883597
     ], 
     "provenance": [
         {
@@ -32,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
             "resource_date": "2012-08-03T09:39:09.216-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:39.857862"
+            "when": "2015-06-05T03:50:18.508206"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
             "resource_date": "2012-08-03T09:39:09.216-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:39.857869"
+            "when": "2015-06-05T03:50:18.508214"
         }
     ], 
     "related_resources": [], 

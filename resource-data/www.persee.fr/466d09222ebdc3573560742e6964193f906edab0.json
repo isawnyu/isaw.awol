@@ -1,19 +1,14 @@
 {
-    "description": "Emmanuel Dupraz La variante falisque [Article] Jean Hadas-Lebel See the full list of Open Access Publications of the Maison de l'Orient et de la M\u00e9diterran\u00e9e at Pers\u00e9e La variante falisque [Article]", 
+    "description": "Emmanuel Dupraz", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:47.017860: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html. (walk_to_json.py)"
+        "2015-06-05T03:50:27.257611: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Mediterranean", 
-        "Pers\u00e9e", 
-        "open access"
+        "Mediterranean"
     ], 
-    "language": [
-        "fr", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -33,13 +28,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7980957358423240936", 
             "resource_date": "2011-10-14T14:27:16.756-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:47.018434"
+            "when": "2015-06-05T03:50:27.258209"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html", 
             "resource_date": "2011-10-14T14:27:16.756-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:47.018442"
+            "when": "2015-06-05T03:50:27.258217"
         }
     ], 
     "related_resources": [], 

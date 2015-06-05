@@ -1,8 +1,8 @@
 {
-    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports Beycesultan: v. 1 The Chalcolithic and early Bronze age levels Lloyd, Seton 1962 OK Beycesultan: v. 2 Middle Bronze age architecture and pottery Lloyd, Seton 1965 OK Beycesultan: v. 3., pt. 1. Late Bronze age architecture Lloyd, Seton 1972 OK Beycesultan: v. 3., pt. 2. Late Bronze Age and Phrygian pottery and middle and late Bronze Age small objects Mellaart, James 1995 OK Beycesultan: v. 1 The Chalcolithic and early Bronze age levels Lloyd, Seton 1962 OK Beycesultan: v. 2 Middle Bronze age architecture and pottery Lloyd, Seton 1965 OK Beycesultan: v. 3., pt. 1. Late Bronze age architecture Lloyd, Seton 1972 OK Beycesultan: v. 3., pt. 2. Late Bronze Age and Phrygian pottery and middle and late Bronze Age small objects Mellaart, James 1995 OK Beycesultan: v. 1 The Chalcolithic and early Bronze age levels Lloyd, Seton 1962 OK", 
+    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:13.474937: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/beycesultan-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:05.869328: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/beycesultan-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -11,11 +11,7 @@
         "Mesopotamia", 
         "archaeological site", 
         "archaeology", 
-        "architecture", 
         "archive", 
-        "bronze", 
-        "ceramics", 
-        "pottery", 
         "reports", 
         "series"
     ], 
@@ -42,13 +38,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3129339539768469992", 
             "resource_date": "2012-03-02T16:40:53.442-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:13.475584"
+            "when": "2015-06-05T03:50:05.869928"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/beycesultan-in-amar.html", 
             "resource_date": "2012-03-02T16:40:53.442-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:13.475592"
+            "when": "2015-06-05T03:50:05.869937"
         }
     ], 
     "related_resources": [], 
@@ -70,7 +66,7 @@
             "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=140637&REC=4"
         }
     ], 
-    "title": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "zotero_id": null
 }

@@ -1,8 +1,8 @@
 {
-    "description": "\"Artists in Egypt (1920-1935). John Carswell. Originally published in 1991.\" \"The Oriental Institute Museum: Highlights from the Collection. Oriental Institute Museum. Originally published in 1989.\"", 
+    "description": "\"Artists in Egypt (1920-1935). John Carswell. Originally published in 1991.\"", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:20.917566: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+        "2015-06-05T03:50:12.933134: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -12,7 +12,7 @@
     ], 
     "language": [
         "en", 
-        1.0
+        0.9999999999997891
     ], 
     "provenance": [
         {
@@ -33,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4868881653292409097", 
             "resource_date": "2013-02-13T14:18:41.154-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:20.918738"
+            "when": "2015-06-05T03:50:12.933716"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/newly-online-from-oriental-institutes.html", 
             "resource_date": "2013-02-13T14:18:41.154-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:20.918754"
+            "when": "2015-06-05T03:50:12.933724"
         }
     ], 
     "related_resources": [], 

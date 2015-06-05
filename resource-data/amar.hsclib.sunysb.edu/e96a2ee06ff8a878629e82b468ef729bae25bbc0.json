@@ -1,8 +1,8 @@
 {
-    "description": "Sardis: publications of the American Society for the excavation of Sardis ; v. 5 Roman and christian sculpture ; pt.1 the Sarcophagus of Claudia Antonia Sabina Morey, Charles Rufus 1924 OK", 
+    "description": "Sardis: publications of the American Society for the excavation of Sardis ; v. 5 Roman and christian sculpture ; pt.1 the Sarcophagus of Claudia Antonia Sabina", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:06.183827: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/sardis-publications-of-american-society.html. (walk_to_json.py)"
+        "2015-06-05T03:49:58.283079: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/sardis-publications-of-american-society.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -37,13 +37,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1512953949363753591", 
             "resource_date": "2012-03-04T14:52:15.927-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:06.184380"
+            "when": "2015-06-05T03:49:58.283625"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/sardis-publications-of-american-society.html", 
             "resource_date": "2012-03-04T14:52:15.927-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:06.184388"
+            "when": "2015-06-05T03:49:58.283633"
         }
     ], 
     "related_resources": [], 

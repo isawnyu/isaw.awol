@@ -2,7 +2,7 @@
     "description": "Annales Instituti Archaeologici ISSN: 1845-4046", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:14.526242: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-journal-annales-instituti.html. (walk_to_json.py)"
+        "2015-06-05T03:50:06.769209: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-journal-annales-instituti.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
@@ -35,39 +35,39 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3290834742793660475", 
             "resource_date": "2012-01-14T09:28:18.750-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:14.526881"
+            "when": "2015-06-05T03:50:06.769816"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-annales-instituti.html", 
             "resource_date": "2012-01-14T09:28:18.750-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:14.526889"
+            "when": "2015-06-05T03:50:06.769825"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
         {
-            "label": "Vol. VI \u00a0 No. 1: Annales Instituti Archaeologici", 
+            "label": "Vol. VI \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=5155"
         }, 
         {
-            "label": "Vol. V \u00a0 No. 1: Annales Instituti Archaeologici", 
+            "label": "Vol. V \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4068"
         }, 
         {
-            "label": "Vol. IV \u00a0 No. 1: Annales Instituti Archaeologici", 
+            "label": "Vol. IV \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2923"
         }, 
         {
-            "label": "Vol. III \u00a0 No. 1: Annales Instituti Archaeologici", 
+            "label": "Vol. III \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1284"
         }, 
         {
-            "label": "Vol. II \u00a0 No. 1: Annales Instituti Archaeologici", 
+            "label": "Vol. II \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=881"
         }, 
         {
-            "label": "Vol. I \u00a0 No. 1: Annales Instituti Archaeologici", 
+            "label": "Vol. I \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=64"
         }
     ], 

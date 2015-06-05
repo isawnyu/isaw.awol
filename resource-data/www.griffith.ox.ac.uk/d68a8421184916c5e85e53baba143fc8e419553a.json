@@ -1,8 +1,8 @@
 {
-    "description": "notes on the contents of baskets found in the tomb of Tutankhamun. (March 11, 2011) Scans have been added to the transcripts of Arthur Mace's diaries 1922-3 and 1923-4 . (February 7, 2011) Scans have been added to the transcripts of Arthur Mace's diaries 1922-3", 
+    "description": "Howard Carter's notes on the contents of baskets found in the tomb of Tutankhamun. (March 11, 2011) Howard Carter's notes on the contents of baskets", 
     "domain": "www.griffith.ox.ac.uk", 
     "history": [
-        "2015-06-04T03:36:21.718897: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html. (walk_to_json.py)"
+        "2015-06-05T03:50:13.565043: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -31,27 +31,27 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4992273992170092691", 
             "resource_date": "2011-04-20T16:01:53.138-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:21.719431"
+            "when": "2015-06-05T03:50:13.565564"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html", 
             "resource_date": "2011-04-20T16:01:53.138-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:21.719438"
+            "when": "2015-06-05T03:50:13.565571"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
         {
-            "label": "1922-3: Howard Carter's notes on the contents of baskets found in the tomb of Tutankhamun. (March 11, 2011)", 
+            "label": "1922-3", 
             "url": "http://www.griffith.ox.ac.uk/gri/4macedia1.html"
         }, 
         {
-            "label": "1923-4: Howard Carter's notes on the contents of baskets found in the tomb of Tutankhamun. (March 11, 2011)", 
+            "label": "1923-4", 
             "url": "http://www.griffith.ox.ac.uk/gri/4macedia2.html"
         }
     ], 
-    "title": "Howard Carter's notes on the contents of baskets found in the tomb of Tutankhamun. (March 11, 2011)", 
+    "title": "notes on the contents of baskets", 
     "url": "http://www.griffith.ox.ac.uk/gri/4baskets.html", 
     "zotero_id": null
 }

@@ -2,7 +2,7 @@
     "description": "[ 75-3 ] [ 75-4 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:43.194300: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
+        "2015-06-05T03:50:22.686780: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707332784338276556", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:43.194848"
+            "when": "2015-06-05T03:50:22.687303"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:43.194856"
+            "when": "2015-06-05T03:50:22.687310"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "75-3: Revue belge de Philologie et d'Histoire", 
+    "title": "75-3", 
+    "title_extended": "Revue belge de Philologie et d'Histoire: 75-3", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1997_num_75_3", 
     "zotero_id": null
 }

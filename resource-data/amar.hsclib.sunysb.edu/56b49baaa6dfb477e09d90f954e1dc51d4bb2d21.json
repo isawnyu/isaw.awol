@@ -1,8 +1,8 @@
 {
-    "description": "Sardis: publications of the American Society for the excavation of Sardis ; v. 2 architecture ; pt. 1 The Temple of Artemis ; plates Butler, Howard Crosby, 1872-1922 1925 OK", 
+    "description": "Sardis: publications of the American Society for the excavation of Sardis ; v. 2 architecture ; pt. 1 The Temple of Artemis ; plates", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:06.194640: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/sardis-publications-of-american-society.html. (walk_to_json.py)"
+        "2015-06-05T03:49:58.291012: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/sardis-publications-of-american-society.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -35,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1512953949363753591", 
             "resource_date": "2012-03-04T14:52:15.927-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:06.195185"
+            "when": "2015-06-05T03:49:58.291553"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/sardis-publications-of-american-society.html", 
             "resource_date": "2012-03-04T14:52:15.927-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:06.195193"
+            "when": "2015-06-05T03:49:58.291560"
         }
     ], 
     "related_resources": [], 

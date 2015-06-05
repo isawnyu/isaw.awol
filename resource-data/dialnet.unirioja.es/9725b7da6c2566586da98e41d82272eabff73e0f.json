@@ -1,8 +1,8 @@
 {
-    "description": "1983 14", 
+    "description": "1983", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:17.698886: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html. (walk_to_json.py)"
+        "2015-06-05T03:50:26.128916: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7705375700946621781", 
             "resource_date": "2013-01-05T10:55:30.411-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:17.699441"
+            "when": "2015-06-05T03:50:26.129433"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html", 
             "resource_date": "2013-01-05T10:55:30.411-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:17.699449"
+            "when": "2015-06-05T03:50:26.129440"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1983: Habis", 
+    "title": "1983", 
+    "title_extended": "Habis: 1983", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=633&clave_busqueda=1983", 
     "zotero_id": null
 }

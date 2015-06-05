@@ -1,8 +1,8 @@
 {
-    "description": "\"John D. Rockefeller, Jr. Centenary Exhibition: A Productive Collaboration 1919\u20131935. Originally published in 1974.\" \"Letters From Mesopotamia: Official, Business, and Private Letters on Clay Tablets from Two Millennia. A. Leo Oppenheim. Originally published in 1967.\"", 
+    "description": "\"John D. Rockefeller, Jr. Centenary Exhibition: A Productive Collaboration 1919\u20131935. Originally published in 1974.\"", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:09.489887: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes_20.html. (walk_to_json.py)"
+        "2015-06-05T03:50:01.553315: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes_20.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -12,7 +12,7 @@
     ], 
     "language": [
         "en", 
-        1.0
+        0.9999999999726565
     ], 
     "provenance": [
         {
@@ -33,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-224444973179106952", 
             "resource_date": "2012-12-20T12:49:30.883-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:09.490480"
+            "when": "2015-06-05T03:50:01.553859"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes_20.html", 
             "resource_date": "2012-12-20T12:49:30.883-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:09.490489"
+            "when": "2015-06-05T03:50:01.553867"
         }
     ], 
     "related_resources": [], 

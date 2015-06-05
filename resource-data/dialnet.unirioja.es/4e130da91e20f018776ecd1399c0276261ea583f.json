@@ -1,8 +1,8 @@
 {
-    "description": "10 , 11", 
+    "description": "10", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:19.669710: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-revista-general-de.html. (walk_to_json.py)"
+        "2015-06-05T03:50:28.972848: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-revista-general-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -24,24 +24,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8442261624361591182", 
             "resource_date": "2010-09-24T09:43:21.473-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:19.670235"
+            "when": "2015-06-05T03:50:28.973365"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-revista-general-de.html", 
             "resource_date": "2010-09-24T09:43:21.473-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:19.670242"
+            "when": "2015-06-05T03:50:28.973373"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "10: Revista General de Derecho Romano", 
+    "title": "10", 
+    "title_extended": "Revista General de Derecho Romano: 10", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=5689&clave_busqueda=196773", 
     "zotero_id": null
 }

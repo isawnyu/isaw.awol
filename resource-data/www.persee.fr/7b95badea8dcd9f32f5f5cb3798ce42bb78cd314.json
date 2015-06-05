@@ -1,20 +1,16 @@
 {
-    "description": "[ 74 ] See the full List of Open Access Journals in Ancient Studies See the full List of Open Access Journals in Ancient Studies", 
+    "description": "2005 : [ 74 ] 2005 : [ 74 ] 2005 : [ 74 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:46.814227: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html. (walk_to_json.py)"
+        "2015-06-05T03:50:27.063650: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "antiquity", 
         "classics", 
         "journal", 
         "open access"
     ], 
-    "language": [
-        "en", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -28,24 +24,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7945682581620223967", 
             "resource_date": "2013-12-29T07:35:34.289-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:46.814776"
+            "when": "2015-06-05T03:50:27.064197"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html", 
             "resource_date": "2013-12-29T07:35:34.289-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:46.814783"
+            "when": "2015-06-05T03:50:27.064204"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2005 : [ 74 ]: L'Antiquit\u00e9 Classique", 
+    "title": "74", 
+    "title_extended": "L'Antiquit\u00e9 Classique: 74", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/antiq_0770-2817_2005_num_74_1", 
     "zotero_id": null
 }

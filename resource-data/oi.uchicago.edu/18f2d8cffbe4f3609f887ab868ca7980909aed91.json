@@ -1,8 +1,8 @@
 {
-    "description": "OIP 39. The Mastaba of Mereruka, Part II: Chamber A 11-13, Doorjambs and Inscriptions of Chambers A 1-21, Tomb Chamber, and Exterior. By the Sakkarah Expedition. Originally published in 1938. OIP 36. Medinet Habu Graffiti: Facsimiles. Edited by William F. Edgerton. Originally published in 1937.", 
+    "description": "OIP 39. The Mastaba of Mereruka, Part II: Chamber A 11-13, Doorjambs and Inscriptions of Chambers A 1-21, Tomb Chamber, and Exterior. By the Sakkarah Expedition. Originally published in 1938.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:36.742882: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/eleven-additional-volumes-online-at.html. (walk_to_json.py)"
+        "2015-06-05T03:50:27.974570: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/eleven-additional-volumes-online-at.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8201936426642676601", 
             "resource_date": "2009-09-16T10:34:52.091-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:36.743428"
+            "when": "2015-06-05T03:50:27.975137"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/eleven-additional-volumes-online-at.html", 
             "resource_date": "2009-09-16T10:34:52.091-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:36.743435"
+            "when": "2015-06-05T03:50:27.975144"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "OIP 39. The Mastaba of Mereruka, Part II: Chamber A 11-13, Doorjambs and Inscriptions of Chambers A 1-21, Tomb Chamber, and Exterior", 
+    "title_extended": "OIP 116. Reliefs and Inscriptions at Luxor Temple, Volume 2: The Facade, Portals, Upper Register Scenes, Columns, Marginalia, and Statuary in the Colonnade Hall: OIP 39. The Mastaba of Mereruka, Part II: Chamber A 11-13, Doorjambs and Inscriptions of Chambers A 1-21, Tomb Chamber, and Exterior", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip39.html", 
     "zotero_id": null
 }

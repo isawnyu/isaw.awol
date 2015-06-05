@@ -1,18 +1,17 @@
 {
-    "description": "Michel Zink 48 - 67 L'\u00e9num\u00e9ration et les chiffres : du Roman de la Rose au Tesoretto [Article] Rosanna Brusegan 48 - 67 L'\u00e9num\u00e9ration et les chiffres : du Roman de la Rose au Tesoretto [Article] Rosanna Brusegan 48 - 67", 
+    "description": "Michel Zink", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:39.886370: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
+        "2015-06-05T03:50:18.525070: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Roman", 
         "journal", 
         "journal issues"
     ], 
     "language": [
-        "fr", 
-        1.0
+        "de", 
+        0.9999178987786873
     ], 
     "provenance": [
         {
@@ -33,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
             "resource_date": "2012-08-03T09:39:09.216-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:39.886903"
+            "when": "2015-06-05T03:50:18.525587"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
             "resource_date": "2012-08-03T09:39:09.216-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:39.886911"
+            "when": "2015-06-05T03:50:18.525594"
         }
     ], 
     "related_resources": [], 

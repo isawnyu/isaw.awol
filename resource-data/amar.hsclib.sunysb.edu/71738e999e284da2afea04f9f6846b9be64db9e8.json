@@ -1,8 +1,8 @@
 {
-    "description": "Ausgrabungen in Uruk-Warka: Endberichte. Band 3: Uruk, die Stratigraphie Eichmann, Ricardo 1989 OK", 
+    "description": "Ausgrabungen in Uruk-Warka: Endberichte. Band 3: Uruk, die Stratigraphie", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:23.202294: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-uruk-warka-endberichte.html. (walk_to_json.py)"
+        "2015-06-05T03:50:14.991210: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-uruk-warka-endberichte.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -35,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5477920149853260085", 
             "resource_date": "2012-03-02T16:45:02.866-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:23.202846"
+            "when": "2015-06-05T03:50:14.991729"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-uruk-warka-endberichte.html", 
             "resource_date": "2012-03-02T16:45:02.866-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:23.202854"
+            "when": "2015-06-05T03:50:14.991736"
         }
     ], 
     "related_resources": [], 

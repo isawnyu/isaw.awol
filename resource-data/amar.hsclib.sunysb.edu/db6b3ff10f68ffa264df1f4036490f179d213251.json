@@ -1,8 +1,8 @@
 {
-    "description": "Larsa: travaux de 1985 1989 OK See more Series in AMAR", 
+    "description": "Larsa: travaux de 1985", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:15.992359: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/larsa-reports-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:08.199701: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/larsa-reports-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -10,12 +10,11 @@
         "Iraq", 
         "Larsa", 
         "archaeology", 
-        "reports", 
-        "series"
+        "reports"
     ], 
     "language": [
         "fr", 
-        0.9999999999998068
+        0.999999999999031
     ], 
     "provenance": [
         {
@@ -36,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3783077536232104276", 
             "resource_date": "2012-03-02T16:39:07.355-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:15.992880"
+            "when": "2015-06-05T03:50:08.200219"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/larsa-reports-in-amar.html", 
             "resource_date": "2012-03-02T16:39:07.355-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:15.992888"
+            "when": "2015-06-05T03:50:08.200226"
         }
     ], 
     "related_resources": [], 

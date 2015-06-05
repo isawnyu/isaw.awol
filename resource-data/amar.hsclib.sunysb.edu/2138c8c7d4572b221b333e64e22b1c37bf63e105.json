@@ -1,8 +1,8 @@
 {
-    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports Larsa: travaux de 1987 et 1989 OK Larsa (8e\u0300me et 9e\u0300me campagnes, 1978 et 1981) et \u02bcOueili (2e\u0300me et 3e\u0300me campagnes, 1978 et 1981): rapport pre\u0301liminaire 1983 OK Larsa (10e campagne, 1983) et \u02bcOueili (4e campagne, 1983): rapport pre\u0301liminaire 1987 OK Larsa: travaux de 1985 1989 OK Larsa: travaux de 1987 et 1989 OK Larsa (8e\u0300me et 9e\u0300me campagnes, 1978 et 1981) et \u02bcOueili (2e\u0300me et 3e\u0300me campagnes, 1978 et 1981): rapport pre\u0301liminaire 1983 OK Larsa (10e campagne, 1983) et \u02bcOueili (4e campagne, 1983): rapport pre\u0301liminaire 1987 OK Larsa: travaux de 1985 1989 OK", 
+    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:15.973500: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/larsa-reports-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:08.188083: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/larsa-reports-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -18,8 +18,8 @@
         "series"
     ], 
     "language": [
-        "la", 
-        0.9996968779422081
+        "en", 
+        1.0
     ], 
     "provenance": [
         {
@@ -40,13 +40,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3783077536232104276", 
             "resource_date": "2012-03-02T16:39:07.355-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:15.974076"
+            "when": "2015-06-05T03:50:08.188663"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/larsa-reports-in-amar.html", 
             "resource_date": "2012-03-02T16:39:07.355-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:15.974084"
+            "when": "2015-06-05T03:50:08.188671"
         }
     ], 
     "related_resources": [], 
@@ -68,7 +68,7 @@
             "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=68343&REC=5"
         }
     ], 
-    "title": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "zotero_id": null
 }

@@ -1,8 +1,8 @@
 {
-    "description": "6 1974 5 1974", 
+    "description": "6", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:17.755978: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html. (walk_to_json.py)"
+        "2015-06-05T03:50:26.170121: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7705375700946621781", 
             "resource_date": "2013-01-05T10:55:30.411-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:17.756512"
+            "when": "2015-06-05T03:50:26.170648"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html", 
             "resource_date": "2013-01-05T10:55:30.411-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:17.756519"
+            "when": "2015-06-05T03:50:26.170656"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "6: Habis", 
+    "title": "6", 
+    "title_extended": "Habis: 6", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=633&clave_busqueda=74336", 
     "zotero_id": null
 }

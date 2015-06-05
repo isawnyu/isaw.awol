@@ -2,7 +2,7 @@
     "description": "Quaderns de difusi\u00f3 arqueol\u00f2gica Journal table of contents Year Volumes and Issues 2010 6 , 7 , 8 , 9 1991 2 1990", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:00.592317: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/11/open-access-journal-quaderns-de-difusio.html. (walk_to_json.py)"
+        "2015-06-05T03:50:00.287193: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/11/open-access-journal-quaderns-de-difusio.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,47 +32,47 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1883830925452066930", 
             "resource_date": "2010-11-06T17:41:18.935-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:00.592882"
+            "when": "2015-06-05T03:50:00.287768"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/11/open-access-journal-quaderns-de-difusio.html", 
             "resource_date": "2010-11-06T17:41:18.935-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:00.592890"
+            "when": "2015-06-05T03:50:00.287776"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
         {
-            "label": "2010: Quaderns de difusi\u00f3 arqueol\u00f2gica", 
+            "label": "2010", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13883&clave_busqueda=2010"
         }, 
         {
-            "label": "6: Quaderns de difusi\u00f3 arqueol\u00f2gica", 
+            "label": "6", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13883&clave_busqueda=251500"
         }, 
         {
-            "label": "7: Quaderns de difusi\u00f3 arqueol\u00f2gica", 
+            "label": "7", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13883&clave_busqueda=251504"
         }, 
         {
-            "label": "8: Quaderns de difusi\u00f3 arqueol\u00f2gica", 
+            "label": "8", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13883&clave_busqueda=251503"
         }, 
         {
-            "label": "9: Quaderns de difusi\u00f3 arqueol\u00f2gica", 
+            "label": "9", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13883&clave_busqueda=251501"
         }, 
         {
-            "label": "1991: Quaderns de difusi\u00f3 arqueol\u00f2gica", 
+            "label": "1991", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13883&clave_busqueda=1991"
         }, 
         {
-            "label": "2: Quaderns de difusi\u00f3 arqueol\u00f2gica", 
+            "label": "2", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13883&clave_busqueda=251499"
         }, 
         {
-            "label": "1990: Quaderns de difusi\u00f3 arqueol\u00f2gica", 
+            "label": "1990", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13883&clave_busqueda=1990"
         }
     ], 

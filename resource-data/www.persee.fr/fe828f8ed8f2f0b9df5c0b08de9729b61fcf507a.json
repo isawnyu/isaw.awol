@@ -2,7 +2,7 @@
     "description": "[ 15-2 ] [ 15-3 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:44.351544: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open.html. (walk_to_json.py)"
+        "2015-06-05T03:50:24.106116: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -28,24 +28,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-733349865844137791", 
             "resource_date": "2013-12-07T12:54:56.396-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:44.352068"
+            "when": "2015-06-05T03:50:24.107153"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/open.html", 
             "resource_date": "2013-12-07T12:54:56.396-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:44.352080"
+            "when": "2015-06-05T03:50:24.107163"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "15-2: Syria. Arch\u00e9ologie, Art et histoire", 
+    "title": "15-2", 
+    "title_extended": "Syria. Arch\u00e9ologie, Art et histoire: 15-2", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1934_num_15_2", 
     "zotero_id": null
 }

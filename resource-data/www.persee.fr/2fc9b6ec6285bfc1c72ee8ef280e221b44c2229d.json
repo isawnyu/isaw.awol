@@ -1,21 +1,19 @@
 {
-    "description": "Quaternaire Revue Arch\u00e9ologique de l'Ouest", 
+    "description": "Quaternaire", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:27.285957: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
+        "2015-06-05T03:50:01.880699: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Aegean", 
         "Pers\u00e9e", 
         "antiquity", 
-        "archaeology", 
-        "digital library", 
-        "journal"
+        "digital library"
     ], 
     "language": [
         "fr", 
-        0.9999999891803589
+        0.9696116943257868
     ], 
     "provenance": [
         {
@@ -36,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2013-04-12T11:22:30.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:27.286510"
+            "when": "2015-06-05T03:50:01.881236"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2013-04-12T11:22:30.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:27.286518"
+            "when": "2015-06-05T03:50:01.881243"
         }
     ], 
     "related_resources": [], 

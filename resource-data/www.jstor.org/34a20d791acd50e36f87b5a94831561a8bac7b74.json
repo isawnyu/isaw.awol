@@ -1,8 +1,8 @@
 {
-    "description": "Papers of the British School at Rome (Arts & Sciences VIII)", 
+    "description": "Papers of the British School at Rome (Arts & Sciences VIII) Papers of the British School at Rome", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:08.454667: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-05T03:50:00.518178: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -33,18 +33,23 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1970970912930647566", 
             "resource_date": "2010-04-27T18:42:09.328-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:08.455934"
+            "when": "2015-06-05T03:50:00.518790"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2010-04-27T18:42:09.328-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:08.455947"
+            "when": "2015-06-05T03:50:00.518799"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
-    "title": "Papers of the British School at Rome (Arts & Sciences VIII)", 
+    "subordinate_resources": [
+        {
+            "label": "Journal of Field Archaeo", 
+            "url": "http://www.jstor.org/action/showPublication?journalCode=jfielarch"
+        }
+    ], 
+    "title": "Papers of the British School at Rome", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=papbritschrome", 
     "zotero_id": null
 }

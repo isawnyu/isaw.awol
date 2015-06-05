@@ -1,21 +1,17 @@
 {
-    "description": "Vol. 1 No. 1 Vol. 1 No. 1 List of Open Access Journals in Ancient Studies", 
+    "description": "Vol. 1 No. 1 Vol. 1 No. 1", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:34.036291: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/11/open-access-journal-archaeologica.html. (walk_to_json.py)"
+        "2015-06-05T03:50:25.481457: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/11/open-access-journal-archaeologica.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Croatia", 
-        "antiquity", 
         "archaeology", 
         "journal", 
         "open access"
     ], 
-    "language": [
-        "en", 
-        0.9999479264197599
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -29,24 +25,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7627707549368271983", 
             "resource_date": "2012-11-04T17:33:20.666-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:34.036815"
+            "when": "2015-06-05T03:50:25.481993"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/open-access-journal-archaeologica.html", 
             "resource_date": "2012-11-04T17:33:20.666-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:34.036822"
+            "when": "2015-06-05T03:50:25.482000"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Vol. 1 \u00a0 No. 1: Archaeologica Adriatica", 
+    "title": "Vol. 1 \u00a0 No. 1", 
+    "title_extended": "Archaeologica Adriatica: Vol. 1 \u00a0 No. 1", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2462", 
     "zotero_id": null
 }

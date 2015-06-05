@@ -1,18 +1,16 @@
 {
-    "description": "Hector Horeau's watercolours made in Egypt in 1848. (April 7, 2010) A revised list of Griffith Institute Archive projects . (April 7, 2010) A revised list of Griffith Institute Archive projects . (April 7, 2010) A revised list of Griffith Institute Archive projects", 
+    "description": "Hector Horeau's watercolours made in Egypt in 1848. (April 7, 2010) Hector Horeau's watercolours made in Egypt in 1848. (April 7, 2010) Hector Horeau's watercolours", 
     "domain": "www.griffith.ox.ac.uk", 
     "history": [
-        "2015-06-04T03:36:36.427868: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/05/recent-offerings-from-griffifth.html. (walk_to_json.py)"
+        "2015-06-05T03:50:27.638413: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/05/recent-offerings-from-griffifth.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Egypt", 
-        "Griffith Institute", 
-        "archive"
+        "Egypt"
     ], 
     "language": [
         "en", 
-        1.0
+        0.9999995017847898
     ], 
     "provenance": [
         {
@@ -27,24 +25,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-813986282971874208", 
             "resource_date": "2010-05-24T10:04:02.981-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:36.428408"
+            "when": "2015-06-05T03:50:27.638940"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/recent-offerings-from-griffifth.html", 
             "resource_date": "2010-05-24T10:04:02.981-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:36.428415"
+            "when": "2015-06-05T03:50:27.638947"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Hector Horeau's watercolours made in Egypt in 1848. (April 7, 2010)", 
+    "title": "Hector Horeau's watercolours", 
+    "title_extended": "Griffith Institute: Hector Horeau's watercolours", 
     "url": "http://www.griffith.ox.ac.uk/gri/4horeau_intro.html", 
     "zotero_id": null
 }

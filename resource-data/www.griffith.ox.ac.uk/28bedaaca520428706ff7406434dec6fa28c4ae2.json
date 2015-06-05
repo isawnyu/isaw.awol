@@ -1,15 +1,13 @@
 {
-    "description": "List of private collections, dealers and auction houses with objects included in the Topographical Bibliography . (July 14, 2011) The Topographical Bibliography working list of objects in \u00c4gyptisches Museum in Berlin has been updated. (July 14, 2011) The Topographical Bibliography working list of objects in \u00c4gyptisches Museum in Berlin has been updated. (July 14, 2011) The Topographical Bibliography working list of objects in \u00c4gyptisches Museum in Berlin", 
+    "description": "List of private collections, dealers and auction houses with objects included in the Topographical Bibliography . (July 14, 2011) List of private collections, dealers and auction houses with objects included in the Topographical Bibliography . (July 14, 2011) List of private collections, dealers and auction houses", 
     "domain": "www.griffith.ox.ac.uk", 
     "history": [
-        "2015-06-04T03:36:36.267429: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html. (walk_to_json.py)"
+        "2015-06-05T03:50:27.480024: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Berlin", 
         "Griffith Institute", 
-        "bibliography", 
-        "museums"
+        "bibliography"
     ], 
     "language": [
         "en", 
@@ -34,18 +32,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8094499180810007320", 
             "resource_date": "2011-07-20T10:19:51.273-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:36.268046"
+            "when": "2015-06-05T03:50:27.480551"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html", 
             "resource_date": "2011-07-20T10:19:51.273-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:36.268054"
+            "when": "2015-06-05T03:50:27.480558"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "List of private collections, dealers and auction houses with objects included in the Topographical Bibliography. (July 14, 2011)", 
+    "title": "List of private collections, dealers and auction houses", 
     "url": "http://www.griffith.ox.ac.uk/gri/list_of_collections.pdf", 
     "zotero_id": null
 }

@@ -1,22 +1,18 @@
 {
-    "description": "No. 159 Fall 1998: CLAY SEALINGS AND TABLETS FROM TELL ASMAR: AN ANCIENT MESOPOTAMIAN PALACE REINVESTIGATED No. 157 Spring 1998: ACHAEMENID ROYAL INSCRIPTIONS FROM PERSEPOLIS IN ELECTRONIC FORM", 
+    "description": "No. 159 Fall 1998: CLAY SEALINGS AND TABLETS FROM TELL ASMAR: AN ANCIENT MESOPOTAMIAN PALACE REINVESTIGATED", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:40.366050: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
+        "2015-06-05T03:50:31.364029: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Mesopotamia", 
         "Oriental Institute", 
         "antiquity", 
-        "epigraphy", 
         "journal", 
         "open access"
     ], 
-    "language": [
-        "en", 
-        0.9957500819174293
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -36,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
             "resource_date": "2013-12-10T13:02:44.344-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:40.366570"
+            "when": "2015-06-05T03:50:31.364566"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
             "resource_date": "2013-12-10T13:02:44.344-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:40.366577"
+            "when": "2015-06-05T03:50:31.364576"
         }
     ], 
     "related_resources": [], 

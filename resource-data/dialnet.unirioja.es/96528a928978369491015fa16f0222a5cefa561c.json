@@ -1,8 +1,8 @@
 {
-    "description": "4 2011 3 2011", 
+    "description": "4", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:12.367883: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/open-access-journal-revista-numismatica.html. (walk_to_json.py)"
+        "2015-06-05T03:50:17.131774: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/open-access-journal-revista-numismatica.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -25,24 +25,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6051825158650478127", 
             "resource_date": "2012-12-29T07:27:24.734-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:12.368413"
+            "when": "2015-06-05T03:50:17.132356"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-revista-numismatica.html", 
             "resource_date": "2012-12-29T07:27:24.734-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:12.368420"
+            "when": "2015-06-05T03:50:17.132364"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "4: Revista Numism\u00e1tica OMNI", 
+    "title": "4", 
+    "title_extended": "Revista Numism\u00e1tica OMNI: 4", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19789&clave_busqueda=314634", 
     "zotero_id": null
 }

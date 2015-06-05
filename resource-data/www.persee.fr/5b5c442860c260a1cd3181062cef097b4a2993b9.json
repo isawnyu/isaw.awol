@@ -1,8 +1,8 @@
 {
-    "description": "[ 6 ] 1993 : [ 7 ] 1993 : [ 7 ] 1993 : [ 7 ] 1993 : [ 7 ]", 
+    "description": "1991 : [ 6 ] 1991 : [ 6 ] 1991 : [ 6 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:35.280740: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/03/open-access-journal-cahiers-dextreme.html. (walk_to_json.py)"
+        "2015-06-05T03:50:12.177970: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/03/open-access-journal-cahiers-dextreme.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -23,24 +23,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4676912179062103289", 
             "resource_date": "2010-03-26T11:47:02.378-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:35.281262"
+            "when": "2015-06-05T03:50:12.178519"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/03/open-access-journal-cahiers-dextreme.html", 
             "resource_date": "2010-03-26T11:47:02.378-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:35.281269"
+            "when": "2015-06-05T03:50:12.178527"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1991 : [ 6 ]: Cahiers d'Extr\u00eame-Asie", 
+    "title": "6", 
+    "title_extended": "Cahiers d'Extr\u00eame-Asie: 6", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1991_num_6_1", 
     "zotero_id": null
 }

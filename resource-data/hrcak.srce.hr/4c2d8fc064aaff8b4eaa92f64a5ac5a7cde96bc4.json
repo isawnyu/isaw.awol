@@ -1,8 +1,8 @@
 {
-    "description": "Vol. 2 No. 1 Vol. 2 No. 1 2007 Vol. 1 No. 2 Vol. 1 No. 2 Vol. 1 No. 2 Vol. 1 No. 2", 
+    "description": "Vol. 2 No. 1 Vol. 2 No. 1", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:19.982747: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/open-access-journal-bulletin-of.html. (walk_to_json.py)"
+        "2015-06-05T03:50:12.086212: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/open-access-journal-bulletin-of.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -23,24 +23,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4638267331575491393", 
             "resource_date": "2011-12-30T16:44:36.587-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:19.983337"
+            "when": "2015-06-05T03:50:12.086918"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-bulletin-of.html", 
             "resource_date": "2011-12-30T16:44:36.587-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:19.983346"
+            "when": "2015-06-05T03:50:12.086927"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Vol. 2 \u00a0 No. 1: Bulletin of the International Association for Paleodontology", 
+    "title": "Vol. 2 \u00a0 No. 1", 
+    "title_extended": "Bulletin of the International Association for Paleodontology: Vol. 2 \u00a0 No. 1", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2750", 
     "zotero_id": null
 }

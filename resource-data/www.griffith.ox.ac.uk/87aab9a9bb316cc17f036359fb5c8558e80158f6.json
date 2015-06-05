@@ -1,14 +1,13 @@
 {
-    "description": "objects in the Egyptian Museum in Cairo has been updated. (June 3, 2011) The list of current archive projects has been updated. (May 2, 2011) The list of current archive projects has been updated. (May 2, 2011) The list of current archive projects", 
+    "description": "The Topographical Bibliography working list of objects in the Egyptian Museum in Cairo has been updated. (June 3, 2011) The Topographical Bibliography working list of objects in the Egyptian Museum in Cairo has been updated. (June 3, 2011) The Topographical Bibliography working list of objects in the Egyptian Museum in Cairo", 
     "domain": "www.griffith.ox.ac.uk", 
     "history": [
-        "2015-06-04T03:36:18.354169: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/new-from-griffith-institute.html. (walk_to_json.py)"
+        "2015-06-05T03:50:10.492126: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/new-from-griffith-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Cairo", 
         "Griffith Institute", 
-        "archive", 
         "bibliography", 
         "egyptology", 
         "museums"
@@ -36,18 +35,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4195572223629835088", 
             "resource_date": "2011-07-20T10:18:05.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:18.355030"
+            "when": "2015-06-05T03:50:10.492673"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/new-from-griffith-institute.html", 
             "resource_date": "2011-07-20T10:18:05.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:18.355041"
+            "when": "2015-06-05T03:50:10.492681"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "The Topographical Bibliography working list of objects in the Egyptian Museum in Cairo has been updated. (June 3, 2011)", 
+    "title": "objects in the Egyptian Museum in Cairo", 
     "url": "http://www.griffith.ox.ac.uk/gri/3cairo.pdf", 
     "zotero_id": null
 }

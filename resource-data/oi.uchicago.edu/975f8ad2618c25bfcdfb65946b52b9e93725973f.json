@@ -1,12 +1,11 @@
 {
-    "description": "OIMP 33. Before the Pyramids: The Origins of Egyptian Civilization. Edited by Emily Teeter. 2011. OIMP 32. Visible Language: Inventions of Writing in the Ancient Middle East and Beyond. Edited by Christopher Woods. 2010. OIMP 32. Visible Language: Inventions of Writing in the Ancient Middle East and Beyond. Edited by Christopher Woods. 2010. OIMP 32. Visible Language: Inventions of Writing in the Ancient Middle East and Beyond. Edited by Christopher Woods. 2010. OIMP 32. Visible Language: Inventions of Writing in the Ancient Middle East and Beyond.", 
+    "description": "OIMP 33. Before the Pyramids: The Origins of Egyptian Civilization. Edited by Emily Teeter. 2011. OIMP 33. Before the Pyramids: The Origins of Egyptian Civilization. Edited by Emily Teeter. 2011. OIMP 33. Before the Pyramids: The Origins of Egyptian Civilization. Edited by Emily Teeter. 2011. OIMP 33. Before the Pyramids: The Origins of Egyptian Civilization.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:07.032521: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html. (walk_to_json.py)"
+        "2015-06-05T03:49:59.070133: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Middle East", 
         "Oriental Institute", 
         "antiquity", 
         "catalogue", 
@@ -37,21 +36,16 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1593684842275887750", 
             "resource_date": "2013-09-11T12:42:16.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:07.033088"
+            "when": "2015-06-05T03:49:59.070754"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html", 
             "resource_date": "2013-09-11T12:42:16.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:07.033096"
+            "when": "2015-06-05T03:49:59.070762"
         }
     ], 
-    "related_resources": [
-        {
-            "label": "List of volumes in print", 
-            "url": "http://oi.uchicago.edu/research/pubs/catalog/oimp/"
-        }
-    ], 
+    "related_resources": [], 
     "subordinate_resources": [], 
     "title": "OIMP 33. Before the Pyramids: The Origins of Egyptian Civilization", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/oimp/oimp33.html", 

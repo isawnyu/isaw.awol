@@ -1,13 +1,12 @@
 {
-    "description": "Cris: Journal of the Historical Society of Kri\u017eevci ISSN:1332-2567 Dubrovnik Annals ISSN:1331-3878 Dubrovnik Annals", 
+    "description": "Cris: Journal of the Historical Society of Kri\u017eevci ISSN:1332-2567 Cris: Journal of the Historical Society of Kri\u017eevci", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:21.482882: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
+        "2015-06-05T03:50:13.355392: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
             "generic": [
-                "1331-3878", 
                 "1332-2567"
             ]
         }
@@ -23,7 +22,7 @@
     ], 
     "language": [
         "en", 
-        0.9999999999971003
+        1.0
     ], 
     "provenance": [
         {
@@ -38,24 +37,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:21.483402"
+            "when": "2015-06-05T03:50:13.355944"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:21.483409"
+            "when": "2015-06-05T03:50:13.355951"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Cris: Journal of the Historical Society of Kri\u017eevci ISSN:1332-2567", 
+    "title": "Cris: Journal of the Historical Society of Kri\u017eevci", 
+    "title_extended": "Hrcak: Portal of scientific journals of Croatia: Cris: Journal of the Historical Society of Kri\u017eevci", 
     "url": "http://hrcak.srce.hr/cris", 
     "zotero_id": null
 }

@@ -1,8 +1,8 @@
 {
-    "description": "Figurines from Seleucia on the Tigris: discovered by the expeditions conducted by the University of Michigan with the cooperation of the Toledo Museum of Art and the Cleveland Museum of Art, 1927-1932 Elarth, Wilhelmina Van Ingen, 1905-1969 1939 OK", 
+    "description": "Figurines from Seleucia on the Tigris: discovered by the expeditions conducted by the University of Michigan with the cooperation of the Toledo Museum of Art and the Cleveland Museum of Art, 1927-1932", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:41.154324: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/seleucia-on-tigris-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:32.069477: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/seleucia-on-tigris-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -37,13 +37,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9123824952500248838", 
             "resource_date": "2012-03-02T16:38:05.272-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:41.154863"
+            "when": "2015-06-05T03:50:32.070098"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/seleucia-on-tigris-in-amar.html", 
             "resource_date": "2012-03-02T16:38:05.272-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:41.154871"
+            "when": "2015-06-05T03:50:32.070106"
         }
     ], 
     "related_resources": [], 

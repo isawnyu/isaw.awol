@@ -1,8 +1,8 @@
 {
-    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports Demircihu\u0308yu\u0308k: die Ergebnisse der Ausgrabungen 1975-1978 ; Bd. 2 : Naturwissenschaftliche Untersuchungen 1987 Demircihueyuek V: die Ergebnisse der Ausgrabungen 1975-1978 1988 Demircihueyuek IV: die Ergebnisse der Ausgrabungen 1975-1978 1996 Bronze age -- Turkey Demirci Mound (Turkey) Demircihueyuek III, 2: die Ergebnisse der Ausgrabungen 1975-1978 1988 Demircihueyuek III, 1: die Ergebnisse der Ausgrabungen 1975-1978 1987 Demircihu\u0308yu\u0308k I: die Ergebnisse der Ausgrabungen 1975-78 ; Architektur, Stratigraphie und Befunde ; Text 1983 Bronze age -- Turkey Demirci Mound (Turkey) Demircihu\u0308yu\u0308k I: die Ergebnisse der Ausgrabungen 1975-78 ; Architektur, Stratigraphie und Befunde ; Pla\u0308ne 1983 Bronze age -- Turkey Demirci Mound (Turkey)", 
+    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:09.000356: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/demircihuyuk-excavation-reports-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:01.082051: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/demircihuyuk-excavation-reports-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -14,12 +14,11 @@
         "archaeological site", 
         "archaeology", 
         "archive", 
-        "bronze", 
         "reports", 
         "series"
     ], 
     "language": [
-        "de", 
+        "en", 
         1.0
     ], 
     "provenance": [
@@ -41,13 +40,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2143639301795409527", 
             "resource_date": "2013-05-14T09:41:48.098-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:09.000955"
+            "when": "2015-06-05T03:50:01.082657"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/demircihuyuk-excavation-reports-in-amar.html", 
             "resource_date": "2013-05-14T09:41:48.098-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:09.000963"
+            "when": "2015-06-05T03:50:01.082665"
         }
     ], 
     "related_resources": [], 
@@ -81,7 +80,7 @@
             "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=129375&REC=7"
         }
     ], 
-    "title": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "zotero_id": null
 }

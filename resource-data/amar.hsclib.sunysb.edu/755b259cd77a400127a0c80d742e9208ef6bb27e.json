@@ -1,8 +1,8 @@
 {
-    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports H\u0323alabiyya-Zenobia, place forte du limes oriental et la Haute-Me\u0301sopotamie au VIe sie\u0300cle ; v. 1 Les duche\u0301s frontaliers de Me\u0301sopotamie et les fortifications de Zenobia Lauffray, J. (Jean) 1983 OK H\u0323alabiyya-Zenobia, place forte du limes oriental et la Haute-Me\u0301sopotamie au VIe sie\u0300cle ; v. 2 L'architecture publique, religieuse, prive\u0301e et fune\u0301raire Lauffray, J. (Jean) 1991 OK H\u0323alabiyya-Zenobia, place forte du limes oriental et la Haute-Me\u0301sopotamie au VIe sie\u0300cle ; v. 1 Les duche\u0301s frontaliers de Me\u0301sopotamie et les fortifications de Zenobia Lauffray, J. (Jean) 1983 OK H\u0323alabiyya-Zenobia, place forte du limes oriental et la Haute-Me\u0301sopotamie au VIe sie\u0300cle ; v. 2 L'architecture publique, religieuse, prive\u0301e et fune\u0301raire Lauffray, J. (Jean) 1991 OK H\u0323alabiyya-Zenobia, place forte du limes oriental et la Haute-Me\u0301sopotamie au VIe sie\u0300cle ; v. 1 Les duche\u0301s frontaliers de Me\u0301sopotamie et les fortifications de Zenobia Lauffray, J. (Jean) 1983 OK", 
+    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:27.979929: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/halabiyya-zenobia-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:19.498705: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/halabiyya-zenobia-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -12,12 +12,11 @@
         "archaeological site", 
         "archaeology", 
         "archive", 
-        "fortifications", 
         "reports", 
         "series"
     ], 
     "language": [
-        "fr", 
+        "en", 
         1.0
     ], 
     "provenance": [
@@ -39,13 +38,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6473868758059801161", 
             "resource_date": "2012-03-02T16:40:23.900-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:27.980517"
+            "when": "2015-06-05T03:50:19.499439"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/halabiyya-zenobia-in-amar.html", 
             "resource_date": "2012-03-02T16:40:23.900-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:27.980525"
+            "when": "2015-06-05T03:50:19.499449"
         }
     ], 
     "related_resources": [], 
@@ -59,7 +58,7 @@
             "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=100528&REC=2"
         }
     ], 
-    "title": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "zotero_id": null
 }

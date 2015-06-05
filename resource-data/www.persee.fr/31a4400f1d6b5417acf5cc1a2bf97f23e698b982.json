@@ -1,8 +1,8 @@
 {
-    "description": "[ 3 ] 1970-1979 1970 : [ 4 ] 1971 : [ 5 ] 1972 : [ 6 ] 1973 : [ 7 ] 1974 : [ 8 ] 1975 : [ 9 ] 1976 : [ 10 ] 1977 : [ 11 ] 1978 : [ 12 ] 1979 : [ 13 ] [ 14 ] 1970-1979", 
+    "description": "1969 : [ 3 ] 1969 : [ 3 ] 1969 : [ 3 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:41.309172: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/newly-open-access-journal-antiquites.html. (walk_to_json.py)"
+        "2015-06-05T03:50:20.505778: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/newly-open-access-journal-antiquites.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -27,24 +27,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6664532935434239322", 
             "resource_date": "2013-02-21T06:18:34.731-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:41.309702"
+            "when": "2015-06-05T03:50:20.506306"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/newly-open-access-journal-antiquites.html", 
             "resource_date": "2013-02-21T06:18:34.731-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:41.309710"
+            "when": "2015-06-05T03:50:20.506313"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1969 : [ 3 ]: Antiquit\u00e9s africaines", 
+    "title": "3", 
+    "title_extended": "Antiquit\u00e9s africaines: 3", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1969_num_3_1", 
     "zotero_id": null
 }

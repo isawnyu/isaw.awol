@@ -1,8 +1,8 @@
 {
-    "description": "Phantasia & phantasma. Anciens textes & nouvelles images [Article] Fran\u00e7ois Soulages", 
+    "description": "Phantasia & phantasma. Anciens textes & nouvelles images [Article] Phantasia & phantasma. Anciens textes & nouvelles images", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:39.792636: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
+        "2015-06-05T03:50:18.483047: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -12,7 +12,7 @@
     ], 
     "language": [
         "fr", 
-        0.9999999999999976
+        0.9999999999999654
     ], 
     "provenance": [
         {
@@ -33,18 +33,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
             "resource_date": "2012-08-03T09:39:09.216-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:39.793178"
+            "when": "2015-06-05T03:50:18.483572"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
             "resource_date": "2012-08-03T09:39:09.216-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:39.793186"
+            "when": "2015-06-05T03:50:18.483579"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Phantasia & phantasma. Anciens textes & nouvelles images [Article]", 
+    "title": "Phantasia & phantasma. Anciens textes & nouvelles images", 
     "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2001_num_122_2_1711", 
     "zotero_id": null
 }

@@ -1,19 +1,19 @@
 {
-    "description": "AS 9. Studies in Akkadian Grammar. Arno Poebel. Originally published in 1939. AS 8. The Sumerian Prefix Forms BE- and BI- in the Time of the Earlier Princes of Laga\u0161. Samuel N. Kramer. Originally published in 1936. AS 8. The Sumerian Prefix Forms BE- and BI- in the Time of the Earlier Princes of Laga\u0161. Samuel N. Kramer. Originally published in 1936. AS 8. The Sumerian Prefix Forms BE- and BI- in the Time of the Earlier Princes of Laga\u0161. Samuel N. Kramer. Originally published in 1936. AS 8. The Sumerian Prefix Forms BE- and BI- in the Time of the Earlier Princes of Laga\u0161.", 
+    "description": "AS 9. Studies in Akkadian Grammar. Arno Poebel. Originally published in 1939. AS 9. Studies in Akkadian Grammar. Arno Poebel. Originally published in 1939. AS 9. Studies in Akkadian Grammar. Arno Poebel. Originally published in 1939. AS 9. Studies in Akkadian Grammar.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:10.178327: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html. (walk_to_json.py)"
+        "2015-06-05T03:50:02.248620: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Akkadian", 
         "Oriental Institute", 
-        "Sumerian", 
+        "grammar", 
         "open access"
     ], 
     "language": [
         "en", 
-        1.0
+        0.9999999870548917
     ], 
     "provenance": [
         {
@@ -34,18 +34,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2310553175017692217", 
             "resource_date": "2013-12-29T16:00:12.703-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:10.178874"
+            "when": "2015-06-05T03:50:02.249262"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html", 
             "resource_date": "2013-12-29T16:00:12.703-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:10.178881"
+            "when": "2015-06-05T03:50:02.249271"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "AS 9. Studies in Akkadian Grammar. Arno Poebel", 
+    "title": "AS 9. Studies in Akkadian Grammar", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/as/as9.html", 
     "zotero_id": null
 }

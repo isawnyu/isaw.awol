@@ -1,8 +1,8 @@
 {
-    "description": "Vol. 44 No. 1 Vol. 44 No. 1 2010 Vol. 43 No. 1 Vol. 43 No. 1 Vol. 43 No. 1 Vol. 43 No. 1", 
+    "description": "Vol. 44 No. 1 Vol. 44 No. 1", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:41.476964: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-vjesnik-arheoloskog.html. (walk_to_json.py)"
+        "2015-06-05T03:50:32.442420: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-vjesnik-arheoloskog.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -27,24 +27,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9222293135690947661", 
             "resource_date": "2013-02-21T10:56:33.785-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:41.477502"
+            "when": "2015-06-05T03:50:32.443108"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-vjesnik-arheoloskog.html", 
             "resource_date": "2013-02-21T10:56:33.785-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:41.477510"
+            "when": "2015-06-05T03:50:32.443119"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Vol. 44 \u00a0 No. 1: Vjesnik Arheolo\u0161kog muzeja u Zagrebu - Journal of the Zagreb Archaeological Museum", 
+    "title": "Vol. 44 \u00a0 No. 1", 
+    "title_extended": "Vjesnik Arheolo\u0161kog muzeja u Zagrebu - Journal of the Zagreb Archaeological Museum: Vol. 44 \u00a0 No. 1", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6841", 
     "zotero_id": null
 }

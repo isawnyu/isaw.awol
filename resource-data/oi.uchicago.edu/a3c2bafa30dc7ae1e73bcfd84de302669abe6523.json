@@ -1,19 +1,18 @@
 {
-    "description": "\"The Oriental Institute Handbook and Museum Guide. Oriental Institute Museum. Originally published in 1941.\" The Oriental Institute Open Access Publications", 
+    "description": "\"The Oriental Institute Handbook and Museum Guide. Oriental Institute Museum. Originally published in 1941.\"", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:20.947996: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+        "2015-06-05T03:50:12.946599: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Oriental Institute", 
         "backlist", 
-        "museums", 
-        "open access"
+        "museums"
     ], 
     "language": [
         "en", 
-        1.0
+        0.9999999999995797
     ], 
     "provenance": [
         {
@@ -34,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4868881653292409097", 
             "resource_date": "2013-02-13T14:18:41.154-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:20.949331"
+            "when": "2015-06-05T03:50:12.947119"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/newly-online-from-oriental-institutes.html", 
             "resource_date": "2013-02-13T14:18:41.154-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:20.949346"
+            "when": "2015-06-05T03:50:12.947126"
         }
     ], 
     "related_resources": [], 

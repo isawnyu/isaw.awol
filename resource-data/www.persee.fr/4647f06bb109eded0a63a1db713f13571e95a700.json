@@ -1,8 +1,8 @@
 {
-    "description": "[ 170 ] [ 171 ]", 
+    "description": "[ 171 ] [ 172 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:33.194791: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-journal-revue-des-etudes.html. (walk_to_json.py)"
+        "2015-06-05T03:50:09.483671: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-journal-revue-des-etudes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -25,24 +25,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-400797245010802167", 
             "resource_date": "2014-01-07T17:18:20.367-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:33.195340"
+            "when": "2015-06-05T03:50:09.484194"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-journal-revue-des-etudes.html", 
             "resource_date": "2014-01-07T17:18:20.367-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:33.195348"
+            "when": "2015-06-05T03:50:09.484201"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "170: The Revue des \u00e9tudes byzantines is the only French journal entirely devoted to the Byzantine world. As a successor publication to the \u00c9chos d\u2019Orient (1897-1942), it has been published since 1943 by the Institut fran\u00e7ais d\u2019\u00e9tudes byzantines (more details here)", 
-    "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1933_num_32_170", 
+    "title": "171", 
+    "title_extended": "Revue des \u00e9tudes byzantines: 171", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/rebyz_1146-9447_1933_num_32_171", 
     "zotero_id": null
 }

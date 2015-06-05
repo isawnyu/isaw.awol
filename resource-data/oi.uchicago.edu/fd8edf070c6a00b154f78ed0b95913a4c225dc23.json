@@ -1,20 +1,18 @@
 {
-    "description": "Pathways To Power. Gil J. Stein Persepolis Fortification Archive Project. Matthew W. Stolper", 
+    "description": "Pathways To Power. Gil J. Stein", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:27.677728: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html. (walk_to_json.py)"
+        "2015-06-05T03:50:19.233134: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Oriental Institute", 
         "annual report", 
-        "archive", 
-        "fortifications", 
         "report"
     ], 
     "language": [
         "de", 
-        0.9509917408775942
+        0.9754448731815103
     ], 
     "provenance": [
         {
@@ -35,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6421273301002106069", 
             "resource_date": "2013-02-19T12:59:49.211-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:27.678283"
+            "when": "2015-06-05T03:50:19.233692"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html", 
             "resource_date": "2013-02-19T12:59:49.211-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:27.678290"
+            "when": "2015-06-05T03:50:19.233699"
         }
     ], 
     "related_resources": [], 

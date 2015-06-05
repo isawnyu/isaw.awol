@@ -1,8 +1,8 @@
 {
-    "description": "[ 6-1 ] 1938 : [ 7-1 ] [ 7-2 ] 1938 : [ 7-1 ] [ 7-2 ] 1938 : [ 7-1 ] [ 7-2 ] 1938 : [ 7-1 ]", 
+    "description": "1937 : [ 6-1 ] 1937 : [ 6-1 ] 1937 : [ 6-1 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:46.556679: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html. (walk_to_json.py)"
+        "2015-06-05T03:50:26.850256: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -24,24 +24,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7945682581620223967", 
             "resource_date": "2013-12-29T07:35:34.289-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:46.557207"
+            "when": "2015-06-05T03:50:26.850828"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html", 
             "resource_date": "2013-12-29T07:35:34.289-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:46.557214"
+            "when": "2015-06-05T03:50:26.850836"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1937 : [ 6-1 ]: L'Antiquit\u00e9 Classique", 
+    "title": "6-1", 
+    "title_extended": "L'Antiquit\u00e9 Classique: 6-1", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/antiq_0770-2817_1937_num_6_1", 
     "zotero_id": null
 }

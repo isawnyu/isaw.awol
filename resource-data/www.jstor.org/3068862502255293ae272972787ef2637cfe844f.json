@@ -1,29 +1,16 @@
 {
-    "description": "http://www.jstor.org/action/ showPublication?journalCode= mediterraneanstu http://www.jstor.org/action/ showPublication?journalCode= mediterraneanstu Coverage: Vols. 1-15 (1989-2006) Moving Wall: 5 years Publisher: Pennsylvania State University Press ISSN: 1074-164X Coverage: Vols. 1-15 (1989-2006) Moving Wall: 5 years Publisher: Pennsylvania State University Press ISSN: 1074-164X Rheinisches Museum f\u00fcr Philologie [1832- ] (Arts & Sciences XI) http://www.jstor.org/action/ showPublication?journalCode= rheimusephil Previous Title: Rheinisches Museum f\u00fcr Philologie, Geschichte und griechische Philosophie [1827-1832] (0939-2718) http://www.jstor.org/action/ showPublication?journalCode= rheimusephilgesc Coverage: 1. Jahrg. (1827) \u2013 3. Jahrg., H. 4 (1832); 1. Jahrg. (1832) \u2013 Neue Folge, 151. Bd., H. 3/4 (2008) Moving Wall: 3 years Publisher: J.D. Sauerl\u00e4nders Verlag ISSN: 0035-449X", 
+    "description": "Mediterranean Studies (Arts & Sciences XI) http://www.jstor.org/action/ showPublication?journalCode= mediterraneanstu Mediterranean Studies (Arts & Sciences XI) http://www.jstor.org/action/ showPublication?journalCode= mediterraneanstu", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:09.600264: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html. (walk_to_json.py)"
+        "2015-06-05T03:50:01.658489: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html. (walk_to_json.py)"
     ], 
-    "identifiers": {
-        "issn": {
-            "generic": [
-                "1074-164X", 
-                "0035-449X"
-            ]
-        }
-    }, 
+    "identifiers": {}, 
     "keywords": [
         "JSTOR", 
         "Mediterranean", 
-        "Pennsylvania", 
-        "antiquity", 
-        "museums", 
-        "philology"
+        "antiquity"
     ], 
-    "language": [
-        "de", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -37,24 +24,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2247526536842272315", 
             "resource_date": "2012-06-15T12:47:49.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:09.600848"
+            "when": "2015-06-05T03:50:01.659057"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html", 
             "resource_date": "2012-06-15T12:47:49.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:09.600856"
+            "when": "2015-06-05T03:50:01.659065"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Mediterranean Studies (Arts & Sciences XI) http://www.jstor", 
+    "title": "http://www.jstor.org/action/showPublication?journalCode=mediterraneanstu", 
+    "title_extended": "http://www.jstor.org/action/showPublication?journalCode=antikekunst: http://www.jstor.org/action/showPublication?journalCode=mediterraneanstu", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=mediterraneanstu", 
     "zotero_id": null
 }

@@ -1,8 +1,8 @@
 {
-    "description": "[ 17-18 ] Culture & Mus\u00e9es 2003 : [ 1 ] [ 2 ] 2004 : [ 3 ] [ 4 ] 2005 : [ 5 ] [ 6 ] 2006 : [ 7 ] [ 8 ] 2007 : [ 9 ] [ 10 ] 2008 : [ 11 ] [ 12 ] 2009 : [ 13 ] [ 14 ] Culture & Mus\u00e9es", 
+    "description": "2000 : [ 17-18 ] 2000 : [ 17-18 ] 2000 : [ 17-18 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:38.115590: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-culture-musees.html. (walk_to_json.py)"
+        "2015-06-05T03:50:15.911784: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-culture-musees.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -10,10 +10,7 @@
         "journal", 
         "open access"
     ], 
-    "language": [
-        "fr", 
-        0.9999999999958586
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -27,24 +24,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5763382825317509391", 
             "resource_date": "2011-02-14T09:02:33.881-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:38.116149"
+            "when": "2015-06-05T03:50:15.912388"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-culture-musees.html", 
             "resource_date": "2011-02-14T09:02:33.881-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:38.116156"
+            "when": "2015-06-05T03:50:15.912395"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2000 : [ 17-18 ]: Culture & Mus\u00e9es", 
+    "title": "17-18", 
+    "title_extended": "Culture & Mus\u00e9es: 17-18", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/pumus_1164-5385_2000_num_17_1", 
     "zotero_id": null
 }

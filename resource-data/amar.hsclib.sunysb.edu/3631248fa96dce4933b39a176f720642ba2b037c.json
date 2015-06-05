@@ -1,8 +1,8 @@
 {
-    "description": "Ausgrabungen in Uruk-Warka: Endberichte. Band 24: Uruk: fru\u0308heste Siegelabrollungen Boehmer, R. M. (Rainer Michael) 1999 OK See more Series in AMAR", 
+    "description": "Ausgrabungen in Uruk-Warka: Endberichte. Band 24: Uruk: fru\u0308heste Siegelabrollungen", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:23.229647: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-uruk-warka-endberichte.html. (walk_to_json.py)"
+        "2015-06-05T03:50:15.012138: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-uruk-warka-endberichte.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -10,8 +10,7 @@
         "Iraq", 
         "Mesopotamia", 
         "Uruk", 
-        "archaeology", 
-        "series"
+        "archaeology"
     ], 
     "language": [
         "de", 
@@ -36,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5477920149853260085", 
             "resource_date": "2012-03-02T16:45:02.866-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:23.230204"
+            "when": "2015-06-05T03:50:15.013198"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-uruk-warka-endberichte.html", 
             "resource_date": "2012-03-02T16:45:02.866-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:23.230211"
+            "when": "2015-06-05T03:50:15.013222"
         }
     ], 
     "related_resources": [], 

@@ -1,15 +1,14 @@
 {
-    "description": "Gordion seals and sealings: individuals and society 2005 Seals (Numismatics) -- Turkey -- Gordion (Extinct city) Gordion (Extinct city) -- Antiquities", 
+    "description": "Gordion seals and sealings: individuals and society", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:28.553098: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/gordion-excavation-reports-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:20.157899: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/gordion-excavation-reports-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Amar", 
         "Anatolia", 
         "Turkey", 
-        "antiquities", 
         "archaeology", 
         "reports", 
         "seals"
@@ -37,13 +36,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6591476688235662047", 
             "resource_date": "2013-05-14T09:42:02.317-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:28.553635"
+            "when": "2015-06-05T03:50:20.158509"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/gordion-excavation-reports-in-amar.html", 
             "resource_date": "2013-05-14T09:42:02.317-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:28.553643"
+            "when": "2015-06-05T03:50:20.158517"
         }
     ], 
     "related_resources": [], 

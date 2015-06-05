@@ -1,8 +1,8 @@
 {
-    "description": "Vol. 20 No. 1 Vol. 20 No. 1 1995 Vol. 19 No. 1 Vol. 19 No. 1 Vol. 19 No. 1 Vol. 19 No. 1", 
+    "description": "Vol. 20 No. 1 Vol. 20 No. 1", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:29.639507: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-journal-opvscvla.html. (walk_to_json.py)"
+        "2015-06-05T03:50:21.186477: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-journal-opvscvla.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -24,24 +24,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6842039897589014782", 
             "resource_date": "2012-09-14T05:54:47.148-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:29.640054"
+            "when": "2015-06-05T03:50:21.186998"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-opvscvla.html", 
             "resource_date": "2012-09-14T05:54:47.148-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:29.640062"
+            "when": "2015-06-05T03:50:21.187006"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Vol. 20 \u00a0 No. 1: Opvscvla Archaeologica Radovi Arheolo\u0161kog zavoda", 
+    "title": "Vol. 20 \u00a0 No. 1", 
+    "title_extended": "Opvscvla Archaeologica Radovi Arheolo\u0161kog zavoda: Vol. 20 \u00a0 No. 1", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=576", 
     "zotero_id": null
 }

@@ -1,18 +1,17 @@
 {
-    "description": "\"OIC 14. Discoveries in Anatolia, 1930-31. Hans Henning von der Osten. Originally published in 1933.\" \"OIC 11. Anatolia Through the Ages: Discoveries at the Alishar Mound 1927-29. Erich F. Schmidt. Originally published in 1931.\"", 
+    "description": "\"OIC 14. Discoveries in Anatolia, 1930-31. Hans Henning von der Osten. Originally published in 1933.\"", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:36.969865: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_30.html. (walk_to_json.py)"
+        "2015-06-05T03:50:28.158978: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_30.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Anatolia", 
         "Oriental Institute", 
         "backlist"
     ], 
     "language": [
-        "en", 
-        1.0
+        "de", 
+        0.9986355079315343
     ], 
     "provenance": [
         {
@@ -33,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8216425582081214820", 
             "resource_date": "2012-12-07T16:36:06.856-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:36.970401"
+            "when": "2015-06-05T03:50:28.159498"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_30.html", 
             "resource_date": "2012-12-07T16:36:06.856-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:36.970409"
+            "when": "2015-06-05T03:50:28.159505"
         }
     ], 
     "related_resources": [], 

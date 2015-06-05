@@ -1,8 +1,8 @@
 {
-    "description": "6 1992 5 1992", 
+    "description": "6", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:15.639608: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/espacio-tiempo-y-forma.html. (walk_to_json.py)"
+        "2015-06-05T03:50:23.117187: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/espacio-tiempo-y-forma.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -27,24 +27,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7081193767224083798", 
             "resource_date": "2012-06-17T08:11:56.192-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:15.640208"
+            "when": "2015-06-05T03:50:23.117791"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/espacio-tiempo-y-forma.html", 
             "resource_date": "2012-06-17T08:11:56.192-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:15.640216"
+            "when": "2015-06-05T03:50:23.117799"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "6: Espacio, tiempo y forma. Serie II, Historia antigua", 
+    "title": "6", 
+    "title_extended": "Espacio, tiempo y forma. Serie II, Historia antigua: 6", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=515&clave_busqueda=14857", 
     "zotero_id": null
 }

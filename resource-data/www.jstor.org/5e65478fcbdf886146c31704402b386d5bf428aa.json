@@ -2,7 +2,7 @@
     "description": "The British School at Athens Studies Coverage: 1995-2007 (Vols. 1-15) Moving Wall: 3 years JSTOR Discipline(s): Archaeology , Classical Studies Published by: British School at Athens ISSN: 2159-4996 Journal Description The Studies series of the British School at Athens publishes a range of material beyond the excavation reports which are the focus of the Supplementary Volumes.\u00a0\u00a0 They consist mainly of BSA-led conference reports or Festschriften for BSA members, both of which embrace a wide range of content, from the mesolithic to mediaeval periods.\u00a0\u00a0 In addition two volumes present authoritative accounts of pottery production at Knossos on Crete in the Bronze Age and in the Greek and Roman periods.", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:21.315281: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html. (walk_to_json.py)"
+        "2015-06-05T03:50:13.233187: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
@@ -51,17 +51,38 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4915131031139671891", 
             "resource_date": "2011-07-24T07:51:55.926-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:21.315843"
+            "when": "2015-06-05T03:50:13.233797"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html", 
             "resource_date": "2011-07-24T07:51:55.926-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:21.315851"
+            "when": "2015-06-05T03:50:13.233806"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "label": "Archaeology", 
+            "url": "http://www.jstor.org/action/showJournals#43693384"
+        }, 
+        {
+            "label": "Classical Studies", 
+            "url": "http://www.jstor.org/action/showJournals#43693391"
+        }, 
+        {
+            "label": "British School at Athens", 
+            "url": "http://www.jstor.org/action/showPublisher?publisherCode=bsa"
+        }, 
+        {
+            "label": "The British School at Athens. Supplementary Volumes", 
+            "url": "http://www.jstor.org/action/showPublication?journalCode=britschathsupvol"
+        }, 
+        {
+            "label": "The British School at Athens. Supplementary Papers", 
+            "url": "http://www.jstor.org/action/showPublication?journalCode=britschathsuppap"
+        }
+    ], 
     "title": "The British School at Athens Studies", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=britschoathestud", 
     "zotero_id": null

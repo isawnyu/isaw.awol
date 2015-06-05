@@ -1,8 +1,8 @@
 {
-    "description": "[ 27-1 ] 1960-1969 1961 : [ 30-2 ] 1962 : [ 31-1-2 ] 1963 : [ 32-1 ] [ 32-2 ] 1964 : [ 33-1 ] 1965 : [ 34-2 ] 1966 : [ 35-1 ] [ 35-2 ] [ Suppl ] 1967 : [ 36-1 ] 1968 : [ 37-2 ] 1969 : [ 38-1 ] 1960-1969", 
+    "description": "1958 : [ 27-1 ] 1958 : [ 27-1 ] 1958 : [ 27-1 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:46.666349: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html. (walk_to_json.py)"
+        "2015-06-05T03:50:26.943022: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -24,24 +24,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7945682581620223967", 
             "resource_date": "2013-12-29T07:35:34.289-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:46.666943"
+            "when": "2015-06-05T03:50:26.943543"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html", 
             "resource_date": "2013-12-29T07:35:34.289-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:46.666954"
+            "when": "2015-06-05T03:50:26.943550"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1958 : [ 27-1 ]: L'Antiquit\u00e9 Classique", 
+    "title": "27-1", 
+    "title_extended": "L'Antiquit\u00e9 Classique: 27-1", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/antiq_0770-2817_1958_num_27_1", 
     "zotero_id": null
 }

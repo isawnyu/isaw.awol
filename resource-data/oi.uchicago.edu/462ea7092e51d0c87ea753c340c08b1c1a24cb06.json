@@ -1,8 +1,8 @@
 {
-    "description": "\"The Oriental Institute of the University of Chicago: Fifth Edition. Originally published between 1936-1946.\" \"Service in the Memory of James Henry Breasted. Originally published in 1936.\"", 
+    "description": "\"The Oriental Institute of the University of Chicago: Fifth Edition. Originally published between 1936-1946.\"", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:09.534649: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes_20.html. (walk_to_json.py)"
+        "2015-06-05T03:50:01.595451: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes_20.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -32,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-224444973179106952", 
             "resource_date": "2012-12-20T12:49:30.883-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:09.535249"
+            "when": "2015-06-05T03:50:01.596039"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes_20.html", 
             "resource_date": "2012-12-20T12:49:30.883-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:09.535257"
+            "when": "2015-06-05T03:50:01.596048"
         }
     ], 
     "related_resources": [], 

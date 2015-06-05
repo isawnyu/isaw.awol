@@ -1,14 +1,12 @@
 {
-    "description": "MSKH 1. A Catalogue of Cuneiform Sources Pertaining to Specific Monarchs of the Kassite Dynasty. J. A. Brinkman. 1977. OIC 24. The American Expedition to Idalion, Cyprus 1973-1980. L. E. Stager and A. M. Walker, eds. 1989.", 
+    "description": "MSKH 1. A Catalogue of Cuneiform Sources Pertaining to Specific Monarchs of the Kassite Dynasty. J. A. Brinkman. 1977.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:37.520225: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+        "2015-06-05T03:50:28.664766: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Cyprus", 
         "Oriental Institute", 
-        "archaeology", 
         "backlist", 
         "catalogue", 
         "cuneiform"
@@ -36,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8365232251359351016", 
             "resource_date": "2012-11-23T07:14:32.413-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:37.520806"
+            "when": "2015-06-05T03:50:28.665313"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html", 
             "resource_date": "2012-11-23T07:14:32.413-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:37.520814"
+            "when": "2015-06-05T03:50:28.665321"
         }
     ], 
     "related_resources": [], 

@@ -1,16 +1,14 @@
 {
-    "description": "OIP 51. Medinet Habu, Volume 4. Festival Scenes of Ramses III. By the Epigraphic Survey. Originally published in 1940. OIP 41. The Excavation of Medinet Habu, Volume 2: The Temples of the Eighteenth Dynasty. By Uvo H\u00f6lscher. Originally published in 1939. OIP 41. The Excavation of Medinet Habu, Volume 2: The Temples of the Eighteenth Dynasty. By Uvo H\u00f6lscher. Originally published in 1939. OIP 41. The Excavation of Medinet Habu, Volume 2: The Temples of the Eighteenth Dynasty.", 
+    "description": "OIP 51. Medinet Habu, Volume 4. Festival Scenes of Ramses III. By the Epigraphic Survey. Originally published in 1940. OIP 51. Medinet Habu, Volume 4. Festival Scenes of Ramses III. By the Epigraphic Survey. Originally published in 1940. OIP 51. Medinet Habu, Volume 4. Festival Scenes of Ramses III. By the Epigraphic Survey.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:19.340443: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/newly-scaned-at-oriental-institute.html. (walk_to_json.py)"
+        "2015-06-05T03:50:11.457201: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/newly-scaned-at-oriental-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Oriental Institute", 
-        "archaeology", 
         "digitization", 
-        "epigraphy", 
-        "religion"
+        "epigraphy"
     ], 
     "language": [
         "en", 
@@ -35,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4428678487491244231", 
             "resource_date": "2009-12-03T18:38:17.902-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:19.340972"
+            "when": "2015-06-05T03:50:11.457752"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/newly-scaned-at-oriental-institute.html", 
             "resource_date": "2009-12-03T18:38:17.902-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:19.340981"
+            "when": "2015-06-05T03:50:11.457759"
         }
     ], 
     "related_resources": [], 

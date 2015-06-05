@@ -1,8 +1,8 @@
 {
-    "description": "objects in the Egyptian Museum in Cairo has been updated. (June 22, 2011) Alfred Lucas's Register of samples 1922-1939 which includes many items from the tomb of Tutankhamun. (June 15, 2011) Alfred Lucas's Register of samples 1922-1939 which includes many items from the tomb of Tutankhamun. (June 15, 2011) Alfred Lucas's Register of samples 1922-1939", 
+    "description": "The Topographical Bibliography working list of objects in the Egyptian Museum in Cairo has been updated. (June 22, 2011) The Topographical Bibliography working list of objects in the Egyptian Museum in Cairo has been updated. (June 22, 2011) The Topographical Bibliography working list of objects in the Egyptian Museum in Cairo", 
     "domain": "www.griffith.ox.ac.uk", 
     "history": [
-        "2015-06-04T03:36:36.283998: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html. (walk_to_json.py)"
+        "2015-06-05T03:50:27.494658: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -35,18 +35,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8094499180810007320", 
             "resource_date": "2011-07-20T10:19:51.273-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:36.284548"
+            "when": "2015-06-05T03:50:27.495181"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html", 
             "resource_date": "2011-07-20T10:19:51.273-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:36.284556"
+            "when": "2015-06-05T03:50:27.495189"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "The Topographical Bibliography working list of objects in the Egyptian Museum in Cairo has been updated. (June 22, 2011)", 
+    "title": "objects in the Egyptian Museum in Cairo", 
     "url": "http://www.griffith.ox.ac.uk/gri/3cairo.pdf", 
     "zotero_id": null
 }

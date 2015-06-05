@@ -1,8 +1,8 @@
 {
-    "description": "Gallia Gallia Pr\u00e9histoire", 
+    "description": "Gallia", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:27.242404: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
+        "2015-06-05T03:50:01.838367: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -11,10 +11,7 @@
         "antiquity", 
         "digital library"
     ], 
-    "language": [
-        "fr", 
-        0.9997986044365349
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -34,13 +31,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2013-04-12T11:22:30.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:27.242985"
+            "when": "2015-06-05T03:50:01.839450"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2013-04-12T11:22:30.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:27.242993"
+            "when": "2015-06-05T03:50:01.839467"
         }
     ], 
     "related_resources": [], 

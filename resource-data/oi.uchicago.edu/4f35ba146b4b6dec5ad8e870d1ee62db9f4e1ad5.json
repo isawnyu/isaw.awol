@@ -1,19 +1,16 @@
 {
-    "description": "OIMP 25. Embroidering Identities: A Century of Palestinian Clothing. Iman Saca. 2006. OIMP 24. Lost Nubia: A Centennial Exhibit of Photographs from the 1905-1907 Egyptian Expedition of the University of Chicago. John A. Larson. 2006. OIMP 24. Lost Nubia: A Centennial Exhibit of Photographs from the 1905-1907 Egyptian Expedition of the University of Chicago. John A. Larson. 2006. OIMP 24. Lost Nubia: A Centennial Exhibit of Photographs from the 1905-1907 Egyptian Expedition of the University of Chicago. John A. Larson. 2006. OIMP 24. Lost Nubia: A Centennial Exhibit of Photographs from the 1905-1907 Egyptian Expedition of the University of Chicago.", 
+    "description": "OIMP 25. Embroidering Identities: A Century of Palestinian Clothing. Iman Saca. 2006. OIMP 25. Embroidering Identities: A Century of Palestinian Clothing. Iman Saca. 2006. OIMP 25. Embroidering Identities: A Century of Palestinian Clothing. Iman Saca. 2006. OIMP 25. Embroidering Identities: A Century of Palestinian Clothing.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:07.071571: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html. (walk_to_json.py)"
+        "2015-06-05T03:49:59.107127: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Oriental Institute", 
         "antiquity", 
-        "archaeology", 
         "catalogue", 
-        "egyptology", 
         "exhibition", 
-        "exhibition catalogue", 
-        "imagery"
+        "exhibition catalogue"
     ], 
     "language": [
         "en", 
@@ -38,21 +35,16 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1593684842275887750", 
             "resource_date": "2013-09-11T12:42:16.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:07.072130"
+            "when": "2015-06-05T03:49:59.107674"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html", 
             "resource_date": "2013-09-11T12:42:16.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:07.072137"
+            "when": "2015-06-05T03:49:59.107681"
         }
     ], 
-    "related_resources": [
-        {
-            "label": "List of volumes in print", 
-            "url": "http://oi.uchicago.edu/research/pubs/catalog/oimp/"
-        }
-    ], 
+    "related_resources": [], 
     "subordinate_resources": [], 
     "title": "OIMP 25. Embroidering Identities: A Century of Palestinian Clothing", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/oimp/oimp25.html", 

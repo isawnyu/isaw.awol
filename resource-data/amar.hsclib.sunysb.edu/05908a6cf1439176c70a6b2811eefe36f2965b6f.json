@@ -1,32 +1,23 @@
 {
-    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports Archaologische Berichte aus dem Yemen in AMAR Ausgrabungen der Deutschen Orient-Gesellschaft in Babylon in AMAR Ausgrabungen in Sendschirli in AMAR Ausgrabungen in Uruk-Warka: Endberichte in AMAR Beycesultan in AMAR Bogazkoy in AMAR Demircihu\u0308yu\u0308k Excavation Reports in AMAR Excavations at Tell Brak in AMAR Excavations at Tepe Yahya, Iran in AMAR Gordion Excavation Reports in AMAR Halabiyya-Zenobia in AMAR Isin - Isan Bahriyat in AMAR Kamid el-Loz in AMAR Larsa Reports in AMAR Mission Arche\u0301ologique de Mari in AMAR Les Monuments ayyoubides de Damas in AMAR Sardis: publications of the American Society for the excavation of Sardis in AMAR Seleucia on the Tigris in AMAR Ugaritica in AMAR Archaologische Berichte aus dem Yemen in AMAR", 
+    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:14.437306: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/series-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:06.676527: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/series-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Amar", 
-        "Babylon", 
-        "Iran", 
-        "Larsa", 
-        "Mari", 
         "Mesopotamia", 
-        "Sardis", 
-        "Seleucia", 
-        "Tell Brak", 
-        "Yemen", 
         "archaeological site", 
         "archaeology", 
         "archive", 
         "digital library", 
-        "monuments", 
         "reports", 
         "series"
     ], 
     "language": [
         "en", 
-        1.0
+        0.999999954997691
     ], 
     "provenance": [
         {
@@ -47,13 +38,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3267095498670794634", 
             "resource_date": "2013-10-23T05:43:02.177-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:14.437875"
+            "when": "2015-06-05T03:50:06.677141"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/series-in-amar.html", 
             "resource_date": "2013-10-23T05:43:02.177-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:14.437883"
+            "when": "2015-06-05T03:50:06.677148"
         }
     ], 
     "related_resources": [], 

@@ -1,8 +1,8 @@
 {
-    "description": "Excavations at Tepe Yahya, Iran 1967-1969: progress report 1 Lamberg-Karlovsky, C. C., 1937- 1970 OK", 
+    "description": "Excavations at Tepe Yahya, Iran 1967-1969: progress report 1", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:04.717172: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:49:56.850766: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -13,7 +13,7 @@
     ], 
     "language": [
         "en", 
-        0.9999961464471923
+        0.9999954159585812
     ], 
     "provenance": [
         {
@@ -34,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1055362887162564290", 
             "resource_date": "2012-03-04T15:12:57.357-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:04.717694"
+            "when": "2015-06-05T03:49:56.851372"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html", 
             "resource_date": "2012-03-04T15:12:57.357-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:04.717702"
+            "when": "2015-06-05T03:49:56.851380"
         }
     ], 
     "related_resources": [], 

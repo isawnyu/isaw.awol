@@ -2,7 +2,7 @@
     "description": "HdtDep - syntactic dependencies search engine in Herodotus' Book 1 HdtDep is a search engine for a treebank consisting of the first book of Herodotus' Histories . The treebank is encoded in an XML file based on A. Godley's Loeb edition (1920), available under a Creative Commons Attribution-ShareAlike 3.0 United States License on the Perseus Project website. All typos have been corrected. The Greek characters are encoded in the UTF-8 Unicode format. The XML files is structured in and node, which contain nodes. All punctuation was removed. Since the UTF-8 format encodes graphemes with different diacritics as distinct glyphs, all grave accents have been turned into acutes (in order to improve the searchability). Enclisis accents have been removed. All elided vowels have been restored. Moreover, all crasis forms have been resolved into uncontracted words, in order to correctly represent their syntactic relationship. The syntactic structure of the sentences has been described by applying an adapted version of Igor Mel'\u010duk's dependency theory (Mel'\u010duk 1988: Dependency Syntax: Theory and Practice , Albany; Mel'\u010duk 2009: 'Dependency in Natural Language', in A. Polgu\u00e8re & I. Mel'\u010duk, Dependency in Linguistic Description , Amsterdam - Philadelphia: 1-110; Vatri 2011 [in preparation]). Each word is annotated with the element it depends on and its grammatical category/sub-category (see below). Nouns, adjectives and verbs also contain the Attic lexical entry under which they appear in LSJ . The syntactic relationship types, whose interpretation is highly theory-dependent, has not been encoded.", 
     "domain": "www.crs.rm.it", 
     "history": [
-        "2015-06-04T03:36:12.635727: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/hdtdep.html. (walk_to_json.py)"
+        "2015-06-05T03:50:04.915625: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/hdtdep.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -31,13 +31,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2908598914307542801", 
             "resource_date": "2011-06-22T09:00:13.782-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:12.636344"
+            "when": "2015-06-05T03:50:04.916242"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/hdtdep.html", 
             "resource_date": "2011-06-22T09:00:13.782-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:12.636352"
+            "when": "2015-06-05T03:50:04.916251"
         }
     ], 
     "related_resources": [], 

@@ -1,8 +1,8 @@
 {
-    "description": "Vol. 3 No. 1 Vol. 3 No. 1 1880 Vol. 2 No. 1 Vol. 2 No. 1 Vol. 2 No. 1 Vol. 2 No. 1", 
+    "description": "Vol. 3 No. 1 Vol. 3 No. 1", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:41.796147: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-vjesnik-arheoloskog.html. (walk_to_json.py)"
+        "2015-06-05T03:50:32.711127: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-vjesnik-arheoloskog.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -27,24 +27,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9222293135690947661", 
             "resource_date": "2013-02-21T10:56:33.785-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:41.796670"
+            "when": "2015-06-05T03:50:32.711845"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-vjesnik-arheoloskog.html", 
             "resource_date": "2013-02-21T10:56:33.785-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:41.796677"
+            "when": "2015-06-05T03:50:32.711854"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Vol. 3 \u00a0 No. 1: Vjesnik Arheolo\u0161kog muzeja u Zagrebu - Journal of the Zagreb Archaeological Museum", 
+    "title": "Vol. 3 \u00a0 No. 1", 
+    "title_extended": "Vjesnik Arheolo\u0161kog muzeja u Zagrebu - Journal of the Zagreb Archaeological Museum: Vol. 3 \u00a0 No. 1", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3995", 
     "zotero_id": null
 }

@@ -1,14 +1,13 @@
 {
-    "description": "Biblical Perspectives ISSN:1330-1497 Building and Stone-masonry ISSN:0353-7897 Building and Stone-masonry", 
+    "description": "Biblical Perspectives ISSN:1330-1497 Biblical Perspectives", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:21.466676: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
+        "2015-06-05T03:50:13.342041: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
             "generic": [
-                "1330-1497", 
-                "0353-7897"
+                "1330-1497"
             ]
         }
     }, 
@@ -24,7 +23,7 @@
     ], 
     "language": [
         "en", 
-        0.9999999993621045
+        0.9964746553007001
     ], 
     "provenance": [
         {
@@ -39,24 +38,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:21.467217"
+            "when": "2015-06-05T03:50:13.342605"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:21.467225"
+            "when": "2015-06-05T03:50:13.342613"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Biblical Perspectives ISSN:1330-1497", 
+    "title": "Biblical Perspectives", 
+    "title_extended": "Hrcak: Portal of scientific journals of Croatia: Biblical Perspectives", 
     "url": "http://hrcak.srce.hr/bp", 
     "zotero_id": null
 }

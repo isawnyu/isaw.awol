@@ -1,8 +1,8 @@
 {
-    "description": "[ 17-2 ] 1992 : [ 18-1 ] [ 18-2 ] 1992 : [ 18-1 ] [ 18-2 ] 1992 : [ 18-1 ] [ 18-2 ] 1992 : [ 18-1 ]", 
+    "description": "[ 17-2 ] 1992 : [ 18-1 ] [ 18-2 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:29.079105: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-juournal-paleorient.html. (walk_to_json.py)"
+        "2015-06-05T03:50:04.682835: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-juournal-paleorient.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -25,24 +25,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2883078622035089529", 
             "resource_date": "2013-07-11T07:30:34.475-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:29.079650"
+            "when": "2015-06-05T03:50:04.683372"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-juournal-paleorient.html", 
             "resource_date": "2013-07-11T07:30:34.475-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:29.079657"
+            "when": "2015-06-05T03:50:04.683380"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "17-2: Pal\u00e9orient", 
+    "title": "17-2", 
+    "title_extended": "Pal\u00e9orient: 17-2", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1991_num_17_2", 
     "zotero_id": null
 }

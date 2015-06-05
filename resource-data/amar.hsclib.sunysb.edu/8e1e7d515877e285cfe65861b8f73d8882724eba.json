@@ -1,26 +1,19 @@
 {
-    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports Parthian pottery from Seleucia on the Tigris Debevoise, Neilson Carel, 1903- 1934 OK Stamped and inscribed objects from Seleucia on the Tigris McDowell, Robert Harbold, b. 1894. 1935 OK Coins from Seleucia on the Tigris McDowell, Robert Harbold, b. 1894 1935 OK Figurines from Seleucia on the Tigris: discovered by the expeditions conducted by the University of Michigan with the cooperation of the Toledo Museum of Art and the Cleveland Museum of Art, 1927-1932 Elarth, Wilhelmina Van Ingen, 1905-1969 1939 OK Topography and architecture of Seleucia on the Tigris 1972 OK Parthian pottery from Seleucia on the Tigris Debevoise, Neilson Carel, 1903- 1934 OK Stamped and inscribed objects from Seleucia on the Tigris McDowell, Robert Harbold, b. 1894. 1935 OK Coins from Seleucia on the Tigris McDowell, Robert Harbold, b. 1894 1935 OK Figurines from Seleucia on the Tigris: discovered by the expeditions conducted by the University of Michigan with the cooperation of the Toledo Museum of Art and the Cleveland Museum of Art, 1927-1932 Elarth, Wilhelmina Van Ingen, 1905-1969 1939 OK Topography and architecture of Seleucia on the Tigris 1972 OK Parthian pottery from Seleucia on the Tigris Debevoise, Neilson Carel, 1903- 1934 OK", 
+    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:41.134639: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/seleucia-on-tigris-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:32.052070: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/seleucia-on-tigris-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "AWOL", 
         "Amar", 
         "Mesopotamia", 
-        "Michigan", 
         "Seleucia", 
         "Syria", 
         "archaeological site", 
         "archaeology", 
-        "architecture", 
         "archive", 
-        "art", 
-        "ceramics", 
-        "museums", 
-        "numismatics", 
-        "pottery", 
         "reports", 
         "series"
     ], 
@@ -47,13 +40,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9123824952500248838", 
             "resource_date": "2012-03-02T16:38:05.272-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:41.135205"
+            "when": "2015-06-05T03:50:32.052744"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/seleucia-on-tigris-in-amar.html", 
             "resource_date": "2012-03-02T16:38:05.272-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:41.135213"
+            "when": "2015-06-05T03:50:32.052757"
         }
     ], 
     "related_resources": [], 
@@ -79,7 +72,7 @@
             "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=10132&REC=5"
         }
     ], 
-    "title": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "zotero_id": null
 }

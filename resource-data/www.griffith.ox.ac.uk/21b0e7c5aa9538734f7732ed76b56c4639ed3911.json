@@ -1,8 +1,8 @@
 {
-    "description": "The working and uncorrected files .", 
+    "description": "Volume viii ( Objects of Provenance Not Known Part 5 ( Reliefs and Paintings ) The working and uncorrected files . Volume viii ( Objects of Provenance Not Known Part 5 ( Reliefs and Paintings ) The working and uncorrected files . Volume viii ( Objects of Provenance Not Known Part 5 ( Reliefs and Paintings ) The working and uncorrected files", 
     "domain": "www.griffith.ox.ac.uk", 
     "history": [
-        "2015-06-04T03:36:41.084028: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/topographical-bibliography-of-ancient.html. (walk_to_json.py)"
+        "2015-06-05T03:50:32.011119: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/topographical-bibliography-of-ancient.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -28,24 +28,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9116220403534355854", 
             "resource_date": "2013-02-07T10:52:11.094-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:41.084702"
+            "when": "2015-06-05T03:50:32.011792"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/topographical-bibliography-of-ancient.html", 
             "resource_date": "2013-02-07T10:52:11.094-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:41.084709"
+            "when": "2015-06-05T03:50:32.011802"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Volume viii (Objects of Provenance Not Known Part 5 (Reliefs and Paintings)The working and uncorrected files: Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Statues, Reliefs, and Paintings", 
+    "title": "The working and uncorrected files", 
+    "title_extended": "Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Statues, Reliefs, and Paintings: The working and uncorrected files", 
     "url": "http://www.griffith.ox.ac.uk/gri/3reliefs.html", 
     "zotero_id": null
 }

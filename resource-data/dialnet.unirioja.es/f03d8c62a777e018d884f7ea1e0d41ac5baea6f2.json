@@ -1,8 +1,8 @@
 {
-    "description": "13 1995 12 1995", 
+    "description": "13", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:13.351255: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/09/open-access-journal-bolskan-revista-de.html. (walk_to_json.py)"
+        "2015-06-05T03:50:18.298972: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/09/open-access-journal-bolskan-revista-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6251838140725817873", 
             "resource_date": "2013-01-22T15:06:05.099-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:13.351798"
+            "when": "2015-06-05T03:50:18.299530"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-journal-bolskan-revista-de.html", 
             "resource_date": "2013-01-22T15:06:05.099-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:13.351806"
+            "when": "2015-06-05T03:50:18.299537"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "13: Bolskan: Revista de arqueolog\u00eda del Instituto de Estudios Altoaragoneses", 
+    "title": "13", 
+    "title_extended": "Bolskan: Revista de arqueolog\u00eda del Instituto de Estudios Altoaragoneses: 13", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12056", 
     "zotero_id": null
 }

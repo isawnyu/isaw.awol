@@ -1,14 +1,13 @@
 {
-    "description": "Archaeologica Adriatica ISSN:1846-4807 Asseria ISSN:1334-2479 Asseria", 
+    "description": "Archaeologica Adriatica ISSN:1846-4807 Archaeologica Adriatica", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:21.459330: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
+        "2015-06-05T03:50:13.335325: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
             "generic": [
-                "1846-4807", 
-                "1334-2479"
+                "1846-4807"
             ]
         }
     }, 
@@ -22,7 +21,7 @@
     ], 
     "language": [
         "it", 
-        0.9999902366000599
+        0.9840702814205433
     ], 
     "provenance": [
         {
@@ -37,24 +36,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:21.459879"
+            "when": "2015-06-05T03:50:13.335848"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:21.459886"
+            "when": "2015-06-05T03:50:13.335855"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Archaeologica Adriatica ISSN:1846-4807", 
+    "title": "Archaeologica Adriatica", 
+    "title_extended": "Hrcak: Portal of scientific journals of Croatia: Archaeologica Adriatica", 
     "url": "http://hrcak.srce.hr/adriatica", 
     "zotero_id": null
 }

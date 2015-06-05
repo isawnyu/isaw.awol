@@ -1,8 +1,8 @@
 {
-    "description": "[ 68-4 ] 1991 : [ 69-1 ] [ 69-2 ] [ 69-3 ] [ 69-4 ] 1991 : [ 69-1 ] [ 69-2 ] [ 69-3 ] [ 69-4 ] 1991 : [ 69-1 ] [ 69-2 ] [ 69-3 ] [ 69-4 ] 1991 : [ 69-1 ]", 
+    "description": "[ 68-4 ] 1991 : [ 69-1 ] [ 69-2 ] [ 69-3 ] [ 69-4 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:43.098990: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
+        "2015-06-05T03:50:22.599612: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707332784338276556", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:43.099553"
+            "when": "2015-06-05T03:50:22.600180"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:43.099561"
+            "when": "2015-06-05T03:50:22.600187"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "68-4: Revue belge de Philologie et d'Histoire", 
+    "title": "68-4", 
+    "title_extended": "Revue belge de Philologie et d'Histoire: 68-4", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1990_num_68_4", 
     "zotero_id": null
 }

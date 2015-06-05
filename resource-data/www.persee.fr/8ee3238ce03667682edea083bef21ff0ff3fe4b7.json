@@ -1,13 +1,12 @@
 {
-    "description": "Revue des \u00c9tudes Grecques Revue des mondes musulmans et de la M\u00e9diterran\u00e9e", 
+    "description": "Revue des \u00c9tudes Grecques", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:27.306871: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
+        "2015-06-05T03:50:01.898780: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Aegean", 
-        "Mediterranean", 
         "Pers\u00e9e", 
         "antiquity", 
         "digital library", 
@@ -15,7 +14,7 @@
     ], 
     "language": [
         "fr", 
-        1.0
+        0.9999999465707727
     ], 
     "provenance": [
         {
@@ -36,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2013-04-12T11:22:30.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:27.307499"
+            "when": "2015-06-05T03:50:01.899319"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2013-04-12T11:22:30.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:27.307508"
+            "when": "2015-06-05T03:50:01.899326"
         }
     ], 
     "related_resources": [], 

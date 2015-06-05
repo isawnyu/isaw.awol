@@ -2,7 +2,7 @@
     "description": "Journal of Field Archaeo logy (Arts & Sciences II) logy", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:08.462959: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-05T03:50:00.522728: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -27,24 +27,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1970970912930647566", 
             "resource_date": "2010-04-27T18:42:09.328-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:08.464292"
+            "when": "2015-06-05T03:50:00.523339"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2010-04-27T18:42:09.328-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:08.464307"
+            "when": "2015-06-05T03:50:00.523346"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Journal of Field Archaeo", 
+    "title_extended": "Papers of the British School at Rome: Journal of Field Archaeo", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=jfielarch", 
     "zotero_id": null
 }

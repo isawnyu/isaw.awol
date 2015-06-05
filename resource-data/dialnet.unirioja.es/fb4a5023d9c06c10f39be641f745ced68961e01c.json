@@ -2,7 +2,7 @@
     "description": "Gallaecia ISSN: 0211-8653", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:10.808390: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html. (walk_to_json.py)"
+        "2015-06-05T03:50:15.225574: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
@@ -38,91 +38,143 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5594714661926615041", 
             "resource_date": "2011-12-23T08:01:20.974-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:10.808970"
+            "when": "2015-06-05T03:50:15.226212"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html", 
             "resource_date": "2011-12-23T08:01:20.974-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:10.808978"
+            "when": "2015-06-05T03:50:15.226220"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
         {
-            "label": "2010: Gallaecia", 
+            "label": "2010", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=2010"
         }, 
         {
-            "label": "29: Gallaecia", 
+            "label": "29", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=249721"
         }, 
         {
-            "label": "2009: Gallaecia", 
+            "label": "2009", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=2009"
         }, 
         {
-            "label": "28: Gallaecia", 
+            "label": "28", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=228859"
         }, 
         {
-            "label": "2008: Gallaecia", 
+            "label": "2008", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=2008"
         }, 
         {
-            "label": "2007: Gallaecia", 
+            "label": "27", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=186223"
+        }, 
+        {
+            "label": "2007", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=2007"
         }, 
         {
-            "label": "2006: Gallaecia", 
+            "label": "26", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=163511"
+        }, 
+        {
+            "label": "2006", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=2006"
         }, 
         {
-            "label": "2005: Gallaecia", 
+            "label": "25", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=134608"
+        }, 
+        {
+            "label": "2005", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=2005"
         }, 
         {
-            "label": "2004: Gallaecia", 
+            "label": "24", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=117432"
+        }, 
+        {
+            "label": "2004", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=2004"
         }, 
         {
-            "label": "2003: Gallaecia", 
+            "label": "23", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=96323"
+        }, 
+        {
+            "label": "2003", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=2003"
         }, 
         {
-            "label": "2002: Gallaecia", 
+            "label": "22", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=72263"
+        }, 
+        {
+            "label": "2002", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=2002"
         }, 
         {
-            "label": "2001: Gallaecia", 
+            "label": "21", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=50839"
+        }, 
+        {
+            "label": "2001", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=2001"
         }, 
         {
-            "label": "2000: Gallaecia", 
+            "label": "20", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=8574"
+        }, 
+        {
+            "label": "2000", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=2000"
         }, 
         {
-            "label": "1999: Gallaecia", 
+            "label": "19", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=8573"
+        }, 
+        {
+            "label": "1999", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=1999"
         }, 
         {
-            "label": "1998: Gallaecia", 
+            "label": "18", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=8572"
+        }, 
+        {
+            "label": "1998", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=1998"
         }, 
         {
-            "label": "1997: Gallaecia", 
+            "label": "17", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=8571"
+        }, 
+        {
+            "label": "1997", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=1997"
         }, 
         {
-            "label": "1996: Gallaecia", 
+            "label": "16", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=78983"
+        }, 
+        {
+            "label": "1996", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=1996"
         }, 
         {
-            "label": "1976: Gallaecia", 
+            "label": "14-15", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=198653"
+        }, 
+        {
+            "label": "1976", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=1976"
         }, 
         {
-            "label": "2: Gallaecia", 
+            "label": "2", 
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=198665"
         }
     ], 

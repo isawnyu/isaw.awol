@@ -1,8 +1,8 @@
 {
-    "description": "Les Monuments ayyoubides de Damas ; v. 4 Epitaphes coufiques de B\u00e2b Sagh\u00eer par Janine Sourdel-Thomine Institut Franc\u0327ais de Damas (Damascus) 1950 OK See more Series in AMAR", 
+    "description": "Les Monuments ayyoubides de Damas ; v. 4 Epitaphes coufiques de B\u00e2b Sagh\u00eer par Janine Sourdel-Thomine", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:04.855347: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html. (walk_to_json.py)"
+        "2015-06-05T03:49:56.970257: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -10,8 +10,7 @@
         "Damascus", 
         "Syria", 
         "archaeology", 
-        "monuments", 
-        "series"
+        "monuments"
     ], 
     "language": [
         "fr", 
@@ -36,13 +35,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1096390894177956598", 
             "resource_date": "2012-03-02T16:43:23.871-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:04.855904"
+            "when": "2015-06-05T03:49:56.970852"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html", 
             "resource_date": "2012-03-02T16:43:23.871-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:04.855912"
+            "when": "2015-06-05T03:49:56.970860"
         }
     ], 
     "related_resources": [], 

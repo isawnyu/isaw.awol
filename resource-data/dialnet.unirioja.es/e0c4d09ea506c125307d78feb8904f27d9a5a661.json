@@ -1,8 +1,8 @@
 {
-    "description": "1946 4-7 (**) 4-7 (**) 4-7 (**) 4-7 (**) 4-7 (**) 4-7", 
+    "description": "1946", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:06.822875: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/newly-online-journal-boletin.html. (walk_to_json.py)"
+        "2015-06-05T03:50:10.052129: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/newly-online-journal-boletin.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [], 
@@ -20,24 +20,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-410057600420437183", 
             "resource_date": "2010-12-07T11:58:14.954-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:06.823398"
+            "when": "2015-06-05T03:50:10.052656"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/newly-online-journal-boletin.html", 
             "resource_date": "2010-12-07T11:58:14.954-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:06.823405"
+            "when": "2015-06-05T03:50:10.052664"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1946: Bolet\u00edn Arqueol\u00f3gico del Sudeste Espa\u00f1ol", 
+    "title": "1946", 
+    "title_extended": "Bolet\u00edn Arqueol\u00f3gico del Sudeste Espa\u00f1ol: 1946", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=14101&clave_busqueda=1946", 
     "zotero_id": null
 }

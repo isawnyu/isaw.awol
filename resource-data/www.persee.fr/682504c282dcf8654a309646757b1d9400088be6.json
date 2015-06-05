@@ -1,8 +1,8 @@
 {
-    "description": "[ 6 ] 1987 : [ 7 ] 1987 : [ 7 ] 1987 : [ 7 ] 1987 : [ 7 ]", 
+    "description": "1986 : [ 6 ] 1986 : [ 6 ] 1986 : [ 6 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:24.393286: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html. (walk_to_json.py)"
+        "2015-06-05T03:49:57.829098: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -25,24 +25,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1423394332945157365", 
             "resource_date": "2013-10-28T10:28:50.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:24.393816"
+            "when": "2015-06-05T03:49:57.829699"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html", 
             "resource_date": "2013-10-28T10:28:50.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:24.393823"
+            "when": "2015-06-05T03:49:57.829719"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1986 : [ 6 ]: Archaeonautica", 
+    "title": "6", 
+    "title_extended": "Archaeonautica: 6", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1986_num_6_1", 
     "zotero_id": null
 }

@@ -1,8 +1,8 @@
 {
-    "description": "76 2001 75 (1) 75 (2) 2001", 
+    "description": "76", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:07.324539: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html. (walk_to_json.py)"
+        "2015-06-05T03:50:10.570391: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -23,24 +23,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4206419451111757327", 
             "resource_date": "2013-09-30T11:09:09.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:07.325084"
+            "when": "2015-06-05T03:50:10.571589"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html", 
             "resource_date": "2013-09-30T11:09:09.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:07.325091"
+            "when": "2015-06-05T03:50:10.571602"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "76: Caesaraugusta", 
+    "title": "76", 
+    "title_extended": "Caesaraugusta: 76", 
     "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=102192", 
     "zotero_id": null
 }

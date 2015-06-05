@@ -1,8 +1,8 @@
 {
-    "description": "5 1991 4 1991", 
+    "description": "5", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:03.322518: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-espacio-tiempo-y.html. (walk_to_json.py)"
+        "2015-06-05T03:50:04.466226: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-espacio-tiempo-y.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -27,24 +27,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2854905436073108578", 
             "resource_date": "2012-06-17T08:18:15.712-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:03.323089"
+            "when": "2015-06-05T03:50:04.466861"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-espacio-tiempo-y.html", 
             "resource_date": "2012-06-17T08:18:15.712-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:03.323097"
+            "when": "2015-06-05T03:50:04.466871"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "5: Espacio, tiempo y forma. Serie I, Prehistoria y arqueolog\u00eda", 
+    "title": "5", 
+    "title_extended": "Espacio, tiempo y forma. Serie I, Prehistoria y arqueolog\u00eda: 5", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=514&clave_busqueda=16366", 
     "zotero_id": null
 }

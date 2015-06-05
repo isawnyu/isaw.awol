@@ -2,7 +2,7 @@
     "description": "Egypt is now online: As part of its Electronic Publications Initiative and with the generous support of Misty and Lewis Gruber, the Oriental Institute Publications Office announces the Adobe Portable Document Format (PDF) publication of: OIP 25. Reliefs and Inscriptions at Karnak, Volume I. Ramses III's Temple with the Great Inclosure of Amon, Part I. The Epigraphic Survey. Originally published in 1936.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:29.081975: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_10.html. (walk_to_json.py)"
+        "2015-06-05T03:50:20.639582: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_10.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -34,17 +34,22 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6674009128707412820", 
             "resource_date": "2009-11-10T16:49:02.698-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:29.082605"
+            "when": "2015-06-05T03:50:20.640142"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_10.html", 
             "resource_date": "2009-11-10T16:49:02.698-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:29.082614"
+            "when": "2015-06-05T03:50:20.640150"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "label": "OIP 25. Reliefs and Inscriptions at Karnak, Volume I", 
+            "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip25.html"
+        }
+    ], 
     "title": "Egypt", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/egypt.html", 
     "zotero_id": null

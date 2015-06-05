@@ -1,8 +1,8 @@
 {
-    "description": "The Gordion excavations, final reports. Vol. III: the bronze age 1991 Gordion (Extinct city)", 
+    "description": "The Gordion excavations, final reports. Vol. III: the bronze age", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:28.535623: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/gordion-excavation-reports-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:20.143878: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/gordion-excavation-reports-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -36,13 +36,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6591476688235662047", 
             "resource_date": "2013-05-14T09:42:02.317-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:28.536170"
+            "when": "2015-06-05T03:50:20.144511"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/gordion-excavation-reports-in-amar.html", 
             "resource_date": "2013-05-14T09:42:02.317-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:28.536178"
+            "when": "2015-06-05T03:50:20.144522"
         }
     ], 
     "related_resources": [], 

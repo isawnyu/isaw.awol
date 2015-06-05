@@ -1,18 +1,11 @@
 {
-    "description": "American Journal of Archaeology (Arts & Sciences II) Release Content: Vol. 10, Index (1906); Vol. 70, Index (1966) Moving Wall: 5 years Publisher: Archaeological Institute of America ISSN: 0002-9114", 
+    "description": "American Journal of Archaeology (Arts & Sciences II) American Journal of Archaeology (Arts & Sciences II) American Journal of Archaeology", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:11.555636: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-05T03:50:03.780706: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
-    "identifiers": {
-        "issn": {
-            "generic": [
-                "0002-9114"
-            ]
-        }
-    }, 
+    "identifiers": {}, 
     "keywords": [
-        "AIA", 
         "AJA", 
         "JSTOR", 
         "antiquity", 
@@ -42,18 +35,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2756486521717468641", 
             "resource_date": "2009-11-23T12:19:45.104-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:11.556166"
+            "when": "2015-06-05T03:50:03.781332"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2009-11-23T12:19:45.104-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:11.556173"
+            "when": "2015-06-05T03:50:03.781341"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "American Journal of Archaeology (Arts & Sciences II)", 
+    "title": "American Journal of Archaeology", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=amerjarch", 
     "zotero_id": null
 }

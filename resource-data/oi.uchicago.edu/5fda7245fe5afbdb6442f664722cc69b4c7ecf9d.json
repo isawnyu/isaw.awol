@@ -1,19 +1,18 @@
 {
-    "description": "\"OIP 85. A Byzantine Church at Khirbat al-Karak. Pinhas Delougaz and Richard C. Haines. Originally published in 1960.\" In the next few day I will incorporate these titles into the list of all Oriental Institute publications available online: The Oriental Institute Open Access Publications", 
+    "description": "\"OIP 85. A Byzantine Church at Khirbat al-Karak. Pinhas Delougaz and Richard C. Haines. Originally published in 1960.\"", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:38.281581: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+        "2015-06-05T03:50:29.351634: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Byzantium", 
         "Oriental Institute", 
-        "backlist", 
-        "open access"
+        "backlist"
     ], 
     "language": [
         "en", 
-        1.0
+        0.9999999999999971
     ], 
     "provenance": [
         {
@@ -34,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8559132705741967670", 
             "resource_date": "2012-12-07T16:39:37.242-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:38.282112"
+            "when": "2015-06-05T03:50:29.352262"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes.html", 
             "resource_date": "2012-12-07T16:39:37.242-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:38.282119"
+            "when": "2015-06-05T03:50:29.352271"
         }
     ], 
     "related_resources": [], 

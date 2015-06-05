@@ -1,12 +1,10 @@
 {
-    "description": "AS 2. The Sumerian Prefix Forms E - and I - in the Time of the Earlier Princes of Laga\u0161. Arno Poebel. AS 1. Beitrage zum Assyrischen W\u00f6rterbuch I. Bruno Meissner. Originally published in 1931 AS 1. Beitrage zum Assyrischen W\u00f6rterbuch I. Bruno Meissner. Originally published in 1931 AS 1. Beitrage zum Assyrischen W\u00f6rterbuch I. Bruno Meissner. Originally published in 1931 AS 1. Beitrage zum Assyrischen W\u00f6rterbuch I.", 
+    "description": "AS 2. The Sumerian Prefix Forms E - and I - in the Time of the Earlier Princes of Laga\u0161. Arno Poebel. AS 2. The Sumerian Prefix Forms E - and I - in the Time of the Earlier Princes of Laga\u0161. Arno Poebel. AS 2. The Sumerian Prefix Forms E - and I - in the Time of the Earlier Princes of Laga\u0161. Arno Poebel. AS 2. The Sumerian Prefix Forms E - and I - in the Time of the Earlier Princes of Laga\u0161.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:10.210226: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html. (walk_to_json.py)"
+        "2015-06-05T03:50:02.283604: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html. (walk_to_json.py)"
     ], 
-    "identifiers": {
-        "issn": {}
-    }, 
+    "identifiers": {}, 
     "keywords": [
         "Oriental Institute", 
         "Sumerian", 
@@ -14,7 +12,7 @@
     ], 
     "language": [
         "en", 
-        0.999999999991116
+        1.0
     ], 
     "provenance": [
         {
@@ -35,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2310553175017692217", 
             "resource_date": "2013-12-29T16:00:12.703-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:10.210751"
+            "when": "2015-06-05T03:50:02.284188"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html", 
             "resource_date": "2013-12-29T16:00:12.703-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:10.210758"
+            "when": "2015-06-05T03:50:02.284196"
         }
     ], 
     "related_resources": [], 

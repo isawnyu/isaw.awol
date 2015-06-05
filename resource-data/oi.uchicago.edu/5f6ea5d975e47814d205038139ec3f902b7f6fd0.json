@@ -1,8 +1,8 @@
 {
-    "description": "the Oriental Institute Publications Office announces an additional letter, 'I, for the Chicago Demotic Dictionary , edited by Janet H. Johnson. This document is available in the Adobe Acrobat Portable Document Format (PDF) file. Letters completed to date include: Completed Letters Download Prologue Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Download PDF Terms of Use Problematic Entries Download PDF Terms of Use Problematic Entries 2 Download PDF Terms of Use", 
+    "description": "the Oriental Institute Publications Office announces an additional letter, 'I, for the Chicago Demotic Dictionary , edited by Janet H. Johnson. This document is available in the Adobe Acrobat Portable Document Format (PDF) file. Letters completed to date include:", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:35.269598: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/04/open-access-publication-demotic.html. (walk_to_json.py)"
+        "2015-06-05T03:50:26.615311: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/04/open-access-publication-demotic.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -30,225 +30,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7867818265264476208", 
             "resource_date": "2012-07-16T14:23:23.355-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:35.270199"
+            "when": "2015-06-05T03:50:26.615911"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/open-access-publication-demotic.html", 
             "resource_date": "2012-07-16T14:23:23.355-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:35.270207"
+            "when": "2015-06-05T03:50:26.615919"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_prologue.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_3.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_%27I.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_c.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_Y.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_W.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_B.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_P.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_F.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_M.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_N.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_R.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_L.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_H.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_H2.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_H3.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_H4.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/cdd_sh.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_Q.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_K.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_G.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_TJ.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_DJ.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_problems.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }, 
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/CDD_problems2.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }
-    ], 
+    "subordinate_resources": [], 
     "title": "the Oriental Institute Publications Office announces an additional letter, 'I, for the Chicago Demotic Dictionary", 
+    "title_extended": "The Demotic Dictionary of the Oriental Institute of the University of Chicago: the Oriental Institute Publications Office announces an additional letter, 'I, for the Chicago Demotic Dictionary", 
     "url": "http://oi.uchicago.edu/pdf/CDD_%27I.pdf", 
     "zotero_id": null
 }

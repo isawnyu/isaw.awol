@@ -1,8 +1,8 @@
 {
-    "description": "[ 4 ] 2001 : [ 5 ] 2001 : [ 5 ] 2001 : [ 5 ] 2001 : [ 5 ]", 
+    "description": "2000 : [ 4 ] 2000 : [ 4 ] 2000 : [ 4 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:35.806308: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/10/emerginmg-open-access-journal-gaia.html. (walk_to_json.py)"
+        "2015-06-05T03:50:12.812558: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/10/emerginmg-open-access-journal-gaia.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4838617049522110536", 
             "resource_date": "2013-05-12T08:22:56.521-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:35.806837"
+            "when": "2015-06-05T03:50:12.813090"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/emerginmg-open-access-journal-gaia.html", 
             "resource_date": "2013-05-12T08:22:56.521-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:35.806844"
+            "when": "2015-06-05T03:50:12.813097"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2000 : [ 4 ]: Gaia: revue interdisciplinaire sur la Gr\u00e8ce Archa\u00efque", 
+    "title": "4", 
+    "title_extended": "Gaia: revue interdisciplinaire sur la Gr\u00e8ce Archa\u00efque: 4", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/gaia_1287-3349_2000_num_4_1", 
     "zotero_id": null
 }

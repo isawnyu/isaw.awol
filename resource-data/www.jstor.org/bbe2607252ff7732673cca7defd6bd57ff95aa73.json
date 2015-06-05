@@ -2,7 +2,7 @@
     "description": "L\u2019Ann\u00e9e \u00e9pigraphique (Arts & Sciences VIII) Release Content: Ann\u00e9e 1888 (1889) \u2013 Ann\u00e9e 1999 (2002) Moving Wall: 7 years Publisher: Presses Universitaires de France ISSN: 0066-2348 Historical Archaeology", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:33.209015: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/06/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-05T03:50:24.676366: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/06/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
@@ -40,17 +40,22 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7372978400796051511", 
             "resource_date": "2010-06-17T11:47:56.350-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:33.209596"
+            "when": "2015-06-05T03:50:24.677095"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2010-06-17T11:47:56.350-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:33.209604"
+            "when": "2015-06-05T03:50:24.677111"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "label": "Historical Archaeology", 
+            "url": "http://www.jstor.org/action/showPublication?journalCode=histarch"
+        }
+    ], 
     "title": "L\u2019Ann\u00e9e \u00e9pigraphique", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=anneepig", 
     "zotero_id": null

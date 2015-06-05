@@ -2,7 +2,7 @@
     "description": "The Journal of the Historical and Archaeological Association of Ireland Previous Title: The Journal of the Kilkenny and South-East of Ireland Archaeological Society", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:27.391162: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor_16.html. (walk_to_json.py)"
+        "2015-06-05T03:50:18.892317: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor_16.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -30,24 +30,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6352810972116546516", 
             "resource_date": "2009-12-16T17:16:41.654-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:27.391760"
+            "when": "2015-06-05T03:50:18.892840"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor_16.html", 
             "resource_date": "2009-12-16T17:16:41.654-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:27.391768"
+            "when": "2015-06-05T03:50:18.892847"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "The Journal of the Historical and Archaeological Association of Ireland", 
+    "title_extended": "Journal of the Royal Society of Antiquaries of Ireland: The Journal of the Historical and Archaeological Association of Ireland", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=jhistarchassoire", 
     "zotero_id": null
 }

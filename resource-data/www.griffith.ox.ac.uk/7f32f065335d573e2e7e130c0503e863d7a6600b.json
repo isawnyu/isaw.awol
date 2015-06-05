@@ -1,8 +1,8 @@
 {
-    "description": "Copies of some object cards in Carter's Notebook TAA i.2.7. (April 18, 2011) Two letters from Howard Carter to A. H. Gardiner . (March 22, 2011) Two letters from Howard Carter to A. H. Gardiner", 
+    "description": "Copies of some object cards in Carter's Notebook TAA i.2.7. (April 18, 2011) Copies of some object cards", 
     "domain": "www.griffith.ox.ac.uk", 
     "history": [
-        "2015-06-04T03:36:21.705104: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html. (walk_to_json.py)"
+        "2015-06-05T03:50:13.553455: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -31,18 +31,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4992273992170092691", 
             "resource_date": "2011-04-20T16:01:53.138-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:21.705659"
+            "when": "2015-06-05T03:50:13.554005"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html", 
             "resource_date": "2011-04-20T16:01:53.138-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:21.705667"
+            "when": "2015-06-05T03:50:13.554013"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Copies of some object cards in Carter's Notebook TAA i.2", 
+    "title": "Copies of some object cards", 
     "url": "http://www.griffith.ox.ac.uk/gri/4TAA_i_2_7.html", 
     "zotero_id": null
 }

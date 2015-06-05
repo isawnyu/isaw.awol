@@ -1,8 +1,8 @@
 {
-    "description": "1 List of Open Access Journals in Ancient Studies", 
+    "description": "1", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:19.937526: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/open-access-journal-memorias-de.html. (walk_to_json.py)"
+        "2015-06-05T03:50:29.185867: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/open-access-journal-memorias-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -13,10 +13,7 @@
         "journal", 
         "open access"
     ], 
-    "language": [
-        "en", 
-        0.9999916766867696
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -30,24 +27,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8476008991115147483", 
             "resource_date": "2012-06-18T12:53:35.306-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:19.938068"
+            "when": "2015-06-05T03:50:29.186466"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-memorias-de.html", 
             "resource_date": "2012-06-18T12:53:35.306-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:19.938075"
+            "when": "2015-06-05T03:50:29.186474"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1: Memorias de historia antigua", 
+    "title": "1", 
+    "title_extended": "Memorias de historia antigua: 1", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=136601", 
     "zotero_id": null
 }

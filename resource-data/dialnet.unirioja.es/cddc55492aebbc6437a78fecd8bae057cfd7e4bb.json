@@ -1,8 +1,8 @@
 {
-    "description": "2008 5", 
+    "description": "2008", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:11.769906: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/08/open-access-journal-historiae.html. (walk_to_json.py)"
+        "2015-06-05T03:50:16.344012: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/08/open-access-journal-historiae.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -24,24 +24,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5899739834116650541", 
             "resource_date": "2013-02-08T12:50:18.209-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:11.770442"
+            "when": "2015-06-05T03:50:16.344533"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-historiae.html", 
             "resource_date": "2013-02-08T12:50:18.209-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:11.770449"
+            "when": "2015-06-05T03:50:16.344541"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2008: Historiae", 
+    "title": "2008", 
+    "title_extended": "Historiae: 2008", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=8011&clave_busqueda=2008", 
     "zotero_id": null
 }

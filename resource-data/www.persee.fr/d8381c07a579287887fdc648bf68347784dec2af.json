@@ -2,7 +2,7 @@
     "description": "Bulletin de l'Association Guillaum Bud\u00e9 ISSN: 0004-5527 Plac\u00e9e sous le patronage du c\u00e9l\u00e8bre humaniste qui fut le premier grand traducteur de textes grecs, l'Association Guillaume Bud\u00e9 a \u00e9t\u00e9 fond\u00e9e en 1917 par d\u2019illustres philologues fran\u00e7ais (Maurice Croiset, Paul Mazon, Louis Bodin, Alfred Ernout). Elle se pr\u00e9sente aujourd\u2019hui \u00e0 la fois comme une association culturelle reconnue d\u2019int\u00e9r\u00eat public et une soci\u00e9t\u00e9 savante. L\u2019Association a pour vocation premi\u00e8re la publication d'auteurs grecs et latins afin non seulement de produire des \u00e9ditions critiques fran\u00e7aises de qualit\u00e9, mais aussi de diffuser dans un large public la culture gr\u00e9co-latine, en un mot de faire sortir la connaissance de la litt\u00e9rature antique du cercle des \u00e9rudits. En 1923, elle cr\u00e9e le Bulletin de l'Association Guillaume Bud\u00e9 , qui publie des articles de vulgarisation scientifique de haut niveau et devient rapidement une revue de r\u00e9f\u00e9rence.", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:25.021749: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html. (walk_to_json.py)"
+        "2015-06-05T03:49:58.851992: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
@@ -40,140 +40,176 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1582488232425081359", 
             "resource_date": "2013-09-03T11:18:21.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:25.022320"
+            "when": "2015-06-05T03:49:58.852666"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html", 
             "resource_date": "2013-09-03T11:18:21.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:25.022328"
+            "when": "2015-06-05T03:49:58.852676"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
         {
-            "label": "1928 : [ 1 ]: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "1", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1928_num_18_1"
         }, 
         {
-            "label": "1: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "LH-10", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_1247-6862_1951_num_10_4"
+        }, 
+        {
+            "label": "1", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1953_num_1_1"
         }, 
         {
-            "label": "3: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "3", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1953_num_1_3"
         }, 
         {
-            "label": "1: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "1", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1954_num_1_1"
         }, 
         {
-            "label": "2: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "2", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1954_num_1_2"
         }, 
         {
-            "label": "3: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "3", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1954_num_1_3"
         }, 
         {
-            "label": "1: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "1", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1955_num_1_1"
         }, 
         {
-            "label": "2: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "2", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1955_num_1_2"
         }, 
         {
-            "label": "3: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "3", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1955_num_1_3"
         }, 
         {
-            "label": "1: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "LH-14", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_1247-6862_1955_num_14_4"
+        }, 
+        {
+            "label": "1", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1956_num_1_1"
         }, 
         {
-            "label": "2: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "2", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1956_num_1_2"
         }, 
         {
-            "label": "3: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "3", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1956_num_1_3"
         }, 
         {
-            "label": "1: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "LH-15", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_1247-6862_1956_num_15_4"
+        }, 
+        {
+            "label": "1", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1957_num_1_1"
         }, 
         {
-            "label": "2: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "2", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1957_num_1_2"
         }, 
         {
-            "label": "3: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "3", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1957_num_1_3"
         }, 
         {
-            "label": "1: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "LH-16", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_1247-6862_1957_num_16_4"
+        }, 
+        {
+            "label": "1", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1958_num_1_1"
         }, 
         {
-            "label": "2: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "2", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1958_num_1_2"
         }, 
         {
-            "label": "3: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "3", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1958_num_1_3"
         }, 
         {
-            "label": "1: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "LH-17", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_1247-6862_1958_num_17_4"
+        }, 
+        {
+            "label": "1", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1959_num_1_1"
         }, 
         {
-            "label": "2: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "2", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1959_num_1_2"
         }, 
         {
-            "label": "2: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "2", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1960_num_1_2"
         }, 
         {
-            "label": "3: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "3", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1960_num_1_3"
         }, 
         {
-            "label": "1: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "LH-19", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_1247-6862_1960_num_19_4"
+        }, 
+        {
+            "label": "1", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1961_num_1_1"
         }, 
         {
-            "label": "2: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "2", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1961_num_1_2"
         }, 
         {
-            "label": "3: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "3", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1961_num_1_3"
         }, 
         {
-            "label": "1: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "LH-20", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_1247-6862_1961_num_20_4"
+        }, 
+        {
+            "label": "1", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1962_num_1_1"
         }, 
         {
-            "label": "2: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "2", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1962_num_1_2"
         }, 
         {
-            "label": "3: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "3", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1962_num_1_3"
         }, 
         {
-            "label": "1: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "LH-21", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_1247-6862_1962_num_21_4"
+        }, 
+        {
+            "label": "1", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1963_num_1_1"
         }, 
         {
-            "label": "2: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "2", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1963_num_1_2"
         }, 
         {
-            "label": "3: Bulletin de l'Association Guillaum Bud\u00e9", 
+            "label": "3", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1963_num_1_3"
+        }, 
+        {
+            "label": "LH-22", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_1247-6862_1963_num_22_4"
         }
     ], 
     "title": "Bulletin de l'Association Guillaum Bud\u00e9", 

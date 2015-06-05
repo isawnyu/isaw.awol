@@ -1,18 +1,15 @@
 {
-    "description": "\u00c2ron Kib\u00e9di Varga 127 - 128 Summaries of articles [Abstract] 127 - 128 Summaries of articles [Abstract] 127 - 128", 
+    "description": "\u00c2ron Kib\u00e9di Varga", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:39.839702: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
+        "2015-06-05T03:50:18.496802: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "journal", 
         "journal issues"
     ], 
-    "language": [
-        "en", 
-        0.9996869001115796
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -32,13 +29,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
             "resource_date": "2012-08-03T09:39:09.216-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:39.840276"
+            "when": "2015-06-05T03:50:18.497315"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
             "resource_date": "2012-08-03T09:39:09.216-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:39.840284"
+            "when": "2015-06-05T03:50:18.497323"
         }
     ], 
     "related_resources": [], 

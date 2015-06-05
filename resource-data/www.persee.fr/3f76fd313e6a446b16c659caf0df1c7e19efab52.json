@@ -1,19 +1,15 @@
 {
-    "description": "[ 9 ] See the full List of Open Access Journals in Ancient Studies . See the full List of Open Access Journals in Ancient Studies", 
+    "description": "1996 : [ 9 ] 1996 : [ 9 ] 1996 : [ 9 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:35.290335: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/03/open-access-journal-cahiers-dextreme.html. (walk_to_json.py)"
+        "2015-06-05T03:50:12.186781: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/03/open-access-journal-cahiers-dextreme.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "antiquity", 
         "journal", 
         "open access"
     ], 
-    "language": [
-        "en", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -27,24 +23,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4676912179062103289", 
             "resource_date": "2010-03-26T11:47:02.378-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:35.290957"
+            "when": "2015-06-05T03:50:12.188238"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/03/open-access-journal-cahiers-dextreme.html", 
             "resource_date": "2010-03-26T11:47:02.378-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:35.290965"
+            "when": "2015-06-05T03:50:12.188253"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1996 : [ 9 ]: Cahiers d'Extr\u00eame-Asie", 
+    "title": "9", 
+    "title_extended": "Cahiers d'Extr\u00eame-Asie: 9", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1996_num_9_1", 
     "zotero_id": null
 }

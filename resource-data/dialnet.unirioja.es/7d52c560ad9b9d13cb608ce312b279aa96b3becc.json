@@ -1,8 +1,8 @@
 {
-    "description": "14 1965 10 11 12 1965", 
+    "description": "14", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:52:59.282748: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-cuadernos-de-la.html. (walk_to_json.py)"
+        "2015-06-05T03:49:58.517925: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-cuadernos-de-la.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -25,24 +25,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1527027278148200731", 
             "resource_date": "2013-12-15T08:15:54.695-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:52:59.283290"
+            "when": "2015-06-05T03:49:58.518448"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-cuadernos-de-la.html", 
             "resource_date": "2013-12-15T08:15:54.695-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:52:59.283297"
+            "when": "2015-06-05T03:49:58.518456"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "14: Cuadernos de la Fundaci\u00f3n Pastor", 
+    "title": "14", 
+    "title_extended": "Cuadernos de la Fundaci\u00f3n Pastor: 14", 
     "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223680", 
     "zotero_id": null
 }

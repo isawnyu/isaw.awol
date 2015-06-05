@@ -1,23 +1,17 @@
 {
-    "description": "Palynology (Biological Sciences; Life Sciences) Release Content: Vols. 28-32 (2004-2008) Moving Wall: 5 years Publisher: American Association of Stratigraphic Palynologists ISSN: 0191-6122", 
+    "description": "Palynology (Biological Sciences; Life Sciences) Palynology (Biological Sciences; Life Sciences) Palynology", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:11.562797: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-05T03:50:03.792653: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
-    "identifiers": {
-        "issn": {
-            "generic": [
-                "0191-6122"
-            ]
-        }
-    }, 
+    "identifiers": {}, 
     "keywords": [
         "JSTOR", 
         "antiquity"
     ], 
     "language": [
         "en", 
-        1.0
+        0.9795574722724774
     ], 
     "provenance": [
         {
@@ -38,18 +32,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2756486521717468641", 
             "resource_date": "2009-11-23T12:19:45.104-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:11.563320"
+            "when": "2015-06-05T03:50:03.793293"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2009-11-23T12:19:45.104-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:11.563327"
+            "when": "2015-06-05T03:50:03.793302"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Palynology (Biological Sciences; Life Sciences)", 
+    "title": "Palynology", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=palynology", 
     "zotero_id": null
 }

@@ -1,8 +1,8 @@
 {
-    "description": "[ 75-4 ] 1998 : [ 76-1 ] [ 76-2 ] [ 76- ] [ 76-3 ] [ 76-4 ] 1998 : [ 76-1 ] [ 76-2 ] [ 76- ] [ 76-3 ] [ 76-4 ] 1998 : [ 76-1 ] [ 76-2 ] [ 76- ] [ 76-3 ] [ 76-4 ] 1998 : [ 76-1 ]", 
+    "description": "[ 75-4 ] 1998 : [ 76-1 ] [ 76-2 ] [ 76- ] [ 76-3 ] [ 76-4 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:43.198876: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
+        "2015-06-05T03:50:22.690127: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707332784338276556", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:43.199450"
+            "when": "2015-06-05T03:50:22.690649"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:43.199458"
+            "when": "2015-06-05T03:50:22.690656"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "75-4: Revue belge de Philologie et d'Histoire", 
+    "title": "75-4", 
+    "title_extended": "Revue belge de Philologie et d'Histoire: 75-4", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1997_num_75_4", 
     "zotero_id": null
 }

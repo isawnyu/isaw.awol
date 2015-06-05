@@ -1,8 +1,8 @@
 {
-    "description": "Spring (#145) Summer (#146)", 
+    "description": "Spring (#145)", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:39.955888: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
+        "2015-06-05T03:50:30.990616: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -30,13 +30,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
             "resource_date": "2013-12-10T13:02:44.344-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:39.956403"
+            "when": "2015-06-05T03:50:30.991125"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
             "resource_date": "2013-12-10T13:02:44.344-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:39.956410"
+            "when": "2015-06-05T03:50:30.991132"
         }
     ], 
     "related_resources": [], 

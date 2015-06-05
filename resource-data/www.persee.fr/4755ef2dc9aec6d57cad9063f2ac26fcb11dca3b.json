@@ -1,8 +1,8 @@
 {
-    "description": "[ 9 ] 1999 : [ 10 ] 1999 : [ 10 ] 1999 : [ 10 ] 1999 : [ 10 ]", 
+    "description": "1998 : [ 9 ] 1998 : [ 9 ] 1998 : [ 9 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:41.833533: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html. (walk_to_json.py)"
+        "2015-06-05T03:50:21.317662: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -23,24 +23,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6859067162907404873", 
             "resource_date": "2012-11-15T13:02:17.828-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:41.834152"
+            "when": "2015-06-05T03:50:21.318187"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html", 
             "resource_date": "2012-11-15T13:02:17.828-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:41.834160"
+            "when": "2015-06-05T03:50:21.318195"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1998 : [ 9 ]: Cahiers du Centre Gustave Glotz", 
+    "title": "9", 
+    "title_extended": "Cahiers du Centre Gustave Glotz: 9", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1998_num_9_1", 
     "zotero_id": null
 }

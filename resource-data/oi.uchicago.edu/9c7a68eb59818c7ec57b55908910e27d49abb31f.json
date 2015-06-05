@@ -1,15 +1,12 @@
 {
-    "description": "\"History of the Persian Empire. Albert Ten Eyck Olmstead. Originally published in 1948.\" \"The Intellectual Adventure of Ancient Man: An Essay on Speculative Thought in the Ancient Near East. Henri Frankfort, H. A. Frankfort, John A. Wilson, Thorkild Jacobsen, and William A. Irwin. Originally published in 1946.\"", 
+    "description": "\"History of the Persian Empire. Albert Ten Eyck Olmstead. Originally published in 1948.\"", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:09.514959: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes_20.html. (walk_to_json.py)"
+        "2015-06-05T03:50:01.577788: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes_20.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Ancient Near East", 
-        "Near East", 
         "Oriental Institute", 
-        "antiquity", 
         "backlist"
     ], 
     "language": [
@@ -35,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-224444973179106952", 
             "resource_date": "2012-12-20T12:49:30.883-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:09.515488"
+            "when": "2015-06-05T03:50:01.578370"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes_20.html", 
             "resource_date": "2012-12-20T12:49:30.883-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:09.515495"
+            "when": "2015-06-05T03:50:01.578378"
         }
     ], 
     "related_resources": [], 

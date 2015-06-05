@@ -1,8 +1,8 @@
 {
-    "description": "Acquisitions List: 2008 Acquisitions List: 2007", 
+    "description": "Acquisitions List: 2008", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:20.524585: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/05/open-access-journal-acquisitions-list.html. (walk_to_json.py)"
+        "2015-06-05T03:50:12.571187: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/05/open-access-journal-acquisitions-list.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -12,7 +12,7 @@
     ], 
     "language": [
         "en", 
-        0.998966586681859
+        0.9947159364495488
     ], 
     "provenance": [
         {
@@ -33,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4803688524610822150", 
             "resource_date": "2010-05-11T09:58:46.901-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:20.525109"
+            "when": "2015-06-05T03:50:12.571729"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/open-access-journal-acquisitions-list.html", 
             "resource_date": "2010-05-11T09:58:46.901-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:20.525116"
+            "when": "2015-06-05T03:50:12.571737"
         }
     ], 
     "related_resources": [], 

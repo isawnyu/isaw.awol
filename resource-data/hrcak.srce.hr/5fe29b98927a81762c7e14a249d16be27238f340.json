@@ -1,13 +1,12 @@
 {
-    "description": "Annales Instituti Archaeologici ISSN:1845-4046 Archaeologica Adriatica ISSN:1846-4807 Archaeologica Adriatica", 
+    "description": "Annales Instituti Archaeologici ISSN:1845-4046 Annales Instituti Archaeologici", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:21.455967: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
+        "2015-06-05T03:50:13.332534: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
             "generic": [
-                "1846-4807", 
                 "1845-4046"
             ]
         }
@@ -20,7 +19,10 @@
         "journal", 
         "open access"
     ], 
-    "language": null, 
+    "language": [
+        "fr", 
+        0.9945328707900111
+    ], 
     "provenance": [
         {
             "fields": [
@@ -34,24 +36,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:21.456540"
+            "when": "2015-06-05T03:50:13.333060"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:21.456548"
+            "when": "2015-06-05T03:50:13.333068"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Annales Instituti Archaeologici ISSN:1845-4046", 
+    "title": "Annales Instituti Archaeologici", 
+    "title_extended": "Hrcak: Portal of scientific journals of Croatia: Annales Instituti Archaeologici", 
     "url": "http://hrcak.srce.hr/aia", 
     "zotero_id": null
 }

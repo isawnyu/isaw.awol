@@ -2,7 +2,7 @@
     "description": "OIP 35. Reliefs and Inscriptions at Karnak, Volume II. Ramses III's Temple within the Great Inclosure of Amon, Part II; and Ramses III's Temple in the Precinct of Mut. By The Epigraphic Survey. Originally published in 1936.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:18.994258: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_13.html. (walk_to_json.py)"
+        "2015-06-05T03:50:11.140599: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_13.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4308619886868912773", 
             "resource_date": "2009-11-13T18:17:24.306-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:18.994878"
+            "when": "2015-06-05T03:50:11.141173"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_13.html", 
             "resource_date": "2009-11-13T18:17:24.306-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:18.994887"
+            "when": "2015-06-05T03:50:11.141190"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "OIP 35. Reliefs and Inscriptions at Karnak, Volume II", 
+    "title_extended": "Egypt: OIP 35. Reliefs and Inscriptions at Karnak, Volume II", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip35.html", 
     "zotero_id": null
 }

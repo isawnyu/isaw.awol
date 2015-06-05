@@ -1,12 +1,11 @@
 {
-    "description": "SAOC 50. Subsistence, Trade, and Social Change in Early Bronze Age Palestine. D. L. Esse. 1991. Aqaba: \"Port of Palestine on the China Sea.\" D. Whitcomb. 1988.", 
+    "description": "SAOC 50. Subsistence, Trade, and Social Change in Early Bronze Age Palestine. D. L. Esse. 1991.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:37.548067: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
+        "2015-06-05T03:50:28.689177: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "China", 
         "Oriental Institute", 
         "Palestine", 
         "backlist", 
@@ -14,7 +13,7 @@
     ], 
     "language": [
         "en", 
-        1.0
+        0.9999999999984723
     ], 
     "provenance": [
         {
@@ -35,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8365232251359351016", 
             "resource_date": "2012-11-23T07:14:32.413-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:37.548591"
+            "when": "2015-06-05T03:50:28.689765"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html", 
             "resource_date": "2012-11-23T07:14:32.413-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:37.548599"
+            "when": "2015-06-05T03:50:28.689773"
         }
     ], 
     "related_resources": [], 

@@ -1,17 +1,14 @@
 {
-    "description": "Ignasi-Xavier Adiego Essai de dialectologie \u00e9trusque\u00a0: probl\u00e8mes th\u00e9oriques et applications pratiques [Article] Gilles van Heems Essai de dialectologie \u00e9trusque\u00a0: probl\u00e8mes th\u00e9oriques et applications pratiques [Article] Gilles van Heems Essai de dialectologie \u00e9trusque\u00a0: probl\u00e8mes th\u00e9oriques et applications pratiques [Article] Essai de dialectologie \u00e9trusque\u00a0: probl\u00e8mes th\u00e9oriques et applications pratiques", 
+    "description": "Ignasi-Xavier Adiego", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:46.995745: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html. (walk_to_json.py)"
+        "2015-06-05T03:50:27.240496: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Mediterranean"
     ], 
-    "language": [
-        "fr", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -31,13 +28,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7980957358423240936", 
             "resource_date": "2011-10-14T14:27:16.756-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:46.996308"
+            "when": "2015-06-05T03:50:27.241010"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html", 
             "resource_date": "2011-10-14T14:27:16.756-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:46.996317"
+            "when": "2015-06-05T03:50:27.241018"
         }
     ], 
     "related_resources": [], 

@@ -1,8 +1,8 @@
 {
-    "description": "INDIVIDUAL RESEARCH 2010-2011 RESEARCH SUPPORT COMPUTER LABORATORY. John C. Sanders ELECTRONIC RESOURCES. John C. Sanders PUBLICATIONS OFFICE. Thomas G. Urban RESEARCH ARCHIVES. Foy Scalf TABLET COLLECTION. Andrew Dix COMPUTER LABORATORY. John C. Sanders", 
+    "description": "INDIVIDUAL RESEARCH 2010-2011", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:26.406756: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-oriental-institute-annual.html. (walk_to_json.py)"
+        "2015-06-05T03:50:17.975186: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-oriental-institute-annual.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -10,8 +10,7 @@
         "annual report", 
         "open access", 
         "report", 
-        "reports", 
-        "research archives"
+        "reports"
     ], 
     "language": null, 
     "provenance": [
@@ -33,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6193195451668305174", 
             "resource_date": "2012-08-04T21:40:14.784-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:26.407336"
+            "when": "2015-06-05T03:50:17.975880"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-oriental-institute-annual.html", 
             "resource_date": "2012-08-04T21:40:14.784-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:26.407344"
+            "when": "2015-06-05T03:50:17.975889"
         }
     ], 
     "related_resources": [], 

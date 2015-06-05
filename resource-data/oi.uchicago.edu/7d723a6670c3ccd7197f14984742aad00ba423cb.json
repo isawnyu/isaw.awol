@@ -2,7 +2,7 @@
     "description": "OIMP 30. Pioneers to the Past: American Archaeologists in the Middle East, 1919-1920 . Edited by Geoff Emberling. Published in 2010. Pioneers to the Past: American Archaeologists in the Middle East, 1919-1920", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:37.626872: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/new-exhibition-catalogue-online-at.html. (walk_to_json.py)"
+        "2015-06-05T03:50:28.807791: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/01/new-exhibition-catalogue-online-at.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -35,26 +35,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8377304678406021904", 
             "resource_date": "2010-01-12T14:01:27.096-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:37.627487"
+            "when": "2015-06-05T03:50:28.809977"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/new-exhibition-catalogue-online-at.html", 
             "resource_date": "2010-01-12T14:01:27.096-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:37.627496"
+            "when": "2015-06-05T03:50:28.809985"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        {
-            "label": "Download PDF", 
-            "url": "http://oi.uchicago.edu/pdf/oimp30.pdf"
-        }, 
-        {
-            "label": "Terms of Use", 
-            "url": "http://oi.uchicago.edu/research/pubs/epi.html"
-        }
-    ], 
+    "subordinate_resources": [], 
     "title": "OIMP 30. Pioneers to the Past: American Archaeologists in the Middle East, 1919-1920", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/oimp/oimp30.html", 
     "zotero_id": null

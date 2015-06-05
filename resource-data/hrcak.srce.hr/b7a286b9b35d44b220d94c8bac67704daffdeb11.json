@@ -1,8 +1,8 @@
 {
-    "description": "Vol. III No. 28-29 Vol. III No. 28-29 2000 Vol. III No. 27 Vol. III No. 27 Vol. III No. 27 Vol. III No. 27", 
+    "description": "Vol. III No. 28-29 Vol. III No. 28-29", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:37.421053: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/newly-open-access-journal-starohrvatska.html. (walk_to_json.py)"
+        "2015-06-05T03:50:28.578226: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/newly-open-access-journal-starohrvatska.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -25,24 +25,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8341708848626308623", 
             "resource_date": "2012-12-19T06:16:33.429-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:37.421671"
+            "when": "2015-06-05T03:50:28.578744"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/newly-open-access-journal-starohrvatska.html", 
             "resource_date": "2012-12-19T06:16:33.429-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:37.421679"
+            "when": "2015-06-05T03:50:28.578751"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Vol. III \u00a0 No. 28-29: Starohrvatska prosvjeta", 
+    "title": "Vol. III \u00a0 No. 28-29", 
+    "title_extended": "Starohrvatska prosvjeta: Vol. III \u00a0 No. 28-29", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6735", 
     "zotero_id": null
 }

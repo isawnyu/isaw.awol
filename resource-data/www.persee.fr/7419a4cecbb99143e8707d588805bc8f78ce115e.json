@@ -1,8 +1,8 @@
 {
-    "description": "[ 13 ] 1998 : [ 14 ] 1998 : [ 14 ] 1998 : [ 14 ] 1998 : [ 14 ]", 
+    "description": "1995 : [ 13 ] 1995 : [ 13 ] 1995 : [ 13 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:24.419557: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html. (walk_to_json.py)"
+        "2015-06-05T03:49:57.848885: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -25,24 +25,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1423394332945157365", 
             "resource_date": "2013-10-28T10:28:50.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:24.420116"
+            "when": "2015-06-05T03:49:57.849424"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html", 
             "resource_date": "2013-10-28T10:28:50.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:24.420123"
+            "when": "2015-06-05T03:49:57.849432"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1995 : [ 13 ]: Archaeonautica", 
+    "title": "13", 
+    "title_extended": "Archaeonautica: 13", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1995_mon_13_1", 
     "zotero_id": null
 }

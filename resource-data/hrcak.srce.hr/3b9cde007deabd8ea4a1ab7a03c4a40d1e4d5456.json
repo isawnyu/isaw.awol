@@ -1,16 +1,10 @@
 {
-    "description": "Portal, the Yearbook of the Croatian Conservation Institute Povijesni zbornik: godi\u0161njak za kulturu i povijesno naslje\u0111e ISSN:1846-3819 Povijesni zbornik: godi\u0161njak za kulturu i povijesno naslje\u0111e", 
+    "description": "Portal, the Yearbook of the Croatian Conservation Institute", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:21.544557: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
+        "2015-06-05T03:50:13.401247: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
     ], 
-    "identifiers": {
-        "issn": {
-            "electronic": [
-                "1846-3819"
-            ]
-        }
-    }, 
+    "identifiers": {}, 
     "keywords": [
         "Balkans", 
         "Croatia", 
@@ -21,8 +15,8 @@
         "open access"
     ], 
     "language": [
-        "bs", 
-        0.9999998555767355
+        "en", 
+        1.0
     ], 
     "provenance": [
         {
@@ -37,24 +31,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:21.545158"
+            "when": "2015-06-05T03:50:13.401809"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:21.545165"
+            "when": "2015-06-05T03:50:13.401817"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Portal, the Yearbook of the Croatian Conservation Institute", 
+    "title_extended": "Hrcak: Portal of scientific journals of Croatia: Portal, the Yearbook of the Croatian Conservation Institute", 
     "url": "http://hrcak.srce.hr/portal", 
     "zotero_id": null
 }

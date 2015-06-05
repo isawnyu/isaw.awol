@@ -1,8 +1,8 @@
 {
-    "description": "Vol. 22 No. 22 Vol. 22 No. 22 2001 Vol. 21 No. 21 Vol. 21 No. 21 Vol. 21 No. 21 Vol. 21 No. 21", 
+    "description": "Vol. 22 No. 22 Vol. 22 No. 22", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:10.022245: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-povijesni-prilozi.html. (walk_to_json.py)"
+        "2015-06-05T03:50:02.086329: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-povijesni-prilozi.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2289439144476944799", 
             "resource_date": "2013-02-21T10:44:26.227-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:10.022779"
+            "when": "2015-06-05T03:50:02.086857"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-povijesni-prilozi.html", 
             "resource_date": "2013-02-21T10:44:26.227-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:10.022787"
+            "when": "2015-06-05T03:50:02.086864"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Vol. 22 \u00a0 No. 22: Povijesni prilozi - Historical Contributions", 
+    "title": "Vol. 22 \u00a0 No. 22", 
+    "title_extended": "Povijesni prilozi - Historical Contributions: Vol. 22 \u00a0 No. 22", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2495", 
     "zotero_id": null
 }

@@ -1,15 +1,13 @@
 {
-    "description": "the Egyptian Museum in Cairo . (March 3, 2010) More working files have been added to the Topographical Bibliography lists for periodicals . (March 3, 2010) More working files have been added to the Topographical Bibliography lists for periodicals . (March 3, 2010) More working files have been added to the Topographical Bibliography lists for periodicals", 
+    "description": "A revised list of objects in the Egyptian Museum in Cairo . (March 3, 2010) A revised list of objects in the Egyptian Museum in Cairo . (March 3, 2010) A revised list of objects in the Egyptian Museum in Cairo", 
     "domain": "www.griffith.ox.ac.uk", 
     "history": [
-        "2015-06-04T03:36:36.435399: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/05/recent-offerings-from-griffifth.html. (walk_to_json.py)"
+        "2015-06-05T03:50:27.644735: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/05/recent-offerings-from-griffifth.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Cairo", 
-        "bibliography", 
         "egyptology", 
-        "journal", 
         "museums"
     ], 
     "language": [
@@ -29,24 +27,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-813986282971874208", 
             "resource_date": "2010-05-24T10:04:02.981-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:36.435930"
+            "when": "2015-06-05T03:50:27.645292"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/recent-offerings-from-griffifth.html", 
             "resource_date": "2010-05-24T10:04:02.981-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:36.435938"
+            "when": "2015-06-05T03:50:27.645299"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "A revised list of objects in the Egyptian Museum in Cairo. (March 3, 2010)", 
+    "title": "the Egyptian Museum in Cairo", 
+    "title_extended": "Griffith Institute: the Egyptian Museum in Cairo", 
     "url": "http://www.griffith.ox.ac.uk/gri/3cairo.pdf", 
     "zotero_id": null
 }

@@ -1,28 +1,17 @@
 {
-    "description": "Senjski zbornik ISSN: 0582-673X Senj Museum Society and City Museum Senj have published the scientific magazine Senjski zbornik (The Review of Senj) since 1965. To date 33 issues have been published with papers from numerous eminent scientists in history, culture, literature, economy, geography and other scientific areas. The subjects, which have been discussed in the magazine, have been mostly related to the city of Senj and its surroundings as well as the wider area of the eastern Adriatic coast and its hinterland. Archive 2010 Vol. 37 No. 1 2009 Vol. 36 No. 1 2008 Vol. 35 No. 1 2007 Vol. 34 No. 1 2006 Vol. 33 No. 1 2005 Vol. 32 No. 1 2004 Vol. 31 No. 1 2003 Vol. 30 No. 1 2002 Vol. 29 No. 1 2001 Vol. 28 No. 1 2000 Vol. 27 No. 1 1999 Vol. 26 No. 1 1998 Vol. 25 No. 1 1997 Vol. 24 No. 1 1996 Vol. 23 No. 1 And see AWOL's List of Open Access Journals in Ancient Studies ISSN: 0582-673X Senj Museum Society and City Museum Senj have published the scientific magazine Senjski zbornik (The Review of Senj) since 1965. To date 33 issues have been published with papers from numerous eminent scientists in history, culture, literature, economy, geography and other scientific areas. The subjects, which have been discussed in the magazine, have been mostly related to the city of Senj and its surroundings as well as the wider area of the eastern Adriatic coast and its hinterland.", 
+    "description": "Senjski zbornik", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:07.180718: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/open-access-journal-senjski-zbornik.html. (walk_to_json.py)"
+        "2015-06-05T03:49:59.182507: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/open-access-journal-senjski-zbornik.html. (walk_to_json.py)"
     ], 
-    "identifiers": {
-        "issn": {
-            "generic": [
-                "0582-673X"
-            ]
-        }
-    }, 
+    "identifiers": {}, 
     "keywords": [
-        "antiquity", 
-        "archive", 
-        "geography", 
         "journal", 
-        "magazine", 
-        "museums", 
         "open access"
     ], 
     "language": [
-        "en", 
-        1.0
+        "sl", 
+        0.9811834502665783
     ], 
     "provenance": [
         {
@@ -43,75 +32,75 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1601512946178717830", 
             "resource_date": "2011-10-10T14:10:50.246-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:07.181321"
+            "when": "2015-06-05T03:49:59.183111"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-senjski-zbornik.html", 
             "resource_date": "2011-10-10T14:10:50.246-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:07.181329"
+            "when": "2015-06-05T03:49:59.183119"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
         {
-            "label": "Vol. 37 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 37 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=5611"
         }, 
         {
-            "label": "Vol. 36 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 36 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4516"
         }, 
         {
-            "label": "Vol. 35 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 35 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3550"
         }, 
         {
-            "label": "Vol. 34 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 34 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3551"
         }, 
         {
-            "label": "Vol. 33 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 33 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1598"
         }, 
         {
-            "label": "Vol. 32 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 32 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1603"
         }, 
         {
-            "label": "Vol. 31 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 31 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1608"
         }, 
         {
-            "label": "Vol. 30 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 30 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1609"
         }, 
         {
-            "label": "Vol. 29 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 29 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1612"
         }, 
         {
-            "label": "Vol. 28 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 28 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1615"
         }, 
         {
-            "label": "Vol. 27 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 27 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2538"
         }, 
         {
-            "label": "Vol. 26 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 26 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3470"
         }, 
         {
-            "label": "Vol. 25 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 25 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3553"
         }, 
         {
-            "label": "Vol. 24 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 24 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3554"
         }, 
         {
-            "label": "Vol. 23 \u00a0 No. 1: Senjski zbornik", 
+            "label": "Vol. 23 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3592"
         }
     ], 

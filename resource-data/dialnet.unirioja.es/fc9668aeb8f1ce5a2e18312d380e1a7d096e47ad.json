@@ -1,8 +1,8 @@
 {
-    "description": "6 1981 5 1981", 
+    "description": "6", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:19.900863: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/open-access-journal-memorias-de.html. (walk_to_json.py)"
+        "2015-06-05T03:50:29.158654: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/open-access-journal-memorias-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -27,24 +27,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8476008991115147483", 
             "resource_date": "2012-06-18T12:53:35.306-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:19.901434"
+            "when": "2015-06-05T03:50:29.159177"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-memorias-de.html", 
             "resource_date": "2012-06-18T12:53:35.306-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:19.901442"
+            "when": "2015-06-05T03:50:29.159185"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "6: Memorias de historia antigua", 
+    "title": "6", 
+    "title_extended": "Memorias de historia antigua: 6", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=5170", 
     "zotero_id": null
 }

@@ -1,14 +1,13 @@
 {
-    "description": "Journal of Dalmatian archaeology and history ISSN:1845-7789 Journal of the Zagreb Archaeological Museum ISSN:0350-7165 Journal of the Zagreb Archaeological Museum", 
+    "description": "Journal of Dalmatian archaeology and history ISSN:1845-7789 Journal of Dalmatian archaeology and history", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:21.524466: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
+        "2015-06-05T03:50:13.384315: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
             "generic": [
-                "1845-7789", 
-                "0350-7165"
+                "1845-7789"
             ]
         }
     }, 
@@ -16,11 +15,9 @@
         "Balkans", 
         "Croatia", 
         "Croatian", 
-        "Zagreb", 
         "archaeology", 
         "history", 
         "journal", 
-        "museums", 
         "open access"
     ], 
     "language": [
@@ -40,24 +37,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:21.524994"
+            "when": "2015-06-05T03:50:13.384839"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:21.525001"
+            "when": "2015-06-05T03:50:13.384846"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Journal of Dalmatian archaeology and history ISSN:1845-7789", 
+    "title": "Journal of Dalmatian archaeology and history", 
+    "title_extended": "Hrcak: Portal of scientific journals of Croatia: Journal of Dalmatian archaeology and history", 
     "url": "http://hrcak.srce.hr/vapd", 
     "zotero_id": null
 }

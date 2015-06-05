@@ -1,16 +1,15 @@
 {
-    "description": "Beycesultan: v. 3., pt. 2. Late Bronze Age and Phrygian pottery and middle and late Bronze Age small objects Mellaart, James 1995 OK See more Series in AMAR", 
+    "description": "Beycesultan: v. 3., pt. 2. Late Bronze Age and Phrygian pottery and middle and late Bronze Age small objects", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:13.492927: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/beycesultan-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:05.881380: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/beycesultan-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Amar", 
         "bronze", 
         "ceramics", 
-        "pottery", 
-        "series"
+        "pottery"
     ], 
     "language": [
         "en", 
@@ -35,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3129339539768469992", 
             "resource_date": "2012-03-02T16:40:53.442-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:13.493503"
+            "when": "2015-06-05T03:50:05.881907"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/beycesultan-in-amar.html", 
             "resource_date": "2012-03-02T16:40:53.442-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:13.493511"
+            "when": "2015-06-05T03:50:05.881914"
         }
     ], 
     "related_resources": [], 

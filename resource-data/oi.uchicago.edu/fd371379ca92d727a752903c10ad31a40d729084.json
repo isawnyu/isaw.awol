@@ -1,14 +1,13 @@
 {
-    "description": "No. 142 Summer 1994: IRANIAN POTTERY IN THE ORIENTAL INSTITUTE No. 141 Spring 1994: WATER AND RECENT EXCAVATIONS AT AQABA", 
+    "description": "No. 142 Summer 1994: IRANIAN POTTERY IN THE ORIENTAL INSTITUTE", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:40.422820: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
+        "2015-06-05T03:50:31.429766: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Iran", 
         "Oriental Institute", 
-        "archaeology", 
         "ceramics", 
         "journal", 
         "open access", 
@@ -34,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
             "resource_date": "2013-12-10T13:02:44.344-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:40.423343"
+            "when": "2015-06-05T03:50:31.430279"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
             "resource_date": "2013-12-10T13:02:44.344-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:40.423351"
+            "when": "2015-06-05T03:50:31.430287"
         }
     ], 
     "related_resources": [], 

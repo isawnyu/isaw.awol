@@ -1,8 +1,8 @@
 {
-    "description": "2007 1 2 1 2 1 2 1 2 1", 
+    "description": "2007", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:02.990293: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/ope-access-journal-res-publica.html. (walk_to_json.py)"
+        "2015-06-05T03:50:03.910322: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/ope-access-journal-res-publica.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -25,24 +25,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2779907104128032722", 
             "resource_date": "2013-11-05T10:20:28.501-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:02.990832"
+            "when": "2015-06-05T03:50:03.910925"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/ope-access-journal-res-publica.html", 
             "resource_date": "2013-11-05T10:20:28.501-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:02.990839"
+            "when": "2015-06-05T03:50:03.910933"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2007: RES PUBLICA LITTERARUM: Documentos de Trabajo del grupo de investigaci\u00f3n 'Nomos'", 
+    "title": "2007", 
+    "title_extended": "RES PUBLICA LITTERARUM: Documentos de Trabajo del grupo de investigaci\u00f3n 'Nomos': 2007", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13109&claveDeBusqueda=2007", 
     "zotero_id": null
 }

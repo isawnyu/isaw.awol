@@ -1,8 +1,8 @@
 {
-    "description": "68 1989-1990 66-67 1989-1990", 
+    "description": "68", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:07.375401: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html. (walk_to_json.py)"
+        "2015-06-05T03:50:10.612265: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -23,24 +23,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4206419451111757327", 
             "resource_date": "2013-09-30T11:09:09.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:07.375960"
+            "when": "2015-06-05T03:50:10.612819"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html", 
             "resource_date": "2013-09-30T11:09:09.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:07.375968"
+            "when": "2015-06-05T03:50:10.612827"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "68: Caesaraugusta", 
+    "title": "68", 
+    "title_extended": "Caesaraugusta: 68", 
     "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=549", 
     "zotero_id": null
 }

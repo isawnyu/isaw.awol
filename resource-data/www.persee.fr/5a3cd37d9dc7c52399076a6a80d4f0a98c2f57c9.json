@@ -1,8 +1,8 @@
 {
-    "description": "[ 14-4 ] 1936 : [ 15-1 ] [ 15-2 ] [ 15-3-4 ] 1936 : [ 15-1 ] [ 15-2 ] [ 15-3-4 ] 1936 : [ 15-1 ] [ 15-2 ] [ 15-3-4 ] 1936 : [ 15-1 ]", 
+    "description": "[ 14-4 ] 1936 : [ 15-1 ] [ 15-2 ] [ 15-3-4 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:42.443827: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
+        "2015-06-05T03:50:22.024316: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707332784338276556", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:42.444369"
+            "when": "2015-06-05T03:50:22.024845"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:42.444377"
+            "when": "2015-06-05T03:50:22.024853"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "14-4: Revue belge de Philologie et d'Histoire", 
+    "title": "14-4", 
+    "title_extended": "Revue belge de Philologie et d'Histoire: 14-4", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1935_num_14_4", 
     "zotero_id": null
 }

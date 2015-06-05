@@ -1,8 +1,8 @@
 {
-    "description": "[ 73 ] 2005 : [ 74 ] 2005 : [ 74 ] 2005 : [ 74 ] 2005 : [ 74 ]", 
+    "description": "2004 : [ 73 ] 2004 : [ 73 ] 2004 : [ 73 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:46.810553: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html. (walk_to_json.py)"
+        "2015-06-05T03:50:27.060744: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -24,24 +24,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7945682581620223967", 
             "resource_date": "2013-12-29T07:35:34.289-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:46.811100"
+            "when": "2015-06-05T03:50:27.061281"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html", 
             "resource_date": "2013-12-29T07:35:34.289-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:46.811107"
+            "when": "2015-06-05T03:50:27.061289"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2004 : [ 73 ]: L'Antiquit\u00e9 Classique", 
+    "title": "73", 
+    "title_extended": "L'Antiquit\u00e9 Classique: 73", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/antiq_0770-2817_2004_num_73_1", 
     "zotero_id": null
 }

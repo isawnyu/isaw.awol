@@ -1,20 +1,18 @@
 {
-    "description": "No. 122 January-February 1990: AQABA/AYLA: EXCAVATING FOR THE FUTURE See also The Oriental Institute Archaeological Newsletter (1950-1973) For an up to date list of all Oriental Institute publications available online see: See also The Oriental Institute Archaeological Newsletter (1950-1973)", 
+    "description": "No. 122 January-February 1990: AQABA/AYLA: EXCAVATING FOR THE FUTURE", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:40.477465: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
+        "2015-06-05T03:50:31.483142: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Oriental Institute", 
-        "archaeology", 
         "journal", 
-        "newsletter", 
         "open access"
     ], 
     "language": [
         "en", 
-        1.0
+        0.9668639161319487
     ], 
     "provenance": [
         {
@@ -35,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
             "resource_date": "2013-12-10T13:02:44.344-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:40.477986"
+            "when": "2015-06-05T03:50:31.483678"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
             "resource_date": "2013-12-10T13:02:44.344-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:40.477993"
+            "when": "2015-06-05T03:50:31.483685"
         }
     ], 
     "related_resources": [], 

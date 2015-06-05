@@ -2,7 +2,7 @@
     "description": "Histria Archaeologica ISSN: 0350-6320", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:14.824545: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-journal-histria.html. (walk_to_json.py)"
+        "2015-06-05T03:50:07.020039: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-journal-histria.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
@@ -36,13 +36,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3366370568278026146", 
             "resource_date": "2012-01-29T07:45:43.894-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:14.825223"
+            "when": "2015-06-05T03:50:07.020580"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-histria.html", 
             "resource_date": "2012-01-29T07:45:43.894-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:14.825232"
+            "when": "2015-06-05T03:50:07.020588"
         }
     ], 
     "related_resources": [], 

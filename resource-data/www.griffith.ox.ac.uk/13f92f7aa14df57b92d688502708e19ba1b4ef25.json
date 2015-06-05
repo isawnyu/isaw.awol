@@ -1,13 +1,12 @@
 {
-    "description": "Register of samples 1922-1939 which includes many items from the tomb of Tutankhamun. (June 15, 2011) And see Open Access Archives: Griffith Institute", 
+    "description": "Alfred Lucas's Register of samples 1922-1939 which includes many items from the tomb of Tutankhamun. (June 15, 2011) Alfred Lucas's Register of samples 1922-1939 which includes many items from the tomb of Tutankhamun. (June 15, 2011) Alfred Lucas's Register of samples 1922-1939", 
     "domain": "www.griffith.ox.ac.uk", 
     "history": [
-        "2015-06-04T03:36:36.287603: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html. (walk_to_json.py)"
+        "2015-06-05T03:50:27.497888: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Griffith Institute", 
-        "open access"
+        "Griffith Institute"
     ], 
     "language": [
         "en", 
@@ -32,18 +31,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8094499180810007320", 
             "resource_date": "2011-07-20T10:19:51.273-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:36.288144"
+            "when": "2015-06-05T03:50:27.498406"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html", 
             "resource_date": "2011-07-20T10:19:51.273-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:36.288152"
+            "when": "2015-06-05T03:50:27.498413"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Alfred Lucas's Register of samples 1922-1939 which includes many items from the tomb of Tutankhamun. (June 15, 2011)", 
+    "title": "Register of samples 1922-1939", 
     "url": "http://www.griffith.ox.ac.uk/gri/4lucas_samples.html", 
     "zotero_id": null
 }

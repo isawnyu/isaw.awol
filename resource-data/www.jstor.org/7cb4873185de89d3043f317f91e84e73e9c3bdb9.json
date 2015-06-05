@@ -1,8 +1,8 @@
 {
-    "description": "History of Religions (Arts & Sciences III)", 
+    "description": "History of Religions (Arts & Sciences III) History of Religions", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:08.468860: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-05T03:50:00.526127: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -12,7 +12,7 @@
     ], 
     "language": [
         "en", 
-        0.9999999999999998
+        1.0
     ], 
     "provenance": [
         {
@@ -33,18 +33,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1970970912930647566", 
             "resource_date": "2010-04-27T18:42:09.328-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:08.470162"
+            "when": "2015-06-05T03:50:00.526704"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2010-04-27T18:42:09.328-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:08.470178"
+            "when": "2015-06-05T03:50:00.526712"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "History of Religions (Arts & Sciences III)", 
+    "title": "History of Religions", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=historyreligions", 
     "zotero_id": null
 }

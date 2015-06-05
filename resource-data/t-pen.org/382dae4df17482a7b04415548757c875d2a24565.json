@@ -2,7 +2,7 @@
     "description": "T-PEN: transcription for paleographical and editorial notation A New Tool for the Digital Humanities T\u2011PEN is a web-based tool for working with images of manuscripts. Users attach transcription data (new or uploaded) to the actual lines of the original manuscript in a simple, flexible interface. Interoperability T\u2011PEN... Is an open and general tool for scholars of any technical expertise level Allows transcriptions to be created, manipulated, and viewed in many ways Collaborate with others through simple project management Exports transcriptions as a pdf, XML(plaintext) for further processing, or contribute to a collaborating institution with a click Respects existing and emerging standards for text, image, and annotation data storage Avoids prejudice in data, allowing users to find new ways to work", 
     "domain": "t-pen.org", 
     "history": [
-        "2015-06-04T03:36:10.959883: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/t-pen-transcription-for-paleographical.html. (walk_to_json.py)"
+        "2015-06-05T03:50:03.107178: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/05/t-pen-transcription-for-paleographical.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -31,13 +31,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-256483532002249209", 
             "resource_date": "2012-05-07T10:51:20.202-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:10.960449"
+            "when": "2015-06-05T03:50:03.107821"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/t-pen-transcription-for-paleographical.html", 
             "resource_date": "2012-05-07T10:51:20.202-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:10.960457"
+            "when": "2015-06-05T03:50:03.107829"
         }
     ], 
     "related_resources": [], 

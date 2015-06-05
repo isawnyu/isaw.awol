@@ -2,7 +2,7 @@
     "description": "Southeast Asian Archaeology Scholarly Website Through funding provided by the The Henry Luce Foundation, Inc., the University of Pennsylvania Museum has created a website for the dissemination of scholarship on the archaeology and anthropology of Southeast Asia. The project currently has two components-- a web-based bibliography and a set of archaeological databases. The bibliography can be searched and selected references exported to the user's word processing or bibliography program. The archaeological databases contain archaeological, biological, and cultural databases as well as data recording forms.", 
     "domain": "seasia.museum.upenn.edu", 
     "history": [
-        "2015-06-04T03:36:42.084928: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/southeast-asian-archaeology-scholarly.html. (walk_to_json.py)"
+        "2015-06-05T03:50:32.963772: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/southeast-asian-archaeology-scholarly.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -39,13 +39,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-978826993832340502", 
             "resource_date": "2013-02-04T11:23:37.831-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:42.085510"
+            "when": "2015-06-05T03:50:32.964340"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/southeast-asian-archaeology-scholarly.html", 
             "resource_date": "2013-02-04T11:23:37.831-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:42.085519"
+            "when": "2015-06-05T03:50:32.964347"
         }
     ], 
     "related_resources": [], 

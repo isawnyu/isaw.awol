@@ -1,8 +1,8 @@
 {
-    "description": "Parthian pottery from Seleucia on the Tigris Debevoise, Neilson Carel, 1903- 1934 OK", 
+    "description": "Parthian pottery from Seleucia on the Tigris", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:41.138724: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/seleucia-on-tigris-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:32.055941: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/seleucia-on-tigris-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -36,13 +36,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9123824952500248838", 
             "resource_date": "2012-03-02T16:38:05.272-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:41.139251"
+            "when": "2015-06-05T03:50:32.056976"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/seleucia-on-tigris-in-amar.html", 
             "resource_date": "2012-03-02T16:38:05.272-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:41.139259"
+            "when": "2015-06-05T03:50:32.056993"
         }
     ], 
     "related_resources": [], 

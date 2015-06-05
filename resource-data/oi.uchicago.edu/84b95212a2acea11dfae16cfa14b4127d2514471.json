@@ -1,20 +1,18 @@
 {
-    "description": "\"A Catalogue of Arabic Manuscripts in the Oriental Institute of Chicago. Miroslav Krek. Originally published in 1961.\" \"Iranian Art at the Oriental Institute Museum of the University of Chicago. Designs by Sue Richert. Text by Carl H. Kraeling. Originally published in 1951.\"", 
+    "description": "\"A Catalogue of Arabic Manuscripts in the Oriental Institute of Chicago. Miroslav Krek. Originally published in 1961.\"", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:07.107987: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html. (walk_to_json.py)"
+        "2015-06-05T03:49:59.139871: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Arabic", 
         "Oriental Institute", 
         "antiquity", 
-        "art", 
         "catalogue", 
         "exhibition", 
         "exhibition catalogue", 
-        "manuscripts", 
-        "museums"
+        "manuscripts"
     ], 
     "language": [
         "en", 
@@ -39,21 +37,16 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1593684842275887750", 
             "resource_date": "2013-09-11T12:42:16.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:07.108510"
+            "when": "2015-06-05T03:49:59.140445"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html", 
             "resource_date": "2013-09-11T12:42:16.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:07.108517"
+            "when": "2015-06-05T03:49:59.140453"
         }
     ], 
-    "related_resources": [
-        {
-            "label": "List of volumes in print", 
-            "url": "http://oi.uchicago.edu/research/pubs/catalog/oimp/"
-        }
-    ], 
+    "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\"A Catalogue of Arabic Manuscripts in the Oriental Institute of Chicago. Miroslav Krek", 
     "url": "https://oi.uchicago.edu/research/pubs/catalog/oimp/arabic_mss.html", 

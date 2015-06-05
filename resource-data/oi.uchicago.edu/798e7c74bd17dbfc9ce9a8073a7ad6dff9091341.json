@@ -1,12 +1,11 @@
 {
-    "description": "OIMP 27. European Cartographers and the Ottoman World, 1500\u20131750: Maps from the Collection of O. J. Sopranos . Ian Manners. 2007. This is the catalog for the Oriental Institute Museum Special Exhibit of the same name, on display from November 2, 2007 through March 16, 2008. OIMP 26. Daily Life Ornamented: The Medieval Persian City of Rayy . Tanya Treptow. 2007. OIMP 26. Daily Life Ornamented: The Medieval Persian City of Rayy . Tanya Treptow. 2007. OIMP 26. Daily Life Ornamented: The Medieval Persian City of Rayy . Tanya Treptow. 2007. OIMP 26. Daily Life Ornamented: The Medieval Persian City of Rayy", 
+    "description": "OIMP 27. European Cartographers and the Ottoman World, 1500\u20131750: Maps from the Collection of O. J. Sopranos . Ian Manners. 2007. This is the catalog for the Oriental Institute Museum Special Exhibit of the same name, on display from November 2, 2007 through March 16, 2008. OIMP 27. European Cartographers and the Ottoman World, 1500\u20131750: Maps from the Collection of O. J. Sopranos . Ian Manners. 2007. This is the catalog for the Oriental Institute Museum Special Exhibit of the same name, on display from November 2, 2007 through March 16, 2008. OIMP 27. European Cartographers and the Ottoman World, 1500\u20131750: Maps from the Collection of O. J. Sopranos . Ian Manners. 2007. This is the catalog for the Oriental Institute Museum Special Exhibit of the same name, on display from November 2, 2007 through March 16, 2008. OIMP 27. European Cartographers and the Ottoman World, 1500\u20131750: Maps from the Collection of O. J. Sopranos", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:07.061895: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html. (walk_to_json.py)"
+        "2015-06-05T03:49:59.099025: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Middle Ages", 
         "Oriental Institute", 
         "antiquity", 
         "catalogue", 
@@ -38,21 +37,16 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1593684842275887750", 
             "resource_date": "2013-09-11T12:42:16.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:07.062429"
+            "when": "2015-06-05T03:49:59.099644"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html", 
             "resource_date": "2013-09-11T12:42:16.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:07.062436"
+            "when": "2015-06-05T03:49:59.099652"
         }
     ], 
-    "related_resources": [
-        {
-            "label": "List of volumes in print", 
-            "url": "http://oi.uchicago.edu/research/pubs/catalog/oimp/"
-        }
-    ], 
+    "related_resources": [], 
     "subordinate_resources": [], 
     "title": "OIMP 27. European Cartographers and the Ottoman World, 1500\u20131750: Maps from the Collection of O", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/oimp/oimp27.html", 

@@ -1,25 +1,22 @@
 {
-    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports The defaul t view of digitized books in AMAR is page view.\u00a0 However, by choosing the Complete Print Version from the View drop - down screen located in the upper left hand corner of the individual item screen , a complete print version is generated in PDF format . The defaul t view of digitized books in AMAR is page view.\u00a0 However, by choosing the Complete Print Version from the View drop - down screen located in the upper left hand corner of the individual item screen , a complete print version is generated in PDF format . The defaul t view of digitized books in AMAR is page view.\u00a0 However, by choosing the Complete Print Version from the View drop - down screen located in the upper left hand corner of the individual item screen , a complete print version is generated in PDF format . The defaul t view of digitized books in AMAR is page view.\u00a0 However, by choosing the Complete Print Version from the View drop - down screen located in the upper left hand corner of the individual item screen , a complete print version is generated in PDF format . digitized books in AMAR is page view.\u00a0 However, by choosing the Complete Print Version from the View drop - down screen located in the upper left hand corner of the individual item screen , a complete print version is generated in PDF format . See the AWOL entry Open Access Digital Library: AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "Viewing complete books in AMAR: Archive of Mesopotamian Archaeological Site Reports Viewing complete books in AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:15.129519: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/03/viewing-complete-books-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:50:07.368666: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/03/viewing-complete-books-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "AWOL", 
         "Amar", 
         "Mesopotamia", 
         "archaeological site", 
         "archaeology", 
         "archive", 
         "book", 
-        "digital library", 
-        "open access", 
         "reports"
     ], 
     "language": [
         "en", 
-        1.0
+        0.9999999999999811
     ], 
     "provenance": [
         {
@@ -40,18 +37,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3469875165025212226", 
             "resource_date": "2013-03-28T10:53:49.922-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:15.130130"
+            "when": "2015-06-05T03:50:07.369246"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/viewing-complete-books-in-amar.html", 
             "resource_date": "2013-03-28T10:53:49.922-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:15.130138"
+            "when": "2015-06-05T03:50:07.369253"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Viewing complete books in AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "zotero_id": null
 }

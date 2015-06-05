@@ -1,19 +1,15 @@
 {
-    "description": "1 See the full List of Open Access Journals in Ancient Studie s See the full List of Open Access Journals in Ancient Studie s See the full List of Open Access Journals in Ancient Studie s See the full List of Open Access Journals in Ancient Studie s See the full List of Open Access Journals in Ancient Studie s", 
+    "description": "1", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:12.529719: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html. (walk_to_json.py)"
+        "2015-06-05T03:50:17.266040: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "antiquity", 
         "journal", 
         "open access"
     ], 
-    "language": [
-        "en", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -27,24 +23,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6061835246856823322", 
             "resource_date": "2013-06-08T09:18:27.263-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:12.530255"
+            "when": "2015-06-05T03:50:17.266566"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html", 
             "resource_date": "2013-06-08T09:18:27.263-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:12.530263"
+            "when": "2015-06-05T03:50:17.266573"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1: ISIMU: Revista sobre Oriente Pro\u0301ximo y Egipto en la antigu\u0308edad", 
+    "title": "1", 
+    "title_extended": "ISIMU: Revista sobre Oriente Pro\u0301ximo y Egipto en la antigu\u0308edad: 1", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13138&clave_busqueda=226671", 
     "zotero_id": null
 }

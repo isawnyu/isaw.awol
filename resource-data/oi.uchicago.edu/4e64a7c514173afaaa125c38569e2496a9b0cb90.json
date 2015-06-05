@@ -1,8 +1,8 @@
 {
-    "description": "Archeological Newsletters: Oct. 15 1950 - Mar. 11, 1973 For an up to date list of all Oriental Institute publications available online see: The Oriental Institute Open Access Publications", 
+    "description": "Archeological Newsletters: Oct. 15 1950 - Mar. 11, 1973 For an up to date list of all Oriental Institute publications available online see:", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:14.631757: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/10/open-access-journal-oriental-institute.html. (walk_to_json.py)"
+        "2015-06-05T03:50:06.868897: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/10/open-access-journal-oriental-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -35,21 +35,16 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3325074711412428013", 
             "resource_date": "2013-11-03T08:06:59.206-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:14.632313"
+            "when": "2015-06-05T03:50:06.869495"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-oriental-institute.html", 
             "resource_date": "2013-11-03T08:06:59.206-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:14.632321"
+            "when": "2015-06-05T03:50:06.869504"
         }
     ], 
-    "related_resources": [
-        {
-            "label": "The Oriental Institute Archaeological Newsletter", 
-            "url": "https://oi.uchicago.edu/research/pubs/archeological/"
-        }
-    ], 
+    "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Archeological Newsletters: Oct. 15 1950 - Mar", 
     "url": "https://oi.uchicago.edu/pdf/Archeological_Newsletters.pdf", 

@@ -1,8 +1,8 @@
 {
-    "description": "[ LH-15 ] 1957 : [ 1 ] [ 2 ] [ 3 ] [ LH-16 ] 1957 : [ 1 ] [ 2 ] [ 3 ] [ LH-16 ] 1957 : [ 1 ] [ 2 ] [ 3 ] [ LH-16 ] 1957 : [ 1 ]", 
+    "description": "[ LH-15 ] 1957 : [ 1 ] [ 2 ] [ 3 ] [ LH-16 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:25.072701: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html. (walk_to_json.py)"
+        "2015-06-05T03:49:58.897754: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -23,24 +23,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1582488232425081359", 
             "resource_date": "2013-09-03T11:18:21.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:25.073262"
+            "when": "2015-06-05T03:49:58.898370"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html", 
             "resource_date": "2013-09-03T11:18:21.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:25.073270"
+            "when": "2015-06-05T03:49:58.898378"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "LH-15", 
+    "title_extended": "Bulletin de l'Association Guillaum Bud\u00e9: LH-15", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_1247-6862_1956_num_15_4", 
     "zotero_id": null
 }

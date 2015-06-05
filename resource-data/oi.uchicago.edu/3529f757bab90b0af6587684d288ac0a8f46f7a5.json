@@ -1,8 +1,8 @@
 {
-    "description": "EPIGRAPHIC SURVEY. W. Raymond Johnson HAMOUKAR. Clemens Reichel", 
+    "description": "EPIGRAPHIC SURVEY. W. Raymond Johnson", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:26.366456: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-oriental-institute-annual.html. (walk_to_json.py)"
+        "2015-06-05T03:50:17.938316: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-oriental-institute-annual.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -14,8 +14,8 @@
         "reports"
     ], 
     "language": [
-        "de", 
-        0.9994637631711405
+        "en", 
+        0.9950059699266993
     ], 
     "provenance": [
         {
@@ -36,13 +36,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6193195451668305174", 
             "resource_date": "2012-08-04T21:40:14.784-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:26.366995"
+            "when": "2015-06-05T03:50:17.938897"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-oriental-institute-annual.html", 
             "resource_date": "2012-08-04T21:40:14.784-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:26.367002"
+            "when": "2015-06-05T03:50:17.938905"
         }
     ], 
     "related_resources": [], 

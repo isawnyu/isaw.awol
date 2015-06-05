@@ -1,8 +1,8 @@
 {
-    "description": "[ 36-3-4 ] 1960-1969 1960 : [ 37-1-2 ] [ 37-3-4 ] 1961 : [ 38-1-2 ] [ 38-3-4 ] 1962 : [ 39-1-2 ] [ 39-3-4 ] 1963 : [ 40-1-2 ] [ 40-3-4 ] 1964 : [ 41-1-2 ] [ 41-3-4 ] 1965 : [ 42-1-2 ] [ 42-3-4 ] 1966 : [ 43-1-2 ] [ 43-3-4 ] 1967 : [ 44-1-2 ] [ 44-3-4 ] 1968 : [ 45-1-2 ] [ 45-3-4 ] 1969 : [ 46-1-2 ] [ 46-3-4 ] 1960-1969", 
+    "description": "[ 36-3-4 ] 1960-1969 1960 : [ 37-1-2 ] [ 37-3-4 ] 1961 : [ 38-1-2 ] [ 38-3-4 ] 1962 : [ 39-1-2 ] [ 39-3-4 ] 1963 : [ 40-1-2 ] [ 40-3-4 ] 1964 : [ 41-1-2 ] [ 41-3-4 ] 1965 : [ 42-1-2 ] [ 42-3-4 ] 1966 : [ 43-1-2 ] [ 43-3-4 ] 1967 : [ 44-1-2 ] [ 44-3-4 ] 1968 : [ 45-1-2 ] [ 45-3-4 ] 1969 : [ 46-1-2 ] [ 46-3-4 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:44.540501: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open.html. (walk_to_json.py)"
+        "2015-06-05T03:50:24.328272: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -28,24 +28,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-733349865844137791", 
             "resource_date": "2013-12-07T12:54:56.396-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:44.541123"
+            "when": "2015-06-05T03:50:24.328929"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/open.html", 
             "resource_date": "2013-12-07T12:54:56.396-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:44.541132"
+            "when": "2015-06-05T03:50:24.328938"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "36-3-4: Syria. Arch\u00e9ologie, Art et histoire", 
+    "title": "36-3-4", 
+    "title_extended": "Syria. Arch\u00e9ologie, Art et histoire: 36-3-4", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1959_num_36_3", 
     "zotero_id": null
 }

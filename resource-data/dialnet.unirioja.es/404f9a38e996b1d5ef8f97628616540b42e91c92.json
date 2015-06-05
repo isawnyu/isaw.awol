@@ -1,8 +1,8 @@
 {
-    "description": "12 2006 11 2006", 
+    "description": "12", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:06.971816: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/newly-open-access-journal-kalakorikos.html. (walk_to_json.py)"
+        "2015-06-05T03:50:10.208459: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/newly-open-access-journal-kalakorikos.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -24,24 +24,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4128034590350407470", 
             "resource_date": "2011-10-14T09:39:57.140-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:06.972420"
+            "when": "2015-06-05T03:50:10.208978"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/newly-open-access-journal-kalakorikos.html", 
             "resource_date": "2011-10-14T09:39:57.140-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:06.972428"
+            "when": "2015-06-05T03:50:10.208985"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "12: Kalakorikos: Revista para el estudio, defensa, protecci\u00f3n y divulgaci\u00f3n del patrimonio hist\u00f3rico, art\u00edstico y cultural de Calahorra y su entorno", 
+    "title": "12", 
+    "title_extended": "Kalakorikos: Revista para el estudio, defensa, protecci\u00f3n y divulgaci\u00f3n del patrimonio hist\u00f3rico, art\u00edstico y cultural de Calahorra y su entorno: 12", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=831&clave_busqueda=177703", 
     "zotero_id": null
 }

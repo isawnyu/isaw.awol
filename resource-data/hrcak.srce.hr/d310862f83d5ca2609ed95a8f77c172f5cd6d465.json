@@ -1,8 +1,8 @@
 {
-    "description": "No. 15-16 1964 No. 14", 
+    "description": "No. 15-16", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:25.429675: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/open-access-journal-slovo.html. (walk_to_json.py)"
+        "2015-06-05T03:50:17.059498: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/open-access-journal-slovo.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -24,24 +24,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6042182322265679896", 
             "resource_date": "2013-05-19T08:14:18.048-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:25.430198"
+            "when": "2015-06-05T03:50:17.060015"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/open-access-journal-slovo.html", 
             "resource_date": "2013-05-19T08:14:18.048-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:25.430205"
+            "when": "2015-06-05T03:50:17.060023"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "No. 15-16: Slovo: Journal of the Old Church Slavonic Institute", 
+    "title": "No. 15-16", 
+    "title_extended": "Slovo: Journal of the Old Church Slavonic Institute: No. 15-16", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1337", 
     "zotero_id": null
 }

@@ -1,27 +1,18 @@
 {
-    "description": "http://www.jstor.org/action/ showPublication?journalCode= illiclasstud http://www.jstor.org/action/ showPublication?journalCode= illiclasstud Coverage: Vols. 1 - 31/32 (1976 \u2013 2006/2007) Moving Wall: 3 years Publisher: University of Illinois Press ISSN: 0363-1923 Coverage: Vols. 1 - 31/32 (1976 \u2013 2006/2007) Moving Wall: 3 years Publisher: University of Illinois Press ISSN: 0363-1923 Mediterranean Studies (Arts & Sciences XI) http://www.jstor.org/action/ showPublication?journalCode= mediterraneanstu Coverage: Vols. 1-15 (1989-2006) Moving Wall: 5 years Publisher: Pennsylvania State University Press ISSN: 1074-164X", 
+    "description": "Illinois Classical Studies (Arts & Sciences XI) http://www.jstor.org/action/ showPublication?journalCode= illiclasstud Illinois Classical Studies (Arts & Sciences XI) http://www.jstor.org/action/ showPublication?journalCode= illiclasstud", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:09.593862: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html. (walk_to_json.py)"
+        "2015-06-05T03:50:01.654746: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html. (walk_to_json.py)"
     ], 
-    "identifiers": {
-        "issn": {
-            "generic": [
-                "0363-1923", 
-                "1074-164X"
-            ]
-        }
-    }, 
+    "identifiers": {}, 
     "keywords": [
         "JSTOR", 
-        "Mediterranean", 
-        "Pennsylvania", 
         "antiquity", 
         "classics"
     ], 
     "language": [
-        "en", 
-        1.0
+        "fr", 
+        0.9999937919251464
     ], 
     "provenance": [
         {
@@ -36,24 +27,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2247526536842272315", 
             "resource_date": "2012-06-15T12:47:49.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:09.594413"
+            "when": "2015-06-05T03:50:01.655359"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html", 
             "resource_date": "2012-06-15T12:47:49.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:09.594421"
+            "when": "2015-06-05T03:50:01.655368"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Illinois Classical Studies (Arts & Sciences XI)http://www.jstor", 
+    "title": "http://www.jstor.org/action/showPublication?journalCode=illiclasstud", 
+    "title_extended": "http://www.jstor.org/action/showPublication?journalCode=antikekunst: http://www.jstor.org/action/showPublication?journalCode=illiclasstud", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=illiclasstud", 
     "zotero_id": null
 }

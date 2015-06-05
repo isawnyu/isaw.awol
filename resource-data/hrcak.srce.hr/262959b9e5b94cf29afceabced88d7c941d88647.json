@@ -1,8 +1,8 @@
 {
-    "description": "Vol. 34 No. 34 Vol. 34 No. 34 2007 Vol. 33 No. 33 Vol. 33 No. 33 Vol. 33 No. 33 Vol. 33 No. 33", 
+    "description": "Vol. 34 No. 34 Vol. 34 No. 34", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:09.968197: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-povijesni-prilozi.html. (walk_to_json.py)"
+        "2015-06-05T03:50:02.043855: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-povijesni-prilozi.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2289439144476944799", 
             "resource_date": "2013-02-21T10:44:26.227-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:09.968789"
+            "when": "2015-06-05T03:50:02.044446"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-povijesni-prilozi.html", 
             "resource_date": "2013-02-21T10:44:26.227-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:09.968798"
+            "when": "2015-06-05T03:50:02.044453"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Vol. 34 \u00a0 No. 34: Povijesni prilozi - Historical Contributions", 
+    "title": "Vol. 34 \u00a0 No. 34", 
+    "title_extended": "Povijesni prilozi - Historical Contributions: Vol. 34 \u00a0 No. 34", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2380", 
     "zotero_id": null
 }

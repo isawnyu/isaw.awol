@@ -1,19 +1,12 @@
 {
-    "description": "1945 List\u00a0 of Open Access Journals in Ancient Studies", 
+    "description": "1945", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:06.830479: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/newly-online-journal-boletin.html. (walk_to_json.py)"
+        "2015-06-05T03:50:10.057369: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/newly-online-journal-boletin.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
-    "keywords": [
-        "antiquity", 
-        "journal", 
-        "open access"
-    ], 
-    "language": [
-        "en", 
-        0.999932663941914
-    ], 
+    "keywords": [], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -27,24 +20,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-410057600420437183", 
             "resource_date": "2010-12-07T11:58:14.954-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:06.831006"
+            "when": "2015-06-05T03:50:10.057894"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/newly-online-journal-boletin.html", 
             "resource_date": "2010-12-07T11:58:14.954-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:06.831013"
+            "when": "2015-06-05T03:50:10.057902"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1945: Bolet\u00edn Arqueol\u00f3gico del Sudeste Espa\u00f1ol", 
+    "title": "1945", 
+    "title_extended": "Bolet\u00edn Arqueol\u00f3gico del Sudeste Espa\u00f1ol: 1945", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=14101&clave_busqueda=1945", 
     "zotero_id": null
 }

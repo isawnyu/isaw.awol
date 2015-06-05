@@ -2,7 +2,7 @@
     "description": "Ancient Egyptian Paintings Selected, Copied, and Described. Volume II: Descriptive Text. By Nina M. Davies with the Editorial Assistance of Alan H. Gardiner. Originally published in 1936.", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:34.913555: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/twelve-additional-volumes-online-at.html. (walk_to_json.py)"
+        "2015-06-05T03:50:26.281642: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/twelve-additional-volumes-online-at.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -28,24 +28,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7727387562812706910", 
             "resource_date": "2009-09-04T09:29:59.051-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:34.914100"
+            "when": "2015-06-05T03:50:26.282198"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/twelve-additional-volumes-online-at.html", 
             "resource_date": "2009-09-04T09:29:59.051-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:34.914107"
+            "when": "2015-06-05T03:50:26.282206"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Ancient Egyptian Paintings Selected, Copied, and Described. Volume II: Descriptive Text", 
+    "title_extended": "OIP 93. Medinet Habu, Vol. VII: The Temple Proper, Pt: Ancient Egyptian Paintings Selected, Copied, and Described. Volume II: Descriptive Text", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/misc/paintings2.html", 
     "zotero_id": null
 }

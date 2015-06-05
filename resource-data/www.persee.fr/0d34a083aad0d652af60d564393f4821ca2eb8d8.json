@@ -2,7 +2,7 @@
     "description": "[ 134 ] [ 135 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:32.182773: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/newly-online-journal-vita-latina.html. (walk_to_json.py)"
+        "2015-06-05T03:50:08.440592: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/newly-online-journal-vita-latina.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -25,24 +25,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3837362477205971824", 
             "resource_date": "2013-09-03T11:41:36.607-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:32.183301"
+            "when": "2015-06-05T03:50:08.441109"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/newly-online-journal-vita-latina.html", 
             "resource_date": "2013-09-03T11:41:36.607-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:32.183308"
+            "when": "2015-06-05T03:50:08.441116"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "134: Vita Latina", 
+    "title": "134", 
+    "title_extended": "Vita Latina: 134", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1994_num_134_1", 
     "zotero_id": null
 }

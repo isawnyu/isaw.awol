@@ -1,15 +1,14 @@
 {
-    "description": "Excavations at Tepe Yahya, Iran 1967-1975: the Iron Age settlement Magee, Peter, 1968- 2004 OK See more Series in AMAR", 
+    "description": "Excavations at Tepe Yahya, Iran 1967-1975: the Iron Age settlement", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:04.728837: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html. (walk_to_json.py)"
+        "2015-06-05T03:49:56.859995: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Amar", 
         "Iran", 
-        "archaeology", 
-        "series"
+        "archaeology"
     ], 
     "language": [
         "en", 
@@ -34,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1055362887162564290", 
             "resource_date": "2012-03-04T15:12:57.357-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:04.729355"
+            "when": "2015-06-05T03:49:56.860518"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html", 
             "resource_date": "2012-03-04T15:12:57.357-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:04.729362"
+            "when": "2015-06-05T03:49:56.860525"
         }
     ], 
     "related_resources": [], 

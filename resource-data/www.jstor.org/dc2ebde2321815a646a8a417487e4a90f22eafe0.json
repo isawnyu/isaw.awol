@@ -1,25 +1,18 @@
 {
-    "description": "Speculum (Arts & Sciences I; Language & Literature) Release Content: Vol. 49, Index (1974) Moving Wall: 5 years Publisher: The Medieval Academy of America ISSN: 0038-7134", 
+    "description": "Speculum (Arts & Sciences I; Language & Literature) Speculum (Arts & Sciences I; Language & Literature) Speculum", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:15.393494: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
+        "2015-06-05T03:50:07.599366: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/02/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
     ], 
-    "identifiers": {
-        "issn": {
-            "generic": [
-                "0038-7134"
-            ]
-        }
-    }, 
+    "identifiers": {}, 
     "keywords": [
         "JSTOR", 
-        "Middle Ages", 
         "antiquity", 
         "language"
     ], 
     "language": [
-        "en", 
-        0.9999999992743895
+        "la", 
+        0.9646348159394715
     ], 
     "provenance": [
         {
@@ -40,18 +33,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3550594048619302667", 
             "resource_date": "2010-02-05T09:52:44.401-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:15.394013"
+            "when": "2015-06-05T03:50:07.599983"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2010-02-05T09:52:44.401-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:15.394021"
+            "when": "2015-06-05T03:50:07.599992"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Speculum (Arts & Sciences I; Language & Literature)", 
+    "title": "Speculum", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=speculum", 
     "zotero_id": null
 }

@@ -2,7 +2,7 @@
     "description": "Archaeology , Classical Studies", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:21.317706: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html. (walk_to_json.py)"
+        "2015-06-05T03:50:13.235903: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -27,24 +27,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4915131031139671891", 
             "resource_date": "2011-07-24T07:51:55.926-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:21.318255"
+            "when": "2015-06-05T03:50:13.236436"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html", 
             "resource_date": "2011-07-24T07:51:55.926-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:21.318262"
+            "when": "2015-06-05T03:50:13.236443"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Archaeology", 
+    "title_extended": "The British School at Athens Studies: Archaeology", 
     "url": "http://www.jstor.org/action/showJournals#43693384", 
     "zotero_id": null
 }

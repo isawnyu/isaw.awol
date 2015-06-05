@@ -1,8 +1,8 @@
 {
-    "description": "Ochre Data Project. Sandra R. Schloen Publications Office. Thomas G. Urban", 
+    "description": "Ochre Data Project. Sandra R. Schloen", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:27.703647: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html. (walk_to_json.py)"
+        "2015-06-05T03:50:19.255060: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -13,7 +13,7 @@
     ], 
     "language": [
         "mg", 
-        0.9997886013858062
+        0.9999357120648963
     ], 
     "provenance": [
         {
@@ -34,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6421273301002106069", 
             "resource_date": "2013-02-19T12:59:49.211-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:27.704178"
+            "when": "2015-06-05T03:50:19.255726"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html", 
             "resource_date": "2013-02-19T12:59:49.211-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:27.704186"
+            "when": "2015-06-05T03:50:19.255739"
         }
     ], 
     "related_resources": [], 

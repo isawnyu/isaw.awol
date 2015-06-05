@@ -1,8 +1,8 @@
 {
-    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports Die Reliefkeramik von Bog\u030cazko\u0308y: Grabungskampagnen 1906-1912, 1931-1939, 1952-1978 Boehmer, R. M. (Rainer Michael) OK Bog\u0306azko\u0308y: Die Kleinfunde der Grabungen 1906-1912. I. Fund hethitischer Zeit. Mit 43 Tafeln und 30 Abbildungen im Text. Neudruck der Ausg. 1937 Bittel, Kurt, 1907-1991 1937 OK Fru\u0308he Keramik von Bog\u030cazko\u0308y Orthmann, Winfried 1963 OK Die hethitische Keramik von Bog\u0306azko\u0308y Fischer, Franz, 1925- 1963 OK Die Glyptik von Bog\u030cazko\u0308y Beran, Thomas 1967 OK Bog\u0306azko\u0308y IV: funde aus den Grabungen 1967 und 1968 Bittel, Kurt, 1907-1991 1968 OK Bebauung am unteren Bu\u0308yu\u0308kkale-Nordwesthang in Bog\u030cazko\u0308y: Ergebnisse der Untersuchungen der Grabungscampagnen 1960-1963 Schirmer, Wulf 1969 OK Gefa\u0308ssmarken von Bogazko\u0308y Seidl, Ursula. 1972 OK Bog\u0306azko\u0308y V: funde aus den Grabungen 1970 und 1971 Bittel, Kurt, 1907 1975 OK Glyptik aus dem Stadtgebiet von Bog\u0306azko\u0308y: Grabungskampagnen 1931-1939, 1952-1978 Boehmer, R. M. (Rainer Michael) 1987 OK Die Reliefkeramik von Bog\u030cazko\u0308y: Grabungskampagnen 1906-1912, 1931-1939, 1952-1978 Boehmer, R. M. (Rainer Michael) OK Bog\u0306azko\u0308y: Die Kleinfunde der Grabungen 1906-1912. I. Fund hethitischer Zeit. Mit 43 Tafeln und 30 Abbildungen im Text. Neudruck der Ausg. 1937 Bittel, Kurt, 1907-1991 1937 OK Fru\u0308he Keramik von Bog\u030cazko\u0308y Orthmann, Winfried 1963 OK Die hethitische Keramik von Bog\u0306azko\u0308y Fischer, Franz, 1925- 1963 OK Die Glyptik von Bog\u030cazko\u0308y Beran, Thomas 1967 OK Bog\u0306azko\u0308y IV: funde aus den Grabungen 1967 und 1968 Bittel, Kurt, 1907-1991 1968 OK Bebauung am unteren Bu\u0308yu\u0308kkale-Nordwesthang in Bog\u030cazko\u0308y: Ergebnisse der Untersuchungen der Grabungscampagnen 1960-1963 Schirmer, Wulf 1969 OK Gefa\u0308ssmarken von Bogazko\u0308y Seidl, Ursula. 1972 OK Bog\u0306azko\u0308y V: funde aus den Grabungen 1970 und 1971 Bittel, Kurt, 1907 1975 OK Glyptik aus dem Stadtgebiet von Bog\u0306azko\u0308y: Grabungskampagnen 1931-1939, 1952-1978 Boehmer, R. M. (Rainer Michael) 1987 OK Die Reliefkeramik von Bog\u030cazko\u0308y: Grabungskampagnen 1906-1912, 1931-1939, 1952-1978 Boehmer, R. M. (Rainer Michael) OK", 
+    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:14.749893: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/bogazkoy-in-amir.html. (walk_to_json.py)"
+        "2015-06-05T03:50:06.958313: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/bogazkoy-in-amir.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -18,7 +18,7 @@
         "series"
     ], 
     "language": [
-        "de", 
+        "en", 
         1.0
     ], 
     "provenance": [
@@ -40,13 +40,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3364285961671530694", 
             "resource_date": "2012-03-02T16:36:15.798-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:14.750503"
+            "when": "2015-06-05T03:50:06.959596"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/bogazkoy-in-amir.html", 
             "resource_date": "2012-03-02T16:36:15.798-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:14.750512"
+            "when": "2015-06-05T03:50:06.959610"
         }
     ], 
     "related_resources": [], 
@@ -92,7 +92,7 @@
             "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=85749&REC=10"
         }
     ], 
-    "title": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "zotero_id": null
 }

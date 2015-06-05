@@ -1,8 +1,8 @@
 {
-    "description": "2008 27 (*) 27 (*) 27 (*) 27 (*) 27", 
+    "description": "2008", 
     "domain": "dialnet.unirioja.es", 
     "history": [
-        "2015-06-04T03:53:10.824197: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html. (walk_to_json.py)"
+        "2015-06-05T03:50:15.238730: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -23,24 +23,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5594714661926615041", 
             "resource_date": "2011-12-23T08:01:20.974-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:53:10.824732"
+            "when": "2015-06-05T03:50:15.239302"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html", 
             "resource_date": "2011-12-23T08:01:20.974-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:53:10.824739"
+            "when": "2015-06-05T03:50:15.239310"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "2008: Gallaecia", 
+    "title": "2008", 
+    "title_extended": "Gallaecia: 2008", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=611&clave_busqueda=2008", 
     "zotero_id": null
 }

@@ -1,8 +1,8 @@
 {
-    "description": "http://oi.uchicago.edu/OI/DEPT/RA/RABooks.html ). In recent years, the acquisitions list has only been distributed informally to Oriental Institute faculty, staff and students. Because our acquisitions lists are used by librarians and scholars worldwide as a means by which to supplement their acquisitioning efforts, we have decided to once again make the acquisitions lists of the Research Archives publicly available online in pdf format. We hope that this activity will be permanent and ongoing. Acquisitions List: 2010 Acquisitions List: 2009 Acquisitions List: 2008 Acquisitions List: 2007 Acquisitions List: 2010 Acquisitions List: 2009 Acquisitions List: 2008 Acquisitions List: 2007", 
+    "description": "The acquisitions list of the Research Archives was formally published from 1991 to 1994. From February 2000 until February 2002, this list was distributed via email and archived online ( http://oi.uchicago.edu/OI/DEPT/RA/RABooks.html ). In recent years, the acquisitions list has only been distributed informally to Oriental Institute faculty, staff and students. The acquisitions list of the Research Archives was formally published from 1991 to 1994. From February 2000 until February 2002, this list was distributed via email and archived online ( http://oi.uchicago.edu/OI/DEPT/RA/RABooks.html", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:20.516689: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/05/open-access-journal-acquisitions-list.html. (walk_to_json.py)"
+        "2015-06-05T03:50:12.563363: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/05/open-access-journal-acquisitions-list.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -34,18 +34,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4803688524610822150", 
             "resource_date": "2010-05-11T09:58:46.901-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:20.517242"
+            "when": "2015-06-05T03:50:12.563890"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/open-access-journal-acquisitions-list.html", 
             "resource_date": "2010-05-11T09:58:46.901-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:20.517250"
+            "when": "2015-06-05T03:50:12.563897"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "The acquisitions list of the Research Archives was formally published from 1991 to 1994. From February 2000 until February 2002, this list was distributed via email and archived online (http://oi", 
+    "title": "http://oi.uchicago.edu/OI/DEPT/RA/RABooks", 
     "url": "http://oi.uchicago.edu/OI/DEPT/RA/RABooks.html", 
     "zotero_id": null
 }

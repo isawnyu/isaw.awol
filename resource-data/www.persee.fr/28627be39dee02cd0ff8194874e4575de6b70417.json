@@ -1,8 +1,8 @@
 {
-    "description": "Fran\u00e7ois Soulages 107 - 117 Le genre comme \u0153uvre [Article] G\u00e9rard Genette 107 - 117 Le genre comme \u0153uvre [Article] G\u00e9rard Genette 107 - 117", 
+    "description": "Fran\u00e7ois Soulages", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:39.799351: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
+        "2015-06-05T03:50:18.485541: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -10,8 +10,8 @@
         "journal issues"
     ], 
     "language": [
-        "fr", 
-        1.0
+        "pt", 
+        0.9999949112773462
     ], 
     "provenance": [
         {
@@ -32,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
             "resource_date": "2012-08-03T09:39:09.216-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:39.799950"
+            "when": "2015-06-05T03:50:18.486065"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
             "resource_date": "2012-08-03T09:39:09.216-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:39.799958"
+            "when": "2015-06-05T03:50:18.486072"
         }
     ], 
     "related_resources": [], 

@@ -1,12 +1,11 @@
 {
-    "description": "As\u00e9anie, Sciences humaines en Asie du Sud-Est Revue francophone bi-annuelle, consacr\u00e9e \u00e0 la recherche en Sciences sociales et humaines en Asie du Sud-Est, fond\u00e9e en 1998. Elle est publi\u00e9e par le centre EFEO de Bangkok en coop\u00e9ration avec le Sirindhorn Anthropology Centre, sous le haut patronage de S. A. R. la princesse Maha Chakri Sirindhorn. Elle re\u00e7oit en outre le soutien de l'Institut de recherche pour le d\u00e9veloppement, l'Institut de recherche sur le Sud-Est asiatique et le minist\u00e8re fran\u00e7ais des Affaires \u00e9trang\u00e8res.", 
+    "description": "As\u00e9anie, Sciences humaines en Asie du Sud-Est", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:39.026345: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/08/open-access-journal-aseanie.html. (walk_to_json.py)"
+        "2015-06-05T03:50:16.834926: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/08/open-access-journal-aseanie.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "anthropology", 
         "journal", 
         "open access"
     ], 
@@ -33,13 +32,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6001324039834612702", 
             "resource_date": "2011-08-03T06:20:08.374-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:39.026907"
+            "when": "2015-06-05T03:50:16.835573"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-aseanie.html", 
             "resource_date": "2011-08-03T06:20:08.374-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:39.026915"
+            "when": "2015-06-05T03:50:16.835581"
         }
     ], 
     "related_resources": [], 

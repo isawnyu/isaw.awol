@@ -2,7 +2,7 @@
     "description": "http://www.jstor.org/action/ showPublication?journalCode= rheimusephil http://www.jstor.org/action/ showPublication?journalCode= rheimusephil Previous Title: Rheinisches Museum f\u00fcr Philologie, Geschichte und griechische Philosophie [1827-1832] (0939-2718) http://www.jstor.org/action/ showPublication?journalCode= rheimusephilgesc", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:09.603970: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html. (walk_to_json.py)"
+        "2015-06-05T03:50:01.662503: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -27,24 +27,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2247526536842272315", 
             "resource_date": "2012-06-15T12:47:49.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:09.604513"
+            "when": "2015-06-05T03:50:01.663172"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html", 
             "resource_date": "2012-06-15T12:47:49.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:09.604521"
+            "when": "2015-06-05T03:50:01.663183"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "http://www.jstor.org/action/showPublication?journalCode=rheimusephil", 
+    "title_extended": "http://www.jstor.org/action/showPublication?journalCode=antikekunst: http://www.jstor.org/action/showPublication?journalCode=rheimusephil", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=rheimusephil", 
     "zotero_id": null
 }

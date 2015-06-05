@@ -1,8 +1,8 @@
 {
-    "description": "Journal of the County Louth Archaeological Society [1904-1969] (1393-2195) Release Content: Vol. 1, No. 1 (July, 1904) \u2013 Vol. 17, No. 1 (1969); Vol. 17, No. 2 (1970) \u2013 Vol. 26, No. 1 (2005) Moving Wall: 3 years Publisher: County Louth Archaeological and History Society ISSN: 0070-1327 Journal of the Royal Society of Antiquaries of Ireland", 
+    "description": "Previous Title: Journal of the County Louth Archaeological Society [1904-1969] (1393-2195) Release Content: Vol. 1, No. 1 (July, 1904) \u2013 Vol. 17, No. 1 (1969); Vol. 17, No. 2 (1970) \u2013 Vol. 26, No. 1 (2005) Moving Wall: 3 years Publisher: County Louth Archaeological and History Society ISSN: 0070-1327 Previous Title: Journal of the County Louth Archaeological Society", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:27.376782: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor_16.html. (walk_to_json.py)"
+        "2015-06-05T03:50:18.878189: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor_16.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
@@ -12,7 +12,6 @@
         }
     }, 
     "keywords": [
-        "Ireland", 
         "JSTOR", 
         "antiquity", 
         "archaeology", 
@@ -36,24 +35,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6352810972116546516", 
             "resource_date": "2009-12-16T17:16:41.654-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:27.377309"
+            "when": "2015-06-05T03:50:18.878731"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor_16.html", 
             "resource_date": "2009-12-16T17:16:41.654-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:27.377317"
+            "when": "2015-06-05T03:50:18.878738"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Previous Title: Journal of the County Louth Archaeological Society [1904-1969] (1393-2195)Release Content: Vol. 1, No", 
+    "title": "Journal of the County Louth Archaeological Society", 
+    "title_extended": "Journal of the County Louth Archaeological and Historical Society: Journal of the County Louth Archaeological Society", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=jcounloutarchsoc", 
     "zotero_id": null
 }

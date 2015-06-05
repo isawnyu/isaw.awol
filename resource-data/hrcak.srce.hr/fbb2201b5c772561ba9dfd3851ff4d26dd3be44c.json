@@ -1,8 +1,8 @@
 {
-    "description": "Archaeologica Adriatica ISSN: 1846-4807 Archaeologica Adriatica is a journal of exclusively archaeological character involved in explicating various archaeological themes and questions related to the Adriatic Sea region and the area bordering it. This definitely includes those areas that in earlier (archaeological, historical) periods composed cultural units. Journal will publish texts extending from the prehistoric period and the period of antiquity to the medieval period. Texts dealing with aspects of later periods will also be considered if they have clear connections to archaeology. Articles indirectly related to archaeology (ethnology and history, for instance) will also be published, as well as works dealing with methodology, museum studies. and the protection of cultural monuments. All texts will be published in Croatian. At present only extensive summaries will be published in foreign languages, but in future we hope to begin with parallel translations of the complete articles.", 
+    "description": "Archaeologica Adriatica ISSN: 1846-4807", 
     "domain": "hrcak.srce.hr", 
     "history": [
-        "2015-06-04T03:36:34.005459: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/11/open-access-journal-archaeologica.html. (walk_to_json.py)"
+        "2015-06-05T03:50:25.463906: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/11/open-access-journal-archaeologica.html. (walk_to_json.py)"
     ], 
     "identifiers": {
         "issn": {
@@ -13,18 +13,13 @@
     }, 
     "keywords": [
         "Croatia", 
-        "Middle Ages", 
-        "antiquity", 
         "archaeology", 
-        "culture", 
         "journal", 
-        "museums", 
-        "open access", 
-        "prehistory"
+        "open access"
     ], 
     "language": [
-        "en", 
-        1.0
+        "it", 
+        0.9635485500353229
     ], 
     "provenance": [
         {
@@ -45,39 +40,39 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7627707549368271983", 
             "resource_date": "2012-11-04T17:33:20.666-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:34.006111"
+            "when": "2015-06-05T03:50:25.464514"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/open-access-journal-archaeologica.html", 
             "resource_date": "2012-11-04T17:33:20.666-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:34.006119"
+            "when": "2015-06-05T03:50:25.464522"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
         {
-            "label": "Vol. 5. \u00a0 No. 1: Archaeologica Adriatica", 
+            "label": "Vol. 5. \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=7203"
         }, 
         {
-            "label": "Vol. 4. \u00a0 No. 1: Archaeologica Adriatica", 
+            "label": "Vol. 4. \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=5894"
         }, 
         {
-            "label": "Vol. 3. \u00a0 No. 1: Archaeologica Adriatica", 
+            "label": "Vol. 3. \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=5888"
         }, 
         {
-            "label": "Vol. 2 \u00a0 No. 1: Archaeologica Adriatica", 
+            "label": "Vol. 2 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3144"
         }, 
         {
-            "label": "Vol. 2 \u00a0 No. 2: Archaeologica Adriatica", 
+            "label": "Vol. 2 \u00a0 No. 2", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3145"
         }, 
         {
-            "label": "Vol. 1 \u00a0 No. 1: Archaeologica Adriatica", 
+            "label": "Vol. 1 \u00a0 No. 1", 
             "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2462"
         }
     ], 

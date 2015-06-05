@@ -1,16 +1,15 @@
 {
-    "description": "Glyptik aus dem Stadtgebiet von Bog\u0306azko\u0308y: Grabungskampagnen 1931-1939, 1952-1978 Boehmer, R. M. (Rainer Michael) 1987 OK See more Series in AMAR", 
+    "description": "Glyptik aus dem Stadtgebiet von Bog\u0306azko\u0308y: Grabungskampagnen 1931-1939, 1952-1978", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:14.792701: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/bogazkoy-in-amir.html. (walk_to_json.py)"
+        "2015-06-05T03:50:06.991602: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/bogazkoy-in-amir.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Amar", 
         "Bo\u011fazk\u00f6y", 
         "Turkey", 
-        "archaeology", 
-        "series"
+        "archaeology"
     ], 
     "language": [
         "de", 
@@ -35,13 +34,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3364285961671530694", 
             "resource_date": "2012-03-02T16:36:15.798-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:14.793233"
+            "when": "2015-06-05T03:50:06.992121"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/bogazkoy-in-amir.html", 
             "resource_date": "2012-03-02T16:36:15.798-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:14.793241"
+            "when": "2015-06-05T03:50:06.992128"
         }
     ], 
     "related_resources": [], 

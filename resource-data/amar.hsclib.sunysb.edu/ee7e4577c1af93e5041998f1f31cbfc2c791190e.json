@@ -1,8 +1,8 @@
 {
-    "description": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 43 1987 OK", 
+    "description": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 43", 
     "domain": "amar.hsclib.sunysb.edu", 
     "history": [
-        "2015-06-04T03:36:40.717209: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html. (walk_to_json.py)"
+        "2015-06-05T03:50:31.619737: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -33,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9016964047355295590", 
             "resource_date": "2012-03-02T16:39:52.240-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:40.717774"
+            "when": "2015-06-05T03:50:31.620268"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html", 
             "resource_date": "2012-03-02T16:39:52.240-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:40.717782"
+            "when": "2015-06-05T03:50:31.620275"
         }
     ], 
     "related_resources": [], 

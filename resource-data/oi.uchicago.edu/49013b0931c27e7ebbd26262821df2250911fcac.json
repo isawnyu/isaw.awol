@@ -1,19 +1,18 @@
 {
-    "description": "Publications Office. Thomas G. Urban Research Archives. Foy Scalf", 
+    "description": "Publications Office. Thomas G. Urban", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:27.706530: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html. (walk_to_json.py)"
+        "2015-06-05T03:50:19.258620: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
         "Oriental Institute", 
         "annual report", 
-        "report", 
-        "research archives"
+        "report"
     ], 
     "language": [
         "en", 
-        0.9999999162900196
+        0.999999593339717
     ], 
     "provenance": [
         {
@@ -34,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6421273301002106069", 
             "resource_date": "2013-02-19T12:59:49.211-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:27.707070"
+            "when": "2015-06-05T03:50:19.259294"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html", 
             "resource_date": "2013-02-19T12:59:49.211-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:27.707078"
+            "when": "2015-06-05T03:50:19.259306"
         }
     ], 
     "related_resources": [], 

@@ -1,8 +1,8 @@
 {
-    "description": "Classical Studies Published by: British School at Athens Published by: British School at Athens Published by: British School at Athens", 
+    "description": "Classical Studies Published by: British School at Athens", 
     "domain": "www.jstor.org", 
     "history": [
-        "2015-06-04T03:36:21.320587: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html. (walk_to_json.py)"
+        "2015-06-05T03:50:13.238547: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -11,7 +11,7 @@
     ], 
     "language": [
         "en", 
-        0.9999749621212118
+        0.9999872458945319
     ], 
     "provenance": [
         {
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4915131031139671891", 
             "resource_date": "2011-07-24T07:51:55.926-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:21.321115"
+            "when": "2015-06-05T03:50:13.239075"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/new-in-jstor.html", 
             "resource_date": "2011-07-24T07:51:55.926-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:21.321122"
+            "when": "2015-06-05T03:50:13.239083"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Classical Studies", 
+    "title_extended": "The British School at Athens Studies: Classical Studies", 
     "url": "http://www.jstor.org/action/showJournals#43693391", 
     "zotero_id": null
 }

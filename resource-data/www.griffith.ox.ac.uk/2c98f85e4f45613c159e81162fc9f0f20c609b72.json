@@ -1,8 +1,8 @@
 {
-    "description": "TT 80, Djehutinufer . (May 17, 2010) Working files of Topographical Bibliography 8 Part 4 ( Objects of Provenance Not Known: Stelae from the beginning of Dynasty XVIII to the Roman Period) : Stelae of the New Kingdom and Stelae from the beginning of the 3rd Intermediate Period to the Roman Period (April 30, 2010) Working files of Topographical Bibliography 8 Part 4 ( Objects of Provenance Not Known: Stelae from the beginning of Dynasty XVIII to the Roman Period) : Stelae of the New Kingdom and Stelae from the beginning of the 3rd Intermediate Period to the Roman Period (April 30, 2010) Working files of Topographical Bibliography 8 Part 4 ( Objects of Provenance Not Known: Stelae from the beginning of Dynasty XVIII to the Roman Period) : Stelae of the New Kingdom", 
+    "description": "TT 80, Djehutinufer . (May 17, 2010) Working files of Topographical Bibliography 8 Part 4 ( Objects of Provenance Not Known: Stelae from the beginning of Dynasty XVIII to the Roman Period) : Stelae of the New Kingdom and Stelae from the beginning of the 3rd Intermediate Period to the Roman Period (April 30, 2010)", 
     "domain": "www.griffith.ox.ac.uk", 
     "history": [
-        "2015-06-04T03:36:36.413334: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/05/recent-offerings-from-griffifth.html. (walk_to_json.py)"
+        "2015-06-05T03:50:27.620429: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/05/recent-offerings-from-griffifth.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -26,24 +26,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-813986282971874208", 
             "resource_date": "2010-05-24T10:04:02.981-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:36.413857"
+            "when": "2015-06-05T03:50:27.621073"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/recent-offerings-from-griffifth.html", 
             "resource_date": "2010-05-24T10:04:02.981-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:36.413864"
+            "when": "2015-06-05T03:50:27.621082"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "TT 80, Djehutinufer", 
+    "title_extended": "Griffith Institute: TT 80, Djehutinufer", 
     "url": "http://www.griffith.ox.ac.uk/gri/4TT80.html", 
     "zotero_id": null
 }

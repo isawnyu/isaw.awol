@@ -2,7 +2,7 @@
     "description": "La variation linguistique dans les langues de l\u2019Italie pr\u00e9romaine", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:46.916818: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html. (walk_to_json.py)"
+        "2015-06-05T03:50:27.206032: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -31,19 +31,19 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7980957358423240936", 
             "resource_date": "2011-10-14T14:27:16.756-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:46.917387"
+            "when": "2015-06-05T03:50:27.206611"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html", 
             "resource_date": "2011-10-14T14:27:16.756-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:46.917395"
+            "when": "2015-06-05T03:50:27.206618"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
         {
-            "label": "De la variation et des langues anciennes [Article]", 
+            "label": "De la variation et des langues anciennes", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2001"
         }, 
         {
@@ -51,7 +51,7 @@
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_777"
         }, 
         {
-            "label": "Autour du nom de S\u00e9geste [Article]", 
+            "label": "Autour du nom de S\u00e9geste", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2003"
         }, 
         {
@@ -59,7 +59,7 @@
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_1095"
         }, 
         {
-            "label": "C.\u00a0Pontius Herenni filius. Remarques sur la d\u00e9signation du vainqueur des Fourches Caudines chez Tite-Live [Article]", 
+            "label": "C.\u00a0Pontius Herenni filius. Remarques sur la d\u00e9signation du vainqueur des Fourches Caudines chez Tite-Live", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2004"
         }, 
         {
@@ -67,7 +67,7 @@
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_774"
         }, 
         {
-            "label": "Problemi di vocalismo etrusco arcaico. La geminazione di &lt;ii&gt; [Article]", 
+            "label": "Problemi di vocalismo etrusco arcaico. La geminazione di &lt;ii&gt;", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2006"
         }, 
         {
@@ -75,7 +75,7 @@
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_1093"
         }, 
         {
-            "label": "Variaci\u00f3n y cambio en etrusco\u00a0: los genitivos arn\u03b8(i)al y lar\u03b8(i)al [Article]", 
+            "label": "Variaci\u00f3n y cambio en etrusco\u00a0: los genitivos arn\u03b8(i)al y lar\u03b8(i)al", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2007"
         }, 
         {
@@ -83,15 +83,11 @@
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_1094"
         }, 
         {
-            "label": "Essai de dialectologie \u00e9trusque\u00a0: probl\u00e8mes th\u00e9oriques et applications pratiques [Article]", 
+            "label": "Essai de dialectologie \u00e9trusque\u00a0: probl\u00e8mes th\u00e9oriques et applications pratiques", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2008"
         }, 
         {
-            "label": "Gilles van Heems", 
-            "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_777"
-        }, 
-        {
-            "label": "Variation linguistique et ex\u00e9g\u00e8se pal\u00e9o-italique. L\u2019idiome sicule de Montagna di Marzo [Article]", 
+            "label": "Variation linguistique et ex\u00e9g\u00e8se pal\u00e9o-italique. L\u2019idiome sicule de Montagna di Marzo", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2010"
         }, 
         {
@@ -99,7 +95,7 @@
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_780"
         }, 
         {
-            "label": "U. surur, lat. item\u00a0: adverbe de mani\u00e8re, connecteur discursif [Article]", 
+            "label": "U. surur, lat. item\u00a0: adverbe de mani\u00e8re, connecteur discursif", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2011"
         }, 
         {
@@ -107,7 +103,7 @@
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_779"
         }, 
         {
-            "label": "La variante falisque [Article]", 
+            "label": "La variante falisque", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2012"
         }, 
         {

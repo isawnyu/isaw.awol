@@ -1,8 +1,8 @@
 {
-    "description": "[ 1 ] 1923 : [ 4-1 ] [ 4-2 ] [ 4-3 ] [ 4-4 ] 1923 : [ 4-1 ] [ 4-2 ] [ 4-3 ] [ 4-4 ] 1923 : [ 4-1 ] [ 4-2 ] [ 4-3 ] [ 4-4 ] 1923 : [ 4-1 ]", 
+    "description": "1920 : [ 1 ] 1920 : [ 1 ] 1920 : [ 1 ]", 
     "domain": "www.persee.fr", 
     "history": [
-        "2015-06-04T03:56:44.214453: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open.html. (walk_to_json.py)"
+        "2015-06-05T03:50:23.936005: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
@@ -28,24 +28,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
+                "title_extended", 
                 "url", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-733349865844137791", 
             "resource_date": "2013-12-07T12:54:56.396-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:56:44.214989"
+            "when": "2015-06-05T03:50:23.936896"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/open.html", 
             "resource_date": "2013-12-07T12:54:56.396-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:56:44.214996"
+            "when": "2015-06-05T03:50:23.936912"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "1920 : [ 1 ]: Syria. Arch\u00e9ologie, Art et histoire", 
+    "title": "1", 
+    "title_extended": "Syria. Arch\u00e9ologie, Art et histoire: 1", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1920_num_1_1", 
     "zotero_id": null
 }

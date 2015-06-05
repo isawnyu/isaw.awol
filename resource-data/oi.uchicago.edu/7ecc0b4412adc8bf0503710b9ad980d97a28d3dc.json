@@ -1,12 +1,11 @@
 {
-    "description": "No. 126 November-December 1990: RECONNAISSANCE IN AQABA No. 125 September-October 1990: NIPPUR, 1990: GULA, GODDESS OF HEALING, AND AN AKKADIAN TOMB", 
+    "description": "No. 126 November-December 1990: RECONNAISSANCE IN AQABA", 
     "domain": "oi.uchicago.edu", 
     "history": [
-        "2015-06-04T03:36:40.467425: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
+        "2015-06-05T03:50:31.473637: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
     ], 
     "identifiers": {}, 
     "keywords": [
-        "Akkadian", 
         "Oriental Institute", 
         "journal", 
         "open access"
@@ -31,13 +30,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
             "resource_date": "2013-12-10T13:02:44.344-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-04T03:36:40.467944"
+            "when": "2015-06-05T03:50:31.474156"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
             "resource_date": "2013-12-10T13:02:44.344-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-04T03:36:40.467951"
+            "when": "2015-06-05T03:50:31.474164"
         }
     ], 
     "related_resources": [], 
