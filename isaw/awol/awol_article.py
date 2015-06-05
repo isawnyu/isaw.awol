@@ -14,6 +14,7 @@ import codecs
 import logging
 import os
 import pkg_resources
+import pprint
 import re
 import sys
 
@@ -136,6 +137,10 @@ NO_FORCING = [
     'http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html',
     'http://ancientworldonline.blogspot.com/2011/05/open-access-journal-bsaa-arqueologia.html',
 ]
+NO_SUBORDINATES = [
+    'http://ancientworldonline.blogspot.com/2012/12/newly-online-from-ecole-francaise-de.html',
+    'http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html'
+]
 FORCE_AS_SUBORDINATE_AFTER = [
     'http://oi.uchicago.edu/research/library/acquisitions.html',
     'http://oi.uchicago.edu/research/pubs/ar/10-11/',
@@ -149,7 +154,7 @@ FORCE_AS_SUBORDINATE_AFTER = [
     'https://oi.uchicago.edu/research/pubs/catalog/oip/',
     'oriental institute news & notes',
     'http://amar.hsclib.sunysb.edu/amar/',
-    
+    'http://www.persee.fr/web/revues/home/prescript/issue/litt_0047-4800_2001_num_122_2'
 ]
 RELATED_FLAGS = [
     'list of volumes in print',
@@ -165,7 +170,8 @@ SUPPRESS_RESOURCE = [
     'terms of use',
     'download pdf',
     'download',
-    'membership'
+    'membership',
+    'here'
 ]
 
 
@@ -267,7 +273,7 @@ class AwolArticle(Article):
             if d not in DOMAINS_TO_IGNORE 
             and d not in DOMAINS_SECONDARY]
         ################# TESTING
-        dump_domains = ['dialnet.unirioja.es',]
+        dump_domains = [u'oi.uchicago.edu',]
         if len(domains) > 1:
             return None
         if len(domains) == 1 and len(unique_urls) <= 1:
@@ -299,10 +305,14 @@ class AwolArticle(Article):
             force_related = None
             force_subordinate = None
             prev_superior = None
+            prev_relator = None
             for a in [a for a in anchors if domains[0] in a.get('href') and a.get('href') not in AGGREGATOR_IGNORE and a.get_text().strip() != u'']:
+                anchor_text = normalize_space(a.get_text())
+                anchor_text_lower = anchor_text.lower()
+                anchor_href = normalize_space(a.get('href'))
                 parents = a.find_parents('li')
                 if len(parents) > 0 and len(parents[0].find_all('a')) == 1:
-                    anchor_text = parents[0].get_text()
+                    anchor_ancestor = parents[0]
                 else:
                     parents = a.find_parents('span')
                     i = 0
@@ -312,110 +322,130 @@ class AwolArticle(Article):
                         i = i+1
                     i = i - 1
                     if i > -1:
-                        anchor_text = parents[i].get_text()
+                        anchor_ancestor = parents[i]
                     else:
-                        anchor_text = a.get_text()
-                anchor_text = normalize_space(anchor_text)
-                anchor_text_lower = anchor_text.lower()
-                anchor_href = normalize_space(a.get('href'))
+                        anchor_ancestor = a # I am my own grandpa!
+                anchor_in_blockquote = len(a.find_parents('blockquote')) > 0
+                anchor_in_issue_element = len(a.find_parents('div', class_='issueElement'))
+                if anchor_in_blockquote and dump_it: print 'BLOCKQUOTE!'
+                if anchor_in_issue_element and dump_it: print 'ISSUE ELEMENT!'
+
+                ancestor_text = normalize_space(anchor_ancestor.get_text())
+                ancestor_text_lower = anchor_text.lower()
 
                 # parse a new resource related to this anchor
                 if anchor_text_lower not in SUPPRESS_RESOURCE and anchor_href not in [r.url for r in resources]:
-                    html = u' {0}\n'.format(unicode(a))
-                    next_node = a.next_element
+                    
+                    # try to grab the most relevant stuff for the description, but not too much
+                    html = u' {0}\n'.format(unicode(anchor_ancestor))
+                    next_node = anchor_ancestor.next_element
                     while True:
                         html = html + u' {0}\n'.format(unicode(next_node))
-                        if next_node.name in ['blockquote', 'hr', 'a', 'h1', 'h2']:
+                        if next_node.name in ['blockquote', 'hr', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'ul', 'p', 'div', 'ol']:
                             break
                         next_node = next_node.next_element
                         if next_node is None:
                             break
                     html = u'<div>\n' + html + u'\n</div>'
                     this_soup = BeautifulSoup(html)
+
+                    # parse the resource
                     resource = self._parse_resource(
                         domain=domains[0],
                         url=anchor_href,
-                        title=clean_title(anchor_text),
+                        title=self._parse_title(anchor_text),
                         content_soup=this_soup)
-                    if force_related is not None:
-                        resource.related_resources.append({
-                            'url': force_related.url,
-                            'label': force_related.title
-                            })
-                    resource_fields = sorted([k for k in resource.__dict__.keys() if '_' != k[0]])
-                    resource.set_provenance(self.id, 'citesAsDataSource', updated, resource_fields)
-                    resource.set_provenance(self.url, 'citesAsMetadataDocument', updated)
                     resources.append(resource)
                     if dump_it:
                         print u'    resource: {0}'.format(resource.title)
                         print u'              {0}'.format(resource.url)
 
-                # detect subordinate and related links and append them to the preceding resource
-                if anchor_text_lower in SUBORDINATE_FLAGS:
-                    if dump_it:
-                        print u'              subordinate to "{0}" ({1})'.format(resources[-2].title, resources[-2].url)
-                    resources[-1].subordinate_resources.append({
-                        'url': anchor_href,
-                        'label': anchor_text
-                        })
-                elif anchor_text_lower in RELATED_FLAGS:
-                    if dump_it:
-                        print u'              related to "{0}" ({1})'.format(resources[-2].title, resources[-2].url)
-                    resources[-1].related_resources.append({
-                        'url': anchor_href,
-                        'label': anchor_text
-                        })
-                elif force_related is not None:
-                    if force_related.url != anchor_href:
-                        if dump_it:
-                            print u'              FORCE related: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_related.title, force_related.url)
-                        force_related.related_resources.append({
-                            'url': anchor_href,
-                            'label': anchor_text
-                            })
-                elif force_subordinate is not None:
-                    if force_subordinate.url != anchor_href:
-                        if dump_it:
-                            print u'              FORCE subordinate: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_subordinate.title, force_subordinate.url)
-                        force_subordinate.subordinate_resources.append({
-                            'url': anchor_href,
-                            'label': anchor_text
-                            })
-                else:
-                    m = RX_NUMERICISH.match(anchor_text_lower)
-                    if (anchor_text_lower[:5] == u'vol. ' 
-                        or anchor_text_lower[:4] == u'no. '
-                        or anchor_text_lower[:7] == u'volume '
-                        or m is not None):
-                        if prev_superior is not None:
-                            pass
-                        else:
-                            prev_superior = resources[-2]
-                        if prev_superior.url != anchor_href:
-                            resource.title = u': '.join((resource.title, prev_superior.title))
+                    # detect subordinate and related links and append them to the preceding resource
+                    if len(resources) > 1 and self.url not in NO_SUBORDINATES:
+                        if force_related is not None:
                             if dump_it:
-                                print u'              title changed to {0}'.format(resource.title)
+                                print u'              FORCE related: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_related.title, force_related.url)
+                            force_related.related_resources.append({
+                                'url': anchor_href,
+                                'label': anchor_text
+                                })
+                        elif force_subordinate is not None:
+                            if dump_it:
+                                print u'              FORCE subordinate: "{0}" ({1}) to "{2}" ({3})'.format(anchor_text, anchor_href, force_subordinate.title, force_subordinate.url)
+                            force_subordinate.subordinate_resources.append({
+                                'url': anchor_href,
+                                'label': anchor_text
+                                })
+                        elif anchor_text_lower in SUBORDINATE_FLAGS:
+                            if dump_it:
+                                print u'              subordinate to "{0}" ({1})'.format(resources[-2].title, resources[-2].url)
+                            if prev_superior is not None:
+                                pass
+                            else:
+                                prev_superior = resources[-2]
+                            prev_superior.subordinate_resources.append({
+                                'url': anchor_href,
+                                'label': anchor_text
+                                })
+                            prev_relator = None
+                        elif anchor_text_lower in RELATED_FLAGS:
+                            if dump_it:
+                                print u'              related to "{0}" ({1})'.format(resources[-2].title, resources[-2].url)
+                            if prev_relator is not None:
+                                pass
+                            else:
+                                prev_relator = resources[-2]
+                            prev_relator.related_resources.append({
+                                'url': anchor_href,
+                                'label': anchor_text
+                                })
+                            prev_superior = None
+                        elif (anchor_text_lower[:5] == u'vol. ' 
+                            or anchor_text_lower[:4] == u'no. '
+                            or anchor_text_lower[:7] == u'volume '
+                            or RX_NUMERICISH.match(anchor_text_lower) is not None
+                            or anchor_in_blockquote
+                            or anchor_in_issue_element):
+                            if (prev_superior is None 
+                                or (anchor_in_blockquote and not prev_blockquote)
+                                or (anchor_in_issue_element and not prev_issue_element)):
+                                    prev_superior = resources[-2]
+                            resource.title_extended = u': '.join((prev_superior.title, resource.title))
+                            if dump_it:
+                                print u'              extended title: "{0}"'.format(resource.title_extended)
                             prev_superior.subordinate_resources.append({
                                 'url': anchor_href,
                                 'label': resource.title
                                 })
                             if dump_it:
                                 print u'              subordinate to "{0}" ({1})'.format(prev_superior.title, prev_superior.url)
-
-                # detect conditions that will force treatment of subsequent anchors as
-                # subordinate or related resources
-                if self.url not in NO_FORCING:
-                    if anchor_text_lower in FORCE_AS_RELATED_AFTER or anchor_href in FORCE_AS_RELATED_AFTER:
-                        force_subordinate = None
-                        force_related = resource
-                    if anchor_text_lower in FORCE_AS_SUBORDINATE_AFTER or anchor_href in FORCE_AS_SUBORDINATE_AFTER:
-                        try:
-                            force_subordinate = resource
-                        except IndexError:
-                            logger.warning('failed to set force_subordinate at {0} in {1}'.format(anchor_href, self.url))
                         else:
-                            force_related = None
+                            prev_superior = None
+                            prev_relator = None
 
+                    # set provenance
+                    resource_fields = sorted([k for k in resource.__dict__.keys() if '_' != k[0]])
+                    resource.set_provenance(self.id, 'citesAsDataSource', updated, resource_fields)
+                    resource.set_provenance(self.url, 'citesAsMetadataDocument', updated)
+
+                    # detect conditions that will force treatment of subsequent anchors as
+                    # subordinate or related resources
+                    if self.url not in NO_FORCING:
+                        if anchor_text_lower in FORCE_AS_RELATED_AFTER or anchor_href in FORCE_AS_RELATED_AFTER:
+                            force_subordinate = None
+                            force_related = resource
+                        if anchor_text_lower in FORCE_AS_SUBORDINATE_AFTER or anchor_href in FORCE_AS_SUBORDINATE_AFTER:
+                            try:
+                                force_subordinate = resource
+                            except IndexError:
+                                logger.warning('failed to set force_subordinate at {0} in {1}'.format(anchor_href, self.url))
+                            else:
+                                force_related = None
+
+                    #if dump_it:
+                    #    pprint.pprint(resource.__dict__)
+                prev_blockquote = anchor_in_blockquote
+                prev_issue_element = anchor_in_issue_element
 
         elif len(domains) == 1 and len(unique_urls) > 1:
             logger.warning('aggregator detected, but ignored: {0}'.format(domains[0]))
@@ -425,7 +455,7 @@ class AwolArticle(Article):
             resource = self._parse_resource(
                 domain=domains[0], 
                 url=[url for url in urls if domains[0] in url][0],
-                title=self._rtitle_from_ptitle(), 
+                title=self._parse_title(self.title), 
                 content_soup=self.soup)
             resource_fields = sorted([k for k in resource.__dict__.keys() if '_' not in k])
             resource.set_provenance(self.id, 'citesAsDataSource', updated, resource_fields)
@@ -614,10 +644,9 @@ class AwolArticle(Article):
         for url in urls:
             logger.debug('url is: {0}'.format(url))
 
-    def _rtitle_from_ptitle(self):
+    def _parse_title(self, title):
         """Parse resource title from post title."""
 
-        title = self.title
         if u':' in title:
             colon_prefix = title.split(u':')[0].lower()
             if colon_prefix in COLON_PREFIXES.keys() and (COLON_PREFIXES[colon_prefix])[1] == 'yes':
