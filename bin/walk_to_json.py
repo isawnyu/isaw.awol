@@ -6,8 +6,10 @@ Script to walk AWOL backup and create json resource files.
 
 import _mypath
 import argparse
+import errno
 import fileinput
 from functools import wraps
+import hashlib
 import json
 import logging
 import os
@@ -60,13 +62,42 @@ def main (args):
                     pass
                 else:
                     try:
-                        logger.debug('found {0} resources'.format(len(resources)))
+                        logger.info('found {0} resources in {1}'.format(len(resources), file_name))
                     except TypeError:
-                        logger.debug('found 0 resources')
+                        logger.info('found 0 resources in {0}'.format(file_name))
                     else:                        
                         for i,r in enumerate(resources):
-                            this_id = '-'.join((awol_id, format(i+1, '04')))
-                            this_path = os.path.join(dest_dir, '.'.join((this_id, 'json')))
+                            #this_id = '-'.join((awol_id, format(i+1, '04')))
+                            #this_path = os.path.join(dest_dir, '.'.join((this_id, 'json')))
+                            #this_dir = os.path.join(dest_dir, this_hash[:6])
+                            #try:
+                            #    os.makedirs(this_dir)
+                            #except OSError as exc:
+                            #    if exc.errno == errno.EEXIST and os.path.isdir(path):
+                            #        pass
+                            #    else: raise
+                            #this_path = os.path.join(this_dir, '.'.join((this_hash[6:], 'json')))
+                            this_dir = os.path.join(dest_dir, r.domain)
+                            logger.debug('saving output to subdirectory: {0}'.format(this_dir))
+                            try:
+                                os.makedirs(this_dir)
+                            except OSError as exc:
+                                if exc.errno == errno.EEXIST and os.path.isdir(this_dir):
+                                    pass
+                                else: raise
+                            #rx = re.compile('^https?\:\/\/{0}\/?(.+)$'.format(r.domain.replace('.', '\.')), re.IGNORECASE)
+                            #m = rx.match(r.url)
+                            #if m is None:
+                            #    raise Exception
+                            #else:
+                            #    filename = '.'.join((m.groups()[0], '.json'))
+                            m = hashlib.sha1()
+                            m.update(awol_id)
+                            m.update(format(i+1, '04'))
+                            this_hash = m.hexdigest()
+                            filename = '.'.join((this_hash, 'json'))
+                            logger.debug('filename: {0}'.format(filename))
+                            this_path = os.path.join(this_dir, filename)
                             r.json_dump(this_path, formatted=True)
             else:
                 logger.debug('skipping {0}'.format(file_name))
