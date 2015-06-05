@@ -44,41 +44,77 @@ class Article():
                 logger.warning(
                     'Filenames for both Atom and JSON were specified'
                     + ' in Article constructor. JSON filename ignored.')
-            with open(atom_file_name, 'r') as file_object:
-                self.doc = exml.parse(file_object)
-            self.root = self.doc.getroot()
-            root = self.root
-            self.id = root.find('{http://www.w3.org/2005/Atom}id').text.strip()
-            raw_title = root.find('{http://www.w3.org/2005/Atom}title').text
-            try:
-                self.title = normalize_space(unicodedata.normalize('NFC', UnicodeDammit(raw_title).unicode_markup))
-            except TypeError:
-                logger.warning('could not extract blog post title: {0}'.format(self.id))
-            try:
-                raw_url = root.xpath("//*[local-name()='link' and @rel='alternate']")[0].get('href')
-            except IndexError:
-                logger.warning('could not extract blog post URL: {0}'.format(self.id))
-            else:
-                try:
-                    self.url = unicodedata.normalize('NFC', UnicodeDammit(raw_url).unicode_markup)
-                except TypeError:
-                    logger.warning('could not extract blog post URL: {0}'.format(self.id))
-            self.categories = [{'vocabulary' : c.get('scheme'), 'term' : c.get('term')} for c in root.findall('{http://www.w3.org/2005/Atom}category')]
-            raw_content = root.find('{http://www.w3.org/2005/Atom}content').text
-            try:
-                content = normalize_space(unicodedata.normalize('NFC', UnicodeDammit(raw_content).unicode_markup))
-            except TypeError:
-                content = None
-                logger.warning('could not extract content')
-            else:
-                self.content = content
-                self.soup = BeautifulSoup(content)
+
+            self._load_atom(atom_file_name)
         elif json_file_name is not None:
             # todo
-            emsg = 'Article constructor does not yet support JSON.'
-            logger.error(emsg)
-            raise NotImplementedError(emsg)
+            self.__load_json(json_file_name)
 
+    def _load_atom(atom_file_name):
+        """Open atom file and parse for basic info.
+
+        We attempt to set the following attributes on the class:
+
+         * id (string): tag id for this atom entry
+         * title (unicode): title of the original blog post
+         * url (string): url for the original blog post)
+         * categories (dictionary) with the following keys:
+           * 'vocabulary' (string): captures "scheme" from the entry categories
+           * 'term' (string): verbatim from the entry categories
+         * content (unicode): normalized unicode string containing everything
+           that was in the entry content (see normalization comments below)
+         * soup (bs4 BeutifulSoup object): html-parsed version of content
+
+        All strings are space normalized (i.e., all continguous spans of
+        whitespace are collapsed to a single space and the result string is
+        stripped of leading and trailing whitespace).
+
+        The normalization form of all unicode strings (title and content) are
+        converted to Normalization Form "C" (canonical normalized).
+        """
+
+        with open(atom_file_name, 'r') as file_object:
+            self.doc = exml.parse(file_object)
+        self.root = self.doc.getroot()
+        root = self.root
+        self.id = root.find('{http://www.w3.org/2005/Atom}id').text.strip()
+
+        # title of blog post should be same as title of atom entry
+        raw_title = root.find('{http://www.w3.org/2005/Atom}title').text
+        try:
+            self.title = normalize_space(unicodedata.normalize('NFC', UnicodeDammit(raw_title).unicode_markup))
+        except TypeError:
+            logger.warning('could not extract blog post title: {0}'.format(self.id))
+
+        # get url of blog post (html alternate)
+        try:
+            raw_url = root.xpath("//*[local-name()='link' and @rel='alternate']")[0].get('href')
+        except IndexError:
+            logger.warning('could not extract blog post URL: {0}'.format(self.id))
+        else:
+            try:
+                self.url = normalize_space(unicodedata.normalize('NFC', UnicodeDammit(raw_url).unicode_markup))
+            except TypeError:
+                logger.warning('could not extract blog post URL: {0}'.format(self.id))
+
+        # capture categories as vocabulary terms
+        self.categories = [{'vocabulary' : c.get('scheme'), 'term' : c.get('term')} for c in root.findall('{http://www.w3.org/2005/Atom}category')]
+        
+        # extract content, normalize, and parse as HTML for later use
+        raw_content = root.find('{http://www.w3.org/2005/Atom}content').text
+        try:
+            content = normalize_space(unicodedata.normalize('NFC', UnicodeDammit(raw_content).unicode_markup))
+        except TypeError:
+            content = None
+            logger.warning('could not extract content')
+        else:
+            self.content = content
+            self.soup = BeautifulSoup(content)
+
+    def _load_json(self, json_file_name):
+        """open atom file and parse for basic info"""
+        emsg = 'Article constructor does not yet support JSON.'
+        raise NotImplementedError(emsg)
 
     def __str__(self):
         """Print all data about the article."""
