@@ -80,20 +80,20 @@ class Article():
         self.id = root.find('{http://www.w3.org/2005/Atom}id').text.strip()
 
         # title of blog post should be same as title of atom entry
-        raw_title = root.find('{http://www.w3.org/2005/Atom}title').text
+        raw_title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text)
         try:
-            self.title = normalize_space(unicodedata.normalize('NFC', UnicodeDammit(raw_title).unicode_markup))
+            self.title = normalize_space(unicodedata.normalize('NFC', raw_title))
         except TypeError:
             logger.warning('could not extract blog post title: {0}'.format(self.id))
 
         # get url of blog post (html alternate)
         try:
-            raw_url = root.xpath("//*[local-name()='link' and @rel='alternate']")[0].get('href')
+            raw_url = unicode(root.xpath("//*[local-name()='link' and @rel='alternate']")[0].get('href'))
         except IndexError:
             logger.warning('could not extract blog post URL: {0}'.format(self.id))
         else:
             try:
-                self.url = normalize_space(unicodedata.normalize('NFC', UnicodeDammit(raw_url).unicode_markup))
+                self.url = normalize_space(unicodedata.normalize('NFC', raw_url))
             except TypeError:
                 logger.warning('could not extract blog post URL: {0}'.format(self.id))
 
@@ -101,15 +101,16 @@ class Article():
         self.categories = [{'vocabulary' : c.get('scheme'), 'term' : c.get('term')} for c in root.findall('{http://www.w3.org/2005/Atom}category')]
         
         # extract content, normalize, and parse as HTML for later use
-        raw_content = root.find('{http://www.w3.org/2005/Atom}content').text
+        raw_content = unicode(root.find('{http://www.w3.org/2005/Atom}content').text)
         try:
-            content = normalize_space(unicodedata.normalize('NFC', UnicodeDammit(raw_content).unicode_markup))
+            content = normalize_space(unicodedata.normalize('NFC', raw_content))
         except TypeError:
             content = None
             logger.warning('could not extract content')
         else:
             self.content = content
             self.soup = BeautifulSoup(content)
+
 
     def _load_json(self, json_file_name):
         """open atom file and parse for basic info"""
