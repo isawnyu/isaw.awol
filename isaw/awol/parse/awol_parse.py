@@ -11,6 +11,11 @@ This module defines the following classes:
 import logging
 import sys
 
+IGNORE_DOMAINS = [
+    'draft.blogger.com',
+    'ancientworldonline.blogspot.com'
+]
+
 class AwolBaseParser:
     """Superclass: Extract data from an AWOL blog post."""
 
@@ -30,8 +35,9 @@ class AwolBaseParser:
             anchors = [a for a in soup.find_all('a')]
             urls = [a.get('href') for a in anchors if a.get('href') is not None]
             urls = list(set(urls))
-            domains = [url.replace('http://', '').replace('https://') for url in urls]
+            domains = [url.replace('http://', '').replace('https://', '').split('/')[0] for url in urls]
             domains = list(set(domains))
+            domains = [domain for domain in domains if domain not in IGNORE_DOMAINS]
             c['domains'] = domains
         return c['domains']
 

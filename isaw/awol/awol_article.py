@@ -11,9 +11,11 @@ This module defines the following classes:
 
 import codecs
 #import csv
+from importlib import import_module
 import logging
 import os
 import pkg_resources
+import pkgutil
 import pprint
 import re
 import sys
@@ -727,5 +729,6 @@ class AwolArticle(Article):
                         if len(identifiers[k]['generic']) == 0:
                             del identifiers[k]['generic']
         return identifiers
+
 
 

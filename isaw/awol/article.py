@@ -50,7 +50,7 @@ class Article():
             # todo
             self.__load_json(json_file_name)
 
-    def _load_atom(atom_file_name):
+    def _load_atom(self, atom_file_name):
         """Open atom file and parse for basic info.
 
         We attempt to set the following attributes on the class:
