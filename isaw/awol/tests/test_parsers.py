@@ -32,6 +32,7 @@ def teardown_function():
 @with_setup(setup_function, teardown_function)
 def test_parsers_init():
 
+    logger = logging.getLogger(sys._getframe().f_code.co_name)
     parsers = AwolParsers()
     plist = parsers.parsers
     # trap for untested addition of a parser
@@ -42,10 +43,16 @@ def test_parsers_init():
 
 @with_setup(setup_function, teardown_function)
 def test_parsers_get_domains():
+    logger = logging.getLogger(sys._getframe().f_code.co_name)
     file_name = os.path.join(PATH_TEST_DATA, 'post-capitale-culturale.xml')
     a = AwolArticle(atom_file_name=file_name)
     parsers = AwolParsers()
+    # verify generic parser can get domains
     domains = parsers.parsers['generic'].get_domains(a.soup)
+    assert_equals(len(domains), 1)
+    assert_equals(domains[0], 'www.unimc.it')
+    # verify parser collection can do the same (using generic underneath)
+    domains = parsers.get_domains(a.soup)
     assert_equals(len(domains), 1)
     assert_equals(domains[0], 'www.unimc.it')
 

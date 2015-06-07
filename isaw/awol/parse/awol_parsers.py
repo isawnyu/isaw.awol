@@ -26,7 +26,7 @@ class AwolParsers():
         ignore_parsers = [
             'awol_parsers',             # self
             'awol_parse',               # superclass
-            'awol_parse_domain',    # superclass
+            'awol_parse_domain',        # superclass
         ]
         where = 'isaw/awol/parse'
         parser_names = [name for _, name, _ in pkgutil.iter_modules([where]) if 'parse' in name]
@@ -40,4 +40,23 @@ class AwolParsers():
                 parser = mod.Parser()
                 self.parsers[parser.domain] = parser
 
+
+    def reset(self):
+        self.content_soup = None
+
+        #for parser in self.parsers:
+        #    parser.reset()
+
+
+    def get_domains(self, content_soup=None):
+        """find valid resource domains in content"""
+
+        if content_soup is None and self.content_soup is None:
+            raise AttributeError('No content soup has been fed to parsers.')
+
+        if content_soup is not None:
+            self.reset()
+            self.content_soup = content_soup
+
+        return self.parsers['generic'].get_domains(content_soup)
 
