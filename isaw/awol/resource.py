@@ -26,7 +26,6 @@ class Resource:
     def __init__(self):
         """Set all attributes to default values."""
 
-        self.history = []
         self.description = None
         self.domain = None
         self.subordinate_resources = []
@@ -103,16 +102,6 @@ class Resource:
                 'itemID': zot_id
             }
             logger.debug(repr(self.zotero_id))
-            self.append_event(
-                'Successfully uploaded to Zotero with {0}'.format(repr(self.zotero_id)))
-
-    def append_event(self, msg):
-        """Append an event record to resource history."""
-        event = '{0}: {1} ({2})'.format(
-            datetime.datetime.utcnow().isoformat(), 
-            msg,
-            scriptinfo()['source'])
-        self.history.append(event)
 
     def wikidata_suggest(self, resource_title):
         wikidata = suggest(resource_title)
@@ -149,9 +138,9 @@ class Resource:
         domain: {domain}
         keywords: {keywords}
         identifiers: {identifiers}
-        related resources: NOT IMPLEMENTED
-        subordinate resources: NOT IMPLEMENTED
-        history: {history}
+        related resources: {related}
+        subordinate resources: {subordinate}
+        provenance: {provenance}
         """
         s = s.format(
             title = self.title,
@@ -161,8 +150,9 @@ class Resource:
             domain = self.domain,
             keywords = repr(self.keywords),
             identifiers = repr(self.identifiers), 
-            history = repr(self.history))
-
+            provenance = repr(self.provenance), 
+            subordinate = [r.title for r in self.subordinate_resources],
+            related = [r.title for r in self.related_resources])
         return s
 
 

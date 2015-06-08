@@ -9,6 +9,7 @@ This module defines the following classes:
 """
 
 import logging
+import os
 import pprint
 import re
 import sys
@@ -18,6 +19,7 @@ from bs4 import BeautifulSoup, UnicodeDammit
 from lxml import etree as exml
 
 from isaw.awol.normalize_space import normalize_space
+from isaw.awol.clean_string import purify_html
 
 class Article():
     """Manipulate and extract data from a blog post."""
@@ -73,43 +75,57 @@ class Article():
         converted to Normalization Form "C" (canonical normalized).
         """
 
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+
         with open(atom_file_name, 'r') as file_object:
             self.doc = exml.parse(file_object)
         self.root = self.doc.getroot()
         root = self.root
         self.id = root.find('{http://www.w3.org/2005/Atom}id').text.strip()
+        logger.debug('article id: "{0}"'.format(self.id))
 
         # title of blog post should be same as title of atom entry
         raw_title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text)
         try:
             self.title = normalize_space(unicodedata.normalize('NFC', raw_title))
         except TypeError:
-            logger.warning('could not extract blog post title: {0}'.format(self.id))
+            msg = 'could not extract blog post title for article with id: "{0}"'.format(self.id)
+            raise RuntimeWarning(msg)
+            
+        else:
+            logger.debug('article title: "{0}"'.format(self.title))
 
         # get url of blog post (html alternate)
         try:
             raw_url = unicode(root.xpath("//*[local-name()='link' and @rel='alternate']")[0].get('href'))
         except IndexError:
-            logger.warning('could not extract blog post URL: {0}'.format(self.id))
+            msg = 'could not extract blog post URL for article with id: "{0}"'.format(self.id)
+            raise RuntimeError(msg)
         else:
             try:
                 self.url = normalize_space(unicodedata.normalize('NFC', raw_url))
             except TypeError:
-                logger.warning('could not extract blog post URL: {0}'.format(self.id))
+                msg = 'could not extract blog post URL for article with id: "{0}"'.format(self.id)
+                raise RuntimeError(msg)
 
         # capture categories as vocabulary terms
         self.categories = [{'vocabulary' : c.get('scheme'), 'term' : c.get('term')} for c in root.findall('{http://www.w3.org/2005/Atom}category')]
         
         # extract content, normalize, and parse as HTML for later use
         raw_content = unicode(root.find('{http://www.w3.org/2005/Atom}content').text)
-        try:
-            content = normalize_space(unicodedata.normalize('NFC', raw_content))
-        except TypeError:
-            content = None
-            logger.warning('could not extract content')
-        else:
-            self.content = content
-            self.soup = BeautifulSoup(content)
+        content = normalize_space(unicodedata.normalize('NFC', raw_content))
+        content = purify_html(content)
+        self.content = content
+        soup = BeautifulSoup(content)
+        html = exml.fromstring(str(soup))
+        #logger.debug('normalized html:\n\n' + exml.tostring(html, pretty_print=True))
+        xsl_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'cleanup.xsl')
+        xsl = exml.parse(xsl_path)
+        transform = exml.XSLT(xsl)
+        clean_html = transform(html)
+        #logger.debug('cleaned html:\n\n' + exml.tostring(clean_html, pretty_print=True))
+        self.soup = BeautifulSoup(exml.tostring(clean_html))
+
 
 
     def _load_json(self, json_file_name):

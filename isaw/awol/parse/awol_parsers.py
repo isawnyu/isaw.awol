@@ -40,6 +40,21 @@ class AwolParsers():
                 parser = mod.Parser()
                 self.parsers[parser.domain] = parser
 
+    def parse(self, article):
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+
+        self.reset()
+        self.content_soup = article.soup
+        domains = self.get_domains()
+        if len(domains) > 1:
+            raise NotImplementedError('awol_parsers cannot yet handle multiple domains in a single article: {0}'.format(domains))
+        else:
+            try:
+                return self.parsers[domains[0]].parse(article)
+            except KeyError:
+                logger.debug('using generic parser')
+                return self.parsers['generic'].parse(article)
+
 
     def reset(self):
         self.content_soup = None
@@ -58,5 +73,5 @@ class AwolParsers():
             self.reset()
             self.content_soup = content_soup
 
-        return self.parsers['generic'].get_domains(content_soup)
+        return self.parsers['generic'].get_domains(self.content_soup)
 
