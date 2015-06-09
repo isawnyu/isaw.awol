@@ -55,9 +55,9 @@ def main (args):
         for file_name in file_list:
             if 'post-' in file_name and file_name[-4:] == '.xml':
                 walk_count = walk_count + 1
-                if walk_count % 100 == 1:
-                    logger.info('PERCENT COMPLETE: {0:.0f}'.format(float(walk_count)/3321.0*100.0))
-                logger.info('handling {0}'.format(file_name))
+                if args.progress and walk_count % 100 == 1:
+                    print('\n*****************************\nPERCENT COMPLETE: {0:.0f}\n'.format(float(walk_count)/3321.0*100.0))
+                logger.debug('handling {0}'.format(file_name))
                 target = os.path.join(dir_name, file_name)
                 try:
                     a = awol_article.AwolArticle(atom_file_name=target)
@@ -65,17 +65,15 @@ def main (args):
                     logger.warning(e)
                 else:
                     awol_id = '-'.join(('awol', a.id.split('.')[-1]))
-                    logger.info('awol_id: {0}'.format(awol_id))
+                    logger.debug('awol_id: {0}'.format(awol_id))
                     resources = None
                     try:
                         resources = parsers.parse(a)
                     except NotImplementedError as e:
-                        logger.info('foo')
                         logger.warning(e)
                     else:
-                        logger.info('bar')
                         length = len(resources)
-                        logger.info('found {0} resources in {1}'.format(len(resources), file_name))
+                        logger.debug('found {0} resources in {1}'.format(len(resources), file_name))
                         if length > 0:
                             for i,r in enumerate(resources):
                                 #this_id = '-'.join((awol_id, format(i+1, '04')))
@@ -107,11 +105,11 @@ def main (args):
                                 m.update(format(i+1, '04'))
                                 this_hash = m.hexdigest()
                                 filename = '.'.join((this_hash, 'json'))
-                                logger.info('url: {0}'.format(r.url))
-                                logger.info('filename: {0}'.format(filename))
-                                logger.info(u'r: {0}'.format(unicode(r)))
+                                logger.debug('url: {0}'.format(r.url))
+                                logger.debug('filename: {0}'.format(filename))
+                                logger.debug(u'r: {0}'.format(unicode(r)))
                                 this_path = os.path.join(this_dir, filename)
-                                pprint.pprint(r)
+                                
                                 r.json_dump(this_path, formatted=True)
                                 try:
                                     domain_index = index[r.domain]
@@ -135,7 +133,7 @@ def main (args):
                                     resource_list = domain_index[resource_key] = []
                                 resource_list.append(resource_package)
                                 if len(resource_list) > 1:
-                                    logger.info(u'resource key collision (count={0}): "{1}"'.format(len(resource_list), resource_key))
+                                    logger.debug(u'resource key collision (count={0}): "{1}"'.format(len(resource_list), resource_key))
             else:
                 logger.debug('skipping {0}'.format(file_name))
         for ignore_dir in ['.git', '.svn', '.hg']:
@@ -191,6 +189,7 @@ if __name__ == "__main__":
         parser.add_argument ("-l", "--loglevel", type=str, help="desired logging level (case-insensitive string: DEBUG, INFO, WARNING, ERROR" )
         parser.add_argument ("-v", "--verbose", action="store_true", default=False, help="verbose output (logging level == INFO")
         parser.add_argument ("-vv", "--veryverbose", action="store_true", default=False, help="very verbose output (logging level == DEBUG")
+        parser.add_argument ("--progress", action="store_true", default=False, help="show progress")
         parser.add_argument('credfile', type=str, nargs=1, help='path to credential file')
         #parser.add_argument('postfile', type=str, nargs='?', help='filename containing list of post files to process')
         parser.add_argument('whence', type=str, nargs=1, help='path to directory to read and process')

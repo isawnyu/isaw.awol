@@ -150,7 +150,7 @@ class AwolBaseParser:
 
     def parse(self, article):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
-        logger.info('parsing {0}'.format(article.id))
+        logger.debug('parsing {0}'.format(article.id))
         c = self.content
         self.reset(article.soup)
         resources = self._get_resources(article)
@@ -158,7 +158,7 @@ class AwolBaseParser:
 
     def _get_resources(self, article):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
-        logger.info('getting resources from {0}'.format(article.id))
+        logger.debug('getting resources from {0}'.format(article.id))
         primary_resource = self._get_primary_resource(article)
         primary_resource.subordinate_resources = self._get_subordinate_resources()
         for sr in primary_resource.subordinate_resources:
@@ -180,7 +180,7 @@ class AwolBaseParser:
             sr.is_part_of = parent
             logger.debug(sr)
         primary_resource.related_resources = self._get_related_resources()
-        logger.info(u'got: "{0}"'.format(unicode(primary_resource)))
+        logger.debug(u'got: "{0}"'.format(unicode(primary_resource)))
         foo = [primary_resource,] + primary_resource.subordinate_resources + primary_resource.related_resources
         return foo
 
@@ -456,11 +456,11 @@ class AwolBaseParser:
     def _get_primary_resource(self, article):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
 
-        logger.info('getting primary resource from {0}'.format(article.id))
+        logger.debug('getting primary resource from {0}'.format(article.id))
         # title
         a = self._get_primary_anchor()
         a_title = clean_string(a.get_text())  
-        logger.info(u'found a_title: "{0}"'.format(a_title))
+        logger.debug(u'found a_title: "{0}"'.format(a_title))
         titles = self._reconcile_titles(a_title, article.title)
         try:
             title = titles[0]
@@ -513,7 +513,7 @@ class AwolBaseParser:
         resource.set_provenance(article.id, 'citesAsDataSource', updated, resource_fields)
         resource.set_provenance(article.url, 'citesAsMetadataDocument', updated)
 
-        logger.info(u'returning resource: "{0}"'.format(unicode(resource)))
+        logger.debug(u'returning resource: "{0}"'.format(unicode(resource)))
         return resource
 
 
