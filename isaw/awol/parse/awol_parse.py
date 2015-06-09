@@ -418,8 +418,12 @@ class AwolBaseParser:
                 if a_domain in self.skip_domains:
                     node = first_anchor.next_element
                 else:
-                    node = first_anchor.find_next('a').next_element
-                while node.next_node is not None:
+                    node = first_anchor.find_next('a')
+                    if node is not None:
+                        node = node.next_element 
+                if node is None:
+                    node = first_anchor
+                while node.next_element is not None:
                     if node.name in ['hr', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'ul', 'ol', 'p']:
                         break
                     else:
