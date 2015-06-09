@@ -56,13 +56,19 @@ def test_parsers_get_domains():
     assert_equals(domains[0], 'www.unimc.it')
 
 @with_setup(setup_function, teardown_function)
-def test_parsers_parse():
+def test_parsers_generic():
 
     file_name = os.path.join(PATH_TEST_DATA, 'post-capitale-culturale.xml')
     a = AwolArticle(atom_file_name=file_name)
     parsers = AwolParsers()
     resources = parsers.parse(a)
 
+@with_setup(setup_function, teardown_function)
+def test_parsers_persee():
 
+    file_name = os.path.join(PATH_TEST_DATA, 'post-archeonautica.xml')
+    a = AwolArticle(atom_file_name=file_name)
+    parsers = AwolParsers()
+    resources = parsers.parse(a)
     
 

@@ -30,12 +30,15 @@ class Resource:
         self.domain = None
         self.subordinate_resources = []
         self.identifiers = {}
+        self.is_part_of = None
         self.keywords = []
         self.language = None
         self.provenance = []
         self.related_resources = []
         self.title = None
         self.url = None
+        self.volume = None
+        self.year = None
         self.zotero_id = None
 
     def json_dumps(self, formatted=False):
@@ -138,6 +141,9 @@ class Resource:
         domain: {domain}
         keywords: {keywords}
         identifiers: {identifiers}
+        part of: {partof}
+        volume : {volume}
+        year : {year}
         related resources: {related}
         subordinate resources: {subordinate}
         provenance: {provenance}
@@ -150,6 +156,9 @@ class Resource:
             domain = self.domain,
             keywords = repr(self.keywords),
             identifiers = repr(self.identifiers), 
+            partof = repr(self.is_part_of),
+            volume = self.volume,
+            year = self.year,
             provenance = repr(self.provenance), 
             subordinate = [r.title for r in self.subordinate_resources],
             related = [r.title for r in self.related_resources])

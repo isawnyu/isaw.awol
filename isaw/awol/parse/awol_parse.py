@@ -95,7 +95,18 @@ for row in dreader:
 del dreader
 TITLE_SUBSTRING_TERMS = {k:v for (k,v) in TITLE_SUBSTRING_TAGS.iteritems() if ' ' not in k}
 TITLE_SUBSTRING_PHRASES = {k:v for (k,v) in TITLE_SUBSTRING_TAGS.iteritems() if k not in TITLE_SUBSTRING_TERMS.keys()}
-
+RX_ANALYTIC_TITLES = [
+    {
+        'rx': re.compile(r'^[^\d]*(\d{4})\W*(\d+)[^\d]*$', re.IGNORECASE),
+        'volume': 2,
+        'year': 1
+    },
+    {
+        'rx': re.compile(r'^[^\d]*(\d{1-3})\W*(\d{4})[^\d]*$', re.IGNORECASE),
+        'volume': 1,
+        'year': 2
+    }
+]
 def domain_from_url(url):
     return url.replace('http://', '').replace('https://', '').split('/')[0]
 
@@ -135,6 +146,24 @@ class AwolBaseParser:
         logger = logging.getLogger(sys._getframe().f_code.co_name)
         primary_resource = self._get_primary_resource(article)
         primary_resource.subordinate_resources = self._get_subordinate_resources()
+        for sr in primary_resource.subordinate_resources:
+            parent = {
+                'title': primary_resource.title,
+                'url': primary_resource.url
+            }
+            if len(primary_resource.identifiers.keys()) > 0:
+                try:
+                    parent['issn'] = primary_resource.identifiers['issn']['electronic'][0]
+                except KeyError:
+                    try:
+                        parent['issn'] = primary_resource.identifiers['issn']['generic'][0]
+                    except KeyError:
+                        try:
+                            parent['isbn'] = primary_resource.identifiers['isbn'][0]
+                        except KeyError:
+                            pass                            
+            sr.is_part_of = parent
+            logger.debug(sr)
         primary_resource.related_resources = self._get_related_resources()
         logger.debug(primary_resource)
         return primary_resource
@@ -212,6 +241,17 @@ class AwolBaseParser:
             resource = self._make_resource(**params)
             resources.append(resource)
         return resources
+
+    def _grok_analytic_title(self, title):
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+        for g in RX_ANALYTIC_TITLES:
+            m = g['rx'].match(title)
+            if m is not None:
+                break
+        if m is not None:
+            #logger.debug("grok: {0}-{1}".format(*m.group(g['year'],g['volume'])))
+            return (m.group(g['volume'], g['year']))
+
     def _get_subordinate_resources(self):
         resources = []
         anchors = self._get_anchors()[1:]
@@ -220,6 +260,12 @@ class AwolBaseParser:
             # title
             title_context = self._get_anchor_ancestor_for_title(a)
             title = clean_string(title_context.get_text())
+
+            # try to extract volume and year
+            try:
+                volume, year = self._grok_analytic_title(title)
+            except TypeError:
+                volume = year = None
 
             # description
             html = u' {0}\n'.format(unicode(title_context))
@@ -259,6 +305,10 @@ class AwolBaseParser:
                 params['language'] = language
             if len(keywords) > 0:
                 params['keywords'] = keywords
+            if volume is not None:
+                params['volume'] = volume
+            if year is not None:
+                params['year'] = year
             resource = self._make_resource(**params)
             resources.append(resource)
         return resources
@@ -266,7 +316,7 @@ class AwolBaseParser:
     def _get_description(self, desc_nodes):
         desc_lines = []
         for desc_node in desc_nodes:
-            if len(desc_node.find_all('a')) > 0:
+            if len(desc_node.find_all('a')) > 1:
                 break
             try:
                 desc_lines.extend(desc_node.get_text('\n').split('\n'))
@@ -315,10 +365,29 @@ class AwolBaseParser:
 
         # description
         c = self.content
-        desc_nodes = c['soup'].find_all('blockquote')
-        if len(desc_nodes) == 0:
-            desc_nodes = [c['soup']]
-        desc_text = self._get_description(desc_nodes)
+        soup = c['soup']
+        first_node = soup.body.contents[0]
+        last_node = None
+        for tag_name in ['blockquote', 'div']:
+            for node in first_node.find_all_next(tag_name):
+                if len(node.get_text().strip()) > 0:
+                    last_node = node
+                    break
+            if last_node is not None:
+                break
+        if last_node is None:
+            first_anchor = first_node.find_next('a')
+            for tag_name in ['hr', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'ul', 'ol', 'p']:
+                last_node = first_anchor.find_next(tag_name)
+        html = u' {0}\n'.format(unicode(first_node))
+        next_node = first_node.next_element
+        while next_node != last_node:
+            html = html + u' {0}\n'.format(unicode(next_node))
+            next_node = next_node.next_element
+        html = html + u' {0}\n'.format(unicode(next_node)) 
+        html = u'<div>\n' + html + u'\n</div>'
+        this_soup = BeautifulSoup(html)
+        desc_text = self._get_description(this_soup)
 
         # parse identifiers
         identifiers = self._parse_identifiers(desc_text)
@@ -354,8 +423,6 @@ class AwolBaseParser:
         resource_fields = sorted([k for k in resource.__dict__.keys() if '_' != k[0]])
         resource.set_provenance(article.id, 'citesAsDataSource', updated, resource_fields)
         resource.set_provenance(article.url, 'citesAsMetadataDocument', updated)
-
-        logger.debug(resource)
 
         return resource
 
@@ -508,12 +575,12 @@ class AwolBaseParser:
                     identifiers[k] = {}
                 for kk in ['electronic', 'generic']:
                     candidates = get_candidates(k, kk, text)
-                    logger.debug('candidates({0},{1}) {2})'.format(k, kk, candidates))
+                    #logger.debug('candidates({0},{1}) {2})'.format(k, kk, candidates))
                     if len(candidates) > 0:
                         identifiers[k][kk] = []
                         for candidate in candidates:
                             extraction = extract(k, candidate)
-                            logger.debug('extraction({0},{1}) {2})'.format(k, kk, extraction))
+                            #logger.debug('extraction({0},{1}) {2})'.format(k, kk, extraction))
                             identifiers[k][kk].append(extraction)
                         if len(identifiers[k][kk]) > 1:
                             identifiers[k][kk] = list(set(identifiers[k][kk]))
@@ -535,7 +602,7 @@ class AwolBaseParser:
                                 identifiers[k]['generic'].remove(ident)
                         if len(identifiers[k]['generic']) == 0:
                             del identifiers[k]['generic']
-        logger.debug("identifiers: {0}".format(identifiers))
+        #logger.debug("identifiers: {0}".format(identifiers))
         return identifiers
 
     def _get_unique_urls(self):
