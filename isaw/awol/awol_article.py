@@ -233,6 +233,10 @@ class AwolArticle(Article):
     def __init__(self, atom_file_name=None, json_file_name=None):
 
         Article.__init__(self, atom_file_name, json_file_name)
+        lt = self.title.lower()
+        if lt in COLON_PREFIXES.keys():
+            if COLON_PREFIXES[lt][0] == 'yes':
+                return None
 
     def parse_atom_resources(self):
         """Extract information about all resources in the post."""

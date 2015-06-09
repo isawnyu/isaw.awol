@@ -50,11 +50,15 @@ class Resource:
 
     def json_dump(self, filename, formatted=False):
         """Dump resource as JSON to a file."""
+        dump = self.__dict__.copy()
+        dump['related_resources'] = [r.url for r in self.related_resources]
+        dump['subordinate_resources'] = [r.url for r in self.subordinate_resources]
         with open(filename, 'w') as f:
             if formatted:
-                json.dump(self.__dict__, f, indent=4, sort_keys=True)
+                json.dump(dump, f, indent=4, sort_keys=True)
             else:
-                json.dump(self.__dict__, f)
+                json.dump(dump, f)
+        del dump
 
     def json_loads(self, s):
         """Parse resource from a UTF-8 JSON string."""
@@ -133,23 +137,30 @@ class Resource:
 
     def __str__(self):
         
+        try:
+            title_extended = self.title_extended
+        except AttributeError:
+            title_extended = None
+
         s = u"""
         title: {title}
+        extended title: {titleextended}
         url: {url}
-        description : {description}
+        description: {description}
         language: {language}
         domain: {domain}
         keywords: {keywords}
         identifiers: {identifiers}
         part of: {partof}
-        volume : {volume}
-        year : {year}
+        volume: {volume}
+        year: {year}
         related resources: {related}
         subordinate resources: {subordinate}
         provenance: {provenance}
         """
         s = s.format(
             title = self.title,
+            titleextended = title_extended,
             url = self.url,
             description = self.description,
             language = self.language,

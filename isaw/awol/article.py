@@ -17,6 +17,7 @@ import unicodedata
 
 from bs4 import BeautifulSoup, UnicodeDammit
 from lxml import etree as exml
+from lxml.etree import XMLSyntaxError as XMLSyntaxError
 
 from isaw.awol.normalize_space import normalize_space
 from isaw.awol.clean_string import purify_html
@@ -93,7 +94,7 @@ class Article():
             raise RuntimeWarning(msg)
             
         else:
-            logger.debug('article title: "{0}"'.format(self.title))
+            logger.debug(u'article title: "{0}"'.format(self.title))
 
         # get url of blog post (html alternate)
         try:
@@ -117,7 +118,12 @@ class Article():
         content = purify_html(content)
         self.content = content
         soup = BeautifulSoup(content)
-        html = exml.fromstring(str(soup))
+        try:
+            html = exml.fromstring(str(soup))
+        except XMLSyntaxError:
+            msg = 'XMLSyntaxError while trying to parse content of {0}'.format(atom_file_name)
+            raise ValueError(msg)
+
         #logger.debug('normalized html:\n\n' + exml.tostring(html, pretty_print=True))
         xsl_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'cleanup.xsl')
         xsl = exml.parse(xsl_path)
@@ -125,7 +131,6 @@ class Article():
         clean_html = transform(html)
         #logger.debug('cleaned html:\n\n' + exml.tostring(clean_html, pretty_print=True))
         self.soup = BeautifulSoup(exml.tostring(clean_html))
-
 
 
     def _load_json(self, json_file_name):

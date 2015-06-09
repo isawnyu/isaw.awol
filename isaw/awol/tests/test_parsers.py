@@ -70,7 +70,7 @@ def test_parsers_generic():
     assert_equals(r.description, u'Il capitale culturale. Studies on the Value of Cultural Heritage ISSN: 2039-2362 (ISSN: 2039-2362) è la rivista del Dipartimento di Beni Culturali dell’Università di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell’arte) unite dal comune obiettivo della implementazione di attività di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.')
     assert_equals(r.language, ('it', 1.0))
     assert_equals(r.domain, 'www.unimc.it')
-    assert_equals(r.keywords, [u'journal', u'culture', u'open access', u'heritage', u'cultural heritage', u'history'])
+    assert_equals(sorted(r.keywords), sorted([u'culture', u'journal', u'cultural heritage', u'open access', u'heritage']))
     assert_equals(r.identifiers, {'issn': {'electronic': [u'2039-2362']}})
     del resources
 
@@ -87,7 +87,7 @@ def test_parsers_persee():
     assert_equals(r.description, u'Archaeonautica eISSN - 2117-6973 Archaeonautica est une collection créée en 1977 par le CNRS et le Ministère de la Culture à l’initiative de Bernard Liou. Publiée par CNRS Edition, le secrétariat de rédaction de la collection est assuré par le Centre Camille Jullian. Le but de la collection est la publication des recherches d’archéologie sous-marines ou, plus généralement, subaquatique, de la Préhistoire à l’époque moderne. Elle est aussi destinée à accueillir des études d’archéologie maritime et d’archéologie navale, d’histoire maritime et d’histoire économique.')
     assert_equals(r.language, ('fr', 1.0))
     assert_equals(r.domain, 'www.persee.fr')
-    assert_equals(r.keywords, [u'CNRS', u'journal', u'culture', u'open access', u'archaeology', u'nautical archaeology'])
+    assert_equals(sorted(r.keywords), sorted([u'journal', u'open access', u'archaeology', u'nautical archaeology']))
     assert_equals(r.identifiers, {'issn': {'electronic': [u'2117-6973']}})
     del resources
 
@@ -98,7 +98,7 @@ def test_parsers_persee():
     r = resources[0]
     assert_equals(r.title, u'Gallia Préhistoire')
     assert_equals(r.url, 'http://www.persee.fr/web/revues/home/prescript/revue/galip')
-    assert_equals(r.description, u'Gallia Préhistoire Créée par le CNRS, la revue Gallia Préhistoire est, depuis plus d’un demi-siècle, la grande revue de l’archéologie nationale, réputée pour la rigueur de ses textes et la qualité de ses illustrations. Gallia Préhistoire publie des articles de synthèse sur les découvertes et les recherches les plus signifiantes dans le domaine de la Préhistoire en France. Son champ chronologique couvre toute la Préhistoire depuis le Paléolithique inférieur jusqu’à la fin de l’-ge du Bronze. Son champ géographique est celui de la France ; cependant, Gallia Préhistoire publie aussi des études traitant des cultures limitrophes.')
+    assert_equals(r.description, u'Gallia Préhistoire Créée par le CNRS, la revue Gallia Préhistoire est, depuis plus d’un demi-siècle, la grande revue de l’archéologie nationale, réputée pour la rigueur de ses textes et la qualité de ses illustrations. Gallia Préhistoire publie des articles de synthèse sur les découvertes et les recherches les plus signifiantes dans le domaine de la Préhistoire en France. Son champ chronologique couvre toute la Préhistoire depuis le Paléolithique inférieur jusqu’à la fin de l’-ge du Bronze. Son champ géographique est celui de la France; cependant, Gallia Préhistoire publie aussi des études traitant des cultures limitrophes.')
     assert_equals(r.language, ('fr', 1.0))
     assert_equals(r.domain, 'www.persee.fr')
     assert_equals(r.keywords, [u'journal', u'open access'])
@@ -107,7 +107,16 @@ def test_parsers_persee():
 @with_setup(setup_function, teardown_function)
 def test_parsers_ascsa():
 
+    logger = logging.getLogger(sys._getframe().f_code.co_name)
     file_name = os.path.join(PATH_TEST_DATA, 'post-akoue.xml')
+    logger.debug('\n\n\n********** FOOOOOOOOOO')
     a = AwolArticle(atom_file_name=file_name)
     parsers = AwolParsers()
     resources = parsers.parse(a)
+    r = resources[0]
+    assert_equals(r.title, u'ákoue News')
+    assert_equals(r.url, 'http://www.ascsa.edu.gr/index.php/publications/newsletter/')
+    assert_equals(r.description, u"ákoue News ákoue News The School's newsletter, ákoue, has become a new, shorter print publication as we transition an increasing number of news articles and stories to the School website. Often there will be links to additional photos or news in the web edition that we haven't room to place in the print edition. Also supplemental articles that did not make it into print will be placed on the newsletter's home page here. The last issue of ákoue had asked for subscribers to notify us of their delivery preference-print or web edition.  If you have do wish to have a print edition mailed to you, please contact us.")
+    assert_equals(r.domain, 'www.ascsa.edu.gr')
+    assert_equals(r.keywords, [u'ASCSA'])
+    assert_equals(len(r.subordinate_resources), 0)

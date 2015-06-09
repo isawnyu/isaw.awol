@@ -20,7 +20,7 @@
     </xsl:template>
     
     <xsl:template match="*[local-name()='br' and count(../*) = 1]"/>
-        
+    <xsl:template match="*[local-name()='a'  and not(@href)]"/>       
     
     <xsl:template match="*[local-name()='img']"/>
     <xsl:template match="*[local-name()='script']"/>

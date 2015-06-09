@@ -48,6 +48,8 @@ class AwolParsers():
         domains = self.get_domains()
         if len(domains) > 1:
             raise NotImplementedError('awol_parsers cannot yet handle multiple domains in a single article: {0}'.format(domains))
+        elif len(domains) == 0:
+            raise NotImplementedError('awol_parsers does not know what to do with no domains in article: {0}'.format(article.id))
         else:
             try:
                 return self.parsers[domains[0]].parse(article)
