@@ -1,31 +1,24 @@
 {
-    "description": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "Each of the following links will take you to a page listing a publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports Archaologische Berichte aus dem Yemen in AMAR Ausgrabungen der Deutschen Orient-Gesellschaft in Babylon in AMAR Ausgrabungen in Sendschirli in AMAR Ausgrabungen in Uruk-Warka: Endberichte in AMAR Beycesultan in AMAR Bogazkoy in AMAR Demircih\u00fcy\u00fck Excavation Reports in AMAR Excavations at Tell Brak in AMAR Excavations at Tepe Yahya, Iran in AMAR Gordion Excavation Reports in AMAR Halabiyya-Zenobia in AMAR Isin - Isan Bahriyat in AMAR Kamid el-Loz in AMAR Larsa Reports in AMAR Mission Arch\u00e9ologique de Mari in AMAR Les Monuments ayyoubides de Damas in AMAR Sardis: publications of the American Society for the excavation of Sardis in AMAR Seleucia on the Tigris in AMAR Ugaritica in AMAR Archaologische Berichte aus dem Yemen in AMAR Ausgrabungen der Deutschen Orient-Gesellschaft in Babylon in AMAR", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:06.676527: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/series-in-amar.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "Amar", 
-        "Mesopotamia", 
-        "archaeological site", 
-        "archaeology", 
-        "archive", 
+        "series", 
         "digital library", 
-        "reports", 
-        "series"
+        "Amar"
     ], 
     "language": [
         "en", 
-        0.999999954997691
+        1.0
     ], 
     "provenance": [
         {
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -33,23 +26,27 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3267095498670794634", 
             "resource_date": "2013-10-23T05:43:02.177-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:06.677141"
+            "when": "2015-06-11T15:03:02.796086"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/series-in-amar.html", 
             "resource_date": "2013-10-23T05:43:02.177-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:06.677148"
+            "when": "2015-06-11T15:03:02.796100"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "Series in AMAR", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

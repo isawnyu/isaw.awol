@@ -1,0 +1,54 @@
+{
+    "description": "Sinuhe-Bibliographie unter Mitarbeit von G\u00fcnther Lapp", 
+    "domain": "aegyptologie.unibas.ch", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Egypt", 
+        "egyptology", 
+        "bibliography"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8808307372866590551", 
+            "resource_date": "2012-01-16T08:43:40.866-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:04:50.401420"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/online-sinuhe-bibliographie.html", 
+            "resource_date": "2012-01-16T08:43:40.866-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:04:50.401436"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://aegyptologie.unibas.ch/seminar/personen/"
+    ], 
+    "title": "Online Sinuhe-Bibliographie", 
+    "url": "http://aegyptologie.unibas.ch/seminar/personen/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

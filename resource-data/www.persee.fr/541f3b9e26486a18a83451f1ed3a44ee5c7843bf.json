@@ -1,48 +1,20 @@
 {
-    "description": "1997 : [ 8 ] 1997 : [ 8 ] 1997 : [ 8 ]", 
+    "description": "1997: [ 8 ] 1997: [ 8 ]", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:21.314977: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "2117-5624", 
+        "title": "Cahiers du Centre Gustave Glotz", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/ccgg"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6859067162907404873", 
-            "resource_date": "2012-11-15T13:02:17.828-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:21.315515"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html", 
-            "resource_date": "2012-11-15T13:02:17.828-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:21.315522"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "8", 
-    "title_extended": "Cahiers du Centre Gustave Glotz: 8", 
+    "title": "1997 : [ 8 ]", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1997_num_8_1", 
+    "volume": "8", 
+    "year": "1997", 
     "zotero_id": null
 }

@@ -1,21 +1,15 @@
 {
-    "description": "Transition to Christianity: Art of Late Antiquity, 3rd \u2013 7th Century AD New York : Alexander S. Onassis Public Benefit Foundation ; Athens : In collaboration with the Byzantine and Christian Museum, \u00a92011. Published in conjunction with the exhibition of the same name, held at the Onassis Cultural Center, New York, December 7, 2011-May 14, 2012. \"Hellenic Ministry of Culture and Tourism.\" Transition to Christianity: Art of Late Antiquity, 3rd \u2013 7th Century AD. contains an introductory essay by Peter Brown, and essays by Fabrizio Bisconti, Kimberly Bowes, Averil Cameron, Slobodan \u0106ur\u010di\u0107, Ja\u015b Elsner, Henry Maguire, Katherine Marsengill, Aristotelis Mentzos, Helen Saradi-Mendelovici, and Ioannis Touratsoglou.", 
+    "description": "Transition to Christianity: Art of Late Antiquity, 3rd \u2013 7th Century AD Transition to Christianity: Art of Late Antiquity, 3rd \u2013 7th Century AD Transition to Christianity: Art of Late Antiquity, 3rd \u2013 7th Century AD New York: Alexander S. Onassis Public Benefit Foundation; Athens: In collaboration with the Byzantine and Christian Museum, \u00a92011.", 
     "domain": "www.onassisusa.org", 
-    "history": [
-        "2015-06-05T03:50:19.549167: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-exhibition-catalogue.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "Athens", 
-        "Byzantium", 
-        "Christianity", 
         "art", 
+        "Christianity", 
         "catalogue", 
-        "collaboration", 
-        "culture", 
+        "late antiquity", 
         "exhibition", 
         "exhibition catalogue", 
-        "late antiquity", 
         "open access"
     ], 
     "language": [
@@ -27,29 +21,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6486890552733462375", 
             "resource_date": "2013-01-08T10:34:38.519-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:19.549844"
+            "when": "2015-06-11T15:04:03.021679"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-exhibition-catalogue.html", 
             "resource_date": "2013-01-08T10:34:38.519-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:19.549853"
+            "when": "2015-06-11T15:04:03.021698"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Transition to Christianity: Art of Late Antiquity, 3rd \u2013 7th Century AD", 
     "url": "http://www.onassisusa.org/transition/ebook/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

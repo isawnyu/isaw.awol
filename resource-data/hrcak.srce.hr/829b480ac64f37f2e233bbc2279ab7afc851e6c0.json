@@ -1,51 +1,20 @@
 {
-    "description": "Vol. 26 No. 26 Vol. 26 No. 26", 
+    "description": null, 
     "domain": "hrcak.srce.hr", 
-    "history": [
-        "2015-06-05T03:50:02.073766: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-povijesni-prilozi.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Croatian", 
-        "antiquity", 
-        "history", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "0351-9767", 
+        "title": "Povijesni prilozi", 
+        "url": "http://hrcak.srce.hr/povijesni-prilozi"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2289439144476944799", 
-            "resource_date": "2013-02-21T10:44:26.227-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:02.074349"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-povijesni-prilozi.html", 
-            "resource_date": "2013-02-21T10:44:26.227-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:02.074358"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Vol. 26 \u00a0 No. 26", 
-    "title_extended": "Povijesni prilozi - Historical Contributions: Vol. 26 \u00a0 No. 26", 
+    "title": "", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2026", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

@@ -1,53 +1,20 @@
 {
     "description": "[ 10-2 ] [ 10-3 ]", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:24.019431: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Pers\u00e9e", 
-        "Syria", 
-        "archaeology", 
-        "art", 
-        "history", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "0039-7946", 
+        "title": "Syria. Arch\u00e9ologie, Art et histoire", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/syria"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-733349865844137791", 
-            "resource_date": "2013-12-07T12:54:56.396-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:24.020140"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2009/08/open.html", 
-            "resource_date": "2013-12-07T12:54:56.396-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:24.020154"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "10-2", 
-    "title_extended": "Syria. Arch\u00e9ologie, Art et histoire: 10-2", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1929_num_10_2", 
+    "volume": "10-2", 
+    "year": "1929", 
     "zotero_id": null
 }

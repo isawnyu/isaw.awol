@@ -1,52 +1,27 @@
 {
-    "description": "Petrie's Photographs of Egypt. Landscape, monuments, people . A database of photographs taken by Flinders Petrie in Egypt in 1886-7. (July 18, 2011) Petrie's Photographs of Egypt. Landscape, monuments, people . A database of photographs taken by Flinders Petrie in Egypt in 1886-7. (July 18, 2011) Petrie's Photographs of Egypt. Landscape, monuments, people", 
+    "description": "Petrie's Photographs of Egypt. Landscape, monuments, people. A database of photographs taken by Flinders Petrie in Egypt in 1886-7. (July 18, 2011) Petrie's Photographs of Egypt. Landscape, monuments, people", 
     "domain": "www.griffith.ox.ac.uk", 
-    "history": [
-        "2015-06-05T03:50:27.473359: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "New from the Griffith Institute", 
+        "url": "http://www.griffith.ox.ac.uk/gri/2.html"
+    }, 
     "keywords": [
         "Egypt", 
-        "Griffith Institute", 
+        "imagery", 
         "data", 
-        "database", 
-        "imagery"
+        "database"
     ], 
     "language": [
         "en", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8094499180810007320", 
-            "resource_date": "2011-07-20T10:19:51.273-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:27.473892"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html", 
-            "resource_date": "2011-07-20T10:19:51.273-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:27.473899"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Petrie's Photographs of Egypt. Landscape, monuments, people", 
     "url": "http://www.griffith.ox.ac.uk/gri/ppoe_opening_page.html", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

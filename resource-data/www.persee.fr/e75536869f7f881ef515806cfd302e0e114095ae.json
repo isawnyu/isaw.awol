@@ -1,49 +1,20 @@
 {
-    "description": "1997 : [ 152 ] 1997 : [ 152 ] 1997 : [ 152 ]", 
+    "description": "1997: [ 152 ] 1997: [ 152 ]", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:04.229319: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "journal", 
-        "numismatics", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "1963-1693", 
+        "title": "Revue Numismatique", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/numi"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2809080792372293247", 
-            "resource_date": "2012-07-09T11:33:23.311-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:04.229933"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html", 
-            "resource_date": "2012-07-09T11:33:23.311-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:04.229941"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "152", 
-    "title_extended": "Revue Numismatique: 152", 
+    "title": "1997 : [ 152 ]", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1997_num_6_152", 
+    "volume": "152", 
+    "year": "1997", 
     "zotero_id": null
 }

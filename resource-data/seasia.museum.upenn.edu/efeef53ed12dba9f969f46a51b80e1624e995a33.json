@@ -1,23 +1,13 @@
 {
-    "description": "Southeast Asian Archaeology Scholarly Website Through funding provided by the The Henry Luce Foundation, Inc., the University of Pennsylvania Museum has created a website for the dissemination of scholarship on the archaeology and anthropology of Southeast Asia. The project currently has two components-- a web-based bibliography and a set of archaeological databases. The bibliography can be searched and selected references exported to the user's word processing or bibliography program. The archaeological databases contain archaeological, biological, and cultural databases as well as data recording forms.", 
+    "description": "Southeast Asian Archaeology Scholarly Website Through funding provided by the The Henry Luce Foundation, Inc., the University of Pennsylvania Museum has created a website for the dissemination of scholarship on the archaeology and anthropology of Southeast Asia. The project currently has two components- a web-based bibliography and a set of archaeological databases. The bibliography can be searched and selected references exported to the user's word processing or bibliography program. The archaeological databases contain archaeological, biological, and cultural databases as well as data recording forms.", 
     "domain": "seasia.museum.upenn.edu", 
-    "history": [
-        "2015-06-05T03:50:32.963772: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/southeast-asian-archaeology-scholarly.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "Asia", 
-        "Pennsylvania", 
+        "website", 
         "Southeast Asia", 
-        "anthropology", 
         "archaeology", 
-        "bibliography", 
-        "culture", 
-        "data", 
-        "database", 
-        "museums", 
-        "project", 
-        "website"
+        "Asia"
     ], 
     "language": [
         "en", 
@@ -28,29 +18,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-978826993832340502", 
             "resource_date": "2013-02-04T11:23:37.831-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:32.964340"
+            "when": "2015-06-11T15:05:00.455313"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/southeast-asian-archaeology-scholarly.html", 
             "resource_date": "2013-02-04T11:23:37.831-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:32.964347"
+            "when": "2015-06-11T15:05:00.455329"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Southeast Asian Archaeology Scholarly Website", 
     "url": "http://seasia.museum.upenn.edu/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

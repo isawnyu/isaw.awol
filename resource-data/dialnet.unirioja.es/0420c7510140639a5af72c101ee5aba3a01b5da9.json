@@ -1,9 +1,6 @@
 {
-    "description": "Revista Numism\u00e1tica OMNI ISSN-e: 2104-8363", 
+    "description": "Revista Numism\u00e1tica OMNI ISSN-e: 2104-8363 Journal table of contents 2012 4 2011 3 2010 2 2009 1 Open Access Ancient Numismatics Journals", 
     "domain": "dialnet.unirioja.es", 
-    "history": [
-        "2015-06-05T03:50:17.125602: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/open-access-journal-revista-numismatica.html. (walk_to_json.py)"
-    ], 
     "identifiers": {
         "issn": {
             "generic": [
@@ -11,23 +8,21 @@
             ]
         }
     }, 
+    "is_part_of": null, 
     "keywords": [
-        "antiquity", 
         "journal", 
+        "open access", 
         "numismatics", 
-        "open access"
+        "antiquity"
     ], 
-    "language": [
-        "sk", 
-        0.9968979827787172
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -35,56 +30,36 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6051825158650478127", 
             "resource_date": "2012-12-29T07:27:24.734-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:17.126186"
+            "when": "2015-06-11T15:03:53.133542"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-revista-numismatica.html", 
             "resource_date": "2012-12-29T07:27:24.734-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:17.126194"
+            "when": "2015-06-11T15:03:53.133559"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "2012", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=19789&clave_busqueda=2012"
-        }, 
-        {
-            "label": "4", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19789&clave_busqueda=314634"
-        }, 
-        {
-            "label": "2011", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=19789&clave_busqueda=2011"
-        }, 
-        {
-            "label": "3", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19789&clave_busqueda=315304"
-        }, 
-        {
-            "label": "2010", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=19789&clave_busqueda=2010"
-        }, 
-        {
-            "label": "2", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19789&clave_busqueda=315303"
-        }, 
-        {
-            "label": "2009", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=19789&clave_busqueda=2009"
-        }, 
-        {
-            "label": "1", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19789&clave_busqueda=315290"
-        }
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=19789&clave_busqueda=2012", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19789&clave_busqueda=314634", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=19789&clave_busqueda=2011", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19789&clave_busqueda=315304", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=19789&clave_busqueda=2010", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19789&clave_busqueda=315303", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=19789&clave_busqueda=2009", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19789&clave_busqueda=315290"
     ], 
     "title": "Revista Numism\u00e1tica OMNI", 
     "url": "http://dialnet.unirioja.es/servlet/revista?codigo=19789", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

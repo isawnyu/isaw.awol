@@ -1,14 +1,10 @@
 {
-    "description": "JOCONDE: CATALOGUE DES COLLECTIONS DES MUSEES DE FRANCE Arch\u00e9ologie, beaux-arts, arts d\u00e9coratifs, ethnologie, histoire, sciences et techniques Constitu\u00e9es au cours des si\u00e8cles, les collections des mus\u00e9es de France sont d'une richesse remarquable. En raison de leur abondance et de leur r\u00e9partition sur l'ensemble du territoire national, elles peuvent \u00eatre parfois difficiles \u00e0 appr\u00e9hender par le public. Aussi le Minist\u00e8re de la culture et de la communication a-t-il entrepris de mettre en \u0153uvre un catalogue collectif des collections significatives des mus\u00e9es de France. Depuis le 10 mars 2004, ce catalogue, auparavant r\u00e9parti en trois bases de donn\u00e9es (Joconde pour les collections de beaux-arts et d'arts d\u00e9coratifs, Arch\u00e9ologie pour les collections d'antiques et arch\u00e9ologiques et Ethnologie pour les collections d'ethnologie europ\u00e9enne et extra-europ\u00e9enne, d'histoire, de sciences et techniques) a \u00e9t\u00e9 r\u00e9uni, pour une parfaite accessibilit\u00e9 aux usagers, en une base unique, \"Joconde\". Cette mise en ligne des collections, expos\u00e9es ou en r\u00e9serves, s'inscrit dans une tradition \u00e9ducative et humaniste assum\u00e9e par les mus\u00e9es depuis leur cr\u00e9ation \u00e0 la fin du 18e si\u00e8cle. Elle r\u00e9sulte \u00e9galement d'une \u00e9tude patiente, syst\u00e9matique et approfondie des collections par les personnels scientifiques des mus\u00e9es. Elle atteste, enfin, la prise en compte des quatre missions permanentes assign\u00e9es aux mus\u00e9es de France par la loi 2002-5 du 4 janvier 2002 : - conserver, restaurer, \u00e9tudier et enrichir leurs collections ; - rendre leurs collections accessibles au public le plus large ; - concevoir et mettre en \u0153uvre des actions d'\u00e9ducation et de diffusion visant \u00e0 assurer l'\u00e9gal acc\u00e8s de tous \u00e0 la culture ; - contribuer aux progr\u00e8s de la connaissance et de la recherche ainsi qu'\u00e0 leur diffusion. La Direction des mus\u00e9es de France souhaite un tr\u00e8s large usage de la base Joconde aux chercheurs, aux amateurs et aux curieux du monde entier et esp\u00e8re qu'elle renouvellera leur d\u00e9sir de venir contempler les \u0153uvres dans les mus\u00e9es de France.", 
+    "description": "JOCONDE: CATALOGUE DES COLLECTIONS DES MUSEES DE FRANCE Arch\u00e9ologie, beaux-arts, arts d\u00e9coratifs, ethnologie, histoire, sciences et techniques Constitu\u00e9es au cours des si\u00e8cles, les collections des mus\u00e9es de France sont d'une richesse remarquable. En raison de leur abondance et de leur r\u00e9partition sur l'ensemble du territoire national, elles peuvent \u00eatre parfois difficiles \u00e0 appr\u00e9hender par le public. Aussi le Minist\u00e8re de la culture et de la communication a-t-il entrepris de mettre en \u0153uvre un catalogue collectif des collections significatives des mus\u00e9es de France. Depuis le 10 mars 2004, ce catalogue, auparavant r\u00e9parti en trois bases de donn\u00e9es (Joconde pour les collections de beaux-arts et d'arts d\u00e9coratifs, Arch\u00e9ologie pour les collections d'antiques et arch\u00e9ologiques et Ethnologie pour les collections d'ethnologie europ\u00e9enne et extra-europ\u00e9enne, d'histoire, de sciences et techniques) a \u00e9t\u00e9 r\u00e9uni, pour une parfaite accessibilit\u00e9 aux usagers, en une base unique, \"Joconde\". Cette mise en ligne des collections, expos\u00e9es ou en r\u00e9serves, s'inscrit dans une tradition \u00e9ducative et humaniste assum\u00e9e par les mus\u00e9es depuis leur cr\u00e9ation \u00e0 la fin du 18e si\u00e8cle. Elle r\u00e9sulte \u00e9galement d'une \u00e9tude patiente, syst\u00e9matique et approfondie des collections par les personnels scientifiques des mus\u00e9es. Elle atteste, enfin, la prise en compte des quatre missions permanentes assign\u00e9es aux mus\u00e9es de France par la loi 2002-5 du 4 janvier 2002: - conserver, restaurer, \u00e9tudier et enrichir leurs collections; - rendre leurs collections accessibles au public le plus large; - concevoir et mettre en \u0153uvre des actions d'\u00e9ducation et de diffusion visant \u00e0 assurer l'\u00e9gal acc\u00e8s de tous \u00e0 la culture; - contribuer aux progr\u00e8s de la connaissance et de la recherche ainsi qu'\u00e0 leur diffusion. La Direction des mus\u00e9es de France souhaite un tr\u00e8s large usage de la base Joconde aux chercheurs, aux amateurs et aux curieux du monde entier et esp\u00e8re qu'elle renouvellera leur d\u00e9sir de venir contempler les \u0153uvres dans les mus\u00e9es de France.", 
     "domain": "www.culture.gouv.fr", 
-    "history": [
-        "2015-06-05T03:50:00.226723: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/joconde-catalogue-des-collections-des.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "archaeology", 
-        "catalogue", 
-        "culture"
+        "catalogue"
     ], 
     "language": [
         "fr", 
@@ -19,29 +15,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1867499215572639104", 
             "resource_date": "2011-06-03T11:32:49.429-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:00.227296"
+            "when": "2015-06-11T15:02:32.147076"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/joconde-catalogue-des-collections-des.html", 
             "resource_date": "2011-06-03T11:32:49.429-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:00.227303"
+            "when": "2015-06-11T15:02:32.147096"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Joconde : catalogue des collections des mus\u00e9es de France", 
     "url": "http://www.culture.gouv.fr/documentation/joconde/fr/pres.htm", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

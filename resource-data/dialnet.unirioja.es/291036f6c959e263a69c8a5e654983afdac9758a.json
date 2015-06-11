@@ -1,48 +1,20 @@
 {
     "description": "66-67", 
     "domain": "dialnet.unirioja.es", 
-    "history": [
-        "2015-06-05T03:50:10.617162: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "0007-9502", 
+        "title": "Caesaraugusta", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=255"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4206419451111757327", 
-            "resource_date": "2013-09-30T11:09:09.925-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:10.617683"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html", 
-            "resource_date": "2013-09-30T11:09:09.925-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:10.617691"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "66-67", 
-    "title_extended": "Caesaraugusta: 66-67", 
     "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=548", 
+    "volume": "66-67", 
+    "year": null, 
     "zotero_id": null
 }

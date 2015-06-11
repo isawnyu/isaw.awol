@@ -1,49 +1,25 @@
 {
-    "description": "No. 134 Summer 1992: EXCAVATIONS AT TELL ES-SWEYHAT IN SYRIA 1989 AND 1991", 
+    "description": "No. 135 Fall 1992: EXCAVATIONS AT GIZA 1988-1991: The Location and Importance of the Pyramid Settlement", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:31.458822: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Oriental Institute News & Notes", 
+        "url": "http://oi.uchicago.edu/research/pubs/nn/"
+    }, 
     "keywords": [
-        "Oriental Institute", 
-        "Syria", 
         "archaeology", 
-        "journal", 
-        "open access"
+        "Giza"
     ], 
-    "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
-            "resource_date": "2013-12-10T13:02:44.344-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:31.459352"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
-            "resource_date": "2013-12-10T13:02:44.344-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:31.459359"
-        }
+    "language": [
+        "en", 
+        1.0
     ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "No. 134 Summer 1992: EXCAVATIONS AT TELL ES-SWEYHAT IN SYRIA 1989 AND 1991", 
-    "url": "http://oi.uchicago.edu/research/pubs/nn/sum92_swe.html", 
+    "title": "No. 135 Fall 1992: EXCAVATIONS AT GIZA 1988-1991: The Location and Importance of the Pyramid Settlement", 
+    "url": "http://oi.uchicago.edu/research/pubs/nn/fal92_giz.html", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

@@ -1,15 +1,10 @@
 {
-    "description": "News from the Griffith Institute 'Iconic images from the tomb of Tutankhamun' is a display of twenty selected photographs by Harry Burton in Art (formerly Green's) Cafe, 14 Bonn Square, Oxford, a popular student meeting place. The list of current archive projects has been updated. (April 18, 2011) Copies of some object cards in Carter's Notebook TAA i.2.7. (April 18, 2011) Two letters from Howard Carter to A. H. Gardiner . (March 22, 2011) An ISAD(G) entry for Charles Gordon Jelf (1886-1915) . (March 11, 2011) A. H. Gardiner's note on a wooden docket found in the tomb of Tutankhamun. (March 11, 2011) Howard Carter's notes on the contents of baskets found in the tomb of Tutankhamun. (March 11, 2011) Scans have been added to the transcripts of Arthur Mace's diaries 1922-3 and 1923-4 . (February 7, 2011)", 
+    "description": "News from the Griffith Institute 'Iconic images from the tomb of Tutankhamun' is a display of twenty selected photographs by Harry Burton in Art (formerly Green's) Cafe, 14 Bonn Square, Oxford, a popular student meeting place. The list of current archive projects has been updated. (April 18, 2011) The list of current archive projects has been updated. (April 18, 2011) Copies of some object cards in Carter's Notebook TAA i.2.7. (April 18, 2011) Copies of some object cards in Carter's Notebook TAA i.2.7. (April 18, 2011) Two letters from Howard Carter to A. H. Gardiner. (March 22, 2011)", 
     "domain": "www.griffith.ox.ac.uk", 
-    "history": [
-        "2015-06-05T03:50:13.547579: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "Griffith Institute", 
-        "archive", 
-        "art", 
-        "imagery"
+        "Griffith Institute"
     ], 
     "language": [
         "en", 
@@ -20,8 +15,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -29,23 +24,36 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4992273992170092691", 
             "resource_date": "2011-04-20T16:01:53.138-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:13.548219"
+            "when": "2015-06-11T15:03:33.222729"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html", 
             "resource_date": "2011-04-20T16:01:53.138-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:13.548228"
+            "when": "2015-06-11T15:03:33.222769"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        "http://www.griffith.ox.ac.uk/gri/4proj.html", 
+        "http://www.griffith.ox.ac.uk/gri/4TAA_i_2_7.html", 
+        "http://www.griffith.ox.ac.uk/gri/4two_letters.html", 
+        "http://www.griffith.ox.ac.uk/gri/4jelf.html", 
+        "http://www.griffith.ox.ac.uk/gri/4docket.html", 
+        "http://www.griffith.ox.ac.uk/gri/4baskets.html", 
+        "http://www.griffith.ox.ac.uk/gri/4macedia1.html", 
+        "http://www.griffith.ox.ac.uk/gri/4macedia2.html"
+    ], 
     "title": "News from the Griffith Institute", 
     "url": "http://www.griffith.ox.ac.uk/gri/2.html", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

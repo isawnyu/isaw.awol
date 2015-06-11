@@ -1,51 +1,22 @@
 {
-    "description": "OIP 23. Medinet Habu, Volume III. The Calendar, the \u201cSlaughterhouse,\u201d and Minor Records of Ramses III. By the Epigraphic Survey. Originally published in 1934.", 
+    "description": "OIP 36. Medinet Habu Graffiti: Facsimiles. Edited by William F. Edgerton. Originally published in 1937.", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:27.981258: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/eleven-additional-volumes-online-at.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Oriental Institute", 
-        "epigraphy"
-    ], 
+    "is_part_of": {
+        "title": "Eleven additional volumes online at the Oriental Institute", 
+        "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip116.html"
+    }, 
+    "keywords": [], 
     "language": [
         "en", 
-        1.0
+        0.9999999999998963
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8201936426642676601", 
-            "resource_date": "2009-09-16T10:34:52.091-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:27.981781"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2009/09/eleven-additional-volumes-online-at.html", 
-            "resource_date": "2009-09-16T10:34:52.091-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:27.981789"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "OIP 23. Medinet Habu, Volume III. The Calendar, the \u201cSlaughterhouse,\u201d and Minor Records of Ramses III", 
-    "title_extended": "OIP 116. Reliefs and Inscriptions at Luxor Temple, Volume 2: The Facade, Portals, Upper Register Scenes, Columns, Marginalia, and Statuary in the Colonnade Hall: OIP 23. Medinet Habu, Volume III. The Calendar, the \u201cSlaughterhouse,\u201d and Minor Records of Ramses III", 
-    "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip23.html", 
+    "title": "OIP 36. Medinet Habu Graffiti: Facsimiles", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip36.html", 
+    "volume": "36", 
+    "year": null, 
     "zotero_id": null
 }

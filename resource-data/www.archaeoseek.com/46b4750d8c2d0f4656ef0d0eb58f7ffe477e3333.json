@@ -1,46 +1,50 @@
 {
-    "description": "ArchaeoSeek: A Social Network for Archaeologists ArchaeoSeek is the place to discuss archaeological issues, sites, excavations, and field schools. Please use your real name to join.", 
+    "description": "ArchaeoSeek: A Social Network for Archaeologists %IMAGEREPLACED%", 
     "domain": "www.archaeoseek.com", 
-    "history": [
-        "2015-06-05T03:50:25.897869: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/09/archaeoseek-social-network-for.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
         "archaeology", 
         "social network"
     ], 
-    "language": [
-        "en", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7684735312244059192", 
             "resource_date": "2012-09-07T14:58:43.604-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:25.898474"
+            "when": "2015-06-11T15:04:28.722205"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/archaeoseek-social-network-for.html", 
             "resource_date": "2012-09-07T14:58:43.604-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:25.898483"
+            "when": "2015-06-11T15:04:28.722220"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        "http://www.archaeoseek.com/"
+    ], 
     "title": "ArchaeoSeek: A Social Network for Archaeologists", 
     "url": "http://www.archaeoseek.com/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

@@ -1,52 +1,24 @@
 {
-    "description": "Ugaritica. VI: publie\u0301 a\u0300 l'occasion de la XXXe campagne de fouilles a\u0300 Ras Shamra (1968)", 
+    "description": "Ugaritica. III: sceaux et cylindres hittites, \u00e9p\u00e9e grav\u00e9e du cartouche de Mineptah, tablettes chypro-minoennes et autres d\u00e9couvertes nouvelles de Ras Shamra", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:12.301711: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Ugaritica in AMAR", 
+        "url": "http://amar.hsclib.sunysb.edu/amar/"
+    }, 
     "keywords": [
-        "Amar", 
-        "Ras Shamra", 
-        "Syria", 
-        "Ugarit", 
-        "archaeology"
+        "Ras Shamra"
     ], 
     "language": [
         "fr", 
-        0.9999999999997053
+        1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4717975320200967161", 
-            "resource_date": "2012-03-02T16:45:40.809-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:12.302464"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html", 
-            "resource_date": "2012-03-02T16:45:40.809-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:12.302475"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Ugaritica. VI: publie\u0301 a\u0300 l'occasion de la XXXe campagne de fouilles a\u0300 Ras Shamra (1968)", 
-    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=117332&REC=6", 
+    "title": "Ugaritica. III : sceaux et cylindres hittites, \u00e9p\u00e9e grav\u00e9e du cartouche de Mineptah, tablettes chypro-minoennes et autres d\u00e9couvertes nouvelles de Ras Shamra", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=33529&REC=3", 
+    "volume": "-", 
+    "year": null, 
     "zotero_id": null
 }

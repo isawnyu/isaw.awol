@@ -1,51 +1,19 @@
 {
     "description": "[ 66-2 ] [ 66-3 ]", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:22.563828: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Belgium", 
-        "classics", 
-        "journal", 
-        "open access", 
-        "philology"
-    ], 
+    "is_part_of": {
+        "title": "Revue belge de Philologie et d'Histoire", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/rbph"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707332784338276556", 
-            "resource_date": "2013-05-21T09:01:08.351-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:22.564353"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html", 
-            "resource_date": "2013-05-21T09:01:08.351-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:22.564361"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "66-2", 
-    "title_extended": "Revue belge de Philologie et d'Histoire: 66-2", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1988_num_66_2", 
+    "volume": "66-2", 
+    "year": "1988", 
     "zotero_id": null
 }

@@ -1,10 +1,8 @@
 {
-    "description": "Brill's new open access policy . What do you make of this?", 
+    "description": "Brill's new open access policy. What do you make of this? None", 
     "domain": "www.brill.nl", 
-    "history": [
-        "2015-06-05T03:49:57.450637: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/brills-new-open-access-policy.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
         "open access"
     ], 
@@ -17,29 +15,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1286159717208896133", 
             "resource_date": "2009-11-04T20:25:44.641-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:49:57.451421"
+            "when": "2015-06-11T15:02:16.405311"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/brills-new-open-access-policy.html", 
             "resource_date": "2009-11-04T20:25:44.641-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:49:57.451436"
+            "when": "2015-06-11T15:02:16.405327"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Brill's new open access policy", 
     "url": "http://www.brill.nl/openaccess", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

@@ -1,16 +1,14 @@
 {
-    "description": "Revue belge de Philologie et d'Histoire La Revue Belge de Philologie et d\u2019Histoire \u2013 Belgisch Tijdschrift voor Filologie en Geschiedenis, fond\u00e9e en 1922, a comme objectifs principaux : 1) de recueillir et de susciter des articles scientifiques originaux dans les domaines de la philologie et de l\u2019histoire ; 2) de publier des articles bibliographiques qui font le point sur des questions philologiques et historiques, des recensions critiques ou comptes rendus d\u2019ouvrages r\u00e9cents ; 3) de publier annuellement (depuis 1953) une Bibliographie de l\u2019histoire de Belgique, travail et instrument de recherche exhaustif.", 
+    "description": "Revue belge de Philologie et d'Histoire La Revue Belge de Philologie et d\u2019Histoire \u2013 Belgisch Tijdschrift voor Filologie en Geschiedenis, fond\u00e9e en 1922, a comme objectifs principaux: 1) de recueillir et de susciter des articles scientifiques originaux dans les domaines de la philologie et de l\u2019histoire; 2) de publier des articles bibliographiques qui font le point sur des questions philologiques et historiques, des recensions critiques ou comptes rendus d\u2019ouvrages r\u00e9cents; 3) de publier annuellement (depuis 1953) une Bibliographie de l\u2019histoire de Belgique, travail et instrument de recherche exhaustif.", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:21.886434: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
         "Belgium", 
-        "classics", 
         "journal", 
-        "open access", 
-        "philology"
+        "classics", 
+        "philology", 
+        "open access"
     ], 
     "language": [
         "fr", 
@@ -21,8 +19,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -30,1236 +28,331 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707332784338276556", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:21.887054"
+            "when": "2015-06-11T15:04:14.662662"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html", 
             "resource_date": "2013-05-21T09:01:08.351-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:21.887062"
+            "when": "2015-06-11T15:04:14.662677"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "1-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1922_num_1_1"
-        }, 
-        {
-            "label": "1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1922_num_1_2"
-        }, 
-        {
-            "label": "1-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1922_num_1_3"
-        }, 
-        {
-            "label": "1-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1922_num_1_4"
-        }, 
-        {
-            "label": "2-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1923_num_2_1"
-        }, 
-        {
-            "label": "2-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1923_num_2_2"
-        }, 
-        {
-            "label": "2-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1923_num_2_3"
-        }, 
-        {
-            "label": "2-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1923_num_2_4"
-        }, 
-        {
-            "label": "3-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1924_num_3_1"
-        }, 
-        {
-            "label": "3-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1924_num_3_2"
-        }, 
-        {
-            "label": "3-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1924_num_3_3"
-        }, 
-        {
-            "label": "3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1924_num_3_4"
-        }, 
-        {
-            "label": "4-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1925_num_4_1"
-        }, 
-        {
-            "label": "4-2-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1925_num_4_2"
-        }, 
-        {
-            "label": "4-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1925_num_4_4"
-        }, 
-        {
-            "label": "5-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1926_num_5_1"
-        }, 
-        {
-            "label": "5-2-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1926_num_5_2"
-        }, 
-        {
-            "label": "5-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1926_num_5_4"
-        }, 
-        {
-            "label": "6-1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1927_num_6_1"
-        }, 
-        {
-            "label": "6-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1927_num_6_3"
-        }, 
-        {
-            "label": "7-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1928_num_7_1"
-        }, 
-        {
-            "label": "7-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1928_num_7_2"
-        }, 
-        {
-            "label": "7-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1928_num_7_3"
-        }, 
-        {
-            "label": "7-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1928_num_7_4"
-        }, 
-        {
-            "label": "8-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1929_num_8_1"
-        }, 
-        {
-            "label": "8-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1929_num_8_2"
-        }, 
-        {
-            "label": "8-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1929_num_8_3"
-        }, 
-        {
-            "label": "8-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1929_num_8_4"
-        }, 
-        {
-            "label": "9-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1930_num_9_1"
-        }, 
-        {
-            "label": "9-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1930_num_9_2"
-        }, 
-        {
-            "label": "9-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1930_num_9_3"
-        }, 
-        {
-            "label": "10-1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1931_num_10_1"
-        }, 
-        {
-            "label": "10-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1931_num_10_3"
-        }, 
-        {
-            "label": "10-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1931_num_10_4"
-        }, 
-        {
-            "label": "11-1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1932_num_11_1"
-        }, 
-        {
-            "label": "11-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1932_num_11_3"
-        }, 
-        {
-            "label": "12-1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1933_num_12_1"
-        }, 
-        {
-            "label": "12-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1933_num_12_3"
-        }, 
-        {
-            "label": "12-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1933_num_12_4"
-        }, 
-        {
-            "label": "13-1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1934_num_13_1"
-        }, 
-        {
-            "label": "13-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1934_num_13_3"
-        }, 
-        {
-            "label": "14-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1935_num_14_1"
-        }, 
-        {
-            "label": "14-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1935_num_14_2"
-        }, 
-        {
-            "label": "14-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1935_num_14_3"
-        }, 
-        {
-            "label": "14-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1935_num_14_4"
-        }, 
-        {
-            "label": "15-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1936_num_15_1"
-        }, 
-        {
-            "label": "15-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1936_num_15_2"
-        }, 
-        {
-            "label": "15-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1936_num_15_3"
-        }, 
-        {
-            "label": "16-1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1937_num_16_1"
-        }, 
-        {
-            "label": "16-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1937_num_16_3"
-        }, 
-        {
-            "label": "17-1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1938_num_17_1"
-        }, 
-        {
-            "label": "17-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1938_num_17_3"
-        }, 
-        {
-            "label": "18-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1939_num_18_1"
-        }, 
-        {
-            "label": "18-2-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1939_num_18_2"
-        }, 
-        {
-            "label": "18-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1939_num_18_4"
-        }, 
-        {
-            "label": "19", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1940_num_19_1"
-        }, 
-        {
-            "label": "20-1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1941_num_20_1"
-        }, 
-        {
-            "label": "20-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1941_num_20_3"
-        }, 
-        {
-            "label": "Table", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1941_tab_1_1"
-        }, 
-        {
-            "label": "21", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1942_num_21_1"
-        }, 
-        {
-            "label": "22-1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1943_num_22_1"
-        }, 
-        {
-            "label": "23", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1944_num_23_1"
-        }, 
-        {
-            "label": "24", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1945_num_24_1"
-        }, 
-        {
-            "label": "25-1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1946_num_25_1"
-        }, 
-        {
-            "label": "25-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1946_num_25_3"
-        }, 
-        {
-            "label": "26-1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1948_num_26_1"
-        }, 
-        {
-            "label": "26-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1948_num_26_3"
-        }, 
-        {
-            "label": "26-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1948_num_26_4"
-        }, 
-        {
-            "label": "27-1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1949_num_27_1"
-        }, 
-        {
-            "label": "27-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1949_num_27_3"
-        }, 
-        {
-            "label": "28-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1950_num_28_1"
-        }, 
-        {
-            "label": "28-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1950_num_28_2"
-        }, 
-        {
-            "label": "28-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1950_num_28_3"
-        }, 
-        {
-            "label": "29-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1951_num_29_1"
-        }, 
-        {
-            "label": "29-2-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1951_num_29_2"
-        }, 
-        {
-            "label": "29-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1951_num_29_4"
-        }, 
-        {
-            "label": "30-1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1952_num_30_1"
-        }, 
-        {
-            "label": "30-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1952_num_30_3"
-        }, 
-        {
-            "label": "31-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1953_num_31_1"
-        }, 
-        {
-            "label": "31-2-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1953_num_31_2"
-        }, 
-        {
-            "label": "31-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1953_num_31_4"
-        }, 
-        {
-            "label": "32-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1954_num_32_1"
-        }, 
-        {
-            "label": "32-2-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1954_num_32_2"
-        }, 
-        {
-            "label": "32-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1954_num_32_4"
-        }, 
-        {
-            "label": "33-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1955_num_33_1"
-        }, 
-        {
-            "label": "33-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1955_num_33_2"
-        }, 
-        {
-            "label": "33-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1955_num_33_3"
-        }, 
-        {
-            "label": "33-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1955_num_33_4"
-        }, 
-        {
-            "label": "34-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1956_num_34_1"
-        }, 
-        {
-            "label": "34-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1956_num_34_2"
-        }, 
-        {
-            "label": "34-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1956_num_34_3"
-        }, 
-        {
-            "label": "34-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1956_num_34_4"
-        }, 
-        {
-            "label": "35-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1957_num_35_1"
-        }, 
-        {
-            "label": "35-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1957_num_35_2"
-        }, 
-        {
-            "label": "35-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1957_num_35_3"
-        }, 
-        {
-            "label": "36-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1958_num_36_1"
-        }, 
-        {
-            "label": "36-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1958_num_36_2"
-        }, 
-        {
-            "label": "36-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1958_num_36_3"
-        }, 
-        {
-            "label": "36-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1958_num_36_4"
-        }, 
-        {
-            "label": "37-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1959_num_37_1"
-        }, 
-        {
-            "label": "37-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1959_num_37_2"
-        }, 
-        {
-            "label": "37-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1959_num_37_3"
-        }, 
-        {
-            "label": "37-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1959_num_37_4"
-        }, 
-        {
-            "label": "38-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1960_num_38_1"
-        }, 
-        {
-            "label": "38-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1960_num_38_2"
-        }, 
-        {
-            "label": "38-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1960_num_38_3"
-        }, 
-        {
-            "label": "38-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1960_num_38_4"
-        }, 
-        {
-            "label": "39-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1961_num_39_1"
-        }, 
-        {
-            "label": "39-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1961_num_39_2"
-        }, 
-        {
-            "label": "39-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1961_num_39_3"
-        }, 
-        {
-            "label": "39-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1961_num_39_4"
-        }, 
-        {
-            "label": "40-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1962_num_40_1"
-        }, 
-        {
-            "label": "40-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1962_num_40_2"
-        }, 
-        {
-            "label": "40-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1962_num_40_3"
-        }, 
-        {
-            "label": "40-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1962_num_40_4"
-        }, 
-        {
-            "label": "41-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1963_num_41_1"
-        }, 
-        {
-            "label": "41-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1963_num_41_2"
-        }, 
-        {
-            "label": "41-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1963_num_41_3"
-        }, 
-        {
-            "label": "41-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1963_num_41_4"
-        }, 
-        {
-            "label": "42-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1964_num_42_1"
-        }, 
-        {
-            "label": "42-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1964_num_42_2"
-        }, 
-        {
-            "label": "42-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1964_num_42_3"
-        }, 
-        {
-            "label": "42-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1964_num_42_4"
-        }, 
-        {
-            "label": "43-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1965_num_43_1"
-        }, 
-        {
-            "label": "43-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1965_num_43_2"
-        }, 
-        {
-            "label": "43-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1965_num_43_3"
-        }, 
-        {
-            "label": "43-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1965_num_43_4"
-        }, 
-        {
-            "label": "44-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1966_num_44_1"
-        }, 
-        {
-            "label": "44-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1966_num_44_2"
-        }, 
-        {
-            "label": "44-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1966_num_44_3"
-        }, 
-        {
-            "label": "44-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1966_num_44_4"
-        }, 
-        {
-            "label": "45-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1967_num_45_1"
-        }, 
-        {
-            "label": "45-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1967_num_45_2"
-        }, 
-        {
-            "label": "45-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1967_num_45_3"
-        }, 
-        {
-            "label": "45-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1967_num_45_4"
-        }, 
-        {
-            "label": "46-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1968_num_46_1"
-        }, 
-        {
-            "label": "46-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1968_num_46_2"
-        }, 
-        {
-            "label": "46-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1968_num_46_3"
-        }, 
-        {
-            "label": "46-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1968_num_46_4"
-        }, 
-        {
-            "label": "47-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1969_num_47_1"
-        }, 
-        {
-            "label": "47-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1969_num_47_2"
-        }, 
-        {
-            "label": "47-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1969_num_47_3"
-        }, 
-        {
-            "label": "47-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1969_num_47_4"
-        }, 
-        {
-            "label": "48-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1970_num_48_1"
-        }, 
-        {
-            "label": "48-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1970_num_48_2"
-        }, 
-        {
-            "label": "48-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1970_num_48_3"
-        }, 
-        {
-            "label": "48-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1970_num_48_4"
-        }, 
-        {
-            "label": "49-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1971_num_49_1"
-        }, 
-        {
-            "label": "49-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1971_num_49_2"
-        }, 
-        {
-            "label": "49-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1971_num_49_3"
-        }, 
-        {
-            "label": "49-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1971_num_49_4"
-        }, 
-        {
-            "label": "50-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1972_num_50_1"
-        }, 
-        {
-            "label": "50-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1972_num_50_2"
-        }, 
-        {
-            "label": "50-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1972_num_50_3"
-        }, 
-        {
-            "label": "50-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1972_num_50_4"
-        }, 
-        {
-            "label": "51-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1973_num_51_1"
-        }, 
-        {
-            "label": "51-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1973_num_51_2"
-        }, 
-        {
-            "label": "51-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1973_num_51_3"
-        }, 
-        {
-            "label": "51-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1973_num_51_4"
-        }, 
-        {
-            "label": "52-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1974_num_52_1"
-        }, 
-        {
-            "label": "52-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1974_num_52_2"
-        }, 
-        {
-            "label": "52-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1974_num_52_3"
-        }, 
-        {
-            "label": "52-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1974_num_52_4"
-        }, 
-        {
-            "label": "53-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1975_num_53_1"
-        }, 
-        {
-            "label": "53-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1975_num_53_2"
-        }, 
-        {
-            "label": "53-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1975_num_53_3"
-        }, 
-        {
-            "label": "53-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1975_num_53_4"
-        }, 
-        {
-            "label": "54-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1976_num_54_1"
-        }, 
-        {
-            "label": "54-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1976_num_54_2"
-        }, 
-        {
-            "label": "54-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1976_num_54_3"
-        }, 
-        {
-            "label": "54-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1976_num_54_4"
-        }, 
-        {
-            "label": "55-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1977_num_55_1"
-        }, 
-        {
-            "label": "55-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1977_num_55_2"
-        }, 
-        {
-            "label": "55-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1977_num_55_3"
-        }, 
-        {
-            "label": "55-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1977_num_55_4"
-        }, 
-        {
-            "label": "56-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1978_num_56_1"
-        }, 
-        {
-            "label": "56-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1978_num_56_2"
-        }, 
-        {
-            "label": "56-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1978_num_56_3"
-        }, 
-        {
-            "label": "56-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1978_num_56_4"
-        }, 
-        {
-            "label": "57-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1979_num_57_1"
-        }, 
-        {
-            "label": "57-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1979_num_57_2"
-        }, 
-        {
-            "label": "57-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1979_num_57_3"
-        }, 
-        {
-            "label": "57-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1979_num_57_4"
-        }, 
-        {
-            "label": "58-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1980_num_58_1"
-        }, 
-        {
-            "label": "58-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1980_num_58_2"
-        }, 
-        {
-            "label": "58-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1980_num_58_3"
-        }, 
-        {
-            "label": "58-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1980_num_58_4"
-        }, 
-        {
-            "label": "59-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1981_num_59_1"
-        }, 
-        {
-            "label": "59-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1981_num_59_2"
-        }, 
-        {
-            "label": "59-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1981_num_59_3"
-        }, 
-        {
-            "label": "59-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1981_num_59_4"
-        }, 
-        {
-            "label": "60-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1982_num_60_1"
-        }, 
-        {
-            "label": "60-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1982_num_60_2"
-        }, 
-        {
-            "label": "60-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1982_num_60_3"
-        }, 
-        {
-            "label": "60-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1982_num_60_4"
-        }, 
-        {
-            "label": "61-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1983_num_61_1"
-        }, 
-        {
-            "label": "61-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1983_num_61_2"
-        }, 
-        {
-            "label": "61-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1983_num_61_3"
-        }, 
-        {
-            "label": "61-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1983_num_61_4"
-        }, 
-        {
-            "label": "62-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1984_num_62_1"
-        }, 
-        {
-            "label": "62-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1984_num_62_2"
-        }, 
-        {
-            "label": "62-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1984_num_62_3"
-        }, 
-        {
-            "label": "62-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1984_num_62_4"
-        }, 
-        {
-            "label": "63-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1985_num_63_1"
-        }, 
-        {
-            "label": "63-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1985_num_63_2"
-        }, 
-        {
-            "label": "63-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1985_num_63_3"
-        }, 
-        {
-            "label": "63-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1985_num_63_4"
-        }, 
-        {
-            "label": "64-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1986_num_64_1"
-        }, 
-        {
-            "label": "64-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1986_num_64_2"
-        }, 
-        {
-            "label": "64-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1986_num_64_3"
-        }, 
-        {
-            "label": "64-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1986_num_64_4"
-        }, 
-        {
-            "label": "65-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1987_num_65_1"
-        }, 
-        {
-            "label": "65-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1987_num_65_2"
-        }, 
-        {
-            "label": "65-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1987_num_65_3"
-        }, 
-        {
-            "label": "65-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1987_num_65_4"
-        }, 
-        {
-            "label": "66-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1988_num_66_1"
-        }, 
-        {
-            "label": "66-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1988_num_66_2"
-        }, 
-        {
-            "label": "66-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1988_num_66_3"
-        }, 
-        {
-            "label": "66-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1988_num_66_4"
-        }, 
-        {
-            "label": "67-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1989_num_67_1"
-        }, 
-        {
-            "label": "67-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1989_num_67_2"
-        }, 
-        {
-            "label": "67-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1989_num_67_3"
-        }, 
-        {
-            "label": "67-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1989_num_67_4"
-        }, 
-        {
-            "label": "68-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1990_num_68_1"
-        }, 
-        {
-            "label": "68-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1990_num_68_2"
-        }, 
-        {
-            "label": "68-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1990_num_68_3"
-        }, 
-        {
-            "label": "68-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1990_num_68_4"
-        }, 
-        {
-            "label": "69-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1991_num_69_1"
-        }, 
-        {
-            "label": "69-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1991_num_69_2"
-        }, 
-        {
-            "label": "69-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1991_num_69_3"
-        }, 
-        {
-            "label": "69-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1991_num_69_4"
-        }, 
-        {
-            "label": "70-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1992_num_70_1"
-        }, 
-        {
-            "label": "70-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1992_num_70_2"
-        }, 
-        {
-            "label": "70-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1992_num_70_3"
-        }, 
-        {
-            "label": "70-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1992_num_70_4"
-        }, 
-        {
-            "label": "71-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1993_num_71_1"
-        }, 
-        {
-            "label": "71-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1993_num_71_2"
-        }, 
-        {
-            "label": "71-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1993_num_71_3"
-        }, 
-        {
-            "label": "71-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1993_num_71_4"
-        }, 
-        {
-            "label": "72-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1994_num_72_1"
-        }, 
-        {
-            "label": "72-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1994_num_72_2"
-        }, 
-        {
-            "label": "72-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1994_num_72_3"
-        }, 
-        {
-            "label": "72-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1994_num_72_4"
-        }, 
-        {
-            "label": "73-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1995_num_73_1"
-        }, 
-        {
-            "label": "73-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1995_num_73_2"
-        }, 
-        {
-            "label": "73", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1995_bib_73_2"
-        }, 
-        {
-            "label": "73-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1995_num_73_3"
-        }, 
-        {
-            "label": "73-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1995_num_73_4"
-        }, 
-        {
-            "label": "74-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1996_num_74_1"
-        }, 
-        {
-            "label": "74-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1996_num_74_2"
-        }, 
-        {
-            "label": "74", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1996_bib_74_2"
-        }, 
-        {
-            "label": "74-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1996_num_74_3"
-        }, 
-        {
-            "label": "75-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1997_num_75_1"
-        }, 
-        {
-            "label": "75-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1997_num_75_2"
-        }, 
-        {
-            "label": "75", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1997_bib_75_2"
-        }, 
-        {
-            "label": "75-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1997_num_75_3"
-        }, 
-        {
-            "label": "75-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1997_num_75_4"
-        }, 
-        {
-            "label": "76-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1998_num_76_1"
-        }, 
-        {
-            "label": "76-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1998_num_76_2"
-        }, 
-        {
-            "label": "76", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1998_bib_76_2"
-        }, 
-        {
-            "label": "76-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1998_num_76_3"
-        }, 
-        {
-            "label": "76-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1998_num_76_4"
-        }, 
-        {
-            "label": "77-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1999_num_77_1"
-        }, 
-        {
-            "label": "77-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1999_num_77_2"
-        }, 
-        {
-            "label": "77", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1999_bib_77_2"
-        }, 
-        {
-            "label": "77-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1999_num_77_3"
-        }, 
-        {
-            "label": "77-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1999_num_77_4"
-        }, 
-        {
-            "label": "78-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2000_num_78_1"
-        }, 
-        {
-            "label": "78-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2000_num_78_2"
-        }, 
-        {
-            "label": "78-Bibl", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2000_bib_78_2"
-        }, 
-        {
-            "label": "78-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2000_num_78_3"
-        }, 
-        {
-            "label": "79-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2001_num_79_1"
-        }, 
-        {
-            "label": "79-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2001_num_79_2"
-        }, 
-        {
-            "label": "79-Bibl", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2001_bib_79_2"
-        }, 
-        {
-            "label": "79-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2001_num_79_3"
-        }, 
-        {
-            "label": "79-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2001_num_79_4"
-        }, 
-        {
-            "label": "80-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2002_num_80_1"
-        }, 
-        {
-            "label": "80-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2002_num_80_2"
-        }, 
-        {
-            "label": "80-Bibl", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2002_bib_80_2"
-        }, 
-        {
-            "label": "80-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2002_num_80_3"
-        }, 
-        {
-            "label": "80-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2002_num_80_4"
-        }, 
-        {
-            "label": "81-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2003_num_81_1"
-        }, 
-        {
-            "label": "81-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2003_num_81_2"
-        }, 
-        {
-            "label": "81-Bibl", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2003_bib_81_2"
-        }, 
-        {
-            "label": "81-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2003_num_81_3"
-        }, 
-        {
-            "label": "81-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2003_num_81_4"
-        }, 
-        {
-            "label": "82-1-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2004_num_82_1"
-        }, 
-        {
-            "label": "82-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2004_num_82_3"
-        }, 
-        {
-            "label": "82-Bibl", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2004_bib_82_2"
-        }, 
-        {
-            "label": "82-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2004_num_82_4"
-        }, 
-        {
-            "label": "83-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2005_num_83_1"
-        }, 
-        {
-            "label": "83-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2005_num_83_2"
-        }, 
-        {
-            "label": "83-Bibl", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2005_bib_83_2"
-        }, 
-        {
-            "label": "83-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2005_num_83_3"
-        }, 
-        {
-            "label": "83-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2005_num_83_4"
-        }, 
-        {
-            "label": "84-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2006_num_84_1"
-        }, 
-        {
-            "label": "84-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2006_num_84_2"
-        }, 
-        {
-            "label": "84-Bibl", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2006_bib_84_2"
-        }, 
-        {
-            "label": "84-3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2006_num_84_3"
-        }, 
-        {
-            "label": "84-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2006_num_84_4"
-        }, 
-        {
-            "label": "85-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2007_num_85_1"
-        }, 
-        {
-            "label": "85-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2007_num_85_2"
-        }, 
-        {
-            "label": "85-3-4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2007_num_85_3"
-        }
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1922_num_1_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1922_num_1_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1922_num_1_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1922_num_1_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1923_num_2_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1923_num_2_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1923_num_2_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1923_num_2_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1924_num_3_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1924_num_3_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1924_num_3_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1924_num_3_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1925_num_4_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1925_num_4_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1925_num_4_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1926_num_5_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1926_num_5_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1926_num_5_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1927_num_6_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1927_num_6_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1928_num_7_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1928_num_7_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1928_num_7_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1928_num_7_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1929_num_8_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1929_num_8_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1929_num_8_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1929_num_8_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1930_num_9_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1930_num_9_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1930_num_9_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1931_num_10_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1931_num_10_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1931_num_10_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1932_num_11_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1932_num_11_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1933_num_12_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1933_num_12_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1933_num_12_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1934_num_13_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1934_num_13_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1935_num_14_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1935_num_14_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1935_num_14_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1935_num_14_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1936_num_15_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1936_num_15_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1936_num_15_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1937_num_16_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1937_num_16_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1938_num_17_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1938_num_17_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1939_num_18_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1939_num_18_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1939_num_18_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1940_num_19_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1941_num_20_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1941_num_20_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1941_tab_1_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1942_num_21_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1943_num_22_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1944_num_23_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1945_num_24_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1946_num_25_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1946_num_25_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1948_num_26_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1948_num_26_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1948_num_26_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1949_num_27_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1949_num_27_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1950_num_28_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1950_num_28_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1950_num_28_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1951_num_29_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1951_num_29_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1951_num_29_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1952_num_30_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1952_num_30_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1953_num_31_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1953_num_31_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1953_num_31_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1954_num_32_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1954_num_32_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1954_num_32_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1955_num_33_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1955_num_33_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1955_num_33_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1955_num_33_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1956_num_34_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1956_num_34_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1956_num_34_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1956_num_34_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1957_num_35_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1957_num_35_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1957_num_35_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1958_num_36_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1958_num_36_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1958_num_36_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1958_num_36_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1959_num_37_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1959_num_37_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1959_num_37_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1959_num_37_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1960_num_38_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1960_num_38_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1960_num_38_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1960_num_38_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1961_num_39_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1961_num_39_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1961_num_39_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1961_num_39_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1962_num_40_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1962_num_40_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1962_num_40_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1962_num_40_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1963_num_41_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1963_num_41_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1963_num_41_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1963_num_41_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1964_num_42_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1964_num_42_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1964_num_42_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1964_num_42_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1965_num_43_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1965_num_43_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1965_num_43_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1965_num_43_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1966_num_44_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1966_num_44_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1966_num_44_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1966_num_44_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1967_num_45_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1967_num_45_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1967_num_45_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1967_num_45_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1968_num_46_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1968_num_46_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1968_num_46_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1968_num_46_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1969_num_47_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1969_num_47_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1969_num_47_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1969_num_47_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1970_num_48_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1970_num_48_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1970_num_48_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1970_num_48_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1971_num_49_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1971_num_49_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1971_num_49_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1971_num_49_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1972_num_50_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1972_num_50_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1972_num_50_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1972_num_50_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1973_num_51_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1973_num_51_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1973_num_51_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1973_num_51_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1974_num_52_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1974_num_52_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1974_num_52_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1974_num_52_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1975_num_53_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1975_num_53_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1975_num_53_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1975_num_53_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1976_num_54_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1976_num_54_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1976_num_54_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1976_num_54_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1977_num_55_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1977_num_55_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1977_num_55_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1977_num_55_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1978_num_56_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1978_num_56_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1978_num_56_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1978_num_56_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1979_num_57_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1979_num_57_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1979_num_57_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1979_num_57_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1980_num_58_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1980_num_58_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1980_num_58_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1980_num_58_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1981_num_59_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1981_num_59_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1981_num_59_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1981_num_59_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1982_num_60_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1982_num_60_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1982_num_60_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1982_num_60_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1983_num_61_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1983_num_61_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1983_num_61_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1983_num_61_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1984_num_62_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1984_num_62_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1984_num_62_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1984_num_62_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1985_num_63_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1985_num_63_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1985_num_63_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1985_num_63_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1986_num_64_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1986_num_64_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1986_num_64_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1986_num_64_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1987_num_65_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1987_num_65_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1987_num_65_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1987_num_65_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1988_num_66_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1988_num_66_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1988_num_66_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1988_num_66_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1989_num_67_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1989_num_67_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1989_num_67_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1989_num_67_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1990_num_68_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1990_num_68_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1990_num_68_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1990_num_68_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1991_num_69_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1991_num_69_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1991_num_69_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1991_num_69_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1992_num_70_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1992_num_70_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1992_num_70_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1992_num_70_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1993_num_71_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1993_num_71_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1993_num_71_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1993_num_71_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1994_num_72_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1994_num_72_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1994_num_72_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1994_num_72_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1995_num_73_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1995_num_73_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1995_bib_73_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1995_num_73_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1995_num_73_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1996_num_74_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1996_num_74_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1996_bib_74_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1996_num_74_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1997_num_75_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1997_num_75_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1997_bib_75_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1997_num_75_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1997_num_75_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1998_num_76_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1998_num_76_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1998_bib_76_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1998_num_76_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1998_num_76_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1999_num_77_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1999_num_77_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1999_bib_77_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1999_num_77_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1999_num_77_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2000_num_78_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2000_num_78_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2000_bib_78_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2000_num_78_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2001_num_79_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2001_num_79_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2001_bib_79_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2001_num_79_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2001_num_79_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2002_num_80_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2002_num_80_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2002_bib_80_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2002_num_80_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2002_num_80_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2003_num_81_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2003_num_81_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2003_bib_81_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2003_num_81_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2003_num_81_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2004_num_82_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2004_num_82_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2004_bib_82_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2004_num_82_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2005_num_83_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2005_num_83_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2005_bib_83_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2005_num_83_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2005_num_83_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2006_num_84_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2006_num_84_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2006_bib_84_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2006_num_84_3", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2006_num_84_4", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2007_num_85_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2007_num_85_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_2007_num_85_3"
     ], 
     "title": "Revue belge de Philologie et d'Histoire", 
     "url": "http://www.persee.fr/web/revues/home/prescript/revue/rbph", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

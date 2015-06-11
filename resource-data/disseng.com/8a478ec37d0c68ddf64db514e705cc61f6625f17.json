@@ -1,0 +1,54 @@
+{
+    "description": "A large catalogue of Russian dissertations is now available online. There is a substantial selection of", 
+    "domain": "disseng.com", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Russian", 
+        "dissertations", 
+        "catalogue"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2315179711154249740", 
+            "resource_date": "2009-05-28T14:55:23.055-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:02:43.573989"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/05/catalogue-of-russian-dissertations.html", 
+            "resource_date": "2009-05-28T14:55:23.055-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:02:43.574006"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://disseng.com/page/cat/pko/281/s/2/st/0.html"
+    ], 
+    "title": "Catalogue of Russian Dissertations", 
+    "url": "http://disseng.com/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

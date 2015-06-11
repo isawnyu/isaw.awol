@@ -1,51 +1,22 @@
 {
-    "description": "46 Cyclopodie - \u00e9dition critique et comment\u00e9e de l\u2019Idylle VI de Th\u00e9ocrite.\u00a02011. 46 Cyclopodie - \u00e9dition critique et comment\u00e9e de l\u2019Idylle VI de Th\u00e9ocrite.\u00a02011.", 
+    "description": "La variation linguistique dans les langues de l\u2019Italie pr\u00e9romaine..\u00a02011. 46 Cyclopodie - \u00e9dition critique et comment\u00e9e de l\u2019Idylle VI de Th\u00e9ocrite.\u00a02011.", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:13.837869: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/10/more-open-access-publications-from.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Mediterranean", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "title": "More Open Access Publications from the Maison de l'Orient et de la M\u00e9diterran\u00e9e", 
+        "url": "http://www.persee.fr/web/ouvrages/home/prescript/issue/mom_0766-0510_1982_sem_3_1"
+    }, 
+    "keywords": [], 
     "language": [
         "fr", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5076299534315044748", 
-            "resource_date": "2012-10-04T10:25:49.941-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:13.838456"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/10/more-open-access-publications-from.html", 
-            "resource_date": "2012-10-04T10:25:49.941-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:13.838464"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Cyclopodie - \u00e9dition critique et comment\u00e9e de l\u2019Idylle VI de Th\u00e9ocrite.\u00a02011", 
-    "title_extended": "L'Homme et l'eau en M\u00e9diterran\u00e9e et au Proche Orient. II: Cyclopodie - \u00e9dition critique et comment\u00e9e de l\u2019Idylle VI de Th\u00e9ocrite.\u00a02011", 
-    "url": "http://www.persee.fr/web/ouvrages/home/prescript/monographie/mom_0151-7015_2011_mon_46_1", 
+    "title": "La variation linguistique dans les langues de l\u2019Italie pr\u00e9romaine", 
+    "url": "http://www.persee.fr/web/ouvrages/home/prescript/issue/mom_0184-1785_2011_act_45_1", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

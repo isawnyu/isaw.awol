@@ -1,48 +1,19 @@
 {
-    "description": "Archa\u0308ologische Berichte aus dem Yemen. Bd. 8: Les fortifications d'Arabie me\u0301ridionale du 7e au 1er sie\u0300cle avant notre e\u0300re", 
+    "description": "%IMAGEREPLACED%", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:31.629565: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Amar", 
-        "Yemen", 
-        "archaeology", 
-        "fortifications"
-    ], 
+    "is_part_of": {
+        "title": "Arch\u00e4ologische Berichte aus dem Yemen in AMAR", 
+        "url": "http://amar.hsclib.sunysb.edu/amar/"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9016964047355295590", 
-            "resource_date": "2012-03-02T16:39:52.240-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:31.630083"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html", 
-            "resource_date": "2012-03-02T16:39:52.240-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:31.630090"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Archa\u0308ologische Berichte aus dem Yemen. Bd", 
-    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=87274&REC=5", 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=84682&REC=3", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

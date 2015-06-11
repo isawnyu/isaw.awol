@@ -1,27 +1,25 @@
 {
-    "description": "Cuadernos de la Fundaci\u00f3n Pastor", 
+    "description": "Cuadernos de la Fundaci\u00f3n Pastor La Fundaci\u00f3n Pastor de Estudios Cl\u00e1sicos es una entidad privada sin \u00e1nimo de lucro de car\u00e1cter ben\u00e9fico-docente, dedicada a promover en Espa\u00f1a los estudios sobre las fuentes greco-romanas de la civilizaci\u00f3n occidental en todos sus aspectos. La escritura de constituci\u00f3n se redact\u00f3 ante notario el 16 de mayo de 1954. La Orden Ministerial que reconoce el car\u00e1cter ben\u00e9fico-docente de la entidad fue aprobada el 21 de diciembre de 1954 y publicada en el Bolet\u00edn Oficial del Estado el 2 de enero de 1955. Sumarios de la revista Accesibles Alojados 2006 2005 2004 2001 2000 1995 1992 1991 1991 (1) 1991 (2) 1990 1989 1986 34 1985 33 1984 32 1983 30 31 1982 28 29 1981 27 1980 24 25 26 1977 22 23 1976 21 1975 19 20 1971 17 18 1969 15 16 1966 13 14 1965 10 11 12 1964 8 9 1963 7 1962 6 1961 2 3 4 5 1958 1", 
     "domain": "dialnet.unirioja.es", 
-    "history": [
-        "2015-06-05T03:49:58.346942: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/10/open-access-journal-cuadernos-de-la.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "Spain", 
-        "classics", 
         "journal", 
-        "open access"
+        "classics", 
+        "open access", 
+        "Spain"
     ], 
     "language": [
         "es", 
-        0.9999999999953244
+        1.0
     ], 
     "provenance": [
         {
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -29,320 +27,102 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1527027278148200731", 
             "resource_date": "2013-12-15T08:15:54.695-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:49:58.347534"
+            "when": "2015-06-11T15:02:22.337609"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-cuadernos-de-la.html", 
             "resource_date": "2013-12-15T08:15:54.695-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:49:58.347541"
+            "when": "2015-06-11T15:02:22.337626"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "2006", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=2006"
-        }, 
-        {
-            "label": "2006", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224020"
-        }, 
-        {
-            "label": "2005", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=2005"
-        }, 
-        {
-            "label": "2005", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224019"
-        }, 
-        {
-            "label": "2004", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=2004"
-        }, 
-        {
-            "label": "2004", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224009"
-        }, 
-        {
-            "label": "2001", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=2001"
-        }, 
-        {
-            "label": "2001", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224004"
-        }, 
-        {
-            "label": "2000", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=2000"
-        }, 
-        {
-            "label": "2000", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224002"
-        }, 
-        {
-            "label": "1995", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1995"
-        }, 
-        {
-            "label": "1995", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224001"
-        }, 
-        {
-            "label": "1992", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1992"
-        }, 
-        {
-            "label": "1992", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223999"
-        }, 
-        {
-            "label": "1991", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1991"
-        }, 
-        {
-            "label": "1991 (1)", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223994"
-        }, 
-        {
-            "label": "1991 (2)", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223995"
-        }, 
-        {
-            "label": "1990", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1990"
-        }, 
-        {
-            "label": "1990", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223993"
-        }, 
-        {
-            "label": "1989", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1989"
-        }, 
-        {
-            "label": "1989", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223991"
-        }, 
-        {
-            "label": "1986", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1986"
-        }, 
-        {
-            "label": "34", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223989"
-        }, 
-        {
-            "label": "1985", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1985"
-        }, 
-        {
-            "label": "33", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223988"
-        }, 
-        {
-            "label": "1984", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1984"
-        }, 
-        {
-            "label": "32", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223983"
-        }, 
-        {
-            "label": "1983", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1983"
-        }, 
-        {
-            "label": "30", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223724"
-        }, 
-        {
-            "label": "31", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223725"
-        }, 
-        {
-            "label": "1982", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1982"
-        }, 
-        {
-            "label": "28", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223721"
-        }, 
-        {
-            "label": "29", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223722"
-        }, 
-        {
-            "label": "1981", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1981"
-        }, 
-        {
-            "label": "27", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223718"
-        }, 
-        {
-            "label": "1980", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1980"
-        }, 
-        {
-            "label": "24", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223712"
-        }, 
-        {
-            "label": "25", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223714"
-        }, 
-        {
-            "label": "26", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223716"
-        }, 
-        {
-            "label": "1977", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1977"
-        }, 
-        {
-            "label": "22", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223706"
-        }, 
-        {
-            "label": "23", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223709"
-        }, 
-        {
-            "label": "1976", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1976"
-        }, 
-        {
-            "label": "21", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223702"
-        }, 
-        {
-            "label": "1975", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1975"
-        }, 
-        {
-            "label": "19", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223697"
-        }, 
-        {
-            "label": "20", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223698"
-        }, 
-        {
-            "label": "1971", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1971"
-        }, 
-        {
-            "label": "17", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223690"
-        }, 
-        {
-            "label": "18", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223694"
-        }, 
-        {
-            "label": "1969", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1969"
-        }, 
-        {
-            "label": "15", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223684"
-        }, 
-        {
-            "label": "16", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223689"
-        }, 
-        {
-            "label": "1966", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1966"
-        }, 
-        {
-            "label": "13", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223677"
-        }, 
-        {
-            "label": "14", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223680"
-        }, 
-        {
-            "label": "1965", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1965"
-        }, 
-        {
-            "label": "10", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223668"
-        }, 
-        {
-            "label": "11", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223671"
-        }, 
-        {
-            "label": "12", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223675"
-        }, 
-        {
-            "label": "1964", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1964"
-        }, 
-        {
-            "label": "8", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223663"
-        }, 
-        {
-            "label": "9", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223666"
-        }, 
-        {
-            "label": "1963", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1963"
-        }, 
-        {
-            "label": "7", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223662"
-        }, 
-        {
-            "label": "1962", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1962"
-        }, 
-        {
-            "label": "6", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223661"
-        }, 
-        {
-            "label": "1961", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1961"
-        }, 
-        {
-            "label": "2", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223650"
-        }, 
-        {
-            "label": "3", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223653"
-        }, 
-        {
-            "label": "4", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223655"
-        }, 
-        {
-            "label": "5", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223658"
-        }, 
-        {
-            "label": "1958", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1958"
-        }, 
-        {
-            "label": "1", 
-            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223648"
-        }
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=2006", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224020", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=2005", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224019", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=2004", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224009", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=2001", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224004", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=2000", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224002", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1995", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=224001", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1992", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223999", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1991", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223994", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223995", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1990", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223993", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1989", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223991", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1986", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223989", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1985", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223988", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1984", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223983", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1983", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223724", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223725", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1982", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223721", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223722", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1981", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223718", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1980", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223712", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223714", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223716", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1977", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223706", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223709", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1976", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223702", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1975", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223697", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223698", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1971", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223690", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223694", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1969", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223684", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223689", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1966", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223677", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223680", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1965", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223668", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223671", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223675", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1964", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223663", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223666", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1963", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223662", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1962", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223661", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1961", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223650", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223653", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223655", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223658", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=13040&claveDeBusqueda=1958", 
+        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223648"
     ], 
     "title": "Cuadernos de la Fundaci\u00f3n Pastor", 
     "url": "http://dialnet.unirioja.es/servlet/revista?codigo=13040", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

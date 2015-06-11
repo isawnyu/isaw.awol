@@ -1,0 +1,57 @@
+{
+    "description": "ATLA Cooperative Digital Resources Initiative The Cooperative Digital Resources Initiative of the American Theological Library Association and Association of Theological Schools is a repository of digital resources contributed by member libraries. The creation of CDRI was made possible by a generous grant from the Henry Luce Foundation; it is now an ongoing ATLA program. The CDRI database provides access to digital images of woodcuts, photographs, slides, papyri, coins, maps, postcards, manuscripts, lithographs, sermons, shape-note tune books, and various forms of Christian art, architecture, and iconography.", 
+    "domain": "www.atla.com", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5041700865425371025", 
+            "resource_date": "2009-12-13T09:09:57.463-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:03:33.702324"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/atla-cooperative-digital-resources.html", 
+            "resource_date": "2009-12-13T09:09:57.463-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:03:33.702340"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.atla.com/digitalresources/#claremont", 
+        "http://www.atla.com/digitalresources/#vanderbilt3", 
+        "http://www.atla.com/digitalresources/#roberts", 
+        "http://www.atla.com/digitalresources/#UTS", 
+        "http://www.atla.com/digitalresources/#midwest", 
+        "http://www.atla.com/digitalresources/#ambrose", 
+        "http://www.atla.com/digitalresources/#poxyutsl", 
+        "http://www.atla.com/digitalresources/#pittsfour"
+    ], 
+    "title": "ATLA Cooperative Digital Resources Initiative", 
+    "url": "http://www.atla.com/digitalresources/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

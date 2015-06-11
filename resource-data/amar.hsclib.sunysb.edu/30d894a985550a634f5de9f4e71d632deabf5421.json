@@ -1,21 +1,13 @@
 {
-    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "Bogazkoy in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports Bogazkoy in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:06.958313: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/bogazkoy-in-amir.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "AWOL", 
-        "Amar", 
-        "Bo\u011fazk\u00f6y", 
-        "Mesopotamia", 
         "Turkey", 
-        "archaeological site", 
+        "Bo\u011fazk\u00f6y", 
         "archaeology", 
-        "archive", 
-        "reports", 
-        "series"
+        "Amar"
     ], 
     "language": [
         "en", 
@@ -26,8 +18,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -35,64 +27,48 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3364285961671530694", 
             "resource_date": "2012-03-02T16:36:15.798-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:06.959596"
+            "when": "2015-06-11T15:03:05.487937"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/bogazkoy-in-amir.html", 
             "resource_date": "2012-03-02T16:36:15.798-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:06.959610"
+            "when": "2015-06-11T15:03:05.487953"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "Die Reliefkeramik von Bog\u030cazko\u0308y: Grabungskampagnen 1906-1912, 1931-1939, 1952-1978", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=87518&REC=1"
-        }, 
-        {
-            "label": "Bog\u0306azko\u0308y: Die Kleinfunde der Grabungen 1906-1912. I. Fund hethitischer Zeit. Mit 43 Tafeln und 30 Abbildungen im Text. Neudruck der Ausg. 1937", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=101794&REC=2"
-        }, 
-        {
-            "label": "Fru\u0308he Keramik von Bog\u030cazko\u0308y", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=107169&REC=3"
-        }, 
-        {
-            "label": "Die hethitische Keramik von Bog\u0306azko\u0308y", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=136079&REC=4"
-        }, 
-        {
-            "label": "Die Glyptik von Bog\u030cazko\u0308y", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=136220&REC=5"
-        }, 
-        {
-            "label": "Bog\u0306azko\u0308y IV: funde aus den Grabungen 1967 und 1968", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=128116&REC=6"
-        }, 
-        {
-            "label": "Bebauung am unteren Bu\u0308yu\u0308kkale-Nordwesthang in Bog\u030cazko\u0308y: Ergebnisse der Untersuchungen der Grabungscampagnen 1960-1963", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106712&REC=7"
-        }, 
-        {
-            "label": "Gefa\u0308ssmarken von Bogazko\u0308y", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=102736&REC=8"
-        }, 
-        {
-            "label": "Bog\u0306azko\u0308y V: funde aus den Grabungen 1970 und 1971", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=156607&REC=9"
-        }, 
-        {
-            "label": "Glyptik aus dem Stadtgebiet von Bog\u0306azko\u0308y: Grabungskampagnen 1931-1939, 1952-1978", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=85749&REC=10"
-        }
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=87518&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=87518&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=101794&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=101794&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=107169&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=107169&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=136079&REC=4", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=136079&REC=4", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=136220&REC=5", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=136220&REC=5", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=128116&REC=6", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=128116&REC=6", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106712&REC=7", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106712&REC=7", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=102736&REC=8", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=102736&REC=8", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=156607&REC=9", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=156607&REC=9", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=85749&REC=10", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=85749&REC=10"
     ], 
-    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "Bogazkoy in AMAR", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

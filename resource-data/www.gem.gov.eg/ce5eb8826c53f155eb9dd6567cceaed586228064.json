@@ -1,25 +1,15 @@
 {
     "description": "The Grand Egyptian Museum The Grand Egyptian Museum holds in trust for Egypt and the World a chronological statement for the ancient history of Egypt over the past 7000 years. Neighboring a timeless wonder, the Giza Pyramids, the new museum is to pay homage to eternal Ancient Egyptian monuments, treasures, and history hosting over 100,000 artifacts, about 3500 of which belong to the famous King Tutankhamen. The design for the Grand Egyptian Museum was reached as a result of an international architectural competition initiated by the Ministry of Culture on January 7th, 2002. The competition was under the patronage of the UNESCO and supervised by the UIA. The museum complex aims to furnish all its visitors with a uniquely enjoyable, educational, and cultural experience. The Grand Egyptian Museum will allow Egypt to become a major worldwide hub for Pharonic history and a must-visit place for Egyptologists. The museum aims at taking grasp of the diversity of Egypt's heritage of monuments and arts needed to be shown in one place in one location to maintain and preserve this huge legacy. The site chosen for the GEM is only 2km from the legendary Pyramids. Nested between the ancient Great Pyramids and the modern city of Cairo, at the junction between dry desert and the fertile floodplain, the Grand Museum is a portal to the past. The Giza plateau Memphis and its Necropolis nominated by UNESCO among the world Cultural Heritage Sites, contains irreplaceable monuments from across time.The museum complex will be built on a plot of land approximately 117 feddans, about 480,000 square meters. With its unique position on the cusp between the past and the present, the Grand Egyptian Museum will lie at the repository for ancient artifacts that creates an interactive experience for the visitor; it will build a bridge between the past and the future.", 
     "domain": "www.gem.gov.eg", 
-    "history": [
-        "2015-06-05T03:50:27.576630: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/the-grand-egyptian-museum-website.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "Cairo", 
+        "website", 
         "Egypt", 
+        "Cairo", 
         "Giza", 
-        "ancient history", 
-        "antiquity", 
-        "competition", 
-        "cultural heritage", 
-        "culture", 
-        "egyptology", 
-        "heritage", 
-        "history", 
-        "monuments", 
         "museums", 
-        "website"
+        "egyptology"
     ], 
     "language": [
         "en", 
@@ -30,29 +20,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8123138273394231262", 
             "resource_date": "2012-11-04T14:53:17.793-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:27.577219"
+            "when": "2015-06-11T15:04:36.999309"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/the-grand-egyptian-museum-website.html", 
             "resource_date": "2012-11-04T14:53:17.793-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:27.577226"
+            "when": "2015-06-11T15:04:36.999325"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "The Grand Egyptian Museum website launched", 
     "url": "http://www.gem.gov.eg/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

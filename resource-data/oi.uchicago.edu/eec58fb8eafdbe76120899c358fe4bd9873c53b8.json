@@ -1,52 +1,24 @@
 {
-    "description": "\"Standard Operating Procedure for the Assyrian Dictionary. I. J. Gelb. Originally published in 1954.\"", 
+    "description": "\"The Sumerians: Their History, Culture, and Character. Samuel Noah Kramer. Originally published in 1963.\" \"Standard Operating Procedure for the Assyrian Dictionary. I. J. Gelb. Originally published in 1954.\"", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:21.063550: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Newly Online from the Oriental Institute's Backlist", 
+        "url": "http://oi.uchicago.edu/research/pubs/catalog/misc/changing_watercourses.html"
+    }, 
     "keywords": [
-        "Assyria", 
-        "Oriental Institute", 
-        "backlist"
+        "Assyria"
     ], 
     "language": [
         "en", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6825955092996191354", 
-            "resource_date": "2013-01-15T05:42:26.919-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:21.064090"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/01/newly-online-from-oriental-institutes.html", 
-            "resource_date": "2013-01-15T05:42:26.919-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:21.064097"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "\"Standard Operating Procedure for the Assyrian Dictionary. I", 
-    "title_extended": "\"Changing Watercourses in Babylonia: Towards a Reconstruction of the Ancient Environment in Lower Mesopotamia Volume 1. Hermann Gasche and Michel Tanret, editors: \"Standard Operating Procedure for the Assyrian Dictionary. I", 
-    "url": "http://oi.uchicago.edu/research/pubs/catalog/misc/cad_operating_procedures.html", 
+    "title": "\"The Sumerians: Their History, Culture, and Character. Samuel Noah Kramer", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/misc/sumerians.html", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

@@ -1,21 +1,14 @@
 {
-    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "Ausgrabungen in Uruk-Warka: Endberichte in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:14.981887: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-uruk-warka-endberichte.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "AWOL", 
-        "Amar", 
-        "Iraq", 
-        "Mesopotamia", 
         "Uruk", 
-        "archaeological site", 
+        "Mesopotamia", 
+        "Iraq", 
         "archaeology", 
-        "archive", 
-        "reports", 
-        "series"
+        "Amar"
     ], 
     "language": [
         "en", 
@@ -26,8 +19,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -35,60 +28,46 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5477920149853260085", 
             "resource_date": "2012-03-02T16:45:02.866-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:14.982489"
+            "when": "2015-06-11T15:03:42.595284"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-uruk-warka-endberichte.html", 
             "resource_date": "2012-03-02T16:45:02.866-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:14.982497"
+            "when": "2015-06-11T15:03:42.595301"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "Ausgrabungen in Uruk-Warka: Endberichte. Band 1: Uruk: Kampagen 38, 1985: Grabungen in J-K/23 und H/24-25", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=94638&REC=1"
-        }, 
-        {
-            "label": "Ausgrabungen in Uruk-Warka: Endberichte. Band 2: Uruk", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=164619&REC=2"
-        }, 
-        {
-            "label": "Ausgrabungen in Uruk-Warka: Endberichte. Band 3: Uruk, die Stratigraphie", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=164740&REC=3"
-        }, 
-        {
-            "label": "Ausgrabungen in Uruk-Warka: Endberichte. Band 17: Uruk: Architektur IV ; supplements", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=124511&REC=4"
-        }, 
-        {
-            "label": "Ausgrabungen in Uruk-Warka: Endberichte. Band 17: Uruk: Architektur IV ; pp. xxxi, 1-164", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=133653&REC=5"
-        }, 
-        {
-            "label": "Ausgrabungen in Uruk-Warka: Endberichte. Band 17: Uruk: Architektur IV ; pp. 165-363", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=133853&REC=6"
-        }, 
-        {
-            "label": "Ausgrabungen in Uruk-Warka: Endberichte. Band 17: Uruk: Architektur IV ; pp. 364-563", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=134275&REC=7"
-        }, 
-        {
-            "label": "Ausgrabungen in Uruk-Warka: Endberichte. Band 17-1: Uruk: Architektur IV ; pp. 564-661 ; plates 1-179", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=134561&REC=8"
-        }, 
-        {
-            "label": "Ausgrabungen in Uruk-Warka: Endberichte. Band 24: Uruk: fru\u0308heste Siegelabrollungen", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=93773&REC=9"
-        }
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=94638&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=94638&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=164619&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=164619&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=164740&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=164740&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=124511&REC=4", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=124511&REC=4", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=133653&REC=5", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=133653&REC=5", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=133853&REC=6", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=133853&REC=6", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=134275&REC=7", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=134275&REC=7", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=134561&REC=8", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=134561&REC=8", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=93773&REC=9", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=93773&REC=9"
     ], 
-    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "Ausgrabungen in Uruk-Warka: Endberichte in AMAR", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

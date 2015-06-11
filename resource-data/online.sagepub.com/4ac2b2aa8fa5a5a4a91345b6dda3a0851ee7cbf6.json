@@ -1,14 +1,12 @@
 {
-    "description": "FREE Online Access to SAGE Theology and Biblical Studies Journals (1st - 30th November, 2012) By registering for this free trial, you will have access to the content of all SAGE Theology and Biblical Studies titles until end of November 2012. Sign up now!", 
+    "description": "FREE Online Access to SAGE Theology and Biblical Studies Journals (1st - 30th November, 2012) FREE Online Access to SAGE Theology and Biblical Studies Journals (1st - 30th November, 2012)", 
     "domain": "online.sagepub.com", 
-    "history": [
-        "2015-06-05T03:50:12.124587: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/free-online-access-to-sage-theology-and.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "bible", 
-        "journal", 
         "religion", 
+        "journal", 
+        "bible", 
         "theology"
     ], 
     "language": [
@@ -20,29 +18,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4653288864754715585", 
             "resource_date": "2012-11-09T09:25:57.171-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:12.125521"
+            "when": "2015-06-11T15:03:27.342470"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/free-online-access-to-sage-theology-and.html", 
             "resource_date": "2012-11-09T09:25:57.171-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:12.125534"
+            "when": "2015-06-11T15:03:27.342485"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "FREE Online Access to SAGE Theology and Biblical Studies Journals in November 2012", 
     "url": "https://online.sagepub.com/cgi/register?registration=FTTEOEMAYY&utm_source=eNewsletter&utm_medium=email&utm_term=Nov-12&utm_content=online&utm_campaign=2H23&priorityCode=2H23", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

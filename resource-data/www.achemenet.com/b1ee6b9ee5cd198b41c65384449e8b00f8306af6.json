@@ -1,0 +1,54 @@
+{
+    "description": "Briant, Pierre Bulletin d'histoire ach\u00e9m\u00e9nide I Bulletin d'histoire ach\u00e9m\u00e9nide II (1997-2000)", 
+    "domain": "www.achemenet.com", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "journal", 
+        "bibliography", 
+        "Achaemenids"
+    ], 
+    "language": [
+        "fr", 
+        0.999999999913366
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6770202871016792463", 
+            "resource_date": "2012-07-26T16:23:06.000-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:04:10.712045"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/bulletin-dhistoire-achemenide-online.html", 
+            "resource_date": "2012-07-26T16:23:06.000-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:04:10.712061"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.achemenet.com/document/Briant_BhachII.pdf"
+    ], 
+    "title": "Bulletin d'histoire ach\u00e9m\u00e9nide Online", 
+    "url": "http://www.achemenet.com/pdf/bhachI/bhach1.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,50 +1,20 @@
 {
     "description": "3", 
     "domain": "dialnet.unirioja.es", 
-    "history": [
-        "2015-06-05T03:50:03.931554: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/ope-access-journal-res-publica.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Spain", 
-        "classics", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "1699-7840", 
+        "title": "RES PUBLICA LITTERARUM", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=13109"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2779907104128032722", 
-            "resource_date": "2013-11-05T10:20:28.501-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:03.932637"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/04/ope-access-journal-res-publica.html", 
-            "resource_date": "2013-11-05T10:20:28.501-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:03.932651"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "3", 
-    "title_extended": "RES PUBLICA LITTERARUM: Documentos de Trabajo del grupo de investigaci\u00f3n 'Nomos': 3", 
     "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=225033", 
+    "volume": "3", 
+    "year": "1234", 
     "zotero_id": null
 }

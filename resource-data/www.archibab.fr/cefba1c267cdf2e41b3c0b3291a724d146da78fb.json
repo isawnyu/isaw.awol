@@ -1,0 +1,50 @@
+{
+    "description": "ARCHIBAB Archives babyloniennes (XXe-XVIIe si\u00e8cles av. J.C.) Actualit\u00e9s Juin 2012 Nouvelles recherches:Depuis le d\u00e9but du mois de mai 2012, nous sommes pass\u00e9s \u00e0 la phase 4 du d\u00e9veloppement. La principale nouveaut\u00e9 est de donner acc\u00e8s aux mots et aux noms par leur entr\u00e9e de dictionnaire ou leur transcription (et plus seulement par la translitt\u00e9ration [\u00ab cha\u00eene de caract\u00e8res \u00bb]). Cela n\u00e9cessite une \u00e9tape suppl\u00e9mentaire dans le traitement des textes mis en ligne: la \u00ab lemmatisation \u00bb des textes permet au programme de reconna\u00eetre de mani\u00e8re semi-automatique les mots et noms, quelle que soit leur graphie. Il peut ainsi distinguer les homonymes (m-tum \u00ab pays \u00bb et m-tum \u00ab mourir \u00bb ou Belum [NP] et b\u00ealum \u00ab seigneur \u00bb).", 
+    "domain": "www.archibab.fr", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-605257864684977503", 
+            "resource_date": "2012-07-05T10:17:10.783-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:03:53.208487"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/archibab-update.html", 
+            "resource_date": "2012-07-05T10:17:10.783-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:03:53.208504"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.archibab.fr/actu.pdf"
+    ], 
+    "title": "ARCHIBAB Update", 
+    "url": "http://www.archibab.fr/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

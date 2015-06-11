@@ -1,0 +1,55 @@
+{
+    "description": "The online catalogue of the Oriental Institute Research Archives contains entries for materials catalogued in the library since 1987, and complete analytics (essays, articles and book reviews) for materials catalogued since 1990. The catalogue also includes earlier materials, and retrospective cataloguing of the entire collection will ultimately make all Research Archives materials accessible. At present, the Research Archives on-line catalogue contains well over two hundred thousand entries, searchable through a library database program.", 
+    "domain": "oilib.uchicago.edu", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "catalogue", 
+        "research archives", 
+        "OPACs", 
+        "Oriental Institute"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7921796352348209299", 
+            "resource_date": "2009-01-22T14:07:05.143-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:04:33.710092"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/01/oriental-institute-research-archives.html", 
+            "resource_date": "2009-01-22T14:07:05.143-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:04:33.710109"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://oilib.uchicago.edu/libdocs/images/Archives_72dpi.gif"
+    ], 
+    "title": "Oriental Institute Research Archives Catalogue Online", 
+    "url": "http://oilib.uchicago.edu/cgi-bin/opac/login?library=ARCHIVES&checkbox=checkbox", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

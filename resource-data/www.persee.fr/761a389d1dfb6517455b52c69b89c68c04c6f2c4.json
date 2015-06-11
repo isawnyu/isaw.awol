@@ -1,10 +1,8 @@
 {
     "description": "Cahiers d'Extr\u00eame-Asie \"Les Cahiers d\u2019Extr\u00eame-Asie, fond\u00e9s en 1985 par Anna Seidel et Hubert Durt, est une revue bilingue (fran\u00e7ais-anglais) sp\u00e9cialis\u00e9e dans les domaines des sciences religieuses et de l\u2019histoire intellectuelle de l\u2019Asie orientale. Chaque num\u00e9ro est un num\u00e9ro th\u00e9matique abordant des questions relatives aux religions de l\u2019Asie orientale. Les sujets abord\u00e9s couvrent un champ qui va depuis le tao\u00efsme et les religions de la Chine ancienne, au chamanisme cor\u00e9en en passant par les diverses \u00e9coles du bouddhisme chinois et japonais et plus r\u00e9cemment \u00e0 l\u2019histoire intellectuelle du Tibet.\"", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:12.160462: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/03/open-access-journal-cahiers-dextreme.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
         "journal", 
         "open access"
@@ -18,8 +16,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -27,60 +25,37 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4676912179062103289", 
             "resource_date": "2010-03-26T11:47:02.378-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:12.161015"
+            "when": "2015-06-11T15:03:27.483720"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/03/open-access-journal-cahiers-dextreme.html", 
             "resource_date": "2010-03-26T11:47:02.378-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:12.161023"
+            "when": "2015-06-11T15:03:27.483736"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1985_num_1_1"
-        }, 
-        {
-            "label": "2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1986_num_2_1"
-        }, 
-        {
-            "label": "3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1987_num_3_1"
-        }, 
-        {
-            "label": "4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1988_num_4_1"
-        }, 
-        {
-            "label": "5", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1989_num_5_1"
-        }, 
-        {
-            "label": "6", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1991_num_6_1"
-        }, 
-        {
-            "label": "7", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1993_num_7_1"
-        }, 
-        {
-            "label": "8", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1995_num_8_1"
-        }, 
-        {
-            "label": "9", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1996_num_9_1"
-        }
+        "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1985_num_1_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1986_num_2_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1987_num_3_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1988_num_4_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1989_num_5_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1991_num_6_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1993_num_7_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1995_num_8_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/asie_0766-1177_1996_num_9_1"
     ], 
-    "title": "Cahiers d'Extr\u00eame-Asie", 
+    "title": "Open Access Journal : Cahiers d'Extr\u00eame-Asie", 
     "url": "http://www.persee.fr/web/revues/home/prescript/revue/asie", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

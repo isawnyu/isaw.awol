@@ -1,48 +1,22 @@
 {
-    "description": "No. 138 Summer 1993: BIR UMM FAWAKHIR: 1993 Survet Project", 
+    "description": "No. 140 Winter 1994: MANAGING METALS: AN EARLY BRONZE AGE TIN PRODUCTION SITE AT G\u00d6LTEPE, TURKEY", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:31.442157: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Oriental Institute News & Notes", 
+        "url": "http://oi.uchicago.edu/research/pubs/nn/"
+    }, 
     "keywords": [
-        "Oriental Institute", 
-        "journal", 
-        "open access", 
-        "project"
+        "Turkey", 
+        "bronze"
     ], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
-            "resource_date": "2013-12-10T13:02:44.344-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:31.442676"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
-            "resource_date": "2013-12-10T13:02:44.344-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:31.442683"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "No. 138 Summer 1993: BIR UMM FAWAKHIR: 1993 Survet Project", 
-    "url": "http://oi.uchicago.edu/research/pubs/nn/sum93_faw.html", 
+    "title": "No. 140 Winter 1994: MANAGING METALS: AN EARLY BRONZE AGE TIN PRODUCTION SITE AT G\u00d6LTEPE, TURKEY", 
+    "url": "http://oi.uchicago.edu/research/pubs/nn/win94_gol.html", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

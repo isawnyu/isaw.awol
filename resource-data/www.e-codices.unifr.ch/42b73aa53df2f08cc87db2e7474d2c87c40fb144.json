@@ -1,0 +1,63 @@
+{
+    "description": "E-Codices Newsletter Virtual Manuscript Library of Switzerland", 
+    "domain": "www.e-codices.unifr.ch", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "journal", 
+        "open access", 
+        "digital library", 
+        "Switzerland", 
+        "newsletter", 
+        "manuscripts"
+    ], 
+    "language": [
+        "en", 
+        0.999999996835091
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-159520879299723537", 
+            "resource_date": "2012-11-06T09:36:13.079-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:02:25.940546"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-e-codices-newsletter.html", 
+            "resource_date": "2012-11-06T09:36:13.079-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:02:25.940561"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.e-codices.unifr.ch/newsletter/archive/issue-01.htm", 
+        "http://www.e-codices.unifr.ch/newsletter/archive/issue-02.htm", 
+        "http://www.e-codices.unifr.ch/newsletter/archive/issue-03.htm", 
+        "http://www.e-codices.unifr.ch/newsletter/archive/issue-04.htm", 
+        "http://www.e-codices.unifr.ch/newsletter/archive/issue-05.htm", 
+        "http://www.e-codices.unifr.ch/newsletter/archive/issue-06.htm", 
+        "http://www.e-codices.unifr.ch/newsletter/archive/issue-07.htm"
+    ], 
+    "title": "E-Codices Newsletter", 
+    "url": "http://www.e-codices.unifr.ch/en/news/newsletter", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

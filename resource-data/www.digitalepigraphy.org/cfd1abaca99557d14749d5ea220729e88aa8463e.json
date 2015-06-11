@@ -1,21 +1,12 @@
 {
     "description": "Digital Epigraphy and Archaeology Project DEA is an interdisciplinary project initiated by scientists from the Digital Worlds Institute and the Department of Classics at the University of Florida. The goal of the project is to develop new open-access scientific tools for the Humanities and apply concepts from digital and interactive media and computer science to Archaeology and Classics. In our web-site you can find interactive demos of our projects, read about our recent results, and learn more about our future research directions. Bringing together Digital Media, Science, and the Humanities. Digital Epigraphy Toolbox A scientific tool for the effective study and dissemination of ancient inscriptions. Virtual Museum of World Heritage A virtual interactive 3D museum, featuring significant world-heritage exhibits. Interactive Classical Theater An experiential learning tool for classical drama, using augmented reality technology.", 
     "domain": "www.digitalepigraphy.org", 
-    "history": [
-        "2015-06-05T03:50:15.842867: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2014/01/digital-epigraphy-and-archaeology.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "antiquity", 
-        "archaeology", 
-        "classics", 
         "epigraphy", 
-        "heritage", 
-        "museums", 
         "project", 
-        "science", 
-        "theater", 
-        "tools"
+        "archaeology"
     ], 
     "language": [
         "en", 
@@ -26,29 +17,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5750053138839212664", 
             "resource_date": "2014-01-05T17:53:07.690-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:15.843462"
+            "when": "2015-06-11T15:03:46.678205"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/digital-epigraphy-and-archaeology.html", 
             "resource_date": "2014-01-05T17:53:07.690-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:15.843470"
+            "when": "2015-06-11T15:03:46.678221"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Digital Epigraphy and Archaeology Project", 
     "url": "http://www.digitalepigraphy.org/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

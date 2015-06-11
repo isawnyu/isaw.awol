@@ -1,51 +1,27 @@
 {
-    "description": "Excavations at Tell Brak. v. 2: Nagar in the third millennuium BC", 
+    "description": "Excavations at Tell Brak. v. 1: The Mitanni and Old Babylonian periods", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:16.894700: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/excavations-at-tell-brak-in-amar.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Excavations at Tell Brak in AMAR", 
+        "url": "http://amar.hsclib.sunysb.edu/amar/"
+    }, 
     "keywords": [
-        "Amar", 
-        "Syria", 
         "Tell Brak", 
-        "archaeology"
+        "Babylon", 
+        "archaeology", 
+        "Old Babylonian"
     ], 
     "language": [
         "en", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6014684559764687998", 
-            "resource_date": "2012-03-02T16:38:35.594-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:16.895221"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tell-brak-in-amar.html", 
-            "resource_date": "2012-03-02T16:38:35.594-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:16.895228"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Excavations at Tell Brak. v. 2: Nagar in the third millennuium BC", 
-    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=40913&REC=2", 
+    "title": "Excavations at Tell Brak. v. 1: The Mitanni and Old Babylonian periods", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=56230&REC=1", 
+    "volume": "1", 
+    "year": null, 
     "zotero_id": null
 }

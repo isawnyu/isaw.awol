@@ -1,0 +1,55 @@
+{
+    "description": "DigilibLT: Biblioteca digitale di testi latini tardoantichi - Digital library of late-antique latin texts %IMAGEREPLACED% Il progetto digilibLT fornisce un canone degli autori e delle opere tardoantichi e un database di testi, completo e chiaro nell\u2019indicazione delle edizioni adottate come riferimento e degli interventi editoriali eventualmente operati su di essi, di libera e gratuita consultazione online. Le maschere di consultazione consentono ricerche testuali sull\u2019insieme dei testi, su loro raggruppamenti (per autore, per epoca, per tipologia testuale), oltre che per singoli autori e opere. I testi sono anche resi disponibili al download, in modo che ogni studioso possa scaricare le opere di suo interesse e lavorare su di esse per le proprie ricerche con la massima flessibilit\u00e0. I testi sono codificati sia secondo lo standard TEI, sia secondo lo standard Beta coding, cos\u00ec da permetterne l'uso con i programmi diffusi per l'interrogazione dei cdrom del TLG e del PHI. Il sito si completa con schede illustrative di autori e opere, bibliografie degli studi e schede catalografiche, opere su autori tardoantichi in pdf. [R.Tabacco] The digilibLT projects is planning to offer a complete database of late-antique Latin authors and works, as well as an exhaustive canon. Access to the canon and the database is free. Search windows are designed to allow users to search either the entire collection of texts or a selection of them (by author, period, or type of text) or single authors and works. Texts can be downloaded freely, which will allow individual scholars to work on their areas of interest with maximum flexibility. Texts are codified according both to the TEI and the Beta coding standard; this allows users to search the texts with the software resources they normally use for searching the TLG and PHI databases on CD-ROM. The canon lists the critical editions on which the digital text is based; if the case, it also lists deviations from the critical text. The website also includes short entries on late-antique authors and works, bibliographies, and canon entries. [R.Tabacco; tr.\u00a0L. Battezzato]", 
+    "domain": "digiliblt.lett.unipmn.it", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Latin", 
+        "digital library"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "title_extended", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3552384657348574246", 
+            "resource_date": "2012-01-03T09:37:25.627-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:03:08.480785"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/digital-library-of-late-antique-latin.html", 
+            "resource_date": "2012-01-03T09:37:25.627-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:03:08.480799"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://digiliblt.lett.unipmn.it/img/logo_digiliblt.jpg"
+    ], 
+    "title": "Digital library of late-antique latin texts", 
+    "title_extended": "DigilibLT: Biblioteca digitale di testi latini tardoantichi - Digital library of late-antique latin texts", 
+    "url": "http://digiliblt.lett.unipmn.it/index.php", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

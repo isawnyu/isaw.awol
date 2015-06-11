@@ -1,0 +1,70 @@
+{
+    "description": "Muzeul Na\u0163ional de Istorie a Rom-niei Periodice", 
+    "domain": "www.mnir.ro", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Romania", 
+        "digital library"
+    ], 
+    "language": [
+        "ro", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-594967432813277624", 
+            "resource_date": "2011-08-26T09:35:12.748-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:03:51.162595"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/digital-library-muzeul-national-de.html", 
+            "resource_date": "2011-08-26T09:35:12.748-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:03:51.162610"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.mnir.ro/ro/Publicatii/ItemsPeriodice.aspx?IDPeriodic=1", 
+        "http://www.mnir.ro/ro/Publicatii/ItemsPeriodice.aspx?IDPeriodic=2", 
+        "http://www.mnir.ro/ro/Publicatii/ItemsPeriodice.aspx?IDPeriodic=3", 
+        "http://www.mnir.ro/ro/Publicatii/Monografii.aspx", 
+        "http://www.mnir.ro/ro/Publicatii/Monografie.aspx?IDMonografie=7", 
+        "http://www.mnir.ro/ro/Publicatii/Monografie.aspx?IDMonografie=7", 
+        "http://www.mnir.ro/ro/Publicatii/TezeDoctorat.aspx", 
+        "http://www.mnir.ro/ro/Publicatii/Teza.aspx?IDTeza=7", 
+        "http://www.mnir.ro/ro/Publicatii/Teza.aspx?IDTeza=6", 
+        "http://www.mnir.ro/ro/Publicatii/Teza.aspx?IDTeza=4", 
+        "http://www.mnir.ro/ro/Publicatii/Teza.aspx?IDTeza=5", 
+        "http://www.mnir.ro/ro/Publicatii/Rapoarte.aspx", 
+        "http://www.mnir.ro/ro/Publicatii/Raport.aspx?IDRaport=1", 
+        "http://www.mnir.ro/ro/Publicatii/Raport.aspx?IDRaport=1", 
+        "http://www.mnir.ro/ro/Publicatii/Raport.aspx?IDRaport=2", 
+        "http://www.mnir.ro/ro/Publicatii/Raport.aspx?IDRaport=2", 
+        "http://www.mnir.ro/ro/Publicatii/Raport.aspx?IDRaport=3", 
+        "http://www.mnir.ro/ro/Publicatii/Raport.aspx?IDRaport=3"
+    ], 
+    "title": "Muzeul Na\u0163ional de Istorie a Rom\u00e2niei", 
+    "url": "http://www.mnir.ro/ro/Publicatii/Periodice.aspx", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

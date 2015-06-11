@@ -1,47 +1,19 @@
 {
-    "description": "Spring (#145)", 
+    "description": "Winter (#144) Spring (#145)", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:30.990616: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Oriental Institute", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "title": "Oriental Institute News & Notes", 
+        "url": "http://oi.uchicago.edu/research/pubs/nn/"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
-            "resource_date": "2013-12-10T13:02:44.344-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:30.991125"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
-            "resource_date": "2013-12-10T13:02:44.344-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:30.991132"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Spring (#145)", 
-    "url": "http://oi.uchicago.edu/pdf/nn145.pdf", 
+    "title": "Winter (#144)", 
+    "url": "http://oi.uchicago.edu/pdf/nn144.pdf", 
+    "volume": "144", 
+    "year": null, 
     "zotero_id": null
 }

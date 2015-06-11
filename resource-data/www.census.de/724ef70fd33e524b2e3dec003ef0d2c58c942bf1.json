@@ -1,0 +1,68 @@
+{
+    "description": "Census of Antique Works of Art and Architecture Known in the Renaissance Der ist eine interdisziplin\u00e4re Forschungsdatenbank, die einem zentralen Problemfeld der Renaissanceforschung, der Antikenrezeption, gewidmet ist. Erfasst werden die in der Renaissance bekannten antiken Monumente mit den zugeh\u00f6rigen bildlichen und schriftlichen Renaissancedokumenten und Orts-, Personen- und Zeitangaben sowie Abbildungen und bibliographischen Daten. Als Forschungsinstrument richtet sich der Census nicht nur an die F\u00e4cher Kunstgeschichte und Arch\u00e4ologie, sondern an alle am Nachleben der Antike interessierten Disziplinen.", 
+    "domain": "www.census.de", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Renaissance", 
+        "art", 
+        "architecture", 
+        "reception", 
+        "antiquity"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7394410318840146712", 
+            "resource_date": "2013-01-28T17:03:08.705-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:04:21.085209"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-database-census-of-antique.html", 
+            "resource_date": "2013-01-28T17:03:08.705-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:04:21.085224"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.census.de/census", 
+        "http://www.census.de/census/the-project", 
+        "http://www.census.de/census/corpus-winckelmann-1", 
+        "http://www.census.de/census/translatio-nummorum-en", 
+        "http://www.census.de/census/corpus-medii-aevi-1", 
+        "http://www.census.de/census/search", 
+        "http://www.census.de/census/help-1", 
+        "http://www.census.de/census/geocensus-1", 
+        "http://www.census.de/census/pegasus", 
+        "http://www.census.de/census/staff", 
+        "http://www.census.de/census/contact", 
+        "http://www.census.de/census/get-login", 
+        "http://www.census.de/census/201etranslatio-nummorum-2013-die-ersten-zwolf-caesaren-in-der-renaissance201c"
+    ], 
+    "title": "Census of Antique Works of Art and Architecture Known in the Renaissance", 
+    "url": "http://www.census.de/census", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

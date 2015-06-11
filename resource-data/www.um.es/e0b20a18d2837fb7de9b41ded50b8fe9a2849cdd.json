@@ -1,0 +1,55 @@
+{
+    "description": "Elamita por Enrique Quintana Direcci\u00f3n, transcripci\u00f3n y traducci\u00f3n por Enrique Quintana Cifuentes.", 
+    "domain": "www.um.es", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Elamite", 
+        "cuneiform", 
+        "Iran"
+    ], 
+    "language": [
+        "es", 
+        0.9999999751518334
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8582494567953927210", 
+            "resource_date": "2013-11-22T11:55:11.463-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:04:45.798760"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/11/elamita-por-enrique-quintana.html", 
+            "resource_date": "2013-11-22T11:55:11.463-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:04:45.798775"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.um.es/cepoat/cuneiforme/elamita/otrosdatos/curriculum.html", 
+        "http://www.um.es/cepoat/aula"
+    ], 
+    "title": "Elamita por Enrique Quintana", 
+    "url": "http://www.um.es/cepoat/cuneiforme/elamita/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

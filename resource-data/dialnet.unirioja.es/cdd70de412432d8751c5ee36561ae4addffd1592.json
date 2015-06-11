@@ -1,9 +1,6 @@
 {
-    "description": "Studia Hermetica Journal ISSN-e: 2174-0399", 
+    "description": "Studia Hermetica Journal ISSN-e: 2174-0399 Studia Hermetica Journal (SHJ) is a free online journal devoted to the study of Hermetism and other ancient philosophical currents, like Middle Platonism, Neoplatonism, or Theurgy. In general terms, we focus our inquiries on Late Antiquity and the reception of these ancient opuses in Renaissance and Modern Times. Studia Hermetica is a new academic project conceived to become a valuable framework at the time to undertake any sort of research project centered in Ancient and Renaissance currents of thought, and as a platform to extol the humanistic perspective of life, respectful with mankind and with our delicate and amazing environment. Journal table of contents 2012 Vol. 2 1 2 2011 Vol. 1 1 Extra 2", 
     "domain": "dialnet.unirioja.es", 
-    "history": [
-        "2015-06-05T03:50:29.040303: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/12/open-access-journal-studia-hermetica.html. (walk_to_json.py)"
-    ], 
     "identifiers": {
         "issn": {
             "generic": [
@@ -11,24 +8,25 @@
             ]
         }
     }, 
+    "is_part_of": null, 
     "keywords": [
-        "classics", 
+        "reception", 
         "journal", 
+        "classics", 
         "open access", 
-        "philosophy", 
-        "reception"
+        "philosophy"
     ], 
     "language": [
-        "ca", 
-        0.9500152363386568
+        "en", 
+        1.0
     ], 
     "provenance": [
         {
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -36,56 +34,36 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8466512562592678832", 
             "resource_date": "2012-12-09T08:15:22.700-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:29.040879"
+            "when": "2015-06-11T15:04:44.041032"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-studia-hermetica.html", 
             "resource_date": "2012-12-09T08:15:22.700-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:29.040887"
+            "when": "2015-06-11T15:04:44.041048"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "2012", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=19825&clave_busqueda=2012"
-        }, 
-        {
-            "label": "Vol. 2", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=VOLUMEN&revista_busqueda=19825&clave_busqueda=2"
-        }, 
-        {
-            "label": "1", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19825&clave_busqueda=315110"
-        }, 
-        {
-            "label": "2", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19825&clave_busqueda=314961"
-        }, 
-        {
-            "label": "2011", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=19825&clave_busqueda=2011"
-        }, 
-        {
-            "label": "Vol. 1", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=VOLUMEN&revista_busqueda=19825&clave_busqueda=1"
-        }, 
-        {
-            "label": "1", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19825&clave_busqueda=315066"
-        }, 
-        {
-            "label": "Extra 2", 
-            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19825&clave_busqueda=315085"
-        }
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=19825&clave_busqueda=2012", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=VOLUMEN&revista_busqueda=19825&clave_busqueda=2", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19825&clave_busqueda=315110", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19825&clave_busqueda=314961", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=19825&clave_busqueda=2011", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=VOLUMEN&revista_busqueda=19825&clave_busqueda=1", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19825&clave_busqueda=315066", 
+        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=19825&clave_busqueda=315085"
     ], 
     "title": "Studia Hermetica Journal", 
     "url": "http://dialnet.unirioja.es/servlet/revista?codigo=19825", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

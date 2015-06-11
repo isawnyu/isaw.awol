@@ -1,51 +1,20 @@
 {
     "description": "25", 
     "domain": "dialnet.unirioja.es", 
-    "history": [
-        "2015-06-05T03:50:26.070917: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Greek", 
-        "Latin", 
-        "classics", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "0210-7694", 
+        "title": "Habis", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=633"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7705375700946621781", 
-            "resource_date": "2013-01-05T10:55:30.411-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:26.071438"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html", 
-            "resource_date": "2013-01-05T10:55:30.411-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:26.071446"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "25", 
-    "title_extended": "Habis: 25", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=633&clave_busqueda=6312", 
+    "volume": "25", 
+    "year": "25", 
     "zotero_id": null
 }

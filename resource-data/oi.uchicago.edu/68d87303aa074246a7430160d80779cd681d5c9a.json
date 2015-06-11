@@ -1,51 +1,24 @@
 {
-    "description": "MSKH 1. A Catalogue of Cuneiform Sources Pertaining to Specific Monarchs of the Kassite Dynasty. J. A. Brinkman. 1977.", 
+    "description": "AS 26. Perspectives on Hittite Civilization: Selected Writings of Hans G. G\u00fcterbock. H. A. Hoffner, Jr., ed. 1997.", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:28.664766: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Newly Online from the Oriental Institute's Backlist", 
+        "url": "http://oi.uchicago.edu/research/pubs/catalog/as/as20.html"
+    }, 
     "keywords": [
-        "Oriental Institute", 
-        "backlist", 
-        "catalogue", 
-        "cuneiform"
+        "Hittite"
     ], 
     "language": [
         "en", 
-        1.0
+        0.9999999999999636
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8365232251359351016", 
-            "resource_date": "2012-11-23T07:14:32.413-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:28.665313"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html", 
-            "resource_date": "2012-11-23T07:14:32.413-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:28.665321"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "MSKH 1. A Catalogue of Cuneiform Sources Pertaining to Specific Monarchs of the Kassite Dynasty", 
-    "url": "http://oi.uchicago.edu/research/pubs/catalog/mskh/mskh1.html", 
+    "title": "AS 26. Perspectives on Hittite Civilization: Selected Writings of Hans G", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/as/as26.html", 
+    "volume": "26", 
+    "year": null, 
     "zotero_id": null
 }

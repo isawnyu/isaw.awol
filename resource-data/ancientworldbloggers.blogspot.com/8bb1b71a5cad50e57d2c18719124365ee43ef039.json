@@ -1,10 +1,8 @@
 {
     "description": "The Fire at the Institut d'Egypte Cairo (updated) This is an attempt to pull together (outside the Facebook, Twitter, etc. firewalls) the various pieces of information available online on the fire at the Institut d'Egypte, Cairo, 17 December 2011.", 
     "domain": "ancientworldbloggers.blogspot.com", 
-    "history": [
-        "2015-06-05T03:49:57.744705: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/12/information-fire-at-institut-degypte.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
         "Cairo"
     ], 
@@ -17,29 +15,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1411053846651876735", 
             "resource_date": "2011-12-25T12:00:54.460-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:49:57.745308"
+            "when": "2015-06-11T15:02:17.721939"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/information-fire-at-institut-degypte.html", 
             "resource_date": "2011-12-25T12:00:54.460-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:49:57.745316"
+            "when": "2015-06-11T15:02:17.721953"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Information: The Fire at the Institut d'Egypte Cairo", 
     "url": "http://ancientworldbloggers.blogspot.com/2011/12/fire-at-institut-degypte-cairo.html", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

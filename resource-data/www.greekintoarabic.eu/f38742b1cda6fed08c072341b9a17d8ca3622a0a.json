@@ -1,0 +1,28 @@
+{
+    "description": "Computational contributions for Arabic language processing Part I. The automatic morphologic analysis of Arabic texts The aim of this paper is to describe our work on the project \u201cGreek into Arabic\u201d, in which we faced some problems of ambiguity inherent to the Arabic language. Difficulties arose in the various stages of automatic processing of the Arabic version of Plotinus, the text which lies at the core of our project. Part I highlights the needs that led us to update the morphological engine AraMorph in order to optimize its morpho-syntactic analysis. Even if the engine has been optimized, a digital lexical source for better use of the system is still lacking. Part II presents a methodology exploiting the internal structure of the Arabic lexicographic encyclopaedia Lis\u0101n al-\u02bfarab, which allows automatic extraction of the roots and derived lemmas. The outcome of this work is a useful resource for morphological analysis of Arabic, either in its own right, or to enrich already existing resources. Studia graeco-arabica 3 / 2013 Part II. Lis\u0101n al-\u02bfarab as a source of lexical and morphological knowledge The following sections illustrate a part of the study on the morphology of the Arabic language which is carried on within the framework of the ERC project Greek into Arabic. Philosophical Concepts and Linguistic Bridges ADG 249431. We used the Arabic lexicographic encyclopaedia Lis\u0101n al-\u02bfarab and, thanks to the regularity of its structure, we developed a system for the extraction of morphologically labelled word sequences, to be exploited for morphological analysis purposes.", 
+    "domain": "www.greekintoarabic.eu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Studia graeco-arabica", 
+        "url": "http://www.greekintoarabic.eu/index.php?id=20"
+    }, 
+    "keywords": [
+        "project", 
+        "Greek", 
+        "Arabic", 
+        "encyclopedia", 
+        "language"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Computational contributions for Arabic language processing Part I. The automatic morphologic analysis of Arabic texts", 
+    "url": "http://www.greekintoarabic.eu/uploads/media/NAHLI_SGA_3-2013.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

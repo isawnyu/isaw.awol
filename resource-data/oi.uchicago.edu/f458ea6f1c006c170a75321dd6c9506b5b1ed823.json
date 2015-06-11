@@ -1,49 +1,19 @@
 {
-    "description": "KERKENES DAG PROJECT. Scott Branting", 
+    "description": "KERKENES DAG PROJECT. Scott Branting KHORSABAD RELIEF FRAGMENT PROJECT. Eleanor Guralnick", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:17.950090: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-oriental-institute-annual.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Oriental Institute", 
-        "annual report", 
-        "open access", 
-        "report", 
-        "reports"
-    ], 
+    "is_part_of": {
+        "title": "Open Access Oriental Institute Annual Reports", 
+        "url": "http://oi.uchicago.edu/research/pubs/ar/10-11/"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6193195451668305174", 
-            "resource_date": "2012-08-04T21:40:14.784-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:17.950679"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-oriental-institute-annual.html", 
-            "resource_date": "2012-08-04T21:40:14.784-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:17.950687"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "KERKENES DAG PROJECT. Scott Branting", 
     "url": "http://oi.uchicago.edu/pdf/10_11_Kerkenes.pdf", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

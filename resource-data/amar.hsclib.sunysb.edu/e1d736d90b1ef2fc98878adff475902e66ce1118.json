@@ -1,21 +1,13 @@
 {
-    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "Mission Arch\u00e9ologique de Mari in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports Mission Arch\u00e9ologique de Mari in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:13.279348: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/mission-archeologique-de-mari-in-amar.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "AWOL", 
-        "Amar", 
         "Mari", 
-        "Mesopotamia", 
         "Syria", 
-        "archaeological site", 
         "archaeology", 
-        "archive", 
-        "reports", 
-        "series"
+        "Amar"
     ], 
     "language": [
         "en", 
@@ -26,8 +18,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -35,48 +27,40 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-492969630572444609", 
             "resource_date": "2012-03-02T16:41:33.535-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:13.279947"
+            "when": "2015-06-11T15:03:32.610306"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/mission-archeologique-de-mari-in-amar.html", 
             "resource_date": "2012-03-02T16:41:33.535-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:13.279955"
+            "when": "2015-06-11T15:03:32.610322"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "Mission arche\u0301ologique de Mari. V. I: Le temple d'Ishtar", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=48366&REC=1"
-        }, 
-        {
-            "label": "Mission arche\u0301ologique de Mari. V. II: le palais. Pt. 1: architecture", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=76151&REC=2"
-        }, 
-        {
-            "label": "Mission arche\u0301ologique de Mari. V. II: le palais. Pt. 2: peintures murales", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=76433&REC=3"
-        }, 
-        {
-            "label": "Mission arche\u0301ologique de Mari. V. II: le palais. Pt. 3: documents et monuments", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=124290&REC=4"
-        }, 
-        {
-            "label": "Mission arche\u0301ologique de Mari. III. Les temples d'Ishtarat et de Ninni-zaza", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=57738&REC=5"
-        }, 
-        {
-            "label": "Mission arche\u0301ologique de Mari. V. IV: Le Tre\u0301sor d'Ur", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=76260&REC=6"
-        }
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=48366&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=48366&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=76151&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=76151&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=76433&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=76433&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=124290&REC=4", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=124290&REC=4", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=57738&REC=5", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=57738&REC=5", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=76260&REC=6", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=76260&REC=6"
     ], 
-    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "Mission Arch\u00e9ologique de Mari in AMAR", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

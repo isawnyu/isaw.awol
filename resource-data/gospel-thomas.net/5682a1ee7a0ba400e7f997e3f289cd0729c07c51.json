@@ -1,10 +1,8 @@
 {
     "description": "The Gospel of Thomas Resource Center Formerly called \"The Codex II Student Resource Center\" (C2SRC), this is a resource center for independent research related to Nag Hammadi Codex II. Featuring the Web's first complete Coptic/English translation of the Gospel of Thomas.", 
     "domain": "gospel-thomas.net", 
-    "history": [
-        "2015-06-05T03:50:03.204975: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/10/the-gospel-of-thomas-resource-center.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
         "Coptic", 
         "egyptology"
@@ -18,29 +16,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2595816512028317014", 
             "resource_date": "2013-11-05T11:33:40.029-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:03.206090"
+            "when": "2015-06-11T15:02:47.001255"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/the-gospel-of-thomas-resource-center.html", 
             "resource_date": "2013-11-05T11:33:40.029-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:03.206109"
+            "when": "2015-06-11T15:02:47.001276"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "The Gospel of Thomas Resource Center", 
     "url": "http://gospel-thomas.net/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

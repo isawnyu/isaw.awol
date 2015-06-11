@@ -1,0 +1,61 @@
+{
+    "description": "Deir el-Medina Database Deir el-Medina is the modern name of an ancient Egyptian village situated on the west bank of the Nile opposite Luxor, the site of ancient Thebes. The village was inhabited by workmen who were responsible for the construction and decoration of the royal tombs from the New Kingdom. The exploration of Deir el-Medina has yielded a huge quantity of artefacts and texts written on ostraca or papyri, which offer a unique view into the daily life of an ancient Egyptian community.", 
+    "domain": "www.wepwawet.nl", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Egypt", 
+        "data", 
+        "bibliography", 
+        "egyptology", 
+        "database"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1075889442157857139", 
+            "resource_date": "2012-07-03T06:24:56.553-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:02:13.017309"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/deir-el-medina-database_2.html", 
+            "resource_date": "2012-07-03T06:24:56.553-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:02:13.017325"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.wepwawet.nl/dmd/main.htm", 
+        "http://www.wepwawet.nl/dmd/guide.htm", 
+        "http://www.wepwawet.nl/dmd/search.htm", 
+        "http://www.wepwawet.nl/dmd/totalindex.htm", 
+        "http://www.wepwawet.nl/dmd/bibliography.htm", 
+        "http://www.wepwawet.nl/dmd/cerny.htm"
+    ], 
+    "title": "Deir el-Medina Database", 
+    "url": "http://www.wepwawet.nl/dmd/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

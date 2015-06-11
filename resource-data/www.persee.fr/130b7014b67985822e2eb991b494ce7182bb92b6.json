@@ -1,53 +1,26 @@
 {
-    "description": "[ 14 ] See the full List of Open Access Journals in Ancient Studies .", 
+    "description": "[ 14 ] See the full List of Open Access Journals in Ancient Studies", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:15.955251: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-culture-musees.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Culture & Mus\u00e9es", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/pumus"
+    }, 
     "keywords": [
-        "antiquity", 
-        "culture", 
         "journal", 
-        "open access"
+        "open access", 
+        "antiquity"
     ], 
     "language": [
         "en", 
         0.9999999999999756
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5763382825317509391", 
-            "resource_date": "2011-02-14T09:02:33.881-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:15.955804"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-culture-musees.html", 
-            "resource_date": "2011-02-14T09:02:33.881-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:15.955812"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "14", 
-    "title_extended": "Culture & Mus\u00e9es: 14", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/pumus_1766-2923_2009_num_14_1", 
+    "volume": "14", 
+    "year": "2009", 
     "zotero_id": null
 }

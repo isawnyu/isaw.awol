@@ -1,0 +1,71 @@
+{
+    "description": "The Osirisnet Project %IMAGEREPLACED%", 
+    "domain": "www.osirisnet.net", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Egypt", 
+        "egyptology", 
+        "archaeology", 
+        "project"
+    ], 
+    "language": [
+        "en", 
+        0.9999948787584141
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "title_extended", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6646694474080256406", 
+            "resource_date": "2012-11-09T07:23:01.815-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:04:07.915829"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/osirisnet.html", 
+            "resource_date": "2012-11-09T07:23:01.815-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:04:07.915854"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.osirisnet.net/", 
+        "http://www.osirisnet.net/tombes/pharaons/e_ph1.htm", 
+        "http://www.osirisnet.net/tombes/nobles/e_nob1.htm", 
+        "http://www.osirisnet.net/tombes/artisans/e_artis1.htm", 
+        "http://www.osirisnet.net/tombes/amarna/e_amarna.htm", 
+        "http://www.osirisnet.net/tombes/assouan/e_assouan.htm", 
+        "http://www.osirisnet.net/tombes/el_kab/e_el_kab_tombes.htm", 
+        "http://www.osirisnet.net/tombes/el_bersheh/e_el_bersheh_tombes.htm", 
+        "http://www.osirisnet.net/tombes/oasis/baennetyou/e_baennetyou.htm", 
+        "http://www.osirisnet.net/tombes/soudan/e_soudan_tombes.htm", 
+        "http://www.osirisnet.net/mastabas/e_mastabas.htm", 
+        "http://www.osirisnet.net/monument/e_monu_1.htm", 
+        "http://www.osirisnet.net/docu/e_doc.htm", 
+        "http://www.osirisnet.net/3d-tours/e_3d-tours.htm", 
+        "http://www.osirisnet.net/e_map.htm"
+    ], 
+    "title": "Osirisnet", 
+    "title_extended": "The Osirisnet Project", 
+    "url": "http://www.osirisnet.net/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

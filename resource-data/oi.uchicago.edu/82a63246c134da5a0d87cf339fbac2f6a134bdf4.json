@@ -1,51 +1,24 @@
 {
-    "description": "\"A Study of Writing. I. J. Gelb. Originally published in 1952.\"", 
+    "description": "\"Medieval Islam: A Study in Cultural Orientation. Gustave E. von Grunebaum. Originally published in 1953.\" \"A Study of Writing. I. J. Gelb. Originally published in 1952.\"", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:21.072766: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Newly Online from the Oriental Institute's Backlist", 
+        "url": "http://oi.uchicago.edu/research/pubs/catalog/misc/changing_watercourses.html"
+    }, 
     "keywords": [
-        "Oriental Institute", 
-        "backlist"
+        "culture"
     ], 
     "language": [
         "en", 
-        1.0
+        0.9999999999999976
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6825955092996191354", 
-            "resource_date": "2013-01-15T05:42:26.919-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:21.073354"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/01/newly-online-from-oriental-institutes.html", 
-            "resource_date": "2013-01-15T05:42:26.919-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:21.073362"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "\"A Study of Writing. I. J. Gelb. Originally published in 1952", 
-    "title_extended": "\"Changing Watercourses in Babylonia: Towards a Reconstruction of the Ancient Environment in Lower Mesopotamia Volume 1. Hermann Gasche and Michel Tanret, editors: \"A Study of Writing. I. J. Gelb. Originally published in 1952", 
-    "url": "http://oi.uchicago.edu/research/pubs/catalog/misc/study_writng.html", 
+    "title": "\"Medieval Islam: A Study in Cultural Orientation. Gustave E", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/misc/medieval_islam.html", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

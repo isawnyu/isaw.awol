@@ -1,9 +1,6 @@
 {
-    "description": "Biblijski pogledi (Biblical Perspectives) ISSN:\u00a0 1330-1497", 
+    "description": "Biblijski pogledi (Biblical Perspectives) ISSN:\u00a0 1330-1497 The Biblijski pogledi (Biblical Perspectives) is an academic journal published by the Adventisti\u010dki teolo\u0161ki fakultet (Adriatic Union College) in Maru\u0161evec, Croatia. Biblical Perspectives publishes original scientific papers, already published scientific texts of special significance, review articles, professional papers, article/book reviews and brief notes on the following subjects: Biblical linguistics and its cognates, history of Biblical text and translations, Biblical theology, textual criticism, exegesis, Biblical archeology and geography, church history, systematic theology, philosophy of religion, ethics, missiology and special areas relating to Christian ministry and to religious education. This inter-disciplinary nature of the journal opens itself to the cooperation with other fields of scientific thinking in the complex world we live in. Biblical Perspectives publishes in Croatian, English, German, and French.", 
     "domain": "hrcak.srce.hr", 
-    "history": [
-        "2015-06-05T03:50:21.493529: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-open-access-journal-biblijski.html. (walk_to_json.py)"
-    ], 
     "identifiers": {
         "issn": {
             "generic": [
@@ -11,21 +8,25 @@
             ]
         }
     }, 
+    "is_part_of": null, 
     "keywords": [
+        "religion", 
+        "journal", 
         "Bible", 
         "Croatia", 
-        "journal", 
-        "open access", 
-        "religion"
+        "open access"
     ], 
-    "language": null, 
+    "language": [
+        "en", 
+        1.0
+    ], 
     "provenance": [
         {
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -33,60 +34,37 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6953816549638786002", 
             "resource_date": "2013-02-03T17:37:22.419-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:21.494127"
+            "when": "2015-06-11T15:04:12.788920"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-open-access-journal-biblijski.html", 
             "resource_date": "2013-02-03T17:37:22.419-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:21.494135"
+            "when": "2015-06-11T15:04:12.788937"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "Vol. 5 \u00a0 No. 1i2", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=7802"
-        }, 
-        {
-            "label": "Vol. 4 \u00a0 No. 2", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=7801"
-        }, 
-        {
-            "label": "Vol. 4 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=7449"
-        }, 
-        {
-            "label": "Vol. 3 \u00a0 No. 2", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=7214"
-        }, 
-        {
-            "label": "Vol. 3 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=7213"
-        }, 
-        {
-            "label": "Vol. 2 \u00a0 No. 2", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=7198"
-        }, 
-        {
-            "label": "Vol. 2 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=7196"
-        }, 
-        {
-            "label": "Vol. 1 \u00a0 No. 2", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=7181"
-        }, 
-        {
-            "label": "Vol. 1 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=7175"
-        }
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=7802", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=7801", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=7449", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=7214", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=7213", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=7198", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=7196", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=7181", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=7175"
     ], 
     "title": "Biblijski pogledi (Biblical Perspectives)", 
     "url": "http://hrcak.srce.hr/bp", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

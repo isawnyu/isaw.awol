@@ -1,50 +1,20 @@
 {
-    "description": "1993 : [ 11 ] 1993 : [ 11 ] 1993 : [ 11 ]", 
+    "description": "1993: [ 11 ] 1993: [ 11 ]", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:49:57.843357: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "archaeology", 
-        "journal", 
-        "nautical archaeology", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "2117-6973", 
+        "title": "Archaeonautica", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/nauti"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1423394332945157365", 
-            "resource_date": "2013-10-28T10:28:50.547-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:49:57.843897"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html", 
-            "resource_date": "2013-10-28T10:28:50.547-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:49:57.843904"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "11", 
-    "title_extended": "Archaeonautica: 11", 
+    "title": "1993 : [ 11 ]", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1993_num_11_1", 
+    "volume": "11", 
+    "year": "1993", 
     "zotero_id": null
 }

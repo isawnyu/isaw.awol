@@ -1,47 +1,19 @@
 {
-    "description": "Winter (#13)", 
+    "description": "Fall (#32) 1975 Winter (#13) Winter (#14) Winter (#15) Spring (#16) Spring (#17) Summer (#18) Summer (#19) Fall (#20) Fall (#21) Fall (#22)", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:31.307395: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Oriental Institute", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "title": "Oriental Institute News & Notes", 
+        "url": "http://oi.uchicago.edu/research/pubs/nn/"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
-            "resource_date": "2013-12-10T13:02:44.344-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:31.307906"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
-            "resource_date": "2013-12-10T13:02:44.344-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:31.307913"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Winter (#13)", 
-    "url": "http://oi.uchicago.edu/pdf/nn13.pdf", 
+    "title": "Fall (#32)", 
+    "url": "http://oi.uchicago.edu/pdf/nn32.pdf", 
+    "volume": "32", 
+    "year": null, 
     "zotero_id": null
 }

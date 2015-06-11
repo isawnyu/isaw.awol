@@ -1,49 +1,19 @@
 {
-    "description": "Ugaritica. VII", 
+    "description": "%IMAGEREPLACED%", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:12.305396: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Amar", 
-        "Ras Shamra", 
-        "Syria", 
-        "Ugarit", 
-        "archaeology"
-    ], 
+    "is_part_of": {
+        "title": "Ugaritica in AMAR", 
+        "url": "http://amar.hsclib.sunysb.edu/amar/"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4717975320200967161", 
-            "resource_date": "2012-03-02T16:45:40.809-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:12.305922"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html", 
-            "resource_date": "2012-03-02T16:45:40.809-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:12.305929"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Ugaritica. VII", 
-    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=118406&REC=7", 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=116620&REC=4", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

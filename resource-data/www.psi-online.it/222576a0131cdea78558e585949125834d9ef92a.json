@@ -1,16 +1,11 @@
 {
-    "description": "PSIonline:\u00a0Papiri della Societ\u00e0 Italiana Il progetto PSI on-line \u00e8 nato grazie ad accordi di cooperazione stipulati tra diverse istituzioni nazionali ed internazionali: l\u2019Universit\u00e0 di Cassino, l\u2019Accademia Fiorentina di Papirologia, la Biblioteca Medicea Laurenziana, l\u2019Istituto Papirologico Vitelli, il Museo Archeologico del Cairo, la Biblioteca di Alessandria. Attualmente, la sua realizzazione \u00e8 curata dal Centro Editoriale e dal Laboratorio di Ricerche Storiche e Archeologiche dell\u2019Antichit\u00e0 (Dipartimento di Scienze Umanistiche) dell\u2019Universit\u00e0 di Cassino. In una prima fase, saranno messe on-line schede descrittive e riproduzioni di tutti i papiri, le pergamene e gli ostraka appartenenti alla serie PSI, attualmente custoditi presso una pluralit\u00e0 di istituzioni di conservazione, tra cui spiccano in particolare la Biblioteca Medicea Laurenziana, l\u2019Istituto Papirologico Vitelli e il Museo Archeologico del Cairo. Successivamente, saranno messe on-line anche le schede e le immagini relative alle collezioni dei Papiri Fiorentini (P. Flor.) e dei Papiri Laurenziani (P. Laur.), entrambe custodite presso la Biblioteca Laurenziana. Il copyright delle immagini dei reperti appartiene alle istituzioni responsabili della loro tutela e ad esse va indirizzata ogni autorizzazione per la loro riproduzione (vedi sezione _rights and permissions). Per quanto riguarda le schede, realizzate interamente da Diletta Minutoli, le informazioni fornite sono aggiornate al novembre 2010. Alcuni reperti sono stati volutamente esclusi dai curatori, perch\u00e9 al momento oggetto di studi che potrebbero portare a una loro sostanziale revisione. La bibliografia relativa a ciascun reperto, per quanto ampia e accuratamente controllata, non ha alcuna pretesa di esaustivit\u00e0 e, specialmente nel caso di testi letterati, tende a privilegiare la segnalazione di studi di natura propriamente papirologica o paleografica.", 
+    "description": "PSIonline:\u00a0Papiri della Societ\u00e0 Italiana Il progetto PSI on-line \u00e8 nato grazie ad accordi di cooperazione stipulati tra diverse istituzioni nazionali ed internazionali: l\u2019Universit\u00e0 di Cassino, l\u2019Accademia Fiorentina di Papirologia, la Biblioteca Medicea Laurenziana, l\u2019Istituto Papirologico Vitelli, il Museo Archeologico del Cairo, la Biblioteca di Alessandria. Attualmente, la sua realizzazione \u00e8 curata dal Centro Editoriale e dal Laboratorio di Ricerche Storiche e Archeologiche dell\u2019Antichit\u00e0 (Dipartimento di Scienze Umanistiche) dell\u2019Universit\u00e0 di Cassino.", 
     "domain": "www.psi-online.it", 
-    "history": [
-        "2015-06-05T03:50:12.393021: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/psionline-papiri-della-societa-italiana.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "DAI", 
-        "Italy", 
-        "museums", 
         "papyrology", 
-        "series"
+        "Italy"
     ], 
     "language": [
         "it", 
@@ -21,29 +16,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4779677277893355756", 
             "resource_date": "2013-01-15T21:17:44.482-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:12.394053"
+            "when": "2015-06-11T15:03:28.854735"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/psionline-papiri-della-societa-italiana.html", 
             "resource_date": "2013-01-15T21:17:44.482-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:12.394067"
+            "when": "2015-06-11T15:03:28.854750"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "PSIonline: Papiri della Societ\u00e0 Italiana", 
     "url": "http://www.psi-online.it/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

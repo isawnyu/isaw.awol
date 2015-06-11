@@ -1,52 +1,20 @@
 {
-    "description": "1991 : [ 27 ] 1991 : [ 27 ] 1991 : [ 27 ]", 
+    "description": "1991: [ 27 ] 1991: [ 27 ]", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:20.585332: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/newly-open-access-journal-antiquites.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "North Africa", 
-        "antiquity", 
-        "archaeology", 
-        "classics", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "2117-539X", 
+        "title": "Antiquit\u00e9s africaines", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/antaf"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6664532935434239322", 
-            "resource_date": "2013-02-21T06:18:34.731-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:20.585859"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2011/06/newly-open-access-journal-antiquites.html", 
-            "resource_date": "2013-02-21T06:18:34.731-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:20.585866"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "27", 
-    "title_extended": "Antiquit\u00e9s africaines: 27", 
+    "title": "1991 : [ 27 ]", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1991_num_27_1", 
+    "volume": "27", 
+    "year": "1991", 
     "zotero_id": null
 }

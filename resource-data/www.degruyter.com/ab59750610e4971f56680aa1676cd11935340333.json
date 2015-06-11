@@ -1,9 +1,6 @@
 {
-    "description": "Seri, Andrea The House of Prisoners ISBN: 978-1-61451-109-0 e-ISBN: 978-1-61451-097-0 ISSN: 2161-4155 Boston : De Gruyter, 2013. Studies in ancient Near Eastern records, vol. 2 This book deals with the house of prisoners (bit asiri ) at the city of Uruk during the revolt against king Samsu-iluna of Babylon, Hammurabi\u2019s son. The political history of this brief period (ca. 1741\u20131739 BC) is not widely known and until now there has been no comprehensive treatment of the bit asiri. This book includes autograph copies, transliterations, and translations of 42 unpublished cuneiform tablets from various collections, collations, and detailed tables and catalogues. The analysis comprises some 410 documents dated or attributable to king Rim-Anum, one of the insurgents who attained relative independence as the ruler of Uruk. The study of this corpus reveals details about diplomatic dealings between the central power and rebel rulers, about the functioning of the house of prisoners of war, and about the individuals who participated in different echelons of the local administration. This monograph investigates what kind of organization \u201cthe house of prisoners\u201d was, how it worked, how it interacted with other institutions, the composition of its labor force, and state management of captive and enslaved individuals. Available online courtesy of De Gruyter", 
+    "description": "Seri, Andrea The House of Prisoners ISBN: 978-1-61451-109-0 e-ISBN: 978-1-61451-097-0 ISSN: 2161-4155 Boston: De Gruyter, 2013. Studies in ancient Near Eastern records, vol. 2 Seri, Andrea The House of Prisoners ISBN: 978-1-61451-109-0 e-ISBN: 978-1-61451-097-0 ISSN: 2161-4155 Boston: De Gruyter, 2013. Studies in ancient Near Eastern records, vol. 2 This book deals with the house of prisoners (bit asiri ) at the city of Uruk during the revolt against king Samsu-iluna of Babylon, Hammurabi\u2019s son. The political history of this brief period (ca. 1741\u20131739 BC) is not widely known and until now there has been no comprehensive treatment of the bit asiri. This book includes autograph copies, transliterations, and translations of 42 unpublished cuneiform tablets from various collections, collations, and detailed tables and catalogues. The analysis comprises some 410 documents dated or attributable to king Rim-Anum, one of the insurgents who attained relative independence as the ruler of Uruk. The study of this corpus reveals details about diplomatic dealings between the central power and rebel rulers, about the functioning of the house of prisoners of war, and about the individuals who participated in different echelons of the local administration. This monograph investigates what kind of organization \u201cthe house of prisoners\u201d was, how it worked, how it interacted with other institutions, the composition of its labor force, and state management of captive and enslaved individuals.", 
     "domain": "www.degruyter.com", 
-    "history": [
-        "2015-06-05T03:50:07.263432: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/08/andrea-seri-house-of-prisoners-online.html. (walk_to_json.py)"
-    ], 
     "identifiers": {
         "isbn": {
             "electronic": [
@@ -19,18 +16,12 @@
             ]
         }
     }, 
+    "is_part_of": null, 
     "keywords": [
-        "Ancient Near East", 
         "Iraq", 
         "Mesopotamia", 
-        "Near East", 
-        "Old Babylonian", 
-        "Uruk", 
-        "antiquity", 
-        "book", 
         "cuneiform", 
-        "history", 
-        "monograph"
+        "Old Babylonian"
     ], 
     "language": [
         "en", 
@@ -41,29 +32,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3431680729351451579", 
             "resource_date": "2013-08-20T07:30:51.592-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:07.264011"
+            "when": "2015-06-11T15:03:06.673339"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/08/andrea-seri-house-of-prisoners-online.html", 
             "resource_date": "2013-08-20T07:30:51.592-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:07.264019"
+            "when": "2015-06-11T15:03:06.673354"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Andrea Seri, The House of Prisoners Online", 
     "url": "http://www.degruyter.com/viewbooktoc/product/181597", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

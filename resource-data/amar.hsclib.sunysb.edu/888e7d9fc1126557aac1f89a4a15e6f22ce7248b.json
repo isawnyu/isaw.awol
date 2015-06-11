@@ -1,24 +1,17 @@
 {
-    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "Demircih\u00fcy\u00fck Excavation Reports in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports Demircih\u00fcy\u00fck Excavation Reports in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports %IMAGEREPLACED% Demircih\u00fcy\u00fck: die Ergebnisse der Ausgrabungen 1975-1978; Bd. 2: Naturwissenschaftliche Untersuchungen 1987 %IMAGEREPLACED% Demircihueyuek V: die Ergebnisse der Ausgrabungen 1975-1978 1988 %IMAGEREPLACED% Demircihueyuek IV: die Ergebnisse der Ausgrabungen 1975-1978 1996 Bronze age - Turkey Demirci Mound (Turkey) %IMAGEREPLACED% Demircihueyuek III, 2: die Ergebnisse der Ausgrabungen 1975-1978 1988 %IMAGEREPLACED% Demircihueyuek III, 1: die Ergebnisse der Ausgrabungen 1975-1978 1987 %IMAGEREPLACED% Demircih\u00fcy\u00fck I: die Ergebnisse der Ausgrabungen 1975-78; Architektur, Stratigraphie und Befunde; Text 1983 Bronze age - Turkey Demirci Mound (Turkey) %IMAGEREPLACED% Demircih\u00fcy\u00fck I: die Ergebnisse der Ausgrabungen 1975-78; Architektur, Stratigraphie und Befunde; Pl\u00e4ne 1983 Bronze age - Turkey Demirci Mound (Turkey)", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:01.082051: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/05/demircihuyuk-excavation-reports-in-amar.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "AWOL", 
-        "Amar", 
-        "Anatolia", 
-        "Mesopotamia", 
         "Turkey", 
-        "archaeological site", 
+        "Anatolia", 
         "archaeology", 
-        "archive", 
         "reports", 
-        "series"
+        "Amar"
     ], 
     "language": [
-        "en", 
+        "de", 
         1.0
     ], 
     "provenance": [
@@ -26,8 +19,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -35,52 +28,42 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2143639301795409527", 
             "resource_date": "2013-05-14T09:41:48.098-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:01.082657"
+            "when": "2015-06-11T15:02:38.394477"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/demircihuyuk-excavation-reports-in-amar.html", 
             "resource_date": "2013-05-14T09:41:48.098-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:01.082665"
+            "when": "2015-06-11T15:02:38.394495"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "Demircihu\u0308yu\u0308k: die Ergebnisse der Ausgrabungen 1975-1978 ; Bd. 2 : Naturwissenschaftliche Untersuchungen", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=122796&REC=1"
-        }, 
-        {
-            "label": "Demircihueyuek V: die Ergebnisse der Ausgrabungen 1975-1978", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=90299&REC=2"
-        }, 
-        {
-            "label": "Demircihueyuek IV: die Ergebnisse der Ausgrabungen 1975-1978", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=89555&REC=3"
-        }, 
-        {
-            "label": "Demircihueyuek III, 2: die Ergebnisse der Ausgrabungen 1975-1978", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=88960&REC=4"
-        }, 
-        {
-            "label": "Demircihueyuek III, 1: die Ergebnisse der Ausgrabungen 1975-1978", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=88578&REC=5"
-        }, 
-        {
-            "label": "Demircihu\u0308yu\u0308k I: die Ergebnisse der Ausgrabungen 1975-78 ; Architektur, Stratigraphie und Befunde ; Text", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=70162&REC=6"
-        }, 
-        {
-            "label": "Demircihu\u0308yu\u0308k I: die Ergebnisse der Ausgrabungen 1975-78 ; Architektur, Stratigraphie und Befunde ; Pla\u0308ne", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=129375&REC=7"
-        }
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=122796&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=122796&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=90299&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=90299&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=89555&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=89555&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=88960&REC=4", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=88960&REC=4", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=88578&REC=5", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=88578&REC=5", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=70162&REC=6", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=70162&REC=6", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=129375&REC=7", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=129375&REC=7"
     ], 
-    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "Demircih\u00fcy\u00fck Excavation Reports in AMAR", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

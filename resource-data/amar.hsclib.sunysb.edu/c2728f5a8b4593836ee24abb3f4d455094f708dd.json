@@ -1,21 +1,13 @@
 {
-    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "Excavations at Tell Brak in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:16.888316: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/excavations-at-tell-brak-in-amar.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "AWOL", 
-        "Amar", 
-        "Mesopotamia", 
         "Syria", 
         "Tell Brak", 
-        "archaeological site", 
         "archaeology", 
-        "archive", 
-        "reports", 
-        "series"
+        "Amar"
     ], 
     "language": [
         "en", 
@@ -26,8 +18,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -35,36 +27,34 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6014684559764687998", 
             "resource_date": "2012-03-02T16:38:35.594-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:16.888871"
+            "when": "2015-06-11T15:03:52.476309"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tell-brak-in-amar.html", 
             "resource_date": "2012-03-02T16:38:35.594-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:16.888878"
+            "when": "2015-06-11T15:03:52.476326"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "Excavations at Tell Brak. v. 1: The Mitanni and Old Babylonian periods", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=56230&REC=1"
-        }, 
-        {
-            "label": "Excavations at Tell Brak. v. 2: Nagar in the third millennuium BC", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=40913&REC=2"
-        }, 
-        {
-            "label": "Excavations at Tell Brak. v. 4: Exploring an upper Mesopotamian regional centre, 1994-1996", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=55574&REC=3"
-        }
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=56230&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=56230&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=40913&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=40913&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=55574&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=55574&REC=3"
     ], 
-    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "Excavations at Tell Brak in AMAR", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

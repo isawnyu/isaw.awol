@@ -1,52 +1,19 @@
 {
-    "description": "Ausgrabungen in Uruk-Warka: Endberichte. Band 17: Uruk: Architektur IV ; pp. xxxi, 1-164", 
+    "description": "%IMAGEREPLACED%", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:14.997708: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-uruk-warka-endberichte.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Amar", 
-        "Iraq", 
-        "Mesopotamia", 
-        "Uruk", 
-        "archaeology"
-    ], 
-    "language": [
-        "de", 
-        1.0
-    ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5477920149853260085", 
-            "resource_date": "2012-03-02T16:45:02.866-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:14.998243"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-uruk-warka-endberichte.html", 
-            "resource_date": "2012-03-02T16:45:02.866-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:14.998251"
-        }
-    ], 
+    "is_part_of": {
+        "title": "Ausgrabungen in Uruk-Warka: Endberichte in AMAR", 
+        "url": "http://amar.hsclib.sunysb.edu/amar/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Ausgrabungen in Uruk-Warka: Endberichte. Band 17: Uruk: Architektur IV ; pp", 
-    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=133653&REC=5", 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=164740&REC=3", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

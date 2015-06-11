@@ -1,52 +1,19 @@
 {
-    "description": "Ugaritica. I: e\u0301tudes relatives aux de\u0301couvertes de Ras Shamra", 
+    "description": "%IMAGEREPLACED%", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:12.275011: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Amar", 
-        "Ras Shamra", 
-        "Syria", 
-        "Ugarit", 
-        "archaeology"
-    ], 
-    "language": [
-        "fr", 
-        1.0
-    ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4717975320200967161", 
-            "resource_date": "2012-03-02T16:45:40.809-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:12.275536"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html", 
-            "resource_date": "2012-03-02T16:45:40.809-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:12.275544"
-        }
-    ], 
+    "is_part_of": {
+        "title": "Ugaritica in AMAR", 
+        "url": "http://amar.hsclib.sunysb.edu/amar/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Ugaritica. I: e\u0301tudes relatives aux de\u0301couvertes de Ras Shamra", 
+    "title": "%IMAGEREPLACED%", 
     "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=115543&REC=1", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

@@ -1,48 +1,20 @@
 {
-    "description": "[ 12-2 ] 1984 : [ 13-1 ] [ 13-2 ]", 
+    "description": "[ 12-2 ] 1984: [ 13-1 ] [ 13-2 ]", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:29.977943: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/newly-open-acccess-cahiers-de.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "1960-6028", 
+        "title": "Cahiers de Linguistique - Asie Orientale", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/clao"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8741331195138178178", 
-            "resource_date": "2013-02-03T12:23:38.047-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:29.978463"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/02/newly-open-acccess-cahiers-de.html", 
-            "resource_date": "2013-02-03T12:23:38.047-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:29.978471"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "12-2", 
-    "title_extended": "Cahiers de Linguistique - Asie Orientale: 12-2", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1983_num_12_2", 
+    "volume": "12-2", 
+    "year": "1983", 
     "zotero_id": null
 }

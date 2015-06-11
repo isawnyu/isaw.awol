@@ -1,12 +1,12 @@
 {
-    "description": "Further additions have been made to Portraits and manuscript images of handwriting of Egyptologists . (August 7, 2011) Further additions have been made to Portraits and manuscript images of handwriting of Egyptologists . (August 7, 2011) Further additions have been made to Portraits and manuscript images of handwriting of Egyptologists", 
+    "description": "Further additions have been made to Portraits and manuscript images of handwriting of Egyptologists. (August 7, 2011) Further additions have been made to Portraits and manuscript images of handwriting of Egyptologists", 
     "domain": "www.griffith.ox.ac.uk", 
-    "history": [
-        "2015-06-05T03:50:30.722946: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/08/new-from-griffith-institute.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "New from the Griffith Institute", 
+        "url": "http://www.griffith.ox.ac.uk/gri/2.html"
+    }, 
     "keywords": [
-        "Griffith Institute", 
         "imagery", 
         "manuscripts"
     ], 
@@ -14,37 +14,12 @@
         "en", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8971774259325725367", 
-            "resource_date": "2011-08-10T09:02:12.412-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:30.723505"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2011/08/new-from-griffith-institute.html", 
-            "resource_date": "2011-08-10T09:02:12.412-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:30.723513"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Portraits and manuscript images of handwriting of Egyptologists", 
+    "title": "Further additions have been made to Portraits and manuscript images of handwriting of Egyptologists. (August 7, 2011)", 
     "url": "http://www.griffith.ox.ac.uk/gri/4porhand.html", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

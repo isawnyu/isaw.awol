@@ -1,51 +1,25 @@
 {
-    "description": "AS 5. Historical Prism Inscriptions of Ashurbanipal I: Editions E, B1-5, D, and K Arthur Carl Piepkorn. 1933. AS 5. Historical Prism Inscriptions of Ashurbanipal I: Editions E, B1-5, D, and K Arthur Carl Piepkorn. 1933. AS 5. Historical Prism Inscriptions of Ashurbanipal I: Editions E, B1-5, D, and K Arthur Carl Piepkorn. 1933. AS 5. Historical Prism Inscriptions of Ashurbanipal I: Editions E, B1-5, D, and K", 
+    "description": "AS 5. Historical Prism Inscriptions of Ashurbanipal I: Editions E, B1-5, D, and K Arthur Carl Piepkorn. 1933. AS 5. Historical Prism Inscriptions of Ashurbanipal I: Editions E, B1-5, D, and K", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:02.268937: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Oriental Institute Assyriological Studies (AS)", 
+        "url": "http://oi.uchicago.edu/research/pubs/catalog/as/"
+    }, 
     "keywords": [
-        "Oriental Institute", 
         "epigraphy", 
-        "history", 
-        "open access"
+        "history"
     ], 
     "language": [
         "en", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2310553175017692217", 
-            "resource_date": "2013-12-29T16:00:12.703-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:02.269830"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html", 
-            "resource_date": "2013-12-29T16:00:12.703-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:02.269843"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "AS 5. Historical Prism Inscriptions of Ashurbanipal I: Editions E, B1-5, D, and K", 
+    "title": "AS 5. Historical Prism Inscriptions of Ashurbanipal I: Editions E, B1-5, D, and K Arthur Carl Piepkorn", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/as/as5.html", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

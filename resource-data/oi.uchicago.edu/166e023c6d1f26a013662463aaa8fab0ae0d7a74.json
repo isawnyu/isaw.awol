@@ -1,51 +1,22 @@
 {
-    "description": "MUMMY LABEL DATABASE (MLD). Fran\u00e7ois Gaudard, Raquel Mart\u00edn Hern\u00e1ndez, and Sof\u00eda Torallas Tovar", 
+    "description": "MUMMY LABEL DATABASE (MLD). Fran\u00e7ois Gaudard, Raquel Mart\u00edn Hern\u00e1ndez, and Sof\u00eda Torallas Tovar NIPPUR. McGuire Gibson", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:17.959353: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/12/open-access-oriental-institute-annual.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Open Access Oriental Institute Annual Reports", 
+        "url": "http://oi.uchicago.edu/research/pubs/ar/10-11/"
+    }, 
     "keywords": [
-        "Oriental Institute", 
-        "annual report", 
         "data", 
-        "database", 
-        "open access", 
-        "report", 
-        "reports"
+        "database"
     ], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6193195451668305174", 
-            "resource_date": "2012-08-04T21:40:14.784-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:17.959935"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-oriental-institute-annual.html", 
-            "resource_date": "2012-08-04T21:40:14.784-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:17.959943"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "MUMMY LABEL DATABASE (MLD). Fran\u00e7ois Gaudard, Raquel Mart\u00edn Hern\u00e1ndez, and Sof\u00eda Torallas Tovar", 
     "url": "http://oi.uchicago.edu/pdf/10_11_MLD.pdf", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

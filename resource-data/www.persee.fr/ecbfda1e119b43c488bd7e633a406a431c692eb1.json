@@ -1,51 +1,19 @@
 {
-    "description": "[ 10-4 ] 1932 : [ 11-1-2 ] [ 11-3-4 ]", 
+    "description": "[ 10-4 ] 1932: [ 11-1-2 ] [ 11-3-4 ]", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:21.991095: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Belgium", 
-        "classics", 
-        "journal", 
-        "open access", 
-        "philology"
-    ], 
+    "is_part_of": {
+        "title": "Revue belge de Philologie et d'Histoire", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/rbph"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707332784338276556", 
-            "resource_date": "2013-05-21T09:01:08.351-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:21.991614"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-belge-de.html", 
-            "resource_date": "2013-05-21T09:01:08.351-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:21.991621"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "10-4", 
-    "title_extended": "Revue belge de Philologie et d'Histoire: 10-4", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/rbph_0035-0818_1931_num_10_4", 
+    "volume": "10-4", 
+    "year": "1931", 
     "zotero_id": null
 }

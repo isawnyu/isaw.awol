@@ -1,18 +1,13 @@
 {
-    "description": "TLS - Thesaurus Linguae Sericae \u6f22\u5b78\u6587\u5178 An Historical and Comparative Encyclopaedia of Chinese Conceptual Schemes General Editor: Christoph Harbsmeier \u4f55\u83ab\u90aa; Associate Editor: Jiang Shaoyu \u8523\u7d39\u611a TLS explores the conceptual schemes of pre-Buddhist Chinese on the basis of a corpus of translated texts interlinked with an analytic dictionary . Text and dictionary are constantly held up against one another. Our understanding of the texts and the Chinese system of meanings can be refined by through this close confrontation. TLS associates Chinese concepts with concepts from the European antiquity, aiming to make the classical Chinese evidence comparable to that of other cultures. TLS seeks to make more precise the criteria used in translation classical Chinese, through a detailed description of the semantic relations that obtain among Chinese words. TLS is the first synonym dictionary of classical Chinese in any Western language; it attempts to state as clearly as possible the semantic nuances that distinguish words close in meaning. TLS is the first dictionary which systematically organises the Chinese vocabulary in taxonomic and mereonomic hierarchies , thus exploring the topology of the Chinese mental space. TLS is the first dictionary that systematically registers lexical relations like antonym, converse, epithet, etc., thereby aiming to define the Chinese conceptual space as a relational space. TLS is the first dictionary of Chinese which incorporates detailed syntactic analysis , thus enabling the systematic study of basic phenomena as e.g. the history of abstract nouns in China. TLS is the first corpus-based dictionary which records the history of rhetorical devices in texts, making it possible to study crucial matters such as the history of irony in China.", 
+    "description": "TLS - Thesaurus Linguae Sericae \u6f22\u5b78\u6587\u5178 An Historical and Comparative Encyclopaedia of Chinese Conceptual Schemes General Editor: Christoph Harbsmeier \u4f55\u83ab\u90aa; Associate Editor: Jiang Shaoyu \u8523\u7d39\u611a TLS explores the of pre-Buddhist Chinese on the basis of a interlinked with an. Text and dictionary are constantly held up against one another. Our understanding of the texts and the Chinese system of meanings can be refined by through this close confrontation. TLS associates Chinese concepts with concepts from the European antiquity, aiming to make the classical Chinese evidence comparable to that of other cultures. TLS seeks to make more precise the criteria used in translation classical Chinese, through a detailed description of the semantic relations that obtain among Chinese words. TLS is the first of classical Chinese in any Western language; it attempts to state as clearly as possible the semantic nuances that distinguish words close in meaning. TLS is the first dictionary which systematically organises the Chinese vocabulary in, thus exploring the topology of the Chinese mental space. TLS is the first dictionary that systematically registers like antonym, converse, epithet, etc., thereby aiming to define the Chinese conceptual space as a relational space. TLS is the first dictionary of Chinese which incorporates detailed, thus enabling the systematic study of basic phenomena as e.g. the history of abstract nouns in China. TLS is the first corpus-based dictionary which records the history of in texts, making it possible to study crucial matters such as the history of irony in China.", 
     "domain": "tls.uni-hd.de", 
-    "history": [
-        "2015-06-05T03:50:25.827374: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/open-access-historical-and-comparative.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "China", 
-        "classics", 
-        "dictionaries", 
         "encyclopedia", 
-        "history", 
+        "China", 
         "open access", 
-        "thesaurus"
+        "history"
     ], 
     "language": [
         "en", 
@@ -23,29 +18,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7676589446423332809", 
             "resource_date": "2009-11-24T11:55:23.675-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:25.827972"
+            "when": "2015-06-11T15:04:28.451433"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/open-access-historical-and-comparative.html", 
             "resource_date": "2009-11-24T11:55:23.675-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:25.827980"
+            "when": "2015-06-11T15:04:28.451449"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Open Access Historical and Comparative Encyclopaedia of Chinese Conceptual Schemes", 
     "url": "http://tls.uni-hd.de/home_en.lasso", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

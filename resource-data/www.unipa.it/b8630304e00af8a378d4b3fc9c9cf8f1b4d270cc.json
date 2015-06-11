@@ -1,0 +1,54 @@
+{
+    "description": "Paolo Monella sets forth his position on his blog Post-doc bourse", 
+    "domain": "www.unipa.it", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2862364641738437456", 
+            "resource_date": "2012-04-02T10:25:37.633-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:02:51.394844"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/opinionprovocation-why-are-there-no.html", 
+            "resource_date": "2012-04-02T10:25:37.633-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:02:51.394860"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.unipa.it/paolo.monella/lincei/why.html", 
+        "http://www.unipa.it/paolo.monella/lincei/why.html#problem", 
+        "http://www.unipa.it/paolo.monella/lincei/why.html#need", 
+        "http://www.unipa.it/paolo.monella/lincei/why.html#canonisation", 
+        "http://www.unipa.it/paolo.monella/lincei/why.html#link"
+    ], 
+    "title": "Opinion/Provocation: Why are there no digital scholarly editions of \"classical\" texts?", 
+    "url": "http://www.unipa.it/paolo.monella/lincei/index.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

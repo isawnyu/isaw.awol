@@ -1,0 +1,55 @@
+{
+    "description": "Miho Museum", 
+    "domain": "www.miho.or.jp", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "museums", 
+        "Japan"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2941939698440175554", 
+            "resource_date": "2013-04-21T18:59:43.366-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:02:53.084330"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/miho-museum.html", 
+            "resource_date": "2013-04-21T18:59:43.366-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:02:53.084345"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.miho.or.jp/english/landscap/head.htm", 
+        "http://www.miho.or.jp/english/landscap/head.htm", 
+        "http://www.miho.or.jp/english/architec/head.htm", 
+        "http://www.miho.or.jp/english/collect/head.htm", 
+        "http://www.miho.or.jp/english/inform/head.htm", 
+        "http://www.miho.or.jp/english/member/head.htm"
+    ], 
+    "title": "Miho Museum", 
+    "url": "http://www.miho.or.jp/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,47 +1,19 @@
 {
-    "description": "Winter (#97)", 
+    "description": "Fall (#106) 1985 Winter (#97) Spring (#98) Summer (#99) Fall (#100) Fall (#101)", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:31.109449: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Oriental Institute", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "title": "Oriental Institute News & Notes", 
+        "url": "http://oi.uchicago.edu/research/pubs/nn/"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
-            "resource_date": "2013-12-10T13:02:44.344-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:31.109995"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
-            "resource_date": "2013-12-10T13:02:44.344-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:31.110003"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Winter (#97)", 
-    "url": "http://oi.uchicago.edu/pdf/nn97.pdf", 
+    "title": "Fall (#106)", 
+    "url": "http://oi.uchicago.edu/pdf/nn106.pdf", 
+    "volume": "106", 
+    "year": null, 
     "zotero_id": null
 }

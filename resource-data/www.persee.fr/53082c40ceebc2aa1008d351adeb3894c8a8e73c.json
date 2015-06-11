@@ -1,52 +1,24 @@
 {
     "description": "Comptes-rendus des s\u00e9ances de l'Acad\u00e9mie des Inscriptions et Belles-Lettres", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:01.818880: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "The Ancient World in Pers\u00e9e", 
+        "url": "http://www.persee.fr/web/revues/home"
+    }, 
     "keywords": [
-        "Aegean", 
-        "Pers\u00e9e", 
-        "antiquity", 
-        "digital library", 
         "epigraphy"
     ], 
     "language": [
         "fr", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
-            "resource_date": "2013-04-12T11:22:30.006-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:01.819495"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
-            "resource_date": "2013-04-12T11:22:30.006-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:01.819503"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Comptes-rendus des s\u00e9ances de l'Acad\u00e9mie des Inscriptions et Belles-Lettres", 
     "url": "http://www.persee.fr/web/revues/home/prescript/revue/crai", 
+    "volume": "-", 
+    "year": null, 
     "zotero_id": null
 }

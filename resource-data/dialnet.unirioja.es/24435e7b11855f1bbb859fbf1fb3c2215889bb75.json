@@ -1,34 +1,32 @@
 {
-    "description": "Anales de prehistoria y arqueolog\u00eda ISSN: 0213-5663 Aquila legionis", 
+    "description": "Anales de prehistoria y arqueolog\u00eda ISSN: 0213-5663 Aquila legionis: cuadernos de estudios sobre el Ej\u00e9rcito Romano ISSN: 1578-1518 Arqueobios ISSN: 1996-5214 Bolet\u00edn del Seminario de Estudios de Arte y Arqueolog\u00eda", 
     "domain": "dialnet.unirioja.es", 
-    "history": [
-        "2015-06-05T03:50:28.000284: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html. (walk_to_json.py)"
-    ], 
     "identifiers": {
         "issn": {
             "generic": [
+                "1578-1518", 
+                "1996-5214", 
                 "0213-5663"
             ]
         }
     }, 
+    "is_part_of": null, 
     "keywords": [
-        "antiquity", 
-        "archeaology", 
         "journal", 
         "open access", 
-        "prehistory"
+        "antiquity"
     ], 
     "language": [
         "es", 
-        0.999998449279478
+        1.0
     ], 
     "provenance": [
         {
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -36,23 +34,46 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8214559682146973850", 
             "resource_date": "2009-09-20T15:33:38.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:28.000850"
+            "when": "2015-06-11T15:04:38.856999"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html", 
             "resource_date": "2009-09-20T15:33:38.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:28.000858"
+            "when": "2015-06-11T15:04:38.857016"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
-    "title": "Anales de prehistoria y arqueolog\u00eda", 
+    "subordinate_resources": [
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=3930", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=12756", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=226", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=231", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=10381", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=7156", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=12564", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=10587", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=12767", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=647", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=669", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=673", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=7340", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=12527", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=937", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=945", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=2319", 
+        "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=1439"
+    ], 
+    "title": "Open Access Journals in Ancient Studies at Dialnet", 
     "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=78", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

@@ -1,19 +1,10 @@
 {
-    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "\u1e24alabiyya-Zenobia in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports \u1e24alabiyya-Zenobia in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:19.498705: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/halabiyya-zenobia-in-amar.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "AWOL", 
-        "Amar", 
-        "Mesopotamia", 
-        "archaeological site", 
-        "archaeology", 
-        "archive", 
-        "reports", 
-        "series"
+        "Amar"
     ], 
     "language": [
         "en", 
@@ -24,8 +15,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -33,32 +24,32 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6473868758059801161", 
             "resource_date": "2012-03-02T16:40:23.900-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:19.499439"
+            "when": "2015-06-11T15:04:02.732042"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/halabiyya-zenobia-in-amar.html", 
             "resource_date": "2012-03-02T16:40:23.900-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:19.499449"
+            "when": "2015-06-11T15:04:02.732058"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "H\u0323alabiyya-Zenobia, place forte du limes oriental et la Haute-Me\u0301sopotamie au VIe sie\u0300cle ; v. 1 Les duche\u0301s frontaliers de Me\u0301sopotamie et les fortifications de Zenobia", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=100147&REC=1"
-        }, 
-        {
-            "label": "H\u0323alabiyya-Zenobia, place forte du limes oriental et la Haute-Me\u0301sopotamie au VIe sie\u0300cle ; v. 2 L'architecture publique, religieuse, prive\u0301e et fune\u0301raire", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=100528&REC=2"
-        }
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=100147&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=100147&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=100528&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=100528&REC=2"
     ], 
-    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "\u1e24alabiyya-Zenobia in AMAR", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

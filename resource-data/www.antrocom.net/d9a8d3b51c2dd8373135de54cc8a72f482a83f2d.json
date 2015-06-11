@@ -1,0 +1,60 @@
+{
+    "description": "Antrocom: Online Journal of Anthropology ISSN 1973-2880 Antrocom is an on-line journal which publishes articles about anthropology, both physical and cultural, and similar disciplines. Antrocom was firt issued in march 2005 within the Community of Anthropos.", 
+    "domain": "www.antrocom.net", 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1973-2880"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "keywords": [
+        "anthropology", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "title_extended", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6511422137800933120", 
+            "resource_date": "2010-03-23T11:54:24.780-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:04:03.382937"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/03/open-access-journal-antrocom.html", 
+            "resource_date": "2010-03-23T11:54:24.780-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:04:03.382952"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Antrocom", 
+    "title_extended": "Antrocom: Online Journal of Anthropology", 
+    "url": "http://www.antrocom.net/index.htm", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

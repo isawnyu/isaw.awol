@@ -1,15 +1,12 @@
 {
     "description": "Monuments et m\u00e9moires de la Fondation Eug\u00e8ne Piot", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:01.871465: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "The Ancient World in Pers\u00e9e", 
+        "url": "http://www.persee.fr/web/revues/home"
+    }, 
     "keywords": [
-        "Aegean", 
-        "Pers\u00e9e", 
-        "antiquity", 
-        "digital library", 
         "journal", 
         "monuments"
     ], 
@@ -17,37 +14,12 @@
         "fr", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
-            "resource_date": "2013-04-12T11:22:30.006-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:01.872045"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
-            "resource_date": "2013-04-12T11:22:30.006-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:01.872053"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Monuments et m\u00e9moires de la Fondation Eug\u00e8ne Piot", 
     "url": "http://www.persee.fr/web/revues/home/prescript/revue/piot", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

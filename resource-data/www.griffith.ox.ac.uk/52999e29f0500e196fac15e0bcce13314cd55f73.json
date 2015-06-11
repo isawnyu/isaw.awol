@@ -1,50 +1,22 @@
 {
     "description": "1922-3 and 1923-4", 
     "domain": "www.griffith.ox.ac.uk", 
-    "history": [
-        "2015-06-05T03:50:13.567264: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Griffith Institute"
-    ], 
+    "is_part_of": {
+        "title": "News from the Griffith Institute", 
+        "url": "http://www.griffith.ox.ac.uk/gri/2.html"
+    }, 
+    "keywords": [], 
     "language": [
         "en", 
         0.9996966732171467
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4992273992170092691", 
-            "resource_date": "2011-04-20T16:01:53.138-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:13.567819"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html", 
-            "resource_date": "2011-04-20T16:01:53.138-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:13.567835"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "1922-3", 
-    "title_extended": "notes on the contents of baskets: 1922-3", 
     "url": "http://www.griffith.ox.ac.uk/gri/4macedia1.html", 
+    "volume": "3", 
+    "year": "1922", 
     "zotero_id": null
 }

@@ -1,9 +1,6 @@
 {
     "description": "Cahiers de Linguistique - Asie Orientale eISSN - 1960-6028 \"The Cahiers de Linguistique \u2013 Asie Orientale (CLAO) is an international journal for the scientific study of languages in the Far East. Based in Paris at the Centre de Recherches Linguistiques sur l\u2019Asie Orientale (CRLAO, EHESS-CNRS), it appears twice a year and is internationally refereed as an A - class journal.\"", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:29.923975: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/newly-open-acccess-cahiers-de.html. (walk_to_json.py)"
-    ], 
     "identifiers": {
         "issn": {
             "electronic": [
@@ -11,10 +8,9 @@
             ]
         }
     }, 
+    "is_part_of": null, 
     "keywords": [
-        "class", 
         "journal", 
-        "language", 
         "open access"
     ], 
     "language": [
@@ -26,8 +22,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -35,268 +31,89 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8741331195138178178", 
             "resource_date": "2013-02-03T12:23:38.047-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:29.924541"
+            "when": "2015-06-11T15:04:49.511847"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/newly-open-acccess-cahiers-de.html", 
             "resource_date": "2013-02-03T12:23:38.047-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:29.924549"
+            "when": "2015-06-11T15:04:49.511864"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1977_num_1_1"
-        }, 
-        {
-            "label": "2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1977_num_2_1"
-        }, 
-        {
-            "label": "3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1978_num_3_1"
-        }, 
-        {
-            "label": "4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1978_num_4_1"
-        }, 
-        {
-            "label": "5", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1979_num_5_1"
-        }, 
-        {
-            "label": "6", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1979_num_6_1"
-        }, 
-        {
-            "label": "7", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1980_num_7_1"
-        }, 
-        {
-            "label": "8", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1980_num_8_1"
-        }, 
-        {
-            "label": "9", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1981_num_9_1"
-        }, 
-        {
-            "label": "10", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1981_num_10_1"
-        }, 
-        {
-            "label": "11-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1982_num_11_1"
-        }, 
-        {
-            "label": "11-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1982_num_11_2"
-        }, 
-        {
-            "label": "12-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1983_num_12_1"
-        }, 
-        {
-            "label": "12-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1983_num_12_2"
-        }, 
-        {
-            "label": "13-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1984_num_13_1"
-        }, 
-        {
-            "label": "13-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1984_num_13_2"
-        }, 
-        {
-            "label": "14-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1985_num_14_1"
-        }, 
-        {
-            "label": "14-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1985_num_14_2"
-        }, 
-        {
-            "label": "15-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1986_num_15_1"
-        }, 
-        {
-            "label": "15-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1986_num_15_2"
-        }, 
-        {
-            "label": "16-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1987_num_16_1"
-        }, 
-        {
-            "label": "16-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1987_num_16_2"
-        }, 
-        {
-            "label": "17-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1988_num_17_1"
-        }, 
-        {
-            "label": "17-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1988_num_17_2"
-        }, 
-        {
-            "label": "18-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1989_num_18_1"
-        }, 
-        {
-            "label": "18-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1989_num_18_2"
-        }, 
-        {
-            "label": "19-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1990_num_19_1"
-        }, 
-        {
-            "label": "19-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1990_num_19_2"
-        }, 
-        {
-            "label": "20-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1991_num_20_1"
-        }, 
-        {
-            "label": "20-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1991_num_20_2"
-        }, 
-        {
-            "label": "21-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1992_num_21_1"
-        }, 
-        {
-            "label": "21-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1992_num_21_2"
-        }, 
-        {
-            "label": "22-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1993_num_22_1"
-        }, 
-        {
-            "label": "22-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1993_num_22_2"
-        }, 
-        {
-            "label": "23", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1994_num_23_1"
-        }, 
-        {
-            "label": "24-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1995_num_24_1"
-        }, 
-        {
-            "label": "24-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1995_num_24_2"
-        }, 
-        {
-            "label": "25-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1996_num_25_1"
-        }, 
-        {
-            "label": "25-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1996_num_25_2"
-        }, 
-        {
-            "label": "26-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1997_num_26_1"
-        }, 
-        {
-            "label": "26-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1997_num_26_2"
-        }, 
-        {
-            "label": "27-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1998_num_27_1"
-        }, 
-        {
-            "label": "27-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1998_num_27_2"
-        }, 
-        {
-            "label": "28-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1999_num_28_1"
-        }, 
-        {
-            "label": "28-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1999_num_28_2"
-        }, 
-        {
-            "label": "29-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2000_num_29_1"
-        }, 
-        {
-            "label": "29-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2000_num_29_2"
-        }, 
-        {
-            "label": "30-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2001_num_30_1"
-        }, 
-        {
-            "label": "30-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2001_num_30_2"
-        }, 
-        {
-            "label": "31-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2002_num_31_1"
-        }, 
-        {
-            "label": "31-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2002_num_31_2"
-        }, 
-        {
-            "label": "32-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2003_num_32_1"
-        }, 
-        {
-            "label": "32-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2003_num_32_2"
-        }, 
-        {
-            "label": "33-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2004_num_33_1"
-        }, 
-        {
-            "label": "33-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2004_num_33_2"
-        }, 
-        {
-            "label": "34-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2005_num_34_1"
-        }, 
-        {
-            "label": "34-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2005_num_34_2"
-        }, 
-        {
-            "label": "35-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2006_num_35_1"
-        }, 
-        {
-            "label": "35-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2006_num_35_2"
-        }, 
-        {
-            "label": "36-1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2007_num_36_1"
-        }, 
-        {
-            "label": "36-2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2007_num_36_2"
-        }
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1977_num_1_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1977_num_2_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1978_num_3_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1978_num_4_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1979_num_5_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1979_num_6_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1980_num_7_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1980_num_8_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1981_num_9_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1981_num_10_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1982_num_11_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1982_num_11_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1983_num_12_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1983_num_12_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1984_num_13_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1984_num_13_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1985_num_14_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1985_num_14_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1986_num_15_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1986_num_15_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1987_num_16_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1987_num_16_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1988_num_17_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1988_num_17_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1989_num_18_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1989_num_18_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1990_num_19_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1990_num_19_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1991_num_20_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1991_num_20_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1992_num_21_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1992_num_21_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1993_num_22_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1993_num_22_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1994_num_23_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1995_num_24_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1995_num_24_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1996_num_25_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1996_num_25_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1997_num_26_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1997_num_26_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1998_num_27_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1998_num_27_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1999_num_28_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_1999_num_28_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2000_num_29_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2000_num_29_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2001_num_30_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2001_num_30_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2002_num_31_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2002_num_31_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2003_num_32_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2003_num_32_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2004_num_33_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2004_num_33_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2005_num_34_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2005_num_34_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2006_num_35_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2006_num_35_2", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2007_num_36_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/clao_0153-3320_2007_num_36_2"
     ], 
     "title": "Cahiers de Linguistique - Asie Orientale", 
     "url": "http://www.persee.fr/web/revues/home/prescript/revue/clao", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

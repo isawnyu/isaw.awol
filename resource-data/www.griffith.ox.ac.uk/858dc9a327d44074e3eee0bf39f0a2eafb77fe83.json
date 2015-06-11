@@ -1,24 +1,9 @@
 {
-    "description": "Griffith Institute has published and updated the following files: Theban tomb tracings made by Norman de Garis Davies online: (a) TT 64, Hekerneheh , (b) TT79, Menkheper Menkheperrasoneb and (c) TT 80, Djehutinufer . (May 17, 2010) Working files of Topographical Bibliography 8 Part 4 ( Objects of Provenance Not Known: Stelae from the beginning of Dynasty XVIII to the Roman Period) : Stelae of the New Kingdom and Stelae from the beginning of the 3rd Intermediate Period to the Roman Period (April 30, 2010) The list of research tools has been brought up to date. (April 21, 2010) Hector Horeau's watercolours made in Egypt in 1848. (April 7, 2010) A revised list of Griffith Institute Archive projects . (April 7, 2010) A revised list of objects in the Egyptian Museum in Cairo . (March 3, 2010) More working files have been added to the Topographical Bibliography lists for periodicals . (March 3, 2010) Alfred Lucas's notes on conservation of objects from the tomb of Tutankhamun. Seasons 1926-7 and 1927-8 . (March 3, 2010)", 
+    "description": "Since the beginning of 2010, the Griffith Institute has published and updated the following files: Since the beginning of 2010, the Griffith Institute has published and updated the following files: Theban tomb tracings made by Norman de Garis Davies online: (a) TT 64, Hekerneheh, (b) TT79, Menkheper Menkheperrasoneb and (c) TT 80, Djehutinufer. (May 17, 2010) Working files of Topographical Bibliography 8 Part 4 ( Objects of Provenance Not Known: Stelae from the beginning of Dynasty XVIII to the Roman Period): Stelae of the New Kingdom and Stelae from the beginning of the 3rd Intermediate Period to the Roman Period (April 30, 2010) The list of research tools has been brought up to date. (April 21, 2010) Hector Horeau's watercolours made in Egypt in 1848. (April 7, 2010) A revised list of Griffith Institute Archive projects. (April 7, 2010) A revised list of objects in the Egyptian Museum in Cairo. (March 3, 2010) More working files have been added to the Topographical Bibliography lists for periodicals. (March 3, 2010) Alfred Lucas's notes on conservation of objects from the tomb of Tutankhamun. Seasons 1926-7 and 1927-8. (March 3, 2010)", 
     "domain": "www.griffith.ox.ac.uk", 
-    "history": [
-        "2015-06-05T03:50:27.610192: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/05/recent-offerings-from-griffifth.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Cairo", 
-        "Egypt", 
-        "Griffith Institute", 
-        "Roman", 
-        "Thebes", 
-        "archive", 
-        "bibliography", 
-        "conservation", 
-        "egyptology", 
-        "journal", 
-        "museums", 
-        "tools"
-    ], 
+    "is_part_of": null, 
+    "keywords": [], 
     "language": [
         "en", 
         1.0
@@ -28,8 +13,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -37,68 +22,39 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-813986282971874208", 
             "resource_date": "2010-05-24T10:04:02.981-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:27.610748"
+            "when": "2015-06-11T15:04:37.091093"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/recent-offerings-from-griffifth.html", 
             "resource_date": "2010-05-24T10:04:02.981-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:27.610756"
+            "when": "2015-06-11T15:04:37.091110"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "TT 64, Hekerneheh", 
-            "url": "http://www.griffith.ox.ac.uk/gri/4TT64.html"
-        }, 
-        {
-            "label": "TT79, Menkheper Menkheperrasoneb", 
-            "url": "http://www.griffith.ox.ac.uk/gri/4TT79.html"
-        }, 
-        {
-            "label": "TT 80, Djehutinufer", 
-            "url": "http://www.griffith.ox.ac.uk/gri/4TT80.html"
-        }, 
-        {
-            "label": "Stelae of the New Kingdom", 
-            "url": "http://www.griffith.ox.ac.uk/gri/8_stelae_NK.pdf"
-        }, 
-        {
-            "label": "Stelae from the beginning of the 3rd Intermediate Period to the Roman Period", 
-            "url": "http://www.griffith.ox.ac.uk/gri/8_stelae_3IP_to_Roman.pdf"
-        }, 
-        {
-            "label": "research tools", 
-            "url": "http://www.griffith.ox.ac.uk/gri/7.html"
-        }, 
-        {
-            "label": "Hector Horeau's watercolours", 
-            "url": "http://www.griffith.ox.ac.uk/gri/4horeau_intro.html"
-        }, 
-        {
-            "label": "Griffith Institute Archive projects", 
-            "url": "http://www.griffith.ox.ac.uk/gri/4proj.html"
-        }, 
-        {
-            "label": "the Egyptian Museum in Cairo", 
-            "url": "http://www.griffith.ox.ac.uk/gri/3cairo.pdf"
-        }, 
-        {
-            "label": "lists for periodicals", 
-            "url": "http://www.griffith.ox.ac.uk/gri/3biblist.html"
-        }, 
-        {
-            "label": "Seasons 1926-7 and 1927-8", 
-            "url": "http://www.griffith.ox.ac.uk/gri/4lucasn5.html"
-        }
+        "http://www.griffith.ox.ac.uk/gri/4TT64.html", 
+        "http://www.griffith.ox.ac.uk/gri/4TT79.html", 
+        "http://www.griffith.ox.ac.uk/gri/4TT80.html", 
+        "http://www.griffith.ox.ac.uk/gri/8_stelae_NK.pdf", 
+        "http://www.griffith.ox.ac.uk/gri/8_stelae_3IP_to_Roman.pdf", 
+        "http://www.griffith.ox.ac.uk/gri/7.html", 
+        "http://www.griffith.ox.ac.uk/gri/4horeau_intro.html", 
+        "http://www.griffith.ox.ac.uk/gri/4proj.html", 
+        "http://www.griffith.ox.ac.uk/gri/3cairo.pdf", 
+        "http://www.griffith.ox.ac.uk/gri/3biblist.html", 
+        "http://www.griffith.ox.ac.uk/gri/4lucasn5.html"
     ], 
-    "title": "Griffith Institute", 
+    "title": "Recent offerings from the Griffifth Institute", 
     "url": "http://www.griffith.ox.ac.uk/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

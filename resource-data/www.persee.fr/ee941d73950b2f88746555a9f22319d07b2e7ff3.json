@@ -1,49 +1,19 @@
 {
-    "description": "1983 : [ 52 ] 1983 : [ 52 ] 1983 : [ 52 ]", 
+    "description": "1983: [ 52 ] 1983: [ 52 ]", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:27.032718: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "classics", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "title": "L'Antiquit\u00e9 Classique", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/antiq"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7945682581620223967", 
-            "resource_date": "2013-12-29T07:35:34.289-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:27.033242"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html", 
-            "resource_date": "2013-12-29T07:35:34.289-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:27.033249"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "52", 
-    "title_extended": "L'Antiquit\u00e9 Classique: 52", 
+    "title": "1983 : [ 52 ]", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/antiq_0770-2817_1983_num_52_1", 
+    "volume": "52", 
+    "year": "1983", 
     "zotero_id": null
 }

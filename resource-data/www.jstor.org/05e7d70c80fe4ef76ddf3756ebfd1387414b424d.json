@@ -1,55 +1,28 @@
 {
-    "description": "The Journal of the Kilkenny and South-East of Ireland Archaeological Society Previous Title: Proceedings and Transactions of the Kilkenny and South-East of Ireland Archaeological Society", 
+    "description": "The Journal of the Historical and Archaeological Association of Ireland Previous Title: The Journal of the Kilkenny and South-East of Ireland Archaeological Society", 
     "domain": "www.jstor.org", 
-    "history": [
-        "2015-06-05T03:50:18.895416: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor_16.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "issn": "0790-892X", 
+        "title": "New Ancient World Content in JSTOR", 
+        "url": "http://www.jstor.org/page/info/about/archives/collections.jsp"
+    }, 
     "keywords": [
-        "Ireland", 
-        "JSTOR", 
-        "antiquity", 
-        "archaeology", 
         "journal", 
-        "proceedings"
+        "archaeology", 
+        "Ireland", 
+        "history"
     ], 
     "language": [
         "en", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6352810972116546516", 
-            "resource_date": "2009-12-16T17:16:41.654-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:18.895938"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor_16.html", 
-            "resource_date": "2009-12-16T17:16:41.654-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:18.895946"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "The Journal of the Kilkenny and South-East of Ireland Archaeological Society", 
-    "title_extended": "Journal of the Royal Society of Antiquaries of Ireland: The Journal of the Kilkenny and South-East of Ireland Archaeological Society", 
-    "url": "http://www.jstor.org/action/showPublication?journalCode=jkilksoeairearso", 
+    "title": "The Journal of the Historical and Archaeological Association of Ireland", 
+    "url": "http://www.jstor.org/action/showPublication?journalCode=jhistarchassoire", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

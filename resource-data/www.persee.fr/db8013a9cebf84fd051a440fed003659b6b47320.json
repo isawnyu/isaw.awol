@@ -1,49 +1,20 @@
 {
-    "description": "Ernesto Grassi", 
+    "description": "%IMAGEREPLACED%", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:18.459666: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "journal", 
-        "journal issues"
-    ], 
-    "language": [
-        "it", 
-        0.9653415662893655
-    ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
-            "resource_date": "2012-08-03T09:39:09.216-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:18.460182"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
-            "resource_date": "2012-08-03T09:39:09.216-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:18.460189"
-        }
-    ], 
+    "is_part_of": {
+        "issn": "1958-5926", 
+        "title": "Litt\u00e9rature", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/litt"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Ernesto Grassi", 
-    "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_litt_433", 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://www.persee.fr/articleAsPDF/litt_0047-4800_2001_num_122_2_1707/article_litt_0047-4800_2001_num_122_2_1707.pdf?mode=light", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

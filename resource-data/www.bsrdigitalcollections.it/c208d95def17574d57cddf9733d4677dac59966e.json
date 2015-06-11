@@ -1,0 +1,60 @@
+{
+    "description": "The British School at Rome Library and Archive Digital Collections In 2007, The Getty Foundation awarded the BSR Archive a grant to fund the arrangement and description of part of the J.B. Ward-Perkins photographic collection and the creation of this website which was launched in November 2009. It will include all BSR Library and Archive digital collections, not only Photographs but also other resources: Maps, Prints, Documents, Postcards, Drawings, Paintings and Manuscripts. As funding becomes available collections are digitized, catalogued and added to the website. The different phases of the project are listed below (click on headings for more information): - PRE-CATALOGUING - CATALOGUING - DIGITIZATION - METADATA STANDARDS FOR DIGITAL COLLECTIONS AND WEBSITE", 
+    "domain": "www.bsrdigitalcollections.it", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Rome", 
+        "archive"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8039900989753768737", 
+            "resource_date": "2013-02-27T09:13:09.507-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:04:35.980487"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/03/british-school-at-rome-library-and.html", 
+            "resource_date": "2013-02-27T09:13:09.507-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:04:35.980504"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.bsrdigitalcollections.it/photos.aspx", 
+        "http://www.bsrdigitalcollections.it/maps.aspx", 
+        "http://www.bsrdigitalcollections.it/prints.aspx", 
+        "http://www.bsrdigitalcollections.it/documents.aspx", 
+        "http://www.bsrdigitalcollections.it/manuscripts.aspx", 
+        "http://www.bsrdigitalcollections.it/paintings.aspx", 
+        "http://www.bsrdigitalcollections.it/drawings.aspx", 
+        "http://www.bsrdigitalcollections.it/postcards.aspx"
+    ], 
+    "title": "The British School at Rome Library and Archive Digital Collections", 
+    "url": "http://www.bsrdigitalcollections.it/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,14 +1,12 @@
 {
-    "description": "Oriental Institute News & Notes News & Notes is a Quarterly Publication of The Oriental Institute, printed for members as one of the privileges of membership .", 
+    "description": "[First posted in AWOL 23 April 2010. Most recently updated 10 December 2013] Oriental Institute News & Notes News & Notes is a Quarterly Publication of The Oriental Institute, printed for members as one of the privileges of membership.", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:30.805238: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "Oriental Institute", 
         "journal", 
-        "open access"
+        "open access", 
+        "Oriental Institute"
     ], 
     "language": [
         "en", 
@@ -19,8 +17,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -28,1052 +26,286 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
             "resource_date": "2013-12-10T13:02:44.344-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:30.805896"
+            "when": "2015-06-11T15:04:53.175642"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
             "resource_date": "2013-12-10T13:02:44.344-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:30.805906"
+            "when": "2015-06-11T15:04:53.175657"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "Winter (#220)", 
-            "url": "http://oi.uchicago.edu/pdf/nn220.pdf"
-        }, 
-        {
-            "label": "Winter (#216)", 
-            "url": "http://oi.uchicago.edu/pdf/nn216.pdf"
-        }, 
-        {
-            "label": "Spring (#217)", 
-            "url": "http://oi.uchicago.edu/pdf/nn217.pdf"
-        }, 
-        {
-            "label": "Summer (#218)", 
-            "url": "http://oi.uchicago.edu/pdf/nn218.pdf"
-        }, 
-        {
-            "label": "Fall (#219)", 
-            "url": "http://oi.uchicago.edu/pdf/nn219.pdf"
-        }, 
-        {
-            "label": "Winter (#212)", 
-            "url": "http://oi.uchicago.edu/pdf/nn212.pdf"
-        }, 
-        {
-            "label": "Spring (#213)", 
-            "url": "http://oi.uchicago.edu/pdf/nn213.pdf"
-        }, 
-        {
-            "label": "Summer (#214)", 
-            "url": "http://oi.uchicago.edu/pdf/nn214.pdf"
-        }, 
-        {
-            "label": "Fall (#215)", 
-            "url": "http://oi.uchicago.edu/pdf/nn215.pdf"
-        }, 
-        {
-            "label": "Winter (#208)", 
-            "url": "http://oi.uchicago.edu/pdf/nn208.pdf"
-        }, 
-        {
-            "label": "Spring (#209)", 
-            "url": "http://oi.uchicago.edu/pdf/nn209.pdf"
-        }, 
-        {
-            "label": "Summer (#210)", 
-            "url": "http://oi.uchicago.edu/pdf/nn210.pdf"
-        }, 
-        {
-            "label": "Fall (#211)", 
-            "url": "http://oi.uchicago.edu/pdf/nn211.pdf"
-        }, 
-        {
-            "label": "Winter (#204)", 
-            "url": "http://oi.uchicago.edu/pdf/nn204.pdf"
-        }, 
-        {
-            "label": "Spring (#205)", 
-            "url": "http://oi.uchicago.edu/pdf/nn205.pdf"
-        }, 
-        {
-            "label": "Summer (#206)", 
-            "url": "http://oi.uchicago.edu/pdf/nn206.pdf"
-        }, 
-        {
-            "label": "Fall (#207)", 
-            "url": "http://oi.uchicago.edu/pdf/nn207.pdf"
-        }, 
-        {
-            "label": "Winter (#200)", 
-            "url": "http://oi.uchicago.edu/pdf/nn200.pdf"
-        }, 
-        {
-            "label": "Spring (#201)", 
-            "url": "http://oi.uchicago.edu/pdf/nn201.pdf"
-        }, 
-        {
-            "label": "Summer (#202)", 
-            "url": "http://oi.uchicago.edu/pdf/nn202.pdf"
-        }, 
-        {
-            "label": "Fall (#203)", 
-            "url": "http://oi.uchicago.edu/pdf/nn203.pdf"
-        }, 
-        {
-            "label": "Winter (#196)", 
-            "url": "http://oi.uchicago.edu/pdf/nn196.pdf"
-        }, 
-        {
-            "label": "Spring (#197)", 
-            "url": "http://oi.uchicago.edu/pdf/nn197.pdf"
-        }, 
-        {
-            "label": "Summer (#198)", 
-            "url": "http://oi.uchicago.edu/pdf/nn198.pdf"
-        }, 
-        {
-            "label": "Fall (#199)", 
-            "url": "http://oi.uchicago.edu/pdf/nn199.pdf"
-        }, 
-        {
-            "label": "Winter (#192)", 
-            "url": "http://oi.uchicago.edu/pdf/nn192.pdf"
-        }, 
-        {
-            "label": "Spring (#193)", 
-            "url": "http://oi.uchicago.edu/pdf/nn193.pdf"
-        }, 
-        {
-            "label": "Summer (#194)", 
-            "url": "http://oi.uchicago.edu/pdf/nn194.pdf"
-        }, 
-        {
-            "label": "Fall (#195)", 
-            "url": "http://oi.uchicago.edu/pdf/nn195.pdf"
-        }, 
-        {
-            "label": "Winter (#188)", 
-            "url": "http://oi.uchicago.edu/pdf/nn188.pdf"
-        }, 
-        {
-            "label": "Spring (#189)", 
-            "url": "http://oi.uchicago.edu/pdf/nn189.pdf"
-        }, 
-        {
-            "label": "Summer (#190)", 
-            "url": "http://oi.uchicago.edu/pdf/nn190.pdf"
-        }, 
-        {
-            "label": "Fall (#191)", 
-            "url": "http://oi.uchicago.edu/pdf/nn191.pdf"
-        }, 
-        {
-            "label": "Winter (#184)", 
-            "url": "http://oi.uchicago.edu/pdf/nn184.pdf"
-        }, 
-        {
-            "label": "Spring (#185)", 
-            "url": "http://oi.uchicago.edu/pdf/nn185.pdf"
-        }, 
-        {
-            "label": "Summer (#186)", 
-            "url": "http://oi.uchicago.edu/pdf/nn186.pdf"
-        }, 
-        {
-            "label": "Fall (#187)", 
-            "url": "http://oi.uchicago.edu/pdf/nn187.pdf"
-        }, 
-        {
-            "label": "Winter (#180)", 
-            "url": "http://oi.uchicago.edu/pdf/nn180.pdf"
-        }, 
-        {
-            "label": "Spring (#181)", 
-            "url": "http://oi.uchicago.edu/pdf/nn181.pdf"
-        }, 
-        {
-            "label": "Summer (#182)", 
-            "url": "http://oi.uchicago.edu/pdf/nn182.pdf"
-        }, 
-        {
-            "label": "Fall (#183)", 
-            "url": "http://oi.uchicago.edu/pdf/nn183.pdf"
-        }, 
-        {
-            "label": "Winter (#176)", 
-            "url": "http://oi.uchicago.edu/pdf/nn176.pdf"
-        }, 
-        {
-            "label": "Spring (#177)", 
-            "url": "http://oi.uchicago.edu/pdf/nn177.pdf"
-        }, 
-        {
-            "label": "Summer (#178)", 
-            "url": "http://oi.uchicago.edu/pdf/nn178.pdf"
-        }, 
-        {
-            "label": "Fall (#179)", 
-            "url": "http://oi.uchicago.edu/pdf/nn179.pdf"
-        }, 
-        {
-            "label": "Winter (#172)", 
-            "url": "http://oi.uchicago.edu/pdf/nn172.pdf"
-        }, 
-        {
-            "label": "Spring (#173)", 
-            "url": "http://oi.uchicago.edu/pdf/nn173.pdf"
-        }, 
-        {
-            "label": "Summer (#174)", 
-            "url": "http://oi.uchicago.edu/pdf/nn174.pdf"
-        }, 
-        {
-            "label": "Fall (#175)", 
-            "url": "http://oi.uchicago.edu/pdf/nn175.pdf"
-        }, 
-        {
-            "label": "Winter (#168)", 
-            "url": "http://oi.uchicago.edu/pdf/nn168.pdf"
-        }, 
-        {
-            "label": "Spring (#169)", 
-            "url": "http://oi.uchicago.edu/pdf/nn169.pdf"
-        }, 
-        {
-            "label": "Summer (#170)", 
-            "url": "http://oi.uchicago.edu/pdf/nn170.pdf"
-        }, 
-        {
-            "label": "Fall (#171)", 
-            "url": "http://oi.uchicago.edu/pdf/nn171.pdf"
-        }, 
-        {
-            "label": "Winter (#164)", 
-            "url": "http://oi.uchicago.edu/pdf/nn164.pdf"
-        }, 
-        {
-            "label": "Spring (#165)", 
-            "url": "http://oi.uchicago.edu/pdf/nn165.pdf"
-        }, 
-        {
-            "label": "Summer (#166)", 
-            "url": "http://oi.uchicago.edu/pdf/nn166.pdf"
-        }, 
-        {
-            "label": "Fall (#167)", 
-            "url": "http://oi.uchicago.edu/pdf/nn167.pdf"
-        }, 
-        {
-            "label": "Winter (#160)", 
-            "url": "http://oi.uchicago.edu/pdf/nn160.pdf"
-        }, 
-        {
-            "label": "Spring (#161)", 
-            "url": "http://oi.uchicago.edu/pdf/nn161.pdf"
-        }, 
-        {
-            "label": "Summer (#162)", 
-            "url": "http://oi.uchicago.edu/pdf/nn162.pdf"
-        }, 
-        {
-            "label": "Fall (#163)", 
-            "url": "http://oi.uchicago.edu/pdf/nn163.pdf"
-        }, 
-        {
-            "label": "Winter (#156)", 
-            "url": "http://oi.uchicago.edu/pdf/nn156.pdf"
-        }, 
-        {
-            "label": "Spring (#157)", 
-            "url": "http://oi.uchicago.edu/pdf/nn157.pdf"
-        }, 
-        {
-            "label": "Summer (#158)", 
-            "url": "http://oi.uchicago.edu/pdf/nn158.pdf"
-        }, 
-        {
-            "label": "Fall (#159)", 
-            "url": "http://oi.uchicago.edu/pdf/nn159.pdf"
-        }, 
-        {
-            "label": "Winter (#152)", 
-            "url": "http://oi.uchicago.edu/pdf/nn152.pdf"
-        }, 
-        {
-            "label": "Spring (#153)", 
-            "url": "http://oi.uchicago.edu/pdf/nn153.pdf"
-        }, 
-        {
-            "label": "Summer (#154)", 
-            "url": "http://oi.uchicago.edu/pdf/nn154.pdf"
-        }, 
-        {
-            "label": "Fall (#155)", 
-            "url": "http://oi.uchicago.edu/pdf/nn155.pdf"
-        }, 
-        {
-            "label": "Winter (#148)", 
-            "url": "http://oi.uchicago.edu/pdf/nn148.pdf"
-        }, 
-        {
-            "label": "Spring (#149)", 
-            "url": "http://oi.uchicago.edu/pdf/nn149.pdf"
-        }, 
-        {
-            "label": "Summer (#150)", 
-            "url": "http://oi.uchicago.edu/pdf/nn150.pdf"
-        }, 
-        {
-            "label": "Fall (#151)", 
-            "url": "http://oi.uchicago.edu/pdf/nn151.pdf"
-        }, 
-        {
-            "label": "Winter (#144)", 
-            "url": "http://oi.uchicago.edu/pdf/nn144.pdf"
-        }, 
-        {
-            "label": "Spring (#145)", 
-            "url": "http://oi.uchicago.edu/pdf/nn145.pdf"
-        }, 
-        {
-            "label": "Summer (#146)", 
-            "url": "http://oi.uchicago.edu/pdf/nn146.pdf"
-        }, 
-        {
-            "label": "Fall (#147)", 
-            "url": "http://oi.uchicago.edu/pdf/nn147.pdf"
-        }, 
-        {
-            "label": "Winter (#140)", 
-            "url": "http://oi.uchicago.edu/pdf/nn140.pdf"
-        }, 
-        {
-            "label": "Spring (#141)", 
-            "url": "http://oi.uchicago.edu/pdf/nn141.pdf"
-        }, 
-        {
-            "label": "Summer (#142)", 
-            "url": "http://oi.uchicago.edu/pdf/nn142.pdf"
-        }, 
-        {
-            "label": "Fall (#143)", 
-            "url": "http://oi.uchicago.edu/pdf/nn143.pdf"
-        }, 
-        {
-            "label": "Winter (#136)", 
-            "url": "http://oi.uchicago.edu/pdf/nn136.pdf"
-        }, 
-        {
-            "label": "Spring (#137)", 
-            "url": "http://oi.uchicago.edu/pdf/nn137.pdf"
-        }, 
-        {
-            "label": "Summer (#138)", 
-            "url": "http://oi.uchicago.edu/pdf/nn138.pdf"
-        }, 
-        {
-            "label": "Fall (#139)", 
-            "url": "http://oi.uchicago.edu/pdf/nn139.pdf"
-        }, 
-        {
-            "label": "Spring (#133)", 
-            "url": "http://oi.uchicago.edu/pdf/nn133.pdf"
-        }, 
-        {
-            "label": "Summer (#134)", 
-            "url": "http://oi.uchicago.edu/pdf/nn134.pdf"
-        }, 
-        {
-            "label": "Fall (#135)", 
-            "url": "http://oi.uchicago.edu/pdf/nn135.pdf"
-        }, 
-        {
-            "label": "Winter (#127)", 
-            "url": "http://oi.uchicago.edu/pdf/nn127.pdf"
-        }, 
-        {
-            "label": "Spring (#128)", 
-            "url": "http://oi.uchicago.edu/pdf/nn128.pdf"
-        }, 
-        {
-            "label": "Spring (#129)", 
-            "url": "http://oi.uchicago.edu/pdf/nn129.pdf"
-        }, 
-        {
-            "label": "Summer (#130)", 
-            "url": "http://oi.uchicago.edu/pdf/nn130.pdf"
-        }, 
-        {
-            "label": "Fall (#131)", 
-            "url": "http://oi.uchicago.edu/pdf/nn131.pdf"
-        }, 
-        {
-            "label": "Fall (#132)", 
-            "url": "http://oi.uchicago.edu/pdf/nn132.pdf"
-        }, 
-        {
-            "label": "Winter (#122)", 
-            "url": "http://oi.uchicago.edu/pdf/nn122.pdf"
-        }, 
-        {
-            "label": "Spring (#123)", 
-            "url": "http://oi.uchicago.edu/pdf/nn123.pdf"
-        }, 
-        {
-            "label": "Summer (#124)", 
-            "url": "http://oi.uchicago.edu/pdf/nn124.pdf"
-        }, 
-        {
-            "label": "Fall (#125)", 
-            "url": "http://oi.uchicago.edu/pdf/nn125.pdf"
-        }, 
-        {
-            "label": "Fall (#126)", 
-            "url": "http://oi.uchicago.edu/pdf/nn126.pdf"
-        }, 
-        {
-            "label": "Winter (#117)", 
-            "url": "http://oi.uchicago.edu/pdf/nn117.pdf"
-        }, 
-        {
-            "label": "Spring (#118)", 
-            "url": "http://oi.uchicago.edu/pdf/nn118.pdf"
-        }, 
-        {
-            "label": "Summer (#119)", 
-            "url": "http://oi.uchicago.edu/pdf/nn119.pdf"
-        }, 
-        {
-            "label": "Fall (#120)", 
-            "url": "http://oi.uchicago.edu/pdf/nn120.pdf"
-        }, 
-        {
-            "label": "Fall (#121)", 
-            "url": "http://oi.uchicago.edu/pdf/nn121.pdf"
-        }, 
-        {
-            "label": "Winter (#112)", 
-            "url": "http://oi.uchicago.edu/pdf/nn112.pdf"
-        }, 
-        {
-            "label": "Spring (#113)", 
-            "url": "http://oi.uchicago.edu/pdf/nn113.pdf"
-        }, 
-        {
-            "label": "Summer (#114)", 
-            "url": "http://oi.uchicago.edu/pdf/nn114.pdf"
-        }, 
-        {
-            "label": "Fall (#115)", 
-            "url": "http://oi.uchicago.edu/pdf/nn115.pdf"
-        }, 
-        {
-            "label": "Fall (#116)", 
-            "url": "http://oi.uchicago.edu/pdf/nn116.pdf"
-        }, 
-        {
-            "label": "Winter (#107)", 
-            "url": "http://oi.uchicago.edu/pdf/nn107.pdf"
-        }, 
-        {
-            "label": "Spring (#108)", 
-            "url": "http://oi.uchicago.edu/pdf/nn108.pdf"
-        }, 
-        {
-            "label": "Summer (#109)", 
-            "url": "http://oi.uchicago.edu/pdf/nn109.pdf"
-        }, 
-        {
-            "label": "Fall (#110)", 
-            "url": "http://oi.uchicago.edu/pdf/nn110.pdf"
-        }, 
-        {
-            "label": "Fall (#111)", 
-            "url": "http://oi.uchicago.edu/pdf/nn111.pdf"
-        }, 
-        {
-            "label": "Winter (#102)", 
-            "url": "http://oi.uchicago.edu/pdf/nn102.pdf"
-        }, 
-        {
-            "label": "Spring (#103)", 
-            "url": "http://oi.uchicago.edu/pdf/nn103.pdf"
-        }, 
-        {
-            "label": "Summer (#104)", 
-            "url": "http://oi.uchicago.edu/pdf/nn104.pdf"
-        }, 
-        {
-            "label": "Fall (#105)", 
-            "url": "http://oi.uchicago.edu/pdf/nn105.pdf"
-        }, 
-        {
-            "label": "Fall (#106)", 
-            "url": "http://oi.uchicago.edu/pdf/nn106.pdf"
-        }, 
-        {
-            "label": "Winter (#97)", 
-            "url": "http://oi.uchicago.edu/pdf/nn97.pdf"
-        }, 
-        {
-            "label": "Spring (#98)", 
-            "url": "http://oi.uchicago.edu/pdf/nn98.pdf"
-        }, 
-        {
-            "label": "Summer (#99)", 
-            "url": "http://oi.uchicago.edu/pdf/nn99.pdf"
-        }, 
-        {
-            "label": "Fall (#100)", 
-            "url": "http://oi.uchicago.edu/pdf/nn100.pdf"
-        }, 
-        {
-            "label": "Fall (#101)", 
-            "url": "http://oi.uchicago.edu/pdf/nn101.pdf"
-        }, 
-        {
-            "label": "Winter (#92)", 
-            "url": "http://oi.uchicago.edu/pdf/nn92.pdf"
-        }, 
-        {
-            "label": "Spring (#93)", 
-            "url": "http://oi.uchicago.edu/pdf/nn93.pdf"
-        }, 
-        {
-            "label": "Summer (#94)", 
-            "url": "http://oi.uchicago.edu/pdf/nn94.pdf"
-        }, 
-        {
-            "label": "Fall (#95)", 
-            "url": "http://oi.uchicago.edu/pdf/nn95.pdf"
-        }, 
-        {
-            "label": "Fall (#96)", 
-            "url": "http://oi.uchicago.edu/pdf/nn96.pdf"
-        }, 
-        {
-            "label": "Winter (#84)", 
-            "url": "http://oi.uchicago.edu/pdf/nn84.pdf"
-        }, 
-        {
-            "label": "Winter (#85)", 
-            "url": "http://oi.uchicago.edu/pdf/nn85.pdf"
-        }, 
-        {
-            "label": "Winter (#86)", 
-            "url": "http://oi.uchicago.edu/pdf/nn86.pdf"
-        }, 
-        {
-            "label": "Spring (#87)", 
-            "url": "http://oi.uchicago.edu/pdf/nn87.pdf"
-        }, 
-        {
-            "label": "Spring (#88)", 
-            "url": "http://oi.uchicago.edu/pdf/nn88.pdf"
-        }, 
-        {
-            "label": "Summer (#89)", 
-            "url": "http://oi.uchicago.edu/pdf/nn89.pdf"
-        }, 
-        {
-            "label": "Fall (#90)", 
-            "url": "http://oi.uchicago.edu/pdf/nn90.pdf"
-        }, 
-        {
-            "label": "Fall (#91)", 
-            "url": "http://oi.uchicago.edu/pdf/nn91.pdf"
-        }, 
-        {
-            "label": "Winter (#75)", 
-            "url": "http://oi.uchicago.edu/pdf/nn75.pdf"
-        }, 
-        {
-            "label": "Winter (#76)", 
-            "url": "http://oi.uchicago.edu/pdf/nn76.pdf"
-        }, 
-        {
-            "label": "Winter (#77)", 
-            "url": "http://oi.uchicago.edu/pdf/nn77.pdf"
-        }, 
-        {
-            "label": "Spring (#78)", 
-            "url": "http://oi.uchicago.edu/pdf/nn78.pdf"
-        }, 
-        {
-            "label": "Spring (#79)", 
-            "url": "http://oi.uchicago.edu/pdf/nn79.pdf"
-        }, 
-        {
-            "label": "Summer (#80)", 
-            "url": "http://oi.uchicago.edu/pdf/nn80.pdf"
-        }, 
-        {
-            "label": "Fall (#81)", 
-            "url": "http://oi.uchicago.edu/pdf/nn81.pdf"
-        }, 
-        {
-            "label": "Fall (#82)", 
-            "url": "http://oi.uchicago.edu/pdf/nn82.pdf"
-        }, 
-        {
-            "label": "Fall (#83)", 
-            "url": "http://oi.uchicago.edu/pdf/nn83.pdf"
-        }, 
-        {
-            "label": "Winter (#67)", 
-            "url": "http://oi.uchicago.edu/pdf/nn67.pdf"
-        }, 
-        {
-            "label": "Winter (#68)", 
-            "url": "http://oi.uchicago.edu/pdf/nn68.pdf"
-        }, 
-        {
-            "label": "Winter (#69)", 
-            "url": "http://oi.uchicago.edu/pdf/nn69.pdf"
-        }, 
-        {
-            "label": "Spring (#70)", 
-            "url": "http://oi.uchicago.edu/pdf/nn70.pdf"
-        }, 
-        {
-            "label": "Summer (#71)", 
-            "url": "http://oi.uchicago.edu/pdf/nn71.pdf"
-        }, 
-        {
-            "label": "Fall (#72)", 
-            "url": "http://oi.uchicago.edu/pdf/nn72.pdf"
-        }, 
-        {
-            "label": "Fall (#73)", 
-            "url": "http://oi.uchicago.edu/pdf/nn73.pdf"
-        }, 
-        {
-            "label": "Fall (#74)", 
-            "url": "http://oi.uchicago.edu/pdf/nn74.pdf"
-        }, 
-        {
-            "label": "Winter (#58)", 
-            "url": "http://oi.uchicago.edu/pdf/nn58.pdf"
-        }, 
-        {
-            "label": "Winter (#59)", 
-            "url": "http://oi.uchicago.edu/pdf/nn59.pdf"
-        }, 
-        {
-            "label": "Winter (#60)", 
-            "url": "http://oi.uchicago.edu/pdf/nn60.pdf"
-        }, 
-        {
-            "label": "Spring (#61)", 
-            "url": "http://oi.uchicago.edu/pdf/nn61.pdf"
-        }, 
-        {
-            "label": "Spring (#62)", 
-            "url": "http://oi.uchicago.edu/pdf/nn62.pdf"
-        }, 
-        {
-            "label": "Summer (#63)", 
-            "url": "http://oi.uchicago.edu/pdf/nn63.pdf"
-        }, 
-        {
-            "label": "Fall (#64)", 
-            "url": "http://oi.uchicago.edu/pdf/nn64.pdf"
-        }, 
-        {
-            "label": "Fall (#65)", 
-            "url": "http://oi.uchicago.edu/pdf/nn65.pdf"
-        }, 
-        {
-            "label": "Fall (#66)", 
-            "url": "http://oi.uchicago.edu/pdf/nn66.pdf"
-        }, 
-        {
-            "label": "Winter (#49)", 
-            "url": "http://oi.uchicago.edu/pdf/nn49.pdf"
-        }, 
-        {
-            "label": "Winter (#50)", 
-            "url": "http://oi.uchicago.edu/pdf/nn50.pdf"
-        }, 
-        {
-            "label": "Winter (#51)", 
-            "url": "http://oi.uchicago.edu/pdf/nn51.pdf"
-        }, 
-        {
-            "label": "Spring (#52)", 
-            "url": "http://oi.uchicago.edu/pdf/nn52.pdf"
-        }, 
-        {
-            "label": "Spring (#53)", 
-            "url": "http://oi.uchicago.edu/pdf/nn53.pdf"
-        }, 
-        {
-            "label": "Summer (#54)", 
-            "url": "http://oi.uchicago.edu/pdf/nn54.pdf"
-        }, 
-        {
-            "label": "Fall (#55)", 
-            "url": "http://oi.uchicago.edu/pdf/nn55.pdf"
-        }, 
-        {
-            "label": "Fall (#56)", 
-            "url": "http://oi.uchicago.edu/pdf/nn56.pdf"
-        }, 
-        {
-            "label": "Fall (#57)", 
-            "url": "http://oi.uchicago.edu/pdf/nn57.pdf"
-        }, 
-        {
-            "label": "Winter (#39)", 
-            "url": "http://oi.uchicago.edu/pdf/nn39.pdf"
-        }, 
-        {
-            "label": "Winter (#40)", 
-            "url": "http://oi.uchicago.edu/pdf/nn40.pdf"
-        }, 
-        {
-            "label": "Winter (#41)", 
-            "url": "http://oi.uchicago.edu/pdf/nn41.pdf"
-        }, 
-        {
-            "label": "Winter (#42)", 
-            "url": "http://oi.uchicago.edu/pdf/nn42.pdf"
-        }, 
-        {
-            "label": "Spring (#43)", 
-            "url": "http://oi.uchicago.edu/pdf/nn43.pdf"
-        }, 
-        {
-            "label": "Spring (#44)", 
-            "url": "http://oi.uchicago.edu/pdf/nn44.pdf"
-        }, 
-        {
-            "label": "Summer (#45)", 
-            "url": "http://oi.uchicago.edu/pdf/nn45.pdf"
-        }, 
-        {
-            "label": "Fall (#46)", 
-            "url": "http://oi.uchicago.edu/pdf/nn46.pdf"
-        }, 
-        {
-            "label": "Fall (#47)", 
-            "url": "http://oi.uchicago.edu/pdf/nn47.pdf"
-        }, 
-        {
-            "label": "Fall (#48)", 
-            "url": "http://oi.uchicago.edu/pdf/nn48.pdf"
-        }, 
-        {
-            "label": "Winter (#33)", 
-            "url": "http://oi.uchicago.edu/pdf/nn33.pdf"
-        }, 
-        {
-            "label": "Spring (#34)", 
-            "url": "http://oi.uchicago.edu/pdf/nn34.pdf"
-        }, 
-        {
-            "label": "Summer (#35)", 
-            "url": "http://oi.uchicago.edu/pdf/nn35.pdf"
-        }, 
-        {
-            "label": "Fall (#36)", 
-            "url": "http://oi.uchicago.edu/pdf/nn36.pdf"
-        }, 
-        {
-            "label": "Fall (#37)", 
-            "url": "http://oi.uchicago.edu/pdf/nn37.pdf"
-        }, 
-        {
-            "label": "Fall (#38)", 
-            "url": "http://oi.uchicago.edu/pdf/nn38.pdf"
-        }, 
-        {
-            "label": "Winter (#23)", 
-            "url": "http://oi.uchicago.edu/pdf/nn23.pdf"
-        }, 
-        {
-            "label": "Winter (#24)", 
-            "url": "http://oi.uchicago.edu/pdf/nn24.pdf"
-        }, 
-        {
-            "label": "Winter (#25)", 
-            "url": "http://oi.uchicago.edu/pdf/nn25.pdf"
-        }, 
-        {
-            "label": "Spring (#26)", 
-            "url": "http://oi.uchicago.edu/pdf/nn26.pdf"
-        }, 
-        {
-            "label": "Spring (#27)", 
-            "url": "http://oi.uchicago.edu/pdf/nn27.pdf"
-        }, 
-        {
-            "label": "Summer (#28)", 
-            "url": "http://oi.uchicago.edu/pdf/nn28.pdf"
-        }, 
-        {
-            "label": "Fall (#29)", 
-            "url": "http://oi.uchicago.edu/pdf/nn29.pdf"
-        }, 
-        {
-            "label": "Fall (#30)", 
-            "url": "http://oi.uchicago.edu/pdf/nn30.pdf"
-        }, 
-        {
-            "label": "Fall (#31)", 
-            "url": "http://oi.uchicago.edu/pdf/nn31.pdf"
-        }, 
-        {
-            "label": "Fall (#32)", 
-            "url": "http://oi.uchicago.edu/pdf/nn32.pdf"
-        }, 
-        {
-            "label": "Winter (#13)", 
-            "url": "http://oi.uchicago.edu/pdf/nn13.pdf"
-        }, 
-        {
-            "label": "Winter (#14)", 
-            "url": "http://oi.uchicago.edu/pdf/nn14.pdf"
-        }, 
-        {
-            "label": "Winter (#15)", 
-            "url": "http://oi.uchicago.edu/pdf/nn15.pdf"
-        }, 
-        {
-            "label": "Spring (#16)", 
-            "url": "http://oi.uchicago.edu/pdf/nn16.pdf"
-        }, 
-        {
-            "label": "Spring (#17)", 
-            "url": "http://oi.uchicago.edu/pdf/nn17.pdf"
-        }, 
-        {
-            "label": "Summer (#18)", 
-            "url": "http://oi.uchicago.edu/pdf/nn18.pdf"
-        }, 
-        {
-            "label": "Summer (#19)", 
-            "url": "http://oi.uchicago.edu/pdf/nn19.pdf"
-        }, 
-        {
-            "label": "Fall (#20)", 
-            "url": "http://oi.uchicago.edu/pdf/nn20.pdf"
-        }, 
-        {
-            "label": "Fall (#21)", 
-            "url": "http://oi.uchicago.edu/pdf/nn21.pdf"
-        }, 
-        {
-            "label": "Fall (#22)", 
-            "url": "http://oi.uchicago.edu/pdf/nn22.pdf"
-        }, 
-        {
-            "label": "Winter (#4)", 
-            "url": "http://oi.uchicago.edu/pdf/nn4.pdf"
-        }, 
-        {
-            "label": "Winter (#5)", 
-            "url": "http://oi.uchicago.edu/pdf/nn5.pdf"
-        }, 
-        {
-            "label": "Winter (#6)", 
-            "url": "http://oi.uchicago.edu/pdf/nn6.pdf"
-        }, 
-        {
-            "label": "Spring (#7)", 
-            "url": "http://oi.uchicago.edu/pdf/nn7.pdf"
-        }, 
-        {
-            "label": "Spring (#8)", 
-            "url": "http://oi.uchicago.edu/pdf/nn8.pdf"
-        }, 
-        {
-            "label": "Summer (#9)", 
-            "url": "http://oi.uchicago.edu/pdf/nn9.pdf"
-        }, 
-        {
-            "label": "Fall (#10)", 
-            "url": "http://oi.uchicago.edu/pdf/nn10.pdf"
-        }, 
-        {
-            "label": "Fall (#11)", 
-            "url": "http://oi.uchicago.edu/pdf/nn11.pdf"
-        }, 
-        {
-            "label": "Fall (#12)", 
-            "url": "http://oi.uchicago.edu/pdf/nn12.pdf"
-        }, 
-        {
-            "label": "Fall (#1)", 
-            "url": "http://oi.uchicago.edu/pdf/nn1.pdf"
-        }, 
-        {
-            "label": "Fall (#2)", 
-            "url": "http://oi.uchicago.edu/pdf/nn2.pdf"
-        }, 
-        {
-            "label": "Fall (#3)", 
-            "url": "http://oi.uchicago.edu/pdf/nn3.pdf"
-        }, 
-        {
-            "label": "No. 159 Fall 1998: CLAY SEALINGS AND TABLETS FROM TELL ASMAR: AN ANCIENT MESOPOTAMIAN PALACE REINVESTIGATED", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/fal98_diy.html"
-        }, 
-        {
-            "label": "No. 157 Spring 1998: ACHAEMENID ROYAL INSCRIPTIONS FROM PERSEPOLIS IN ELECTRONIC FORM", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/spr98_ari.html"
-        }, 
-        {
-            "label": "No. 156 Winter 1998: LETTERS FROM THE FIELD, 1950-1951 - EXCAVATIONS AT JARMO", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/win98_braidwood.html"
-        }, 
-        {
-            "label": "No. 155 Fall 1997: ORIENTAL INSTITUTE AMUQ VALLEY PROJECT: The 1996 Field Season", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/fal97_amu.html"
-        }, 
-        {
-            "label": "No. 154 Summer 1997: ORIENTAL INSTITUTE DHAMAR PROJECT - NOTES ON THE 1996 FIELD SEASON", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/sum97_yem.html"
-        }, 
-        {
-            "label": "No. 153 Spring 1997: EXCAVATIONS AT CHOGHA BONUT - THE EARLIEST VILLAGE IN SUSIANA, IRAN", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/spr97_alizadeh.html"
-        }, 
-        {
-            "label": "No. 152 Winter 1997: INSTITUTE ON THE INTERNET", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/win97_cashion.html"
-        }, 
-        {
-            "label": "No. 151 Fall 1996: THE REVOLUTIONARY ROLE OF THE SUN IN THE RELIEFS AND STATUARY OF AMENHOTEP III", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/fal96_epi.html"
-        }, 
-        {
-            "label": "No. 150 Summer 1996: RENOVATION MOVES FORWARD", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/sum96_teeter.html"
-        }, 
-        {
-            "label": "No. 149 Spring 1996: ETYMOLOGY AND ELECTRONICS: THE AFROASIATIC INDEX", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/spr96_cus.html"
-        }, 
-        {
-            "label": "No. 149 Spring 1996: AQABA WORK DEFIES MOTHER NATURE", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/spr96_aqa.html"
-        }, 
-        {
-            "label": "No. 148 Winter 1996: THE AMUQ VALLEY PROJECT, 1995", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/win96_amu.html"
-        }, 
-        {
-            "label": "No. 147 Fall 1995: A BALIKH PROSPECT", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/fal95_jaz.html"
-        }, 
-        {
-            "label": "No. 146 Summer 1995: TIN SMELTING AT THE ORIENTAL INSTITUTE", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/sum95_gol.html"
-        }, 
-        {
-            "label": "No. 145 Spring 1995: RECENT DISCOVERIES AT ASHKELON", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/spr95_ash.html"
-        }, 
-        {
-            "label": "No. 144 Winter 1995: WHO WAS WHO AMONG THE ROYAL MUMMIES", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/win95_wente.html"
-        }, 
-        {
-            "label": "No. 143 Fall 1994: EXPEDITION TO EGYPT, 1919: EXCERPTS FROM THE LETTERS OF JAMES HENRY BREASTED", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/fal94_breasted.html"
-        }, 
-        {
-            "label": "No. 142 Summer 1994: MORE MEDINET HABU DOCUMENTS RECOVERED", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/sum94_teeter.html"
-        }, 
-        {
-            "label": "No. 142 Summer 1994: IRANIAN POTTERY IN THE ORIENTAL INSTITUTE", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/sum94_grant.html"
-        }, 
-        {
-            "label": "No. 141 Spring 1994: WATER AND RECENT EXCAVATIONS AT AQABA", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/spr94_aqa.html"
-        }, 
-        {
-            "label": "No. 140 Winter 1994: MEDINET HABU DOCUMENTS RECOVERED", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/win94_teeter.html"
-        }, 
-        {
-            "label": "No. 140 Winter 1994: MANAGING METALS: AN EARLY BRONZE AGE TIN PRODUCTION SITE AT G\u00d6LTEPE, TURKEY", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/win94_gol.html"
-        }, 
-        {
-            "label": "No. 138 Summer 1993: BIR UMM FAWAKHIR: 1993 Survet Project", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/sum93_faw.html"
-        }, 
-        {
-            "label": "No. 137 Spring 1993: METHODS OF INVESTIGATION OF THE DEAD SEA SCROLLS AND THE KHIRBET QUMRAN SITE - A CONFERENCE REPORT", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/spr93_scr.html"
-        }, 
-        {
-            "label": "No. 136 Winter 1992: THE PUPPY IN HITTITE RITUAL", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/win92_collins.html"
-        }, 
-        {
-            "label": "No. 136 Winter 1992: TWO WEEKS IN THE EGYPTIAN DESERT: THE BIR UMM FAWAKHIR PROJECT, JANUARY 1992", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/win92_faw.html"
-        }, 
-        {
-            "label": "No. 135 Fall 1992: EXCAVATIONS AT GIZA 1988-1991: The Location and Importance of the Pyramid Settlement", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/fal92_giz.html"
-        }, 
-        {
-            "label": "No. 134 Summer 1992: EXCAVATIONS AT TELL ES-SWEYHAT IN SYRIA 1989 AND 1991", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/sum92_swe.html"
-        }, 
-        {
-            "label": "No. 133 Spring 1992: CRUSADING TO THE PAST", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/spr92_jacobsen.html"
-        }, 
-        {
-            "label": "No. 132 Autumn 1991: MODERN BREWERS RECREATE ANCIENT BEER", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/fal91_civil.html"
-        }, 
-        {
-            "label": "No. 131 September 1991: STUDYING THE MUMMY OF PETOSIRIS - A PRELIMINARY REPORT", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/sep91_kircos.html"
-        }, 
-        {
-            "label": "No. 129 May-June 1991: THE CHICAGO ASSYRIAN DICTIONARY AT SEVENTY", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/may91_cad.html"
-        }, 
-        {
-            "label": "No. 126 November-December 1990: RECONNAISSANCE IN AQABA", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/nov90_aqa.html"
-        }, 
-        {
-            "label": "No. 125 September-October 1990: NIPPUR, 1990: GULA, GODDESS OF HEALING, AND AN AKKADIAN TOMB", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/sep90_nip.html"
-        }, 
-        {
-            "label": "No. 123 March-April 1990: WATER AND GOLD: THE 1989 SEASON AT AQABA", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/mar90_aqa.html"
-        }, 
-        {
-            "label": "No. 122 January-February 1990: AQABA/AYLA: EXCAVATING FOR THE FUTURE", 
-            "url": "http://oi.uchicago.edu/research/pubs/nn/jan90_aqa.html"
-        }, 
-        {
-            "label": "The Oriental Institute Archaeological Newsletter (1950-1973)", 
-            "url": "https://oi.uchicago.edu/research/pubs/archeological/"
-        }
+        "https://oi.uchicago.edu/getinvolved/", 
+        "http://oi.uchicago.edu/pdf/nn220.pdf", 
+        "http://oi.uchicago.edu/pdf/nn216.pdf", 
+        "http://oi.uchicago.edu/pdf/nn217.pdf", 
+        "http://oi.uchicago.edu/pdf/nn218.pdf", 
+        "http://oi.uchicago.edu/pdf/nn219.pdf", 
+        "http://oi.uchicago.edu/pdf/nn212.pdf", 
+        "http://oi.uchicago.edu/pdf/nn213.pdf", 
+        "http://oi.uchicago.edu/pdf/nn214.pdf", 
+        "http://oi.uchicago.edu/pdf/nn215.pdf", 
+        "http://oi.uchicago.edu/pdf/nn208.pdf", 
+        "http://oi.uchicago.edu/pdf/nn209.pdf", 
+        "http://oi.uchicago.edu/pdf/nn210.pdf", 
+        "http://oi.uchicago.edu/pdf/nn211.pdf", 
+        "http://oi.uchicago.edu/pdf/nn204.pdf", 
+        "http://oi.uchicago.edu/pdf/nn205.pdf", 
+        "http://oi.uchicago.edu/pdf/nn206.pdf", 
+        "http://oi.uchicago.edu/pdf/nn207.pdf", 
+        "http://oi.uchicago.edu/pdf/nn200.pdf", 
+        "http://oi.uchicago.edu/pdf/nn201.pdf", 
+        "http://oi.uchicago.edu/pdf/nn202.pdf", 
+        "http://oi.uchicago.edu/pdf/nn203.pdf", 
+        "http://oi.uchicago.edu/pdf/nn196.pdf", 
+        "http://oi.uchicago.edu/pdf/nn197.pdf", 
+        "http://oi.uchicago.edu/pdf/nn198.pdf", 
+        "http://oi.uchicago.edu/pdf/nn199.pdf", 
+        "http://oi.uchicago.edu/pdf/nn192.pdf", 
+        "http://oi.uchicago.edu/pdf/nn193.pdf", 
+        "http://oi.uchicago.edu/pdf/nn194.pdf", 
+        "http://oi.uchicago.edu/pdf/nn195.pdf", 
+        "http://oi.uchicago.edu/pdf/nn188.pdf", 
+        "http://oi.uchicago.edu/pdf/nn189.pdf", 
+        "http://oi.uchicago.edu/pdf/nn190.pdf", 
+        "http://oi.uchicago.edu/pdf/nn191.pdf", 
+        "http://oi.uchicago.edu/pdf/nn184.pdf", 
+        "http://oi.uchicago.edu/pdf/nn185.pdf", 
+        "http://oi.uchicago.edu/pdf/nn186.pdf", 
+        "http://oi.uchicago.edu/pdf/nn187.pdf", 
+        "http://oi.uchicago.edu/pdf/nn180.pdf", 
+        "http://oi.uchicago.edu/pdf/nn181.pdf", 
+        "http://oi.uchicago.edu/pdf/nn182.pdf", 
+        "http://oi.uchicago.edu/pdf/nn183.pdf", 
+        "http://oi.uchicago.edu/pdf/nn176.pdf", 
+        "http://oi.uchicago.edu/pdf/nn177.pdf", 
+        "http://oi.uchicago.edu/pdf/nn178.pdf", 
+        "http://oi.uchicago.edu/pdf/nn179.pdf", 
+        "http://oi.uchicago.edu/pdf/nn172.pdf", 
+        "http://oi.uchicago.edu/pdf/nn173.pdf", 
+        "http://oi.uchicago.edu/pdf/nn174.pdf", 
+        "http://oi.uchicago.edu/pdf/nn175.pdf", 
+        "http://oi.uchicago.edu/pdf/nn168.pdf", 
+        "http://oi.uchicago.edu/pdf/nn169.pdf", 
+        "http://oi.uchicago.edu/pdf/nn170.pdf", 
+        "http://oi.uchicago.edu/pdf/nn171.pdf", 
+        "http://oi.uchicago.edu/pdf/nn164.pdf", 
+        "http://oi.uchicago.edu/pdf/nn165.pdf", 
+        "http://oi.uchicago.edu/pdf/nn166.pdf", 
+        "http://oi.uchicago.edu/pdf/nn167.pdf", 
+        "http://oi.uchicago.edu/pdf/nn160.pdf", 
+        "http://oi.uchicago.edu/pdf/nn161.pdf", 
+        "http://oi.uchicago.edu/pdf/nn162.pdf", 
+        "http://oi.uchicago.edu/pdf/nn163.pdf", 
+        "http://oi.uchicago.edu/pdf/nn156.pdf", 
+        "http://oi.uchicago.edu/pdf/nn157.pdf", 
+        "http://oi.uchicago.edu/pdf/nn158.pdf", 
+        "http://oi.uchicago.edu/pdf/nn159.pdf", 
+        "http://oi.uchicago.edu/pdf/nn152.pdf", 
+        "http://oi.uchicago.edu/pdf/nn153.pdf", 
+        "http://oi.uchicago.edu/pdf/nn154.pdf", 
+        "http://oi.uchicago.edu/pdf/nn155.pdf", 
+        "http://oi.uchicago.edu/pdf/nn148.pdf", 
+        "http://oi.uchicago.edu/pdf/nn149.pdf", 
+        "http://oi.uchicago.edu/pdf/nn150.pdf", 
+        "http://oi.uchicago.edu/pdf/nn151.pdf", 
+        "http://oi.uchicago.edu/pdf/nn144.pdf", 
+        "http://oi.uchicago.edu/pdf/nn145.pdf", 
+        "http://oi.uchicago.edu/pdf/nn146.pdf", 
+        "http://oi.uchicago.edu/pdf/nn147.pdf", 
+        "http://oi.uchicago.edu/pdf/nn140.pdf", 
+        "http://oi.uchicago.edu/pdf/nn141.pdf", 
+        "http://oi.uchicago.edu/pdf/nn142.pdf", 
+        "http://oi.uchicago.edu/pdf/nn143.pdf", 
+        "http://oi.uchicago.edu/pdf/nn136.pdf", 
+        "http://oi.uchicago.edu/pdf/nn137.pdf", 
+        "http://oi.uchicago.edu/pdf/nn138.pdf", 
+        "http://oi.uchicago.edu/pdf/nn139.pdf", 
+        "http://oi.uchicago.edu/pdf/nn133.pdf", 
+        "http://oi.uchicago.edu/pdf/nn134.pdf", 
+        "http://oi.uchicago.edu/pdf/nn135.pdf", 
+        "http://oi.uchicago.edu/pdf/nn127.pdf", 
+        "http://oi.uchicago.edu/pdf/nn128.pdf", 
+        "http://oi.uchicago.edu/pdf/nn129.pdf", 
+        "http://oi.uchicago.edu/pdf/nn130.pdf", 
+        "http://oi.uchicago.edu/pdf/nn131.pdf", 
+        "http://oi.uchicago.edu/pdf/nn132.pdf", 
+        "http://oi.uchicago.edu/pdf/nn122.pdf", 
+        "http://oi.uchicago.edu/pdf/nn123.pdf", 
+        "http://oi.uchicago.edu/pdf/nn124.pdf", 
+        "http://oi.uchicago.edu/pdf/nn125.pdf", 
+        "http://oi.uchicago.edu/pdf/nn126.pdf", 
+        "http://oi.uchicago.edu/pdf/nn117.pdf", 
+        "http://oi.uchicago.edu/pdf/nn118.pdf", 
+        "http://oi.uchicago.edu/pdf/nn119.pdf", 
+        "http://oi.uchicago.edu/pdf/nn120.pdf", 
+        "http://oi.uchicago.edu/pdf/nn121.pdf", 
+        "http://oi.uchicago.edu/pdf/nn112.pdf", 
+        "http://oi.uchicago.edu/pdf/nn113.pdf", 
+        "http://oi.uchicago.edu/pdf/nn114.pdf", 
+        "http://oi.uchicago.edu/pdf/nn115.pdf", 
+        "http://oi.uchicago.edu/pdf/nn116.pdf", 
+        "http://oi.uchicago.edu/pdf/nn107.pdf", 
+        "http://oi.uchicago.edu/pdf/nn108.pdf", 
+        "http://oi.uchicago.edu/pdf/nn109.pdf", 
+        "http://oi.uchicago.edu/pdf/nn110.pdf", 
+        "http://oi.uchicago.edu/pdf/nn111.pdf", 
+        "http://oi.uchicago.edu/pdf/nn102.pdf", 
+        "http://oi.uchicago.edu/pdf/nn103.pdf", 
+        "http://oi.uchicago.edu/pdf/nn104.pdf", 
+        "http://oi.uchicago.edu/pdf/nn105.pdf", 
+        "http://oi.uchicago.edu/pdf/nn106.pdf", 
+        "http://oi.uchicago.edu/pdf/nn97.pdf", 
+        "http://oi.uchicago.edu/pdf/nn98.pdf", 
+        "http://oi.uchicago.edu/pdf/nn99.pdf", 
+        "http://oi.uchicago.edu/pdf/nn100.pdf", 
+        "http://oi.uchicago.edu/pdf/nn101.pdf", 
+        "http://oi.uchicago.edu/pdf/nn92.pdf", 
+        "http://oi.uchicago.edu/pdf/nn93.pdf", 
+        "http://oi.uchicago.edu/pdf/nn94.pdf", 
+        "http://oi.uchicago.edu/pdf/nn95.pdf", 
+        "http://oi.uchicago.edu/pdf/nn96.pdf", 
+        "http://oi.uchicago.edu/pdf/nn84.pdf", 
+        "http://oi.uchicago.edu/pdf/nn85.pdf", 
+        "http://oi.uchicago.edu/pdf/nn86.pdf", 
+        "http://oi.uchicago.edu/pdf/nn87.pdf", 
+        "http://oi.uchicago.edu/pdf/nn88.pdf", 
+        "http://oi.uchicago.edu/pdf/nn89.pdf", 
+        "http://oi.uchicago.edu/pdf/nn90.pdf", 
+        "http://oi.uchicago.edu/pdf/nn91.pdf", 
+        "http://oi.uchicago.edu/pdf/nn75.pdf", 
+        "http://oi.uchicago.edu/pdf/nn76.pdf", 
+        "http://oi.uchicago.edu/pdf/nn77.pdf", 
+        "http://oi.uchicago.edu/pdf/nn78.pdf", 
+        "http://oi.uchicago.edu/pdf/nn79.pdf", 
+        "http://oi.uchicago.edu/pdf/nn80.pdf", 
+        "http://oi.uchicago.edu/pdf/nn81.pdf", 
+        "http://oi.uchicago.edu/pdf/nn82.pdf", 
+        "http://oi.uchicago.edu/pdf/nn83.pdf", 
+        "http://oi.uchicago.edu/pdf/nn67.pdf", 
+        "http://oi.uchicago.edu/pdf/nn68.pdf", 
+        "http://oi.uchicago.edu/pdf/nn69.pdf", 
+        "http://oi.uchicago.edu/pdf/nn70.pdf", 
+        "http://oi.uchicago.edu/pdf/nn71.pdf", 
+        "http://oi.uchicago.edu/pdf/nn72.pdf", 
+        "http://oi.uchicago.edu/pdf/nn73.pdf", 
+        "http://oi.uchicago.edu/pdf/nn74.pdf", 
+        "http://oi.uchicago.edu/pdf/nn58.pdf", 
+        "http://oi.uchicago.edu/pdf/nn59.pdf", 
+        "http://oi.uchicago.edu/pdf/nn60.pdf", 
+        "http://oi.uchicago.edu/pdf/nn61.pdf", 
+        "http://oi.uchicago.edu/pdf/nn62.pdf", 
+        "http://oi.uchicago.edu/pdf/nn63.pdf", 
+        "http://oi.uchicago.edu/pdf/nn64.pdf", 
+        "http://oi.uchicago.edu/pdf/nn65.pdf", 
+        "http://oi.uchicago.edu/pdf/nn66.pdf", 
+        "http://oi.uchicago.edu/pdf/nn49.pdf", 
+        "http://oi.uchicago.edu/pdf/nn50.pdf", 
+        "http://oi.uchicago.edu/pdf/nn51.pdf", 
+        "http://oi.uchicago.edu/pdf/nn52.pdf", 
+        "http://oi.uchicago.edu/pdf/nn53.pdf", 
+        "http://oi.uchicago.edu/pdf/nn54.pdf", 
+        "http://oi.uchicago.edu/pdf/nn55.pdf", 
+        "http://oi.uchicago.edu/pdf/nn56.pdf", 
+        "http://oi.uchicago.edu/pdf/nn57.pdf", 
+        "http://oi.uchicago.edu/pdf/nn39.pdf", 
+        "http://oi.uchicago.edu/pdf/nn40.pdf", 
+        "http://oi.uchicago.edu/pdf/nn41.pdf", 
+        "http://oi.uchicago.edu/pdf/nn42.pdf", 
+        "http://oi.uchicago.edu/pdf/nn43.pdf", 
+        "http://oi.uchicago.edu/pdf/nn44.pdf", 
+        "http://oi.uchicago.edu/pdf/nn45.pdf", 
+        "http://oi.uchicago.edu/pdf/nn46.pdf", 
+        "http://oi.uchicago.edu/pdf/nn47.pdf", 
+        "http://oi.uchicago.edu/pdf/nn48.pdf", 
+        "http://oi.uchicago.edu/pdf/nn33.pdf", 
+        "http://oi.uchicago.edu/pdf/nn34.pdf", 
+        "http://oi.uchicago.edu/pdf/nn35.pdf", 
+        "http://oi.uchicago.edu/pdf/nn36.pdf", 
+        "http://oi.uchicago.edu/pdf/nn37.pdf", 
+        "http://oi.uchicago.edu/pdf/nn38.pdf", 
+        "http://oi.uchicago.edu/pdf/nn23.pdf", 
+        "http://oi.uchicago.edu/pdf/nn24.pdf", 
+        "http://oi.uchicago.edu/pdf/nn25.pdf", 
+        "http://oi.uchicago.edu/pdf/nn26.pdf", 
+        "http://oi.uchicago.edu/pdf/nn27.pdf", 
+        "http://oi.uchicago.edu/pdf/nn28.pdf", 
+        "http://oi.uchicago.edu/pdf/nn29.pdf", 
+        "http://oi.uchicago.edu/pdf/nn30.pdf", 
+        "http://oi.uchicago.edu/pdf/nn31.pdf", 
+        "http://oi.uchicago.edu/pdf/nn32.pdf", 
+        "http://oi.uchicago.edu/pdf/nn13.pdf", 
+        "http://oi.uchicago.edu/pdf/nn14.pdf", 
+        "http://oi.uchicago.edu/pdf/nn15.pdf", 
+        "http://oi.uchicago.edu/pdf/nn16.pdf", 
+        "http://oi.uchicago.edu/pdf/nn17.pdf", 
+        "http://oi.uchicago.edu/pdf/nn18.pdf", 
+        "http://oi.uchicago.edu/pdf/nn19.pdf", 
+        "http://oi.uchicago.edu/pdf/nn20.pdf", 
+        "http://oi.uchicago.edu/pdf/nn21.pdf", 
+        "http://oi.uchicago.edu/pdf/nn22.pdf", 
+        "http://oi.uchicago.edu/pdf/nn4.pdf", 
+        "http://oi.uchicago.edu/pdf/nn5.pdf", 
+        "http://oi.uchicago.edu/pdf/nn6.pdf", 
+        "http://oi.uchicago.edu/pdf/nn7.pdf", 
+        "http://oi.uchicago.edu/pdf/nn8.pdf", 
+        "http://oi.uchicago.edu/pdf/nn9.pdf", 
+        "http://oi.uchicago.edu/pdf/nn10.pdf", 
+        "http://oi.uchicago.edu/pdf/nn11.pdf", 
+        "http://oi.uchicago.edu/pdf/nn12.pdf", 
+        "http://oi.uchicago.edu/pdf/nn1.pdf", 
+        "http://oi.uchicago.edu/pdf/nn2.pdf", 
+        "http://oi.uchicago.edu/pdf/nn3.pdf", 
+        "http://oi.uchicago.edu/research/pubs/nn/fal98_diy.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/spr98_ari.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/win98_braidwood.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/fal97_amu.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/sum97_yem.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/spr97_alizadeh.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/win97_cashion.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/fal96_epi.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/sum96_teeter.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/spr96_cus.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/spr96_aqa.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/win96_amu.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/fal95_jaz.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/sum95_gol.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/spr95_ash.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/win95_wente.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/fal94_breasted.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/sum94_teeter.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/sum94_grant.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/spr94_aqa.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/win94_teeter.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/win94_gol.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/sum93_faw.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/spr93_scr.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/win92_collins.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/win92_faw.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/fal92_giz.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/sum92_swe.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/spr92_jacobsen.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/fal91_civil.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/sep91_kircos.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/may91_cad.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/nov90_aqa.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/sep90_nip.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/mar90_aqa.html", 
+        "http://oi.uchicago.edu/research/pubs/nn/jan90_aqa.html", 
+        "https://oi.uchicago.edu/research/pubs/archeological/"
     ], 
     "title": "Oriental Institute News & Notes", 
     "url": "http://oi.uchicago.edu/research/pubs/nn/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

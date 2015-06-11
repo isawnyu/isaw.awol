@@ -1,52 +1,26 @@
 {
-    "description": "Islamic Archeaology And The Oriental Institute. Tasha Vorderstrasse And Donald Whitcomb", 
+    "description": "Islamic Archeaology And The Oriental Institute. Tasha Vorderstrasse And Donald Whitcomb Jericho Mafjar Project. Donald Whitcomb", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:19.201491: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Oriental Institute 2011-2012 Annual Report Online", 
+        "url": "https://oi.uchicago.edu/research/pubs/ar/11-20/11-12/"
+    }, 
     "keywords": [
-        "Islam", 
-        "Oriental Institute", 
-        "annual report", 
         "religion", 
-        "report"
+        "Oriental Institute", 
+        "Islam"
     ], 
     "language": [
         "en", 
-        0.9999999999926545
+        0.9999999999999989
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6421273301002106069", 
-            "resource_date": "2013-02-19T12:59:49.211-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:19.202111"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/02/oriental-institute-2011-2012-annual.html", 
-            "resource_date": "2013-02-19T12:59:49.211-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:19.202120"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Islamic Archeaology And The Oriental Institute. Tasha Vorderstrasse And Donald Whitcomb", 
     "url": "https://oi.uchicago.edu/pdf/ar/11-20/11-12/11_12_IslamicArch.pdf", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

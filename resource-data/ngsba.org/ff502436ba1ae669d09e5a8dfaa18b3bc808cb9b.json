@@ -1,0 +1,64 @@
+{
+    "description": "NGSBA Excavation Reports (The Nelson Glueck School of Biblical Archaeology ) ISSN 2221-9420 This is our electronic journal which reports the results of our excavations. Some are preliminary reports (larger sites) and some are final reports (smaller sites). Some reports concern our community work (Lod and Givat Sher), other reports deal with our research projects (Tel Dan, Tel Arad) and most reports deal with salvage work. The salvage excavations can also be found by site in the contract archaeology section and research excavations and community digs under the excavations tab.", 
+    "domain": "ngsba.org", 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "2221-9420"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "keywords": [
+        "Israel", 
+        "journal", 
+        "The Nelson Glueck School of Biblical Archaeology", 
+        "reports", 
+        "open access", 
+        "Palestine", 
+        "archaeology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1606043371077882736", 
+            "resource_date": "2013-10-07T11:09:01.247-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:02:26.059399"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/new-open-access-journal-ngsba.html", 
+            "resource_date": "2013-10-07T11:09:01.247-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:02:26.059413"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://ngsba.org/en/ngsba-archaeology-journal"
+    ], 
+    "title": "NGSBA Excavation Reports", 
+    "url": "http://ngsba.org/en/ngsba-excavation-reports", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

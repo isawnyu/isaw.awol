@@ -1,0 +1,56 @@
+{
+    "description": "The Chicago Homer Ahuvia Kahane and Martin Mueller, editors Craig Berry and Bill Parod, technical editors", 
+    "domain": "digital.library.northwestern.edu", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Homer"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8312642218166771883", 
+            "resource_date": "2012-03-04T08:54:06.303-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:04:41.333897"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/chicago-homer.html", 
+            "resource_date": "2012-03-04T08:54:06.303-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:04:41.333912"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://digital.library.northwestern.edu/homer/aboutchicagohomer.html", 
+        "http://digital.library.northwestern.edu/homer/helpbottomframset.html", 
+        "http://digital.library.northwestern.edu/homer/helpbotunderstandframeset.html", 
+        "http://digital.library.northwestern.edu/homer/tutorial.html", 
+        "http://digital.library.northwestern.edu/homer/technicalrequirements.html"
+    ], 
+    "title": "The Chicago Homer", 
+    "url": "http://digital.library.northwestern.edu/homer/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,51 +1,24 @@
 {
-    "description": "Mission arche\u0301ologique de Mari. V. IV: Le Tre\u0301sor d'Ur", 
+    "description": "Mission arch\u00e9ologique de Mari. V. II: le palais. Pt. 2: peintures murales", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:13.300933: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/mission-archeologique-de-mari-in-amar.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Mission Arch\u00e9ologique de Mari in AMAR", 
+        "url": "http://amar.hsclib.sunysb.edu/amar/"
+    }, 
     "keywords": [
-        "Amar", 
-        "Mari", 
-        "Syria", 
         "archaeology"
     ], 
     "language": [
         "fr", 
-        0.999998657799351
+        1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-492969630572444609", 
-            "resource_date": "2012-03-02T16:41:33.535-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:13.301511"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/03/mission-archeologique-de-mari-in-amar.html", 
-            "resource_date": "2012-03-02T16:41:33.535-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:13.301519"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Mission arche\u0301ologique de Mari. V. IV: Le Tre\u0301sor d'Ur", 
-    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=76260&REC=6", 
+    "title": "Mission arch\u00e9ologique de Mari. V. II: le palais", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=76433&REC=3", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

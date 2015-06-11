@@ -1,51 +1,20 @@
 {
-    "description": "2006", 
+    "description": "2006 1", 
     "domain": "dialnet.unirioja.es", 
-    "history": [
-        "2015-06-05T03:50:07.464003: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/08/open-access-journal-marq-arqueologia-y.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Spain", 
-        "archaeology", 
-        "archeaology", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "1885-3145", 
+        "title": "Marq, arqueolog\u00eda y museos", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=7340"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-353171351403729158", 
-            "resource_date": "2013-01-22T15:22:26.159-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:07.464937"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-marq-arqueologia-y.html", 
-            "resource_date": "2013-01-22T15:22:26.159-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:07.464945"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "2006", 
-    "title_extended": "Marq, arqueolog\u00eda y museos: 2006", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=7340&clave_busqueda=2006", 
+    "volume": "2006", 
+    "year": null, 
     "zotero_id": null
 }

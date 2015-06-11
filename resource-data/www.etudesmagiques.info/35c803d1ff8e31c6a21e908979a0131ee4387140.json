@@ -1,0 +1,74 @@
+{
+    "description": "Ephesia Grammata ISSN: 1858-5896 [n.b. Worldcat and BNF use 1958-5896] Revues n\u00b01 - 2007", 
+    "domain": "www.etudesmagiques.info", 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1858-5896"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "keywords": [
+        "religion", 
+        "journal", 
+        "magic", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7356242589667277340", 
+            "resource_date": "2013-01-22T15:18:57.005-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:04:20.680965"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-ephesia-grammata.html", 
+            "resource_date": "2013-01-22T15:18:57.005-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:04:20.680981"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.etudesmagiques.info/2007/EG_2007-01.pdf", 
+        "http://www.etudesmagiques.info/2007/EG_2007-02.pdf", 
+        "http://www.etudesmagiques.info/2007/EG_2007-03.pdf", 
+        "http://www.etudesmagiques.info/varia/EG_Varia-01.pdf", 
+        "http://www.etudesmagiques.info/2007/EG_2007-bis.pdf", 
+        "http://www.etudesmagiques.info/2008/EG_2008-01.pdf", 
+        "http://www.etudesmagiques.info/2008/EG_2008-02.pdf", 
+        "http://www.etudesmagiques.info/2008/EG_2008-03.pdf", 
+        "http://www.etudesmagiques.info/2008/EG_2008-04.pdf", 
+        "http://www.etudesmagiques.info/2008/EG_Varia-02.pdf", 
+        "http://www.etudesmagiques.info/2009/EG_2009-01.pdf", 
+        "http://www.etudesmagiques.info/2009/EG_2009-02.pdf", 
+        "http://www.etudesmagiques.info/2009/EG_2009-03.pdf", 
+        "http://www.etudesmagiques.info/2010/EG_2010-01.pdf", 
+        "http://www.etudesmagiques.info/2010/EG_2010-02.pdf", 
+        "http://www.etudesmagiques.info/2012/EG_2012-01.pdf", 
+        "http://www.etudesmagiques.info/2012/EG_2012-02.pdf"
+    ], 
+    "title": "Ephesia Grammata", 
+    "url": "http://www.etudesmagiques.info/index2.php?go=revues", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,48 +1,20 @@
 {
     "description": "1", 
     "domain": "dialnet.unirioja.es", 
-    "history": [
-        "2015-06-05T03:50:17.266040: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "1575-3492", 
+        "title": "ISIMU: Revista sobre Oriente Pr\u00f3ximo y Egipto en la antig\u00fcedad", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=13138"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6061835246856823322", 
-            "resource_date": "2013-06-08T09:18:27.263-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:17.266566"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html", 
-            "resource_date": "2013-06-08T09:18:27.263-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:17.266573"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "1", 
-    "title_extended": "ISIMU: Revista sobre Oriente Pro\u0301ximo y Egipto en la antigu\u0308edad: 1", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13138&clave_busqueda=226671", 
+    "volume": "1", 
+    "year": "1", 
     "zotero_id": null
 }

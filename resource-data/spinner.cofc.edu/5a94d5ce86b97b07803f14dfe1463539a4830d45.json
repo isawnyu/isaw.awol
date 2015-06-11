@@ -1,0 +1,54 @@
+{
+    "description": "On-line Geographical Information System for the Theban Necropolis (OLGIS-TN) The Theban Necropolis Geological Mapping Project of the University of Charleston and the Serapis Research Institute announces the creation of the, a pilot project sponsored, in part, by the College of Charleston Santee-Cooper Geographic Information Systems Laboratory. It functions as an Internet clearing house to which scholars of the Theban necropolis can retrieve and contribute relevant data related to the cemeteries of ancient Thebes (located on the West Bank of modern Luxor, Egypt). Until now, no single real-time tool has existed for Egyptologists and scientists to store, retrieve, and manipulate complex data of various types related to the necropolis of private tombs in Western Thebes. However, recent advances in both Internet technology and geographic information systems (GIS) have led to the development of map-driven Web sites for accessing spatial, textual and image databases. The Theban Necropolis Geological Mapping Project freely provides this Web-based GIS-driven archaeological information management tool specifically for the Theban private necropolis. Although the coverage area will ultimately extend from Dra Abu'l Naga on the north to Medinet Habu on the south, at the beginning, the system will concentrate only on the hill of Sheikh Abd el-Qurnah. This information system acts as both a portal to data and a repository to facilitate the exchange of information among institutions and across disciplines. A map interface based on ultra-high resolution satellite imagery and Survey of Egypt topographical maps connects users with archaeological, cultural, historical, geological, and geographical data. %IMAGEREPLACED%", 
+    "domain": "spinner.cofc.edu", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Egypt", 
+        "Thebes", 
+        "archaeology", 
+        "Theban Necropolis", 
+        "Luxor"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1685821928418085093", 
+            "resource_date": "2012-10-19T16:41:51.021-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:02:27.502157"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/10/on-line-geographical-information-system.html", 
+            "resource_date": "2012-10-19T16:41:51.021-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:02:27.502173"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "On-line Geographical Information System for the Theban Necropolis (OLGIS-TN)", 
+    "url": "http://spinner.cofc.edu/olgis/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

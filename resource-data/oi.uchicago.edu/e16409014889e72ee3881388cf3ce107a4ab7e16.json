@@ -1,51 +1,24 @@
 {
-    "description": "AS 4. Beitrage zum Assyrischen W\u00f6rterbuch II. Bruno Meissner. Originally published in 1932. AS 4. Beitrage zum Assyrischen W\u00f6rterbuch II. Bruno Meissner. Originally published in 1932. AS 4. Beitrage zum Assyrischen W\u00f6rterbuch II. Bruno Meissner. Originally published in 1932. AS 4. Beitrage zum Assyrischen W\u00f6rterbuch II.", 
+    "description": "AS 4. Beitrage zum Assyrischen W\u00f6rterbuch II. Bruno Meissner. Originally published in 1932. AS 4. Beitrage zum Assyrischen W\u00f6rterbuch II.", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:02.274633: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html. (walk_to_json.py)"
-    ], 
     "identifiers": {
         "issn": {}
     }, 
-    "keywords": [
-        "Oriental Institute", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "title": "Oriental Institute Assyriological Studies (AS)", 
+        "url": "http://oi.uchicago.edu/research/pubs/catalog/as/"
+    }, 
+    "keywords": [], 
     "language": [
         "de", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2310553175017692217", 
-            "resource_date": "2013-12-29T16:00:12.703-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:02.275244"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html", 
-            "resource_date": "2013-12-29T16:00:12.703-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:02.275253"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "AS 4. Beitrage zum Assyrischen W\u00f6rterbuch II", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/as/as4.html", 
+    "volume": "4", 
+    "year": null, 
     "zotero_id": null
 }

@@ -1,0 +1,64 @@
+{
+    "description": "MANTIS: A Numismatic Technologies Integration Service The ANS collections database contains information on more than 600,000 objects in the Society\u2019s collections. These include, coins, paper money, tokens, \u2018primitive\u2019 money, medals and decorations, from all parts of the world, and all periods in which such objects have been produced. Show search instructions. %IMAGEREPLACED% ANS policies on the acquisition and deacquisition of numismatic items are available online", 
+    "domain": "numismatics.org", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "numismatics"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8010053222031561942", 
+            "resource_date": "2011-05-04T10:19:33.448-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:04:35.105294"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/american-numismatic-societys-new.html", 
+            "resource_date": "2011-05-04T10:19:33.448-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:04:35.105311"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://numismatics.org/search/#instructions", 
+        "http://numismatics.org/search/Greek", 
+        "http://numismatics.org/search/Roman", 
+        "http://numismatics.org/search/Byzantine", 
+        "http://numismatics.org/search/Islamic", 
+        "http://numismatics.org/search/EastAsian", 
+        "http://numismatics.org/search/SouthAsian", 
+        "http://numismatics.org/search/Medieval", 
+        "http://numismatics.org/search/Modern", 
+        "http://numismatics.org/search/UnitedStates", 
+        "http://numismatics.org/search/LatinAmerica", 
+        "http://numismatics.org/search/MedalsAndDecorations", 
+        "http://numismatics.org/About/AcquisitionDeacquisition"
+    ], 
+    "title": "MANTIS: American Numismatic Society's new collection interface", 
+    "url": "http://numismatics.org/search/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

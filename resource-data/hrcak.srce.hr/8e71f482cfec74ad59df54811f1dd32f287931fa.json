@@ -1,52 +1,20 @@
 {
-    "description": "Vol. 8 No. 1 Vol. 8 No. 1", 
+    "description": null, 
     "domain": "hrcak.srce.hr", 
-    "history": [
-        "2015-06-05T03:50:32.631032: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-vjesnik-arheoloskog.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Croatia", 
-        "Zagreb", 
-        "archaeology", 
-        "journal", 
-        "museums", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "0350-7165", 
+        "title": "Vjesnik Arheolo\u0161kog muzeja u Zagrebu - Journal of the Zagreb Archaeological Museum", 
+        "url": "http://hrcak.srce.hr/vjesnik-amz"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9222293135690947661", 
-            "resource_date": "2013-02-21T10:56:33.785-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:32.631685"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-vjesnik-arheoloskog.html", 
-            "resource_date": "2013-02-21T10:56:33.785-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:32.631693"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Vol. 8 \u00a0 No. 1", 
-    "title_extended": "Vjesnik Arheolo\u0161kog muzeja u Zagrebu - Journal of the Zagreb Archaeological Museum: Vol. 8 \u00a0 No. 1", 
+    "title": "", 
     "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4020", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

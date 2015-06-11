@@ -1,52 +1,20 @@
 {
-    "description": "1991", 
+    "description": "1991 5", 
     "domain": "dialnet.unirioja.es", 
-    "history": [
-        "2015-06-05T03:50:17.711340: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/10/open-access-journal-minerva-revista-de.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Greek", 
-        "Latin", 
-        "classics", 
-        "journal", 
-        "open access", 
-        "philology"
-    ], 
+    "is_part_of": {
+        "issn": "0213-9634", 
+        "title": "Minerva: Revista de filolog\u00eda cl\u00e1sica", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=945"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6165193776227937698", 
-            "resource_date": "2013-10-20T08:43:08.339-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:17.711912"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-minerva-revista-de.html", 
-            "resource_date": "2013-10-20T08:43:08.339-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:17.711920"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "1991", 
-    "title_extended": "Minerva: Revista de filolog\u00eda cl\u00e1sica: 1991", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=945&claveDeBusqueda=1991", 
+    "volume": "1991", 
+    "year": null, 
     "zotero_id": null
 }

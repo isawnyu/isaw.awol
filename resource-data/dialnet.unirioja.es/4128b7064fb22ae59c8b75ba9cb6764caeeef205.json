@@ -1,51 +1,20 @@
 {
     "description": "12", 
     "domain": "dialnet.unirioja.es", 
-    "history": [
-        "2015-06-05T03:50:18.304974: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/09/open-access-journal-bolskan-revista-de.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Spain", 
-        "archaeology", 
-        "archeaology", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "0214-4999", 
+        "title": "Bolskan: Revista de arqueolog\u00eda del Instituto de Estudios Altoaragoneses", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=231"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6251838140725817873", 
-            "resource_date": "2013-01-22T15:06:05.099-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:18.305554"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-journal-bolskan-revista-de.html", 
-            "resource_date": "2013-01-22T15:06:05.099-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:18.305562"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "12", 
-    "title_extended": "Bolskan: Revista de arqueolog\u00eda del Instituto de Estudios Altoaragoneses: 12", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12055", 
+    "volume": "12", 
+    "year": "12", 
     "zotero_id": null
 }

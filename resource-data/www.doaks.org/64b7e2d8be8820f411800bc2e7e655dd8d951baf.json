@@ -1,0 +1,66 @@
+{
+    "description": "Dumbarton Oaks Resources for Syriac Studies: An annotated collection of free and open source books, journals, and more related to the study of Syriac Introduction", 
+    "domain": "www.doaks.org", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Dumbarton Oaks", 
+        "Syriac", 
+        "Aramaic"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "title_extended", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1587289547026890940", 
+            "resource_date": "2013-04-18T09:11:53.313-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:02:25.111315"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/resources-for-syriac-studies.html", 
+            "resource_date": "2013-04-18T09:11:53.313-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:02:25.111335"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.doaks.org/research/byzantine/resources/syriac/about", 
+        "http://www.doaks.org/research/byzantine/resources/syriac/literary-histories", 
+        "http://www.doaks.org/research/byzantine/resources/syriac/lexica", 
+        "http://www.doaks.org/research/byzantine/resources/syriac/grammars", 
+        "http://www.doaks.org/research/byzantine/resources/syriac/manuscripts", 
+        "http://www.doaks.org/research/byzantine/resources/syriac/bible", 
+        "http://www.doaks.org/research/byzantine/resources/syriac/hagiography", 
+        "http://www.doaks.org/research/byzantine/resources/syriac/chronicles", 
+        "http://www.doaks.org/research/byzantine/resources/syriac/journals", 
+        "http://www.doaks.org/research/byzantine/resources/syriac/maps-and-geography", 
+        "http://www.doaks.org/research/byzantine/resources/syriac/scholarship"
+    ], 
+    "title": "Dumbarton Oaks Resources for Syriac Studies", 
+    "title_extended": "Dumbarton Oaks Resources for Syriac Studies: An annotated collection of free and open source books, journals, and more related to the study of Syriac", 
+    "url": "http://www.doaks.org/research/byzantine/resources/syriac", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

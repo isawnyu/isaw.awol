@@ -1,53 +1,20 @@
 {
     "description": "[ 34-1-2 ] [ 34-3-4 ]", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:24.305136: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/open.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Pers\u00e9e", 
-        "Syria", 
-        "archaeology", 
-        "art", 
-        "history", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "0039-7946", 
+        "title": "Syria. Arch\u00e9ologie, Art et histoire", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/syria"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-733349865844137791", 
-            "resource_date": "2013-12-07T12:54:56.396-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:24.305818"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2009/08/open.html", 
-            "resource_date": "2013-12-07T12:54:56.396-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:24.305828"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "34-1-2", 
-    "title_extended": "Syria. Arch\u00e9ologie, Art et histoire: 34-1-2", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/syria_0039-7946_1957_num_34_1", 
+    "volume": "34-1-2", 
+    "year": "1957", 
     "zotero_id": null
 }

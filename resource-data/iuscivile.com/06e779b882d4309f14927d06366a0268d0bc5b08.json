@@ -1,0 +1,64 @@
+{
+    "description": "Roman Law Resources Ernest Metzger, University of Glasgow School of Law This site provides information on Roman law sources and literature, the teaching of Roman law, and the persons who study Roman law. The site is available in English and German. Users are invited to submit to this site any materials or information which might interest other users.", 
+    "domain": "iuscivile.com", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Roman", 
+        "law"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4594438270409648163", 
+            "resource_date": "2011-08-12T10:32:11.248-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:03:26.773570"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/roman-law-resources.html", 
+            "resource_date": "2011-08-12T10:32:11.248-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:03:26.773586"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://iuscivile.com/rss/rlrfeed.xml", 
+        "http://iuscivile.com/deu/", 
+        "http://iuscivile.com/materials/abbreviations/", 
+        "http://iuscivile.com/materials/biblio/", 
+        "http://iuscivile.com/information/blogs/", 
+        "http://iuscivile.com/information/journals/", 
+        "http://iuscivile.com/materials/digest/", 
+        "http://iuscivile.com/materials/literature/", 
+        "http://iuscivile.com/information/portals/", 
+        "http://iuscivile.com/information/societies/", 
+        "http://iuscivile.com/materials/sources/", 
+        "http://iuscivile.com/materials/teaching/"
+    ], 
+    "title": "Roman Law Resources", 
+    "url": "http://iuscivile.com/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

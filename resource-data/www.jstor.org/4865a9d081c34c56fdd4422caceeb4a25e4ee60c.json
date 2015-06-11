@@ -1,60 +1,32 @@
 {
-    "description": "Historical Archaeology (Arts & Sciences VI) Release Content: Vol. 1 (1967) \u2013 Vol. 40, No. 4 (2006) Moving Wall: 3 years Publisher: Society for Historical Archaeology ISSN: 0440-9213 The Ancient World in JSTOR : AWOL's full list of journals in JSTOR with substantial representation of the Ancient World. The Ancient World in JSTOR : AWOL's full list of journals in JSTOR with substantial representation of the Ancient World. The Ancient World in JSTOR", 
+    "description": "L\u2019Ann\u00e9e \u00e9pigraphique (Arts & Sciences VIII) Release Content: Ann\u00e9e 1888 (1889) \u2013 Ann\u00e9e 1999 (2002) Moving Wall: 7 years Publisher: Presses Universitaires de France ISSN: 0066-2348 Historical Archaeology", 
     "domain": "www.jstor.org", 
-    "history": [
-        "2015-06-05T03:50:24.683060: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/06/new-ancient-world-content-in-jstor.html. (walk_to_json.py)"
-    ], 
     "identifiers": {
         "issn": {
-            "generic": [
-                "0440-9213"
+            "electronic": [
+                "0066-2348"
             ]
         }
     }, 
+    "is_part_of": {
+        "issn": "0066-2348", 
+        "title": "New Ancient World Content in JSTOR", 
+        "url": "http://www.jstor.org/page/info/about/archives/collections.jsp"
+    }, 
     "keywords": [
-        "JSTOR", 
-        "antiquity", 
         "archaeology", 
-        "history", 
-        "journal"
+        "history"
     ], 
     "language": [
-        "en", 
+        "fr", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7372978400796051511", 
-            "resource_date": "2010-06-17T11:47:56.350-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:24.683688"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/06/new-ancient-world-content-in-jstor.html", 
-            "resource_date": "2010-06-17T11:47:56.350-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:24.683696"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Historical Archaeology", 
-    "title_extended": "L\u2019Ann\u00e9e \u00e9pigraphique: Historical Archaeology", 
-    "url": "http://www.jstor.org/action/showPublication?journalCode=histarch", 
+    "title": "L\u2019Ann\u00e9e \u00e9pigraphique", 
+    "url": "http://www.jstor.org/action/showPublication?journalCode=anneepig", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

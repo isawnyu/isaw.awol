@@ -1,49 +1,19 @@
 {
-    "description": "[ 6 ] 2006 : [ 7 ] [ 8 ]", 
+    "description": "[ 6 ] 2006: [ 7 ] [ 8 ]", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:15.928527: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/02/open-access-journal-culture-musees.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "culture", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "title": "Culture & Mus\u00e9es", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/pumus"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5763382825317509391", 
-            "resource_date": "2011-02-14T09:02:33.881-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:15.929053"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-culture-musees.html", 
-            "resource_date": "2011-02-14T09:02:33.881-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:15.929061"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "6", 
-    "title_extended": "Culture & Mus\u00e9es: 6", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/pumus_1766-2923_2005_num_6_1", 
+    "volume": "6", 
+    "year": "2005", 
     "zotero_id": null
 }

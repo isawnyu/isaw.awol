@@ -1,0 +1,51 @@
+{
+    "description": "NT Gateway to The New Testament Gateway, the award winning web directory of internet resources on the New Testament. Browse or search annotated links on everything connected with the academic study of the New Testament and Christian Origins. This major upgrade of the site improves navigation and introduces lots of new features. For all the latest information on the site, please visit the NT Gateway blog.", 
+    "domain": "www.ntgateway.com", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-541759555989944478", 
+            "resource_date": "2011-05-31T11:25:20.248-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:03:41.129896"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/nt-gateway-update.html", 
+            "resource_date": "2011-05-31T11:25:20.248-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:03:41.129917"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.ntgateway.com/category/blog/", 
+        "http://www.ntgateway.com/tools-and-resources/e-lists/"
+    ], 
+    "title": "NT Gateway Update", 
+    "url": "http://www.ntgateway.com/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

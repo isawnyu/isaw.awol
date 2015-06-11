@@ -1,16 +1,13 @@
 {
     "description": "Bibliographie de l'architecture grecque Ce site est l'archive des bulletins de bibliographie publi\u00e9s de 1992 \u00e0 2008, dans la Revue arch\u00e9ologique, sous le nom de Bulletin analytique d'architecture du monde grec, et se consulte comme un moteur de recherche. A partir de 2009, les notices sont uniquement \u00e9lectroniques et la mise \u00e0 jour comprend les notices de 2012.", 
     "domain": "www.mae.u-paris10.fr", 
-    "history": [
-        "2015-06-05T03:50:30.291933: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/bibliographie-de-larchitecture-grecque.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
         "Greece", 
-        "archaeology", 
-        "architecture", 
         "bibliography", 
-        "journal"
+        "archaeology", 
+        "architecture"
     ], 
     "language": [
         "fr", 
@@ -21,29 +18,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8823095998817827070", 
             "resource_date": "2013-09-21T09:38:34.200-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:30.292545"
+            "when": "2015-06-11T15:04:50.786993"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/bibliographie-de-larchitecture-grecque.html", 
             "resource_date": "2013-09-21T09:38:34.200-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:30.292553"
+            "when": "2015-06-11T15:04:50.787006"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Bibliographie de l'architecture grecque", 
     "url": "http://www.mae.u-paris10.fr/bullarchi/index.php", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

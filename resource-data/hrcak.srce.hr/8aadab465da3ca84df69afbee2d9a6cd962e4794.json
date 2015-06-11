@@ -1,9 +1,6 @@
 {
-    "description": "Nuntius ISSN: 1333-3852", 
+    "description": "Nuntius ISSN: 1333-3852 Nuntius je \u010dasopis Hrvatskog dru\u0161tva klasi\u010dnih filologa te sadr\u017ei znanstvene i stru\u010dne \u010dlanke iz podru\u010dja klasi\u010dne filologije, gr\u010dke i rimske kulture i povijesti, metodike nastave klasi\u010dnih jezika, kao i izvje\u0161\u0107a o radu Dru\u0161tva s kronikom doga\u0111aja.", 
     "domain": "hrcak.srce.hr", 
-    "history": [
-        "2015-06-05T03:50:00.380970: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2014/01/open-access-journal-nuntius.html. (walk_to_json.py)"
-    ], 
     "identifiers": {
         "issn": {
             "generic": [
@@ -11,20 +8,24 @@
             ]
         }
     }, 
+    "is_part_of": null, 
     "keywords": [
-        "Croatia", 
-        "classics", 
         "journal", 
+        "classics", 
+        "Croatia", 
         "open access"
     ], 
-    "language": null, 
+    "language": [
+        "hr", 
+        0.9999999999999987
+    ], 
     "provenance": [
         {
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -32,28 +33,29 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1909321759332139434", 
             "resource_date": "2014-01-05T13:58:34.245-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:00.381568"
+            "when": "2015-06-11T15:02:32.841807"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/open-access-journal-nuntius.html", 
             "resource_date": "2014-01-05T13:58:34.245-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:00.381576"
+            "when": "2015-06-11T15:02:32.841822"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "Vol. 31", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3157"
-        }
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=3157"
     ], 
     "title": "Nuntius", 
     "url": "http://hrcak.srce.hr/nuntius", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

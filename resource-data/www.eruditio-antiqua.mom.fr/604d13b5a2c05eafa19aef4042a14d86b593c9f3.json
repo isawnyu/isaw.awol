@@ -1,0 +1,65 @@
+{
+    "description": "[First posted in AWOL 17 February 2010. Updated 21 February 2013] Eruditio Antiqua, revue \u00e9lectronique de l'\u00e9rudition gr\u00e9co-latine ISSN: 2105-0791 Eruditio Antiqua est une revue \u00e9lectronique th\u00e9matique, \u00e0 comit\u00e9 de lecture international, dont l'objectif est de publier des travaux in\u00e9dits dans les diff\u00e9rents domaines de l'\u00e9rudition gr\u00e9co-latine, depuis les origines jusqu'\u00e0 la p\u00e9riode byzantine.", 
+    "domain": "www.eruditio-antiqua.mom.fr", 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "2105-0791"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "title_extended", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1453548584119029241", 
+            "resource_date": "2013-02-21T13:46:00.221-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:02:19.455796"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-eruditio-antiqua.html", 
+            "resource_date": "2013-02-21T13:46:00.221-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:02:19.455811"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.eruditio-antiqua.mom.fr/volume1.htm", 
+        "http://www.eruditio-antiqua.mom.fr/volume2.html", 
+        "http://www.eruditio-antiqua.mom.fr/volume3.html", 
+        "http://www.eruditio-antiqua.mom.fr/volume4.html", 
+        "http://www.eruditio-antiqua.mom.fr/appel.html"
+    ], 
+    "title": "Eruditio Antiqua", 
+    "title_extended": "Eruditio Antiqua, revue \u00e9lectronique de l'\u00e9rudition gr\u00e9co-latine", 
+    "url": "http://www.eruditio-antiqua.mom.fr/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

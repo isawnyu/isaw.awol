@@ -1,49 +1,20 @@
 {
-    "description": "2005", 
+    "description": "2005 2", 
     "domain": "dialnet.unirioja.es", 
-    "history": [
-        "2015-06-05T03:50:16.359090: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/08/open-access-journal-historiae.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Spain", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "1697-5456", 
+        "title": "Historiae", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=8011"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5899739834116650541", 
-            "resource_date": "2013-02-08T12:50:18.209-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:16.359638"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-historiae.html", 
-            "resource_date": "2013-02-08T12:50:18.209-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:16.359645"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "2005", 
-    "title_extended": "Historiae: 2005", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=8011&clave_busqueda=2005", 
+    "volume": "2005", 
+    "year": null, 
     "zotero_id": null
 }

@@ -1,49 +1,20 @@
 {
-    "description": "Vol. 6 No. 1 Vol. 6 No. 1", 
+    "description": null, 
     "domain": "hrcak.srce.hr", 
-    "history": [
-        "2015-06-05T03:50:21.228814: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-journal-opvscvla.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "archaeology", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "0473-0992", 
+        "title": "Opvscvla Archaeologica Radovi Arheolo\u0161kog zavoda", 
+        "url": "http://hrcak.srce.hr/opuscula"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6842039897589014782", 
-            "resource_date": "2012-09-14T05:54:47.148-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:21.229670"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-opvscvla.html", 
-            "resource_date": "2012-09-14T05:54:47.148-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:21.229679"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Vol. 6 \u00a0 No. 1", 
-    "title_extended": "Opvscvla Archaeologica Radovi Arheolo\u0161kog zavoda: Vol. 6 \u00a0 No. 1", 
-    "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=563", 
+    "title": "", 
+    "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=564", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

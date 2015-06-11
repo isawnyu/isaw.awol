@@ -1,53 +1,22 @@
 {
-    "description": "Volume viii ( Objects of Provenance Not Known ) Parts 1 and 2 ( Statues ) An updated sample text: Royal statues . Volume viii ( Objects of Provenance Not Known ) Parts 1 and 2 ( Statues ) An updated sample text: Royal statues . Volume viii ( Objects of Provenance Not Known ) Parts 1 and 2 ( Statues ) An updated sample text: Royal statues", 
+    "description": "Volume viii ( Objects of Provenance Not Known ) Parts 1 and 2 ( Statues ) An updated sample text: Royal statues. Volume viii ( Objects of Provenance Not Known ) Parts 1 and 2 ( Statues ) An updated sample text: Royal statues", 
     "domain": "www.griffith.ox.ac.uk", 
-    "history": [
-        "2015-06-05T03:50:31.994291: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/08/topographical-bibliography-of-ancient.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Egypt", 
-        "antiquity", 
-        "bibliography", 
-        "egyptology"
-    ], 
+    "is_part_of": {
+        "title": "Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Statues, Reliefs, and Paintings", 
+        "url": "http://www.griffith.ox.ac.uk/gri/3.html"
+    }, 
+    "keywords": [], 
     "language": [
         "en", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9116220403534355854", 
-            "resource_date": "2013-02-07T10:52:11.094-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:31.995361"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2009/08/topographical-bibliography-of-ancient.html", 
-            "resource_date": "2013-02-07T10:52:11.094-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:31.995376"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Royal statues", 
-    "title_extended": "Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Statues, Reliefs, and Paintings: Royal statues", 
+    "title": "Volume viii (Objects of Provenance Not Known) Parts 1 and 2 (Statues)An updated sample text: Royal statues", 
     "url": "http://www.griffith.ox.ac.uk/gri/3pm8sta1.pdf", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

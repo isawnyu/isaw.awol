@@ -1,15 +1,10 @@
 {
-    "description": "STEP: Scripture Tools for Every Person from Tyndale House, Cambridge STEP: Scripture Tools for Every Person This is Tyndale House\u2019s ongoing project to make the best resources for biblical studies freely available to everyone who needs them.\u00a0 The goal is to make the tools capable of working on phones and low-spec computers (even with\u00a0intermittent or\u00a0no internet access). The STEP Project aims to grant all believers access to a wealth of resources previously only available to specialist scholars .", 
+    "description": "STEP: Scripture Tools for Every Person from Tyndale House, Cambridge STEP: Scripture Tools for Every Person This is Tyndale House\u2019s ongoing project to make the best resources for biblical studies freely available to everyone who needs them.\u00a0 The goal is to make the tools capable of working on phones and low-spec computers (even with\u00a0intermittent or\u00a0no internet access). The STEP Project aims to grant all believers access to a wealth of resources previously only available to specialist scholars.", 
     "domain": "www.stepbible.org", 
-    "history": [
-        "2015-06-05T03:50:13.953399: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/07/step-scripture-tools-for-every-person.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
         "Cambridge", 
-        "bible", 
-        "project", 
-        "religion", 
         "tools"
     ], 
     "language": [
@@ -21,29 +16,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5119050310920171426", 
             "resource_date": "2013-07-24T08:46:08.784-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:13.953993"
+            "when": "2015-06-11T15:03:34.873080"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/step-scripture-tools-for-every-person.html", 
             "resource_date": "2013-07-24T08:46:08.784-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:13.954001"
+            "when": "2015-06-11T15:03:34.873101"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "STEP: Scripture Tools for Every Person from Tyndale House, Cambridge", 
     "url": "http://www.stepbible.org/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

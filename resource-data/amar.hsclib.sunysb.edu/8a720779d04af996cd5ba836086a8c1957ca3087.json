@@ -1,51 +1,22 @@
 {
-    "description": "Glyptik aus dem Stadtgebiet von Bog\u0306azko\u0308y: Grabungskampagnen 1931-1939, 1952-1978", 
+    "description": "Die Glyptik von Bo\u01e7azk\u00f6y", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:06.991602: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/bogazkoy-in-amir.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Amar", 
-        "Bo\u011fazk\u00f6y", 
-        "Turkey", 
-        "archaeology"
-    ], 
+    "is_part_of": {
+        "title": "Bogazkoy in AMAR", 
+        "url": "http://amar.hsclib.sunysb.edu/amar/"
+    }, 
+    "keywords": [], 
     "language": [
         "de", 
-        1.0
+        0.9999997449328788
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3364285961671530694", 
-            "resource_date": "2012-03-02T16:36:15.798-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:06.992121"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/03/bogazkoy-in-amir.html", 
-            "resource_date": "2012-03-02T16:36:15.798-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:06.992128"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Glyptik aus dem Stadtgebiet von Bog\u0306azko\u0308y: Grabungskampagnen 1931-1939, 1952-1978", 
-    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=85749&REC=10", 
+    "title": "Die Glyptik von Bo\u01e7azk\u00f6y", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=136220&REC=5", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

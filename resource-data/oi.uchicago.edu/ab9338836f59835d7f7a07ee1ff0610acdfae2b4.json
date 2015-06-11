@@ -1,51 +1,24 @@
 {
-    "description": "SAOC 50. Subsistence, Trade, and Social Change in Early Bronze Age Palestine. D. L. Esse. 1991.", 
+    "description": "SAOC 43. A Neolithic Village at Tell El Kowm in the Syrian Desert. R. Dornemann. 1986.", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:28.689177: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Newly Online from the Oriental Institute's Backlist", 
+        "url": "http://oi.uchicago.edu/research/pubs/catalog/as/as20.html"
+    }, 
     "keywords": [
-        "Oriental Institute", 
-        "Palestine", 
-        "backlist", 
-        "bronze"
+        "Syria"
     ], 
     "language": [
         "en", 
-        0.9999999999984723
+        0.9999999999999998
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8365232251359351016", 
-            "resource_date": "2012-11-23T07:14:32.413-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:28.689765"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html", 
-            "resource_date": "2012-11-23T07:14:32.413-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:28.689773"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "SAOC 50. Subsistence, Trade, and Social Change in Early Bronze Age Palestine", 
-    "url": "http://oi.uchicago.edu/research/pubs/catalog/saoc/saoc50.html", 
+    "title": "SAOC 43. A Neolithic Village at Tell El Kowm in the Syrian Desert", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/saoc/saoc43.html", 
+    "volume": "43", 
+    "year": null, 
     "zotero_id": null
 }

@@ -1,13 +1,11 @@
 {
-    "description": "Sanskrit Central :\u00a0 Sanskrit Aggregator, Books and Everything Sanskrit \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u0935\u093e\u0923\u0940 - The Unique Sanskrit Aggregator", 
+    "description": "Sanskrit Central:\u00a0 Sanskrit Aggregator, Books and Everything Sanskrit \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u0935\u093e\u0923\u0940 - The Unique Sanskrit Aggregator", 
     "domain": "sanskritcentral.com", 
-    "history": [
-        "2015-06-05T03:50:14.091905: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/sanskrit-aggregator.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "Sanskrit", 
-        "book"
+        "aggregator", 
+        "Sanskrit"
     ], 
     "language": [
         "no", 
@@ -18,29 +16,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5172025381679784475", 
             "resource_date": "2011-06-26T07:55:36.124-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:14.092473"
+            "when": "2015-06-11T15:03:36.160942"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/sanskrit-aggregator.html", 
             "resource_date": "2011-06-26T07:55:36.124-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:14.092481"
+            "when": "2015-06-11T15:03:36.160960"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Sanskrit Aggregator", 
     "url": "http://sanskritcentral.com/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

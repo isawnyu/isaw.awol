@@ -1,51 +1,20 @@
 {
-    "description": "2008", 
+    "description": "2008 39", 
     "domain": "dialnet.unirioja.es", 
-    "history": [
-        "2015-06-05T03:50:25.990723: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
-    "keywords": [
-        "Greek", 
-        "Latin", 
-        "classics", 
-        "journal", 
-        "open access"
-    ], 
+    "is_part_of": {
+        "issn": "0210-7694", 
+        "title": "Habis", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=633"
+    }, 
+    "keywords": [], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7705375700946621781", 
-            "resource_date": "2013-01-05T10:55:30.411-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:25.991246"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-journal-habis.html", 
-            "resource_date": "2013-01-05T10:55:30.411-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:25.991253"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "2008", 
-    "title_extended": "Habis: 2008", 
     "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=633&clave_busqueda=2008", 
+    "volume": "2008", 
+    "year": null, 
     "zotero_id": null
 }

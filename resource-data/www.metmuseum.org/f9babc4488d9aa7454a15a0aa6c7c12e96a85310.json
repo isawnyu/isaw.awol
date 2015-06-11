@@ -1,18 +1,11 @@
 {
-    "description": "The Department of Egyptian Art,\u00a0 The Metropolitan Museum of Art presents A Symposium on Haremhab: General and King of Egypt May 5, 2011 The Grace Rainey Rogers Auditorium Held in conjunction with the special exhibition Haremhab, The General Who Became King November 16, 2010 -- July 4, 2011", 
+    "description": "The Department of Egyptian Art,\u00a0 The Metropolitan Museum of Art presents A Symposium on Haremhab: General and King of Egypt May 5, 2011 The Grace Rainey Rogers Auditorium Held in conjunction with the special exhibition Haremhab, The General Who Became King", 
     "domain": "www.metmuseum.org", 
-    "history": [
-        "2015-06-05T03:50:14.645795: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/video-symposium-on-haremhab-general-and.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "Egypt", 
-        "Metropolitan Museum of Art", 
-        "art", 
         "conference", 
-        "egyptology", 
-        "exhibition", 
-        "museums"
+        "Egypt"
     ], 
     "language": [
         "en", 
@@ -23,29 +16,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5343623093497862513", 
             "resource_date": "2012-01-30T09:00:24.516-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:14.646399"
+            "when": "2015-06-11T15:03:40.196344"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/video-symposium-on-haremhab-general-and.html", 
             "resource_date": "2012-01-30T09:00:24.516-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:14.646407"
+            "when": "2015-06-11T15:03:40.196360"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "A Symposium on Haremhab: General and King of Egypt", 
     "url": "http://www.metmuseum.org/en/exhibitions/listings/2010/haremhab", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

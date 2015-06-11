@@ -1,54 +1,28 @@
 {
-    "description": "Oriental Institute Publications 76: Studies in Arabic Literary Papyri II: Qur'anic Commentary and Tradition , by Nabia Abbott (University of Chicago Press, 1967) Oriental Institute Publications 76: Studies in Arabic Literary Papyri II: Qur'anic Commentary and Tradition", 
+    "description": "Studies in Arabic Literary Papyri II: Qur'anic Commentary and Tradition, by Nabia Abbott (University of Chicago Press, 1967) Oriental Institute Publications 77: Studies in Arabic Literary Papyri III: Language and Literature", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:02.643799: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/04/newly-online-from-oriental-institutes.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Newly Online from the Oriental Institute's Backlist", 
+        "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip1.html"
+    }, 
     "keywords": [
+        "papyrology", 
         "Arabic", 
-        "Oriental Institute", 
-        "backlist", 
         "literature", 
-        "papyrology"
+        "language", 
+        "Oriental Institute"
     ], 
     "language": [
         "en", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2417933562394558038", 
-            "resource_date": "2012-11-09T22:16:19.631-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:02.645308"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/04/newly-online-from-oriental-institutes.html", 
-            "resource_date": "2012-11-09T22:16:19.631-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:02.645329"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Studies in Arabic Literary Papyri II: Qur'anic Commentary and Tradition", 
-    "title_extended": "Oriental Forerunners of Byzantine Painting: First-Century Wall Paintings from the Fortress of Dura on the Middle Euphrates: Studies in Arabic Literary Papyri II: Qur'anic Commentary and Tradition", 
     "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip76.html", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

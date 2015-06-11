@@ -1,9 +1,6 @@
 {
-    "description": "Antiquit\u00e9s africaines ISSN : ISSN : ISSN : ISSN : 0066-4871 eISSN - 2117-539X Cr\u00e9\u00e9e en 1966 \u00e0 Aix-en-Provence par le CNRS, Antiquit\u00e9s africaines a pour cadre scientifique la publication d\u2019\u00e9tudes historiques et arch\u00e9ologiques sur l\u2019Afrique du Nord, de la Pr\u00e9histoire \u00e0 la conqu\u00eate arabe. La g\u00e9ographie historique c\u00f4toie les faits g\u00e9n\u00e9raux de civilisation, l\u2019organisation administrative et militaire, l\u2019\u00e9conomie, la vie sociale, l\u2019histoire religieuse, etc., th\u00e8mes abord\u00e9s tant \u00e0 partir des sources litt\u00e9raires que des t\u00e9moignages arch\u00e9ologiques (c\u00e9ramique, \u00e9pigraphie, onomastique, mosa\u00efques, peinture, sculpture, numismatique, architecture, urbanisme\u2026).", 
+    "description": "Antiquit\u00e9s africaines ISSN: 0066-4871 eISSN - 2117-539X Cr\u00e9\u00e9e en 1966 \u00e0 Aix-en-Provence par le CNRS, Antiquit\u00e9s africaines a pour cadre scientifique la publication d\u2019\u00e9tudes historiques et arch\u00e9ologiques sur l\u2019Afrique du Nord, de la Pr\u00e9histoire \u00e0 la conqu\u00eate arabe. La g\u00e9ographie historique c\u00f4toie les faits g\u00e9n\u00e9raux de civilisation, l\u2019organisation administrative et militaire, l\u2019\u00e9conomie, la vie sociale, l\u2019histoire religieuse, etc., th\u00e8mes abord\u00e9s tant \u00e0 partir des sources litt\u00e9raires que des t\u00e9moignages arch\u00e9ologiques (c\u00e9ramique, \u00e9pigraphie, onomastique, mosa\u00efques, peinture, sculpture, numismatique, architecture, urbanisme\u2026).", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:20.496893: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/newly-open-access-journal-antiquites.html. (walk_to_json.py)"
-    ], 
     "identifiers": {
         "issn": {
             "electronic": [
@@ -14,13 +11,14 @@
             ]
         }
     }, 
+    "is_part_of": null, 
     "keywords": [
-        "North Africa", 
         "antiquity", 
-        "archaeology", 
-        "classics", 
         "journal", 
-        "open access"
+        "archaeology", 
+        "open access", 
+        "classics", 
+        "North Africa"
     ], 
     "language": [
         "fr", 
@@ -31,8 +29,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -40,164 +38,63 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6664532935434239322", 
             "resource_date": "2013-02-21T06:18:34.731-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:20.497458"
+            "when": "2015-06-11T15:04:09.291116"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/newly-open-access-journal-antiquites.html", 
             "resource_date": "2013-02-21T06:18:34.731-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:20.497466"
+            "when": "2015-06-11T15:04:09.291133"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "1", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1967_num_1_1"
-        }, 
-        {
-            "label": "2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1968_num_2_1"
-        }, 
-        {
-            "label": "3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1969_num_3_1"
-        }, 
-        {
-            "label": "4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1970_num_4_1"
-        }, 
-        {
-            "label": "5", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1971_num_5_1"
-        }, 
-        {
-            "label": "6", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1972_num_6_1"
-        }, 
-        {
-            "label": "7", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1973_num_7_1"
-        }, 
-        {
-            "label": "8", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1974_num_8_1"
-        }, 
-        {
-            "label": "9", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1975_num_9_1"
-        }, 
-        {
-            "label": "10", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1976_num_10_1"
-        }, 
-        {
-            "label": "11", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1977_num_11_1"
-        }, 
-        {
-            "label": "12", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1978_num_12_1"
-        }, 
-        {
-            "label": "13", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1979_num_13_1"
-        }, 
-        {
-            "label": "14", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1979_num_14_1"
-        }, 
-        {
-            "label": "15", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1980_num_15_1"
-        }, 
-        {
-            "label": "16", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1980_num_16_1"
-        }, 
-        {
-            "label": "17", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1981_num_17_1"
-        }, 
-        {
-            "label": "18", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1982_num_18_1"
-        }, 
-        {
-            "label": "19", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1983_num_19_1"
-        }, 
-        {
-            "label": "20", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1984_num_20_1"
-        }, 
-        {
-            "label": "21", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1985_num_21_1"
-        }, 
-        {
-            "label": "22", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1986_num_22_1"
-        }, 
-        {
-            "label": "23", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1987_num_23_1"
-        }, 
-        {
-            "label": "24", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1988_num_24_1"
-        }, 
-        {
-            "label": "25", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1989_num_25_1"
-        }, 
-        {
-            "label": "26", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1990_num_26_1"
-        }, 
-        {
-            "label": "27", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1991_num_27_1"
-        }, 
-        {
-            "label": "28", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1992_num_28_1"
-        }, 
-        {
-            "label": "29", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1993_num_29_1"
-        }, 
-        {
-            "label": "30", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1994_num_30_1"
-        }, 
-        {
-            "label": "31", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1995_num_31_1"
-        }, 
-        {
-            "label": "32", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1996_num_32_1"
-        }, 
-        {
-            "label": "33", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1997_num_33_1"
-        }, 
-        {
-            "label": "34", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1998_num_34_1"
-        }, 
-        {
-            "label": "35", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1999_num_35_1"
-        }
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1967_num_1_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1968_num_2_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1969_num_3_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1970_num_4_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1971_num_5_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1972_num_6_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1973_num_7_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1974_num_8_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1975_num_9_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1976_num_10_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1977_num_11_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1978_num_12_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1979_num_13_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1979_num_14_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1980_num_15_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1980_num_16_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1981_num_17_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1982_num_18_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1983_num_19_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1984_num_20_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1985_num_21_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1986_num_22_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1987_num_23_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1988_num_24_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1989_num_25_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1990_num_26_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1991_num_27_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1992_num_28_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1993_num_29_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1994_num_30_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1995_num_31_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1996_num_32_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1997_num_33_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1998_num_34_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/antaf_0066-4871_1999_num_35_1"
     ], 
     "title": "Antiquit\u00e9s africaines", 
     "url": "http://www.persee.fr/web/revues/home/prescript/revue/antaf", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

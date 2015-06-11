@@ -1,23 +1,23 @@
 {
-    "description": "Near Eastern Archaeology, Vol. 75, No. 4, December 2012", 
+    "description": "Now available to subscribers: Near Eastern Archaeology, Vol. 75, No. 4, December 2012 Bulletin of the American Schools of Oriental Research, No. 368, November 2012", 
     "domain": "www.jstor.org", 
-    "history": [
-        "2015-06-05T03:50:20.288008: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/01/new-issues-of-asor-journals.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "ASOR", 
-        "Near East", 
-        "journal"
+        "journal", 
+        "ASOR"
     ], 
-    "language": null, 
+    "language": [
+        "en", 
+        1.0
+    ], 
     "provenance": [
         {
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -25,23 +25,32 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-661757117171645575", 
             "resource_date": "2013-01-10T14:59:41.491-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:20.288810"
+            "when": "2015-06-11T15:04:07.465239"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/new-issues-of-asor-journals.html", 
             "resource_date": "2013-01-10T14:59:41.491-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:20.288823"
+            "when": "2015-06-11T15:04:07.465255"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [], 
-    "title": "Near Eastern Archaeology, Vol. 75, No. 4, December 2012", 
+    "subordinate_resources": [
+        "http://www.jstor.org/stable/10.5615/bullamerschoorie.issue-368", 
+        "http://www.jstor.org/token/NEA754vuQC7S54wHT2GEHW4xc/mark.asor.org", 
+        "http://www.jstor.org/token/BASOR368CzhaPBETvyZM8MqZBwSH/mark.asor.org", 
+        "http://www.jstor.org/action/showPublisher?publisherCode=asor"
+    ], 
+    "title": "New issues of ASOR journals", 
     "url": "http://www.jstor.org/stable/10.5615/neareastarch.75.issue-4", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

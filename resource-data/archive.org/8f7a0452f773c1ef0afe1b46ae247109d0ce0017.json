@@ -1,0 +1,58 @@
+{
+    "description": "The Babylonian and Oriental Record The Babylonian and oriental record (Volume 1)", 
+    "domain": "archive.org", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "journal", 
+        "Babylon", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4359521241765160773", 
+            "resource_date": "2013-08-26T11:15:51.075-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:03:23.579411"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/open-access-journal-babylonian-and.html", 
+            "resource_date": "2013-08-26T11:15:51.075-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:03:23.579426"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://archive.org/details/babylonianorient01lond", 
+        "http://archive.org/details/babylonianorient02lond", 
+        "http://archive.org/details/babylonianorient03lond", 
+        "http://archive.org/details/babylonianorient04lond", 
+        "http://archive.org/details/babylonianorient05londuoft"
+    ], 
+    "title": "The Babylonian and Oriental Record", 
+    "url": "http://archive.org/search.php?query=The%20Babylonian%20and%20oriental%20record%20AND%20mediatype%3Atexts", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

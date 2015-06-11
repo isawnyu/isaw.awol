@@ -1,0 +1,59 @@
+{
+    "description": "Byzantine Seals Online Catalogue The Dumbarton Oaks online catalogue is an ongoing project to record the 17,000 Byzantine\u00a0lead seals held by Dumbarton Oaks and publish them online. From this page you can browse\u00a0or search the collection, learn about sigillography and download tools to help teachers present\u00a0sigillography to their students. Byzantine Seals Online Catalogue Search the Catalogue How to use the catalogue Glossary Contact Us", 
+    "domain": "doaks.org", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "catalogue", 
+        "Byzantium", 
+        "seals"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6725000831548832028", 
+            "resource_date": "2012-05-06T08:12:25.273-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:04:09.642343"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/byzantine-seals-online-catalogue.html", 
+            "resource_date": "2012-05-06T08:12:25.273-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:04:09.642360"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://doaks.org/digital-humanities/seals", 
+        "http://doaks.org/digital-humanities/seals/byzantine-seals", 
+        "http://doaks.org/digital-humanities/seals/how-to-use-this-catalogue", 
+        "http://doaks.org/digital-humanities/seals/glossary", 
+        "http://doaks.org/digital-humanities/seals/contact-us", 
+        "http://doaks.org/digital-humanities/seals/contact-us"
+    ], 
+    "title": "Byzantine Seals Online Catalogue", 
+    "url": "http://doaks.org/digital-humanities/seals", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

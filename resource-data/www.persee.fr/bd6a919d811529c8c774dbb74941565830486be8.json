@@ -1,9 +1,6 @@
 {
-    "description": "Cahiers du Centre Gustave Glotz eISSN - 2117-5624 Les Cahiers du Centre Gustave Glotz sont n\u00e9s en 1990, sous la forme d\u2019un recueil d\u2019articles sur le th\u00e8me \u00ab Du pouvoir dans l\u2019antiquit\u00e9 \u00bb, coordonn\u00e9 par Claude Nicolet. D\u00e8s l\u2019ann\u00e9e suivante, ils se transform\u00e8rent en une revue annuelle d\u2019histoire de l\u2019Antiquit\u00e9, en grande partie sp\u00e9cialis\u00e9e dans l\u2019\u00e9tude des institutions et des structures sociales des mondes hell\u00e9nistique et romain. Les volumes rassemblent \u00e0 la fois des dossiers th\u00e9matiques et des articles de varia , r\u00e9dig\u00e9s le plus souvent en fran\u00e7ais, en anglais ou en italien. Depuis le 1er janvier 2010, les Cahiers du Centre Gustave Glotz constituent l\u2019une des revues de l\u2019\u00e9quipe ANHIMA (\u00ab Anthropologie et histoire des mondes antiques \u00bb, UMR 8210 du CNRS), issue de la fusion du Centre Louis Gernet, du Centre Gustave Glotz et de l\u2019\u00e9quipe Ph\u00e9acie. 1991-1999 1991 : [ 2 ] 1992 : [ 3 ] 1993 : [ 4 ] 1994 : [ 5 ] 1995 : [ 6 ] 1996 : [ 7 ] 1997 : [ 8 ] 1998 : [ 9 ] 1999 : [ 10 ] 2000-2009 2000 : [ 11 ] 2001 : [ 12 ] 2002 : [ 13 ] 2003 : [ 14 ] 2004 : [ 15 ] 2005 : [ 16 ] 2006 : [ 17 ]", 
+    "description": "Cahiers du Centre Gustave Glotz eISSN - 2117-5624 Les Cahiers du Centre Gustave Glotz sont n\u00e9s en 1990, sous la forme d\u2019un recueil d\u2019articles sur le th\u00e8me \u00ab Du pouvoir dans l\u2019antiquit\u00e9 \u00bb, coordonn\u00e9 par Claude Nicolet. D\u00e8s l\u2019ann\u00e9e suivante, ils se transform\u00e8rent en une revue annuelle d\u2019histoire de l\u2019Antiquit\u00e9, en grande partie sp\u00e9cialis\u00e9e dans l\u2019\u00e9tude des institutions et des structures sociales des mondes hell\u00e9nistique et romain. Les volumes rassemblent \u00e0 la fois des dossiers th\u00e9matiques et des articles de varia, r\u00e9dig\u00e9s le plus souvent en fran\u00e7ais, en anglais ou en italien. Depuis le 1er janvier 2010, les Cahiers du Centre Gustave Glotz constituent l\u2019une des revues de l\u2019\u00e9quipe ANHIMA (\u00ab Anthropologie et histoire des mondes antiques \u00bb, UMR 8210 du CNRS), issue de la fusion du Centre Louis Gernet, du Centre Gustave Glotz et de l\u2019\u00e9quipe Ph\u00e9acie. 1991-1999 1991: [ 2 ] 1992: [ 3 ] 1993: [ 4 ] 1994: [ 5 ] 1995: [ 6 ] 1996: [ 7 ] 1997: [ 8 ] 1998: [ 9 ] 1999: [ 10 ] 2000-2009 2000: [ 11 ] 2001: [ 12 ] 2002: [ 13 ] 2003: [ 14 ] 2004: [ 15 ] 2005: [ 16 ] 2006: [ 17 ]", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:50:21.295785: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html. (walk_to_json.py)"
-    ], 
     "identifiers": {
         "issn": {
             "electronic": [
@@ -11,11 +8,9 @@
             ]
         }
     }, 
+    "is_part_of": null, 
     "keywords": [
-        "antiquity", 
-        "history", 
         "journal", 
-        "journal issues", 
         "open access"
     ], 
     "language": [
@@ -27,8 +22,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -36,88 +31,44 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6859067162907404873", 
             "resource_date": "2012-11-15T13:02:17.828-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:21.296437"
+            "when": "2015-06-11T15:04:12.167234"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html", 
             "resource_date": "2012-11-15T13:02:17.828-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:21.296446"
+            "when": "2015-06-11T15:04:12.167251"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "2", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1991_num_2_1"
-        }, 
-        {
-            "label": "3", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1992_num_3_1"
-        }, 
-        {
-            "label": "4", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1993_num_4_1"
-        }, 
-        {
-            "label": "5", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1994_num_5_1"
-        }, 
-        {
-            "label": "6", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1995_num_6_1"
-        }, 
-        {
-            "label": "7", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1996_num_7_1"
-        }, 
-        {
-            "label": "8", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1997_num_8_1"
-        }, 
-        {
-            "label": "9", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1998_num_9_1"
-        }, 
-        {
-            "label": "10", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1999_num_10_1"
-        }, 
-        {
-            "label": "11", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2000_num_11_1"
-        }, 
-        {
-            "label": "12", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2001_num_12_1"
-        }, 
-        {
-            "label": "13", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2002_num_13_1"
-        }, 
-        {
-            "label": "14", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2003_num_14_1"
-        }, 
-        {
-            "label": "15", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2004_num_15_1"
-        }, 
-        {
-            "label": "16", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2005_num_16_1"
-        }, 
-        {
-            "label": "17", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2006_num_17_1"
-        }
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1991_num_2_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1992_num_3_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1993_num_4_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1994_num_5_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1995_num_6_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1996_num_7_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1997_num_8_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1998_num_9_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_1999_num_10_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2000_num_11_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2001_num_12_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2002_num_13_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2003_num_14_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2004_num_15_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2005_num_16_1", 
+        "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2006_num_17_1"
     ], 
     "title": "Cahiers du Centre Gustave Glotz", 
     "url": "http://www.persee.fr/web/revues/home/prescript/revue/ccgg", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

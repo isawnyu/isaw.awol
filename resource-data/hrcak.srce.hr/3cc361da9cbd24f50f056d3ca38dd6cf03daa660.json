@@ -1,9 +1,6 @@
 {
-    "description": "Hrcak: Portal of scientific journals of Croatia Acta Turistica Nova ISSN:1846-4394 Anali Zavoda za povijesne znanosti Hrvatske akademije znanosti i umjetnosti u Dubrovniku ISSN:1330-0598 Annales Instituti Archaeologici ISSN:1845-4046 Archaeologica Adriatica ISSN:1846-4807 Asseria ISSN:1334-2479 Biblical Perspectives ISSN:1330-1497 Building and Stone-masonry ISSN:0353-7897 Bulletin of the International Association for Paleodontology e-ISSN:1846-6273 Contributions of Institute of Archaeology in Zagreb ISSN:1330-0644 Cris: Journal of the Historical Society of Kri\u017eevci ISSN:1332-2567 Dubrovnik Annals ISSN:1331-3878", 
+    "description": "[First posted on AWOL on 1/22/09, updated 30 November May 2012] Hrcak: Portal of scientific journals of Croatia ISSN:1846-4394 ISSN:1330-0598 ISSN:1845-4046 ISSN:1846-4807 ISSN:1334-2479 ISSN:1330-1497 ISSN:0353-7897 e-ISSN:1846-6273 ISSN:1330-0644 ISSN:1332-2567 ISSN:1331-3878", 
     "domain": "hrcak.srce.hr", 
-    "history": [
-        "2015-06-05T03:50:13.322943: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html. (walk_to_json.py)"
-    ], 
     "identifiers": {
         "issn": {
             "electronic": [
@@ -23,17 +20,14 @@
             ]
         }
     }, 
+    "is_part_of": null, 
     "keywords": [
+        "journal", 
         "Balkans", 
         "Croatia", 
-        "Croatian", 
-        "Zagreb", 
-        "archaeology", 
-        "bible", 
-        "history", 
-        "journal", 
         "open access", 
-        "religion"
+        "archaeology", 
+        "Croatian"
     ], 
     "language": [
         "en", 
@@ -44,8 +38,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -53,148 +47,29 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:13.323565"
+            "when": "2015-06-11T15:03:32.685134"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html", 
             "resource_date": "2012-11-30T10:12:29.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:13.323574"
+            "when": "2015-06-11T15:03:32.685152"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "Acta Turistica Nova", 
-            "url": "http://hrcak.srce.hr/acta-turistica-nova"
-        }, 
-        {
-            "label": "Anali Zavoda za povijesne znanosti Hrvatske akademije znanosti i umjetnosti u Dubrovniku", 
-            "url": "http://hrcak.srce.hr/anali-dubrovnik"
-        }, 
-        {
-            "label": "Annales Instituti Archaeologici", 
-            "url": "http://hrcak.srce.hr/aia"
-        }, 
-        {
-            "label": "Archaeologica Adriatica", 
-            "url": "http://hrcak.srce.hr/adriatica"
-        }, 
-        {
-            "label": "Asseria", 
-            "url": "http://hrcak.srce.hr/asseria"
-        }, 
-        {
-            "label": "Biblical Perspectives", 
-            "url": "http://hrcak.srce.hr/bp"
-        }, 
-        {
-            "label": "Building and Stone-masonry", 
-            "url": "http://hrcak.srce.hr/klesarstvo-i-graditeljstvo"
-        }, 
-        {
-            "label": "Bulletin of the International Association for Paleodontology", 
-            "url": "http://hrcak.srce.hr/paleodontology"
-        }, 
-        {
-            "label": "Contributions of Institute of Archaeology in Zagreb", 
-            "url": "http://hrcak.srce.hr/prilozi-iaz"
-        }, 
-        {
-            "label": "Cris: Journal of the Historical Society of Kri\u017eevci", 
-            "url": "http://hrcak.srce.hr/cris"
-        }, 
-        {
-            "label": "Dubrovnik Annals", 
-            "url": "http://hrcak.srce.hr/dubrovnik-annals"
-        }, 
-        {
-            "label": "Historical Contributions", 
-            "url": "http://hrcak.srce.hr/povijesni-prilozi"
-        }, 
-        {
-            "label": "Histria antiqua", 
-            "url": "http://hrcak.srce.hr/histria-antiqua"
-        }, 
-        {
-            "label": "Histria archaeologica", 
-            "url": "http://hrcak.srce.hr/histriaarchaeologica"
-        }, 
-        {
-            "label": "HISTRIA The Istrian Historical Society Review", 
-            "url": "http://hrcak.srce.hr/histria"
-        }, 
-        {
-            "label": "Holon", 
-            "url": "http://hrcak.srce.hr/holon"
-        }, 
-        {
-            "label": "Interdisciplinary Description of Complex Systems", 
-            "url": "http://hrcak.srce.hr/indecs"
-        }, 
-        {
-            "label": "Journal - Institute of Croatian History", 
-            "url": "http://hrcak.srce.hr/radovi-zhp"
-        }, 
-        {
-            "label": "Journal of Dalmatian archaeology and history", 
-            "url": "http://hrcak.srce.hr/vapd"
-        }, 
-        {
-            "label": "Journal of the Zagreb Archaeological Museum", 
-            "url": "http://hrcak.srce.hr/vjesnik-amz"
-        }, 
-        {
-            "label": "Media, Culture and Public Relations", 
-            "url": "http://hrcak.srce.hr/mcpr"
-        }, 
-        {
-            "label": "Opuscula Archaeologica Papers of the Department of Archaeology", 
-            "url": "http://hrcak.srce.hr/opuscula"
-        }, 
-        {
-            "label": "Podravina: scientific multidisciplinary research journal", 
-            "url": "http://hrcak.srce.hr/podravina"
-        }, 
-        {
-            "label": "Portal, the Yearbook of the Croatian Conservation Institute", 
-            "url": "http://hrcak.srce.hr/portal"
-        }, 
-        {
-            "label": "Povijesni zbornik: godi\u0161njak za kulturu i povijesno naslje\u0111e", 
-            "url": "http://hrcak.srce.hr/povijesni-zbornik"
-        }, 
-        {
-            "label": "Radovi / Institute for Historical Sciences of the Croatian Academy of Sciences and Arts in Zadar", 
-            "url": "http://hrcak.srce.hr/radovi-zavoda-za-povijesne-znanosti-hazu-zadar"
-        }, 
-        {
-            "label": "Starohrvatska prosvjeta", 
-            "url": "http://hrcak.srce.hr/starohrvatska-prosvjeta"
-        }, 
-        {
-            "label": "The Museum Courier. Organ of the Museums of Northwestern Croatia", 
-            "url": "http://hrcak.srce.hr/muzejskivjesnik"
-        }, 
-        {
-            "label": "The Preservation of Cultural Heritage in Croatia", 
-            "url": "http://hrcak.srce.hr/godisnjak-zastite-spomenika-kulture-hrvatske"
-        }, 
-        {
-            "label": "The Review of Senj", 
-            "url": "http://hrcak.srce.hr/senjski-zbornik"
-        }, 
-        {
-            "label": "The Yearbook of the Vara\u017edin City Museum", 
-            "url": "http://hrcak.srce.hr/godisnjakgmv"
-        }
+        "http://hrcak.srce.hr/"
     ], 
-    "title": "Hrcak: Portal of scientific journals of Croatia", 
+    "title": "Croatian Open Access Archaeology Journals", 
     "url": "http://hrcak.srce.hr/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

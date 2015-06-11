@@ -1,19 +1,13 @@
 {
     "description": "Database of Classical Scholars The Database of Classical Scholars is a project initiated by the American Philological Association and provides a virtual research environment for study of American, British, and European classical scholars. Each biographical entry contains vital information, followed by a narrative assessment of the scholar's life and contribution. The third section contains the title of the dissertation (if any) followed by extensive listing of scholars works and source material for the scholar's life. Each entry will be fully searchable in all fields. The website will also a separate Wikiform database for living classicists to submit entries on themselves. The website will also feature videos created by the Classics Conclave of Boston in which prominent classicists give their analysis of the present state of scholarship on the ancient world.", 
     "domain": "cdh.sc.edu", 
-    "history": [
-        "2015-06-05T03:50:27.861197: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/12/database-of-classical-scholars.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "antiquity", 
+        "directories", 
         "classics", 
         "data", 
-        "database", 
-        "directories", 
-        "environment", 
-        "project", 
-        "website"
+        "database"
     ], 
     "language": [
         "en", 
@@ -24,29 +18,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8182947252303355382", 
             "resource_date": "2013-12-26T11:13:39.960-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:27.861741"
+            "when": "2015-06-11T15:04:38.047107"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/database-of-classical-scholars.html", 
             "resource_date": "2013-12-26T11:13:39.960-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:27.861749"
+            "when": "2015-06-11T15:04:38.047129"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Database of Classical Scholars", 
     "url": "http://cdh.sc.edu/dbcs", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

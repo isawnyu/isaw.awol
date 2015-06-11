@@ -1,21 +1,14 @@
 {
-    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "Ausgrabungen der Deutschen Orient-Gesellschaft in Babylon in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports Ausgrabungen der Deutschen Orient-Gesellschaft in Babylon in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:50:25.339986: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-der-deutschen-orient.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "AWOL", 
-        "Amar", 
-        "Babylon", 
-        "Iraq", 
         "Mesopotamia", 
-        "archaeological site", 
+        "Iraq", 
+        "Babylon", 
         "archaeology", 
-        "archive", 
-        "reports", 
-        "series"
+        "Amar"
     ], 
     "language": [
         "en", 
@@ -26,8 +19,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -35,40 +28,36 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7604339822458723814", 
             "resource_date": "2012-03-02T16:42:06.738-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:25.340601"
+            "when": "2015-06-11T15:04:26.400150"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-der-deutschen-orient.html", 
             "resource_date": "2012-03-02T16:42:06.738-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:25.340610"
+            "when": "2015-06-11T15:04:26.400166"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "Ausgrabungen der Deutschen Orient-Gesellschaft in Babylon I: Die Tempel von Babylon und Borsippa: den Ausgrabungen durch die Deutsche Orient-Gesellschaft", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=36443&REC=1"
-        }, 
-        {
-            "label": "Ausgrabungen der Deutschen Orient-Gesellschaft in Babylon II: das Ischtar-tor in Babylon", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=70593&REC=2"
-        }, 
-        {
-            "label": "Ausgrabungen der Deutschen Orient-gesellschaft in Babylon IV: Die stadtmauern von Babylon", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=132470&REC=3"
-        }, 
-        {
-            "label": "Ausgrabungen der Deutschen Orient-Gesellschaft in Babylon VIII: Das Babylon der Spa\u0308tzeit", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=139687&REC=4"
-        }
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=36443&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=36443&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=70593&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=70593&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=132470&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=132470&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=139687&REC=4", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=139687&REC=4"
     ], 
-    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "Ausgrabungen der Deutschen Orient-Gesellschaft in Babylon in AMAR", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

@@ -1,49 +1,24 @@
 {
-    "description": "The list of current archive projects has been updated. (May 2, 2011) The list of current archive projects has been updated. (May 2, 2011) The list of current archive projects", 
+    "description": "The list of current archive projects has been updated. (May 2, 2011) The list of current archive projects", 
     "domain": "www.griffith.ox.ac.uk", 
-    "history": [
-        "2015-06-05T03:50:10.495193: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2011/06/new-from-griffith-institute.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "New from the Griffith Institute", 
+        "url": "http://www.griffith.ox.ac.uk/gri/2.html"
+    }, 
     "keywords": [
-        "Griffith Institute", 
         "archive"
     ], 
     "language": [
         "en", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4195572223629835088", 
-            "resource_date": "2011-07-20T10:18:05.822-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:10.495712"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2011/06/new-from-griffith-institute.html", 
-            "resource_date": "2011-07-20T10:18:05.822-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:10.495719"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "current archive projects", 
+    "title": "The list of current archive projects has been updated. (May 2, 2011)", 
     "url": "http://www.griffith.ox.ac.uk/gri/4proj.html", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

@@ -1,50 +1,24 @@
 {
-    "description": "\"AS 2. The Sumerian Prefix Forms E - and I - in the Time of the Earlier Princes of Lagash. Arno Poebel. Originally published in 1931.\"", 
+    "description": "\"OIC 1. The Oriental Institute of the University of Chicago: A Beginning and a Program. James Henry Breasted. Originally published in 1922.\"", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:28.182200: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_30.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Newly Online from the Oriental Institute's Backlist", 
+        "url": "http://oi.uchicago.edu/research/pubs/catalog/oic/"
+    }, 
     "keywords": [
-        "Oriental Institute", 
-        "Sumerian", 
-        "backlist"
+        "Oriental Institute"
     ], 
     "language": [
         "en", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8216425582081214820", 
-            "resource_date": "2012-12-07T16:36:06.856-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:28.182814"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_30.html", 
-            "resource_date": "2012-12-07T16:36:06.856-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:28.182823"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "\"AS 2. The Sumerian Prefix Forms E - and I - in the Time of the Earlier Princes of Lagash", 
-    "url": "http://oi.uchicago.edu/research/pubs/catalog/as/as2.html", 
+    "title": "\"OIC 1. The Oriental Institute of the University of Chicago: A Beginning and a Program", 
+    "url": "http://oi.uchicago.edu/research/pubs/catalog/oic/oic1.html", 
+    "volume": "1", 
+    "year": null, 
     "zotero_id": null
 }

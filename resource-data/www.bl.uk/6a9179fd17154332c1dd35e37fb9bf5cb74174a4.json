@@ -1,0 +1,61 @@
+{
+    "description": "British Library Online Catalogue of Illuminated Manuscripts Welcome to the Online Catalogue of Illuminated Manuscripts, a searchable database of some of the western illuminated manuscripts in the British Library. The Library holds one of the richest collections of medieval and renaissance manuscripts in the world, and aims to provide access to images and information about its manuscripts to students, scholars, and the general public. The Catalogue includes descriptions and images of western manuscripts with pictorial and decorative embellishments, from fully painted miniatures to decorated initials. Because it includes such a wide range of material, it serves as a useful resource for those working in a variety of disciplines. In order to maximize the number of images, the Catalogue includes digital scans of existing slides as well newly-commissioned digital images. As a result, the image quality can vary. Users can devise their own search criteria in using the Catalogue. For details of how to use the system, see Search tips The illuminated manuscripts in the following collections are included in the Catalogue:,;;;;;;;;;;; and Manuscripts in the collection are currently being added to the Catalogue. At the moment they consist primarily of around 675 illuminated miniatures cuttings and Hebrew manuscripts (see", 
+    "domain": "www.bl.uk", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "catalogue", 
+        "manuscripts"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3754035512166847077", 
+            "resource_date": "2012-11-22T10:38:46.866-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:03:11.875851"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/british-library-online-catalogue-of.html", 
+            "resource_date": "2012-11-22T10:38:46.866-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:03:11.875867"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.bl.uk/catalogues/illuminatedmanuscripts/SearchTips.asp", 
+        "http://www.bl.uk/catalogues/illuminatedmanuscripts/cuttings.asp", 
+        "http://www.bl.uk/catalogues/illuminatedmanuscripts/HebrewMSS.asp", 
+        "http://www.bl.uk/catalogues/illuminatedmanuscripts/searchsimple.asp", 
+        "http://www.bl.uk/catalogues/illuminatedmanuscripts/searchMSNo.asp", 
+        "http://www.bl.uk/catalogues/illuminatedmanuscripts/search2.asp", 
+        "http://www.bl.uk/catalogues/illuminatedmanuscripts/tours.asp", 
+        "http://www.bl.uk/catalogues/illuminatedmanuscripts/glossary.asp", 
+        "http://www.bl.uk/catalogues/illuminatedmanuscripts/reuse.asp"
+    ], 
+    "title": "British Library Online Catalogue of Illuminated Manuscripts", 
+    "url": "http://www.bl.uk/catalogues/illuminatedmanuscripts/welcome.htm", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

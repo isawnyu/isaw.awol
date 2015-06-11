@@ -1,13 +1,10 @@
 {
     "description": "Egyptology on Facebook More than 100 Facebook pages and groups dedicated to Egyptology\u2014who knew there were so many?\u00a0 If you are looking for amazing photography, formal and informal chats with Egyptologists, current and ancient news, or just a good place to hang out with like-minded people, this list should get you started.\u00a0 Organized by subject and annotated.", 
     "domain": "emhotep.net", 
-    "history": [
-        "2015-06-05T03:50:05.709325: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/10/egyptology-on-facebook.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
         "Egypt", 
-        "antiquity", 
         "egyptology"
     ], 
     "language": [
@@ -19,29 +16,36 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
                 "title", 
-                "url"
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3073541641829048633", 
             "resource_date": "2012-10-29T11:03:22.400-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:05.710181"
+            "when": "2015-06-11T15:02:58.391637"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/egyptology-on-facebook.html", 
             "resource_date": "2012-10-29T11:03:22.400-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:05.710195"
+            "when": "2015-06-11T15:02:58.391652"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Egyptology on Facebook", 
     "url": "http://emhotep.net/2012/10/23/announcements/egyptology-on-facebook/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

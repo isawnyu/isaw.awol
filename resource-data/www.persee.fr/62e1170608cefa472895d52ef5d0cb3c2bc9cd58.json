@@ -1,52 +1,27 @@
 {
     "description": "[ LH-22 ] See the full List of Open Access Journals in Ancient Studies", 
     "domain": "www.persee.fr", 
-    "history": [
-        "2015-06-05T03:49:58.977333: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "issn": "0004-5527", 
+        "title": "Bulletin de l'Association Guillaum Bud\u00e9", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/bude"
+    }, 
     "keywords": [
-        "antiquity", 
         "journal", 
-        "open access"
+        "open access", 
+        "antiquity"
     ], 
     "language": [
         "en", 
         0.9999999999999756
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1582488232425081359", 
-            "resource_date": "2013-09-03T11:18:21.547-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:49:58.977905"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html", 
-            "resource_date": "2013-09-03T11:18:21.547-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:49:58.977913"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "LH-22", 
-    "title_extended": "Bulletin de l'Association Guillaum Bud\u00e9: LH-22", 
     "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_1247-6862_1963_num_22_4", 
+    "volume": "22", 
+    "year": "1963", 
     "zotero_id": null
 }

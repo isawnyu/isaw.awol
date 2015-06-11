@@ -1,0 +1,71 @@
+{
+    "description": "Propylaeum, die virtuelle Fachbibliothek Altertumswissenschaften Das Fachportal wurde f\u00fcr acht Bereiche der Altertumswissenschaften entwickelt: \u00c4gyptologie,", 
+    "domain": "www.propylaeum.de", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "open access", 
+        "digital library", 
+        "antiquity"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "title_extended", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7624721469849203136", 
+            "resource_date": "2011-03-14T09:46:43.784-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:04:26.732252"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-digital-library-propylaeum.html", 
+            "resource_date": "2011-03-14T09:46:43.784-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:04:26.732269"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.propylaeum.de/aegyptologie.html", 
+        "http://www.propylaeum.de/alte-geschichte.html", 
+        "http://www.propylaeum.de/altorientalistik.html", 
+        "http://www.propylaeum.de/byzantinistik.html", 
+        "http://www.propylaeum.de/klassische-archaeologie.html", 
+        "http://www.propylaeum.de/klassische-philologie.html", 
+        "http://www.propylaeum.de/mittel-und-neulateinische-philologie.html", 
+        "http://www.propylaeum.de/vor-und-fruehgeschichte.html", 
+        "http://www.propylaeum.de/egyptology.html?L=1", 
+        "http://www.propylaeum.de/ancient-history.html?L=1", 
+        "http://www.propylaeum.de/ancient-near-eastern-studies.html?L=1", 
+        "http://www.propylaeum.de/byzantine-studies.html?L=1", 
+        "http://www.propylaeum.de/classical-archaeology.html?L=1", 
+        "http://www.propylaeum.de/classical-philology.html?L=1", 
+        "http://www.propylaeum.de/medieval-and-neo-latin-philology.html?L=1", 
+        "http://www.propylaeum.de/pre-and-early-history.html?L=1"
+    ], 
+    "title": "Propylaeum", 
+    "title_extended": "Propylaeum, die virtuelle Fachbibliothek Altertumswissenschaften", 
+    "url": "http://www.propylaeum.de/altertumswissenschaften.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

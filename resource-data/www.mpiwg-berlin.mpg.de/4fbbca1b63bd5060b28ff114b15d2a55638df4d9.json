@@ -1,0 +1,29 @@
+{
+    "description": "preprint order form (PDF format) and mail it to the institute. ISSN 0948 9444", 
+    "domain": "www.mpiwg-berlin.mpg.de", 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0948-9444"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "issn": "0948-9444", 
+        "title": "Digital Preprints from the Max Planck Institute for the History of Science", 
+        "url": "http://www.mpiwg-berlin.mpg.de/en/resources/preprints.html"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.9999999999999933
+    ], 
+    "provenance": [], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "preprint order form", 
+    "url": "http://www.mpiwg-berlin.mpg.de/PDF/preporder.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

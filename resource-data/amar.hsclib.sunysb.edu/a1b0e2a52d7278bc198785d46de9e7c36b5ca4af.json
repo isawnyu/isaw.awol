@@ -1,22 +1,14 @@
 {
-    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "Isin - Isan Bahriyat in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports Isin - Isan Bahriyat in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:49:59.475115: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/isin-isan-bahriyat-in-amar.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "AWOL", 
-        "Amar", 
+        "religion", 
         "Iraq", 
         "Isis", 
-        "Mesopotamia", 
-        "archaeological site", 
         "archaeology", 
-        "archive", 
-        "religion", 
-        "reports", 
-        "series"
+        "Amar"
     ], 
     "language": [
         "en", 
@@ -27,8 +19,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -36,36 +28,34 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1640575574774770026", 
             "resource_date": "2012-03-02T16:37:33.042-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:49:59.475744"
+            "when": "2015-06-11T15:02:26.848386"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/isin-isan-bahriyat-in-amar.html", 
             "resource_date": "2012-03-02T16:37:33.042-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:49:59.475753"
+            "when": "2015-06-11T15:02:26.848401"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "Isin - Isan Bahriyat 1: die Ergebnisse der Ausgrabungen 1973-1974", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=68826&REC=1"
-        }, 
-        {
-            "label": "Isin - Isan Bahriyat 2: die Ergebnisse der Ausgrabungen 1975-1978", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=86800&REC=2"
-        }, 
-        {
-            "label": "Isin - Isan Bahriyat 3: die Ergebnisse der Ausgrabungen 1983-1984", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=104703&REC=3"
-        }
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=68826&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=68826&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=86800&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=86800&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=104703&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=104703&REC=3"
     ], 
-    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "Isin - Isan Bahriyat in AMAR", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

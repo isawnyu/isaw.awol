@@ -1,9 +1,6 @@
 {
-    "description": "Slovo: Journal of the Old Church Slavonic Institute ISSN: 0583-6255 (Print)", 
+    "description": "[First posted in AWOL 17 November 2009. Updated 19 May 2013] Slovo: Journal of the Old Church Slavonic Institute ISSN: 0583-6255 (Print) Slovo, Journal of the Old Church Slavonic Institute publishes scientific and professional articles on paleoslavistic topics, especially on the Croatian Church Slavonic language, the Croatian medieval literature and the Croatian Glagolitic heritage (Glagolitic chanting, art history etc.). It also publishes book and journal reviews, necrologies and news. Year of publication of the first issue: 1952 frequency (annually): 1 Scientific areas: Humanities; History; Languages; Theology; Literature science; History of art; Rights: Full texts of the articles published in issues 1-60 are free and may be used for personal and educational purpose under conditions pertained to the copyrights of authors and the publisher. The previous issues may be obtained from the publisher.", 
     "domain": "hrcak.srce.hr", 
-    "history": [
-        "2015-06-05T03:50:16.956820: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/11/open-access-journal-slovo.html. (walk_to_json.py)"
-    ], 
     "identifiers": {
         "issn": {
             "electronic": [
@@ -11,9 +8,10 @@
             ]
         }
     }, 
+    "is_part_of": null, 
     "keywords": [
-        "Croatia", 
         "journal", 
+        "Croatia", 
         "open access"
     ], 
     "language": [
@@ -25,8 +23,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -34,196 +32,71 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6042182322265679896", 
             "resource_date": "2013-05-19T08:14:18.048-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:16.957513"
+            "when": "2015-06-11T15:03:52.835231"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/open-access-journal-slovo.html", 
             "resource_date": "2013-05-19T08:14:18.048-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:16.957524"
+            "when": "2015-06-11T15:03:52.835247"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "No. 62", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=7926"
-        }, 
-        {
-            "label": "No. 61", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6231"
-        }, 
-        {
-            "label": "No. 60", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=5250"
-        }, 
-        {
-            "label": "No. 59", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3911"
-        }, 
-        {
-            "label": "No. 58", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2747"
-        }, 
-        {
-            "label": "No. 56-57", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2039"
-        }, 
-        {
-            "label": "No. 54-55", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1427"
-        }, 
-        {
-            "label": "No. 52-53", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1426"
-        }, 
-        {
-            "label": "No. 51", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1425"
-        }, 
-        {
-            "label": "No. 50", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1424"
-        }, 
-        {
-            "label": "No. 47-48-49", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1418"
-        }, 
-        {
-            "label": "No. 44-45-46", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1417"
-        }, 
-        {
-            "label": "No. 41-42-43", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1412"
-        }, 
-        {
-            "label": "No. 39-40", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1409"
-        }, 
-        {
-            "label": "No. 38", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1408"
-        }, 
-        {
-            "label": "No. 37", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1400"
-        }, 
-        {
-            "label": "No. 36", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1399"
-        }, 
-        {
-            "label": "No. 35", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1397"
-        }, 
-        {
-            "label": "No. 34", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1389"
-        }, 
-        {
-            "label": "No. 32-33", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1377"
-        }, 
-        {
-            "label": "No. 31", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1376"
-        }, 
-        {
-            "label": "No. 30", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1373"
-        }, 
-        {
-            "label": "No. 29", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1371"
-        }, 
-        {
-            "label": "No. 28", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1370"
-        }, 
-        {
-            "label": "No. 27", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1366"
-        }, 
-        {
-            "label": "No. 25-26", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1363"
-        }, 
-        {
-            "label": "No. 24", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1361"
-        }, 
-        {
-            "label": "No. 23", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1359"
-        }, 
-        {
-            "label": "No. 22", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1358"
-        }, 
-        {
-            "label": "No. 21", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1343"
-        }, 
-        {
-            "label": "No. 20", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1342"
-        }, 
-        {
-            "label": "No. 18-19", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1341"
-        }, 
-        {
-            "label": "No. 17", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1340"
-        }, 
-        {
-            "label": "No. 15-16", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1337"
-        }, 
-        {
-            "label": "No. 14", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1336"
-        }, 
-        {
-            "label": "No. 13", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1335"
-        }, 
-        {
-            "label": "No. 11-12", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1334"
-        }, 
-        {
-            "label": "No. 9-10", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1333"
-        }, 
-        {
-            "label": "No. 6-7-8", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1332"
-        }, 
-        {
-            "label": "No. 4-5", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1329"
-        }, 
-        {
-            "label": "No. 3", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1328"
-        }, 
-        {
-            "label": "No. 2", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1324"
-        }, 
-        {
-            "label": "No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1325"
-        }
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=7926", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=6231", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=5250", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=3911", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=2747", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=2039", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1427", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1426", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1425", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1424", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1418", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1417", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1412", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1409", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1408", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1400", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1399", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1397", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1389", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1377", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1376", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1373", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1371", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1370", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1366", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1363", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1361", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1359", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1358", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1343", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1342", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1341", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1340", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1337", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1336", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1335", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1334", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1333", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1332", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1329", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1328", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1324", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1325"
     ], 
     "title": "Slovo: Journal of the Old Church Slavonic Institute", 
     "url": "http://hrcak.srce.hr/slovo?lang=en", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

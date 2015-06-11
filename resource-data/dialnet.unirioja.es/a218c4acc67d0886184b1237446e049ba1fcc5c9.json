@@ -1,9 +1,6 @@
 {
     "description": "Estudios del Patrimonio Cultural ISSN: 1988-8015 Hispania antiqua", 
     "domain": "dialnet.unirioja.es", 
-    "history": [
-        "2015-06-05T03:50:28.030105: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html. (walk_to_json.py)"
-    ], 
     "identifiers": {
         "issn": {
             "generic": [
@@ -11,47 +8,24 @@
             ]
         }
     }, 
+    "is_part_of": {
+        "issn": "1578-1518", 
+        "title": "Open Access Journals in Ancient Studies at Dialnet", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=78"
+    }, 
     "keywords": [
-        "antiquity", 
-        "culture", 
-        "journal", 
-        "open access"
+        "culture"
     ], 
     "language": [
         "es", 
         0.9999999999637452
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8214559682146973850", 
-            "resource_date": "2009-09-20T15:33:38.380-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:28.030704"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html", 
-            "resource_date": "2009-09-20T15:33:38.380-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:28.030712"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Estudios del Patrimonio Cultural", 
     "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=12767", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

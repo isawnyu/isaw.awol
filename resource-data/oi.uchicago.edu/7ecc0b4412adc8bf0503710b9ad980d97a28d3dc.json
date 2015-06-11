@@ -1,47 +1,22 @@
 {
-    "description": "No. 126 November-December 1990: RECONNAISSANCE IN AQABA", 
+    "description": "No. 129 May-June 1991: THE CHICAGO ASSYRIAN DICTIONARY AT SEVENTY", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:31.473637: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Oriental Institute News & Notes", 
+        "url": "http://oi.uchicago.edu/research/pubs/nn/"
+    }, 
     "keywords": [
-        "Oriental Institute", 
-        "journal", 
-        "open access"
+        "Assyria", 
+        "dictionaries"
     ], 
     "language": null, 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
-            "resource_date": "2013-12-10T13:02:44.344-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:31.474156"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
-            "resource_date": "2013-12-10T13:02:44.344-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:31.474164"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "No. 126 November-December 1990: RECONNAISSANCE IN AQABA", 
-    "url": "http://oi.uchicago.edu/research/pubs/nn/nov90_aqa.html", 
+    "title": "No. 129 May-June 1991: THE CHICAGO ASSYRIAN DICTIONARY AT SEVENTY", 
+    "url": "http://oi.uchicago.edu/research/pubs/nn/may91_cad.html", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

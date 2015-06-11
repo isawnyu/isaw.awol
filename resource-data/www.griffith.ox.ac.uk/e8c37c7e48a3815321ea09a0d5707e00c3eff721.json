@@ -1,48 +1,22 @@
 {
     "description": "TT79, Menkheper Menkheperrasoneb and (c) TT 80, Djehutinufer", 
     "domain": "www.griffith.ox.ac.uk", 
-    "history": [
-        "2015-06-05T03:50:27.616128: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/05/recent-offerings-from-griffifth.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Recent offerings from the Griffifth Institute", 
+        "url": "http://www.griffith.ox.ac.uk/"
+    }, 
     "keywords": [], 
     "language": [
         "en", 
         0.9808494540544297
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "title_extended", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-813986282971874208", 
-            "resource_date": "2010-05-24T10:04:02.981-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:27.616734"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/05/recent-offerings-from-griffifth.html", 
-            "resource_date": "2010-05-24T10:04:02.981-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:27.616742"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "TT79, Menkheper Menkheperrasoneb", 
-    "title_extended": "Griffith Institute: TT79, Menkheper Menkheperrasoneb", 
     "url": "http://www.griffith.ox.ac.uk/gri/4TT79.html", 
+    "volume": "79", 
+    "year": null, 
     "zotero_id": null
 }

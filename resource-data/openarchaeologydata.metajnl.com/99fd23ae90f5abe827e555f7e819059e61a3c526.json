@@ -1,0 +1,70 @@
+{
+    "description": "[First posted in AWOL 20 April 2012. Updated 21 May 2013] Journal of Open Archaeology Data (JOAD) ISSN 2049-1565 The Journal of Open Archaeology Data (JOAD) features peer reviewed data papers describing archaeology datasets with high reuse potential. We are working with a number of specialist and institutional data repositories to ensure that the associated data are professionally archived, preserved, and openly available. Equally importantly, the data and the papers are citable, and reuse will be tracked. While still in beta phase, the journal is now accepting papers. We will also be adding new functionality over the next few weeks, and refining the look and feel.", 
+    "domain": "openarchaeologydata.metajnl.com", 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "2049-1565"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "keywords": [
+        "journal", 
+        "data", 
+        "archaeology", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1081318972266302437", 
+            "resource_date": "2013-05-21T13:29:46.323-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T15:02:13.146020"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/nerw-open-access-journal-journal-of.html", 
+            "resource_date": "2013-05-21T13:29:46.323-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T15:02:13.146035"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://openarchaeologydata.metajnl.com/article/chemical-composition-by-neutron-activation-analysis-inaa-of-neo-assyrian-palace-ware-from-iraq-syria-and-israel/", 
+        "http://openarchaeologydata.metajnl.com/article/selected-correspondence-from-the-papers-of-thomas-pettigrew-1791-1865-surgeon-and-antiquary/", 
+        "http://openarchaeologydata.metajnl.com/article/diachronic-and-spatial-distribution-of-khabur-ware-in-the-early-second-millennium-bc/", 
+        "http://openarchaeologydata.metajnl.com/article/spatio-temporal-distributions-of-middle-to-late-jomon-pithouses-in-oyumino-chiba-japan/", 
+        "http://openarchaeologydata.metajnl.com/article/archaeological-survey-and-monitoring-data-from-the-flower-of-ugie-wrecked-1852-in-the-eastern-solent-england/", 
+        "http://openarchaeologydata.metajnl.com/article/dataset-to-accompany-the-excavation-report-for-a-liberated-african-graveyard-in-ruperts-valley-st-helena-south-atlantic/", 
+        "http://openarchaeologydata.metajnl.com/article/typology-technology-composition-and-context-of-muisca-metalwork-colombia-ad-600-1800-a-database-2/", 
+        "http://openarchaeologydata.metajnl.com/article/intensive-survey-data-from-antikythera-greece/", 
+        "http://openarchaeologydata.metajnl.com/article/asked-the-anglo-saxon-kent-electronic-database/", 
+        "http://openarchaeologydata.metajnl.com/article/archaeologists-in-training-students-of-the-british-school-of-archaeology-in-jerusalem-1920-1936-2/"
+    ], 
+    "title": "Journal of Open Archaeology Data (JOAD)", 
+    "url": "http://openarchaeologydata.metajnl.com/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

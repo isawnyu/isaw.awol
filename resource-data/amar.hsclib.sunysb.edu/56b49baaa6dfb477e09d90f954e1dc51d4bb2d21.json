@@ -1,52 +1,25 @@
 {
-    "description": "Sardis: publications of the American Society for the excavation of Sardis ; v. 2 architecture ; pt. 1 The Temple of Artemis ; plates", 
+    "description": "Sardis: publications of the American Society for the excavation of Sardis; v. 1 the excavations; pt. 1 1910-1914", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:49:58.291012: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/sardis-publications-of-american-society.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Sardis: publications of the American Society for the excavation of Sardis in AMAR", 
+        "url": "http://amar.hsclib.sunysb.edu/amar/"
+    }, 
     "keywords": [
-        "Amar", 
         "Sardis", 
-        "Turkey", 
-        "archaeology", 
-        "architecture"
+        "archaeology"
     ], 
     "language": [
         "en", 
         1.0
     ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1512953949363753591", 
-            "resource_date": "2012-03-04T14:52:15.927-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:49:58.291553"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/03/sardis-publications-of-american-society.html", 
-            "resource_date": "2012-03-04T14:52:15.927-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:49:58.291560"
-        }
-    ], 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Sardis: publications of the American Society for the excavation of Sardis ; v. 2 architecture ; pt", 
-    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=124878&REC=6", 
+    "title": "Sardis: publications of the American Society for the excavation of Sardis ; v. 1 the excavations ; pt", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=32580&REC=3", 
+    "volume": "1", 
+    "year": null, 
     "zotero_id": null
 }

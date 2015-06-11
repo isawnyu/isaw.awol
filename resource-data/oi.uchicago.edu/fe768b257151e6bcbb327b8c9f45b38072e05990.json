@@ -1,52 +1,21 @@
 {
-    "description": "No. 135 Fall 1992: EXCAVATIONS AT GIZA 1988-1991: The Location and Importance of the Pyramid Settlement", 
+    "description": "No. 136 Winter 1992: TWO WEEKS IN THE EGYPTIAN DESERT: THE BIR UMM FAWAKHIR PROJECT, JANUARY 1992", 
     "domain": "oi.uchicago.edu", 
-    "history": [
-        "2015-06-05T03:50:31.455566: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": {
+        "title": "Oriental Institute News & Notes", 
+        "url": "http://oi.uchicago.edu/research/pubs/nn/"
+    }, 
     "keywords": [
-        "Giza", 
-        "Oriental Institute", 
-        "archaeology", 
-        "journal", 
-        "open access"
+        "egyptology"
     ], 
-    "language": [
-        "en", 
-        1.0
-    ], 
-    "provenance": [
-        {
-            "fields": [
-                "description", 
-                "domain", 
-                "history", 
-                "identifiers", 
-                "keywords", 
-                "language", 
-                "provenance", 
-                "related_resources", 
-                "subordinate_resources", 
-                "title", 
-                "url", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
-            "resource_date": "2013-12-10T13:02:44.344-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:31.456096"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
-            "resource_date": "2013-12-10T13:02:44.344-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:31.456103"
-        }
-    ], 
+    "language": null, 
+    "provenance": [], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "No. 135 Fall 1992: EXCAVATIONS AT GIZA 1988-1991: The Location and Importance of the Pyramid Settlement", 
-    "url": "http://oi.uchicago.edu/research/pubs/nn/fal92_giz.html", 
+    "title": "No. 136 Winter 1992: TWO WEEKS IN THE EGYPTIAN DESERT: THE BIR UMM FAWAKHIR PROJECT, JANUARY 1992", 
+    "url": "http://oi.uchicago.edu/research/pubs/nn/win92_faw.html", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

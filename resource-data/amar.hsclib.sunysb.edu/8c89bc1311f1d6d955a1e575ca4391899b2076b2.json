@@ -1,22 +1,14 @@
 {
-    "description": "One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "description": "Les Monuments ayyoubides de Damas in AMAR One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports", 
     "domain": "amar.hsclib.sunysb.edu", 
-    "history": [
-        "2015-06-05T03:49:56.953921: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html. (walk_to_json.py)"
-    ], 
     "identifiers": {}, 
+    "is_part_of": null, 
     "keywords": [
-        "AWOL", 
-        "Amar", 
         "Damascus", 
-        "Mesopotamia", 
         "Syria", 
-        "archaeological site", 
-        "archaeology", 
-        "archive", 
         "monuments", 
-        "reports", 
-        "series"
+        "archaeology", 
+        "Amar"
     ], 
     "language": [
         "en", 
@@ -27,8 +19,8 @@
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -36,40 +28,36 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1096390894177956598", 
             "resource_date": "2012-03-02T16:43:23.871-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:49:56.954909"
+            "when": "2015-06-11T15:02:13.326510"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html", 
             "resource_date": "2012-03-02T16:43:23.871-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:49:56.954923"
+            "when": "2015-06-11T15:02:13.326524"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "Les Monuments ayyoubides de Damas ; v. 1 Le tombeau de Safwat-el-Molk. Le d\u00e2r al-had\u00eeth de No\u00fbr ad-Din Le tombeau de Farroukh-Ch\u00e2h et de Bahr\u00e2m-Ch\u00e2h. La madrasa Djah\u00e2rkasiya", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106805&REC=1"
-        }, 
-        {
-            "label": "Les Monuments ayyoubides de Damas ; v. 2 La madrasa Raih\u00e2niya. La madrasa 'Adr\u00e2wiya. La madrasa 'Izziya hors-les-murs. La madrasa 'Adiliya. Trois bains ayyoubides de Damas", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106898&REC=2"
-        }, 
-        {
-            "label": "Les Monuments ayyoubides de Damas ; v. 3 Mitq\u00e2l. La Madrasa M\u00e2rid\u00e2niya. La Madrasa Chibliya Hors-Ies-Murs. Tombeau anonyme", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106951&REC=3"
-        }, 
-        {
-            "label": "Les Monuments ayyoubides de Damas ; v. 4 Epitaphes coufiques de B\u00e2b Sagh\u00eer par Janine Sourdel-Thomine", 
-            "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=107060&REC=4"
-        }
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106805&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106805&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106898&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106898&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106951&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106951&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=107060&REC=4", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=107060&REC=4"
     ], 
-    "title": "AMAR: Archive of Mesopotamian Archaeological Site Reports", 
+    "title": "Les Monuments ayyoubides de Damas in AMAR", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }

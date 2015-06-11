@@ -1,26 +1,30 @@
 {
-    "description": "Opvscvla Archaeologica Radovi Arheolo\u0161kog zavoda - Opuscula Archaeologica Papers of the Department of Archaeology", 
+    "description": "[First posted in AWOL 10 August 2010. Updated 17 January 2012] Opvscvla Archaeologica Radovi Arheolo\u0161kog zavoda - Opuscula Archaeologica Papers of the Department of Archaeology ISSN:0473-0992 Department of Archaeology, Faculty of Humanities and Social Sciences, Ivana Lu\u010di\u010da 3 10000 Zagreb", 
     "domain": "hrcak.srce.hr", 
-    "history": [
-        "2015-06-05T03:50:21.142624: Data automatically parsed from content of http://ancientworldonline.blogspot.com/2012/01/open-access-journal-opvscvla.html. (walk_to_json.py)"
-    ], 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0473-0992"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
     "keywords": [
-        "archaeology", 
         "journal", 
+        "archaeology", 
         "open access"
     ], 
     "language": [
-        "bs", 
-        0.9995477680696468
+        "en", 
+        0.9999999765904167
     ], 
     "provenance": [
         {
             "fields": [
                 "description", 
                 "domain", 
-                "history", 
                 "identifiers", 
+                "is_part_of", 
                 "keywords", 
                 "language", 
                 "provenance", 
@@ -28,156 +32,62 @@
                 "subordinate_resources", 
                 "title", 
                 "url", 
+                "volume", 
+                "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6842039897589014782", 
             "resource_date": "2012-09-14T05:54:47.148-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-05T03:50:21.143215"
+            "when": "2015-06-11T15:04:11.998609"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-opvscvla.html", 
             "resource_date": "2012-09-14T05:54:47.148-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-05T03:50:21.143223"
+            "when": "2015-06-11T15:04:11.998625"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [
-        {
-            "label": "Vol. 35 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6085"
-        }, 
-        {
-            "label": "Vol. 34 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4998"
-        }, 
-        {
-            "label": "Vol. 33 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4814"
-        }, 
-        {
-            "label": "Vol. 32 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3148"
-        }, 
-        {
-            "label": "Vol. 31 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2394"
-        }, 
-        {
-            "label": "Vol. 30 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1983"
-        }, 
-        {
-            "label": "Vol. 29 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=623"
-        }, 
-        {
-            "label": "Vol. 28 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=622"
-        }, 
-        {
-            "label": "Vol. 27 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=585"
-        }, 
-        {
-            "label": "Vol. 26 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=582"
-        }, 
-        {
-            "label": "Vol. 25 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=581"
-        }, 
-        {
-            "label": "Vol. 23-24 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=579"
-        }, 
-        {
-            "label": "Vol. 22 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=578"
-        }, 
-        {
-            "label": "Vol. 21 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=577"
-        }, 
-        {
-            "label": "Vol. 20 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=576"
-        }, 
-        {
-            "label": "Vol. 19 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=575"
-        }, 
-        {
-            "label": "Vol. 18 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=574"
-        }, 
-        {
-            "label": "Vol. 17 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=573"
-        }, 
-        {
-            "label": "Vol. 16 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=572"
-        }, 
-        {
-            "label": "Vol. 15 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=571"
-        }, 
-        {
-            "label": "Vol. 14 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=570"
-        }, 
-        {
-            "label": "Vol. 13 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=569"
-        }, 
-        {
-            "label": "Vol. 11-12 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=568"
-        }, 
-        {
-            "label": "Vol. 10 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=567"
-        }, 
-        {
-            "label": "Vol. 9 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=566"
-        }, 
-        {
-            "label": "Vol. 8 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=565"
-        }, 
-        {
-            "label": "Vol. 7 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=564"
-        }, 
-        {
-            "label": "Vol. 6 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=563"
-        }, 
-        {
-            "label": "Vol. 5 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=562"
-        }, 
-        {
-            "label": "Vol. 4 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=561"
-        }, 
-        {
-            "label": "Vol. 3 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=560"
-        }, 
-        {
-            "label": "Vol. 2 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=542"
-        }, 
-        {
-            "label": "Vol. 1 \u00a0 No. 1", 
-            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=541"
-        }
+        "http://hrcak.srce.hr/opuscula", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=6085", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=4998", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=4814", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=3148", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=2394", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1983", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=623", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=622", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=585", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=582", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=581", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=579", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=578", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=577", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=576", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=575", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=574", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=573", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=572", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=571", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=570", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=569", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=568", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=567", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=566", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=565", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=564", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=563", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=562", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=561", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=560", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=542", 
+        "http://hrcak.srce.hr/index.php?show=toc&id_broj=541"
     ], 
     "title": "Opvscvla Archaeologica Radovi Arheolo\u0161kog zavoda", 
     "url": "http://hrcak.srce.hr/opuscula", 
+    "volume": null, 
+    "year": null, 
     "zotero_id": null
 }
