@@ -90,6 +90,14 @@ def test_parsers_persee():
     assert_equals(r.domain, 'www.persee.fr')
     assert_equals(sorted(r.keywords), sorted([u'journal', u'open access', u'archaeology', u'nautical archaeology']))
     assert_equals(r.identifiers, {'issn': {'electronic': [u'2117-6973']}})
+    assert_is_none(r.is_part_of)
+    assert_equals(len(r.provenance), 2)
+    assert_equals(r.provenance[0]['term'], 'http://purl.org/spar/cito/citesAsDataSource')
+    assert_equals(r.provenance[1]['term'], 'http://purl.org/spar/cito/citesAsMetadataDocument')
+    assert_equals(len(r.related_resources), 0)
+    assert_equals(len(r.subordinate_resources), 14)
+    assert_equals(len(r.subordinate_resources[0].provenance), 2)
+    assert_equals(r.subordinate_resources[0].provenance[0]['term'], 'http://purl.org/spar/cito/citesAsDataSource')
     del resources
 
     file_name = os.path.join(PATH_TEST_DATA, 'post-gallia-prehistoire.xml')

@@ -164,7 +164,7 @@ class AwolBaseParser:
         logger = logging.getLogger(sys._getframe().f_code.co_name)
         #logger.debug('getting resources from {0}'.format(article.id))
         primary_resource = self._get_primary_resource(article)
-        primary_resource.subordinate_resources = self._get_subordinate_resources()
+        primary_resource.subordinate_resources = self._get_subordinate_resources(article)
         for sr in primary_resource.subordinate_resources:
             parent = {
                 'title': primary_resource.title,
@@ -278,13 +278,10 @@ class AwolBaseParser:
             else:
                 return (m.group(g['volume'], g['year']))
 
-    def _get_subordinate_resources(self):
+    def _get_subordinate_resources(self, article):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
         resources = []
         anchors = self._get_anchors()[1:]
-        anchors = [a for a in anchors 
-            if domain_from_url(a.get('href')) not in self.skip_domains
-            and a.get_text().strip() not in self.skip_text]
         for a in anchors:
             # title
             title_context = self._get_anchor_ancestor_for_title(a)
@@ -358,6 +355,9 @@ class AwolBaseParser:
             if year is not None:
                 params['year'] = year
             resource = self._make_resource(**params)
+
+            self._set_provenance(resource, article)
+
             resources.append(resource)
         return resources
 
@@ -520,16 +520,17 @@ class AwolBaseParser:
             params['keywords'] = keywords
         resource = self._make_resource(**params)
 
-        # set dates and provenance
-        published = article.root.xpath("//*[local-name()='published']")[0].text.strip()
-        updated = article.root.xpath("//*[local-name()='updated']")[0].text.strip()        
-        resource_fields = sorted([k for k in resource.__dict__.keys() if '_' != k[0]])
-        resource.set_provenance(article.id, 'citesAsDataSource', updated, resource_fields)
-        resource.set_provenance(article.url, 'citesAsMetadataDocument', updated)
+        # provenance
+        self._set_provenance(resource, article)
 
         #logger.debug(u'returning resource: "{0}"'.format(unicode(resource)))
         return resource
 
+    def _set_provenance(self, resource, article):
+        updated = article.root.xpath("//*[local-name()='updated']")[0].text.strip()   
+        resource_fields = sorted([k for k in resource.__dict__.keys() if '_' != k[0]])
+        resource.set_provenance(article.id, 'citesAsDataSource', updated, resource_fields)
+        resource.set_provenance(article.url, 'citesAsMetadataDocument', updated)        
 
     def _parse_keywords(self, post_title=None, resource_title=None, post_categories=[], resource_text=None):
         """Infer and normalize resource tags."""
