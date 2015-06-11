@@ -24,15 +24,32 @@
     <xsl:template match="*[local-name()='a' and contains(@href, 'javascript')]"/>
     <xsl:template match="*[local-name()='a' and contains(@href, 'mailto')]"/>
     
-    <xsl:template match="*[local-name()='img']"/>
+    <xsl:template match="*[local-name()='img' and not(ancestor::*[local-name()='a'])]"/>
+    <xsl:template match="*[local-name()='a' and count(*[local-name()='img']) &gt; 0]">
+        <xsl:call-template name="copier">
+            <xsl:with-param name="replace">%IMAGEREPLACED%</xsl:with-param>
+        </xsl:call-template>
+    </xsl:template>
     <xsl:template match="*[local-name()='script']"/>
     <xsl:template match="*[local-name()='b']"/>
     <xsl:template match="*[local-name()='strong']"/>
     
     <xsl:template match="*">
+        <xsl:call-template name="copier"/>
+    </xsl:template>
+            
+    <xsl:template name="copier">
+        <xsl:param name="replace">no</xsl:param>
         <xsl:copy>
             <xsl:call-template name="clean-attributes"/>
-            <xsl:apply-templates/>
+            <xsl:choose>
+                <xsl:when test="$replace='no'">
+                    <xsl:apply-templates/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="$replace"/>
+                </xsl:otherwise>
+            </xsl:choose>
         </xsl:copy>
         <xsl:variable name="ename" select="local-name()"/>
         <xsl:choose>
