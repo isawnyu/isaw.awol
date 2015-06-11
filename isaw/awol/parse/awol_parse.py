@@ -163,30 +163,30 @@ class AwolBaseParser:
         logger = logging.getLogger(sys._getframe().f_code.co_name)
         #logger.debug('getting resources from {0}'.format(article.id))
         primary_resource = self._get_primary_resource(article)
-        #primary_resource.subordinate_resources = self._get_subordinate_resources()
-        #for sr in primary_resource.subordinate_resources:
-        #    parent = {
-        #        'title': primary_resource.title,
-        #        'url': primary_resource.url
-        #    }
-        #    if len(primary_resource.identifiers.keys()) > 0:
-        #        try:
-        #            parent['issn'] = primary_resource.identifiers['issn']['electronic'][0]
-        #        except KeyError:
-        #            try:
-        #                parent['issn'] = primary_resource.identifiers['issn']['generic'][0]
-        #            except KeyError:
-        #                try:
-        #                    parent['isbn'] = primary_resource.identifiers['isbn'][0]
-        #                except KeyError:
-        #                    pass                            
-        #    sr.is_part_of = parent
-        #    logger.debug(sr)
-        #primary_resource.related_resources = self._get_related_resources()
+        primary_resource.subordinate_resources = self._get_subordinate_resources()
+        for sr in primary_resource.subordinate_resources:
+            parent = {
+                'title': primary_resource.title,
+                'url': primary_resource.url
+            }
+            if len(primary_resource.identifiers.keys()) > 0:
+                try:
+                    parent['issn'] = primary_resource.identifiers['issn']['electronic'][0]
+                except KeyError:
+                    try:
+                        parent['issn'] = primary_resource.identifiers['issn']['generic'][0]
+                    except KeyError:
+                        try:
+                            parent['isbn'] = primary_resource.identifiers['isbn'][0]
+                        except KeyError:
+                            pass                            
+            sr.is_part_of = parent
+            #logger.debug(sr)
+        primary_resource.related_resources = self._get_related_resources()
         #logger.debug(u'got: "{0}"'.format(unicode(primary_resource)))
-        #foo = [primary_resource,] + primary_resource.subordinate_resources + primary_resource.related_resources
-        #return foo
-        return [primary_resource,]
+        foo = [primary_resource,] + primary_resource.subordinate_resources + primary_resource.related_resources
+        return foo
+        #return [primary_resource,]
 
     def _get_anchor_ancestor_for_title(self, anchor):
         a = anchor
