@@ -1,49 +1,27 @@
+". lexicography",lexicography
 achaemenids,Achaemenids
 achemenet,Achemenet
 administrative,
 aegean,Aegean
 afghanistan,Afghanistan
 africa,Africa
+aggregator,aggregator
 agriculture,agriculture
-enkomi,Enkomi
 aia,AIA
 aja,AJA
-historiography,historiography
-huns,Huns
-zagreb,Zagreb
-metu,METU
-boletines de la seb,Boletines de la SEB
-seb,SEB
 akkadan,Akkadian
 akkadian,Akkadian
-columbia,Columbia
-trypillia,Trypillia
 alfred percival maudslay,Alfred Percival Maudslay
-indology,Indology
-manual,manual
-southeast asia,Southeast Asia
 algeria,Algeria
-studien zu produktion,Studien zu Produktion
-subsistenz und umwelt im frühen vorderasien,Subsistenz und Umwelt im frühen Vorderasien
 altertumswissenschaften,antiquity
-rhetoric,rhetoric
-collecting,collecting
-materials science,materials science
-seleucia,Seleucia
-industry,industry
 amar,Amar
 amarna,Amarna
 american journal of archaeology,AJA
 american research institute in turkey,ARIT
 american schools of oriental research,ASOR
-elamite,Elamite
-cucuteni,Cucuteni
-saudi arabia,Saudi Arabia
 amphorae,amphorae
 amphores,amphorae
 analecta,journal
-podcasting,podcasting
-aratta,Aratta
 anatolia,Anatolia
 ancienne,antiquity
 anciennes,antiquity
@@ -52,7 +30,6 @@ ancient history,ancient history
 ancient near east,Ancient Near East
 ancient science,"ancient, science"
 ancient,antiquity
-vatican city,Vatican City
 annales,journal
 annuaire,journal
 annual report,"annual report, report"
@@ -76,6 +53,7 @@ arabian,Arabia
 arabic,Arabic
 arachne,"Arachne, DAI"
 aramaic,Aramaic
+aratta,Aratta
 archaelogy,archaeology
 archaeobotany,archaeobotany
 archaeologica,archaeology
@@ -159,7 +137,9 @@ biblioteca,
 bibliotheca,library
 biography,biography
 bips,BIPS
+black sea,Black Sea
 blog,blog
+boletines de la seb,Boletines de la SEB
 boletín,
 bollettino,
 book of the dead,Book of the Dead
@@ -180,6 +160,7 @@ bulgaria,Bulgaria
 bulletin,journal
 byrsa,Byrsa
 bysantine,Byzantium
+byzad,ByzAD
 byzantine,Byzantium
 byzantium,Byzantium
 caa,CAA
@@ -221,9 +202,11 @@ codex,
 coins,numismatics
 collaboration,collaboration
 collaborative,collaboration
+collecting,collecting
 collection,
 collections,
 college,
+columbia,Columbia
 community,collaboration
 competition,competition
 conference,conference
@@ -242,6 +225,7 @@ crowdsource,crowdsource
 csad,CSAD
 cuadernos,journal
 cucd,CUCD
+cucuteni,Cucuteni
 cultural heritage,cultural heritage
 cultural,culture
 culture,culture
@@ -292,10 +276,12 @@ egyptomania,Egyptomania
 egypy,Egypt
 egypyology,egyptology
 ejournal,journal
+elamite,Elamite
 elephantine,Elephantine
 emar,Emar
 encyclopaedia,encyclopedia
 encyclopedia,encyclopedia
+enkomi,Enkomi
 environment,environment
 epigraphic,epigraphy
 epigraphica,epigraphy
@@ -378,12 +364,14 @@ historians,history
 historica,history
 historical jesus,historical Jesus
 historical,history
+historiography,historiography
 history,history
 história,history
 hittite,Hittite
 homer,Homer
 humanities,
 hungary,Hungary
+huns,Huns
 hydrology,hydrology
 image,imagery
 images,imagery
@@ -391,6 +379,9 @@ imaging,imagery
 imperial,empires
 india,India
 indian,India
+indoeuropean,Indoeuropean
+indology,Indology
+industry,industry
 inscriptions,epigraphy
 inscriptionum,epigraphy
 insriptions,epigraphy
@@ -469,12 +460,14 @@ macedonia,Macedonia
 magazine,magazine
 magic,magic
 mailing list,mailing list
+manual,manual
 manuscript,manuscripts
 manuscripts,manuscripts
 map,maps
 maps,maps
 mari,Mari
 maritime archaeology,"archaeology, nautical archaeology"
+materials science,materials science
 materials,materials
 mathematics,mathematics
 max planck institute for the history of science,Max Planck Institute for the History of Science
@@ -490,6 +483,7 @@ mesopotamian,Mesopotamia
 metallurgy,metallurgy
 metalurgy,metallurgy
 metropolitan museum of art,"Metropolitan Museum of Art, museums"
+metu,METU
 michigan,Michigan
 middle ages,Middle Ages
 middle east,Middle East
@@ -582,6 +576,7 @@ photography,"photography, imagery"
 photostream,imagery
 phototography,"photography, imagery"
 places,geography
+podcasting,podcasting
 podcasts,audio
 poetry,poetry
 poland,Poland
@@ -630,6 +625,7 @@ reviews,journal
 revista,journal
 revue,journal
 rezeption,reception
+rhetoric,rhetoric
 rida,Rida
 rivista,journal
 roman empire,"Roman Empire, Roman"
@@ -648,12 +644,15 @@ sanscrit,Sanskrit
 sanskrit,Sanskrit
 sardinia,Sardinia
 sardis,Sardis
+saudi arabia,Saudi Arabia
 scanned,digitization
 science,science
 sculpture,sculpture
 scuplture,sculpture
 seals,seals
+seb,SEB
 selective open access,mixed access
+seleucia,Seleucia
 semitic,semitics
 semitics,semitics
 septuagint,"Septuagint, Bible, religion"
@@ -663,6 +662,7 @@ serie,series
 sigillography,sigillography
 silwan,Silwan
 sites,
+slavery,slavery
 slovakia,Slovakia
 social network,social network
 society of biblical literature,SBL
@@ -671,13 +671,16 @@ sources,
 south africa,South Africa
 south arabia,"Arabia, South Arabia"
 south asia,South Asia
+southeast asia,Southeast Asia
 soviet union,Soviet Union
 spain,Spain
 sri lanka,Sri Lanka
 statuary,statuary
 storia,history
 student journal,"student journal, journal"
+studien zu produktion,Studien zu Produktion
 studies,
+subsistenz und umwelt im frühen vorderasien,Subsistenz und Umwelt im frühen Vorderasien
 sudan,Sudan
 suisse,Switzerland
 sumerian,Sumerian
@@ -720,6 +723,7 @@ trade,trade
 travel,travel
 trismegistos,Trismegistos
 trismegistos,Trismegistos
+trypillia,Trypillia
 tuba-ar,Tuba-Ar
 tunisia,Tunisia
 turkey,Turkey
@@ -733,6 +737,7 @@ uruk,Uruk
 ussr,USSR
 uzbekistan,Uzbekistan
 valencia,Valencia
+vatican city,Vatican City
 verlag ferdinand schöningh,Verlag Ferdinand Schöningh
 verlag otto sagner,Verlag Otto Sagner
 verlage vandenhoeck & ruprecht und v & r unipress,Verlage Vandenhoeck & Ruprecht und V & R unipress
@@ -751,6 +756,7 @@ womens' studies,womens' studies
 wood,Wood
 yemen,Yemen
 youtube,video
+zagreb,Zagreb
 zeitschrift,journal
 zenon,Zenon
 zinjirli,Zinjirli

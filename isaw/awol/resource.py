@@ -26,17 +26,19 @@ class Resource:
     def __init__(self):
         """Set all attributes to default values."""
 
-        self.history = []
         self.description = None
         self.domain = None
         self.subordinate_resources = []
         self.identifiers = {}
+        self.is_part_of = None
         self.keywords = []
         self.language = None
         self.provenance = []
         self.related_resources = []
         self.title = None
         self.url = None
+        self.volume = None
+        self.year = None
         self.zotero_id = None
 
     def json_dumps(self, formatted=False):
@@ -48,11 +50,15 @@ class Resource:
 
     def json_dump(self, filename, formatted=False):
         """Dump resource as JSON to a file."""
+        dump = self.__dict__.copy()
+        dump['related_resources'] = [r.url for r in self.related_resources]
+        dump['subordinate_resources'] = [r.url for r in self.subordinate_resources]
         with open(filename, 'w') as f:
             if formatted:
-                json.dump(self.__dict__, f, indent=4, sort_keys=True)
+                json.dump(dump, f, indent=4, sort_keys=True)
             else:
-                json.dump(self.__dict__, f)
+                json.dump(dump, f)
+        del dump
 
     def json_loads(self, s):
         """Parse resource from a UTF-8 JSON string."""
@@ -103,16 +109,6 @@ class Resource:
                 'itemID': zot_id
             }
             logger.debug(repr(self.zotero_id))
-            self.append_event(
-                'Successfully uploaded to Zotero with {0}'.format(repr(self.zotero_id)))
-
-    def append_event(self, msg):
-        """Append an event record to resource history."""
-        event = '{0}: {1} ({2})'.format(
-            datetime.datetime.utcnow().isoformat(), 
-            msg,
-            scriptinfo()['source'])
-        self.history.append(event)
 
     def wikidata_suggest(self, resource_title):
         wikidata = suggest(resource_title)
@@ -141,28 +137,42 @@ class Resource:
 
     def __str__(self):
         
+        try:
+            title_extended = self.title_extended
+        except AttributeError:
+            title_extended = None
+
         s = u"""
         title: {title}
+        extended title: {titleextended}
         url: {url}
-        description : {description}
+        description: {description}
         language: {language}
         domain: {domain}
         keywords: {keywords}
         identifiers: {identifiers}
-        related resources: NOT IMPLEMENTED
-        subordinate resources: NOT IMPLEMENTED
-        history: {history}
+        part of: {partof}
+        volume: {volume}
+        year: {year}
+        related resources: {related}
+        subordinate resources: {subordinate}
+        provenance: {provenance}
         """
         s = s.format(
             title = self.title,
+            titleextended = title_extended,
             url = self.url,
             description = self.description,
             language = self.language,
             domain = self.domain,
             keywords = repr(self.keywords),
             identifiers = repr(self.identifiers), 
-            history = repr(self.history))
-
+            partof = repr(self.is_part_of),
+            volume = self.volume,
+            year = self.year,
+            provenance = repr(self.provenance), 
+            subordinate = [r.title for r in self.subordinate_resources],
+            related = [r.title for r in self.related_resources])
         return s
 
 

@@ -11,9 +11,11 @@ This module defines the following classes:
 
 import codecs
 #import csv
+from importlib import import_module
 import logging
 import os
 import pkg_resources
+import pkgutil
 import pprint
 import re
 import sys
@@ -231,6 +233,10 @@ class AwolArticle(Article):
     def __init__(self, atom_file_name=None, json_file_name=None):
 
         Article.__init__(self, atom_file_name, json_file_name)
+        lt = self.title.lower()
+        if lt in COLON_PREFIXES.keys():
+            if COLON_PREFIXES[lt][0] == 'yes':
+                return None
 
     def parse_atom_resources(self):
         """Extract information about all resources in the post."""
@@ -659,73 +665,6 @@ class AwolArticle(Article):
                 title = u':'.join(title.split(u':')[1:])
         return clean_title(title)
 
-    def _parse_identifiers(self, content_text):
-        """Parse identifying strings of interest from an AWOL blog post."""
 
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-        
-        identifiers = {}
-        text = normalize_space(content_text).lower()
-        words = list(set(text.split()))
-
-        def get_candidates(k, kk, text):
-            candidates = []
-            rexx = RX_IDENTIFIERS[k]
-            for rx in rexx[kk]:
-                candidates.extend([u''.join(groups) for groups in rx.findall(text)])
-            if len(candidates) > 1:
-                candidates = list(set(candidates))
-            return candidates
-
-        def extract(k, text):
-            m = RX_IDENTIFIERS[k]['extract']['precise'].match(text)
-            if m is not None:
-                if len(m.groups()) == 1:
-                    return m.groups()[0]
-            else:
-                try:
-                    m = RX_IDENTIFIERS[k]['extract']['fallback'].match(text)
-                except KeyError:
-                    pass
-                else:
-                    if m is not None:
-                        if len(m.groups()) == 1:
-                            return m.groups()[0]
-            logger.error("failed to match {0} in {1}".format(k, text))
-            raise Exception
-
-        for k in RX_IDENTIFIERS.keys():
-            if k in u' '.join(words):
-                if k not in identifiers.keys():
-                    identifiers[k] = {}
-                for kk in ['electronic', 'generic']:
-                    candidates = get_candidates(k, kk, text)
-                    logger.debug('candidates({0},{1}) {2})'.format(k, kk, candidates))
-                    if len(candidates) > 0:
-                        identifiers[k][kk] = []
-                        for candidate in candidates:
-                            extraction = extract(k, candidate)
-                            logger.debug('extraction({0},{1}) {2})'.format(k, kk, extraction))
-                            identifiers[k][kk].append(extraction)
-                        if len(identifiers[k][kk]) > 1:
-                            identifiers[k][kk] = list(set(identifiers[k][kk]))
-                if len(identifiers[k].keys()) == 0:
-                    logger.warning(u'failed to match valid issn in {0}'.format(text))
-                if k == 'issn':
-                    try:
-                        identifiers[k]['electronic'] = [RX_DASHES.sub(u'-', normalize_space(issn).replace(u' ', u'-')).upper() for issn in identifiers[k]['electronic']]
-                    except KeyError:
-                        pass
-                    try:
-                        identifiers[k]['generic'] = [RX_DASHES.sub(u'-', normalize_space(issn).replace(u' ', u'-')).upper() for issn in identifiers[k]['generic']]
-                    except KeyError:
-                        pass
-                    if 'electronic' in identifiers[k].keys() and 'generic' in identifiers[k].keys():
-                        for ident in identifiers[k]['generic']:
-                            if ident in identifiers[k]['electronic']:
-                                identifiers[k]['generic'].remove(ident)
-                        if len(identifiers[k]['generic']) == 0:
-                            del identifiers[k]['generic']
-        return identifiers
 
 
