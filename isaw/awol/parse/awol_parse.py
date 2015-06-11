@@ -34,7 +34,6 @@ ANCHOR_TEXT_IGNORE = [
     u'contact us',
 ]
 ANCHOR_URLS_IGNORE = [
-    'http://nowhere.com/fiddle',
 ]
 colon_prefix_csv = pkg_resources.resource_stream('isaw.awol', 'awol_colon_prefixes.csv')
 dreader = unicodecsv.DictReader(
