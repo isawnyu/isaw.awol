@@ -83,7 +83,7 @@ class Article():
         self.root = self.doc.getroot()
         root = self.root
         self.id = root.find('{http://www.w3.org/2005/Atom}id').text.strip()
-        logger.debug('article id: "{0}"'.format(self.id))
+        #logger.debug('article id: "{0}"'.format(self.id))
 
         # title of blog post should be same as title of atom entry
         raw_title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text)
@@ -94,7 +94,8 @@ class Article():
             raise RuntimeWarning(msg)
             
         else:
-            logger.debug(u'article title: "{0}"'.format(self.title))
+            #logger.debug(u'article title: "{0}"'.format(self.title))
+            pass
 
         # get url of blog post (html alternate)
         try:

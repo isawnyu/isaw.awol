@@ -21,13 +21,19 @@ class Parser(AwolDomainParser):
         AwolDomainParser.__init__(self)
 
 
-    def _get_primary_anchor(self):
-        """Deal with ASCSA peculiarities."""
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-        pa = AwolDomainParser._get_primary_anchor(self)
-        if pa.get('href') == 'http://www.ascsa.edu.gr/index.php/news/newsDetails/school-newsletter-now-online':
-            for pa in self.content['anchors']:
-                if pa.get('href') == 'http://www.ascsa.edu.gr/index.php/publications/newsletter/':
-                    return pa
-        return pa
+    #def _get_primary_anchor(self):
+    #    """Deal with ASCSA peculiarities."""
+    #    logger = logging.getLogger(sys._getframe().f_code.co_name)
+    #    pa = AwolDomainParser._get_primary_anchor(self)
+    #    if pa.get('href') == 'http://www.ascsa.edu.gr/index.php/news/newsDetails/school-newsletter-now-online':
+    #        for pa in self.content['anchors']:
+    #            if pa.get('href') == 'http://www.ascsa.edu.gr/index.php/publications/newsletter/':
+    #                return pa
+    #    return pa
+
+    def reset(self, content_soup=None):
+        AwolDomainParser.reset(self, content_soup)
+        self.skip_urls.append('http://www.ascsa.edu.gr/index.php/news/newsDetails/school-newsletter-now-online')
+
+
         

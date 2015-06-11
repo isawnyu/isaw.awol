@@ -35,7 +35,7 @@ class AwolParsers():
                 levels = where.split('/')
                 levels.append(parser_name)
                 parser_path = '.'.join(tuple(levels))
-                logger.debug('importing module "{0}"'.format(parser_path))
+                #logger.debug('importing module "{0}"'.format(parser_path))
                 mod = import_module(parser_path)
                 parser = mod.Parser()
                 self.parsers[parser.domain] = parser
@@ -46,15 +46,18 @@ class AwolParsers():
         self.reset()
         self.content_soup = article.soup
         domains = self.get_domains()
-        if len(domains) > 1:
+        length = len(domains)
+        if length > 2:
             raise NotImplementedError('awol_parsers cannot yet handle multiple domains in a single article: {0}'.format(domains))
-        elif len(domains) == 0:
+        elif length == 0:
             raise NotImplementedError('awol_parsers does not know what to do with no domains in article: {0}'.format(article.id))
-        else:
+        elif length == 1 or 'www.oxbowbooks.com' in domains:
             try:
-                return self.parsers[domains[0]].parse(article)
+                parser = self.parsers[domains[0]]
+                #logger.debug('using specialized parser for domain: {0}'.format(parser.domain))
+                return parser.parse(article)
             except KeyError:
-                logger.debug('using generic parser')
+                #logger.debug('using generic parser')
                 return self.parsers['generic'].parse(article)
 
 
