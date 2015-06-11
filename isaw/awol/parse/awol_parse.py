@@ -394,6 +394,7 @@ class AwolBaseParser:
                 desc_text = None
             else:
                 desc_text = RX_PUNCT_FIX.sub(r'\1', desc_text)
+        desc_text = desc_text.replace(u'%IMAGEREPLACED%', u'').strip()
         #logger.debug(u"desc_text: {0}".format(desc_text))
 
         return desc_text        
