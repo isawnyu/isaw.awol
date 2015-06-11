@@ -424,7 +424,7 @@ class AwolBaseParser:
         if last_node is None:
             first_anchor = first_node.find_next('a')
             if first_anchor is not None:
-                if not self._consider_anchor(a):
+                if not self._consider_anchor(first_anchor):
                     node = first_anchor.next_element
                 else:
                     node = first_anchor.find_next('a')

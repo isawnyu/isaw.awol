@@ -72,8 +72,11 @@ def main (args):
                     except NotImplementedError as e:
                         logger.warning(e)
                     else:
-                        length = len(resources)
-                        logger.debug('found {0} resources in {1}'.format(len(resources), file_name))
+                        try:
+                            length = len(resources)
+                        except TypeError:
+                            length = 0
+                            logger.warning('found {0} resources in {1}'.format(length, file_name))
                         if length > 0:
                             for i,r in enumerate(resources):
                                 #this_id = '-'.join((awol_id, format(i+1, '04')))
