@@ -11,7 +11,36 @@
         "el", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-191928554507254710", 
+            "resource_date": "2013-07-17T11:00:41.045-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:56.617998"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/pretres-civique-les-pretres-du-culte.html", 
+            "resource_date": "2013-07-17T11:00:41.045-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:56.618013"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\u1f00\u03c1\u03c7\u03b9\u03ad\u03c1\u03b5\u03b9\u03b1", 

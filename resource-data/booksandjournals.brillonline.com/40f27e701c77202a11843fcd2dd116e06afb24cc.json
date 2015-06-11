@@ -12,7 +12,36 @@
         "journal issues"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1007494345424168498", 
+            "resource_date": "2013-03-19T12:05:56.197-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:12.995245"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/new-open-access-for-now-journal-greek.html", 
+            "resource_date": "2013-03-19T12:05:56.197-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:12.995260"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "EditorialAuthor: Andrew Barker Source:Volume 1, Issue 1, pp 1 \u20133", 

@@ -12,7 +12,36 @@
         "sk", 
         0.9999982159578296
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2122046211297278016", 
+            "resource_date": "2013-01-02T05:30:05.683-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:02.195951"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/new-open-access-journal-peitho-examina.html", 
+            "resource_date": "2013-01-02T05:30:05.683-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:02.195966"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Zde\u00adkon\u00adstru\u00adowa\u0107\u00a0Meta\u00adfi\u00adzyk\u0119\u00a0Ary\u00adsto\u00adte\u00adlesa [\u00a0Jan Bigaj, Zrozu\u00admie\u0107 meta\u00adfi\u00adzyk\u0119. Tom I: Roz\u00adszy\u00adfro\u00adwa\u00adnie dzie\u0142a zwa\u00adnego \u2018Meta\u00adfi\u00adzyk\u0105\u2019 Ary\u00adsto\u00adte\u00adlesa, Cz\u0119\u015b\u0107 1: Biblio\u00adfil\u00adska kom\u00adpi\u00adla\u00adcja i\u00a0jej skutki, Toru\u0144 2004 (ss", 

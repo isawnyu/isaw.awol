@@ -12,7 +12,36 @@
         "en", 
         0.999988348306808
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2692002173105284817", 
+            "resource_date": "2013-12-22T08:41:03.446-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:16.100776"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-gottinger-forum-fur.html", 
+            "resource_date": "2013-12-22T08:41:03.446-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:16.100789"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Band 15 (2012)", 

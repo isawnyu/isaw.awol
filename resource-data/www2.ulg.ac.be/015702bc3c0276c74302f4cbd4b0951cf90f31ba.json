@@ -16,7 +16,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4785880019658891229", 
+            "resource_date": "2011-02-18T11:42:11.691-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:03.269779"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/partially-open-access-journal-aegaeum.html", 
+            "resource_date": "2011-02-18T11:42:11.691-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:03.269793"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "5 Aegean Seals, Sealings and Administration. Proceedings of the NEH-Dickson Conference of the Program in Aegean Scripts and Prehistory of the Department of Classics, University of Texas at Austin, January 11-13, 1989, edited by Thomas G", 

@@ -9,7 +9,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1770868145368809048", 
+            "resource_date": "2013-05-27T18:53:26.252-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:52.930465"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/emerging-open-access-journal-antiguo.html", 
+            "resource_date": "2013-05-27T18:53:26.252-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:52.930481"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "%IMAGEREPLACED%", 

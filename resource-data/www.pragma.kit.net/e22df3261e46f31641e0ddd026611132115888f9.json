@@ -12,7 +12,36 @@
         "vi", 
         0.9999246102004343
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9194323707020775896", 
+            "resource_date": "2013-02-28T19:06:52.512-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:42.788765"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-kleos.html", 
+            "resource_date": "2013-02-28T19:06:52.512-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:42.788777"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "V.4 \u2022 N.4 \u00a0 (2000)", 

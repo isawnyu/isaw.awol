@@ -11,7 +11,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4992273992170092691", 
+            "resource_date": "2011-04-20T16:01:53.138-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:07.649998"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html", 
+            "resource_date": "2011-04-20T16:01:53.138-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:07.650013"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Two letters from Howard Carter to A. H. Gardiner", 

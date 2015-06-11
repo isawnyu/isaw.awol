@@ -11,7 +11,36 @@
         "en", 
         0.9999996429546032
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2213283515023017485", 
+            "resource_date": "2013-08-19T13:31:24.755-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:04.562425"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/online-emergency-red-list-of-egyptian.html", 
+            "resource_date": "2013-08-19T13:31:24.755-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:04.562442"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Statues - Terracotta (Egyptian Graeco-Roman and Nubian Meroitic era)", 

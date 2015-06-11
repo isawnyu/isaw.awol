@@ -11,7 +11,36 @@
         "en", 
         0.9999999999999929
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1411290510867293979", 
+            "resource_date": "2012-07-28T09:12:21.928-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:22.483384"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/the-globalization-of-knowledge.html", 
+            "resource_date": "2012-07-28T09:12:21.928-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:22.483407"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "20.5 The Worldwide Diffusion of Developmental Central Banking", 

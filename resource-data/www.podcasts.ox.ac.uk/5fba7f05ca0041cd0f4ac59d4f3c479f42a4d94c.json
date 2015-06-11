@@ -11,7 +11,36 @@
         "en", 
         0.9999999999415912
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-85733779023710909", 
+            "resource_date": "2013-04-15T06:32:20.101-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:28.955967"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/university-of-oxford-podcasts-faculty.html", 
+            "resource_date": "2013-04-15T06:32:20.101-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:28.955978"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Creative Commons", 

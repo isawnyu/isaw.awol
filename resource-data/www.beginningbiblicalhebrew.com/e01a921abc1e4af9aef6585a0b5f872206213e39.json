@@ -10,7 +10,36 @@
         "blog"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1169337996089803829", 
+            "resource_date": "2013-10-16T09:56:12.413-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:17.025576"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/online-companion-to-beginning-biblical.html", 
+            "resource_date": "2013-10-16T09:56:12.413-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:17.025602"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Blog", 

@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4146826602978454640", 
+            "resource_date": "2010-01-19T11:12:12.328-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:51.732861"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/ancient-north-africa.html", 
+            "resource_date": "2010-01-19T11:12:12.328-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:51.732982"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "%IMAGEREPLACED%", 

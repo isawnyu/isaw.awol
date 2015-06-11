@@ -9,7 +9,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4783447277104952940", 
+            "resource_date": "2013-10-03T08:39:40.698-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:03.017129"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-journal-for.html", 
+            "resource_date": "2013-10-03T08:39:40.698-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:03.017140"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "%IMAGEREPLACED%", 

@@ -18,7 +18,36 @@
         "la", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7698355387808772715", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:11.017237"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-analecta.html", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:11.017250"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\u0141ukasz Porzu\u00adczek \u2014 The Appli\u00adca\u00adtion of Advanced Tech\u00adno\u00adlogy of Archa\u00adeolo\u00adgical Geo\u00adphy\u00adsical Rese\u00adarch in Com\u00adbi\u00adna\u00adtion with DEM (Digital Ele\u00adva\u00adtion Model), Aerial Pho\u00adto\u00adgraphs, and 3D Scans Porzuczek", 

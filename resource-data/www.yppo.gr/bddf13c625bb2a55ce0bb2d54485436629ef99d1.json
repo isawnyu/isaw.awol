@@ -11,7 +11,36 @@
         "el", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2992196781214550601", 
+            "resource_date": "2012-04-06T17:02:51.861-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:22.337192"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/archaeological-work-of-ephorias-on.html", 
+            "resource_date": "2012-04-06T17:02:51.861-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:22.337204"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "19\u03b7 E\u03c6\u03bf\u03c1\u03b5\u03af\u03b1 \u0392\u03c5\u03b6\u03b1\u03bd\u03c4\u03b9\u03bd\u03ce\u03bd \u0391\u03c1\u03c7\u03b1\u03b9\u03bf\u03c4\u03ae\u03c4\u03c9\u03bd", 

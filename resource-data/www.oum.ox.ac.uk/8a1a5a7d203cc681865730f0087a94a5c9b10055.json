@@ -11,7 +11,36 @@
         "en", 
         0.9999940250592503
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2977160698223660893", 
+            "resource_date": "2012-06-01T14:19:57.326-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:21.598907"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/corsi-collection-of-decorative-stones.html", 
+            "resource_date": "2012-06-01T14:19:57.326-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:21.598921"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "gallery", 

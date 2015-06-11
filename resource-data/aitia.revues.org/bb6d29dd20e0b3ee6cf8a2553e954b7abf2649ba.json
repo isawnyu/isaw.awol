@@ -12,7 +12,36 @@
         "oc", 
         0.9996783282418392
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6371175981286266122", 
+            "resource_date": "2013-01-07T15:53:42.231-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:38.964576"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/new-open-accesss-journal-aitia.html", 
+            "resource_date": "2013-01-07T15:53:42.231-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:38.964590"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "1/2011Visions de l\u2019archa\u00efsme Visions of archaismVisioni dell\u2019 arcaismo Sous la direction de", 

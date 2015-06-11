@@ -11,7 +11,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7792031706496568625", 
+            "resource_date": "2013-10-24T06:06:11.963-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:12.830861"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/intratext-digital-library-lingua-latina.html", 
+            "resource_date": "2013-10-24T06:06:11.963-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:12.830877"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "XV - XXI sec", 

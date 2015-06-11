@@ -12,7 +12,36 @@
         "Cambridge"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8603139550569042129", 
+            "resource_date": "2013-08-17T11:02:33.600-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:29.612507"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/new-open-access-journal-arabian.html", 
+            "resource_date": "2013-08-17T11:02:33.600-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:29.612519"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Toby Craig Jones, Desert Kingdom: How Oil and Water Forged Modern Saudi Arabia [Texte int\u00e9gral]Cambridge Mass., Harvard University Press, 2011, 320\u00a0pages", 

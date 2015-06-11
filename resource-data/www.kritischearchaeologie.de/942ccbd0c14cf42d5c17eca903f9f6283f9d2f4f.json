@@ -14,7 +14,36 @@
         "de", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3288740007547755725", 
+            "resource_date": "2013-10-24T11:19:55.215-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:34.173316"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/new-open-access-journal-forum-kritische.html", 
+            "resource_date": "2013-10-24T11:19:55.215-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:34.173330"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Arch\u00e4ologie der Aneignung. Zum Umgang mit Dingen aus kulturfremden Kontexten", 

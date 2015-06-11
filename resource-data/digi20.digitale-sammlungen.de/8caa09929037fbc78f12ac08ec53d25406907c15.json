@@ -13,7 +13,36 @@
         "de", 
         0.9999947929459897
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7174327576362514977", 
+            "resource_date": "2013-11-27T08:46:44.482-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:56.963210"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/open-access-collections-digi20.html", 
+            "resource_date": "2013-11-27T08:46:44.482-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:56.963221"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Klassische Arch\u00e4ologie", 

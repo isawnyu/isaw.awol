@@ -11,7 +11,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2431371716274894340", 
+            "resource_date": "2012-11-27T09:53:28.027-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:11.865009"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/online-database-of-bulletin.html", 
+            "resource_date": "2012-11-27T09:53:28.027-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:11.865025"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "picture bank", 

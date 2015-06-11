@@ -11,7 +11,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5076299534315044748", 
+            "resource_date": "2012-10-04T10:25:49.941-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:08.893396"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/10/more-open-access-publications-from.html", 
+            "resource_date": "2012-10-04T10:25:49.941-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:08.893410"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "L'\u00c9tat thessalien. Aleuas le Roux, les t\u00e9trades et les tagoi", 

@@ -12,7 +12,36 @@
         "journal issues"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2354047104752179440", 
+            "resource_date": "2013-11-24T08:16:52.358-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:10.678853"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-rosetta-papers-of.html", 
+            "resource_date": "2013-11-24T08:16:52.358-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:10.678866"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Issue #06. Spring 2009", 

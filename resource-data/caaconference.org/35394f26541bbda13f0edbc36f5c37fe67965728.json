@@ -11,7 +11,36 @@
         "en", 
         0.9999995347174866
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7261621287659983018", 
+            "resource_date": "2013-04-06T08:01:05.198-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:59.350143"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/caa-proceedings-online-computer.html", 
+            "resource_date": "2013-04-06T08:01:05.198-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:59.350154"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Graphical Applications", 

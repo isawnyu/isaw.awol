@@ -11,7 +11,36 @@
         "en", 
         0.9999999986352015
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3025492624615600213", 
+            "resource_date": "2013-09-17T06:24:50.132-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:23.498717"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/01/open-access-journal-iris-newsletter-of.html", 
+            "resource_date": "2013-09-17T06:24:50.132-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:23.498730"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Rehak Award", 

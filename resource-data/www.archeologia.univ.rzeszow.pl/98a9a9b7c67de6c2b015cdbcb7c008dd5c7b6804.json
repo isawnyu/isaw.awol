@@ -15,7 +15,36 @@
         "la", 
         0.9999962432332767
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7698355387808772715", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:10.987994"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-analecta.html", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:10.988005"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Agnieszka Gil-Drozd \u2014 The Ori\u00adgins of Cre\u00adma\u00adtion in Europe", 

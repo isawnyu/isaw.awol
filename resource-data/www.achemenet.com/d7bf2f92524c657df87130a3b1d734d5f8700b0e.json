@@ -13,7 +13,36 @@
         "fr", 
         0.9999999961513508
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6770202871016792463", 
+            "resource_date": "2012-07-26T16:23:06.000-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:49.703794"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/bulletin-dhistoire-achemenide-online.html", 
+            "resource_date": "2012-07-26T16:23:06.000-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:49.703806"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Bulletin d'histoire ach\u00e9m\u00e9nide II (1997-2000)", 

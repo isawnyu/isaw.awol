@@ -16,7 +16,36 @@
         "en", 
         0.9999999999999756
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7979029927689313803", 
+            "resource_date": "2013-01-22T15:10:16.494-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:16.993594"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-journal-hellenic-society.html", 
+            "resource_date": "2013-01-22T15:10:16.494-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:16.993606"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "HSLA - Proceedings 2008", 

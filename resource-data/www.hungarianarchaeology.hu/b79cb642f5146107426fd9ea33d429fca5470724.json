@@ -14,7 +14,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-666394554250935720", 
+            "resource_date": "2012-06-22T08:07:05.252-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:48.052527"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-magyar-regeszet.html", 
+            "resource_date": "2012-06-22T08:07:05.252-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:48.052543"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Large-Scale Construction Projects and Heritage Protection in Hungary in the Past Twenty Years \u2026 and Today", 

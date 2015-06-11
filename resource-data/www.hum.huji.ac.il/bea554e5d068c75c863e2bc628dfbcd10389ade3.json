@@ -16,7 +16,36 @@
         "en", 
         0.9999999999999756
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7456781055847732566", 
+            "resource_date": "2013-09-26T09:41:34.390-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:05.858324"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/newly-open-access-journal-textus-annual.html", 
+            "resource_date": "2013-09-26T09:41:34.390-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:05.858336"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Textus 26 (current)", 

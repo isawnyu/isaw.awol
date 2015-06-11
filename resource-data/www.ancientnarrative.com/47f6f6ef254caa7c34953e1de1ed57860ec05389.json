@@ -14,7 +14,36 @@
         "en", 
         0.9997608029416704
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8147198954376621871", 
+            "resource_date": "2013-03-11T13:49:54.836-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:19.909602"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/open-access-journal-ancient-narrative.html", 
+            "resource_date": "2013-03-11T13:49:54.836-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:19.909613"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Ancient Narrative Supplementum 2 The Recollections of Encolpius Gottsk\u00e1lk Jensson", 

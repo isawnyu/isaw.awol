@@ -11,7 +11,36 @@
         "be", 
         0.9990243879386979
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6609443968453393829", 
+            "resource_date": "2012-04-15T07:45:51.312-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:45.166381"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal.html", 
+            "resource_date": "2012-04-15T07:45:51.312-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:45.166395"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 

@@ -11,7 +11,36 @@
         "ro", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6566712857367904333", 
+            "resource_date": "2013-12-07T09:03:12.950-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:43.918795"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/arheovest-nr-i-in-memoriam-liviu-maruia.html", 
+            "resource_date": "2013-12-07T09:03:12.950-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:43.918808"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Rodica-Mariana Ion, Radu-Claudiu Fier\u0103scu, Irina Fier\u0103scu, Raluca-M\u0103d\u0103lina Senin, Bisericu\u0163ele de cret\u0103 de la Basarabi-Murfatlar. Aspecte \u015ftiin\u0163ifice asupra stadiului actual", 

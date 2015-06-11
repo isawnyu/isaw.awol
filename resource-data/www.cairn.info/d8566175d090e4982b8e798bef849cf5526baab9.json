@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7743454972619267203", 
+            "resource_date": "2012-08-03T09:40:09.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:11.932702"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/04/one-off-journal-issues-histoire-urbaine.html", 
+            "resource_date": "2012-08-03T09:40:09.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:11.932715"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "R\u00e9sum\u00e9", 

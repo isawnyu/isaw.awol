@@ -11,7 +11,36 @@
         "fr", 
         0.9999999397877984
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8340995509150976962", 
+            "resource_date": "2013-12-10T07:49:32.844-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:24.498039"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/new-open-access-journal-newsletter-de.html", 
+            "resource_date": "2013-12-10T07:49:32.844-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:24.498050"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "D\u00e9cembre 2013", 

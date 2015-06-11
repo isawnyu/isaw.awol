@@ -14,7 +14,36 @@
         "it", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7159942778566681074", 
+            "resource_date": "2013-05-20T11:43:36.906-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:56.637189"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-monograph-series-polymnia.html", 
+            "resource_date": "2013-05-20T11:43:36.906-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:56.637204"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Polymnia: Collana di Scienze dell'Antichit\u00e0. Studi di Storia romana", 

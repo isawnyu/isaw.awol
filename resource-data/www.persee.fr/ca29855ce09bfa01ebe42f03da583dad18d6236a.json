@@ -9,7 +9,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1423394332945157365", 
+            "resource_date": "2013-10-28T10:28:50.547-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:23.504020"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html", 
+            "resource_date": "2013-10-28T10:28:50.547-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:23.504043"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "1984 : [ 4 ]", 

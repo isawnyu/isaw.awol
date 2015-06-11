@@ -11,7 +11,36 @@
         "de", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8221809991442609885", 
+            "resource_date": "2012-10-05T15:19:08.898-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:21.897621"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/10/the-swiss-coffin-project.html", 
+            "resource_date": "2012-10-05T15:19:08.898-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:21.897636"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Bedeutung der S\u00e4rge im alten \u00c4gypten", 

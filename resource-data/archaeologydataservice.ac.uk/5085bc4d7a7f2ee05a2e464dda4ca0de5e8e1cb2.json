@@ -16,7 +16,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3513891340421520993", 
+            "resource_date": "2013-09-19T09:28:09.301-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:38.535990"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/ads-e-archiving-system.html", 
+            "resource_date": "2013-09-19T09:28:09.301-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:38.536004"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "archive catalogue", 

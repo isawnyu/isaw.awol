@@ -12,7 +12,36 @@
         "de", 
         0.9820741634543187
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4056838271401763880", 
+            "resource_date": "2013-05-16T09:44:46.953-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:49.411145"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journal-lectio-difficilior.html", 
+            "resource_date": "2013-05-16T09:44:46.953-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:49.411158"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Ausgabe 2", 

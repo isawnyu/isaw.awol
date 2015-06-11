@@ -13,7 +13,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-370740048597829266", 
+            "resource_date": "2012-01-24T11:46:15.192-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:42.244042"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/hima-mesopotamia-protecting-land.html", 
+            "resource_date": "2012-01-24T11:46:15.192-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:42.244054"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Physico-Chemical Assessment of Euphrates River between Heet and Ramadi Cities, Iraq", 

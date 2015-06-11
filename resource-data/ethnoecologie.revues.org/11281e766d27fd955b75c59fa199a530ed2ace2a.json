@@ -14,7 +14,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8566935052145837920", 
+            "resource_date": "2014-01-13T11:43:06.078-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:28.761065"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/le-palmier-dattier-origine-et-culture.html", 
+            "resource_date": "2014-01-13T11:43:06.078-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:28.761079"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Graines d'histoire [Texte int\u00e9gral]Approche morphom\u00e9trique de l'agrobiodiversit\u00e9 du palmier dattier, actuelle et d'\u00c9gypte ancienneSeeds of history: A morphometric approach to date palm agrobiodiversity, in ancient Egypt and today", 

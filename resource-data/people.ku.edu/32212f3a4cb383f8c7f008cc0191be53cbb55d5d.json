@@ -12,7 +12,36 @@
         "lexicography"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-226648577457085803", 
+            "resource_date": "2011-12-23T08:39:47.082-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:08.152077"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/cretan-hieroglyphic-texts-online.html", 
+            "resource_date": "2011-12-23T08:39:47.082-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:08.152093"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Lexicon", 

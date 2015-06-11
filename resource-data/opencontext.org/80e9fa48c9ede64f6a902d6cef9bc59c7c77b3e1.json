@@ -18,7 +18,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5915653073672508071", 
+            "resource_date": "2013-11-08T12:57:16.088-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:25.923779"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/open-context-projects-and-collections.html", 
+            "resource_date": "2013-11-08T12:57:16.088-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:25.923795"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Data Documenting Late Bronze Age Cyprus Ceramics, Trade, Provenience and Geology", 

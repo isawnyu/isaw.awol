@@ -11,7 +11,36 @@
         "el", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6650637761764183728", 
+            "resource_date": "2009-10-18T15:28:54.496-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:47.360609"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/migne-online.html", 
+            "resource_date": "2009-10-18T15:28:54.496-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:47.360623"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "*61: \u03a4\u03bf\u03c5 \u03b5\u03bd \u03b1\u03b3\u03af\u03bf\u03b9\u03c2 \u03c0\u03b1\u03c4\u03c1\u03cc\u03c2 \u03b7\u03bc\u03ce\u03bd \u0399\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5 \u03b1\u03c1\u03c7\u03b9\u03b5\u03c0\u03b9\u03c3\u03ba\u03cc\u03c0\u03bf\u03c5 \u039a\u03c9\u03bd\u03c4\u03b1\u03bd\u03c4\u03b9\u03bd\u03bf\u03c5\u03c0\u03cc\u03bb\u03b5\u03c9\u03c2, \u03c4\u03bf\u03c5 \u03a7\u03c1\u03c5\u03c3\u03bf\u03c3\u03c4\u03cc\u03bc\u03bf\u03c5, \u03c4\u03b1 \u03b5\u03c5\u03c1\u03b9\u03c3\u03ba\u03cc\u03bc\u03b5\u03bd\u03b1 \u03c0\u03ac\u03bd\u03c4\u03b1. \u03a4\u03cc\u03bc\u03bf\u03c2 \u03b9\u0384", 

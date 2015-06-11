@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9105143074614074003", 
+            "resource_date": "2013-01-29T10:24:16.399-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:41.085508"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-journal-nuova-archeologia.html", 
+            "resource_date": "2013-01-29T10:24:16.399-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:41.085520"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "n. 4/VI lug./ago. 2010.pdf", 

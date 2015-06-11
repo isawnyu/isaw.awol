@@ -11,7 +11,36 @@
         "reports"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1534704712391055532", 
+            "resource_date": "2013-08-01T20:28:15.496-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:35.336768"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-polish-archaeology.html", 
+            "resource_date": "2013-08-01T20:28:15.496-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:35.336781"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Reports 1992 (PAM IV)", 

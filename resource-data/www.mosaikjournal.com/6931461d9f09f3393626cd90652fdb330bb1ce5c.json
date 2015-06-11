@@ -12,7 +12,36 @@
         "en", 
         0.9999998610084371
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2006189622500674393", 
+            "resource_date": "2013-03-20T16:18:31.564-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:58.222660"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/08/new-open-access-journal-mosaikjournal.html", 
+            "resource_date": "2013-03-20T16:18:31.564-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:58.222673"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "%IMAGEREPLACED% Andreas Effland - Ute Effland", 

@@ -12,7 +12,36 @@
         "journal issues"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-298044186237447212", 
+            "resource_date": "2013-10-06T09:09:19.672-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:21.694353"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/11/open-access-journal-post-hole.html", 
+            "resource_date": "2013-10-06T09:09:19.672-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:21.694366"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Issue No.24 - October 2012", 

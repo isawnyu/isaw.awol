@@ -16,7 +16,36 @@
         "en", 
         0.9999610380989995
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7624721469849203136", 
+            "resource_date": "2011-03-14T09:46:43.784-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:08.121019"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-digital-library-propylaeum.html", 
+            "resource_date": "2011-03-14T09:46:43.784-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:08.121030"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Classical Philology", 

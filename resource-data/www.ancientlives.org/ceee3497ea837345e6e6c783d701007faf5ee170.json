@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4300311251748355331", 
+            "resource_date": "2011-07-26T05:05:24.328-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:55.714829"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/ancient-lives-oxyrhynchus-papyri.html", 
+            "resource_date": "2011-07-26T05:05:24.328-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:55.714841"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "About", 

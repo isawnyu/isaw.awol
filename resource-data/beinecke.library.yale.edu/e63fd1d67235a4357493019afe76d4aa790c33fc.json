@@ -10,7 +10,36 @@
         "papyrology"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8173766942094481814", 
+            "resource_date": "2013-12-13T06:05:37.116-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:20.484073"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/beinecke-rare-books-manuscript-library.html", 
+            "resource_date": "2013-12-13T06:05:37.116-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:20.484085"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "papyrus inventory system", 

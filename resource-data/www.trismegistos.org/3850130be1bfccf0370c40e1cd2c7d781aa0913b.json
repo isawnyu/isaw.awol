@@ -17,7 +17,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3360883248438106183", 
+            "resource_date": "2013-07-23T09:25:32.205-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:36.073204"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-library-trismegistos.html", 
+            "resource_date": "2013-07-23T09:25:32.205-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:36.073219"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "The Places database, expanding the geographic database of the Fayum project, is a set of currently 14,197 places in (and some outside) Egypt. It contains the currently 113,927 toponyms attested in texts from Egypt (BC 800 \u2013 AD 800), but is also linked to the provenance field in Trismegistos Texts", 

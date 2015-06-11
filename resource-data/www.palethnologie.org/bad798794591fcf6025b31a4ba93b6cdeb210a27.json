@@ -12,7 +12,36 @@
         "he", 
         0.9968153978205465
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6426099762811138870", 
+            "resource_date": "2013-02-14T19:01:51.362-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:39.890839"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-plethnologie.html", 
+            "resource_date": "2013-02-14T19:01:51.362-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:39.890856"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\u2022 2009 # 1", 

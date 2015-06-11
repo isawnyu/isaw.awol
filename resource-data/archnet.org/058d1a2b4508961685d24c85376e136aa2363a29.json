@@ -15,7 +15,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1859159650839218267", 
+            "resource_date": "2013-01-26T18:29:06.161-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:55.375422"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/guidebooks-available-for-three-historic.html", 
+            "resource_date": "2013-01-26T18:29:06.161-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:55.375436"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Gonnella, Julia. The Citadel of Aleppo: Description, History, Site Plan and Visitor Tour, 2nd Ed", 

@@ -16,7 +16,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9162586106942350087", 
+            "resource_date": "2013-03-12T16:44:53.345-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:42.203325"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/new-content-at-open-context.html", 
+            "resource_date": "2013-03-12T16:44:53.345-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:42.203337"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "West Stow West Zooarchaeology", 

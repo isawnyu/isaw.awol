@@ -12,7 +12,36 @@
         "eo", 
         0.9857265553956177
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2122046211297278016", 
+            "resource_date": "2013-01-02T05:30:05.683-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:02.183113"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/new-open-access-journal-peitho-examina.html", 
+            "resource_date": "2013-01-02T05:30:05.683-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:02.183129"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Ripen\u00adsare Socrate:\u00a0note su alcuni\u00a0studi recenti [ Livio Ros\u00adsetti,\u00a0Le dia\u00adlo\u00adgue socra\u00adti\u00adque, Les Bel\u00adles Let\u00adtres, Paris 2011 e\u00a0Livio Ros\u00adsetti, Ales\u00adsan\u00addro Sta\u00advru (a cura di), Socra\u00adtica 2008, Atti Conve\u00adgno Napoli 2008, Le Rane, Levante, Bari\u00a02011. ]", 

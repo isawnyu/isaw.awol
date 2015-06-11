@@ -16,7 +16,36 @@
         "en", 
         0.9999999971162981
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2139418754512205699", 
+            "resource_date": "2013-10-06T07:37:29.728-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:02.739359"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-revista-del.html", 
+            "resource_date": "2013-10-06T07:37:29.728-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:02.739374"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "n\u00fam. 16 (2010)", 

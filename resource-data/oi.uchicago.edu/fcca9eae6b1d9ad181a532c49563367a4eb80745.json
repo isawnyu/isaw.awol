@@ -14,7 +14,36 @@
         "en", 
         0.999999999448633
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-951769456683844148", 
+            "resource_date": "2012-12-14T12:35:59.191-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:45.005572"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/newly-online-from-oriental-institutes_14.html", 
+            "resource_date": "2012-12-14T12:35:59.191-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:45.005583"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\"SAOC 14. Hittite Hieroglyphs 2. Ignace J", 

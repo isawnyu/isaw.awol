@@ -12,7 +12,36 @@
         "fr", 
         0.9997521178822935
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1831511464590959401", 
+            "resource_date": "2013-02-21T14:56:59.225-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:55.219719"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/new-open-access-journal-reflexions.html", 
+            "resource_date": "2013-02-21T14:56:59.225-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:55.219743"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "P\u00e9dagogie", 

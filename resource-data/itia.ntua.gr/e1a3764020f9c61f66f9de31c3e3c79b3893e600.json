@@ -13,7 +13,36 @@
         "es", 
         0.9998980782388163
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4275602854134706849", 
+            "resource_date": "2013-07-26T11:28:57.704-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:55.083524"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/greek-hydrology-hydrosystems-management.html", 
+            "resource_date": "2013-07-26T11:28:57.704-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:55.083536"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Messene sewer", 

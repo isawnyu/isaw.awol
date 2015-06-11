@@ -11,7 +11,36 @@
         "el", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1518172374415175467", 
+            "resource_date": "2013-05-15T18:24:11.941-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:33.812734"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal_02.html", 
+            "resource_date": "2013-05-15T18:24:11.941-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:33.812749"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Kretika Chronika", 

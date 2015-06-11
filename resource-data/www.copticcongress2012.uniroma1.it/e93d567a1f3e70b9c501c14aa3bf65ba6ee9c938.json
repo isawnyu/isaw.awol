@@ -15,7 +15,36 @@
         "nl", 
         0.9944075416929965
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6036073534389133264", 
+            "resource_date": "2012-09-17T11:41:08.118-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:29.414551"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/tenth-international-congress-of-coptic.html", 
+            "resource_date": "2012-09-17T11:41:08.118-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:29.414565"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Gertrud J.M. van Loon, Coptic Art (2008-2012)", 

@@ -11,7 +11,36 @@
         "en", 
         0.9999281279276151
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7832348034400947503", 
+            "resource_date": "2012-04-06T04:09:08.850-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:13.514816"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/new-ancient-world-content-in-jstor.html", 
+            "resource_date": "2012-04-06T04:09:08.850-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:13.514831"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "http://www.jstor.org/action/showPublication?journalCode=aegy", 

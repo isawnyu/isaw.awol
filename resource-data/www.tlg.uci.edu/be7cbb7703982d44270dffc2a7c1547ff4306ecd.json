@@ -11,7 +11,36 @@
         "en", 
         0.9895394055398132
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1017416136655500332", 
+            "resource_date": "2011-08-09T18:34:05.981-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:13.201860"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/thesaurus-linguae-graecae-tlg-updates.html", 
+            "resource_date": "2011-08-09T18:34:05.981-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:13.201876"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "here", 

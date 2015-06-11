@@ -12,7 +12,36 @@
         "lb", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7698355387808772715", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:10.817314"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-analecta.html", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:10.817328"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Alek\u00adsander Dzby\u0144ski \u2014 Die Gr\u00f6\u00dfe z\u00e4hlt. \u00dcber einigen metri\u00adschen Eigen\u00adscha\u00adften der schnur\u00adke\u00adra\u00admi\u00adschen Amphoren aus B\u00f6hmen", 

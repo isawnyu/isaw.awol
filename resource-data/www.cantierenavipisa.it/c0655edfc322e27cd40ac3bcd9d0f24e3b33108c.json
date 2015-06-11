@@ -11,7 +11,36 @@
         "it", 
         0.9999994634163963
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7624587134766113167", 
+            "resource_date": "2013-03-04T10:03:48.152-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:08.055381"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/open-access-journal-gradus-rivista-di.html", 
+            "resource_date": "2013-03-04T10:03:48.152-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:08.055393"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Luglio 2009 Anno 4 N. 1", 

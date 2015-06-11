@@ -15,7 +15,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2729339903375560632", 
+            "resource_date": "2009-12-21T13:39:09.405-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:16.557459"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/06/harvard-university-library-open.html", 
+            "resource_date": "2009-12-21T13:39:09.405-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:16.557477"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Carnegie Institution/Peabody Museum Expeditions to Kaminaljuy\u00fa, Guatemala, 1935\u20131953Between 1935 and 1953, the Carnegie Institution of Washington excavated Kaminaljuy\u00fa and established it as one the most significant archaeological Pre-Columbian sites in Mesoamerica. Kaminaljuy\u00fa (meaning, in the Quich\u00e9 language, \"Hills of the Dead\") grew from an agricultural community (ca", 

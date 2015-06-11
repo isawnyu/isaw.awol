@@ -18,7 +18,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-918616588617251490", 
+            "resource_date": "2010-06-22T12:01:45.070-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:42.329990"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/06/aia-launches-its-new-website.html", 
+            "resource_date": "2010-06-22T12:01:45.070-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:42.330004"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "AIA Blog", 

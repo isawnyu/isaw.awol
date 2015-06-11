@@ -11,7 +11,36 @@
         "eo", 
         0.9978497313006552
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5678129668490364792", 
+            "resource_date": "2012-10-11T15:46:03.619-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:21.290751"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/emerging-online-septuagint.html", 
+            "resource_date": "2012-10-11T15:46:03.619-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:21.290763"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Genesis 1:2", 

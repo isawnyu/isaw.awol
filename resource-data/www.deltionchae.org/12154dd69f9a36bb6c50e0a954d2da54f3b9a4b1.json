@@ -14,7 +14,36 @@
         "en", 
         0.9999986907128211
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7150152021406876386", 
+            "resource_date": "2013-09-06T08:14:20.477-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:56.331615"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/newly-in-open-access-deltion-of.html", 
+            "resource_date": "2013-09-06T08:14:20.477-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:56.331631"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Deltion ChAE 28 (2007), Series 4. In memory of Pavlos M", 

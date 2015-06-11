@@ -14,7 +14,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6966019253183957888", 
+            "resource_date": "2009-11-19T14:21:54.141-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:52.582733"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html", 
+            "resource_date": "2009-11-19T14:21:54.141-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:52.582748"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "OIP 41. The Excavation of Medinet Habu, Volume 2: The Temples of the Eighteenth Dynasty", 

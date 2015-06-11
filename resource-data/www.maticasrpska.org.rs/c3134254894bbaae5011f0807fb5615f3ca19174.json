@@ -11,7 +11,36 @@
         "mk", 
         0.9999999785437255
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5869811177713823213", 
+            "resource_date": "2012-07-08T10:50:26.064-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:24.452237"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-journal-of.html", 
+            "resource_date": "2012-07-08T10:50:26.064-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:24.452249"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\u043a\u045a\u0438\u0433\u0430 9, \u0433\u043e\u0434\u0438\u043d\u0430 2007", 

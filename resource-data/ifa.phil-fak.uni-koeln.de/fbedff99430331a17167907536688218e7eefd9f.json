@@ -12,7 +12,36 @@
         "la", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6615839450005300841", 
+            "resource_date": "2013-03-01T14:11:40.849-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:45.720718"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/partially-open-access-journal.html", 
+            "resource_date": "2013-03-01T14:11:40.849-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:45.720731"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "113: Ayta\u00e7lar, P. \u00d6. \u2013 Ak\u0131nc\u0131, E., A List of Female Names from Laodicea on the Lycos", 

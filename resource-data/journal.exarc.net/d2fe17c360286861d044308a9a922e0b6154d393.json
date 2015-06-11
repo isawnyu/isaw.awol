@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7832787904048118153", 
+            "resource_date": "2013-02-19T15:52:23.242-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:13.628629"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-exarc-journal.html", 
+            "resource_date": "2013-02-19T15:52:23.242-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:13.628640"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "EuroREA 6/2009", 

@@ -17,7 +17,36 @@
         "la", 
         0.9999963550137915
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3040627021308022251", 
+            "resource_date": "2014-01-19T20:37:35.045-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:27.661163"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/aegaeum-online.html", 
+            "resource_date": "2014-01-19T20:37:35.045-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:27.661176"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Aegaeum 22 (2001/\u00e9puis\u00e9) POTNIA. Deities and Religion in the Aegean Bronze Age", 

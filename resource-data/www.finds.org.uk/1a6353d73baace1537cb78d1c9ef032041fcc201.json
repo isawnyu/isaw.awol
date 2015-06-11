@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5711773548698493118", 
+            "resource_date": "2010-05-27T09:33:35.559-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:22.155771"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/05/new-portable-antiquities-scheme-website.html", 
+            "resource_date": "2010-05-27T09:33:35.559-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:22.155781"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Periods", 

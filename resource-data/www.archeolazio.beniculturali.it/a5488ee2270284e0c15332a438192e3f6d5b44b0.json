@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1807484664991452458", 
+            "resource_date": "2013-11-20T22:38:04.122-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:54.262973"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/11/open-access-pubblicazione-degli-atti.html", 
+            "resource_date": "2013-11-20T22:38:04.122-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:54.262988"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "ABBREVIAZIONI", 

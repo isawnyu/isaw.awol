@@ -14,7 +14,36 @@
         "de", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6615839450005300841", 
+            "resource_date": "2013-03-01T14:11:40.849-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:45.843548"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/partially-open-access-journal.html", 
+            "resource_date": "2013-03-01T14:11:40.849-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:45.843560"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "091: Habicht, Chr., Ein neuer Gymnasiarch am Fest der Athena Ilias", 

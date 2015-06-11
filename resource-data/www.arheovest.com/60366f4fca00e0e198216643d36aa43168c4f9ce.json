@@ -11,7 +11,36 @@
         "ro", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6566712857367904333", 
+            "resource_date": "2013-12-07T09:03:12.950-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:43.934826"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/arheovest-nr-i-in-memoriam-liviu-maruia.html", 
+            "resource_date": "2013-12-07T09:03:12.950-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:43.934840"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Cristina Nicoleta Tom\u015fa, Analize arheobotanice \u00een cadrul sitului arheologic de la Uivar (jud. Timi\u0219); Studiu de caz: Groapa 1053", 

@@ -11,7 +11,36 @@
         "ru", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-240972405453491463", 
+            "resource_date": "2011-02-04T14:59:15.338-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:11.447794"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-khirgiz-archaeology-asnd.html", 
+            "resource_date": "2011-02-04T14:59:15.338-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:11.447811"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\u0422\u0440\u0435\u0432\u0435\u0440 \u041a.\u0412. 1937. \u0421\u044d\u043d\u043c\u0443\u0440\u0432-\u041f\u0430\u0441\u043a\u0443\u0434\u0436, \u0441\u043e\u0431\u0430\u043a\u0430-\u043f\u0442\u0438\u0446\u0430", 

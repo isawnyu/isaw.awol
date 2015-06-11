@@ -12,7 +12,36 @@
         "it", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9039930559165941759", 
+            "resource_date": "2013-10-29T16:32:41.907-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:39.420473"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-orientalia.html", 
+            "resource_date": "2013-10-29T16:32:41.907-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:39.420484"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Il contributo di \u2018Al\u012b al-D\u016b\u2018\u0101\u011f\u012b alla rinascita letteraria e teatrale della Tunisia. Echi di teatro dell\u2019assurdo nella pi\u00e8ce teatrale R\u0101\u2018\u012b al-nu\u011f\u016bm (\u00abIl guardiano delle stelle\u00bb)", 

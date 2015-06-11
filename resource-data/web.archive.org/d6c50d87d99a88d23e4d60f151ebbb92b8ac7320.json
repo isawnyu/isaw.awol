@@ -16,7 +16,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3806892863830285339", 
+            "resource_date": "2011-02-08T11:53:04.215-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:44.600057"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journals-another-one-bites.html", 
+            "resource_date": "2011-02-08T11:53:04.215-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:44.600069"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "most recently updated version", 

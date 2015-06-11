@@ -12,7 +12,36 @@
         "is", 
         0.9999969111667794
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7698355387808772715", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:10.875378"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-analecta.html", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:10.875393"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Joanna Trabska, Bar\u00adbara Try\u00adbalska \u2014 Micro\u00adstruc\u00adture of Histo\u00adrical Lime and Lime \u2014 Hydraulic Mor\u00adtars: from Set\u00adting to Corrosion", 

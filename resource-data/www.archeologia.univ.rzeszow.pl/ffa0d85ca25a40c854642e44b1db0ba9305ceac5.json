@@ -14,7 +14,36 @@
         "la", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7698355387808772715", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:10.930313"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-analecta.html", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:10.930324"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "S\u0142a\u00adwomir Kadrow (Rze\u00adsz\u00f3w) \u2014 Gender-differentiated burial rites in Europe of the 5th and 4th mil\u00adlennia BC: attempts at tra\u00addi\u00adtional archa\u00adeolo\u00adgical interpretation)", 

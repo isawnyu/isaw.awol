@@ -14,7 +14,36 @@
         "en", 
         0.9999999999994371
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3868787750932032199", 
+            "resource_date": "2013-08-11T09:15:58.786-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:46.625382"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/british-institute-at-ankara-pottery.html", 
+            "resource_date": "2013-08-11T09:15:58.786-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:46.625395"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Browse in the database", 

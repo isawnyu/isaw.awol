@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8662611628771135121", 
+            "resource_date": "2012-07-16T11:33:45.433-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:31.475042"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/online-atlas-archeologique-de-lalgerie.html", 
+            "resource_date": "2012-07-16T11:33:45.433-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:31.475054"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "%IMAGEREPLACED%", 

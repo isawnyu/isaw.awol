@@ -12,7 +12,36 @@
         "pl", 
         0.9999999900017945
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2122046211297278016", 
+            "resource_date": "2013-01-02T05:30:05.683-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:02.160625"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/new-open-access-journal-peitho-examina.html", 
+            "resource_date": "2013-01-02T05:30:05.683-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:02.160641"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Pla\u00adtona Kriton.\u00a0Wok\u00f3\u0142 oby\u00adwa\u00adtel\u00adskiego nie\u00adpo\u00ads\u0142u\u00adsze\u0144\u00adstwa\u00a0i poli\u00adtycz\u00adnego zobowi\u0105zania", 

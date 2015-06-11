@@ -9,7 +9,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8466512562592678832", 
+            "resource_date": "2012-12-09T08:15:22.700-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:27.228927"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-studia-hermetica.html", 
+            "resource_date": "2012-12-09T08:15:22.700-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:27.228942"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Extra 2", 

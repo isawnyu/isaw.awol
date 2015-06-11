@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5925109806493498868", 
+            "resource_date": "2013-06-06T08:35:18.291-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:26.607962"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/partially-open-access-journal-asdiwal.html", 
+            "resource_date": "2013-06-06T08:35:18.291-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:26.607975"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "ASDIWAL 6", 

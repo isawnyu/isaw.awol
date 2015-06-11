@@ -13,7 +13,36 @@
         "en", 
         0.9999999999999987
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4438612302048004422", 
+            "resource_date": "2011-08-24T09:12:01.315-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:57.703870"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/early-explorers-in-egypt-nubia.html", 
+            "resource_date": "2011-08-24T09:12:01.315-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:57.703882"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Historical Social Economical and Political Background(1)", 

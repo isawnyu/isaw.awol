@@ -9,7 +9,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6744554849909471926", 
+            "resource_date": "2013-06-22T08:22:52.470-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:49.105279"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-oracula-revista.html", 
+            "resource_date": "2013-06-22T08:22:52.470-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:49.105292"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Ano 4 - N\u00famero 7 - 2008", 

@@ -13,7 +13,36 @@
         "en", 
         0.9999999999999731
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4143678823351927284", 
+            "resource_date": "2013-11-11T04:54:44.469-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:51.466818"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/the-british-institute-for-study-of-iraq.html", 
+            "resource_date": "2013-11-11T04:54:44.469-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:51.466836"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "The Nimrud Wine Lists", 

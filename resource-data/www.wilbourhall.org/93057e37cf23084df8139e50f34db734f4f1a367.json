@@ -11,7 +11,36 @@
         "jv", 
         0.9990224709612557
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2179302832803591987", 
+            "resource_date": "2014-01-24T10:33:19.122-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:03.800901"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/mathematics-and-mathematical-astronomy.html", 
+            "resource_date": "2014-01-24T10:33:19.122-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:03.800917"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Rekhaganita", 

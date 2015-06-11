@@ -11,7 +11,36 @@
         "ar", 
         0.999999999930641
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3453137652093875171", 
+            "resource_date": "2013-07-16T09:39:45.055-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:37.776511"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/new-open-access-journal-athar-alrafedain.html", 
+            "resource_date": "2013-07-16T09:39:45.055-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:37.776523"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\u0623. \u0645. \u062f. \u0635\u0641\u0648\u0627\u0646 \u0633\u0627\u0645\u064a \u0633\u0639\u064a\u062f", 

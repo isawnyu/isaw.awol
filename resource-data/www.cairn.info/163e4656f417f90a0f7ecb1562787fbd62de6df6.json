@@ -12,7 +12,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7810245280815642509", 
+            "resource_date": "2013-06-14T14:23:13.074-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:13.191437"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/first-posted-in-awol-6-november-2009.html", 
+            "resource_date": "2013-06-14T14:23:13.074-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:13.191449"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Consulter ce num\u00e9ro", 

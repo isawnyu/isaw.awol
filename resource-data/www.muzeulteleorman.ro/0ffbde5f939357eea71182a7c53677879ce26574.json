@@ -16,7 +16,36 @@
         "en", 
         0.9996878374013646
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7291137775550101476", 
+            "resource_date": "2012-01-23T09:42:51.216-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:59.739240"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-buletinul-muzeului.html", 
+            "resource_date": "2012-01-23T09:42:51.216-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:59.739255"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Buletinul Muzeului Judetean Teleorman: Seria Arheologie 3 - 2011", 

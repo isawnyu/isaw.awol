@@ -12,7 +12,36 @@
         "pt", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2749294292408884566", 
+            "resource_date": "2013-09-05T05:52:34.759-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:16.857752"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/new-open-access-journal-techne.html", 
+            "resource_date": "2013-09-05T05:52:34.759-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:16.857769"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "A explora\u00e7\u00e3o das mat\u00e9rias-primas durante o Paleol\u00edtico no Sudoeste Peninsular", 

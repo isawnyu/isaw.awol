@@ -11,7 +11,36 @@
         "nl", 
         0.9980198229205244
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7221107525365885349", 
+            "resource_date": "2011-11-01T08:58:43.848-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:58.198212"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/online-publication-of-thesaurus.html", 
+            "resource_date": "2011-11-01T08:58:43.848-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:58.198228"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Polystratus - De contemptu", 

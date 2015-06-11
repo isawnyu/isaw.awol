@@ -13,7 +13,36 @@
         "en", 
         0.9819742061959823
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1064124516694716546", 
+            "resource_date": "2013-06-13T09:33:23.214-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:14.007124"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/poorly-attested-words-in-ancient-greek.html", 
+            "resource_date": "2013-06-13T09:33:23.214-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:14.007137"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Web accessibility [H]", 

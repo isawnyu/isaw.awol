@@ -14,7 +14,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8603139550569042129", 
+            "resource_date": "2013-08-17T11:02:33.600-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:29.553753"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/new-open-access-journal-arabian.html", 
+            "resource_date": "2013-08-17T11:02:33.600-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:29.553768"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Genre et Soin [Texte int\u00e9gral]Du statut et de l\u2019\u00e9volution r\u00e9cente des professions de sant\u00e9 dans la p\u00e9ninsule ArabiqueGender and Care. Status and Recent Developments of Healthcare Professionals in the Arabian Peninsula", 

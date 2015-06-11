@@ -10,7 +10,36 @@
         "project"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5485345168514564420", 
+            "resource_date": "2013-02-11T20:57:21.833-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:18.309367"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/the-rock-cut-sacred-places-of-thracians.html", 
+            "resource_date": "2013-02-11T20:57:21.833-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:18.309378"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Project Details", 

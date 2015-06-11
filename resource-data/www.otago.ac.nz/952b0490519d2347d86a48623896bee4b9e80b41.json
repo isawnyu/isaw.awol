@@ -9,7 +9,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-970214116663096044", 
+            "resource_date": "2013-03-30T08:24:34.696-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:45.156565"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/open-access-journal-scholia-studies-in.html", 
+            "resource_date": "2013-03-30T08:24:34.696-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:45.156580"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Volume 2 (1993) vi + 166 pp", 

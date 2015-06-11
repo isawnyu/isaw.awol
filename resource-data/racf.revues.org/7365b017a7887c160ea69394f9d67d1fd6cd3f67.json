@@ -12,7 +12,36 @@
         "fr", 
         0.9999999999924138
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6352189185984310569", 
+            "resource_date": "2009-08-12T14:01:35.559-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:38.620603"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journal-revue-archeologique.html", 
+            "resource_date": "2009-08-12T14:01:35.559-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:38.620616"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Derni\u00e8re parution : suppl\u00e9ment n\u00b034", 

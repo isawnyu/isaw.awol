@@ -11,7 +11,36 @@
         "de", 
         0.9999999999999978
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2284765523234796320", 
+            "resource_date": "2013-11-11T05:04:26.602-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:08.403784"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/11/studien-zum-kimmerierproblem.html", 
+            "resource_date": "2013-11-11T05:04:26.602-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:08.403799"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "3.1.1.2 Zu barbarischen Kopfbedeckungen", 

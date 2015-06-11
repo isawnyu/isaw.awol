@@ -10,7 +10,36 @@
         "Greek"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3854366896421161655", 
+            "resource_date": "2013-08-23T06:33:32.592-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:46.428372"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/hellenic-society-youtube-channel.html", 
+            "resource_date": "2013-08-23T06:33:32.592-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:46.428390"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "13:32", 

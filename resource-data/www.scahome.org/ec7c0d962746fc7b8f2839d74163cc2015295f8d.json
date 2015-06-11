@@ -13,7 +13,36 @@
         "en", 
         0.9959756823986348
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6302246728780176715", 
+            "resource_date": "2010-05-18T09:28:07.390-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:37.059311"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/05/open-access-journal-sca-proceedings.html", 
+            "resource_date": "2010-05-18T09:28:07.390-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:37.059324"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Proceedings by Region", 

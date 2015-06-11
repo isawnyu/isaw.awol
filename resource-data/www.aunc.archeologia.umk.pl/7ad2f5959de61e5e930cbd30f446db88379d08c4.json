@@ -11,7 +11,36 @@
         "pl", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8258937135871710449", 
+            "resource_date": "2012-03-16T09:49:41.733-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:22.337078"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/newly-open-access-journal-acta.html", 
+            "resource_date": "2012-03-16T09:49:41.733-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:22.337094"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Dar wotywny z\u0142o\u017cony z ozd\u00f3b, narz\u0119dzi i broni odkryty w jeziorze Kamienica, w miejscowo\u015bci Trzynik. pow", 

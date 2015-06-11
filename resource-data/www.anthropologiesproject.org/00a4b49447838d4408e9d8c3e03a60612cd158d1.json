@@ -15,7 +15,36 @@
         "en", 
         0.9999999999999933
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4924026021821897559", 
+            "resource_date": "2011-12-02T15:32:47.190-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:06.917487"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-anthropologies.html", 
+            "resource_date": "2011-12-02T15:32:47.190-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:06.917503"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Issue 7: Anthropology with Purpose: Applied, Public, Academic (October 2011)", 

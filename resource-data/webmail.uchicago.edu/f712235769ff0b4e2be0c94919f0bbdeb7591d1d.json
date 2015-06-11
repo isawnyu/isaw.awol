@@ -15,7 +15,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3056926020262580212", 
+            "resource_date": "2011-12-20T10:10:07.961-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:27.979633"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/archibab-updated.html", 
+            "resource_date": "2011-12-20T10:10:07.961-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:27.979649"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "http://www.archibab.fr", 

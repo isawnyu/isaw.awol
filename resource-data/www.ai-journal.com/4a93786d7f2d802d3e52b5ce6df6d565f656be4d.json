@@ -14,7 +14,36 @@
         "en", 
         0.9999999996819422
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1801388739279690812", 
+            "resource_date": "2013-10-28T13:05:05.073-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:53.723367"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/newly-open-access-journal-archaeology.html", 
+            "resource_date": "2013-10-28T13:05:05.073-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:53.723383"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Margaret Murray (1863\u20131963): Pioneer Egyptologist, Feminist and First Female Archaeology Lecturer", 

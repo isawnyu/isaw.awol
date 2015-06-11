@@ -11,7 +11,36 @@
         "es", 
         0.9999992377687444
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-204988945209195387", 
+            "resource_date": "2014-01-21T09:12:06.261-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:00.261753"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/new-open-access-journal-antesteria.html", 
+            "resource_date": "2014-01-21T09:12:06.261-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:00.261767"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Enterrarse entre escombros: una aproximaci\u00f3n socio-ideol\u00f3gica a la necr\u00f3polis de Pozo Moro (Chinchilla, Albacete)", 

@@ -15,7 +15,36 @@
         "la", 
         0.9928699364803775
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7698355387808772715", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:10.820763"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-analecta.html", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:10.820776"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Syl\u00adwe\u00adster Czopek \u2014 Czas u\u017cyt\u00adko\u00adwania cmen\u00adtrzysk tar\u00adno\u00adbrze\u00adskiej kul\u00adtury \u0142u\u017cyc\u00adkiej \u2014 mo\u017c\u00adli\u00adwo\u015bci inter\u00adpre\u00adta\u00adcyjne i\u00a0uwagi dyskusyjne", 

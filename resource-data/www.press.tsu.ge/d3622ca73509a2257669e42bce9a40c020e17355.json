@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5222072690338129233", 
+            "resource_date": "2013-03-13T09:02:28.364-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:12.400448"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/mikheil-g-tsereteli-urartology-archive.html", 
+            "resource_date": "2013-03-13T09:02:28.364-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:12.400460"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "16. \u00c9TUDES OURART\u00c9ENNES VI. L'INSCRIPTION DE LA ST\u00c8LE DE HA\u0120I (suite)1 Commentaires", 

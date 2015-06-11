@@ -12,7 +12,36 @@
         "zh", 
         0.9999999791285135
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1543159936280256593", 
+            "resource_date": "2012-11-28T15:53:02.880-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:36.208260"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-toyo-shi-kenkyu.html", 
+            "resource_date": "2012-11-28T15:53:02.880-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:36.208274"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "58\u5dfb3\u53f7 1999-12", 

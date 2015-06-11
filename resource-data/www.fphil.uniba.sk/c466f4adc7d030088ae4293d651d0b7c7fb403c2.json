@@ -17,7 +17,36 @@
         "en", 
         0.9999999991928663
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2620950340778672326", 
+            "resource_date": "2013-03-23T07:21:14.419-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:14.571385"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/newly-open-access-journal-graecolatina.html", 
+            "resource_date": "2013-03-23T07:21:14.419-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:14.571398"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Vol. XXXIII-XXXIV, 2012\u00a0 (ISBN: 978-80-223-3285-9)", 

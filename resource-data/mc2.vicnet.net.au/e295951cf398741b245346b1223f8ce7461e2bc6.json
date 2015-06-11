@@ -11,7 +11,36 @@
         "en", 
         0.9908319130359798
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6532156975835527335", 
+            "resource_date": "2011-06-18T08:54:56.036-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:41.823979"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/open-access-journal-aura-newsletter.html", 
+            "resource_date": "2011-06-18T08:54:56.036-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:41.823998"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Number 18(1), July 2001", 

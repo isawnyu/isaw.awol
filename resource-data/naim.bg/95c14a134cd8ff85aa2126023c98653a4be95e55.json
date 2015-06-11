@@ -12,7 +12,36 @@
         "en", 
         0.9923739593028743
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2449245252561912511", 
+            "resource_date": "2013-06-01T08:01:32.170-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:12.198463"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/06/partially-open-access-journal-reviews.html", 
+            "resource_date": "2013-06-01T08:01:32.170-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:12.198478"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Last issue: 2012, 2", 

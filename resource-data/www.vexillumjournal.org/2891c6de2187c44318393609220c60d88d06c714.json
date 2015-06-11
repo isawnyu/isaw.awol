@@ -15,7 +15,36 @@
         "en", 
         0.9999999999935303
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2495287021287524945", 
+            "resource_date": "2013-10-06T09:11:07.334-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:12.812246"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-vexillum.html", 
+            "resource_date": "2013-10-06T09:11:07.334-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:12.812261"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Vexillum 2011", 

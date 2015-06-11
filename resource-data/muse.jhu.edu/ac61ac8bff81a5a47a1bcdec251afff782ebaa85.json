@@ -11,7 +11,36 @@
         "en", 
         0.9999999999992206
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5070101992196523291", 
+            "resource_date": "2013-05-13T13:39:17.989-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:08.742998"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/ancient-world-in-project-muse.html", 
+            "resource_date": "2013-05-13T13:39:17.989-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:08.743011"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Arethusa (Vol. 29 (1996) through current issue)", 

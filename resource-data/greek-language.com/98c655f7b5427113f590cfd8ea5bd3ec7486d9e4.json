@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4811977875562352822", 
+            "resource_date": "2013-10-17T06:45:42.950-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:03.934968"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/greek-language-and-linguistics.html", 
+            "resource_date": "2013-10-17T06:45:42.950-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:03.934986"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Fonts", 

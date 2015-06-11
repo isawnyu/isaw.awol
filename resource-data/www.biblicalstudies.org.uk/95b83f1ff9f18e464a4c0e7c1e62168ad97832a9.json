@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8010808553616503444", 
+            "resource_date": "2011-10-03T09:52:57.978-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:17.450914"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/open-accesss-journal-irish-biblical.html", 
+            "resource_date": "2011-10-03T09:52:57.978-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:17.450927"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Vols. 11 - 20 (1989 - 1998)", 

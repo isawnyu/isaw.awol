@@ -14,7 +14,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2660798214284320459", 
+            "resource_date": "2013-04-13T09:34:39.389-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:15.328713"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/aquae-urbis-romae-waters-of-city-of-rome.html", 
+            "resource_date": "2013-04-13T09:34:39.389-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:15.328729"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Katherine Wentworth Rinne", 

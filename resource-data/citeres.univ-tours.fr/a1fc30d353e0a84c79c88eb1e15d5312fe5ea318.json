@@ -12,7 +12,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1732180333782523697", 
+            "resource_date": "2012-11-28T06:08:08.354-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:51.876943"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-les-petits-cahiers.html", 
+            "resource_date": "2012-11-28T06:08:08.354-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:51.876958"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "pdf, 245 ko", 

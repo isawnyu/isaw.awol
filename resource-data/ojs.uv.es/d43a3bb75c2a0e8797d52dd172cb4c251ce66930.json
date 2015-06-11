@@ -15,7 +15,36 @@
         "es", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6520074801902136306", 
+            "resource_date": "2014-01-20T18:09:18.115-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:41.633675"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-sagvntvm-papeles.html", 
+            "resource_date": "2014-01-20T18:09:18.115-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:41.633692"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Vol 1 (1998): Los Iberos, Pr\u00edncipes de Occidente. Las estructuras de poder en la sociedad ib\u00e9rica", 

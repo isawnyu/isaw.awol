@@ -13,7 +13,36 @@
         "en", 
         0.999999999999897
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8974651121339012952", 
+            "resource_date": "2013-09-12T15:57:52.764-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:36.930373"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/internet-archaeology-e-monograph-series.html", 
+            "resource_date": "2013-09-12T15:57:52.764-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:36.930389"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Silchester Roman Town Insula IX: The Development of an Urban Property c. AD 40-50 - c", 

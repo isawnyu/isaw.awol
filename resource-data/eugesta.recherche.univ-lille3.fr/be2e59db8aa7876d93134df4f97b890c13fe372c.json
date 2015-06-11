@@ -11,7 +11,36 @@
         "journal issues"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2929679055179054167", 
+            "resource_date": "2013-12-16T15:18:49.992-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:20.730645"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/new-open-access-journal-eugesta-journal.html", 
+            "resource_date": "2013-12-16T15:18:49.992-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:20.730657"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Issue 1 | 2011", 

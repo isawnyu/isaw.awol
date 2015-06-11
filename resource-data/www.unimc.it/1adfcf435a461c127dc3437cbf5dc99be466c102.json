@@ -16,7 +16,36 @@
         "en", 
         0.9999999999999756
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-107383690052898357", 
+            "resource_date": "2013-03-09T11:04:14.699-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:14.125546"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/new-open-access-journal-il-capitale.html", 
+            "resource_date": "2013-03-09T11:04:14.699-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:14.125560"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "No. 1 (2010)", 

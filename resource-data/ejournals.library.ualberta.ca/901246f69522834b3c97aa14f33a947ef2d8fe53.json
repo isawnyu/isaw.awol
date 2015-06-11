@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1676889528715675792", 
+            "resource_date": "2012-04-17T08:53:11.547-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:47.948859"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-constellations.html", 
+            "resource_date": "2012-04-17T08:53:11.547-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:47.948880"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Vol 2, No 1 (2010)", 

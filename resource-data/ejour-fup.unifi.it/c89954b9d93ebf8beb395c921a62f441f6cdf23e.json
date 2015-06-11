@@ -9,7 +9,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2957600093786323324", 
+            "resource_date": "2010-07-26T13:06:06.987-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:21.505992"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/open-accesss-journal-annali-del.html", 
+            "resource_date": "2010-07-26T13:06:06.987-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:21.506006"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "XIV (2008)", 

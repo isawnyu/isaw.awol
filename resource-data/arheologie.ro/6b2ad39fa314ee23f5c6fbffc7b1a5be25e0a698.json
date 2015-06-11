@@ -11,7 +11,36 @@
         "en", 
         0.9999999999934868
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2110189232919257655", 
+            "resource_date": "2010-07-07T10:26:17.930-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:01.721745"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/open-access-journal-studii-de.html", 
+            "resource_date": "2010-07-07T10:26:17.930-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:01.721759"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Douglass W. BAILEY - Interview with Kostas Kotsakis", 

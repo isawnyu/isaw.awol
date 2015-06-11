@@ -11,7 +11,36 @@
         "de", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7410404734433565154", 
+            "resource_date": "2013-08-16T18:21:49.133-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:03.169857"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-zdmg-supplement.html", 
+            "resource_date": "2013-08-16T18:21:49.133-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:03.169868"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Supplement III, 1: XIX. Deutscher Orientalistentag (1975)", 

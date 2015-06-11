@@ -12,7 +12,36 @@
         "fr", 
         0.9999999999999951
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6371175981286266122", 
+            "resource_date": "2013-01-07T15:53:42.231-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:38.961137"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/new-open-accesss-journal-aitia.html", 
+            "resource_date": "2013-01-07T15:53:42.231-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:38.961152"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "2/2012La tradition \u00e9pique d\u2019Apollonios de Rhodes \u00e0 Nonnos de Panopolis. Hommage \u00e0 Francis Vian Epic tradition from Apollonius of Rhodes to Nonnus of Panopolis", 

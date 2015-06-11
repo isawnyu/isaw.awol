@@ -11,7 +11,36 @@
         "en", 
         0.9999999999999889
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3199180600923716410", 
+            "resource_date": "2011-03-21T18:35:00.491-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:32.123925"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/call-to-protect-egyptian-antiquities.html", 
+            "resource_date": "2011-03-21T18:35:00.491-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:32.123941"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Sign the petition here", 

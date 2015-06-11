@@ -11,7 +11,36 @@
         "journal"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8077284999616153446", 
+            "resource_date": "2013-06-04T06:16:53.208-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:18.751331"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/newly-open-access-journal-archai.html", 
+            "resource_date": "2013-06-04T06:16:53.208-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:18.751349"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "No 6: Revista Archai (JANEIRO/2011)", 

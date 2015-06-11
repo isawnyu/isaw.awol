@@ -12,7 +12,36 @@
         "sw", 
         0.9883208107394206
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1318044479732731848", 
+            "resource_date": "2013-03-18T21:10:20.917-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:20.019616"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/new-open-access-journal-kubaba.html", 
+            "resource_date": "2013-03-18T21:10:20.917-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:20.019630"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\u25aa Brent Davis: Cypro-Minoan in Philistia?", 

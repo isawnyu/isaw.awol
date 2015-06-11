@@ -11,7 +11,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1354315617737913649", 
+            "resource_date": "2012-01-31T06:06:30.532-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:20.943349"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-actes-de-lassociation.html", 
+            "resource_date": "2012-01-31T06:06:30.532-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:20.943363"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Haud GUEGUEN, \u00ab\u00a0Ce qui \u201cd\u00e9passe la mesure humaine\u201d (huper anthr\u00f4pon) ou la limite du courage chez Aristote\u00a0\u00bb", 

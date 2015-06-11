@@ -11,7 +11,36 @@
         "de", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9093419693402524193", 
+            "resource_date": "2011-05-23T14:22:49.886-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:40.951241"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-hallisches.html", 
+            "resource_date": "2011-05-23T14:22:49.886-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:40.951257"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Band 2: Heydemann, Heinrich: Die Kn\u00f6chelspielerin im Palazzo Colonna zu Rom, Halle/Saale, 1877", 

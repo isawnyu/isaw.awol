@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5954453441464942007", 
+            "resource_date": "2013-03-27T11:43:20.052-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:27.876038"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/open-access-journal-monumentum.html", 
+            "resource_date": "2013-03-27T11:43:20.052-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:27.876058"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Vol. XX-XXI-XXII, 1982", 

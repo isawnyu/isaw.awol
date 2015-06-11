@@ -11,7 +11,36 @@
         "it", 
         0.9937159415350829
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1763226022892854636", 
+            "resource_date": "2013-10-07T07:48:35.823-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:52.455737"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-hournal-studi-cassinati.html", 
+            "resource_date": "2013-10-07T07:48:35.823-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:52.455753"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Anno VII - n\u00b02 aprile-giugno 2007", 

@@ -13,7 +13,36 @@
         "de", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8172341427088139860", 
+            "resource_date": "2012-05-29T11:14:58.433-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:20.385109"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-zeitschrift-fur-die.html", 
+            "resource_date": "2012-05-29T11:14:58.433-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:20.385125"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Zeitschrift f\u00fcr die Alterthumswissenschaft. N", 

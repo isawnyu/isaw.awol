@@ -11,7 +11,36 @@
         "journal issues"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8421068017776554292", 
+            "resource_date": "2012-09-11T06:30:15.901-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:26.727212"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/special-issue-of-bmsaes-mariners-and.html", 
+            "resource_date": "2012-09-11T06:30:15.901-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:26.727227"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "BMSAES", 

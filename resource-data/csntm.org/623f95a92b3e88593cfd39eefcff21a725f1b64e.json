@@ -14,7 +14,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5898090875362887917", 
+            "resource_date": "2013-12-13T17:07:28.559-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:25.510155"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/the-center-for-study-of-new-testament.html", 
+            "resource_date": "2013-12-13T17:07:28.559-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:25.510168"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "mages of 128 papyri manuscripts in our archives, 111 digital papyri manuscripts online, and 80 of these available publically", 

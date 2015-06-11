@@ -21,7 +21,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3705571148944644686", 
+            "resource_date": "2010-05-19T16:03:47.777-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:42.156748"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/05/ancient-music.html", 
+            "resource_date": "2010-05-19T16:03:47.777-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:42.156761"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "ARANE: Archaeomusicological Review of the Ancient Near EastA publication of ICONEA, The International conferenceof Near Eastern ArchaeomusicologyVolume I - 2009", 

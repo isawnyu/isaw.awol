@@ -11,7 +11,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8129117087435468229", 
+            "resource_date": "2012-01-19T15:20:54.033-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:19.545825"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/new-open-access-journal-cahiers-mondes.html", 
+            "resource_date": "2012-01-19T15:20:54.033-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:19.545840"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "2\u00a0| 2011Journ\u00e9es doctorales ANHIMA 2008 et 2009", 

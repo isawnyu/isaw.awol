@@ -12,7 +12,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5344079543593967637", 
+            "resource_date": "2013-02-21T14:43:08.046-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:15.366988"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-camenae.html", 
+            "resource_date": "2013-02-21T14:43:08.046-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:15.367000"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Camenae\u00a0n\u00b06 - 15 juin 2009\u00a0: sous la direction de Sarah Charbonnier et M\u00e9lanie Bost-Fi\u00e9vet Nouveaux regards sur le monde des arts \u00e0 la Renaissance, (s\u00e9minaire Artes, rue d\u2019Ulm)", 

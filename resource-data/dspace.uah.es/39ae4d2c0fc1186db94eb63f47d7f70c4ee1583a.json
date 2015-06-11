@@ -9,7 +9,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9052057708455102673", 
+            "resource_date": "2013-04-30T06:04:04.522-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:39.944823"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/open-access-journal-polis-revista-de.html", 
+            "resource_date": "2013-04-30T06:04:04.522-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:39.944839"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Polis - N\u00famero 07, 1995 [9]", 

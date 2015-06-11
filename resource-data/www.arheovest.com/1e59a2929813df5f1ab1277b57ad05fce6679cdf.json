@@ -11,7 +11,36 @@
         "ro", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6566712857367904333", 
+            "resource_date": "2013-12-07T09:03:12.950-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:43.887907"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/arheovest-nr-i-in-memoriam-liviu-maruia.html", 
+            "resource_date": "2013-12-07T09:03:12.950-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:43.887922"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Bogdan Condur\u0103\u0163eanu, Pa\u015fi \u00een direc\u0163ia implement\u0103rii unui repertoriu topografic digital al fortifica\u0163iilor din neolitic \u015fi p-n\u0103 la sf-r\u015fitul celui de-al doilea r\u0103zboi mondial din Rom-nia. Elemente tehnice (date, tehnici \u015fi strategii), provoc\u0103rile, solu\u0163iile \u015fi rezultatele abord\u0103rii din Atlasul Digital al Rom-niei v5", 

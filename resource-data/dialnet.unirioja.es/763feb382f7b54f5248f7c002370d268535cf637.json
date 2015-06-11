@@ -9,7 +9,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5899739834116650541", 
+            "resource_date": "2013-02-08T12:50:18.209-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:25.565866"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-historiae.html", 
+            "resource_date": "2013-02-08T12:50:18.209-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:25.565879"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "2", 

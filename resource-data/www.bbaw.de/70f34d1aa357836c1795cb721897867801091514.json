@@ -11,7 +11,36 @@
         "de", 
         0.9999999871848645
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-733073512203221602", 
+            "resource_date": "2013-12-03T09:56:32.293-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:00.640991"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/prosopographia-imperii-romani.html", 
+            "resource_date": "2013-12-03T09:56:32.293-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:00.641003"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Addenda: Eingangsseite", 

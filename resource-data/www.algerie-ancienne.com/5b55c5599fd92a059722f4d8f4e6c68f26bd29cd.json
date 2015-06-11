@@ -11,7 +11,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-345584031187514789", 
+            "resource_date": "2013-05-07T10:08:43.318-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:38.125691"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/digital-library-algerie-ancienne.html", 
+            "resource_date": "2013-05-07T10:08:43.318-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:38.125705"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Liste des 236 ouvrages \u00e0 t\u00e9l\u00e9charger", 

@@ -17,7 +17,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6486826106368876738", 
+            "resource_date": "2013-01-08T10:18:24.185-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:41.017122"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/open-access-journal-kervan.html", 
+            "resource_date": "2013-01-08T10:18:24.185-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:41.017139"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "A. Consolaro - The 'other' India in literature and film: Mohan D\u0101s in Uday Praka\u015b\u2019s story\u00a0and in Mazhar Kamran\u2019s film", 

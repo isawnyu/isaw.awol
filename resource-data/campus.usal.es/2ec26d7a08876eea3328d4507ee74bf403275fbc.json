@@ -12,7 +12,36 @@
         "es", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8491952090308485872", 
+            "resource_date": "2012-02-15T06:24:08.528-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:27.580658"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/open-access-journal-studia-historica.html", 
+            "resource_date": "2012-02-15T06:24:08.528-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:27.580671"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Vol 28 (2010): Los imperios y \u00abel b\u00e1rbaro\u00bb: inmigrantes, pr\u00f3fugos y marginados en el Mundo Antiguo", 

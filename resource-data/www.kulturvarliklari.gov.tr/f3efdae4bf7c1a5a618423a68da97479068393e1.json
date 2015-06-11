@@ -11,7 +11,36 @@
         "tr", 
         0.9990856037132431
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8536026746219021388", 
+            "resource_date": "2012-11-06T16:18:18.533-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:28.278378"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-kaz-sonuclar.html", 
+            "resource_date": "2012-11-06T16:18:18.533-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:28.278390"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "2. Cilt", 

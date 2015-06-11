@@ -11,7 +11,36 @@
         "archaeology"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2332520552446033755", 
+            "resource_date": "2011-09-02T10:48:40.250-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:10.512289"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/09/open-access-journal-revista-sapiens.html", 
+            "resource_date": "2011-09-02T10:48:40.250-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:10.512308"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "N.\u00ba 2, 2009", 

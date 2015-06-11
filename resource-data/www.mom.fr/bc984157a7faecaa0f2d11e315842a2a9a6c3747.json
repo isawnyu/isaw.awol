@@ -11,7 +11,36 @@
         "de", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2135585911765247810", 
+            "resource_date": "2010-12-06T13:27:49.498-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:02.456987"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/new-from-digimom.html", 
+            "resource_date": "2010-12-06T13:27:49.498-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:02.457001"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "1902", 

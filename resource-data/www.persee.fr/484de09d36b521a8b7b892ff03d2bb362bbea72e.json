@@ -9,7 +9,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1582488232425081359", 
+            "resource_date": "2013-09-03T11:18:21.547-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:41.526338"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html", 
+            "resource_date": "2013-09-03T11:18:21.547-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:41.526353"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "LH-21", 

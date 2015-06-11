@@ -13,7 +13,36 @@
         "en", 
         0.9999949396618503
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7435699568941251235", 
+            "resource_date": "2013-11-24T08:57:32.991-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:04.929043"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/sudan-open-archive-sudan-open-archive.html", 
+            "resource_date": "2013-11-24T08:57:32.991-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:04.929057"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "DISPLAY", 

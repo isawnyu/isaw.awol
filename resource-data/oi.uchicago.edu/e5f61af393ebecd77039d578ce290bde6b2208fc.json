@@ -13,7 +13,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8201936426642676601", 
+            "resource_date": "2009-09-16T10:34:52.091-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:21.437020"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/09/eleven-additional-volumes-online-at.html", 
+            "resource_date": "2009-09-16T10:34:52.091-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:21.437035"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "OIP 103. The Temple of Khonsu, Volume 2: Scenes and Inscriptions in the Court and the First Hypostyle Hall", 

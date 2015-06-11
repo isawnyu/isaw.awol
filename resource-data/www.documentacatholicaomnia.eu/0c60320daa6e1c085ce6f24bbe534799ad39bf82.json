@@ -11,7 +11,36 @@
         "it", 
         0.988266476743204
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1862134636646060613", 
+            "resource_date": "2013-12-26T11:01:51.612-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:55.485281"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/documenta-catholica-omnia-online.html", 
+            "resource_date": "2013-12-26T11:01:51.612-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:55.485296"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Sanctorum_Paparum_Decretalia_Ac_Argumenta_Quae_Pertinent", 

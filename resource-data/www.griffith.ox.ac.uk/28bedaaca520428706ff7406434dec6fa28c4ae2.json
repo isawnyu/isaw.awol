@@ -11,7 +11,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8094499180810007320", 
+            "resource_date": "2011-07-20T10:19:51.273-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:19.024880"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html", 
+            "resource_date": "2011-07-20T10:19:51.273-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:19.024892"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "List of private collections, dealers and auction houses with objects included in the Topographical Bibliography. (July 14, 2011)", 

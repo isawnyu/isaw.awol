@@ -13,7 +13,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1816175075266416681", 
+            "resource_date": "2013-11-14T10:31:26.445-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:54.941295"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/11/rencontres-darcheologie-de-lifea-online.html", 
+            "resource_date": "2013-11-14T10:31:26.445-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:54.941310"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Les caveaux fun\u00e9raires m\u00e9galithiques de la vall\u00e9e de l\u2019Euphrate au Bronze ancien :\u00a0 Le cas de Tilbeshar (2600-2300 aC)", 

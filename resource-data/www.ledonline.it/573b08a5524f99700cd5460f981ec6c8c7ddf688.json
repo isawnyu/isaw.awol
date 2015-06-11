@@ -14,7 +14,36 @@
         "it", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-309168326397231219", 
+            "resource_date": "2013-09-01T09:07:20.807-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:28.686915"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/monographs-collana-della-rivista-di.html", 
+            "resource_date": "2013-09-01T09:07:20.807-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:28.686929"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "LA \u00abDILIGENTIA QUAM SUIS\u00bb DEL DEPOSITARIO DAL DIRITTO ROMANO ALLE CODIFICAZIONI NAZIONALI. Casi e questioni di diritto civile nella prospettiva storico-comparatistica", 

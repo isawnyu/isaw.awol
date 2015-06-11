@@ -11,7 +11,36 @@
         "fr", 
         0.9999999999999993
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3482284702228090057", 
+            "resource_date": "2011-08-13T10:08:37.515-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:38.327893"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/maurice-pillets-photographic-archive.html", 
+            "resource_date": "2011-08-13T10:08:37.515-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:38.327904"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Cr\u00e9dits et contacts", 

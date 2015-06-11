@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2708642957162419958", 
+            "resource_date": "2013-11-19T17:48:14.703-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:16.237848"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/asor-annual-meeting-schedules.html", 
+            "resource_date": "2013-11-19T17:48:14.703-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:16.237862"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "2010 Business Meetings Schedule", 

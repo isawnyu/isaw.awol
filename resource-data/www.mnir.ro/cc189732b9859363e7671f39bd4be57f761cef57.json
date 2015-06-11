@@ -11,7 +11,36 @@
         "ro", 
         0.9999974048802738
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2717059281322082367", 
+            "resource_date": "2011-08-23T08:54:14.924-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:16.456441"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal.html", 
+            "resource_date": "2011-08-23T08:54:14.924-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:16.456457"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "07 / 1996", 

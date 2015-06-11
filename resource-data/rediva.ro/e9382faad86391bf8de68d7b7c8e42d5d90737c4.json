@@ -12,7 +12,36 @@
         "en", 
         0.9999999999999976
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8597554781167989807", 
+            "resource_date": "2013-12-02T15:45:35.177-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:29.346157"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/new-open-access-journal-rediva-revista.html", 
+            "resource_date": "2013-12-02T15:45:35.177-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:29.346178"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Being an Isiac in\u00a0Potaissa.\u00a0Short remarks on\u00a0RICIS\u00a0616/0102 (=\u00a0CIL\u00a0III 882)", 

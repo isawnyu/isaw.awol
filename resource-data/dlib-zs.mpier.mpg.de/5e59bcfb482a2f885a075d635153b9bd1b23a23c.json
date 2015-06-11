@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2872662563588805220", 
+            "resource_date": "2013-06-24T11:53:31.761-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:19.268919"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-zeitschrift-der.html", 
+            "resource_date": "2013-06-24T11:53:31.761-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:19.268930"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Bd. 1 = 14 (1880)", 

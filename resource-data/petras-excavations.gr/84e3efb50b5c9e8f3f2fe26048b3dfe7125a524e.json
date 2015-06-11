@@ -11,7 +11,36 @@
         "el", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5170376429009871495", 
+            "resource_date": "2012-08-04T09:04:43.550-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:10.815884"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/08/petras-excavations.html", 
+            "resource_date": "2012-08-04T09:04:43.550-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:10.815895"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Download:\u00a0\u0391\u03c1\u03c7\u03b1\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03cc \u0388\u03c1\u03b3\u03bf \u039a\u03c1\u03ae\u03c4\u03b7\u03c2 1.pdf\u00a0(4", 

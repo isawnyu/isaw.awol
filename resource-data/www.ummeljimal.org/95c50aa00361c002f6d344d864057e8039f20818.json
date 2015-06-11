@@ -11,7 +11,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2825491885767630812", 
+            "resource_date": "2013-12-05T16:29:58.436-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:18.490983"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/the-umm-el-jimal-project-online.html", 
+            "resource_date": "2013-12-05T16:29:58.436-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:18.490995"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "de Vries 1995\"The 1993 and 1994 Field Seasons at Umm el-Jimal.\"PDF format (1", 

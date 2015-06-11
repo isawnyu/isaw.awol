@@ -11,7 +11,36 @@
         "en", 
         0.9947159364495488
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4803688524610822150", 
+            "resource_date": "2010-05-11T09:58:46.901-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:03.635303"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/05/open-access-journal-acquisitions-list.html", 
+            "resource_date": "2010-05-11T09:58:46.901-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:03.635316"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Acquisitions List: 2010", 

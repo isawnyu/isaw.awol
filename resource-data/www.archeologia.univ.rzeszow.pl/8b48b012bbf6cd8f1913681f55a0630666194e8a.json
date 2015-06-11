@@ -18,7 +18,36 @@
         "la", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7698355387808772715", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:10.892105"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-analecta.html", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:10.892120"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Renata Zych \u2014 Seweryn Rze\u00adpecki, Spo\u00ad\u0142ecz\u00adno\u015bci \u015brod\u00adko\u00adwo\u00adne\u00adoli\u00adtycznej kul\u00adtury puchar\u00f3w lej\u00adko\u00adwa\u00adtych na Kuja\u00adwach [Com\u00admu\u00adni\u00adties of the Middle Neo\u00adli\u00adthic TRB Cul\u00adture in Kujawy], Pozna\u0144 2004, 235 pages, 61 figures, 22 tables in the\u00a0text", 

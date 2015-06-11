@@ -15,7 +15,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4384286671862001990", 
+            "resource_date": "2013-12-25T09:44:24.764-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:57.052063"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/open-access-to-bulletin-detudes.html", 
+            "resource_date": "2013-12-25T09:44:24.764-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:57.052075"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Tome LXI\u00a0| d\u00e9cembre 2012Damas m\u00e9di\u00e9vale et ottomane. Histoire urbaine, soci\u00e9t\u00e9 et culture mat\u00e9rielle", 

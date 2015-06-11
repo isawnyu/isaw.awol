@@ -13,7 +13,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8300918240204339899", 
+            "resource_date": "2013-03-15T17:44:32.720-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:23.578182"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/the-middle-east-in-early-prints-and.html", 
+            "resource_date": "2013-03-15T17:44:32.720-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:23.578195"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Voyage \u00e0 l'oasis de Th\u00e8bes et dans le d\u00e9serts situ\u00e9s \u00e0 l'orient et \u00e0 l'occident de la Th\u00e9ba\u00efde, fait pendent les ann\u00e9es 1815, 1816, 1817 et 1818, par M. Fr\u00e9d\u00e9ric Cailliaud (de Nantes) redig\u00e9 et publi\u00e9", 

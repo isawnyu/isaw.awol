@@ -12,7 +12,36 @@
         "ku", 
         0.9971116491065132
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-583915122004579881", 
+            "resource_date": "2013-04-04T18:09:00.830-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:24.005498"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/new-open-access-jpournal-plethos.html", 
+            "resource_date": "2013-04-04T18:09:00.830-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:24.005510"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Pl\u00eathos, 2, 2, 2012", 

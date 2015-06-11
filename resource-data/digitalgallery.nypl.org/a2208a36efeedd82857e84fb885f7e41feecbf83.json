@@ -11,7 +11,36 @@
         "it", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8300918240204339899", 
+            "resource_date": "2013-03-15T17:44:32.720-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:23.183154"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/the-middle-east-in-early-prints-and.html", 
+            "resource_date": "2013-03-15T17:44:32.720-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:23.183167"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Atlante del basso ed alto Egitto / illustrato dal Domenico Valeriani ; sui disegni di Denon, della grand'opera della spedizione francese, e di quelle di Gau, Caillaud e Rosellini diretta da Girolamo S", 

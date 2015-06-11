@@ -15,7 +15,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3360883248438106183", 
+            "resource_date": "2013-07-23T09:25:32.205-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:36.068472"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-library-trismegistos.html", 
+            "resource_date": "2013-07-23T09:25:32.205-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:36.068486"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "The People database, building on the Prosopographia Ptolemaica, is a complex set of prosopographical and onomastic databases. It currently contains 458,045 attestations of personal names of non-royal individuals living in Egypt between BC 800 and AD 800, including all languages and scripts and written on any surface", 

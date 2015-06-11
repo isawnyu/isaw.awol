@@ -12,7 +12,36 @@
         "pt", 
         0.9999999988107735
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
+            "resource_date": "2012-08-03T09:39:09.216-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:35.165344"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
+            "resource_date": "2012-08-03T09:39:09.216-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:35.165355"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Fran\u00e7oise Graziani", 

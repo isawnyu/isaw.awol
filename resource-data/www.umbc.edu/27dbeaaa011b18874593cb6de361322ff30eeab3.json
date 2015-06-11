@@ -11,7 +11,36 @@
         "en", 
         0.9999999999999969
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6812864058275007306", 
+            "resource_date": "2013-09-30T09:52:00.554-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:50.427609"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/archaeological-reconnaissance-of.html", 
+            "resource_date": "2013-09-30T09:52:00.554-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:50.427623"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Overview of Methods and Techniques", 

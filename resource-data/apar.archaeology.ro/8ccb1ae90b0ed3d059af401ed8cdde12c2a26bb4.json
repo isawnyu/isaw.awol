@@ -11,7 +11,36 @@
         "culture"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2384057697246332142", 
+            "resource_date": "2010-07-06T12:22:27.689-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:11.252009"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/open-access-journal-romanian-journal-of.html", 
+            "resource_date": "2010-07-06T12:22:27.689-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:11.252024"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "english", 

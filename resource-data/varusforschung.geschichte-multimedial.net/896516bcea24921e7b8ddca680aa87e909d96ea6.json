@@ -11,7 +11,36 @@
         "de", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4114015275750395214", 
+            "resource_date": "2013-10-29T10:59:06.438-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:50.500597"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/posted-in-awol-5-november-2009-updated.html", 
+            "resource_date": "2013-10-29T10:59:06.438-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:50.500609"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "10. Die Liebesaffaire mit Dido und der Unterweltsgang mit der Sybille (Th", 

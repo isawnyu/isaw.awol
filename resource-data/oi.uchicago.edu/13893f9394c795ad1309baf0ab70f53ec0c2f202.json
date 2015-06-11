@@ -11,7 +11,36 @@
         "en", 
         0.9999815906082988
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7168491971293675700", 
+            "resource_date": "2012-07-17T08:58:23.164-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:56.795179"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/new-book-from-oriental-institute-pesher.html", 
+            "resource_date": "2012-07-17T08:58:23.164-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:56.795192"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Download PDF", 

@@ -15,7 +15,36 @@
         "la", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7698355387808772715", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:10.912337"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-analecta.html", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:10.912350"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Marek Florek (Lublin), Tadeusz Wi\u015bniewski (Lublin) \u2014 Fun\u00adnel\u00adbe\u00adaker Cul\u00adture arti\u00adfacts from the set\u00adtle\u00adment in Mozgawa, Pi\u0144\u00adcz\u00f3w Com\u00admune, \u015awi\u0119\u00adto\u00adkrzy\u00adskie Province", 

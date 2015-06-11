@@ -16,7 +16,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9163183946628247604", 
+            "resource_date": "2013-10-01T14:17:19.758-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:42.228765"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/coming-soon-birmingham-egyptology-journa.html", 
+            "resource_date": "2013-10-01T14:17:19.758-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:42.228778"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Eton College Myers Collection of Egyptian Antiquities Object Highlight \u2013 ECM822, A Faience Nubian Head", 

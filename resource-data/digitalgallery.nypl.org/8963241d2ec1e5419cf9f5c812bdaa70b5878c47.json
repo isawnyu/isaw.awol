@@ -11,7 +11,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8300918240204339899", 
+            "resource_date": "2013-03-15T17:44:32.720-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:23.611900"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/the-middle-east-in-early-prints-and.html", 
+            "resource_date": "2013-03-15T17:44:32.720-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:23.611912"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\u00c9claircissemens sur l'inscription grecque du monument trouv\u00e9 \u0105 Rosette, contenant un d\u00e9cret des pr\u017atres de L'\u00c9gypte en l'honneur de Prol\u00e9m\u00e9e \u00c9piphane, le cinqui\u010dme des rois Ptol\u00e9m\u00e9es / par le citoyen", 

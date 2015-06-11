@@ -15,7 +15,36 @@
         "en", 
         0.9999978247173712
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-298044186237447212", 
+            "resource_date": "2013-10-06T09:09:19.672-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:21.666741"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/11/open-access-journal-post-hole.html", 
+            "resource_date": "2013-10-06T09:09:19.672-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:21.666755"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Download full issue", 

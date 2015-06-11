@@ -12,7 +12,36 @@
         "ja", 
         0.9999999853331552
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1134118816212782401", 
+            "resource_date": "2013-04-25T16:08:54.614-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:15.815119"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/open-access-journal-journal-of-egyptian.html", 
+            "resource_date": "2013-04-25T16:08:54.614-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:15.815139"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\u30a8\u30b8\u30d7\u30c8\u5b66\u7814\u7a76\u3000\u7b2c\uff16\u53f7", 

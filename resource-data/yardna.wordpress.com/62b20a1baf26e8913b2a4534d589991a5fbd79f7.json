@@ -11,7 +11,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1987096376932276880", 
+            "resource_date": "2010-07-12T11:27:55.874-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:57.836382"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/mandaean-gnostic-texts-online.html", 
+            "resource_date": "2010-07-12T11:27:55.874-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:57.836397"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Mandaean Gnosticism: research, publications and debate", 

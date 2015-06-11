@@ -12,7 +12,36 @@
         "journal"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8505353530057430888", 
+            "resource_date": "2010-07-06T12:00:27.760-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:27.709684"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/open-access-journal-annales.html", 
+            "resource_date": "2010-07-06T12:00:27.760-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:27.709698"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Annales Universitatis Apulensis, Series Historica, 2-3/1998-1999", 

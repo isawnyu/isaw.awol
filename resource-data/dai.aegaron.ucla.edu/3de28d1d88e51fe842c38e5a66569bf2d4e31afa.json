@@ -13,7 +13,36 @@
         "en", 
         0.9999999999999989
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3020984925385525812", 
+            "resource_date": "2013-05-12T14:16:55.545-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:23.183890"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/aegaron-ancient-egyptian-architecture.html", 
+            "resource_date": "2013-05-12T14:16:55.545-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:23.183904"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Asasif (5)", 

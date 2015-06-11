@@ -11,7 +11,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4883609201485438284", 
+            "resource_date": "2012-01-15T08:33:23.843-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:05.466016"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/repertoire-bibliographique-des.html", 
+            "resource_date": "2012-01-15T08:33:23.843-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:05.466028"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\u00c9poque kouchite (XXVe dynastie / d\u00e9but XXVIe dynastie \u00e0 Th\u00e8bes, dynastie napat\u00e9enne)", 

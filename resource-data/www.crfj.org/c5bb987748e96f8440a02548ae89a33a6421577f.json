@@ -13,7 +13,36 @@
         "fr", 
         0.9999999683603175
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6770349415411480701", 
+            "resource_date": "2012-12-09T14:22:54.744-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:49.967357"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/les-fouilles-de-m-raymond-weill-tell.html", 
+            "resource_date": "2012-12-09T14:22:54.744-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:49.967368"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Catalogue des mobiliers", 

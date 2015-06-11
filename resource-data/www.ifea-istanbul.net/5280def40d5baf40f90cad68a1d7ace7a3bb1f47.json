@@ -14,7 +14,36 @@
         "en", 
         0.9999998632664517
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7914203564531960043", 
+            "resource_date": "2013-07-22T10:04:16.704-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:15.487369"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-rencontres.html", 
+            "resource_date": "2013-07-22T10:04:16.704-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:15.487385"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "The intra-urban burial inside Greek poleis in Asia minor: The example of Termessos", 

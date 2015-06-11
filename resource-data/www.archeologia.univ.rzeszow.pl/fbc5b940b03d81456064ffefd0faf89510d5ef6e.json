@@ -12,7 +12,36 @@
         "la", 
         0.999998823681018
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7698355387808772715", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:10.856841"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-analecta.html", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:10.856856"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Andrzej Peli\u00adsiak \u2014 The Funnel Beaker Cul\u00adture Set\u00adtle\u00adments Com\u00adpared with Other Neo\u00adli\u00adthic Cul\u00adtures in the Upper and Middle Part of the Dni\u00adster Basin. Selected Issues", 

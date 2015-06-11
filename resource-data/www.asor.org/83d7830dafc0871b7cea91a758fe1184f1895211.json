@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6357108794113891772", 
+            "resource_date": "2012-10-15T11:22:57.626-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:38.872908"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-asor-newsletter.html", 
+            "resource_date": "2012-10-15T11:22:57.626-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:38.872921"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Volume 46, Number 2, Summer (HTML)", 

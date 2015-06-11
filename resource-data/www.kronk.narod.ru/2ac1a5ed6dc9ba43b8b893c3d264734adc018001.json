@@ -11,7 +11,36 @@
         "ru", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-240972405453491463", 
+            "resource_date": "2011-02-04T14:59:15.338-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:11.539482"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-khirgiz-archaeology-asnd.html", 
+            "resource_date": "2011-02-04T14:59:15.338-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:11.539499"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\u041c\u0430\u0440\u0448\u0430\u043a \u0411.\u0418. 1980. \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0432\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0439 \u0442\u043e\u0440\u0435\u0432\u0442\u0438\u043a\u0438 III-XI\u00a0\u0432\u0432", 

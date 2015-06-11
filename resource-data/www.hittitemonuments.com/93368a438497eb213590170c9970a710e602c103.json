@@ -11,7 +11,36 @@
         "tr", 
         0.9916538137988762
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1106126989837600742", 
+            "resource_date": "2013-06-29T09:05:35.689-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:14.904655"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/monuments-of-hittites.html", 
+            "resource_date": "2013-06-29T09:05:35.689-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:14.904668"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Sultanhan\u0131", 

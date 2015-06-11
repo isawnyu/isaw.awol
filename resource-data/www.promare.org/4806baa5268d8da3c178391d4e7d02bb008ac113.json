@@ -14,7 +14,36 @@
         "en", 
         0.9936477933545947
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1689836197334675383", 
+            "resource_date": "2013-02-28T10:41:42.105-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:48.664576"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/promare-promoting-marine-research-and.html", 
+            "resource_date": "2013-02-28T10:41:42.105-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:48.664592"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Italy Shipwreck Archaeology", 

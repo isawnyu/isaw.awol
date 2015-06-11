@@ -13,7 +13,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8591143550092572530", 
+            "resource_date": "2011-04-13T06:32:43.349-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:29.283596"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/open-access-forum-redistribution-in.html", 
+            "resource_date": "2011-04-13T06:32:43.349-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:29.283609"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "By Appointment to His Majesty the Wanax: Value-Added Goods and Redistribution in Mycenaean Palatial Economies", 

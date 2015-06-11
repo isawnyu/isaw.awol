@@ -12,7 +12,36 @@
         "pt", 
         0.9916477898466325
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8691509273621503155", 
+            "resource_date": "2012-12-27T16:39:45.754-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:32.101455"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-teiresias.html", 
+            "resource_date": "2012-12-27T16:39:45.754-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:32.101467"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Teiresias 22 (1992)", 

@@ -15,7 +15,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5344079543593967637", 
+            "resource_date": "2013-02-21T14:43:08.046-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:15.349853"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-camenae.html", 
+            "resource_date": "2013-02-21T14:43:08.046-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:15.349866"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Camenae n\u00b01 - janvier 2007\u00a0: Philosophie, rh\u00e9torique et po\u00e9tique de l\u2019Antiquit\u00e9 \u00e0 la Renaissance. (Colloque des jeunes chercheurs de l\u2019EA 4081 \u00ab\u00a0Rome et ses renaissances\u00a0\u00bb, Paris IV, juin 2006) Ce premier num\u00e9ro \"sp\u00e9cial\" comprend exclusivement des articles des jeunes chercheurs de l\u2019Equipe \"Rome et ses renaissances\" (Master 1, Master 2, doctorants et quelques docteurs r\u00e9cents), que nous avions r\u00e9unis en colloque en juin 2006", 

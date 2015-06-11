@@ -14,7 +14,36 @@
         "ro", 
         0.9999999999998666
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1966375195414505892", 
+            "resource_date": "2012-04-17T10:19:23.722-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:57.431954"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-journal-revista-tyragetia.html", 
+            "resource_date": "2012-04-17T10:19:23.722-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:57.431968"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Tyragetia, serie nou\u0103, vol. V [XX], nr. 1, Arheologie", 

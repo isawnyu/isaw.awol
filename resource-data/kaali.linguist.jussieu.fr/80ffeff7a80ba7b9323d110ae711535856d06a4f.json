@@ -11,7 +11,36 @@
         "oc", 
         0.9998758809521882
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7837154497674416686", 
+            "resource_date": "2013-05-12T07:58:37.967-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:14.180170"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-grammatici-latini.html", 
+            "resource_date": "2013-05-12T07:58:37.967-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:14.180182"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "frg. Vaticanum de positura de chria etc", 

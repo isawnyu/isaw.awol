@@ -10,7 +10,36 @@
         "journal"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
+            "resource_date": "2013-04-12T11:22:30.006-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:07.908100"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
+            "resource_date": "2013-04-12T11:22:30.006-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:07.908112"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Journal des Savants", 

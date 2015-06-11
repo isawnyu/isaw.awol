@@ -17,7 +17,36 @@
         "la", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7698355387808772715", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:11.064223"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-analecta.html", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:11.064237"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Olek\u00adsandr Dia\u00adchenko, Taras Mylian XXXVIII Report Con\u00adfe\u00adrence \u201eArcha\u00adeolo\u00adgical Rese\u00adar\u00adches in Southeast Poland, West Ukraine and North Slo\u00advakia in 2011\u201d, Rze\u00adsz\u00f3w, 20\u201321 March\u00a02012", 

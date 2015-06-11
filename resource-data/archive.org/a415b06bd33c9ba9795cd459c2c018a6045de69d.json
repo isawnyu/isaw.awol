@@ -15,7 +15,36 @@
         "en", 
         0.9999999999999865
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2556825323542463469", 
+            "resource_date": "2013-02-28T20:55:43.543-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:13.495368"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-mitteilungen-aus.html", 
+            "resource_date": "2013-02-28T20:55:43.543-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:13.495380"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Volume 4-6", 

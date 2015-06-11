@@ -14,7 +14,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8079467420592374041", 
+            "resource_date": "2014-01-10T15:57:59.741-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:18.840135"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/new-open-access-journal-journal-of-gis.html", 
+            "resource_date": "2014-01-10T15:57:59.741-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:18.840150"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Using GIS for Politywide Analysis of Wari Imperial Political Economy- [PDF-1.36 MB, pages 33-46]by Justin Jennings and Nathan Craig", 

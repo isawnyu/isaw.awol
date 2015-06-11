@@ -13,7 +13,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7914203564531960043", 
+            "resource_date": "2013-07-22T10:04:16.704-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:15.530392"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-rencontres.html", 
+            "resource_date": "2013-07-22T10:04:16.704-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:15.530409"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Obsidatabase : Collecter et organiser les donn\u00e9es relatives \u00e0 l'obsidienne pr\u00e9historique au Proche-Orient et en Transcaucasie", 

@@ -13,7 +13,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3360883248438106183", 
+            "resource_date": "2013-07-23T09:25:32.205-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:36.064274"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-library-trismegistos.html", 
+            "resource_date": "2013-07-23T09:25:32.205-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:36.064286"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "The Archives database, built on the Leuven Homepage of Papyrus Archives, is a set of currently 464 collections of texts in antiquity, mainly in Egypt, and the 16,461 texts that are part of these archives. It is searchable separately, leading to the texts themselves", 

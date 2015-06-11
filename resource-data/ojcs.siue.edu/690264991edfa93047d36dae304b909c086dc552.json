@@ -13,7 +13,36 @@
         "en", 
         0.9999999999994706
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8958879192137738248", 
+            "resource_date": "2013-05-26T10:33:52.621-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:36.571253"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-syrian-studies.html", 
+            "resource_date": "2013-05-26T10:33:52.621-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:36.571266"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Vol 15, No 2 (2010): Syria Studies in Scotland and Scandinavia", 

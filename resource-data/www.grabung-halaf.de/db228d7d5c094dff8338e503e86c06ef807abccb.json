@@ -11,7 +11,36 @@
         "de", 
         0.9999998004349931
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8324344333646428830", 
+            "resource_date": "2013-04-23T20:44:59.197-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:24.397567"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/tell-halaf-ausgrabungsprojekt-online.html", 
+            "resource_date": "2013-04-23T20:44:59.197-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:24.397582"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "DEU", 

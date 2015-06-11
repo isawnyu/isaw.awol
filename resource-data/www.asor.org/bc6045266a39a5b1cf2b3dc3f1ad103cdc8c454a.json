@@ -13,7 +13,36 @@
         "en", 
         0.9999999999999991
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3361011025327314212", 
+            "resource_date": "2011-04-13T06:33:16.914-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:36.178673"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/online-forum-teaching-archaeology-to.html", 
+            "resource_date": "2011-04-13T06:33:16.914-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:36.178684"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Bringing the Near Eastern Past To Life (pdf)", 

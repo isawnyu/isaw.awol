@@ -12,7 +12,36 @@
         "it", 
         0.988427923262505
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6159741385010438132", 
+            "resource_date": "2013-02-09T07:48:32.440-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:31.987054"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-jurnal-iura-orientalia.html", 
+            "resource_date": "2013-02-09T07:48:32.440-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:31.987070"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "di S.E.R. Mons. Prof. Cyril VASIL' s.j", 

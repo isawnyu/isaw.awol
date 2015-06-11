@@ -11,7 +11,36 @@
         "it", 
         0.9809534121958334
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5343622234859433932", 
+            "resource_date": "2014-01-22T17:11:14.681-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:15.292498"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/poeti-ditalia-in-lingua-latina-tra.html", 
+            "resource_date": "2014-01-22T17:11:14.681-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:15.292510"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "semplice", 

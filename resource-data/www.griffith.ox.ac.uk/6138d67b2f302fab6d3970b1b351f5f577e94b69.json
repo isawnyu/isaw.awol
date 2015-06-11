@@ -13,7 +13,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-813986282971874208", 
+            "resource_date": "2010-05-24T10:04:02.981-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:19.640053"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/05/recent-offerings-from-griffifth.html", 
+            "resource_date": "2010-05-24T10:04:02.981-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:19.640068"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Alfred Lucas's notes on conservation of objects from the tomb of Tutankhamun. Seasons 1926-7 and 1927-8", 

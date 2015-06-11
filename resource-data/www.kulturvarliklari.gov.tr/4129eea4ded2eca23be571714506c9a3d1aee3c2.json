@@ -11,7 +11,36 @@
         "az", 
         0.989559235429417
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4862435235042676210", 
+            "resource_date": "2012-03-18T08:12:44.055-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:04.546931"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-turk-etnografya.html", 
+            "resource_date": "2012-03-18T08:12:44.055-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:04.546943"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "1. T\u00fcrk Etnografya Dergisi [1956]", 

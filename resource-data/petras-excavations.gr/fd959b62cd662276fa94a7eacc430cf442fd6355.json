@@ -11,7 +11,36 @@
         "lt", 
         0.998892033194442
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5170376429009871495", 
+            "resource_date": "2012-08-04T09:04:43.550-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:10.823681"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/08/petras-excavations.html", 
+            "resource_date": "2012-08-04T09:04:43.550-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:10.823694"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Download:\u00a0Y.Papadatos 2008 .pdf\u00a0(4.99 MB)", 

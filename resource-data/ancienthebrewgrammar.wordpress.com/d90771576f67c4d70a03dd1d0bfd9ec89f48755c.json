@@ -15,7 +15,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1816145104692306694", 
+            "resource_date": "2011-11-01T11:53:12.626-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:54.757187"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/11/resupts-of-survey-pedagogy-and-lesser.html", 
+            "resource_date": "2011-11-01T11:53:12.626-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:54.757201"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Pedagogy and the Lesser-Taught (Ancient) Northwest Semitic\u00a0Languages", 

@@ -12,7 +12,36 @@
         "en", 
         0.9999988571083643
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6139092230240853817", 
+            "resource_date": "2010-06-09T15:42:20.503-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:31.195618"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-journal-of-arabic.html", 
+            "resource_date": "2010-06-09T15:42:20.503-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:31.195630"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "View Vols. 1-7", 

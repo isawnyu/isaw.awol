@@ -24,7 +24,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1439458471708233807", 
+            "resource_date": "2010-03-29T13:40:40.916-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:25.893671"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/03/new-ancient-world-content-in-jstor.html", 
+            "resource_date": "2010-03-29T13:40:40.916-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:25.893687"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Transactions of the Royal Asiatic Society of Great Britain and Ireland", 

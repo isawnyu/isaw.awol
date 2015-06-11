@@ -11,7 +11,36 @@
         "en", 
         0.9999999989667605
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-149445083383878796", 
+            "resource_date": "2009-07-31T14:15:50.804-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:32.380446"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/07/open-access-publication-demotic.html", 
+            "resource_date": "2009-07-31T14:15:50.804-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:32.380462"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Terms of Use", 

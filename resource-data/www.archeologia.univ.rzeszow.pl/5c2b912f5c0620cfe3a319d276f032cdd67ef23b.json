@@ -12,7 +12,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7698355387808772715", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:10.828496"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-analecta.html", 
+            "resource_date": "2013-10-10T11:45:43.294-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:10.828508"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Tomasz Bochnak \u2014 Early Cir\u00adculr Umbones of the Prze\u00adworsk Cul\u00adture. The Role of Local Tra\u00addi\u00adtion and Celtic Infu\u00adences on the Diver\u00adsity of Metal Parts of Shield at the Begin\u00adning of the Late Pre-Roman Period", 

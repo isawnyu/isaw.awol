@@ -16,7 +16,36 @@
         "en", 
         0.9999977536109862
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-837386773766905832", 
+            "resource_date": "2013-08-29T10:48:26.906-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:25.024124"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/textkit-to-help-you-learn-ancient-greek.html", 
+            "resource_date": "2013-08-29T10:48:26.906-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:25.024140"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Homeric Greek \u2013 A Book For Beginners", 

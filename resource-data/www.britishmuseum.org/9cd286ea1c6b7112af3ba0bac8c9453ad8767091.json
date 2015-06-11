@@ -13,7 +13,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2628755985533643375", 
+            "resource_date": "2013-04-02T09:58:49.668-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:14.854974"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/british-museum-online-research.html", 
+            "resource_date": "2013-04-02T09:58:49.668-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:14.854985"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "2. Naukratis: a city and trading port in Egypt", 

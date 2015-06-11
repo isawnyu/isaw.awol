@@ -11,7 +11,36 @@
         "en", 
         0.9999998296444227
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5908128509794850353", 
+            "resource_date": "2012-07-31T09:17:48.954-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:25.687105"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/emerging-project-thinking-through.html", 
+            "resource_date": "2012-07-31T09:17:48.954-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:25.687119"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "II.43: Context and Meaning", 

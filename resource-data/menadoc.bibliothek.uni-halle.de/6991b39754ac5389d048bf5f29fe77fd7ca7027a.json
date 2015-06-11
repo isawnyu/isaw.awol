@@ -12,7 +12,36 @@
         "en", 
         0.9999999999999998
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2239546717630774161", 
+            "resource_date": "2013-04-12T11:23:58.075-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:05.554695"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/newly-open-access-journal-hallesche.html", 
+            "resource_date": "2013-04-12T11:23:58.075-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:05.554709"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Content of this Publication", 

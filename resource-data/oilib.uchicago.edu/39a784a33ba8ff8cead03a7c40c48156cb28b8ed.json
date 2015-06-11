@@ -13,7 +13,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8149380779940100819", 
+            "resource_date": "2013-04-22T10:47:02.203-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:19.956102"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/early-archives-royales-de-mari-online.html", 
+            "resource_date": "2013-04-22T10:47:02.203-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:19.956116"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Dossin, Georges Correspondance de Samsi-Addu et de ses fils (Suite) Archives Royales de Mari 4 Paris Imprimerie Nationale 1951", 

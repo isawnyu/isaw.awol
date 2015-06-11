@@ -11,7 +11,36 @@
         "en", 
         0.9999999999895106
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1681643383695594866", 
+            "resource_date": "2009-08-13T07:05:58.879-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:48.217688"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-books-from-syriac-studies.html", 
+            "resource_date": "2009-08-13T07:05:58.879-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:48.217704"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "More about the project\u2026", 

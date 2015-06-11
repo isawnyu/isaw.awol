@@ -13,7 +13,36 @@
         "en", 
         0.9999956692046856
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5149246840690675435", 
+            "resource_date": "2012-10-05T15:23:50.057-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:10.117624"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/10/kuwaiti-slovak-archaeological-mission.html", 
+            "resource_date": "2012-10-05T15:23:50.057-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:10.117635"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Gallery", 

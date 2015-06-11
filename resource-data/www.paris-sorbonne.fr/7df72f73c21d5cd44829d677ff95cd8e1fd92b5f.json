@@ -9,7 +9,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3743767777832257103", 
+            "resource_date": "2013-01-08T13:03:15.205-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:43.325106"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/revue-de-linguistique-latine-du-centre.html", 
+            "resource_date": "2013-01-08T13:03:15.205-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:43.325127"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Num\u00e9ro 6\u00a0: Varia", 

@@ -14,7 +14,36 @@
         "en", 
         0.9999999999999856
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1878685197227596948", 
+            "resource_date": "2012-04-08T09:24:44.500-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:55.879577"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/video-imaging-iliad-digital-renaissance.html", 
+            "resource_date": "2012-04-08T09:24:44.500-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:55.879592"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Imaging the Iliad: A Digital Renaissance", 

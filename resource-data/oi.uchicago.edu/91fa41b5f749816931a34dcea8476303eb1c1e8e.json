@@ -14,7 +14,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8365232251359351016", 
+            "resource_date": "2012-11-23T07:14:32.413-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:24.789817"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html", 
+            "resource_date": "2012-11-23T07:14:32.413-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:24.789834"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "OIC 24. The American Expedition to Idalion, Cyprus 1973-1980", 

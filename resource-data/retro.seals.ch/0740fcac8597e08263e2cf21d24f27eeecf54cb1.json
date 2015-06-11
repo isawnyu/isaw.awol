@@ -16,7 +16,36 @@
         "lb", 
         0.9999999999318425
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5941320815711806639", 
+            "resource_date": "2013-08-18T17:45:01.258-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:27.421164"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journal-museum-helveticum.html", 
+            "resource_date": "2013-08-18T17:45:01.258-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:27.421179"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "2005", 

@@ -13,7 +13,36 @@
         "el", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6650637761764183728", 
+            "resource_date": "2009-10-18T15:28:54.496-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:47.216434"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/migne-online.html", 
+            "resource_date": "2009-10-18T15:28:54.496-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:47.216450"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "*34: \u03a4\u03c9\u03bd \u03b5\u03bd \u03b1\u03b3\u03af\u03bf\u03b9\u03c2 \u03c0\u03b1\u03c4\u03ad\u03c1\u03c9\u03bd \u03b7\u03bc\u03ce\u03bd \u039c\u03b1\u03ba\u03b1\u03c1\u03af\u03bf\u03c5 \u03c4\u03bf\u03c5 \u0391\u03b9\u03b3\u03c5\u03c0\u03c4\u03af\u03bf\u03c5, \u039c\u03b1\u03ba\u03b1\u03c1\u03af\u03bf\u03c5 \u03c4\u03bf\u03c5 \u0391\u03bb\u03b5\u03be\u03b1\u03bd\u03b4\u03c1\u03ad\u03c9\u03c2, \u03c4\u03b1 \u03b5\u03c5\u03c1\u03b9\u03c3\u03ba\u03cc\u03bc\u03b5\u03bd\u03b1 \u03c0\u03ac\u03bd\u03c4\u03b1. Ton en hagiois pateron hemon Makariou tou Aigyptiou, Makariou tou Alexandreos, ta euriskomena panta: ad fidem vaticani vindobonensium, berolinensis, aliorum codicum", 

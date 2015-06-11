@@ -12,7 +12,36 @@
         "journal issues"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2911660597633129265", 
+            "resource_date": "2012-03-29T18:51:02.560-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:20.218431"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/open-access-journal-republics-of.html", 
+            "resource_date": "2012-03-29T18:51:02.560-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:20.218446"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Volume 1, Issue 105.01.2009", 

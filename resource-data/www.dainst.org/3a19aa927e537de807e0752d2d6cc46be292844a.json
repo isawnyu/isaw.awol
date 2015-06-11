@@ -11,7 +11,36 @@
         "en", 
         0.980617627949165
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1116698566880068513", 
+            "resource_date": "2012-11-13T16:45:00.550-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:15.622829"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/elephantine-reports-online.html", 
+            "resource_date": "2012-11-13T16:45:00.550-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:15.622850"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "41st Season 2012 (pdf,5.3 Mbyte)", 

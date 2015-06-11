@@ -13,7 +13,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-975100407243312576", 
+            "resource_date": "2012-12-11T15:53:07.790-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:45.620243"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/10/opean-access-journal-revue-de-lorient.html", 
+            "resource_date": "2012-12-11T15:53:07.790-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:45.620257"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Revue de l\u2018Orient chr\u00e9tien (Volume 10 - 1905)", 

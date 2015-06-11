@@ -11,7 +11,36 @@
         "en", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3460850177612760404", 
+            "resource_date": "2013-11-28T09:30:05.629-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:12:38.195272"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/09/egyptian-early-dynastic-inscription.html", 
+            "resource_date": "2013-11-28T09:30:05.629-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:12:38.195285"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "171-417, was the point of departure.[4]The sequence of the Kahl list is chronological but this could not be followed when new sources were added as they were found", 

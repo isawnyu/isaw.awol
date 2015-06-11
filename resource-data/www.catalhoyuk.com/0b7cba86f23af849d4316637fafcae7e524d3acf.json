@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1611379958655452367", 
+            "resource_date": "2013-11-26T09:24:18.796-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:45.172945"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/catalhoyuk-databases-on-line.html", 
+            "resource_date": "2013-11-26T09:24:18.796-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:45.172968"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Building Information", 

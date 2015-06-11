@@ -12,7 +12,36 @@
         "fr", 
         1.0
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6057210403388920442", 
+            "resource_date": "2013-07-20T06:41:36.606-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:13:30.165356"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-annales-de-janua.html", 
+            "resource_date": "2013-07-20T06:41:36.606-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:13:30.165370"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Conjectures et r\u00e9flexions chronologiques. La focale documentaire de deux cartulaires d\u2019Auvergne\u00a0: xe - xie si\u00e8clesPar : Julien MUZARDfrPubli\u00e9 en ligne le 15/04/13", 

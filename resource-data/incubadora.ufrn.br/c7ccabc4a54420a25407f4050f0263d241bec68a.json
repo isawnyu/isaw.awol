@@ -9,7 +9,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-180231614034105678", 
+            "resource_date": "2013-08-23T19:24:17.693-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:11:54.030890"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-aletheia-revista-de.html", 
+            "resource_date": "2013-08-23T19:24:17.693-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:11:54.030906"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "\u201cLE ROI EST MORT\u201d: O DEBATE HISTORIOGR\u00c1FICO SOBRE AS CAUSAS DA MORTE DE ALEXANDRE MAGNO NA BABIL\u00d4NIA, EM 323 A.C", 

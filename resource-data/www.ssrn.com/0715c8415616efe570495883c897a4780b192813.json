@@ -14,7 +14,36 @@
         "en", 
         0.999084083195305
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7759055811247613910", 
+            "resource_date": "2013-01-19T19:07:42.641-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:12.474214"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/ssrn-classics-research-network.html", 
+            "resource_date": "2013-01-19T19:07:42.641-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:12.474226"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Social History eJournal", 

@@ -8,7 +8,36 @@
     }, 
     "keywords": [], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-937761268721486799", 
+            "resource_date": "2013-05-07T11:41:49.933-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:44.796359"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/digital-library-institut-national-du.html", 
+            "resource_date": "2013-05-07T11:41:49.933-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:44.796373"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "1934", 

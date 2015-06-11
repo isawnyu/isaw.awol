@@ -11,7 +11,36 @@
         "en", 
         0.9831926149330112
     ], 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-879034998595948180", 
+            "resource_date": "2013-06-01T08:14:13.296-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:34.246621"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/06/ram3d.html", 
+            "resource_date": "2013-06-01T08:14:13.296-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:34.246633"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Authentic Waterline Rams", 

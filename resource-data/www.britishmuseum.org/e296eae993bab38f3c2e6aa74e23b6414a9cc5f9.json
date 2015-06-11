@@ -10,7 +10,36 @@
         "bibliography"
     ], 
     "language": null, 
-    "provenance": [], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8382675651056225911", 
+            "resource_date": "2010-08-14T16:31:30.545-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-11T20:14:26.322876"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/08/roman-republican-coins-in-british.html", 
+            "resource_date": "2010-08-14T16:31:30.545-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-11T20:14:26.322888"
+        }
+    ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Bibliography", 
