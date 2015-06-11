@@ -758,8 +758,10 @@ class AwolBaseParser:
             #logger.debug('already have anchors')
             return c['anchors']
         soup = c['soup']
-        #logger.debug(u'finding anchors in: {0}'.format(unicode(soup)))        
-        anchors = self._filter_anchors([a for a in soup.find_all('a')])
+        #logger.debug(u'finding anchors in: {0}'.format(unicode(soup))) 
+        raw_anchors = [a for a in soup.find_all('a')]
+        #logger.debug('raw anchors: {0}'.format(', '.join([a.get('href') for a in raw_anchors])))
+        anchors = self._filter_anchors(raw_anchors)
         c['anchors'] = anchors
         return anchors
 
