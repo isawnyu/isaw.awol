@@ -25,7 +25,8 @@ from isaw.awol.resource import Resource
 
 DOMAINS_IGNORE = [
     'draft.blogger.com',
-    'bobcat.library.nyu.edu'
+    'bobcat.library.nyu.edu',
+    'cientworldonline.blogspot.com' # that there's a typo in a link somewhere in the blog
 ]
 DOMAINS_SELF = [
     'ancientworldonline.blogspot.com',
