@@ -394,7 +394,7 @@ class AwolBaseParser:
                 desc_text = None
             else:
                 desc_text = RX_PUNCT_FIX.sub(r'\1', desc_text)
-        desc_text = desc_text.replace(u'%IMAGEREPLACED%', u'').strip()
+                desc_text = desc_text.replace(u'%IMAGEREPLACED%', u'').strip()
         #logger.debug(u"desc_text: {0}".format(desc_text))
 
         return desc_text        
@@ -416,7 +416,7 @@ class AwolBaseParser:
         first_node = soup.body.contents[0]
         #logger.debug(unicode(first_node))
         last_node = None
-        for tag_name in ['blockquote', 'div']:
+        for tag_name in ['blockquote',]:
             for node in first_node.find_all_next(tag_name):
                 if len(node.get_text().strip()) > 0:
                     last_node = node
