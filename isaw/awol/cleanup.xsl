@@ -18,7 +18,9 @@
     <xsl:template match="*[count(./@*) = 1 and ./@style]">
         <xsl:apply-templates/>
     </xsl:template>
-    
+    <xsl:template match="*[local-name()='br' and not(following-sibling::*[local-name()='br'])]">
+        <xsl:text>.</xsl:text>
+    </xsl:template>
     <xsl:template match="*[local-name()='br' and count(../*) = 1]"/>
     <xsl:template match="*[local-name()='a'  and not(@href)]"/>       
     <xsl:template match="*[local-name()='a' and contains(@href, 'javascript')]"/>

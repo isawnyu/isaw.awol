@@ -19,7 +19,7 @@ from bs4.element import NavigableString
 import langid
 import unicodecsv
 
-from isaw.awol.clean_string import clean_string, deduplicate_lines
+from isaw.awol.clean_string import *
 from isaw.awol.normalize_space import normalize_space
 from isaw.awol.resource import Resource
 
@@ -61,7 +61,8 @@ del dreader
 RX_IDENTIFIERS = {
     'issn': {
         'electronic': [
-            re.compile(r'(electronic|e-|e‒|e–|e—|e|online|on-line|digital)([\s:]*issn[^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4})', re.IGNORECASE),
+            re.compile(r'(e-|e‒|e–|e—|e|)(issn[^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4})', re.IGNORECASE),
+            re.compile(r'(electronic|online|on-line|digital)([\s:]*issn[^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4})', re.IGNORECASE),
             re.compile(r'(issn[\s\(]*)(electrónico|électronique|online|on-line|digital)([^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4})', re.IGNORECASE),
             re.compile(r'(issn[^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4}[\s\(]*)(electrónico|électronique|online|on-line|digital)', re.IGNORECASE),
         ],
@@ -125,6 +126,7 @@ RX_ANALYTIC_TITLES = [
 
 ]
 RX_PUNCT_FIX = re.compile(r'\s+([\.,:;]{1})')
+RX_PUNCT_DEDUPE = re.compile(r'([\.,:;]{1})([\.,:;]{1})')
 def domain_from_url(url):
     return url.replace('http://', '').replace('https://', '').split('/')[0]
 
@@ -368,7 +370,12 @@ class AwolBaseParser:
         for desc_node in desc_nodes:
             #logger.debug(u'desc_node: {0}'.format(unicode(desc_node)))
             if type(desc_node) == NavigableString:
-                desc_lines.append(unicode(desc_node))
+                line = unicode(desc_node)
+                #logger.debug(u'appending: "{0}"'.format(line))
+                desc_lines.append(line)
+            elif desc_node.name == 'br':
+                desc_lines[-1] += u'.'
+                #logger.debug(u'backslapping fullstop for br')
             else:
                 anchors = self._filter_anchors(desc_node.find_all('a'))
                 #logger.debug('anchor length: {0}'.format(len(anchors)))
@@ -377,24 +384,47 @@ class AwolBaseParser:
                         if this_node == anchors[1]:
                             break
                         if type(this_node) == NavigableString:
-                            desc_lines.append(unicode(this_node))
+                            line = unicode(desc_node)
+                            #logger.debug(u'appending: "{0}"'.format(line))
+                            desc_lines.append(line)
+                        elif desc_node.name == 'br':
+                            desc_lines[-1].append(u'.')
+                            #logger.debug(u'backslapping fullstop for br')
                         else:
-                            desc_lines.extend(this_node.get_text('\n').split('\n'))
+                            lines = this_node.get_text('\n').split('\n')
+                            #logger.debug(u'extending with: {0}'.format(lines))
+                            desc_lines.extend(lines)
                     break
                 else:
                     try:
                         desc_lines.extend(desc_node.get_text('\n').split('\n'))
                     except AttributeError:
                         pass
+                    else:
+                        lines = desc_node.get_text('\n').split('\n')
+                        #logger.debug(u'extended with: {0}'.format(lines))
+        #logger.debug('desc_lines follows')
+        #for line in desc_lines:
+            #logger.debug(u'   {0}'.format(line))
         if len(desc_lines) == 0:
             desc_text = None
         else:
+            #logger.debug(u'before dedupe: {0}'.format(u'\n'.join(desc_lines)))
             desc_text = deduplicate_lines(u'\n'.join(desc_lines))
             if len(desc_text) == 0:
                 desc_text = None
             else:
-                desc_text = RX_PUNCT_FIX.sub(r'\1', desc_text)
                 desc_text = desc_text.replace(u'%IMAGEREPLACED%', u'').strip()
+                desc_text = RX_PUNCT_FIX.sub(r'\1', desc_text)
+                #logger.debug(u'before sentence dedupe: {0}'.format(desc_text))
+                desc_text = deduplicate_sentences(desc_text)
+                #logger.debug(u'after sentence dedupe: {0}'.format(desc_text))
+                desc_text = RX_PUNCT_DEDUPE.sub(r'\1', desc_text)
+                if len(desc_text) == 0:
+                    desc_text = None
+                elif desc_text[-1] != u'.':
+                    desc_text += u'.'
+
         #logger.debug(u"desc_text: {0}".format(desc_text))
 
         return desc_text        
@@ -443,16 +473,19 @@ class AwolBaseParser:
             else:
                 last_node = first_node
 
-        html = u' {0}\n'.format(unicode(first_node))
+        html = u' {0}.\n'.format(unicode(first_node))
         next_node = first_node.next_element
         while next_node != last_node:
-            html = html + u' {0}\n'.format(unicode(next_node))
+            html = html + u'\n{0}'.format(unicode(next_node))
             try:
                 next_node = next_node.next_element
             except AttributeError:
                 break
         html = html + u' {0}\n'.format(unicode(next_node)) 
         html = u'<div>\n' + html + u'\n</div>'
+        #logger.debug('description html follows')
+        #for hh in html.split(u'\n'):
+            #logger.debug(u'   {0}'.format(hh))
         #logger.debug(u'description html:\n{0}'.format(html))
         return html
 
