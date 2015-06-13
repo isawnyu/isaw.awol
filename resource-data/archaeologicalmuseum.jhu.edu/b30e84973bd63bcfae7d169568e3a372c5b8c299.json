@@ -1,0 +1,51 @@
+{
+    "description": "The Johns Hopkins Archaeological Museum. The mission of the museum is to inspire and facilitate the study of the ancient world by providing faculty and students access to a remarkable collection of archaeological artifacts. The museum is dedicated to: The preservation of the collection Museum quality display and exhibitions The accessibility of the collection for teaching, study and research by faculty and students Interdisciplinary and collaborative research.", 
+    "domain": "archaeologicalmuseum.jhu.edu", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "museums", 
+        "archaeology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-153195228186491603", 
+            "resource_date": "2012-05-04T09:38:10.969-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:11:54.208901"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/johns-hopkins-archaeological-museum.html", 
+            "resource_date": "2012-05-04T09:38:10.969-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:11:54.208918"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Johns Hopkins Archaeological Museum", 
+    "url": "http://archaeologicalmuseum.jhu.edu/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

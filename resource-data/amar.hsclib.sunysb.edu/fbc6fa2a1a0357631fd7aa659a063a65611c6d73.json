@@ -1,0 +1,51 @@
+{
+    "description": "The proto-elamite texts from Tepe Yahya.", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Excavations at Tepe Yahya, Iran in AMAR", 
+        "url": "http://amar.hsclib.sunysb.edu/amar/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.999999999999998
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1055362887162564290", 
+            "resource_date": "2012-03-04T15:12:57.357-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:11:25.365135"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html", 
+            "resource_date": "2012-03-04T15:12:57.357-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:11:25.365149"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The proto-elamite texts from Tepe Yahya", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=126889&REC=3", 
+    "volume": "-", 
+    "year": null, 
+    "zotero_id": null
+}

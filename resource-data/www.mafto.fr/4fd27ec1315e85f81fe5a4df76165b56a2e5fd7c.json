@@ -1,0 +1,51 @@
+{
+    "description": "Rapport scientifique 2011-2012.", 
+    "domain": "www.mafto.fr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Open Access Publications of the Mission Arch\u00e9ologique Fran\u00e7aise de Th\u00e8bes-Ouest", 
+        "url": "http://www.mafto.fr/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "fr", 
+        0.9999975612354023
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2645850087875203525", 
+            "resource_date": "2012-09-04T15:46:50.190-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:33.692576"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-publications-of-mission.html", 
+            "resource_date": "2012-09-04T15:46:50.190-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:33.692589"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Rapport scientifique 2011-2012", 
+    "url": "http://www.mafto.fr/publications/rapports-scientifiques/rapport-scientifique-2011-2012-2/", 
+    "volume": "2012", 
+    "year": "2011", 
+    "zotero_id": null
+}

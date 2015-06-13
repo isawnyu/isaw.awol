@@ -1,0 +1,51 @@
+{
+    "description": "here.", 
+    "domain": "www.tlg.uci.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Thesaurus Linguae Graecae (TLG\u00ae) Updates", 
+        "url": "http://www.tlg.uci.edu/authors/post_tlg_e.php"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.9895394055398132
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7624523726531841247", 
+            "resource_date": "2011-02-25T16:56:21.554-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:58.686491"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/02/thesaurus-linguae-graecae-tlg-updates.html", 
+            "resource_date": "2011-02-25T16:56:21.554-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:58.686505"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "here", 
+    "url": "http://www.tlg.uci.edu/news/index.php", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

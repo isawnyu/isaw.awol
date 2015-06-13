@@ -1,0 +1,49 @@
+{
+    "description": "N\u00ba 5. A\u00f1o 2001: N\u00ba 4.", 
+    "domain": "www.unirioja.es", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "1699-6909", 
+        "title": "Iberia", 
+        "url": "http://www.unirioja.es/servicios/sp/ej/iberia/iberia.shtml"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8047187577158578375", 
+            "resource_date": "2012-04-12T07:44:07.091-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:10.808870"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-iberia.html", 
+            "resource_date": "2012-04-12T07:44:07.091-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:10.808888"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "N\u00ba 5", 
+    "url": "http://www.unirioja.es/servicios/sp/ej/iberia/iberia05.shtml", 
+    "volume": "5", 
+    "year": null, 
+    "zotero_id": null
+}

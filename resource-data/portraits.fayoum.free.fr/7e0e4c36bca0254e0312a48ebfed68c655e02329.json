@@ -1,0 +1,48 @@
+{
+    "description": "Hawara.", 
+    "domain": "portraits.fayoum.free.fr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Portraits du Fayoum", 
+        "url": "http://portraits.fayoum.free.fr/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1874510028943141656", 
+            "resource_date": "2013-12-06T07:52:56.256-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:13.473533"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/portraits-du-fayoum.html", 
+            "resource_date": "2013-12-06T07:52:56.256-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:13.473544"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://portraits.fayoum.free.fr/fayoum/fayoum2b.php?imgport=7&img=1&mus=0&pas=2&dat=0&ori=0", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

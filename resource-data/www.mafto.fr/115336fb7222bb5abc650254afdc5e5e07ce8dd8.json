@@ -1,0 +1,48 @@
+{
+    "description": "Memnonia VI (1995).", 
+    "domain": "www.mafto.fr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Memnonia", 
+        "url": "http://www.mafto.fr/publications/memnonia/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1085368165727328883", 
+            "resource_date": "2013-01-22T15:05:13.547-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:11:26.086043"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-journal-memnonia.html", 
+            "resource_date": "2013-01-22T15:05:13.547-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:11:26.086058"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Memnonia VI (1995)", 
+    "url": "http://www.mafto.fr/publications/memnonia/memnonia-vi-1995/", 
+    "volume": "1995", 
+    "year": null, 
+    "zotero_id": null
+}

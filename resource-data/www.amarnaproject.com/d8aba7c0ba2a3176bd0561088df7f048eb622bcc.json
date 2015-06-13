@@ -1,0 +1,51 @@
+{
+    "description": "Hi-Res | Low-Res.", 
+    "domain": "www.amarnaproject.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Amarna Project Downloadable Resources", 
+        "url": "http://www.amarnaproject.com/downloadable_resources.shtml"
+    }, 
+    "keywords": [], 
+    "language": [
+        "mt", 
+        0.9980389510405414
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8696002892601832734", 
+            "resource_date": "2013-12-20T14:50:47.297-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:27.580305"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/amarna-project-downloadable-resources.html", 
+            "resource_date": "2013-12-20T14:50:47.297-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:27.580319"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Hi-Res", 
+    "url": "http://www.amarnaproject.com/documents/pdf/Optimised/AR-I-Binder12_Chap13.pdf", 
+    "volume": "-", 
+    "year": null, 
+    "zotero_id": null
+}

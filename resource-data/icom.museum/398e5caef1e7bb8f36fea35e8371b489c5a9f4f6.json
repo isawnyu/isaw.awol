@@ -1,0 +1,51 @@
+{
+    "description": "Red Lists Database.", 
+    "domain": "icom.museum", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Emergency Red List of Syrian Cultural Objects at Risk", 
+        "url": "http://icom.museum/resources/red-lists-database/red-list/syria/"
+    }, 
+    "keywords": [
+        "data", 
+        "database"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1262871676221821518", 
+            "resource_date": "2013-09-26T05:58:22.462-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:11:33.027569"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/emergency-red-list-of-syrian-cultural.html", 
+            "resource_date": "2013-09-26T05:58:22.462-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:11:33.027585"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Red Lists Database", 
+    "url": "http://icom.museum/resources/red-lists-database", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

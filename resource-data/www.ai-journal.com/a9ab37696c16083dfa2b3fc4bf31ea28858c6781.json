@@ -1,0 +1,49 @@
+{
+    "description": "Full text PDF.", 
+    "domain": "www.ai-journal.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "2048-4194", 
+        "title": "Archaeology International", 
+        "url": "http://www.ai-journal.com/index"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1801388739279690812", 
+            "resource_date": "2013-10-28T13:05:05.073-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:10.368314"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/newly-open-access-journal-archaeology.html", 
+            "resource_date": "2013-10-28T13:05:05.073-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:10.368327"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Full text", 
+    "url": "http://www.ai-journal.com/article/view/ai.1604/372", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

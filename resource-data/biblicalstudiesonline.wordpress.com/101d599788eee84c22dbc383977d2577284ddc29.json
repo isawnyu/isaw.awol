@@ -1,0 +1,55 @@
+{
+    "description": "Media (84) Audio (20) Blogs (1) Electronic books (7) Encyclopedias, Dictionaries, Wikis (4) Journals (14) Lists of journals (2) Open-access journals (11) Video (46) Webzines (6).", 
+    "domain": "biblicalstudiesonline.wordpress.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Biblical Studies Online", 
+        "url": "http://biblicalstudiesonline.wordpress.com/"
+    }, 
+    "keywords": [
+        "journal", 
+        "book", 
+        "video"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999999982
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6565990327436124312", 
+            "resource_date": "2014-01-19T09:02:03.778-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:09.988771"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/biblical-studies-online.html", 
+            "resource_date": "2014-01-19T09:02:03.778-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:09.988783"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Media", 
+    "url": "http://biblicalstudiesonline.wordpress.com/category/media/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,56 @@
+{
+    "description": "RecentPublications in Assyriology \" with abstracts and links to published TOC's, and a \" Bibliography of Sumerian Literature.", 
+    "domain": "cdli.ox.ac.uk", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "News from CDLI: The educational pages of the Cuneiform Digital Library Initiative", 
+        "url": "http://cdli.ox.ac.uk/wiki/"
+    }, 
+    "keywords": [
+        "Sumerian", 
+        "Assyria", 
+        "bibliography", 
+        "Assyriology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3112374024588359041", 
+            "resource_date": "2013-03-28T05:51:20.007-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:47.529400"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/news-from-cdli-educational-pages-of.html", 
+            "resource_date": "2013-03-28T05:51:20.007-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:47.529414"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "RecentPublications in Assyriology", 
+    "url": "http://cdli.ox.ac.uk/wiki/recent_publications", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

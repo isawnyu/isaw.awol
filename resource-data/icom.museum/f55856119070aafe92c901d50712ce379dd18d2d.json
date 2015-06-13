@@ -1,0 +1,48 @@
+{
+    "description": "Iraq.", 
+    "domain": "icom.museum", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "ICOM Emergency Red List of Egyptian Cultural Objects at Risk", 
+        "url": "http://icom.museum/press-releases/press-release/article/icom-publishes-a-new-emergency-red-list-the-emergency-red-list-of-egyptian-cultural-objects-at-risk.html"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1765380277855317557", 
+            "resource_date": "2012-02-06T14:20:10.921-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:08.910676"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/icom-emergency-red-list-of-egyptian.html", 
+            "resource_date": "2012-02-06T14:20:10.921-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:08.910689"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://icom.museum/what-we-do/resources/red-lists-database/red-list/iraq.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

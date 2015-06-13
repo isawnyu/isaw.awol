@@ -1,0 +1,57 @@
+{
+    "description": "Mirator. ISSN 1457-2362. A multilingual electronic journal devoted to medieval studies.", 
+    "domain": "www.glossa.fi", 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "1457-2362"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999977302455273
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6683049683561943317", 
+            "resource_date": "2009-12-11T11:42:39.007-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:36.328936"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/open-access-journal-mirator.html", 
+            "resource_date": "2009-12-11T11:42:39.007-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:36.328952"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Mirator", 
+    "url": "http://www.glossa.fi/mirator/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,57 @@
+{
+    "description": "Zeitschrift f\u00fcr deutsches Alterthum <ul><li class=\"list\"><a href=\"http://www. digizeitschriften. de/index. php?id=loader&amp;tx_jkDigiTools_pi1%5BIDDOC%5D=427117\"></a><a alt=\"Zeitschrift f\u00fcr deutsches Alterthum\" href=\"http://www. digizeitschriften. de/main/dms/resolveppn/?PPN=PPN345204107\" title=\"Zeitschrift f\u00fcr deutsches Alterthum\">Zeitschrift f\u00fcr deutsches Alterthum</a></li>. <li class=\"list\"><a href=\"http://www. digizeitschriften. de/resolveppn/PPN345858735&amp;L=2\">Deutsches Archiv f\u00fcr Erforschung des Mittelalters</a>, 1951 - 2004</li></ul> Deutsches Archiv f\u00fcr Erforschung des Mittelalters, 1951 - 2004.", 
+    "domain": "www.digizeitschriften.de", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "DigiZeitschriften", 
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5128721546312797621", 
+            "resource_date": "2009-12-07T10:02:45.736-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:32.952119"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/05/open-access-journals-at.html", 
+            "resource_date": "2009-12-07T10:02:45.736-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:32.952136"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.digizeitschriften.de/resolveppn/PPN345858735&L=2", 
+        "http://www.digizeitschriften.de/no_cache/en/home/jkdigitools/loader/?tx_jkDigiTools_pi1%5Bcol%5D=12%2C5%2C17%2C&tx_jkDigiTools_pi1%5BIDDOC%5D=574445", 
+        "http://www.digizeitschriften.de/resolveppn/PPN345858530&L=2", 
+        "http://www.digizeitschriften.de/resolveppn/PPN345858514&L=2"
+    ], 
+    "title": "Open access journals at DigiZeitschriften", 
+    "url": "http://www.digizeitschriften.de/main/dms/resolveppn/?PPN=PPN345204107", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

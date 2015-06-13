@@ -1,0 +1,48 @@
+{
+    "description": "Volume 9.", 
+    "domain": "www.ircps.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Aestimatio", 
+        "url": "http://www.ircps.org/aestimatio"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-155945300591235260", 
+            "resource_date": "2013-08-20T14:26:03.258-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:02.734932"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journal-aestimatio.html", 
+            "resource_date": "2013-08-20T14:26:03.258-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:02.734949"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Volume 9", 
+    "url": "http://www.ircps.org/aestimatio/9", 
+    "volume": "9", 
+    "year": null, 
+    "zotero_id": null
+}

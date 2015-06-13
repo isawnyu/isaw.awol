@@ -1,0 +1,48 @@
+{
+    "description": "Version anglaise.", 
+    "domain": "web.mae.u-paris10.fr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Verres de l'Antiquit\u00e9 gr\u00e9co-romaine. Chronique bibliographique", 
+        "url": "http://web.mae.u-paris10.fr/verre/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1457729174053555102", 
+            "resource_date": "2013-10-08T10:49:02.560-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:11:45.283008"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/online-bibliographies-roman-glass.html", 
+            "resource_date": "2013-10-08T10:49:02.560-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:11:45.283021"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Version anglaise", 
+    "url": "http://web.mae.u-paris10.fr/verre/indexverre_eng.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

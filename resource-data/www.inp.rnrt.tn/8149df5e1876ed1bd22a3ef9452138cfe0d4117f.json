@@ -1,0 +1,54 @@
+{
+    "description": "Carte Nationale des Sites Arch\u00e9ologiques et des Monuments Historiques. Les feuilles prospect\u00e9es dans le cadre du projet carte nationale des sites arch\u00e9ologiques et monuments historiques 001 Kef Abed 004 Cap Negro 005 Oued Sejnene 006 Menzel Bourguiba 007 Ghar el Melh 008 Sidi Daoud 013 ariana 016 K\u00e9libia 019 T\u00e9bourba 024 Fernana 025 Bou Salem 026 Oued Ezzarga 027 Mjez el Beb 028 Bir M'cherga 029 Grombalia 030 Nabeul 036 Bouficha 037 Hammamet 043 An nfidha 049 Sidi Bou Ali 050 Halk el Mejjel 064 Sidi el Hani 067 Thala 068 Ksar Tlili 072 Oued Ch\u00e9rita 074 Mahdia 112 Meknassi 115 Mahres 117 Moular\u00e9s 122 Hchichina 125 Metlaoui 126 El Mdhila 127 El Guettar 128 El Aycha 129 Sbih 130 Skhira 133 sans Nom 134 sans Nom 137 El Fjej 138 M\u00e9touia 146 El Hamma 147 Gab\u00e8s 148 Houmet Essouk 149 Midoun 156 Sidi Gunaoui 157 kettana 158 Mareth 159 Ej Jorf 160 Sidi Chammekh 168 Matmata 170 Bou Ghrara 171 Zarzis 180 Mednine 181 Oglet Ennafatia 182 Ben Guerden 183 Bhiret el Biben 194 sans Nom 195 sans Nom.", 
+    "domain": "www.inp.rnrt.tn", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "La carte nationale des sites arch\u00e9ologiques et des monuments historiques, Tunisie", 
+        "url": "http://www.inp.rnrt.tn/index.php?lang=fr"
+    }, 
+    "keywords": [
+        "archaeology", 
+        "monuments"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7662055284615799155", 
+            "resource_date": "2012-10-23T10:43:24.407-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:59.891979"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/10/la-carte-nationale-des-sites.html", 
+            "resource_date": "2012-10-23T10:43:24.407-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:59.891993"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Carte Nationale des Sites Arch\u00e9ologiques et des Monuments Historiques", 
+    "url": "http://www.inp.rnrt.tn/Carte_archeo/html/index_fr.htm", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

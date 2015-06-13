@@ -1,0 +1,48 @@
+{
+    "description": "exts, translation.", 
+    "domain": "arshama.bodleian.ox.ac.uk", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "The Arshama Letters from the Bodleian Library", 
+        "url": "http://arshama.bodleian.ox.ac.uk/publications/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2867004132021275370", 
+            "resource_date": "2013-12-21T09:55:50.540-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:37.927229"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/the-arshama-letters-from-bodleian.html", 
+            "resource_date": "2013-12-21T09:55:50.540-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:37.927242"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "exts", 
+    "url": "http://arshama.bodleian.ox.ac.uk/files/2013/10/Volume-2-1-texts.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

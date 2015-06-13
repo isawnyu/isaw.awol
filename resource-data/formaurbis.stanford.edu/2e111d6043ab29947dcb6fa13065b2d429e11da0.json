@@ -1,0 +1,50 @@
+{
+    "description": "Map.", 
+    "domain": "formaurbis.stanford.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Stanford Digital Forma Urbis Romae Project", 
+        "url": "http://formaurbis.stanford.edu/"
+    }, 
+    "keywords": [
+        "maps"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-436455488187700020", 
+            "resource_date": "2013-11-29T07:41:50.403-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:19.508743"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/stanford-digital-forma-urbis-romae.html", 
+            "resource_date": "2013-11-29T07:41:50.403-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:19.508756"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Map", 
+    "url": "http://formaurbis.stanford.edu/docs/FURmap.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

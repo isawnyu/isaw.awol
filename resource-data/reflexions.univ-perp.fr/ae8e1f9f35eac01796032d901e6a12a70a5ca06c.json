@@ -1,0 +1,52 @@
+{
+    "description": "Litt\u00e9rature.", 
+    "domain": "reflexions.univ-perp.fr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "2100-0034", 
+        "title": "R\u00e9flexion(s)", 
+        "url": "http://reflexions.univ-perp.fr/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "fr", 
+        0.9999999526677001
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1831511464590959401", 
+            "resource_date": "2013-02-21T14:56:59.225-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:12.774591"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/new-open-access-journal-reflexions.html", 
+            "resource_date": "2013-02-21T14:56:59.225-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:12.774603"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Litt\u00e9rature", 
+    "url": "http://reflexions.univ-perp.fr/index.php?option=com_content&view=article&id=59&Itemid=69", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

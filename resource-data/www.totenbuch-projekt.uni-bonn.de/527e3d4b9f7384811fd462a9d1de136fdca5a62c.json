@@ -1,0 +1,48 @@
+{
+    "description": "pdf: 8,35 MB). Index der Personennamen ( pdf.", 
+    "domain": "www.totenbuch-projekt.uni-bonn.de", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Totenbuch-Projekt Bonn: Online-Publikationen", 
+        "url": "http://www.totenbuch-projekt.uni-bonn.de/publikationen/online-publikationen"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4282919221516824956", 
+            "resource_date": "2012-10-24T06:31:03.943-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:17.912643"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/10/totenbuch-projekt-bonn-online.html", 
+            "resource_date": "2012-10-24T06:31:03.943-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:17.912667"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "pdf", 
+    "url": "http://www.totenbuch-projekt.uni-bonn.de/publikationen/resolveuid/4edc8bf19d2583e8e16666292fcbadd4", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

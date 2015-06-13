@@ -1,0 +1,54 @@
+{
+    "description": "Historia imperial y cesarea De Natura Rerum.", 
+    "domain": "ista-project.univ-fcomte.fr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Bibliotheca Antiqua Numerica (l'Institut des Sciences et Techniques de l'Antiquit\u00e9 (ISTA) de l'Universit\u00e9 de Franche-Comt\u00e9)", 
+        "url": "http://ista-project.univ-fcomte.fr/ban/"
+    }, 
+    "keywords": [
+        "empires", 
+        "history"
+    ], 
+    "language": [
+        "es", 
+        0.999939049424229
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2686204077335203958", 
+            "resource_date": "2013-10-22T08:44:10.804-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:34.629080"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/bibliotheca-antiqua-numerica-linstitut.html", 
+            "resource_date": "2013-10-22T08:44:10.804-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:34.629102"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Historia imperial y cesarea", 
+    "url": "http://ista-project.univ-fcomte.fr/ban/volume/17", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

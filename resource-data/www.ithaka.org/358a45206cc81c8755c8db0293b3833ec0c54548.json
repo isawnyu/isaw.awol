@@ -1,0 +1,54 @@
+{
+    "description": "Stanford Encyclopedia of Philosophy (SEP).", 
+    "domain": "www.ithaka.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Ithaka S+R: Case Studies in Sustainability", 
+        "url": "http://www.ithaka.org/ithaka-s-r"
+    }, 
+    "keywords": [
+        "philosophy", 
+        "encyclopedia"
+    ], 
+    "language": [
+        "en", 
+        0.9999662083222243
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8279567214250372065", 
+            "resource_date": "2011-09-21T10:23:04.444-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:15.297606"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/09/ithaka-sr-case-studies-in.html", 
+            "resource_date": "2011-09-21T10:23:04.444-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:15.297620"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Stanford Encyclopedia of Philosophy (SEP)", 
+    "url": "http://www.ithaka.org/ithaka-s-r/research/case-studies-in-sustainability-2011/stanford-encyclopedia-of-philosophy-sep", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

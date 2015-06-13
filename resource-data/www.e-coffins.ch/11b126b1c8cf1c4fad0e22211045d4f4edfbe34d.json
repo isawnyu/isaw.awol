@@ -1,0 +1,51 @@
+{
+    "description": "Zeittafel des alten \u00c4gypten.", 
+    "domain": "www.e-coffins.ch", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "The Swiss Coffin Project", 
+        "url": "http://www.e-coffins.ch/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "de", 
+        0.9999999998562201
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8221809991442609885", 
+            "resource_date": "2012-10-05T15:19:08.898-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:14.625294"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/10/the-swiss-coffin-project.html", 
+            "resource_date": "2012-10-05T15:19:08.898-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:14.625308"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Zeittafel des alten \u00c4gypten", 
+    "url": "http://www.e-coffins.ch/index.php?option=com_content&view=article&id=327&Itemid=105", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

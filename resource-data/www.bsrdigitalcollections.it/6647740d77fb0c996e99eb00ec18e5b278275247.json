@@ -1,0 +1,51 @@
+{
+    "description": "Historic collections of miscellaneous commercial postcards.", 
+    "domain": "www.bsrdigitalcollections.it", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "The British School at Rome Library and Archive Digital Collections", 
+        "url": "http://www.bsrdigitalcollections.it/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.9999999999999998
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8039900989753768737", 
+            "resource_date": "2013-02-27T09:13:09.507-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:10.703673"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/03/british-school-at-rome-library-and.html", 
+            "resource_date": "2013-02-27T09:13:09.507-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:10.703689"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Historic collections of miscellaneous commercial postcards", 
+    "url": "http://www.bsrdigitalcollections.it/postcards.aspx", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

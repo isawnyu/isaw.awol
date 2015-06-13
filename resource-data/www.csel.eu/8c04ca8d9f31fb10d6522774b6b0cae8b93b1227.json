@@ -1,0 +1,51 @@
+{
+    "description": "Isidorus\u00a0\u00a0Hispalensis. Iulius papa.", 
+    "domain": "www.csel.eu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "EDENDA: Database of editions of Latin patristic texts", 
+        "url": "http://www.csel.eu/edenda/index.htm"
+    }, 
+    "keywords": [], 
+    "language": [
+        "lt", 
+        0.9996062088685413
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4777279722146575357", 
+            "resource_date": "2013-07-25T11:27:02.697-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:25.918356"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/database-of-kommission-zur-herausgabe.html", 
+            "resource_date": "2013-07-25T11:27:02.697-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:25.918373"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Isidorus\u00a0\u00a0Hispalensis", 
+    "url": "http://www.csel.eu/edenda/opus.htm#isidorus", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

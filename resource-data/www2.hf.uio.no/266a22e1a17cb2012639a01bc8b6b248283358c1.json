@@ -1,0 +1,59 @@
+{
+    "description": "D\u0100MOS: Database of Mycenaean at Oslo. D\u0100MOS (Database of Mycenaean at Oslo) aims at being an annotated electronic corpus of all the published Mycenaean texts, the earliest (ca. XV-XII B. C. ) written evidence of the Greek language, comprised of inscriptions in the Linear B syllabic script. <blockquote class=\"tr_bq\"><div class=\"about-box\">D\u0100MOS (Database of Mycenaean at Oslo) aims at being an annotated electronic corpus of all the published Mycenaean texts, the earliest (ca. XV-XII B. C. ) written evidence of the Greek language, comprised of inscriptions in the Linear B syllabic script. </div> <div class=\"submenu\"><ul class=\"navigation\"><li><a href=\"https://www2. hf. uio. no/damos/index/about/page/content\">The Mycenaean Documents</a>\u00a0</li><li><a href=\"https://www2. hf. uio. no/damos/index/about/page/database\">Database</a>\u00a0</li><li><a href=\"https://www2. hf. uio. no/damos/index/about/page/texts\">The Texts in D\u0100MOS</a>\u00a0</li><li><a href=\"https://www2. hf. uio. no/damos/index/about/page/notes\">Notes and Tablet Bibliography</a>\u00a0</li><li><a href=\"https://www2. hf. uio. no/damos/index/about/page/online\">Current Online Version</a></li></ul></div></blockquote> The Mycenaean Documents Database The Texts in D\u0100MOS Notes and Tablet Bibliography Current Online Version.", 
+    "domain": "www2.hf.uio.no", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Mycenean", 
+        "Linear B", 
+        "data", 
+        "database"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-54826988465731610", 
+            "resource_date": "2013-02-15T06:19:18.309-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:42.129703"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/coming-soon-damos-database-of-mycenaean.html", 
+            "resource_date": "2013-02-15T06:19:18.309-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:42.129720"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "https://www2.hf.uio.no/damos/index/about/page/content", 
+        "https://www2.hf.uio.no/damos/index/about/page/database", 
+        "https://www2.hf.uio.no/damos/index/about/page/texts", 
+        "https://www2.hf.uio.no/damos/index/about/page/notes", 
+        "https://www2.hf.uio.no/damos/index/about/page/online"
+    ], 
+    "title": "D\u0100MOS: Database of Mycenaean at Oslo", 
+    "url": "https://www2.hf.uio.no/damos", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,49 @@
+{
+    "description": "PES 2 (2003).", 
+    "domain": "pes.ff.cuni.cz", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "1801-3809", 
+        "title": "Prazsk\u00e9 egyptologick\u00e9 studie PES", 
+        "url": "http://pes.ff.cuni.cz/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5384112954428654853", 
+            "resource_date": "2012-08-05T09:10:58.846-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:39.838901"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journal-prazske.html", 
+            "resource_date": "2012-08-05T09:10:58.846-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:39.838923"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "PES 2 (2003)", 
+    "url": "http://pes.ff.cuni.cz/?req=cat:pes2", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

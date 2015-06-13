@@ -1,0 +1,48 @@
+{
+    "description": "Home Main Picture Index.", 
+    "domain": "www.middle-east-pictures.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Middle East Pictures", 
+        "url": "http://www.middle-east-pictures.com/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4258700954237948524", 
+            "resource_date": "2012-05-01T12:04:12.023-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:16.286838"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/middle-east-pictures.html", 
+            "resource_date": "2012-05-01T12:04:12.023-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:16.286851"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Home", 
+    "url": "http://www.middle-east-pictures.com/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

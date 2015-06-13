@@ -1,0 +1,48 @@
+{
+    "description": "Pandektis.", 
+    "domain": "pandektis.ekt.gr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Macedonian Bronze Coinage Online", 
+        "url": "http://pandektis.ekt.gr/pandektis/handle/10442/71821"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3515596479669262938", 
+            "resource_date": "2012-06-13T14:06:39.997-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:59.542389"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/macedonian-bronze-coinage-online.html", 
+            "resource_date": "2012-06-13T14:06:39.997-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:59.542405"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Pandektis", 
+    "url": "http://pandektis.ekt.gr/pandektis/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

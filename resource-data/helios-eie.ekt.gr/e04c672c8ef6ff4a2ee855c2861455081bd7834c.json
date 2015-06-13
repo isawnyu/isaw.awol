@@ -1,0 +1,53 @@
+{
+    "description": "Auxiliary sciences of History History of Civilization.", 
+    "domain": "helios-eie.ekt.gr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "National Hellenic Research Foundation", 
+        "url": "http://helios-eie.ekt.gr/EIE/"
+    }, 
+    "keywords": [
+        "history"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999999887
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5664670820881259523", 
+            "resource_date": "2013-02-03T07:29:56.240-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:44.998071"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/09/institutional-repositories-national.html", 
+            "resource_date": "2013-02-03T07:29:56.240-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:44.998084"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Auxiliary sciences of History", 
+    "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AC", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

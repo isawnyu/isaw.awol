@@ -1,0 +1,50 @@
+{
+    "description": "Preservation by Design \u00ae.", 
+    "domain": "globalheritagefund.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Global Heritage Review", 
+        "url": "http://globalheritagefund.org/publications/ghr"
+    }, 
+    "keywords": [
+        "preservation"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3528601872350084802", 
+            "resource_date": "2011-12-13T06:15:20.227-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:59.729099"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-global-heritage.html", 
+            "resource_date": "2011-12-13T06:15:20.227-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:59.729113"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Preservation by Design \u00ae", 
+    "url": "http://globalheritagefund.org/our_approach/preservation_by_design/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

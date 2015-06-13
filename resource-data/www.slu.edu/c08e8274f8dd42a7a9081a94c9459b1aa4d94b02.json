@@ -1,0 +1,53 @@
+{
+    "description": "SLU Classical Program Information Contact Information.", 
+    "domain": "www.slu.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Latin Teaching Materials at Saint Louis University", 
+        "url": "http://www.slu.edu/colleges/AS/languages/classical/latin/tchmat/tchmat.html"
+    }, 
+    "keywords": [
+        "classics"
+    ], 
+    "language": [
+        "en", 
+        0.9852048143078509
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6465903918950704434", 
+            "resource_date": "2012-12-10T09:02:00.383-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:06.538746"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/latin-teaching-materials-at-saint-louis.html", 
+            "resource_date": "2012-12-10T09:02:00.383-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:06.538759"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "SLU Classical Program Information", 
+    "url": "http://www.slu.edu/colleges/AS/languages/classical/dept/prog.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

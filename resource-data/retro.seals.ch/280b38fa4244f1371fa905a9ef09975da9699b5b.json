@@ -1,0 +1,48 @@
+{
+    "description": "Volume 27 1970.", 
+    "domain": "retro.seals.ch", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Museum Helveticum", 
+        "url": "http://retro.seals.ch/digbib/vollist?UID=mhl-001&id=browse&id2=browse1"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5941320815711806639", 
+            "resource_date": "2013-08-18T17:45:01.258-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:51.413628"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journal-museum-helveticum.html", 
+            "resource_date": "2013-08-18T17:45:01.258-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:51.413641"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Volume 27", 
+    "url": "http://retro.seals.ch/digbib/voltoc;jsessionid=3A87C43964159E3723D010A0C1888522?rid=mhl-001:1970:27::3&id=browse&id2=browse1&id3=", 
+    "volume": "27", 
+    "year": null, 
+    "zotero_id": null
+}

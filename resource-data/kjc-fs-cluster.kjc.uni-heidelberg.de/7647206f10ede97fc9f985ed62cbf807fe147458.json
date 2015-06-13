@@ -1,0 +1,53 @@
+{
+    "description": "dictionary page to search for lexical units or to have a look at the text collection.", 
+    "domain": "kjc-fs-cluster.kjc.uni-heidelberg.de", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Digital Corpus of Sanskrit", 
+        "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php"
+    }, 
+    "keywords": [
+        "dictionaries"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2635873555143543323", 
+            "resource_date": "2013-06-30T07:46:47.637-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:33.563681"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/snascrit-corpus-online.html", 
+            "resource_date": "2013-06-30T07:46:47.637-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:33.563695"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "dictionary", 
+    "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=dictionary", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

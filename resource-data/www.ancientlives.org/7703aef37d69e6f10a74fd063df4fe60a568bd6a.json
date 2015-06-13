@@ -1,0 +1,48 @@
+{
+    "description": "Team.", 
+    "domain": "www.ancientlives.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Ancient Lives: Oxyrhynchus Papyri", 
+        "url": "http://www.ancientlives.org/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4300311251748355331", 
+            "resource_date": "2011-07-26T05:05:24.328-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:18.388802"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/ancient-lives-oxyrhynchus-papyri.html", 
+            "resource_date": "2011-07-26T05:05:24.328-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:18.388834"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Team", 
+    "url": "http://www.ancientlives.org/team", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

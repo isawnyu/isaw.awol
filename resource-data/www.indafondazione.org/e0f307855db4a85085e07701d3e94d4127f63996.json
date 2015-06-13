@@ -1,0 +1,50 @@
+{
+    "description": "Prometeo.", 
+    "domain": "www.indafondazione.org", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Drama", 
+        "journal", 
+        "theater", 
+        "open access"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5202933782212037937", 
+            "resource_date": "2011-12-27T09:04:11.463-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:35.586305"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-prometeo.html", 
+            "resource_date": "2011-12-27T09:04:11.463-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:35.586321"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Prometeo", 
+    "url": "http://www.indafondazione.org/category/prometeus-rivista-online/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

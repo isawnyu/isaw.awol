@@ -1,0 +1,49 @@
+{
+    "description": "1997_Vol_8_01. pdf.", 
+    "domain": "minervamagazine.co.uk", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "0957-7718", 
+        "title": "Minerva", 
+        "url": "http://minervamagazine.co.uk/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6549070696531295337", 
+            "resource_date": "2013-01-31T10:55:55.445-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:08.516989"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-minerva.html", 
+            "resource_date": "2013-01-31T10:55:55.445-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:08.517003"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "1997_Vol_8_01.pdf", 
+    "url": "http://minervamagazine.co.uk/archive_pdfs/1997_Vol_8_01.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

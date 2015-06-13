@@ -1,0 +1,53 @@
+{
+    "description": "An 9 [1801]. See also La Maison de l\u2019Orient et de la M\u00e9diterran\u00e9e - Biblioth\u00e8que num\u00e9rique - Digimom.", 
+    "domain": "www.mom.fr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "New from DIGIMOM", 
+        "url": "http://www.mom.fr/digimom/index.php"
+    }, 
+    "keywords": [
+        "Mediterranean"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2135585911765247810", 
+            "resource_date": "2010-12-06T13:27:49.498-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:20.685177"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/new-from-digimom.html", 
+            "resource_date": "2010-12-06T13:27:49.498-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:20.685191"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "An 9 [1801]", 
+    "url": "http://www.mom.fr/digimom/Notice.php?id=1155&limit=8", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

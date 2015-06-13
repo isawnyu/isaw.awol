@@ -1,0 +1,48 @@
+{
+    "description": "I. Magnesia RPC I.", 
+    "domain": "www.pretres-civiques.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Pr\u00eatres Civique: Les pr\u00eatres du culte imp\u00e9rial romain dans les cit\u00e9s de la province d'Asie", 
+        "url": "http://www.pretres-civiques.org/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-191928554507254710", 
+            "resource_date": "2013-07-17T11:00:41.045-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:14.289549"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/pretres-civique-les-pretres-du-culte.html", 
+            "resource_date": "2013-07-17T11:00:41.045-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:14.289562"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "I.Magnesia", 
+    "url": "http://www.pretres-civiques.org/sources/publication/585", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

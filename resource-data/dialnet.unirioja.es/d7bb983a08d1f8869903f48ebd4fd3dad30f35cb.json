@@ -1,0 +1,48 @@
+{
+    "description": "11.", 
+    "domain": "dialnet.unirioja.es", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Cuadernos de la Fundaci\u00f3n Pastor", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=13040"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1527027278148200731", 
+            "resource_date": "2013-12-15T08:15:54.695-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:11:53.270090"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-cuadernos-de-la.html", 
+            "resource_date": "2013-12-15T08:15:54.695-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:11:53.270105"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "11", 
+    "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=223671", 
+    "volume": "11", 
+    "year": "1011", 
+    "zotero_id": null
+}

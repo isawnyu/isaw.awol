@@ -1,0 +1,56 @@
+{
+    "description": "A Systematic Bibliography on Deir el-Med\u00eena Index of referencesto papyri, ostraca and graffiti as quoted in the notes (ref. to page number and note number) in J. \u010cern\u00fd: A Community of Workmen at Thebes in the Ramesside Period.", 
+    "domain": "www.wepwawet.nl", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Deir el-Medina Database", 
+        "url": "http://www.wepwawet.nl/dmd/"
+    }, 
+    "keywords": [
+        "graffiti", 
+        "collaboration", 
+        "bibliography", 
+        "Thebes"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999999636
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1075889442157857139", 
+            "resource_date": "2012-07-03T06:24:56.553-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:11:25.799694"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/deir-el-medina-database_2.html", 
+            "resource_date": "2012-07-03T06:24:56.553-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:11:25.799711"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "A Systematic Bibliography on Deir el-Med\u00eena", 
+    "url": "http://www.wepwawet.nl/dmd/bibliography.htm", 
+    "volume": "-", 
+    "year": null, 
+    "zotero_id": null
+}

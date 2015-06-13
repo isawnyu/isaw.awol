@@ -1,0 +1,60 @@
+{
+    "description": "Excavations at Tell Brak in AMAR. One of a series of AWOL pages seeking to pull together publication series digitized and served through AMAR: Archive of Mesopotamian Archaeological Site Reports.", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Syria", 
+        "Tell Brak", 
+        "archaeology", 
+        "Amar"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6014684559764687998", 
+            "resource_date": "2012-03-02T16:38:35.594-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:53.977293"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tell-brak-in-amar.html", 
+            "resource_date": "2012-03-02T16:38:35.594-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:53.977310"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=56230&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=56230&REC=1", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=40913&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=40913&REC=2", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=55574&REC=3", 
+        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=55574&REC=3"
+    ], 
+    "title": "Excavations at Tell Brak in AMAR", 
+    "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

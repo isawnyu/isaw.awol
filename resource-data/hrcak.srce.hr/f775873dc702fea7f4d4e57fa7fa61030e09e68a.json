@@ -1,0 +1,49 @@
+{
+    "description": null, 
+    "domain": "hrcak.srce.hr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "1846-4807", 
+        "title": "Archaeologica Adriatica", 
+        "url": "http://hrcak.srce.hr/adriatica"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7627707549368271983", 
+            "resource_date": "2012-11-04T17:33:20.666-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:58.828710"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/11/open-access-journal-archaeologica.html", 
+            "resource_date": "2012-11-04T17:33:20.666-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:58.828719"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "", 
+    "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=5888", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

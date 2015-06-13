@@ -1,0 +1,48 @@
+{
+    "description": "About \u00bb About \u00bb.", 
+    "domain": "www.eagle-network.eu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Europeana EAGLE Project: Digital Bridge to the Ancient World", 
+        "url": "http://www.eagle-network.eu/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5880321215635392704", 
+            "resource_date": "2013-09-11T07:37:47.864-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:48.589091"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/europeana-eagle-project-digital-bridge.html", 
+            "resource_date": "2013-09-11T07:37:47.864-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:48.589107"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "About \u00bb", 
+    "url": "http://www.eagle-network.eu/about/who-we-are/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,55 @@
+{
+    "description": "Atlas arch\u00e9ologique de la Tunisie. Babelon, Ernest. Atlas arch\u00e9ologique de la Tunisie: \u00e9dition sp\u00e9ciale des cartes topographiques publi\u00e9es par le Minist\u00e8re de la Guerre. accompagn\u00e9e d'un texte explicatif r\u00e9dig\u00e9 par Mm. E. Babelon, R. Cagnat, S. Reinach. [Texte] /. Paris 1893.", 
+    "domain": "arachne.uni-koeln.de", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "atlas", 
+        "maps", 
+        "archaeology", 
+        "Tunisia"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6155543080251842735", 
+            "resource_date": "2012-07-16T11:33:23.512-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:57.116126"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/online-atlas-archeologique-de-la-tunisie.html", 
+            "resource_date": "2012-07-16T11:33:23.512-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:57.116143"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://arachne.uni-koeln.de/drupal/"
+    ], 
+    "title": "Online Atlas arch\u00e9ologique de la Tunisie", 
+    "url": "http://arachne.uni-koeln.de/books/Babelon1893Text", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

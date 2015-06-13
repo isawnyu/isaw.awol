@@ -1,0 +1,62 @@
+{
+    "description": "DAI Arachne Content. Publications.", 
+    "domain": "arachne.uni-koeln.de", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "dissertations", 
+        "Arachne", 
+        "DAI"
+    ], 
+    "language": [
+        "en", 
+        0.9996536577468115
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9158211463162104013", 
+            "resource_date": "2012-03-19T06:39:54.262-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:38.547503"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/publications-dissertations-online-at.html", 
+            "resource_date": "2012-03-19T06:39:54.262-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:38.547521"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://arachne.uni-koeln.de/drupal/?q=en/node/220", 
+        "http://arachne.uni-koeln.de/drupal/?q=en/node/222", 
+        "http://arachne.uni-koeln.de/drupal/?q=en/node/223", 
+        "http://arachne.uni-koeln.de/drupal/?q=en/node/206", 
+        "http://arachne.uni-koeln.de/drupal/?q=en/node/196", 
+        "http://arachne.uni-koeln.de/drupal/?q=en/node/224", 
+        "http://arachne.uni-koeln.de/drupal/?q=en/node/212", 
+        "http://arachne.uni-koeln.de/drupal/?q=en/node/224", 
+        "http://arachne.uni-koeln.de/drupal/?q=en/node/121"
+    ], 
+    "title": "Publications / Dissertations Online at Arachne", 
+    "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/174", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

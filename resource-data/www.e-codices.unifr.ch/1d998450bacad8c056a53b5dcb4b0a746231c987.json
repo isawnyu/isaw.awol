@@ -1,0 +1,51 @@
+{
+    "description": "Issue 1, 05/24/2011 Issue 1.", 
+    "domain": "www.e-codices.unifr.ch", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "E-Codices Newsletter", 
+        "url": "http://www.e-codices.unifr.ch/en/news/newsletter"
+    }, 
+    "keywords": [
+        "journal", 
+        "journal issues"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-159520879299723537", 
+            "resource_date": "2012-11-06T09:36:13.079-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:04.197096"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-e-codices-newsletter.html", 
+            "resource_date": "2012-11-06T09:36:13.079-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:04.197113"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Issue 1, 05/24/2011", 
+    "url": "http://www.e-codices.unifr.ch/newsletter/archive/issue-01.htm", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,48 @@
+{
+    "description": "BIFAO en ligne.", 
+    "domain": "www.ifao.egnet.net", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Institut fran\u00e7ais d\u2019arch\u00e9ologie orientale: Rapports d\u2019activit\u00e9s annuels", 
+        "url": "http://www.ifao.egnet.net/ifao/recherche/rapports-activites/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7735076758975827661", 
+            "resource_date": "2013-03-29T09:00:11.570-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:02.797227"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/institut-francais-darcheologie.html", 
+            "resource_date": "2013-03-29T09:00:11.570-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:02.797241"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "BIFAO en ligne", 
+    "url": "http://www.ifao.egnet.net/bifao/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,53 @@
+{
+    "description": "The Mycenaean Documents.", 
+    "domain": "www2.hf.uio.no", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "D\u0100MOS: Database of Mycenaean at Oslo", 
+        "url": "https://www2.hf.uio.no/damos"
+    }, 
+    "keywords": [
+        "Mycenean"
+    ], 
+    "language": [
+        "en", 
+        0.9999999787472909
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-54826988465731610", 
+            "resource_date": "2013-02-15T06:19:18.309-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:42.131908"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/coming-soon-damos-database-of-mycenaean.html", 
+            "resource_date": "2013-02-15T06:19:18.309-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:42.131923"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Mycenaean Documents", 
+    "url": "https://www2.hf.uio.no/damos/index/about/page/content", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

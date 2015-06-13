@@ -1,0 +1,50 @@
+{
+    "description": "Department Newsletter May 1965. Department Newsletter December 1964.", 
+    "domain": "classics.unc.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Tabulae", 
+        "url": "http://classics.unc.edu/news-and-events/tabulae/"
+    }, 
+    "keywords": [
+        "newsletter"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2492201637411980341", 
+            "resource_date": "2013-03-03T07:48:06.131-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:31.398270"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/open-access-newsletter-tabulae.html", 
+            "resource_date": "2013-03-03T07:48:06.131-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:31.398284"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Department Newsletter May 1965", 
+    "url": "http://classics.unc.edu/media/newsletter_65_1.pdf", 
+    "volume": "1965", 
+    "year": null, 
+    "zotero_id": null
+}

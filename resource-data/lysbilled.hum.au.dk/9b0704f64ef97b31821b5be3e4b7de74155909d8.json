@@ -1,0 +1,55 @@
+{
+    "description": "A short history of the coins of the Black Sea region.", 
+    "domain": "lysbilled.hum.au.dk", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Black Sea Coins in Danish Collections", 
+        "url": "http://lysbilled.hum.au.dk/total/sngcop/introduction.htm"
+    }, 
+    "keywords": [
+        "Black Sea", 
+        "numismatics", 
+        "history"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6419117744065750265", 
+            "resource_date": "2012-08-04T08:35:45.135-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:05.438145"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/08/black-sea-coins-in-danish-collections.html", 
+            "resource_date": "2012-08-04T08:35:45.135-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:05.438160"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "A short history of the coins of the Black Sea region", 
+    "url": "http://lysbilled.hum.au.dk/total/sngcop/historycoins.htm", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

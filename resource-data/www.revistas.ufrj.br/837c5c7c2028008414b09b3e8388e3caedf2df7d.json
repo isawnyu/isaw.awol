@@ -1,0 +1,49 @@
+{
+    "description": "Resumo PDF.", 
+    "domain": "www.revistas.ufrj.br", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "2176-1779", 
+        "title": "CODEX \u2013 Revista de Estudos Cl\u00e1ssicos", 
+        "url": "https://www.revistas.ufrj.br/index.php/CODEX/index"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1621623466637026731", 
+            "resource_date": "2013-02-21T10:51:23.141-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:04.632383"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-codex-revista-de.html", 
+            "resource_date": "2013-02-21T10:51:23.141-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:04.632398"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Resumo", 
+    "url": "https://www.revistas.ufrj.br/index.php/CODEX/article/view/44", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

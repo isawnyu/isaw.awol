@@ -1,0 +1,50 @@
+{
+    "description": "Symposium 1 (1998) Symposium 2 (1999).", 
+    "domain": "www.aakkl.helsinki.fi", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Melammu Online", 
+        "url": "http://www.aakkl.helsinki.fi/melammu/home/home.php"
+    }, 
+    "keywords": [
+        "conference"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4293573431644448301", 
+            "resource_date": "2012-12-12T11:27:20.176-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:18.217800"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/09/melammu-online.html", 
+            "resource_date": "2012-12-12T11:27:20.176-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:18.217812"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Symposium 1 (1998)", 
+    "url": "http://www.aakkl.helsinki.fi/melammu/symposia/sypr1info.php", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

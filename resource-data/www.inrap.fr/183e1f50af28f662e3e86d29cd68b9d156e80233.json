@@ -1,0 +1,49 @@
+{
+    "description": "HS03-34 | 2012.", 
+    "domain": "www.inrap.fr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "1622-8545", 
+        "title": "Arch\u00e9opages", 
+        "url": "http://www.inrap.fr/archeologie-preventive/La-Recherche/Archeopages/La-revue/p-9131-A-propos.htm"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2221337306484005741", 
+            "resource_date": "2013-09-02T09:26:25.842-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:23.075428"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-archeopages.html", 
+            "resource_date": "2013-09-02T09:26:25.842-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:23.075441"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "HS03-34 | 2012", 
+    "url": "http://www.inrap.fr/archeologie-preventive/La-Recherche/Archeopages/Les-numeros/HS03-34-2012/p-14361-Numeros-de-l-annee-2012.htm", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,53 @@
+{
+    "description": "Listen\u00a0to:\u00a0Latin Catullus. Cicero. Horace. Juvenal. Martial. Ovid. Seneca. Statius. Terence. Vergil(1). Vergil(2).", 
+    "domain": "www.rhapsodes.fll.vt.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Society for the Oral Reading of Greek and Latin Literature (SORGLL)", 
+        "url": "http://www.rhapsodes.fll.vt.edu/index.php"
+    }, 
+    "keywords": [
+        "Latin"
+    ], 
+    "language": [
+        "la", 
+        0.9986692420168388
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3764148972744006494", 
+            "resource_date": "2012-12-06T09:29:55.965-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:05.124686"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/society-for-oral-reading-of-greek-and.html", 
+            "resource_date": "2012-12-06T09:29:55.965-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:05.124700"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Listen\u00a0to:\u00a0Latin", 
+    "url": "http://www.rhapsodes.fll.vt.edu/Latin.htm", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

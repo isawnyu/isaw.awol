@@ -1,0 +1,56 @@
+{
+    "description": "The Getty Thesaurus of Geographic Names (TGN)\u00ae London or Londinium? TGN is a structured vocabulary, including names, descriptions, and other information for places important to art and architecture.", 
+    "domain": "www.getty.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Getty Vocabularies - Linked Open Data", 
+        "url": "http://www.getty.edu/research/tools/vocabularies/"
+    }, 
+    "keywords": [
+        "Getty", 
+        "art", 
+        "thesaurus", 
+        "geography"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1683886241928062236", 
+            "resource_date": "2013-05-28T10:21:52.699-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:06.114482"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/getty-vocabularies.html", 
+            "resource_date": "2013-05-28T10:21:52.699-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:06.114502"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Getty Thesaurus of Geographic Names (TGN)\u00ae", 
+    "url": "http://www.getty.edu/research/tools/vocabularies/tgn/index.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

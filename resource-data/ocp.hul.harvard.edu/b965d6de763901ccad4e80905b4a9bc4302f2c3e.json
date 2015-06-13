@@ -1,0 +1,53 @@
+{
+    "description": "Open Collections Program, the Harvard University Library is presenting new, virtual collections of thematically linked material selected from numerous Harvard repositories. For the study of the ancient world, the Expeditions and Discoveries: Sponsored Exploration and Scientific Discovery in the Modern Age.", 
+    "domain": "ocp.hul.harvard.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Harvard University Library Open Collections Program", 
+        "url": "http://ocp.hul.harvard.edu/ihp/"
+    }, 
+    "keywords": [
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2729339903375560632", 
+            "resource_date": "2009-12-21T13:39:09.405-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:35.316721"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/06/harvard-university-library-open.html", 
+            "resource_date": "2009-12-21T13:39:09.405-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:35.316739"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Open Collections Program", 
+    "url": "http://ocp.hul.harvard.edu/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

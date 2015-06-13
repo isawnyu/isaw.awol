@@ -1,0 +1,50 @@
+{
+    "description": "ARET (Archivi Reali di Ebla -Testi) 5 and 11 have been recently added to the EbDA (Ebla Digital Archives) online database. More volumes will be added in the near future.", 
+    "domain": "virgo.unive.it", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Ebla"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2863068184956758882", 
+            "resource_date": "2011-10-06T09:32:37.103-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:37.898053"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/ebla-digital-archives-update.html", 
+            "resource_date": "2011-10-06T09:32:37.103-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:37.898070"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ebla Digital Archives Update", 
+    "url": "http://virgo.unive.it/eblaonline/cgi-bin/catalogo_tabwindow.cgi", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

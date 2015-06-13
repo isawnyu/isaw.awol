@@ -1,0 +1,53 @@
+{
+    "description": "Italian intro [Z] Italian intro.", 
+    "domain": "www.aristarchus.unige.it", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Catalogus Philologorum Classicorum (CPhCl)", 
+        "url": "http://www.aristarchus.unige.it/cphcl/index.php"
+    }, 
+    "keywords": [
+        "Italian"
+    ], 
+    "language": [
+        "it", 
+        0.9981769058461457
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8353330024906193903", 
+            "resource_date": "2013-05-26T09:04:44.650-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:17.905735"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/01/catalogus-philologorum-classicorum.html", 
+            "resource_date": "2013-05-26T09:04:44.650-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:17.905758"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Italian intro [Z]", 
+    "url": "http://www.aristarchus.unige.it/cphcl/index_italiano.php", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

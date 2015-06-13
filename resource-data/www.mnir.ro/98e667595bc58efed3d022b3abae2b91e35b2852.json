@@ -1,0 +1,69 @@
+{
+    "description": "Muzeul Na\u0163ional de Istorie a Rom-niei.", 
+    "domain": "www.mnir.ro", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "ro", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5482142605382820860", 
+            "resource_date": "2011-08-23T09:05:35.674-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:42.027046"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-muzeul-national.html", 
+            "resource_date": "2011-08-23T09:05:35.674-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:42.027063"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=36", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=35", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=13", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=12", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=11", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=10", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=9", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=8", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=7", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=6", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=5", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=4", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=3", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=2", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=1", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=40", 
+        "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=39"
+    ], 
+    "title": "Muzeul Na\u0163ional", 
+    "url": "http://www.mnir.ro/ro/Publicatii/ItemsPeriodice.aspx?IDPeriodic=1", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

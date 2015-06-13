@@ -1,0 +1,69 @@
+{
+    "description": "Griechische Wissenschaft in arabischer Sprache. Ein griechisch-arabisches Fachw\u00f6rterbuch der internationalenWissensgesellschaft im klassischen Islam. The project \u201cGlossarium Graeco-Arabicum\u201d was launched in 1980 at the Seminar f\u00fcr Orientalistik und Islamwissenschaft (Ruhr-Universit\u00e4t Bochum, Germany). First supported by the Deutsche Forschungsgemeinschaft (German Research Foundation) for several years, it forms since 2010 a part of the ERC Project Ideas \u201cGreek into Arabic. Philosophical Concepts and Linguistic Bridges\u201d (Advanced Grant 249431). The object of the project \u201cGlossarium Graeco-Arabicum\u201d is to make available the lexical, grammatical and conceptual content of the Arabic translations of Greek scientific and philosophical works, made from the eighth to the tenth century A. D. , and forming the basis of the scientific activity in Mediaeval Islam. A group organized by Gerhard Endress (Bochum) and working in cooperation with Dimitri Gutas (Yale University, New Haven, Conn. ) compiled the lexical materials first on index cards (ca. 80,000), and then started to prepare the Greek and Arabic Lexicon, presenting the lexical data in a rationalized and systematic way. This is published in print by E. J. Brill since 1992. The online Database \u201cGlossarium Gr\u00e6co-Arabicum\u201d makes available the files which have not yet been published in the analytical reference dictionary GALex, and comprises Arabic roots from the letter \u01e7\u012bm to the end of the Arabic alphabet. The database provides search facilities for Greek words, Arabic words and roots, as well as the authors and titles of the source texts. Studia graeco-arabica 3 / 2013 G2A: a Web application to study, annotate and scholarly edit ancient texts and their aligned translations. Part I. General model of the computational philology application. This paper presents the general model of a Web application for computational philology and describes the modules implemented by ILC-CNR in Pisa for the ERC project Ideas \u201cGreek into Arabic. Philosophical Concepts and Linguistic Bridges\u201d ADG 249431 (acronym: Greek into Arabic). The main principles on which the model is based are modularity, flexibility and development of the software according to open source criteria. These elements make it possible to include additional components in the modular structure, as well as components essential to the Greek into Arabic project (modularity), thus allowing the application to extend its functions to many other philological fields, from classical and medieval philology to genetic criticism and philology of ancient printed texts (flexibility). Dissemination of this application, especially in the research and academic fields, is guaranteed by the fact that its development is performed using internationally acknowledged systems of standard mark-up language and tools with no copyright restrictions (open source). In Part II a preliminary version of the user manual of G2A Web application is provided.", 
+    "domain": "www.greekintoarabic.eu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Studia graeco-arabica", 
+        "url": "http://www.greekintoarabic.eu/index.php?id=20"
+    }, 
+    "keywords": [
+        "website", 
+        "philology", 
+        "language", 
+        "database", 
+        "manual", 
+        "dictionaries", 
+        "antiquity", 
+        "project", 
+        "Greek", 
+        "materials", 
+        "tools", 
+        "religion", 
+        "Arabic", 
+        "classics", 
+        "data", 
+        "Middle Ages", 
+        "Islam"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-819832869923324809", 
+            "resource_date": "2014-01-15T09:56:25.440-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:13.650403"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/new-open-access-journal-studia-graeco.html", 
+            "resource_date": "2014-01-15T09:56:25.440-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:13.650420"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Griechische Wissenschaft in arabischer Sprache. Ein griechisch-arabisches Fachw\u00f6rterbuch der internationalenWissensgesellschaft im klassischen Islam", 
+    "url": "http://www.greekintoarabic.eu/uploads/media/BOCHUM_SGA_3-2013.pdf", 
+    "volume": "-", 
+    "year": null, 
+    "zotero_id": null
+}

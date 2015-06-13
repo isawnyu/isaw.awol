@@ -1,0 +1,52 @@
+{
+    "description": "7 \u2022 2001 \u2022 Fasc. 1-2.", 
+    "domain": "www.bibliotheca-classica.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "0949-2615", 
+        "title": "Hyperboreus", 
+        "url": "http://www.bibliotheca-classica.org/en/node/128"
+    }, 
+    "keywords": [], 
+    "language": [
+        "he", 
+        0.9999947467474319
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7198479783959539539", 
+            "resource_date": "2012-06-03T17:32:20.150-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:46.415325"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-hyperboreus.html", 
+            "resource_date": "2012-06-03T17:32:20.150-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:46.415338"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "7 \u2022 2001 \u2022 Fasc. 1-2", 
+    "url": "http://www.bibliotheca-classica.org/en/node/1069", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

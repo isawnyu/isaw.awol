@@ -1,0 +1,48 @@
+{
+    "description": "*. html (Web); *. doc (Word);.", 
+    "domain": "www.ibr-bbr.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Institute for Biblical Research Studies Online", 
+        "url": "http://www.ibr-bbr.org/IBR_Studies.aspx"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7219924888731258765", 
+            "resource_date": "2011-05-17T16:23:30.780-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:47.113651"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/institute-for-biblical-research-studies.html", 
+            "resource_date": "2011-05-17T16:23:30.780-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:47.113667"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "*.html (Web)", 
+    "url": "http://www.ibr-bbr.org/IBRStudies/IBRStudies_JesusBaptism_Webb.aspx", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

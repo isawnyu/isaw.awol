@@ -1,0 +1,79 @@
+{
+    "description": "Corpus der minoischen und mykenischen Siegel. Digitalisierung des Corpus der minoischen und mykenischen Siegel. Das Projekt wird in Kooperation mit der Forschungsstelle CMS der Akademie der Wissenschaften und der Literatur Mainz unter wissenschaftlicher Betreuung der Kommission f\u00fcr Arch\u00e4ologie der Mainzer Akademie durchgef\u00fchrt. Das 1958 begr\u00fcndete und bisher ausschlie\u00dflich in gedruckter Form ver\u00f6ffentlichte Corpus der minoischen und mykenischen Siegel (CMS), das die wissenschaftliche Edition s\u00e4mtlicher aus der \u00e4g\u00e4ischen Bronzezeit \u00fcberlieferter Siegel und antiken Abdr\u00fccke in Ton zum Ziel hat, soll bis zum Abschluss des Vorhabens Ende 2011 in seinen wesentlichen Teilen digitalisiert, aktualisiert und kostenfrei im Internet zur Verf\u00fcgung gestellt werden. Die CMS-Datenbank liefert den digitalisierten Index des 30-b\u00e4ndigen Werkes und dient der Siegelforschung als Instrument zur umfassenden Erschlie\u00dfung des mit vereinheitlichten Begriffen erfassten Fundmaterials. Im Sinne der Nachhaltigkeit, Migration und Vervollst\u00e4ndigung soll das Corpus in ein modernes und international gut sichtbares Informationsnetzwerk zur Klassischen Arch\u00e4ologie (Arachne) integriert werden, um die Verstetigung der Arbeitsm\u00f6glichkeiten mit dem Material zu sichern, etwa durch die Hinzuf\u00fcgung neuer Funde und die Er\u00f6ffnung neuer Forschungsperspektiven. Die von Walter M\u00fcller geleitete CMS-Datenbank befindet sich noch in einer Testphase, da die erforderlichen Korrekturen und Nachtr\u00e4ge erst bis zum Abschluss des Vorhabens Ende 2011 abgeschlossen sein werden. Im gleichen, noch verbleibenden Zeitraum werden die digitalisierten Abbildungen von Ingo Pini in ehrenamtlicher T\u00e4tigkeit \u00fcberarbeitet und Abdr\u00fccke in gro\u00dfer Zahl photographisch neu aufgenommen. Au\u00dferdem werden von vielen Siegeln Neuzeichnungen angefertigt. Das Projekt wird mit finanzieller Unterst\u00fctzung des Institute of Aegean Prehistory, Philadelphia und der Deutschen Forschungsgemeinschaft durchgef\u00fchrt.", 
+    "domain": "www.arachne.uni-koeln.de", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "seals", 
+        "Aegean", 
+        "Greece"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-362646770863762530", 
+            "resource_date": "2013-02-26T05:47:41.557-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:01.575330"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/online-corpus-der-minoischen-und.html", 
+            "resource_date": "2013-02-26T05:47:41.557-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:01.575358"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.arachne.uni-koeln.de/browser/index.php?view%5Blayout%5D=siegel", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=I&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=IS&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=II,1&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=II,2&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=II,3&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=II,4&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=II,5&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=II,6&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=II,7&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=II,8&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=III&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=IV&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=V&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=VS1A&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=VS1B&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=VS2&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=VS3&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=VI&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=VII&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=VIII&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=IX&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=X&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=XI&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=XII&objektsiegel[match]=exact", 
+        "http://www.arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=XIII&objektsiegel[match]=exact"
+    ], 
+    "title": "Online Corpus der minoischen und mykenischen Siegel", 
+    "url": "http://www.arachne.uni-koeln.de/drupal/?q=de/node/117", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

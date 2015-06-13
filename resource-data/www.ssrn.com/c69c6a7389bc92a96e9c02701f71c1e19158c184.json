@@ -1,0 +1,55 @@
+{
+    "description": "Epigraphy eJournal Papyrology eJournal.", 
+    "domain": "www.ssrn.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "SSRN Classics Research Network", 
+        "url": "http://www.ssrn.com/link/CRN.html"
+    }, 
+    "keywords": [
+        "epigraphy", 
+        "papyrology", 
+        "journal"
+    ], 
+    "language": [
+        "en", 
+        0.9877432305686907
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7759055811247613910", 
+            "resource_date": "2013-01-19T19:07:42.641-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:03.658079"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/ssrn-classics-research-network.html", 
+            "resource_date": "2013-01-19T19:07:42.641-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:03.658092"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Epigraphy eJournal", 
+    "url": "http://www.ssrn.com/update/crn/crn_epigraphy.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

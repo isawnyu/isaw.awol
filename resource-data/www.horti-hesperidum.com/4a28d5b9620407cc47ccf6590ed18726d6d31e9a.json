@@ -1,0 +1,51 @@
+{
+    "description": "McGowan, C. Occhipinti.", 
+    "domain": "www.horti-hesperidum.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Horti Hesperidum. Studi di storia del collezionismo e della storiografia", 
+        "url": "http://www.horti-hesperidum.com/index.php"
+    }, 
+    "keywords": [], 
+    "language": [
+        "pl", 
+        0.9998020219708942
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9041055240873877561", 
+            "resource_date": "2013-01-04T17:09:01.242-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:35.889151"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-journal-horti-hesperidum.html", 
+            "resource_date": "2013-01-04T17:09:01.242-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:35.889165"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "M.M. McGowan", 
+    "url": "http://www.horti-hesperidum.com/showrivista.php?item=95", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

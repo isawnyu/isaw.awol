@@ -1,0 +1,48 @@
+{
+    "description": "Case Study.", 
+    "domain": "oxalid.arch.ox.ac.uk", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Oxford Archaeological Lead Isotope Database Online", 
+        "url": "http://oxalid.arch.ox.ac.uk/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3709247592139397430", 
+            "resource_date": "2013-02-19T09:03:22.060-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:03.827456"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/oxford-archaeological-lead-isotope.html", 
+            "resource_date": "2013-02-19T09:03:22.060-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:03.827472"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Case Study", 
+    "url": "http://oxalid.arch.ox.ac.uk/casestudy/casestudy.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

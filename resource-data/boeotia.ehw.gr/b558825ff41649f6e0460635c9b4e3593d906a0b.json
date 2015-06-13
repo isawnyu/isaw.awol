@@ -1,0 +1,60 @@
+{
+    "description": "Boeotia Digital Cultural Encyclopedia. <blockquote class=\"tr_bq\">. <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"lemmaTable contentBox\"><tbody><tr><td class=\"thematikos_katalogos\"><span id=\"ctl00_baseContent_LemmaCatalogsTopLevel2_lblCatalogs\">Browse the catalogues</span></td> </tr><tr> <td align=\"left\" bgcolor=\"#e6e6e6\" class=\"empty IMEhidden\" colspan=\"3\"></td> </tr><tr> <td align=\"left\" bgcolor=\"#ffffff\" class=\"empty IMEhidden\" colspan=\"3\"></td> </tr><tr> </tr><tr> <td class=\"lemmaCatalogsTopLevel\" colspan=\"3\"> <table bgcolor=\"#FFFFFF\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"> <tbody><tr> <th align=\"left\" class=\"bck_side_menu\" colspan=\"2\" scope=\"col\"> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"ctl00_baseContent_LemmaCatalogsTopLevel2_blist_datalist\"> <tbody><tr> <td><table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"LemmaCatalogsTop\"><tbody><tr> <td align=\"left\" class=\"thematikos_katalogos_bullet\"></td> <td align=\"left\"><div class=\"thematikos_katalogos\"><a class=\"thematikos_katalogos_aref\" href=\"http://boeotia. ehw. gr/forms/fStaticCatalog. aspx?id=0&amp;tcId=604&amp;Mode=Lemmata&amp;paramid=604&amp;lastNode=t604\" id=\"ctl00_baseContent_LemmaCatalogsTopLevel2_blist_datalist_ctl00_ctl00_hlink\" target=\"_self\"><span id=\"ctl00_baseContent_LemmaCatalogsTopLevel2_blist_datalist_ctl00_ctl00_Label1\">Geographical Terms</span></a></div></td></tr></tbody></table></td><td><table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"LemmaCatalogsTop\"><tbody><tr> <td align=\"left\" class=\"thematikos_katalogos_bullet\"></td> <td align=\"left\"><div class=\"thematikos_katalogos\"><a class=\"thematikos_katalogos_aref\" href=\"http://boeotia. ehw. gr/forms/fStaticCatalog. aspx?id=0&amp;tcId=607&amp;Mode=Lemmata&amp;paramid=607&amp;lastNode=t607\" id=\"ctl00_baseContent_LemmaCatalogsTopLevel2_blist_datalist_ctl01_ctl00_hlink\" target=\"_self\"><span id=\"ctl00_baseContent_LemmaCatalogsTopLevel2_blist_datalist_ctl01_ctl00_Label1\">Persons</span></a></div></td></tr></tbody></table></td><td><table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"LemmaCatalogsTop\"><tbody><tr> <td align=\"left\" class=\"thematikos_katalogos_bullet\"></td> <td align=\"left\"><div class=\"thematikos_katalogos\"><a class=\"thematikos_katalogos_aref\" href=\"http://boeotia. ehw. gr/forms/fStaticCatalog. aspx?id=0&amp;tcId=608&amp;Mode=Lemmata&amp;paramid=608&amp;lastNode=t608\" id=\"ctl00_baseContent_LemmaCatalogsTopLevel2_blist_datalist_ctl02_ctl00_hlink\" target=\"_self\"><span id=\"ctl00_baseContent_LemmaCatalogsTopLevel2_blist_datalist_ctl02_ctl00_Label1\">History</span></a></div></td></tr></tbody></table></td> </tr><tr> <td><table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"LemmaCatalogsTop\"><tbody><tr> <td align=\"left\" class=\"thematikos_katalogos_bullet\"></td> <td align=\"left\"><div class=\"thematikos_katalogos\"><a class=\"thematikos_katalogos_aref\" href=\"http://boeotia. ehw. gr/forms/fStaticCatalog. aspx?id=0&amp;tcId=610&amp;Mode=Lemmata&amp;paramid=610&amp;lastNode=t610\" id=\"ctl00_baseContent_LemmaCatalogsTopLevel2_blist_datalist_ctl03_ctl00_hlink\" target=\"_self\"><span id=\"ctl00_baseContent_LemmaCatalogsTopLevel2_blist_datalist_ctl03_ctl00_Label1\">General</span></a></div></td></tr></tbody></table></td></tr></tbody></table></th></tr></tbody></table></td></tr></tbody></table></blockquote> Browse the catalogues Geographical Terms Persons History General.", 
+    "domain": "boeotia.ehw.gr", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "culture", 
+        "history", 
+        "encyclopedia", 
+        "archaeology", 
+        "Greece"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999999891
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8525396140694884624", 
+            "resource_date": "2013-01-18T17:19:52.714-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:22.295676"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/boeotia-digital-cultural-encyclopedia.html", 
+            "resource_date": "2013-01-18T17:19:52.714-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:22.295693"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://boeotia.ehw.gr/forms/fmain.aspx", 
+        "http://boeotia.ehw.gr/forms/fStaticCatalog.aspx?id=0&tcId=604&Mode=Lemmata&paramid=604&lastNode=t604", 
+        "http://boeotia.ehw.gr/forms/fStaticCatalog.aspx?id=0&tcId=607&Mode=Lemmata&paramid=607&lastNode=t607", 
+        "http://boeotia.ehw.gr/forms/fStaticCatalog.aspx?id=0&tcId=608&Mode=Lemmata&paramid=608&lastNode=t608", 
+        "http://boeotia.ehw.gr/forms/fStaticCatalog.aspx?id=0&tcId=610&Mode=Lemmata&paramid=610&lastNode=t610"
+    ], 
+    "title": "Boeotia Digital Cultural Encyclopedia", 
+    "url": "http://boeotia.ehw.gr/forms/fmain.aspx", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

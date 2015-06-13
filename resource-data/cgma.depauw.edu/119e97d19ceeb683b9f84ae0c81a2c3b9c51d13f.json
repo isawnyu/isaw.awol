@@ -1,0 +1,54 @@
+{
+    "description": "downloads an automatically updating. kmz file that, when opened in Google\u2122 Earth 5. 0 or later, allows users to browse and interact with all survey projects in the MAGIS database for which spatial (coordinate) data are available. More info.", 
+    "domain": "cgma.depauw.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "MAGIS: Mediterranean Archaeology GIS", 
+        "url": "http://cgma.depauw.edu/MAGIS/"
+    }, 
+    "keywords": [
+        "data", 
+        "database"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2272513373955288711", 
+            "resource_date": "2012-07-18T15:02:54.944-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:26.578534"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/magis-mediterranean-archaeology-gis.html", 
+            "resource_date": "2012-07-18T15:02:54.944-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:26.578548"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "", 
+    "url": "http://cgma.depauw.edu/MAGIS/MAGIS_GE_RT/CGMA_MAGIS.kmz", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

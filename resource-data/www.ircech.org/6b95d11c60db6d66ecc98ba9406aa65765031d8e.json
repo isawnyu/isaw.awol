@@ -1,0 +1,54 @@
+{
+    "description": "numero IV, 2012 (call for papers). numero III, 2011.", 
+    "domain": "www.ircech.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "2036-4539", 
+        "title": "Archeomafie", 
+        "url": "http://www.ircech.org/web/news.asp?id=21"
+    }, 
+    "keywords": [
+        "call for papers"
+    ], 
+    "language": [
+        "en", 
+        0.9990188121434969
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5596006554291982643", 
+            "resource_date": "2011-09-08T06:32:37.206-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:43.564660"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/09/open-access-journal-archeomafie.html", 
+            "resource_date": "2011-09-08T06:32:37.206-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:43.564675"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "numero IV, 2012 (call for papers)", 
+    "url": "http://www.ircech.org/public/ARCHEOMAFIE.CALL%20FOR%20PAPER.2011.pdf", 
+    "volume": "2012", 
+    "year": null, 
+    "zotero_id": null
+}

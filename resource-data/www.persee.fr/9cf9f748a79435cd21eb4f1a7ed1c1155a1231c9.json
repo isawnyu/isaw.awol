@@ -1,0 +1,49 @@
+{
+    "description": "[ 139 ] [ 140 ].", 
+    "domain": "www.persee.fr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "0042-7306", 
+        "title": "Vita Latina", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/vita"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3837362477205971824", 
+            "resource_date": "2013-09-03T11:41:36.607-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:07.030927"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/newly-online-journal-vita-latina.html", 
+            "resource_date": "2013-09-03T11:41:36.607-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:07.030940"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "139", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1995_num_139_1", 
+    "volume": "139", 
+    "year": "1995", 
+    "zotero_id": null
+}

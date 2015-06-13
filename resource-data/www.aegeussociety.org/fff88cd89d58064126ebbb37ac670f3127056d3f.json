@@ -1,0 +1,57 @@
+{
+    "description": "Aegeus Image Database. The aim of the suggested project is to create a collection of digital images originating from publications/studies of archaeological material on the prehistoric Aegean. The images come from archaeological books (which are not subject to copyright) of great importance and value, which have been published in previous centuries. Most of them are works of well-known Greek and foreign archaeologists of the late 19th and early 20th centuries such as Heinrich Schliemann (excavator of Troy, Mycenae, and Tiryns), Christos Tsountas (excavator of the most important prehistoric sites in the Cyclades), and Sir Arthur Evans (excavator of Knossos). The digital documentation of this iconographic material will contribute to the preservation and dissemination of a very important chapter in the history of\u00a0 the research of the prehistoric Aegean. The old age of these publications/studies renders the images rare and prohibits their repeated reproduction (digital or otherwise) by individuals or institutions. Moreover, the earlier depictions of important Greek prehistoric monuments have their own epistemological, historical, and aesthetic value beyond their given archaeological significance. The digitised photographic material will therefore have multiple recipients, ranging from strictly academic circles and museologists, to teachers and students, to artists, as well as the general public. Free access to this collection will help to promote Greek culture through our prehistoric heritage.", 
+    "domain": "www.aegeussociety.org", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "imagery", 
+        "database", 
+        "Greece", 
+        "Crete", 
+        "data", 
+        "archaeology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5686270910017440413", 
+            "resource_date": "2013-05-24T14:55:38.456-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:45.483842"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/aegeus-image-database.html", 
+            "resource_date": "2013-05-24T14:55:38.456-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:45.483858"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.aegeussociety.org/en/index.php/image-database/#"
+    ], 
+    "title": "Aegeus Image Database", 
+    "url": "http://www.aegeussociety.org/en/index.php/image-database/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

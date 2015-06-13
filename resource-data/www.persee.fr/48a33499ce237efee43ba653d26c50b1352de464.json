@@ -1,0 +1,48 @@
+{
+    "description": "[ 22-2 ] 1954: [ 23-1 ] [ 23-2 ].", 
+    "domain": "www.persee.fr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "L'Antiquit\u00e9 Classique", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/antiq"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7945682581620223967", 
+            "resource_date": "2013-12-29T07:35:34.289-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:07.926381"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html", 
+            "resource_date": "2013-12-29T07:35:34.289-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:07.926395"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "22-2", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/antiq_0770-2817_1953_num_22_2", 
+    "volume": "22-2", 
+    "year": "1953", 
+    "zotero_id": null
+}

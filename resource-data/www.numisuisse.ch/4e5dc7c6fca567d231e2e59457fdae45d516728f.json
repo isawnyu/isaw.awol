@@ -1,0 +1,55 @@
+{
+    "description": "Schweizerische Numismatische Rundschau. Suche in den Zeitschriften der SNG In Zusammenarbeit mit der Schweizerischen Akademie der Geistes- und Sozialwissenschaften (SAGW) und der ETH-Bibliothek Z\u00fcrich wurden im Rahmen des Projekts retro. seals. ch die j\u00e4hrlich erscheinende und die viertelj\u00e4hrlich erscheinenden, d. h. alle Zeitschriften der SNG digitalisiert und stehen nun \u00fcber das Internet dem Fachpublikum und der interessierten \u00d6ffentlichkeit frei zur Verf\u00fcgung. Das untenstehende Formular erlaubt es, Inhalte quer durch alle Zeitschriften der SNG seit 1891 zu suchen (mit Ausnahme der letzten 4 Jahre, welche einer Sperrfrist unterliegen). Geben Sie in einem oder mehreren der nachfolgenden Felder ihre(n) Suchbegriff(e) ein und klicken Sie auf den Button \u00absuchen\u00bb. Die Suchergebnisse k\u00f6nnen sowohl online gelesen, als auch in Form eines PDF-Dokuments gespeichert werden. Hinweise zur Suche: Gross- u. Kleinschreibung, Umlaute und Akzente m\u00fcssen nicht beachtet werden. Ein Stern (*) steht f\u00fcr eine beliebige Zeichenkette, ein Fragezeichen (?) f\u00fcr ein beliebiges Zeichen. Es k\u00f6nnen die Booleschen Operatoren AND, OR und NOT verwendet werden.", 
+    "domain": "www.numisuisse.ch", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Switzerland", 
+        "journal", 
+        "open access", 
+        "numismatics"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3869742863427649302", 
+            "resource_date": "2012-05-15T10:13:12.479-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:08.878537"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-schweizerische.html", 
+            "resource_date": "2012-05-15T10:13:12.479-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:08.878557"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.numisuisse.ch/1597/77812.html"
+    ], 
+    "title": "Schweizerische Numismatische Rundschau", 
+    "url": "http://www.numisuisse.ch/33001/32422.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

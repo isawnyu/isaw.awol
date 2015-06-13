@@ -1,0 +1,51 @@
+{
+    "description": "Vg 202-259. Pl. 161-195. Inneh\u00e5ll.", 
+    "domain": "www.raa.se", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Swedish Runes Online", 
+        "url": "http://www.raa.se/kulturarvet/arkeologi-fornlamningar-och-fynd/runstenar/digitala-sveriges-runinskrifter/digitala-sveriges-runinskrifter-publicerat/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "sv", 
+        0.9892392691626588
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5827760289633940107", 
+            "resource_date": "2013-09-25T21:58:05.231-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:47.791866"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/swedish-runes-online.html", 
+            "resource_date": "2013-09-25T21:58:05.231-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:47.791879"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Vg 202-259", 
+    "url": "http://www.raa.se/runinskrifter/sri_vastergotland_b05_h05_plansch.pdf", 
+    "volume": "202-259", 
+    "year": null, 
+    "zotero_id": null
+}

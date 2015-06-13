@@ -1,0 +1,51 @@
+{
+    "description": "Praefationem composuit Terentius TUNBERG.", 
+    "domain": "mcl.as.uky.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Retiarius: Archivum Recentioris Latinitatis", 
+        "url": "http://mcl.as.uky.edu/retiarius-archivum-recentioris-latinitatis"
+    }, 
+    "keywords": [], 
+    "language": [
+        "la", 
+        0.9999999839867373
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4060120825464308819", 
+            "resource_date": "2013-08-31T10:14:42.072-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:11.779602"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/open-access-journal-retiarius-archivum.html", 
+            "resource_date": "2013-08-31T10:14:42.072-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:11.779616"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Praefationem composuit Terentius TUNBERG", 
+    "url": "http://mcl.as.uky.edu/praefationem-composuit-terentius-tunberg", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

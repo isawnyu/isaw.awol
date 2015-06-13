@@ -1,0 +1,57 @@
+{
+    "description": "The Database of Neo-Sumerian Texts (BDTNS) website has been renewed. (http://bdtns. filol. csic. es). Some of the most relevant modifications. are: - The look of the website has changed, and some bugs have been fixed. - 3708 new texts have been added to the catalogue, 653 of them in. transliteration. - Thousands of transliterations have been revised. - 150,000 bibliographical references have been checked. The kind of. edition is now specified, indicating whether it provides handcopy (H), transliteration (T), translation (Ts), or pictures (P) of the text. - A list of abbreviations has been added to the bibliography section. - Transliterations, revision of transliterations, handcopies and. photos are always credited. - A tool for sending suggestions or corrections has been added. Texts from most recent publications (CUSAS 6, Fs. Hrushka) will be. added very soon. All this work has been made with the collaboration of Palmiro Notizia. and Jonatan Ortiz Salas (programmer). Manuel Molina. Centro de Ciencias Humanas y Sociales. CSIC. C/ Albasanz 26-28. 28037 Madrid.", 
+    "domain": "bdtns.filol.csic.es", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "News from the Database of Neo-Sumerian Texts (BDTNS)", 
+        "url": "http://bdtns.filol.csic.es/principal.php?nuevos=SI"
+    }, 
+    "keywords": [
+        "website", 
+        "data", 
+        "collaboration", 
+        "bibliography", 
+        "database"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8332887475906802033", 
+            "resource_date": "2012-03-31T07:40:20.807-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:17.661112"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/news-from-database-of-neo-sumerian.html", 
+            "resource_date": "2012-03-31T07:40:20.807-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:17.661126"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Database of Neo-Sumerian Texts (BDTNS)", 
+    "url": "http://bdtns.filol.csic.es/", 
+    "volume": "-", 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,48 @@
+{
+    "description": "10 - 2007.", 
+    "domain": "www.kerkenes.metu.edu.tr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Kerkenes News", 
+        "url": "http://www.kerkenes.metu.edu.tr/kerk2/02knews/index.html"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5960145269143643574", 
+            "resource_date": "2013-10-29T11:32:12.309-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:52.841852"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-journal-kerkenes-news.html", 
+            "resource_date": "2013-10-29T11:32:12.309-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:52.841864"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "10 - 2007", 
+    "url": "http://www.kerkenes.metu.edu.tr/kerk1/12propub/kerknews/2007/index.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,70 @@
+{
+    "description": "Announcements. March 14, 2011: Thanks to a grant from the Google Digital Humanities program, Perseus is pleased to publish a TEI XML digital edition of Arrian and to complete the TEI XML digital edition of Lucian, initially published in December. Support for the Cybereditions project from the Mellon Foundation and Tufts University has allowed us to add as well TEI XML digital editions for Florus, Persius, Statius, Apuleius, Columella, Martial, Tibullus and the Scriptores Historiae Augustae. January 24, 2011: Thanks to a grant from the Google Digital Humanities program, the Perseus Digital Library is pleased to publish TEI XML digital editions for the Greek Poets Aratus Solensis, Colluthus, Nonnus of Panopolis, Callimachus, Lycophron, Oppian, Oppian of Apamea, Quintus Smyrnaeus and Tryphiodorus.", 
+    "domain": "www.perseus.tufts.edu", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Perseus"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7213634520576235426", 
+            "resource_date": "2011-03-30T18:50:36.921-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:46.983632"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/news-from-perseus.html", 
+            "resource_date": "2011-03-30T18:50:36.921-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:46.983649"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0530", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0511", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0496", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0497", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0498", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0501", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0504", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0506", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0507", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0508:work=1", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0483", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0495", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0485", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0481", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0484", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0488", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0489", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0490", 
+        "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0491"
+    ], 
+    "title": "News from Perseus", 
+    "url": "http://www.perseus.tufts.edu/hopper/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

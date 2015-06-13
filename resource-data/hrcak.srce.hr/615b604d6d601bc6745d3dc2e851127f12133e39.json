@@ -1,0 +1,49 @@
+{
+    "description": null, 
+    "domain": "hrcak.srce.hr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "0582-673X", 
+        "title": "Senjski zbornik", 
+        "url": "http://hrcak.srce.hr/senjski-zbornik"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1601512946178717830", 
+            "resource_date": "2011-10-10T14:10:50.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:04.278135"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-senjski-zbornik.html", 
+            "resource_date": "2011-10-10T14:10:50.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:04.278144"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "", 
+    "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3553", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

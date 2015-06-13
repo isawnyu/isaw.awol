@@ -1,0 +1,51 @@
+{
+    "description": "News / Actualit\u00e9.", 
+    "domain": "refema.hypotheses.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "REFEMA: R\u00f4le \u00c9conomique des Femmes en M\u00e9sopotamie Ancienne", 
+        "url": "http://refema.hypotheses.org/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "fr", 
+        0.9999979384813832
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3702288104723906558", 
+            "resource_date": "2013-05-23T15:17:28.276-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:03.609625"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/refema-role-economique-des-femmes-en.html", 
+            "resource_date": "2013-05-23T15:17:28.276-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:03.609638"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "News / Actualit\u00e9", 
+    "url": "http://refema.hypotheses.org/category/actualites-news", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

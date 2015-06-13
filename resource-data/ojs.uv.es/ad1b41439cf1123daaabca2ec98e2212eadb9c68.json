@@ -1,0 +1,56 @@
+{
+    "description": "es una revista que publica un volumen anual dedicado, principalmente, a la prehistoria y arqueolog\u00eda de la Pen\u00ednsula Ib\u00e9rica y del \u00e1mbito mediterr\u00e1neo, as\u00ed como al patrimonio arqueol\u00f3gico.", 
+    "domain": "ojs.uv.es", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "2174-517X", 
+        "title": "SAGVNTVM. Papeles del Laboratorio de Arqueolog\u00eda de Valencia", 
+        "url": "http://ojs.uv.es/index.php/saguntum/index"
+    }, 
+    "keywords": [
+        "journal", 
+        "prehistory", 
+        "archeaology"
+    ], 
+    "language": [
+        "es", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6540777071243966139", 
+            "resource_date": "2014-01-20T18:05:41.573-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:08.117894"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-sagvntvm-papeles_10.html", 
+            "resource_date": "2014-01-20T18:05:41.573-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:08.117907"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://ojs.uv.es/index.php/saguntum/index", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

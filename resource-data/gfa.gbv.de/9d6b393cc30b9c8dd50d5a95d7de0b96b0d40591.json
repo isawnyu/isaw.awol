@@ -1,0 +1,52 @@
+{
+    "description": "Band 8 (2005). Band 7 (2004).", 
+    "domain": "gfa.gbv.de", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "1437-9074", 
+        "title": "G\u00f6ttinger Forum f\u00fcr Altertumswissenschaft", 
+        "url": "http://gfa.gbv.de/z/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.999988348306808
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2692002173105284817", 
+            "resource_date": "2013-12-22T08:41:03.446-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:34.862721"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-gottinger-forum-fur.html", 
+            "resource_date": "2013-12-22T08:41:03.446-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:34.862737"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Band 8 (2005)", 
+    "url": "http://gfa.gbv.de/z/gfa/2005", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

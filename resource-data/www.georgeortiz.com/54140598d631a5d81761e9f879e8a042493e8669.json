@@ -1,0 +1,51 @@
+{
+    "description": "In Pursuit of the Absolute. (an introduction to the George Ortiz Collection).", 
+    "domain": "www.georgeortiz.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "The George Ortiz Collection", 
+        "url": "http://www.georgeortiz.com/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5205005337605823363", 
+            "resource_date": "2013-03-16T08:43:11.633-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:35.602920"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/the-george-ortiz-collection.html", 
+            "resource_date": "2013-03-16T08:43:11.633-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:35.602933"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "In Pursuit of the Absolute", 
+    "url": "http://www.georgeortiz.com/INTRODUCTION/index.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

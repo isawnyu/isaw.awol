@@ -1,0 +1,51 @@
+{
+    "description": "Fragmentary Texts.", 
+    "domain": "wiki.digitalclassicist.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "The Digital Classicist Wiki Current List of Projects", 
+        "url": "http://wiki.digitalclassicist.org/Category:Projects"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.9998181502286051
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4578727885057327556", 
+            "resource_date": "2013-02-15T16:23:03.929-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:22.737993"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/09/digital-classicist-wiki-current-list-of.html", 
+            "resource_date": "2013-02-15T16:23:03.929-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:22.738006"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Fragmentary Texts", 
+    "url": "http://wiki.digitalclassicist.org/Fragmentary_Texts", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

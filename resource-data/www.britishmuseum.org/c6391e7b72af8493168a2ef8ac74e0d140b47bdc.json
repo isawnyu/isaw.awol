@@ -1,0 +1,56 @@
+{
+    "description": "More about the project and the latest annual reports.", 
+    "domain": "www.britishmuseum.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Online Kom Firin Publication from the BM", 
+        "url": "http://www.britishmuseum.org/research/research_publications/online_research_publications/kom_firin_i.aspx"
+    }, 
+    "keywords": [
+        "project", 
+        "report", 
+        "annual report", 
+        "reports"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6926413792462484770", 
+            "resource_date": "2010-05-30T09:31:39.056-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:40.596633"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/05/online-kom-firin-publicarion-from-bm.html", 
+            "resource_date": "2010-05-30T09:31:39.056-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:40.596646"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "More about the project and the latest annual reports", 
+    "url": "http://www.britishmuseum.org/research/research_projects/kom_firin,_egypt.aspx", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

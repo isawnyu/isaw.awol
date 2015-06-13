@@ -1,0 +1,48 @@
+{
+    "description": "Download PDF 140.", 
+    "domain": "www.asi.nic.in", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Indian Archaeology - A Review", 
+        "url": "http://www.asi.nic.in/asi_publ_indian_archaeology.asp"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6294106998767216540", 
+            "resource_date": "2012-03-14T10:48:35.160-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:02.215553"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journals-indian-archaeology.html", 
+            "resource_date": "2012-03-14T10:48:35.160-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:02.215565"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Download PDF", 
+    "url": "http://www.asi.nic.in/nmma_reviews/Indian%20Archaeology%201984-85%20A%20Review.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

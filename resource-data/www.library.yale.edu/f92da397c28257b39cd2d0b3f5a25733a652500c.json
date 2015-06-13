@@ -1,0 +1,51 @@
+{
+    "description": "advisory board /. member universities and libraries.", 
+    "domain": "www.library.yale.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "OACIS for the Middle East", 
+        "url": "http://www.library.yale.edu/oacis/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.9999999898555579
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6791844732397238324", 
+            "resource_date": "2012-07-23T09:49:53.173-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:38.527321"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/oacis-for-middle-east.html", 
+            "resource_date": "2012-07-23T09:49:53.173-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:38.527334"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "advisory board", 
+    "url": "http://www.library.yale.edu/oacis/oacis_partners.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

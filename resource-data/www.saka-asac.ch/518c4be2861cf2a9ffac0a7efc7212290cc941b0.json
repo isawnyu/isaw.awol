@@ -1,0 +1,50 @@
+{
+    "description": "Bulletin 2004 (522 KB). Bulletin 2005.", 
+    "domain": "www.saka-asac.ch", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Bulletins de l'ASAC", 
+        "url": "http://www.saka-asac.ch/index.php?option=com_content&view=article&id=7%3Abulletins-de-lasac&catid=5%3Adocuments-en-ligne&Itemid=17&lang=fr"
+    }, 
+    "keywords": [
+        "journal"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1097108453064606719", 
+            "resource_date": "2013-03-24T22:09:10.339-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:11:26.256496"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/open-access-journal-bulletins-de-lasac.html", 
+            "resource_date": "2013-03-24T22:09:10.339-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:11:26.256510"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bulletin 2004", 
+    "url": "http://www.saka-asac.ch/pdf/Bulletin2004.pdf", 
+    "volume": "2004", 
+    "year": null, 
+    "zotero_id": null
+}

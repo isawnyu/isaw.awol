@@ -1,0 +1,62 @@
+{
+    "description": "The Cretan Hieroglyphic Texts: a web edition of the texts based on CHIC with commentary. a list of updates since 8 July 2010 (both those in CHIC and additions) The Knossos documents The Malia administrative documents (for non-administrative documents, see Miscellaneous documents) The Petras documents Miscellaneous documents Texts on Sealstones and in Impressions The Hieroglyphic Grids List of All the Hieroglyphic Signs (under construction) Notes on the Signs Notes on Certain Signgroups Lexicon Transaction Terms (under construction).", 
+    "domain": "people.ku.edu", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-226648577457085803", 
+            "resource_date": "2011-12-23T08:39:47.082-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:26.467886"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/cretan-hieroglyphic-texts-online.html", 
+            "resource_date": "2011-12-23T08:39:47.082-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:26.467902"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://people.ku.edu/%7Ejyounger/Hiero/updates.html", 
+        "http://people.ku.edu/%7Ejyounger/Hiero/KNtexts.html", 
+        "http://people.ku.edu/%7Ejyounger/Hiero/MAtexts.html", 
+        "http://people.ku.edu/%7Ejyounger/Hiero/PEtexts.html", 
+        "http://people.ku.edu/%7Ejyounger/Hiero/misctexts.html", 
+        "http://people.ku.edu/%7Ejyounger/Hiero/SealsImps.html", 
+        "http://people.ku.edu/%7Ejyounger/Hiero/Hgrids.html", 
+        "http://people.ku.edu/%7Ejyounger/Hiero/SignNotes.html", 
+        "http://people.ku.edu/%7Ejyounger/Hiero/SigngroupsNotes.html", 
+        "http://people.ku.edu/%7Ejyounger/Hiero/Lexicon.html", 
+        "http://people.ku.edu/%7Ejyounger/Hiero/Lexicon.html", 
+        "http://people.ku.edu/%7Ejyounger/LinearA/fonts/Hiero_NewFonts_MacOSX/MALLIAM__.TTF.hqx", 
+        "http://people.ku.edu/%7Ejyounger/LinearA/fonts/Hiero_NewFonts_MacOSX/MALLSG__.TTF.hqx"
+    ], 
+    "title": "Cretan Hieroglyphic Texts Online", 
+    "url": "http://people.ku.edu/%7Ejyounger/Hiero/index.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

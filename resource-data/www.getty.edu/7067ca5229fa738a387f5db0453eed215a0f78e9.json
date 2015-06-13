@@ -1,0 +1,55 @@
+{
+    "description": "Getty Vocabularies as LOD: A project plan is under development for publishing the four Getty vocabularies as LOD successively, beginning with the AAT. It is anticipated that the data will be published as SKOSextended format under the ODC-BY 1. 0 license. The current plan is to also continue providing the data as relational tables and XML. More details, along with information about the time line and status of this project, will be posted on the Vocabulary Program site. Current status: In 2011 we worked with Marcia Zeng to develop a mapping of AAT to SKOS extended In late 2012 we began the \u2018Getty Vocabularies as Linked Data\u2019 project We identified our namespace as http://vocab. getty. edu We worked with attorney to identify what type of CC license we are intending to use We worked with an outside consultant to explore turning the mapping into published linked data We are currently working on a prototype for AAT.", 
+    "domain": "www.getty.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Getty Vocabularies - Linked Open Data", 
+        "url": "http://www.getty.edu/research/tools/vocabularies/"
+    }, 
+    "keywords": [
+        "project", 
+        "Getty", 
+        "data"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1683886241928062236", 
+            "resource_date": "2013-05-28T10:21:52.699-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:06.128458"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/getty-vocabularies.html", 
+            "resource_date": "2013-05-28T10:21:52.699-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:06.128473"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Getty Vocabularies as LOD", 
+    "url": "http://www.getty.edu/research/tools/vocabularies/recent_editorial_work.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,54 @@
+{
+    "description": "100. Other open access journals from the Institut fran\u00e7ais d'arch\u00e9ologie orientale.", 
+    "domain": "www.ifao.egnet.net", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "BIFAO Update", 
+        "url": "http://www.ifao.egnet.net/bifao/"
+    }, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "language": [
+        "fr", 
+        0.9999999999998628
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7434132402691421194", 
+            "resource_date": "2010-07-05T08:24:20.703-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:54.116457"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/bifao-update.html", 
+            "resource_date": "2010-07-05T08:24:20.703-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:54.116469"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "100", 
+    "url": "http://www.ifao.egnet.net/bifao/100/", 
+    "volume": "100", 
+    "year": null, 
+    "zotero_id": null
+}

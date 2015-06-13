@@ -1,0 +1,50 @@
+{
+    "description": "Exhibition.", 
+    "domain": "www.orientlab.net", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Kinku. Seals of the Bronze Age from the Region of Gaziantep in Turkey", 
+        "url": "http://www.orientlab.net/kinku/en/"
+    }, 
+    "keywords": [
+        "exhibition"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6253188514259978195", 
+            "resource_date": "2014-01-08T09:34:29.775-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:00.791696"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/catalogue-online-kinku-seals-of-bronze.html", 
+            "resource_date": "2014-01-08T09:34:29.775-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:00.791708"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Exhibition", 
+    "url": "http://www.orientlab.net/kinku/en/static/underconstruct", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

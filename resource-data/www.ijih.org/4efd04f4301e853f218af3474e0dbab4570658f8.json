@@ -1,0 +1,48 @@
+{
+    "description": "Volume 2.", 
+    "domain": "www.ijih.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "International Journal of Intangible Heritage", 
+        "url": "http://www.ijih.org/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5346594164233713512", 
+            "resource_date": "2012-12-27T11:38:31.798-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:39.210067"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-international.html", 
+            "resource_date": "2012-12-27T11:38:31.798-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:39.210081"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Volume 2", 
+    "url": "http://www.ijih.org/volumeMgr.ijih?cmd=volumeView&volNo=2&manuType=02", 
+    "volume": "2", 
+    "year": null, 
+    "zotero_id": null
+}

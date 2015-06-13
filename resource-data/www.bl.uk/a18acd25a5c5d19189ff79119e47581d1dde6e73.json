@@ -1,0 +1,53 @@
+{
+    "description": "\u2022\u00a0\u00a0 look for information about a particular manuscript if you know its collection name and manuscript number; \u2022\u00a0\u00a0 look for information about a particular manuscript.", 
+    "domain": "www.bl.uk", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "British Library Online Catalogue of Illuminated Manuscripts", 
+        "url": "http://www.bl.uk/catalogues/illuminatedmanuscripts/welcome.htm"
+    }, 
+    "keywords": [
+        "manuscripts"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999722076
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3754035512166847077", 
+            "resource_date": "2012-11-22T10:38:46.866-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:04.755269"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/british-library-online-catalogue-of.html", 
+            "resource_date": "2012-11-22T10:38:46.866-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:04.755282"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "\u2022\u00a0\u00a0 look for information about a particular manuscript if you know its collection name and manuscript number", 
+    "url": "http://www.bl.uk/catalogues/illuminatedmanuscripts/searchMSNo.asp", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

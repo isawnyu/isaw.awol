@@ -1,0 +1,53 @@
+{
+    "description": "Digizeitschften. Other ancient content in this aggregation is here.", 
+    "domain": "www.digizeitschriften.de", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "More G\u00f6ttinger Miszellen online", 
+        "url": "http://www.digizeitschriften.de/resolveppn/PPN522563589"
+    }, 
+    "keywords": [
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        0.9999284442853053
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2929468895793699126", 
+            "resource_date": "2013-09-30T10:52:12.868-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:39.694655"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/05/more-gottinger-miszellen-online.html", 
+            "resource_date": "2013-09-30T10:52:12.868-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:39.694669"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Digizeitschften", 
+    "url": "http://www.digizeitschriften.de/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

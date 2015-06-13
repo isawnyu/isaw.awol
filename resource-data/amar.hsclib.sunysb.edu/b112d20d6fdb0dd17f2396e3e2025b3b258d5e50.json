@@ -1,0 +1,51 @@
+{
+    "description": "Viewing complete books in. AMAR: Archive of Mesopotamian Archaeological Site Reports. The default view of digitized books in AMAR is page view. However, by choosing the Complete Print Version from the View drop-down screen located in the upper left hand corner of the individual item screen, a complete print version is generated in PDF format. See the AWOL entry Open Access Digital Library: AMAR: Archive of Mesopotamian Archaeological Site Reports See the AWOL list of Series in AMAR.", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "book", 
+        "Amar"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3469875165025212226", 
+            "resource_date": "2013-03-28T10:53:49.922-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:59.173569"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/viewing-complete-books-in-amar.html", 
+            "resource_date": "2013-03-28T10:53:49.922-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:59.173586"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Viewing complete books in AMAR", 
+    "url": "http://amar.hsclib.sunysb.edu/amar/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

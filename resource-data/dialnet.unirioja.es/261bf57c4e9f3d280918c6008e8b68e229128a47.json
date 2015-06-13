@@ -1,0 +1,61 @@
+{
+    "description": "Bolet\u00edn del Seminario de Estudios de Arte y Arqueolog\u00eda: BSAA). ISSN: 1888-976X.", 
+    "domain": "dialnet.unirioja.es", 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "1888-976X"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "issn": "1888-976X", 
+        "title": "BSAA Arqueolog\u00eda", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=15437"
+    }, 
+    "keywords": [
+        "art", 
+        "archeaology"
+    ], 
+    "language": [
+        "es", 
+        0.9999999999998572
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7680663990464356791", 
+            "resource_date": "2012-02-16T05:56:50.152-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:00.977123"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-bsaa-arqueologia.html", 
+            "resource_date": "2012-02-16T05:56:50.152-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:00.977138"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bolet\u00edn del Seminario de Estudios de Arte y Arqueolog\u00eda", 
+    "url": "http://dialnet.unirioja.es/servlet/revista?codigo=226", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

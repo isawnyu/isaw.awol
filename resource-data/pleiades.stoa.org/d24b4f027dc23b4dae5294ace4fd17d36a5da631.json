@@ -1,0 +1,53 @@
+{
+    "description": "http://pleiades. stoa. org/news/aggregator/RSS. Home Places Downloads Updates Docs Blog.", 
+    "domain": "pleiades.stoa.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Keeping up with Pleiades", 
+        "url": "http://pleiades.stoa.org/news/blog"
+    }, 
+    "keywords": [
+        "geography"
+    ], 
+    "language": [
+        "pt", 
+        0.9951492045321989
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6155643359293318287", 
+            "resource_date": "2011-12-07T15:04:30.306-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:57.131319"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/keeping-up-with-pleiades.html", 
+            "resource_date": "2011-12-07T15:04:30.306-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:57.131334"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "http://pleiades.stoa.org/news/aggregator/RSS", 
+    "url": "http://pleiades.stoa.org/news/blog/RSS", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

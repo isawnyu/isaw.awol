@@ -1,0 +1,51 @@
+{
+    "description": "Written Documents. Everlasting Inscribed.", 
+    "domain": "arabiafelix.humnet.unipi.it", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Arabia Felix", 
+        "url": "http://arabiafelix.humnet.unipi.it/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "de", 
+        0.9909047706803282
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-197296608351865230", 
+            "resource_date": "2014-01-07T11:26:42.103-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:15.344994"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/arabia-felix.html", 
+            "resource_date": "2014-01-07T11:26:42.103-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:15.345007"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Written Documents", 
+    "url": "http://arabiafelix.humnet.unipi.it/written_documents.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

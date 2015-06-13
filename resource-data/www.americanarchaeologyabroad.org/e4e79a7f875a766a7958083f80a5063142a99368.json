@@ -1,0 +1,48 @@
+{
+    "description": "Support.", 
+    "domain": "www.americanarchaeologyabroad.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "American Archaeology Abroad", 
+        "url": "http://www.americanarchaeologyabroad.org/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-422036066950618567", 
+            "resource_date": "2011-07-16T20:15:34.284-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:15.950788"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/american-archaeology-abroad.html", 
+            "resource_date": "2011-07-16T20:15:34.284-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:15.950801"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Support", 
+    "url": "http://www.americanarchaeologyabroad.org/support", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

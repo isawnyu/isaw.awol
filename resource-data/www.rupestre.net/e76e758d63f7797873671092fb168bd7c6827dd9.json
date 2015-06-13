@@ -1,0 +1,51 @@
+{
+    "description": "TRACCE Online Rock Art Bulletin 28 \u2013 Jan 2013.", 
+    "domain": "www.rupestre.net", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "TRACCE Rock Art Bulletin", 
+        "url": "http://www.rupestre.net/tracce/"
+    }, 
+    "keywords": [
+        "journal", 
+        "art"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7754208946224585958", 
+            "resource_date": "2013-10-01T16:21:51.165-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:03.285958"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-tracce-rock-art.html", 
+            "resource_date": "2013-10-01T16:21:51.165-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:03.285974"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://www.rupestre.net/tracce/?p=6910", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

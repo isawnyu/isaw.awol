@@ -1,0 +1,55 @@
+{
+    "description": "Classical Literature and Language | Classical Philosophy.", 
+    "domain": "publishing.cdlib.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "UC Press E-Books Collection", 
+        "url": "http://publishing.cdlib.org/ucpressebooks/"
+    }, 
+    "keywords": [
+        "classics", 
+        "literature", 
+        "language"
+    ], 
+    "language": [
+        "en", 
+        0.9999999819673265
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5258126033649490963", 
+            "resource_date": "2013-08-12T10:10:56.657-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:37.540156"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/uc-press-e-books-collection.html", 
+            "resource_date": "2013-08-12T10:10:56.657-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:37.540169"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Classical Literature and Language", 
+    "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classical%20Literature%20and%20Language;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

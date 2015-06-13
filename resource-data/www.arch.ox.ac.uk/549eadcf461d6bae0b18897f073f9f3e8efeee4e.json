@@ -1,0 +1,51 @@
+{
+    "description": "Sources for hillfort information. Meet the team.", 
+    "domain": "www.arch.ox.ac.uk", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "An Atlas of Hillforts in Britain and Ireland", 
+        "url": "http://www.arch.ox.ac.uk/hillforts-atlas.html"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.9999999999598619
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6846212524936386858", 
+            "resource_date": "2013-07-09T10:05:23.409-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:39.879678"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/an-atlas-of-hillforts-in-britain-and.html", 
+            "resource_date": "2013-07-09T10:05:23.409-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:39.879691"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Sources for hillfort information", 
+    "url": "http://www.arch.ox.ac.uk/hillforts-atlas-information.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

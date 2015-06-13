@@ -1,0 +1,48 @@
+{
+    "description": "Megalim.", 
+    "domain": "www.megalim.org.il", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "The Megalim Institute", 
+        "url": "http://www.megalim.org.il/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2715628219943994969", 
+            "resource_date": "2011-11-04T06:18:48.590-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:35.131980"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/11/megalim-institute.html", 
+            "resource_date": "2011-11-04T06:18:48.590-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:35.131995"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Megalim", 
+    "url": "http://www.megalim.org.il/en/article.aspx?CID=8016", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

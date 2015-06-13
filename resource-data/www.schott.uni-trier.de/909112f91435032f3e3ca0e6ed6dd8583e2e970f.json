@@ -1,0 +1,51 @@
+{
+    "description": "Suche \u2190. \u00dcbersicht.", 
+    "domain": "www.schott.uni-trier.de", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Das Digitale Schott-Archiv (DSA)", 
+        "url": "http://www.schott.uni-trier.de/index.php"
+    }, 
+    "keywords": [], 
+    "language": [
+        "de", 
+        0.9997080762310491
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4377900343070843182", 
+            "resource_date": "2010-06-09T15:32:41.273-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:19.741049"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/06/das-digitale-schott-archiv-dsa.html", 
+            "resource_date": "2010-06-09T15:32:41.273-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:19.741063"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Suche", 
+    "url": "http://www.schott.uni-trier.de/schott.php?ac=s", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

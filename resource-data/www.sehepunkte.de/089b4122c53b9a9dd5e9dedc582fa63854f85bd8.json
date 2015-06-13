@@ -1,0 +1,48 @@
+{
+    "description": "Nr. 6 / Nr. 7/8.", 
+    "domain": "www.sehepunkte.de", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "sehepunkte", 
+        "url": "http://www.sehepunkte.de/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7395765776646613360", 
+            "resource_date": "2013-01-11T09:24:51.380-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:51.962364"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-sehepunkte.html", 
+            "resource_date": "2013-01-11T09:24:51.380-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:51.962376"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Nr. 6", 
+    "url": "http://www.sehepunkte.de/2005/06/", 
+    "volume": "6", 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,64 @@
+{
+    "description": "Severan Provincial Coinage: Author: Julie Langford This database anticipates Volume V of the ongoing series Roman Provincial Coinage. It contains records of coins minted from twelve cities in Asia Minor from the reigns of Septimius Severus, Caracalla, Macrinus, Elagabalus and Severus Alexander. The data was mined from volumes of the Sylloge Nummorum Graecorum found at the American Numismatic Society and the Hunterian Museum in Glasglow, Scotland. A team of five undergraduate researchers at the University of South Florida under the direction of Prof. Julie Langford compiled and keyed in this data. While these entries have been proofed, there are some issues of consistency that are still being ironed out, mostly in terms of Greek inscriptions. Please notify Julie Langford (jlangfor@cas. usf. edu) in case of any errors or omissions. Since this is an ongoing project, we welcome collaboration to expand the cities or the volumes of the SNG consulted. Researchers at the University of South Florida are employing this database in order to explore issues such as the reception of Severan imperial propaganda, the maintenance of civic identity and the competition between cities, especially in terms of Neokoroi.", 
+    "domain": "web3.forest.usf.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Severan Database Project", 
+        "url": "http://web3.forest.usf.edu/main/other/severan/"
+    }, 
+    "keywords": [
+        "empires", 
+        "reception", 
+        "database", 
+        "series", 
+        "collaboration", 
+        "competition", 
+        "museums", 
+        "Greek", 
+        "Roman", 
+        "Asia", 
+        "numismatics", 
+        "data"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6738841839259111335", 
+            "resource_date": "2013-05-21T09:15:10.087-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:37.263857"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/severan-database-project.html", 
+            "resource_date": "2013-05-21T09:15:10.087-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:37.263873"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Severan Provincial Coinage", 
+    "url": "http://web3.forest.usf.edu/main/other/severan/spc/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

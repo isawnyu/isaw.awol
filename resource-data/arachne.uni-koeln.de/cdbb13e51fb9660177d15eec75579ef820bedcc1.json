@@ -1,0 +1,51 @@
+{
+    "description": "C. Robert, Die antiken Sarkophagreliefs. Einzelmythen. Hippolytos bis Meleagros, ASR 3, 2 (Berlin 1904) ASR 3, 3: C. Robert, Die antiken Sarkophagreliefs. Einzelmythen. Niobiden bis Triptolemos. Ungedeutet, ASR 3, 3 (Berlin 1919).", 
+    "domain": "arachne.uni-koeln.de", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Online Corpus of Ancient Sarcophagi", 
+        "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/206"
+    }, 
+    "keywords": [], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7688708016130384576", 
+            "resource_date": "2013-10-13T11:13:52.297-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:01.229519"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/online-corpus-of-ancient-sarcophagi.html", 
+            "resource_date": "2013-10-13T11:13:52.297-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:01.229535"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "C. Robert, Die antiken Sarkophagreliefs. Einzelmythen", 
+    "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=11&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%203,%202", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

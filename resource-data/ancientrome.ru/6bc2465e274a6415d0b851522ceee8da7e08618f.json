@@ -1,0 +1,51 @@
+{
+    "description": "CERAMICS. GLASS.", 
+    "domain": "ancientrome.ru", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Online Database of Ancient Art", 
+        "url": "http://ancientrome.ru/art/artworken/art-search-e.htm"
+    }, 
+    "keywords": [
+        "pottery", 
+        "ceramics"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5249708013475536215", 
+            "resource_date": "2012-07-04T08:53:20.329-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:36.360601"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/online-database-of-ancient-art.html", 
+            "resource_date": "2012-07-04T08:53:20.329-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:36.360613"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "CERAMICS", 
+    "url": "http://ancientrome.ru/art/artworken/index.htm?id=5", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,48 @@
+{
+    "description": "XVIII (2001); XIX (2002);.", 
+    "domain": "www.sarks.fi", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Fennoscandia archaeologica", 
+        "url": "http://www.sarks.fi/fa/fa.html"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5747551226491027861", 
+            "resource_date": "2010-02-17T09:29:31.951-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:46.695690"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-fennoscandia.html", 
+            "resource_date": "2010-02-17T09:29:31.951-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:46.695717"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "XVIII (2001)", 
+    "url": "http://www.sarks.fi/fa/faxviii.html", 
+    "volume": "2001", 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,51 @@
+{
+    "description": "Espa\u00f1ol <blockquote class=\"tr_bq\">03. Gazette 2009, 3 <a href=\"http://www. tulliana. eu/gazzetta/Gazette_III_2009-fra. pdf\"><u>Fran\u00e7ais</u> - </a><a href=\"http://www. tulliana. eu/gazzetta/Gazette_III_2009-eng. pdf\"><u>English</u> - </a><a href=\"http://www. tulliana. eu/gazzetta/Gazette_III_2009-ita. pdf\"><u>Italiano</u> - </a><a href=\"http://www. tulliana. eu/gazzetta/gazette_word_ESP_autunno_2009_def. pdf\"><u>Espa\u00f1ol\u00a0</u></a> </blockquote> Fran\u00e7ais -.", 
+    "domain": "www.tulliana.eu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Acta Tulliana (formerly Gazette Tulliana)", 
+        "url": "http://www.tulliana.eu/contenutoDoc.php?LANG=E&TIPO=DOCUMENTI&id=14"
+    }, 
+    "keywords": [], 
+    "language": [
+        "qu", 
+        0.9999657997154101
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7916212596781113999", 
+            "resource_date": "2012-01-21T10:01:03.078-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:07.596461"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-acta-tulliana.html", 
+            "resource_date": "2012-01-21T10:01:03.078-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:07.596474"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Espa\u00f1ol", 
+    "url": "http://www.tulliana.eu/documenti/gazette_word_esp_estate_2009%5B1%5D.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

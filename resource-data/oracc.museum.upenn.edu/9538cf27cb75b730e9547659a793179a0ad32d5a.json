@@ -1,0 +1,50 @@
+{
+    "description": "Bibliography.", 
+    "domain": "oracc.museum.upenn.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Ancient Mesopotamian Gods and Goddesses", 
+        "url": "http://oracc.museum.upenn.edu/amgg"
+    }, 
+    "keywords": [
+        "bibliography"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-648181989549586347", 
+            "resource_date": "2013-02-25T06:07:02.520-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:06.777506"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/ancient-mesopotamian-gods-and-goddesses.html", 
+            "resource_date": "2013-02-25T06:07:02.520-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:06.777519"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bibliography", 
+    "url": "http://oracc.museum.upenn.edu/amgg/bibliography/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

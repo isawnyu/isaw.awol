@@ -1,0 +1,51 @@
+{
+    "description": "Script example: How many words are unique to each Shakespeare work?.", 
+    "domain": "wordhoard.northwestern.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "WORDHOARD", 
+        "url": "http://wordhoard.northwestern.edu/userman/index.html"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3586527690288082736", 
+            "resource_date": "2010-03-04T15:32:41.567-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:01.126027"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/03/wordhoard.html", 
+            "resource_date": "2010-03-04T15:32:41.567-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:01.126040"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Script example: How many words are unique to each Shakespeare work?", 
+    "url": "http://wordhoard.northwestern.edu/userman/scripting-example.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

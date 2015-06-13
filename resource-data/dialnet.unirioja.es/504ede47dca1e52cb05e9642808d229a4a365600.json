@@ -1,0 +1,49 @@
+{
+    "description": "9.", 
+    "domain": "dialnet.unirioja.es", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "1131-7698", 
+        "title": "Espacio, tiempo y forma. Serie I, Prehistoria y arqueolog\u00eda", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=514"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2854905436073108578", 
+            "resource_date": "2012-06-17T08:18:15.712-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:37.779259"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-espacio-tiempo-y.html", 
+            "resource_date": "2012-06-17T08:18:15.712-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:37.779271"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "9", 
+    "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=514&clave_busqueda=16370", 
+    "volume": "9", 
+    "year": "9", 
+    "zotero_id": null
+}

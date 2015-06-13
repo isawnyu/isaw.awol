@@ -1,0 +1,53 @@
+{
+    "description": "Google Art Project. The Art Project is a collaboration between Google and 151 acclaimed art partners from across 40 countries. Using a combination of various Google technologies and expert information provided by our museum partners, we have created a unique online art experience. Users can explore a wide range of artworks at brushstroke level detail, take a virtual tour of a museum and even build their own collections to share. With a team of Googlers working across many product areas we are able to harness the best of Google to power the Art Project experience. Few people will ever be lucky enough to be able to visit every museum or see every work of art they\u2019re interested in but now many more can enjoy over 30 000 works of art from sculpture to architecture and drawings and explore over 150 collections from 40 countries, all in one place. We\u2019re also lucky at Google to have the technology to make this kind of project a reality.", 
+    "domain": "www.googleartproject.com", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "project", 
+        "art"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7177906525624949844", 
+            "resource_date": "2012-04-05T06:15:40.536-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:46.167279"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/google-art-project.html", 
+            "resource_date": "2012-04-05T06:15:40.536-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:46.167294"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.googleartproject.com/collections/"
+    ], 
+    "title": "Google Art Project", 
+    "url": "http://www.googleartproject.com/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

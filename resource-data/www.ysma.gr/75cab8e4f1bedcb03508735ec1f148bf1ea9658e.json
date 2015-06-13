@@ -1,0 +1,50 @@
+{
+    "description": "NewsLetter 2011.", 
+    "domain": "www.ysma.gr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Acropolis Restoration Service Newsletter", 
+        "url": "http://www.ysma.gr/en/news/newsletter"
+    }, 
+    "keywords": [
+        "newsletter"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6439936768566608344", 
+            "resource_date": "2013-09-20T10:51:11.539-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:06.155787"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-acropolis.html", 
+            "resource_date": "2013-09-20T10:51:11.539-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:06.155798"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://www.ysma.gr/static/files/Newsletter11_ENG.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

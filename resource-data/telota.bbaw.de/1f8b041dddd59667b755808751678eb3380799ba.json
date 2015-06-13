@@ -1,0 +1,63 @@
+{
+    "description": "[First posted in AWOL 5 April 2011. Updated 19 July 2013]. Glossarium Gr\u00e6co-Arabicum: A lexicon of the medi\u00e6val Arabic translations from the Greek. The database Glossarium Gr\u00e6co-Arabicum makes available the files of a lexical project, intended to open up the lexicon of the medi\u00e6val Arabic translations from the Greek. It contains images of the filecards (ca. 80,000) which have not yet been published in the analytical reference dictionary A Greek and Arabic Lexicon (Leiden: Brill, 1992ff. ), and comprises Arabic roots from the letter j\u00eem to the end of the Arabic alphabet. The database provides search facilities for Greek words, Arabic words and roots, as well as the authors and titles of the source texts. From the eighth to the tenth century A. D. , Greek scientific and philosophical works were translated wholesale into Arabic. This activity resulted in the incorporation and reorganization of the classical heritage in the new civilization which, using Arabic, spread with Islam. The object of project Glossarium Graeco-Arabicum is to make readily available to scholars the direct information which the Graeco-Arabic translations contain for several areas of research. These include: \u2013 the vocabulary and syntax of Classical and Middle Arabic; \u2013 the development of a scientific and technical vocabulary in Arabic; \u2013 the vocabulary of Classical and Middle Greek; \u2013 the chronology and nature of the translation movement into Arabic; and. \u2013 the establishment of the texts of Greek works and their Arabic translations.", 
+    "domain": "telota.bbaw.de", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Greek", 
+        "Arabic", 
+        "lexicon", 
+        "dictionaries", 
+        "lexicography"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6939592208943801316", 
+            "resource_date": "2013-07-19T10:21:47.136-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:40.628620"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/database-glossarium-grco-arabicum.html", 
+            "resource_date": "2013-07-19T10:21:47.136-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:40.628637"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://telota.bbaw.de/glossga/sources.php", 
+        "http://telota.bbaw.de/glossga/filecards.php", 
+        "http://telota.bbaw.de/glossga/glossary.php", 
+        "http://telota.bbaw.de/glossga/abbreviations.php", 
+        "http://telota.bbaw.de/glossga/links.php", 
+        "http://telota.bbaw.de/glossga/about.php?view=print&", 
+        "http://telota.bbaw.de/glossga/contact.php", 
+        "http://telota.bbaw.de/glossga/unicode_help.php"
+    ], 
+    "title": "Glossarium Gr\u00e6co-Arabicum: A lexicon of the medi\u00e6val Arabic translations from the Greek", 
+    "url": "http://telota.bbaw.de/glossga/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

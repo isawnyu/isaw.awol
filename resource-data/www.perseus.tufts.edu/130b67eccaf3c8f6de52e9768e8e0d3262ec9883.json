@@ -1,0 +1,51 @@
+{
+    "description": "Oppian of Apamea, Quintus Smyrnaeus.", 
+    "domain": "www.perseus.tufts.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "News from Perseus", 
+        "url": "http://www.perseus.tufts.edu/hopper/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.9999999689948228
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7213634520576235426", 
+            "resource_date": "2011-03-30T18:50:36.921-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:47.028001"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/news-from-perseus.html", 
+            "resource_date": "2011-03-30T18:50:36.921-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:47.028015"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Oppian of Apamea", 
+    "url": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0489", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

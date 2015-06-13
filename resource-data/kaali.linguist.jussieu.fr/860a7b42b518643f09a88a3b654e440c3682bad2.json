@@ -1,0 +1,51 @@
+{
+    "description": "frg. Parisinum de praepositionibus et uerbis GL 7,34,5-35 frg. Parisinum de rhythmo GL 6,631,14-632 frg. Parisinum de rhythmo.", 
+    "domain": "kaali.linguist.jussieu.fr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Corpus Grammaticorum Latinorum", 
+        "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp"
+    }, 
+    "keywords": [], 
+    "language": [
+        "la", 
+        0.9999999999986571
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7837154497674416686", 
+            "resource_date": "2013-05-12T07:58:37.967-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:05.714112"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-grammatici-latini.html", 
+            "resource_date": "2013-05-12T07:58:37.967-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:05.714125"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "frg. Parisinum de praepositionibus et uerbis", 
+    "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA22", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

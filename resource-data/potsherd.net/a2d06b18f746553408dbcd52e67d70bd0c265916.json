@@ -1,0 +1,51 @@
+{
+    "description": "Iberia.", 
+    "domain": "potsherd.net", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "POTSHERD - Atlas of Roman Pottery", 
+        "url": "http://potsherd.net/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "rw", 
+        0.9901158676243603
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3180585578175116770", 
+            "resource_date": "2012-11-27T18:34:33.264-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:50.373160"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/potsherd-atlas-of-roman-pottery.html", 
+            "resource_date": "2012-11-27T18:34:33.264-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:50.373175"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Iberia", 
+    "url": "http://potsherd.net/atlas/Source/HISP", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

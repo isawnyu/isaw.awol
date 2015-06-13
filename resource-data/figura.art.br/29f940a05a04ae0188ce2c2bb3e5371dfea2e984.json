@@ -1,0 +1,52 @@
+{
+    "description": "contatti.", 
+    "domain": "figura.art.br", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "2317-4625", 
+        "title": "Figura. Studi sull\u2019immagine nella tradizione classica", 
+        "url": "http://figura.art.br/revista/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "it", 
+        0.9987581479103111
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5193554238476759770", 
+            "resource_date": "2013-08-08T08:25:49.532-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:35.397680"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/new-open-access-journal-figura-studi.html", 
+            "resource_date": "2013-08-08T08:25:49.532-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:35.397694"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "contatti", 
+    "url": "http://figura.art.br/revista/contato/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

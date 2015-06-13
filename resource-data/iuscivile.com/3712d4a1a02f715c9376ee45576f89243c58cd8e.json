@@ -1,0 +1,53 @@
+{
+    "description": "Bibliographies Blogs and Discussion.", 
+    "domain": "iuscivile.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Roman Law Resources", 
+        "url": "http://iuscivile.com/"
+    }, 
+    "keywords": [
+        "bibliography"
+    ], 
+    "language": [
+        "en", 
+        0.9999939225962778
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4594438270409648163", 
+            "resource_date": "2011-08-12T10:32:11.248-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:23.438919"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/roman-law-resources.html", 
+            "resource_date": "2011-08-12T10:32:11.248-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:23.438937"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bibliographies", 
+    "url": "http://iuscivile.com/materials/biblio/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

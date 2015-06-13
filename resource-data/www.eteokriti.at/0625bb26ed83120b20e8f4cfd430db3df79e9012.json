@@ -1,0 +1,48 @@
+{
+    "description": "2011.", 
+    "domain": "www.eteokriti.at", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "ETEOKPHTIKA", 
+        "url": "http://www.eteokriti.at/publikationen/eteokphtika/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1885083122837207625", 
+            "resource_date": "2013-11-29T11:31:57.685-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:13.718060"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/11/open-access-kournal-eteokphtika.html", 
+            "resource_date": "2013-11-29T11:31:57.685-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:13.718074"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "2011", 
+    "url": "http://www.eteokriti.at/publikationen/t%C3%A4tigkeitsberichte/2011/", 
+    "volume": "2011", 
+    "year": "2011", 
+    "zotero_id": null
+}

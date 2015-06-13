@@ -1,0 +1,51 @@
+{
+    "description": "Archaeology.", 
+    "domain": "www.trypillia.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "2155-871X", 
+        "title": "Trypillian Civilization Journal", 
+        "url": "http://www.trypillia.com/"
+    }, 
+    "keywords": [
+        "archaeology"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8675148868093069195", 
+            "resource_date": "2013-06-29T13:37:43.161-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:26.893731"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/08/new-open-access-journal-trypillian.html", 
+            "resource_date": "2013-06-29T13:37:43.161-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:26.893745"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Archaeology", 
+    "url": "http://www.trypillia.com/index.php?option=com_content&view=category&id=64&Itemid=77", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

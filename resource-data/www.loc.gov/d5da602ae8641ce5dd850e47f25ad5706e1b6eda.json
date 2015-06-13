@@ -1,0 +1,51 @@
+{
+    "description": "Digitizing the Collection.", 
+    "domain": "www.loc.gov", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Matson (G. Eric and Edith) Photograph Collection at the Library of Congress", 
+        "url": "http://www.loc.gov/pictures/collection/matpc/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.9999999999997988
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9114420148621901742", 
+            "resource_date": "2013-02-21T09:43:44.232-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:37.669146"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/matson-g-eric-and-edith-photograph.html", 
+            "resource_date": "2013-02-21T09:43:44.232-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:37.669161"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Digitizing the Collection", 
+    "url": "http://www.loc.gov/pictures/collection/matpc/digitizing.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,51 @@
+{
+    "description": "Der Limes, Nachrichtenblatt der Der Limes, Nachrichtenblatt der.", 
+    "domain": "www.deutsche-limeskommission.de", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Der Limes", 
+        "url": "http://www.deutsche-limeskommission.de/index.php?id=330&L=0"
+    }, 
+    "keywords": [], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4444480192932837958", 
+            "resource_date": "2013-09-06T09:18:54.509-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:20.747412"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-der-limes.html", 
+            "resource_date": "2013-09-06T09:18:54.509-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:20.747425"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Der Limes, Nachrichtenblatt der %IMAGEREPLACED%", 
+    "url": "http://www.deutsche-limeskommission.de/fileadmin/dlk/images/dlk/pdfs/Der_Limes_02_2012.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

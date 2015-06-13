@@ -1,0 +1,65 @@
+{
+    "description": "TOBIAS-lib - Hochschulschriftenserver der Universit\u00e4t T\u00fcbingen. Die Universit\u00e4tsbibliothek bietet allen Angeh\u00f6rigen der Eberhard Karls Universit\u00e4t T\u00fcbingen - Forschenden, Lehrenden und Studierenden - die M\u00f6glichkeit, elektronisch erzeugte, qualifizierte Dokumente \u00fcber ihr Online-Publikations-System kostenlos zu ver\u00f6ffentlichen. Die Texte stehen nach ihrer Ver\u00f6ffentlichung im Sinne von Open Access weltweit frei zug\u00e4nglich im Internet zur Verf\u00fcgung und werden von der Bibliothek dauerhaft archiviert. Die Dokumente werden \u00fcber Bibliothekskataloge und Internetsuchmaschinen erschlossen und zug\u00e4nglich gemacht.", 
+    "domain": "tobias-lib.uni-tuebingen.de", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "dissertations", 
+        "antiquity"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5526740173698139530", 
+            "resource_date": "2013-03-14T16:34:16.122-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:42.680234"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/tubingen-dissertations-on-antiquity.html", 
+            "resource_date": "2013-03-14T16:34:16.122-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:42.680251"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=4278&la=de", 
+        "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=4865&la=de", 
+        "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=4666&la=de", 
+        "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=3718&la=de", 
+        "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=2481&la=de", 
+        "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=1893&la=de", 
+        "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=3662&la=de", 
+        "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=1602&la=de", 
+        "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=5000&la=de", 
+        "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=4509&la=de", 
+        "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=4511&la=de", 
+        "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=5744&la=de", 
+        "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=2180&la=de"
+    ], 
+    "title": "T\u00fcbingen Dissertations on Antiquity online", 
+    "url": "http://tobias-lib.uni-tuebingen.de/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,55 @@
+{
+    "description": "ISSN 2238-8788.", 
+    "domain": "www.nehmaat.uff.br", 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "2238-8788"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "issn": "2238-8788", 
+        "title": "Revista Mundo Antigo: Hist\u00f3ria Antiga, Idade M\u00e9dia e Arqueologia", 
+        "url": "http://www.nehmaat.uff.br/mundoantigo.html"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1071351965150391858", 
+            "resource_date": "2013-08-16T07:41:54.237-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:11:25.688623"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/open-access-journal-revista-mundo.html", 
+            "resource_date": "2013-08-16T07:41:54.237-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:11:25.688637"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://www.nehmaat.uff.br/revistasAnteriores2012-1PORT.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,52 @@
+{
+    "description": "Index of issues.", 
+    "domain": "www.biblicalannals.eu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "2083-2222", 
+        "title": "The Biblical Annals", 
+        "url": "http://www.biblicalannals.eu/english.html"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.9999998590222577
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-404953445695417663", 
+            "resource_date": "2012-06-01T12:02:30.471-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:11.300445"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-biblical-annals.html", 
+            "resource_date": "2012-06-01T12:02:30.471-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:11.300458"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Index of issues", 
+    "url": "http://www.biblicalannals.eu/index,number.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

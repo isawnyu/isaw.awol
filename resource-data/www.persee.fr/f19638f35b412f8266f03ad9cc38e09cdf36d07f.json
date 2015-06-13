@@ -1,0 +1,49 @@
+{
+    "description": "2002: [ 13 ] 2002: [ 13 ].", 
+    "domain": "www.persee.fr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "2117-5624", 
+        "title": "Cahiers du Centre Gustave Glotz", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/ccgg"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6859067162907404873", 
+            "resource_date": "2012-11-15T13:02:17.828-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:40.003460"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html", 
+            "resource_date": "2012-11-15T13:02:17.828-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:40.003474"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "2002 : [ 13 ]", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/ccgg_1016-9008_2002_num_13_1", 
+    "volume": "13", 
+    "year": "2002", 
+    "zotero_id": null
+}

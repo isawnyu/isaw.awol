@@ -1,0 +1,55 @@
+{
+    "description": "Demetrios Database: A Database of Septuagint Greek. A Database of Septuagint Greek containing political, legal and administrative words. A project of the AHRB Parkes Centre in the University of Southampton in partnership with the University of Reading.", 
+    "domain": "www.reading.ac.uk", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Bible", 
+        "religion", 
+        "Septuagint", 
+        "database", 
+        "Greek", 
+        "data"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4186728708662725209", 
+            "resource_date": "2014-01-22T18:22:18.631-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:14.978523"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/demetrios-database-database-of.html", 
+            "resource_date": "2014-01-22T18:22:18.631-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:14.978540"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Demetrios Database: A Database of Septuagint Greek", 
+    "url": "http://www.reading.ac.uk/demetrios/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,48 @@
+{
+    "description": "N\u00fam 2 (1993) 1992.", 
+    "domain": "revistas.um.es", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Cuadernos de Arquitectura Romana", 
+        "url": "http://revistas.um.es/car/index"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1769391605051376427", 
+            "resource_date": "2012-05-21T05:57:21.080-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:08.953544"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-cuadernos-de.html", 
+            "resource_date": "2012-05-21T05:57:21.080-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:08.953557"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "N\u00fam 2 (1993)", 
+    "url": "http://revistas.um.es/car/issue/view/6091", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

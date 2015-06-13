@@ -1,0 +1,53 @@
+{
+    "description": "Die hethitische Keramik von Bo\u011fazk\u00f6y.", 
+    "domain": "amar.hsclib.sunysb.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Bogazkoy in AMAR", 
+        "url": "http://amar.hsclib.sunysb.edu/amar/"
+    }, 
+    "keywords": [
+        "Bo\u011fazk\u00f6y"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3364285961671530694", 
+            "resource_date": "2012-03-02T16:36:15.798-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:55.578929"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/bogazkoy-in-amir.html", 
+            "resource_date": "2012-03-02T16:36:15.798-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:55.578951"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Die hethitische Keramik von Bo\u011fazk\u00f6y", 
+    "url": "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=136079&REC=4", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

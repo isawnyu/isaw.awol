@@ -1,0 +1,55 @@
+{
+    "description": "Bj\u00f6rn Menze Virtual Survey: a semi-automated tellspotting algorithm (2005). Following the observation that prehistoric and early historic settlement-mounds (tell settlements) in parts of the Near and Middle East can be recognized in the SRTM 90m terrain model (Sherratt, Antiquity 2004) an algorithm has been developed to do this automatically, using current techniques of computer modeling. Bj\u00f6rn Menze. Virtual Survey: a semi-automated tellspotting algorithm.", 
+    "domain": "www.archatlas.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "ArchAtlas Journal", 
+        "url": "http://www.archatlas.org/journal/journal.php"
+    }, 
+    "keywords": [
+        "prehistory", 
+        "Middle East", 
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9198104256890785540", 
+            "resource_date": "2013-02-20T16:27:51.722-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:40.019455"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-archatlas-journal.html", 
+            "resource_date": "2013-02-20T16:27:51.722-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:40.019469"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://www.archatlas.org/Menze/MenzeTellspotting.php", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

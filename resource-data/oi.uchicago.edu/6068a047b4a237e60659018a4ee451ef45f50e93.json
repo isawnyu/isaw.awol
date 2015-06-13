@@ -1,0 +1,51 @@
+{
+    "description": "Download PDF Terms of Use.", 
+    "domain": "oi.uchicago.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Newly Online at the Oriental Institute", 
+        "url": "http://oi.uchicago.edu/research/pubs/catalog/misc/pioneer.html"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.9999815906082988
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7925701415567054838", 
+            "resource_date": "2010-01-12T14:01:54.402-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:07.776149"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/newly-online-at-oriental-institute.html", 
+            "resource_date": "2010-01-12T14:01:54.402-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:07.776165"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Download PDF", 
+    "url": "http://oi.uchicago.edu/pdf/pioneer.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

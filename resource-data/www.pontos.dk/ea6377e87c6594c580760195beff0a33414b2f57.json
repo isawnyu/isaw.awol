@@ -1,0 +1,54 @@
+{
+    "description": "Black Sea Studies [BSS]) and one Danish series ( Sortehavsstudier.", 
+    "domain": "www.pontos.dk", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Centre for Black Sea Studies", 
+        "url": "http://www.pontos.dk/"
+    }, 
+    "keywords": [
+        "Black Sea", 
+        "series"
+    ], 
+    "language": [
+        "en", 
+        0.9999995909314602
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2797483784720017489", 
+            "resource_date": "2013-09-04T11:50:32.495-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:36.687865"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/07/open-access-publications-danish.html", 
+            "resource_date": "2013-09-04T11:50:32.495-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:36.687879"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Black Sea Studies", 
+    "url": "http://www.pontos.dk/publications/books/black-sea-studies-vol-1", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,60 @@
+{
+    "description": "Monete al femminile, database multifunzionale. Monete al femminile \u00e8 un database multifunzionale, incentrato sul censimento informatizzato della documentazione numismatica relativa ai personaggi femminili della famiglia imperiale, emessa tra periodo augusteo e periodo teodosiano. Allo stato attuale, il database comprende circa 2300 record, relativi all'intera produzione monetale di zecca ufficiale, ed \u00e8 in corso di implementazione attraverso l'inserimento delle emissioni di zecca provinciale. La compilazione delle schede \u00e8 stata eseguita tramite lo spoglio critico dei principali cataloghi e repertori numismatici (RIC, BMCRE, BNCMER, RPC, etc. ). La tabella di raccolta dati primaria \u00e8 articolata in un set di campi che definiscono le connotazioni specifiche di ciascuna emissione, focalizzando l'attenzione sui singoli elementi iconografici ed epigrafici che determinano la complessit\u00e0 del tipo monetale. La realizzazione del database si inserisce nell'ambito del progetto Lexicon Iconographicum Numismaticae (LIN), promosso dalle cattedre di Numismatica delle Universit\u00e0 di Messina, Bologna, Genova e Milano. La banca dati, concepita originariamente come strumento di supporto all'indagine numismatica, ha sviluppato in corso di realizzazione modifiche strutturali, volte ad una prospettiva di fruizione ampliata oltre il contesto specialistico strettamente numismatico. La creazione di ulteriori tabelle ha permesso di correlare le immagini di esemplari specifici alle descrizioni delle tipologie monetali, collegando inoltre attestazioni epigrafiche, profili prosopografici e riferimenti bibliografici pertinenti ai personaggi femminili censiti. La scelta di un software estremamente flessibile (FileMaker Pro 10 Advanced) ha favorito la creazione di uno strumento facilmente accessibile, predisposto per la fruizione sia in modalit\u00e0 offline \u2013 tramite l'esecuzione di soluzioni runtime \u2013 sia in ambiente web. Il database \u00e8 distribuito attraverso una licenza Creative Commons \"Attribuzione - Non commerciale - Non opere derivate - 2. 5 Italia\". La versione contiene i record delle (eccetto Vibia Sabina). Non sono inclusi esempi di schede epigrafiche, prosopografiche e bibliografiche, la cui compilazione \u00e8 tuttora in corso.", 
+    "domain": "www.numismatica.unibo.it", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Roman", 
+        "data", 
+        "numismatics", 
+        "database"
+    ], 
+    "language": [
+        "it", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-747910771438258465", 
+            "resource_date": "2013-07-13T07:33:56.999-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:56.410918"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/monete-al-femminile-database.html", 
+            "resource_date": "2013-07-13T07:33:56.999-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:56.410934"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.numismatica.unibo.it/", 
+        "http://www.numismatica.unibo.it/monete/#Progetto", 
+        "http://www.numismatica.unibo.it/monete/#Database", 
+        "http://www.numismatica.unibo.it/monete/#Contatti", 
+        "http://www.numismatica.unibo.it/monete/#News", 
+        "http://www.numismatica.unibo.it/monete/en.htm"
+    ], 
+    "title": "Monete al femminile, database multifunzionale", 
+    "url": "http://www.numismatica.unibo.it/monete/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

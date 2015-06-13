@@ -1,0 +1,51 @@
+{
+    "description": "D. Bielefeld, Die stadtr\u00f6mischen Eroten-Sarkophage. Weinlese- und Ernteszenen, ASR 5, 2,2 (Berlin 1997) ASR 5, 2,3: K. Schauenburg, Die stadtr\u00f6mischen Eroten-Sarkophage. Zirkusrennen und verwandte Darstellungen, ASR 5, 2,3 (1995).", 
+    "domain": "arachne.uni-koeln.de", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Online Corpus of Ancient Sarcophagi", 
+        "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/206"
+    }, 
+    "keywords": [], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7688708016130384576", 
+            "resource_date": "2013-10-13T11:13:52.297-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:01.252515"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/online-corpus-of-ancient-sarcophagi.html", 
+            "resource_date": "2013-10-13T11:13:52.297-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:01.252528"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "D. Bielefeld, Die stadtr\u00f6mischen Eroten-Sarkophage", 
+    "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=18&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%205,%202,2", 
+    "volume": "-", 
+    "year": null, 
+    "zotero_id": null
+}

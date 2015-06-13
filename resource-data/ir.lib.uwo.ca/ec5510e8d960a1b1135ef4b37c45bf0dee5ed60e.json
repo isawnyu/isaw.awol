@@ -1,0 +1,52 @@
+{
+    "description": "Issue 1 <div class=\"item\"> <h2 class=\"vol\"><a href=\"http://ir. lib. uwo. ca/totem/vol8/\"> Volume 8 (2000)</a></h2><h3 class=\"issue\"><a href=\"http://ir. lib. uwo. ca/totem/vol8/iss1/\">Issue 1</a></h3></div> Volume 8 (2000) Issue 1.", 
+    "domain": "ir.lib.uwo.ca", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "1925-8542", 
+        "title": "Totem", 
+        "url": "http://ir.lib.uwo.ca/totem/"
+    }, 
+    "keywords": [
+        "journal", 
+        "journal issues"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2285139795084894979", 
+            "resource_date": "2012-02-03T09:15:18.487-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:27.268916"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/open-access-journal-totem.html", 
+            "resource_date": "2012-02-03T09:15:18.487-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:27.268930"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Issue 1", 
+    "url": "http://ir.lib.uwo.ca/totem/vol9/iss1/", 
+    "volume": "1", 
+    "year": null, 
+    "zotero_id": null
+}

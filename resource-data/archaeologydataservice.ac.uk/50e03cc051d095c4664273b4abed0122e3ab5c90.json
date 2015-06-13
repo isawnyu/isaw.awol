@@ -1,0 +1,48 @@
+{
+    "description": "Usage Statistics.", 
+    "domain": "archaeologydataservice.ac.uk", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Agricultural innovation at Qasr Ibrim, Egypt, 1000 BC - AD 1800", 
+        "url": "http://archaeologydataservice.ac.uk/archives/view/rowleyconwy_nerc_2008/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-873454966607270649", 
+            "resource_date": "2013-10-13T11:41:27.485-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:28.599104"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/agricultural-innovation-at-qasr-ibrim.html", 
+            "resource_date": "2013-10-13T11:41:27.485-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:28.599119"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Usage Statistics", 
+    "url": "http://archaeologydataservice.ac.uk/archives/view/rowleyconwy_nerc_2008/stats.cfm", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

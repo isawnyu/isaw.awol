@@ -1,0 +1,48 @@
+{
+    "description": "El Jem, Gab\u00e8s.", 
+    "domain": "www.inp.rnrt.tn", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Institut National du Patrimoine, Tunis", 
+        "url": "http://www.inp.rnrt.tn/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-937761268721486799", 
+            "resource_date": "2013-05-07T11:41:49.933-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:41.677201"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/digital-library-institut-national-du.html", 
+            "resource_date": "2013-05-07T11:41:49.933-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:41.677216"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "El Jem", 
+    "url": "http://www.inp.rnrt.tn/periodiques/atals/El_%20Djem.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

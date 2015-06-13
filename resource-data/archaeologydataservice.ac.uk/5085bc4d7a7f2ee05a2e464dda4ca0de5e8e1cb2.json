@@ -1,0 +1,56 @@
+{
+    "description": "archive catalogue. ADS- easy allows you to: create and manage projects more effectively generate project metadata as the basis of the resource discovery metadata upload digital data directly into the ADS repository develop a selection and retention policy through adding and removing data according to specific criteria generate costing information using the costing calculator automate the creation of technical metadata enhance data through the creation of file level metadata which can be created within the interface, or uploaded using a pre-populated template submit your archive to the ADS.", 
+    "domain": "archaeologydataservice.ac.uk", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "ADS e-archiving system", 
+        "url": "http://archaeologydataservice.ac.uk/easy/home"
+    }, 
+    "keywords": [
+        "project", 
+        "catalogue", 
+        "data", 
+        "archive"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3513891340421520993", 
+            "resource_date": "2013-09-19T09:28:09.301-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:59.427099"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/ads-e-archiving-system.html", 
+            "resource_date": "2013-09-19T09:28:09.301-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:59.427114"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "archive catalogue", 
+    "url": "http://archaeologydataservice.ac.uk/archives/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

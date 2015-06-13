@@ -1,0 +1,48 @@
+{
+    "description": "- metri - opere.", 
+    "domain": "www.mqdq.it", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Musisque Deoque: Un archivio digitale di poesia latina", 
+        "url": "http://www.mqdq.it/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5472413002530378406", 
+            "resource_date": "2012-04-02T09:39:26.540-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:41.792555"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/musisque-deoque-un-archivio-digitale-di.html", 
+            "resource_date": "2012-04-02T09:39:26.540-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:41.792568"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "metri", 
+    "url": "http://www.mqdq.it/mqdq/indice_metri_metri.jsp?metro=00", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

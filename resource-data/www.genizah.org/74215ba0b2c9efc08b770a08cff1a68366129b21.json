@@ -1,0 +1,51 @@
+{
+    "description": "Conferences and P apers Conferences and P apers.", 
+    "domain": "www.genizah.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "The Friedberg Genizah Project (FGP)", 
+        "url": "http://www.genizah.org/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.9999999999999936
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2064944772533312360", 
+            "resource_date": "2012-02-22T14:17:44.059-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:18.543872"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-cairo-genizah-manuscripts.html", 
+            "resource_date": "2012-02-22T14:17:44.059-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:18.543887"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Conferences and Papers", 
+    "url": "http://www.genizah.org/ProfessionalPapers.aspx", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

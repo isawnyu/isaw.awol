@@ -1,0 +1,51 @@
+{
+    "description": "Philodemus - Ad contubernales I 1006 Demetrius Laco - Nonnullae quaestiones de diaeta 1006 Demetrius Laco - Nonnullae quaestiones de diaeta.", 
+    "domain": "www.thvproject.it", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Online Publication of the Thesaurus Herculanensium Voluminum", 
+        "url": "http://www.thvproject.it/newthv/beta/default.asp"
+    }, 
+    "keywords": [], 
+    "language": [
+        "es", 
+        0.9999999520613988
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7221107525365885349", 
+            "resource_date": "2011-11-01T08:58:43.848-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:47.237451"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/online-publication-of-thesaurus.html", 
+            "resource_date": "2011-11-01T08:58:43.848-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:47.237467"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Philodemus - Ad contubernales", 
+    "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=13", 
+    "volume": "-", 
+    "year": null, 
+    "zotero_id": null
+}

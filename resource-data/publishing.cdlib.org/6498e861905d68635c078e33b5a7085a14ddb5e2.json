@@ -1,0 +1,51 @@
+{
+    "description": "Add to Bookbag.", 
+    "domain": "publishing.cdlib.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "UC Press E-Books Collection", 
+        "url": "http://publishing.cdlib.org/ucpressebooks/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.9998603851734236
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5258126033649490963", 
+            "resource_date": "2013-08-12T10:10:56.657-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:36.812941"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/uc-press-e-books-collection.html", 
+            "resource_date": "2013-08-12T10:10:56.657-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:36.812955"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://publishing.cdlib.org/ucpressebooks/view?docId=ft729007zj;query=;brand=ucpress", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

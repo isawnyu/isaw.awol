@@ -1,0 +1,49 @@
+{
+    "description": "Textus 12-22. Textus 23-25.", 
+    "domain": "www.hum.huji.ac.il", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "0082-3767", 
+        "title": "Textus: Annual of the Hebrew University Bible Project", 
+        "url": "http://www.hum.huji.ac.il/english/units.php?cat=5016&incat=4982"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7456781055847732566", 
+            "resource_date": "2013-09-26T09:41:34.390-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:56.283628"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/newly-open-access-journal-textus-annual.html", 
+            "resource_date": "2013-09-26T09:41:34.390-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:56.283641"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Textus 12-22", 
+    "url": "http://www.hum.huji.ac.il/units.php?cat=5003&incat=4972", 
+    "volume": "12-22", 
+    "year": null, 
+    "zotero_id": null
+}

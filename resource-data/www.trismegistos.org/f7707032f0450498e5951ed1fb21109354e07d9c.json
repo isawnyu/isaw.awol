@@ -1,0 +1,60 @@
+{
+    "description": "Click here ). ISBN: 978-9-490604-0-11. To open the pdf files, your computer has to have a recent version of Adobe Acrobat Reader. Some other applications can open pdf files as well, such as Preview on Mac OS X; however; the links in the pdf to the online database may not work in other applications (earlier versions of Preview e. g. do not recognize the links - this seems to have been fixes in Mac OS X 10. 6 though).", 
+    "domain": "www.trismegistos.org", 
+    "identifiers": {
+        "isbn": {
+            "generic": [
+                "978"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "title": "Trismegistos", 
+        "url": "http://www.trismegistos.org/"
+    }, 
+    "keywords": [
+        "data", 
+        "database"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3360883248438106183", 
+            "resource_date": "2013-07-23T09:25:32.205-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:55.466731"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-library-trismegistos.html", 
+            "resource_date": "2013-07-23T09:25:32.205-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:55.466745"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Click here", 
+    "url": "http://www.trismegistos.org/sinai/index.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

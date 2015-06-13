@@ -1,0 +1,49 @@
+{
+    "description": "HA-ESI 117 (2005).", 
+    "domain": "www.hadashot-esi.org.il", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "1565-5334", 
+        "title": "Hadashot Arkheologiyot - Excavations and Survey in Israel", 
+        "url": "http://www.hadashot-esi.org.il/index_eng.asp"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1697555786221769881", 
+            "resource_date": "2012-12-26T08:51:28.169-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:06.569850"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/oprn-access-journal-hadashot.html", 
+            "resource_date": "2012-12-26T08:51:28.169-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:06.569863"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://www.hadashot-esi.org.il/reports_eng.asp?id=110", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

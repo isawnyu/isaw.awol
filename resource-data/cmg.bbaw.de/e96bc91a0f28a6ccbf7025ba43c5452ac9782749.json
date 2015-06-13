@@ -1,0 +1,53 @@
+{
+    "description": "V 10,2,1 Galeni In Hippocratis Epidemiarum librum III commentaria III, edidit E. Wenkebach, Leipzig et Berlin 1936.", 
+    "domain": "cmg.bbaw.de", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Open Access Corpus Medicorum Graecorum / Latinum", 
+        "url": "http://cmg.bbaw.de/Startseite.html"
+    }, 
+    "keywords": [
+        "Berlin"
+    ], 
+    "language": [
+        "la", 
+        0.9999865515061017
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2321916241517187422", 
+            "resource_date": "2012-09-20T15:58:35.755-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:28.494297"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-corpus-medicorum-graecorum.html", 
+            "resource_date": "2012-09-20T15:58:35.755-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:28.494310"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "V 10,2,1", 
+    "url": "http://cmg.bbaw.de/epubl/online/cmg_05_10_02_01.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

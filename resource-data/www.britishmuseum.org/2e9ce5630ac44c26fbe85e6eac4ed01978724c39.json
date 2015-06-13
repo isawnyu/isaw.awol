@@ -1,0 +1,58 @@
+{
+    "description": "Ancient Cyprus at the British Museum Objects found during 19th century excavations in a growing catalogue of the Museum's entire collection from the island. Ancient Cyprus catalogue.", 
+    "domain": "www.britishmuseum.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "British Museum Online Research Catalogues", 
+        "url": "http://www.britishmuseum.org/research/publications/online_research_catalogues.aspx"
+    }, 
+    "keywords": [
+        "archaeology", 
+        "museums", 
+        "catalogue", 
+        "antiquity", 
+        "Cyprus", 
+        "British Museum"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3717198372905661297", 
+            "resource_date": "2013-08-31T09:47:11.858-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:03.924291"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/02/british-museum-online-research.html", 
+            "resource_date": "2013-08-31T09:47:11.858-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:03.924318"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ancient Cyprus at the British Museum", 
+    "url": "http://www.britishmuseum.org/research/publications/online_research_catalogues/ancient_cyprus_british_museum.aspx", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

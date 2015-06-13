@@ -1,0 +1,50 @@
+{
+    "description": "Bibliography.", 
+    "domain": "www.seleucid-genealogy.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Online Genealogy of the Seleucids", 
+        "url": "http://www.seleucid-genealogy.com/Home.html"
+    }, 
+    "keywords": [
+        "bibliography"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5941520045853359802", 
+            "resource_date": "2012-06-25T21:26:55.364-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:52.377747"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/online-genealogy-of-seleucids.html", 
+            "resource_date": "2012-06-25T21:26:55.364-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:52.377759"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Bibliography", 
+    "url": "http://www.seleucid-genealogy.com/Bibliography.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,49 @@
+{
+    "description": "Tome 44 | 2005.", 
+    "domain": "racf.revues.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "0220-6617", 
+        "title": "Revue arch\u00e9ologique du Centre de la France", 
+        "url": "http://racf.revues.org/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6352189185984310569", 
+            "resource_date": "2009-08-12T14:01:35.559-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:04.446938"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journal-revue-archeologique.html", 
+            "resource_date": "2009-08-12T14:01:35.559-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:04.446953"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Tome 44 | 2005", 
+    "url": "http://racf.revues.org/index479.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

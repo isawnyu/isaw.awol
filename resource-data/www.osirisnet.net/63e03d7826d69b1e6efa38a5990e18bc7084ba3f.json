@@ -1,0 +1,54 @@
+{
+    "description": "Monuments: various temples and monuments Assorted documentation.", 
+    "domain": "www.osirisnet.net", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Osirisnet", 
+        "url": "http://www.osirisnet.net/"
+    }, 
+    "keywords": [
+        "religion", 
+        "monuments"
+    ], 
+    "language": [
+        "en", 
+        0.9999998714255264
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6646694474080256406", 
+            "resource_date": "2012-11-09T07:23:01.815-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:13.823432"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/osirisnet.html", 
+            "resource_date": "2012-11-09T07:23:01.815-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:13.823447"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://www.osirisnet.net/monument/e_monu_1.htm", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,53 @@
+{
+    "description": "Resources for Syriac Studies An annotated collection of free and open source books, journals, and more related to the study of Syriac.", 
+    "domain": "www.doaks.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Dumbarton Oaks Resources for Byzantine Studies", 
+        "url": "http://www.doaks.org/research/byzantine/resources"
+    }, 
+    "keywords": [
+        "Syriac"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6585175168383285288", 
+            "resource_date": "2013-05-13T12:50:46.035-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:10.905409"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/dumbarton-oaks-resources-for-byzantine.html", 
+            "resource_date": "2013-05-13T12:50:46.035-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:10.905431"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Resources for Syriac Studies", 
+    "url": "http://www.doaks.org/research/byzantine/resources/syriac", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,52 @@
+{
+    "description": "Mirabilia 14 (2012/1).", 
+    "domain": "www.revistamirabilia.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "1676-5818", 
+        "title": "Mirabilia", 
+        "url": "http://www.revistamirabilia.com/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "eu", 
+        0.9942986777578141
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5738004064583748978", 
+            "resource_date": "2013-09-29T07:53:07.157-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:46.488633"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-mirabilia.html", 
+            "resource_date": "2013-09-29T07:53:07.157-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:46.488647"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://www.revistamirabilia.com/issues/mirabilia-14-2012-1", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

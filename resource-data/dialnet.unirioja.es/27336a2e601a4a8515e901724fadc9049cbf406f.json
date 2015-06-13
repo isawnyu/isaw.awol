@@ -1,0 +1,49 @@
+{
+    "description": "2011 24.", 
+    "domain": "dialnet.unirioja.es", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "0213-9634", 
+        "title": "Minerva: Revista de filolog\u00eda cl\u00e1sica", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=945"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6165193776227937698", 
+            "resource_date": "2013-10-20T08:43:08.339-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:57.337416"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-minerva-revista-de.html", 
+            "resource_date": "2013-10-20T08:43:08.339-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:57.337427"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "2011", 
+    "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=945&claveDeBusqueda=2011", 
+    "volume": "2011", 
+    "year": null, 
+    "zotero_id": null
+}

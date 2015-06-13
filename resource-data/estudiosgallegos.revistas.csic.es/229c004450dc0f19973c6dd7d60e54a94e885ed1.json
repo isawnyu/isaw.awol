@@ -1,0 +1,49 @@
+{
+    "description": "123 2009.", 
+    "domain": "estudiosgallegos.revistas.csic.es", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "1988-8333", 
+        "title": "Cuadernos de Estudios Gallegos", 
+        "url": "http://estudiosgallegos.revistas.csic.es/index.php/estudiosgallegos/index"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4344549495765124403", 
+            "resource_date": "2011-09-13T09:23:23.668-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:19.168472"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/09/open-access-journal-cuadernos-de.html", 
+            "resource_date": "2011-09-13T09:23:23.668-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:19.168493"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "123", 
+    "url": "http://estudiosgallegos.revistas.csic.es/index.php/estudiosgallegos/issue/view/5", 
+    "volume": "123", 
+    "year": null, 
+    "zotero_id": null
+}

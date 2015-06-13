@@ -1,0 +1,56 @@
+{
+    "description": "[First posted in AWOL 11 July 2011. Updated 15 May 2013]. [First posted in AWOL 11 July 2011. Updated 15 May 2013]. Bibliographie biblique informatis\u00e9e de Lausanne - BiBIL. Impressum La base de donn\u00e9es BiBIL est maintenue par l'Institut romand des sciences bibliques (IRSB) de l'Universit\u00e9 de Lausanne (UNIL), Suisse. Ont collabor\u00e9s \u00e0 la mise en production et \u00e0 la maintenance de la base de donn\u00e9es (en ordre alphab\u00e9tique): Informaticiens (Centre Informatique de l'Universit\u00e9 de Lausanne) Philippe Gardel, Christian Ruchat, Leire Urcelay Responsables et administrateurs (IRSB) Christophe Guignard, Thomas Naef, Pierluigi Piovanelli Secr\u00e9taires (IRSB) Barbara Cangemi Trolla, Claudine \u00c9tienne, Ren\u00e9e Girardet Collaborateurs et assistants (IRSB) Benjamin Bertho, Alain B\u00fchlmann, Simon Butticaz, Claire Clivaz, Albert Frey, Herv\u00e9 Gonzalez, Jean-Daniel Kaestli, Pierre Keith, Rachel K\u00fcng Bornand, Val\u00e9rie Nicolet Anderson, Christophe Nihan, Julie Paik, Jenny Read-Heimerdinger, Jan R\u00fcckl, Emmanuelle Steffek, Antoinette Steiner et beaucoup d'autres. Citation Thomas Naef et al. (\u00e9ds), Bibliographie biblique informatis\u00e9e de Lausanne (BiBIL), http://www. bibil. net: http://www. unil. ch/bibil.", 
+    "domain": "www3.unil.ch", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "bibliography"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "title_extended", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7555298760057990405", 
+            "resource_date": "2013-05-15T09:22:07.813-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:57.459142"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/online-bibliography-bibil.html", 
+            "resource_date": "2013-05-15T09:22:07.813-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:57.459159"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www3.unil.ch/bibil/public/indexSimpleSearch", 
+        "http://www3.unil.ch/bibil/public/indexAdvancedSearch", 
+        "http://www3.unil.ch/bibil/public/indexThesaurusSearch"
+    ], 
+    "title": "Bibliographie biblique informatis\u00e9e de Lausanne", 
+    "title_extended": "Bibliographie biblique informatis\u00e9e de Lausanne - BiBIL", 
+    "url": "http://www3.unil.ch/bibil/public/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,48 @@
+{
+    "description": "D. Panzironi, M. Passini.", 
+    "domain": "www.horti-hesperidum.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Horti Hesperidum. Studi di storia del collezionismo e della storiografia", 
+        "url": "http://www.horti-hesperidum.com/index.php"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9041055240873877561", 
+            "resource_date": "2013-01-04T17:09:01.242-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:35.893141"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-journal-horti-hesperidum.html", 
+            "resource_date": "2013-01-04T17:09:01.242-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:35.893154"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "D. Panzironi", 
+    "url": "http://www.horti-hesperidum.com/showrivista.php?item=97", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

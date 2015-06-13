@@ -1,0 +1,60 @@
+{
+    "description": "Genizah: Cairo Genizah Collection of the Bodleian libraries. The collection of Cairo Genizah fragments held at the Bodleian Libraries is one of major collections of its kind. Acquired over the years since 1890 it consists of about 4,000 fragments. Skilful selection ensured that the Bodleian Genizah holdings became one of the most important collections worldwide, featuring Bible, Early Rabbinic literature (Midrash, Mishnah and Talmud), numerous liturgical fragments (Piyyutim and Selichot), many legal documents and letters, both personal and commercial. Its significance lies particularly in the remarkable size of many of the documents. The 4000 fragments comprise about 25,000 pages, amounting to over six pages per fragment, an average unparalleled elsewhere. Some items consist of whole quires, thus deserving the designation manuscripts rather than fragments. Talmud fragments of ten pages or more are no exception in this collection: Tractate Berakhot is represented with a manuscript of 32 pages (Ms. Heb. c. 17/32); of tractate Sukkah 72 pages (Ms. Heb. e 51) are preserved and for tractate Sotah we have 160 pages (Ms. Heb. d. 20/2) at our disposal. An exceptionally exciting example are the twenty pages of Maimonides\u2019s draft manuscript of his Mishneh Torah with corrections in 4 consecutive stages in his own hand (Ms. Heb. d 32, fols. 47a-56b). The online catalogue is based upon the printed catalogue of the Hebrew manuscripts in the Bodleian Library (second volume) by Adolf Neubauer and Arthur Ernst Cowley (1906) and the typewritten catalogue of additional Genizah fragments by Arthur Ernst Cowley (ca 1929). The classification of the fragments by subject in the printed catalogue in line with the first volume of Neubauer\u2019s catalogue of Hebrew manuscripts at the Bodleian library is - as mentioned in the introduction by Arthur Cowley - problematic. Fragments from the Cairo Genizah were collected by the Bodleian Library in successive acquisitions, which after arrival were bound up in volumes. As a consequence volumes often, despite a careful and focussed acquisition policy, contain under one heading fragments on different subjects. In the online catalogue all fragments of a volume can be searched by subject. The printed catalogue includes 166 volumes, containing in all about 2,675 fragments. The typewritten catalogue consists of 58 volumes with 1094 fragments. It is to be noticed, however, that the total number of 3769 fragments concerns those of which the Cairo Genizah provenance explicitly is stated. The digital access to the Bodleian Genizah collection will facilitate the identification of a considerable number of fragments, whose provenance were hitherto unknown, but which probably also found their way from Cairo to Oxford.", 
+    "domain": "genizah.bodleian.ox.ac.uk", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "libraries", 
+        "Cairo", 
+        "Genizah"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "title_extended", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7335786283057649761", 
+            "resource_date": "2013-04-05T16:24:27.217-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:50.739201"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/genizah-cairo-genizah-collection-of.html", 
+            "resource_date": "2013-04-05T16:24:27.217-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:50.739217"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://genizah.bodleian.ox.ac.uk/home", 
+        "http://genizah.bodleian.ox.ac.uk/browse", 
+        "http://genizah.bodleian.ox.ac.uk/advanced", 
+        "http://genizah.bodleian.ox.ac.uk/about", 
+        "http://genizah.bodleian.ox.ac.uk/help"
+    ], 
+    "title": "Cairo Genizah Collection of the Bodleian libraries", 
+    "title_extended": "Genizah: Cairo Genizah Collection of the Bodleian libraries", 
+    "url": "http://genizah.bodleian.ox.ac.uk/home", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

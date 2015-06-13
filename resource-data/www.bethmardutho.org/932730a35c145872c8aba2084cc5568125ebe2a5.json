@@ -1,0 +1,48 @@
+{
+    "description": "Contact Us.", 
+    "domain": "www.bethmardutho.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Beth Mardutho", 
+        "url": "http://www.bethmardutho.org/index.php/home.html"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1817047830230890260", 
+            "resource_date": "2011-09-09T09:49:28.899-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:12.538470"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/09/beth-mardutho.html", 
+            "resource_date": "2011-09-09T09:49:28.899-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:12.538482"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Contact Us", 
+    "url": "http://www.bethmardutho.org/index.php/contact.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

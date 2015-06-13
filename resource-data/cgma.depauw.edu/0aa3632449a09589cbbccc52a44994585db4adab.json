@@ -1,0 +1,63 @@
+{
+    "description": "MAGIS: Mediterranean Archaeology GIS. <blockquote class=\"tr_bq\">Welcome to MAGIS, an inventory of regional survey projects in the greater Mediterranean region. To search the database, please choose one of the options at the left. <br/><br/>The <a href=\"http://cgma. depauw. edu/MAGIS/Spatial/spatial. php\"> </a>\u00a0 allows users to zoom to a specific region of the Mediterranean or to view all projects currently entered (for which we have coordinates). <br/><br/> <br/> The <a href=\"http://cgma. depauw. edu/MAGIS/MAGIS_GE_RT/CGMA_MAGIS. kmz\"> </a>\u00a0 downloads an automatically updating. kmz file that, when opened in <em>Google\u2122 Earth 5. 0</em> or later, allows users to browse and interact with all survey projects in the MAGIS database for which spatial (coordinate) data are available. <a href=\"http://cgma. depauw. edu/MAGIS/Help/help. php#ge_browse\">More info. </a><br/>\u00a0 <br/> The <a href=\"http://cgma. depauw. edu/MAGIS/DB_Search/search_main. php?clear_form=Y\"> </a>\u00a0 allows queries based on specific fields in the database. <br/><br/> We also invite scholars to enter the metadata about their own projects by using the <a href=\"http://cgma. depauw. edu/MAGIS/DB_Admin/db_submit/register. php\"> </a>\u00a0 form. <br/><br/> Our <a href=\"http://cgma. depauw. edu/MAGIS/Help/help. php\"> </a>\u00a0 pages offer detailed explanations about the search and data entry options, as well as browser support and the user interface. You can access the Help pages directly on each page by clicking on the symbol. <br/>. If you have <em>corrections to</em> or <em>comments about</em> projects already in the system, please contact us at \u00a0 (a link to this address exists at the bottom of every page). Contact us at the same address if you are interested in the code developed for MAGIS. Thank you!. </blockquote>.", 
+    "domain": "cgma.depauw.edu", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "GIS", 
+        "Aegean", 
+        "Mediterranean", 
+        "maps", 
+        "atlas", 
+        "Near East", 
+        "archaeology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2272513373955288711", 
+            "resource_date": "2012-07-18T15:02:54.944-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:26.572606"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/magis-mediterranean-archaeology-gis.html", 
+            "resource_date": "2012-07-18T15:02:54.944-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:26.572622"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://cgma.depauw.edu/MAGIS/Spatial/spatial.php", 
+        "http://cgma.depauw.edu/MAGIS/MAGIS_GE_RT/CGMA_MAGIS.kmz", 
+        "http://cgma.depauw.edu/MAGIS/Help/help.php#ge_browse", 
+        "http://cgma.depauw.edu/MAGIS/DB_Search/search_main.php?clear_form=Y", 
+        "http://cgma.depauw.edu/MAGIS/DB_Admin/db_submit/register.php", 
+        "http://cgma.depauw.edu/MAGIS/Help/help.php"
+    ], 
+    "title": "MAGIS: Mediterranean Archaeology GIS", 
+    "url": "http://cgma.depauw.edu/MAGIS/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

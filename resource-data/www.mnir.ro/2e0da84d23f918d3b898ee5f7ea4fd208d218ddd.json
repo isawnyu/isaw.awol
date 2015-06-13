@@ -1,0 +1,48 @@
+{
+    "description": "Raport anual, 2006.", 
+    "domain": "www.mnir.ro", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Open Access Publications of the National Museum of Romanian History", 
+        "url": "http://www.mnir.ro/ro/Default.aspx"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5546754334620334039", 
+            "resource_date": "2010-07-29T11:58:47.937-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:42.882322"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/open-access-publications-of-national.html", 
+            "resource_date": "2010-07-29T11:58:47.937-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:42.882335"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://www.mnir.ro/ro/Publicatii/Raport.aspx?IDRaport=2", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

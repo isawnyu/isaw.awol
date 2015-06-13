@@ -1,0 +1,51 @@
+{
+    "description": "Vortr\u00e4gen. Zum Publikationsprojekt der Kretaforscher.", 
+    "domain": "www.eteokriti.at", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "ETEOKPHTIKA", 
+        "url": "http://www.eteokriti.at/publikationen/eteokphtika/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "de", 
+        0.9999999999999987
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1885083122837207625", 
+            "resource_date": "2013-11-29T11:31:57.685-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:13.698508"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/11/open-access-kournal-eteokphtika.html", 
+            "resource_date": "2013-11-29T11:31:57.685-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:13.698521"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Vortr\u00e4gen", 
+    "url": "http://www.eteokriti.at/publikationen/publizierte-vortr%C3%A4ge-und-abstracts/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

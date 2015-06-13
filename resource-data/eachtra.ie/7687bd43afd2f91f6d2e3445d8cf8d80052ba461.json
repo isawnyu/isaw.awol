@@ -1,0 +1,54 @@
+{
+    "description": "09 of the Eachtra Journal January-March 2011. Issue: 10.", 
+    "domain": "eachtra.ie", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "2009-2237", 
+        "title": "Eachtra Journal", 
+        "url": "http://eachtra.ie/index.php/journal/"
+    }, 
+    "keywords": [
+        "journal"
+    ], 
+    "language": [
+        "en", 
+        0.9999999998995299
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8644706914371292783", 
+            "resource_date": "2012-03-25T08:51:30.129-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:26.182539"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-eachtra-journal.html", 
+            "resource_date": "2012-03-25T08:51:30.129-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:26.182558"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "09", 
+    "url": "http://eachtra.ie/index.php/journal/issues/9/", 
+    "volume": "09", 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,55 @@
+{
+    "description": "Book of the Bible.", 
+    "domain": "jbq.jewishbible.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Jewish Bible Quarterly", 
+        "url": "http://jbq.jewishbible.org/"
+    }, 
+    "keywords": [
+        "religion", 
+        "Bible", 
+        "book"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999999998
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6773362574423120045", 
+            "resource_date": "2013-01-28T15:21:40.904-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:38.219242"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/01/open-access-jurnal-jewish-bible.html", 
+            "resource_date": "2013-01-28T15:21:40.904-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:38.219253"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Book of the Bible", 
+    "url": "http://jbq.jewishbible.org/index-by-book-of-the-bible/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

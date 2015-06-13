@@ -1,0 +1,48 @@
+{
+    "description": "Accueil.", 
+    "domain": "spartokos.wordpress.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Spartokos a lu : Black sea archaeology online", 
+        "url": "http://spartokos.wordpress.com/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5531109044225783846", 
+            "resource_date": "2013-04-26T16:59:50.428-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:42.745716"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/black-sea-archaeology-online.html", 
+            "resource_date": "2013-04-26T16:59:50.428-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:42.745731"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Accueil", 
+    "url": "http://spartokos.wordpress.com/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

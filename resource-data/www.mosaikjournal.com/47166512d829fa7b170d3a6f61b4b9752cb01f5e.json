@@ -1,0 +1,52 @@
+{
+    "description": "Wiebke Friese.", 
+    "domain": "www.mosaikjournal.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "2159-8541", 
+        "title": "MOSAIKjournal", 
+        "url": "http://www.mosaikjournal.com/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "de", 
+        0.9951248360997894
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2006189622500674393", 
+            "resource_date": "2013-03-20T16:18:31.564-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:16.008637"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/08/new-open-access-journal-mosaikjournal.html", 
+            "resource_date": "2013-03-20T16:18:31.564-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:16.008652"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "%IMAGEREPLACED% .Wiebke Friese", 
+    "url": "http://www.mosaikjournal.com/mosaik1/friese.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,52 @@
+{
+    "description": "Issue 15.", 
+    "domain": "www.britishmuseum.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "2049-5021", 
+        "title": "British Museum Studies in Ancient Egypt and Sudan (BMSAES)", 
+        "url": "http://www.britishmuseum.org/research/online_journals/bmsaes.aspx"
+    }, 
+    "keywords": [
+        "journal", 
+        "journal issues"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7825786708440609959", 
+            "resource_date": "2013-06-11T09:57:35.625-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:04.827451"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journal-british-museum.html", 
+            "resource_date": "2013-06-11T09:57:35.625-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:04.827464"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Issue 15", 
+    "url": "http://www.britishmuseum.org/research/publications/online_journals/bmsaes/issue_15.aspx", 
+    "volume": "15", 
+    "year": null, 
+    "zotero_id": null
+}

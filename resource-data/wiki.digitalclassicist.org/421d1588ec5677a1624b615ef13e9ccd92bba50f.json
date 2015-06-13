@@ -1,0 +1,56 @@
+{
+    "description": "Leuven Database of Ancient Books (LDAB).", 
+    "domain": "wiki.digitalclassicist.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "The Digital Classicist Wiki Current List of Projects", 
+        "url": "http://wiki.digitalclassicist.org/Category:Projects"
+    }, 
+    "keywords": [
+        "database", 
+        "book", 
+        "data", 
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        0.9999966314478319
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4578727885057327556", 
+            "resource_date": "2013-02-15T16:23:03.929-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:22.807003"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/09/digital-classicist-wiki-current-list-of.html", 
+            "resource_date": "2013-02-15T16:23:03.929-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:22.807015"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Leuven Database of Ancient Books (LDAB)", 
+    "url": "http://wiki.digitalclassicist.org/Leuven_Database_of_Ancient_Books_%28LDAB%29", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

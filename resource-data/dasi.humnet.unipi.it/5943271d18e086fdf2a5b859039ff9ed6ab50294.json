@@ -1,0 +1,57 @@
+{
+    "description": "Corpus of Undefined Ancient South Arabian Language inscriptions (work in progress) This corpus collects all the South Arabian texts which cannot be assigned to any specific language, because they convey no information about their linguistic provenance, nor on their geographic or chronological setting. The majority of them are fragmentary or simply onomastic texts. CORPORA BY SCRIPT TYPOLOGY.", 
+    "domain": "dasi.humnet.unipi.it", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "CSAI: Corpus of South Arabian Inscriptions", 
+        "url": "http://dasi.humnet.unipi.it/index.php?id=42&prjId=1&corId=0&colId=0"
+    }, 
+    "keywords": [
+        "Arabia", 
+        "epigraphy", 
+        "South Arabia", 
+        "language", 
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-915482671060200854", 
+            "resource_date": "2014-01-21T16:15:11.061-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:38.489483"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-corpus-of-south-arabian.html", 
+            "resource_date": "2014-01-21T16:15:11.061-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:38.489499"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Corpus of Undefined Ancient South Arabian Language inscriptions (work in progress)", 
+    "url": "http://dasi.humnet.unipi.it/index.php?id=44&prjId=1&corId=16&colId=0", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

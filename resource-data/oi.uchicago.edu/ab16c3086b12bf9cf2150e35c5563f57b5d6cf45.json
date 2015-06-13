@@ -1,0 +1,51 @@
+{
+    "description": "Download PDF Terms of Use.", 
+    "domain": "oi.uchicago.edu", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Chicago Demotic Dictionary: \"T\"", 
+        "url": "http://oi.uchicago.edu/research/pubs/catalog/cdd/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.9999815906082988
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1333069255515076209", 
+            "resource_date": "2012-07-17T10:03:07.584-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:11:35.708959"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/chicago-demotic-dictionary-t.html", 
+            "resource_date": "2012-07-17T10:03:07.584-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:11:35.708972"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Download PDF", 
+    "url": "http://oi.uchicago.edu/pdf/CDD_P.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

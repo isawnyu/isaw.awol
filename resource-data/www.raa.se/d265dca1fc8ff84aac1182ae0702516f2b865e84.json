@@ -1,0 +1,51 @@
+{
+    "description": "Planscher. Pl. 1-88. TEXT G 138-159.", 
+    "domain": "www.raa.se", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Swedish Runes Online", 
+        "url": "http://www.raa.se/kulturarvet/arkeologi-fornlamningar-och-fynd/runstenar/digitala-sveriges-runinskrifter/digitala-sveriges-runinskrifter-publicerat/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "de", 
+        0.9987515975736113
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5827760289633940107", 
+            "resource_date": "2013-09-25T21:58:05.231-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:47.916125"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/swedish-runes-online.html", 
+            "resource_date": "2013-09-25T21:58:05.231-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:47.916138"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Planscher", 
+    "url": "http://www.raa.se/runinskrifter/sri_gotland_b11_d01_plansch.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

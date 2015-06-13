@@ -1,0 +1,54 @@
+{
+    "description": "Annuaire du Mus\u00e9e Greco-Romain 1932-1933.", 
+    "domain": "www.e-corpus.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Annuaire du Mus\u00e9e Gr\u00e9co-Romain d'Alexandrie", 
+        "url": "http://www.e-corpus.org/eng/notices/32503-Annuaire-du-Musee-Greco-Romain-d-Alexandrie-1925-1931.html"
+    }, 
+    "keywords": [
+        "museums", 
+        "journal"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1591097540905869240", 
+            "resource_date": "2010-05-17T15:37:20.669-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:03.916027"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/05/open-access-journal-annuaire-du-musee.html", 
+            "resource_date": "2010-05-17T15:37:20.669-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:03.916041"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Annuaire du Mus\u00e9e Greco-Romain 1932-1933", 
+    "url": "http://www.e-corpus.org/eng/notices/32507-Annuaire-du-Musee-Greco-Romain-Volume-I-1932-1933-.html", 
+    "volume": "1933", 
+    "year": "1932", 
+    "zotero_id": null
+}

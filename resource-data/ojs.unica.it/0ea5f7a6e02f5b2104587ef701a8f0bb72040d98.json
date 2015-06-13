@@ -1,0 +1,49 @@
+{
+    "description": "Vol 1 (2010).", 
+    "domain": "ojs.unica.it", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "2039-4543", 
+        "title": "ArcheoArte. Rivista elettronica di Archeologia e Arte", 
+        "url": "http://ojs.unica.it/index.php/archeoarte/"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-261371436300932310", 
+            "resource_date": "2013-01-22T15:08:11.348-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:33.103996"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/01/new-open-access-journl-archeoarte.html", 
+            "resource_date": "2013-01-22T15:08:11.348-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:33.104009"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Vol 1 (2010)", 
+    "url": "http://ojs.unica.it/index.php/archeoarte/issue/view/6", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

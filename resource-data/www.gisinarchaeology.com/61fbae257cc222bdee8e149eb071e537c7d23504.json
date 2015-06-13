@@ -1,0 +1,67 @@
+{
+    "description": "GIS in Archaeology: The Complete Guide. Introduction to Geographic Information Systems Geographic Information Systems (GIS) are tools for the input, analysis and output of spatial data. Geographers initially used these tools for resource management purposes (Burrough 1986). Over the last decade, GIS applications have revolutionized many disciplines in many ways (Marble, 1990), though some disciplines adopted them earlier than others. In the field of archeology, GIS has barely reached the end of the experimental stage. Although it was used fairly regularly in the early 1980?s, (Kvamme, 1996) its present utilization has dramatically increased. At the time this paper was written, over 500 archaeologists worldwide were registered GIS users with the online database \"GIS-using archaeologists\", developed byPaul Miller and Ian Johnson in 1995. It is suspected that the actual number of GIS users in the archaeology circle is substantially higher. Archeology, as a spatial discipline, has used GIS in a variety of ways. At the simplest level, GIS has found applications as a database management for archaeological records, with the added benefit of being able to create instant maps. It has been implemented in cultural resource management contexts, where archaeological site locations are predicted using statistical models based on previously identified site locations. It has also been used to simulate diachronic changes in past landscapes, and as a tool in intra-site analysis; although this last application has not enjoyed the same popularity as the others. Home Books Tools Resources About me Table of Contents Introduction Definitions History of GIS Components of GIS GIS in Archaeology GIS pitfalls Survey Methodology Survey Results Survey Conclusion Bibliography.", 
+    "domain": "www.gisinarchaeology.com", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "GIS", 
+        "archaeology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-302463094712134852", 
+            "resource_date": "2012-09-15T19:05:39.081-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:42.377438"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/gis-in-archaeology-complete-guide.html", 
+            "resource_date": "2012-09-15T19:05:39.081-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:42.377455"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [
+        "http://www.gisinarchaeology.com/index.php", 
+        "http://www.gisinarchaeology.com/GIS_books.php", 
+        "http://www.gisinarchaeology.com/GIS_tools.php", 
+        "http://www.gisinarchaeology.com/GIS_resources.php", 
+        "http://www.gisinarchaeology.com/about.php", 
+        "http://www.gisinarchaeology.com/index.php", 
+        "http://www.gisinarchaeology.com/gis_definitions.php", 
+        "http://www.gisinarchaeology.com/history_of_gis.php", 
+        "http://www.gisinarchaeology.com/components_of_gis.php", 
+        "http://www.gisinarchaeology.com/gis_in_archaeology.php", 
+        "http://www.gisinarchaeology.com/gis_pitfalls.php", 
+        "http://www.gisinarchaeology.com/gis_survey_methodology.php", 
+        "http://www.gisinarchaeology.com/gis_survey_results.php", 
+        "http://www.gisinarchaeology.com/gis_survey_conclusion.php", 
+        "http://www.gisinarchaeology.com/bibliography.php"
+    ], 
+    "title": "GIS in Archaeology: The Complete Guide", 
+    "url": "http://www.gisinarchaeology.com/index.php", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

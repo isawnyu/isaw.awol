@@ -1,0 +1,51 @@
+{
+    "description": "S\u00f6 366-383. Sid. 355-410 Ordf\u00f6rteckning mm.", 
+    "domain": "www.raa.se", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Swedish Runes Online", 
+        "url": "http://www.raa.se/kulturarvet/arkeologi-fornlamningar-och-fynd/runstenar/digitala-sveriges-runinskrifter/digitala-sveriges-runinskrifter-publicerat/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "sv", 
+        0.9999999942808764
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5827760289633940107", 
+            "resource_date": "2013-09-25T21:58:05.231-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:47.723484"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/05/swedish-runes-online.html", 
+            "resource_date": "2013-09-25T21:58:05.231-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:47.723497"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "S\u00f6 366-383", 
+    "url": "http://www.raa.se/runinskrifter/sri_sodermanland_b03_h04_text_4.pdf", 
+    "volume": "366-383", 
+    "year": null, 
+    "zotero_id": null
+}

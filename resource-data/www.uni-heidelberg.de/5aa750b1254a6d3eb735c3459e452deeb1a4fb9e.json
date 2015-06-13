@@ -1,0 +1,51 @@
+{
+    "description": "1. 2 (July 25, 2012).", 
+    "domain": "www.uni-heidelberg.de", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Bulletin of Online Emendations to Papyri", 
+        "url": "http://www.uni-heidelberg.de/fakultaeten/philosophie/zaw/papy/projekt/bulletin.html"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        0.9908319130359798
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5159144466835026514", 
+            "resource_date": "2013-09-16T07:27:39.136-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:33.785347"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/new-open-access-journal-bulletin-of.html", 
+            "resource_date": "2013-09-16T07:27:39.136-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:33.785360"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "1.2 (July 25, 2012)", 
+    "url": "http://www.uni-heidelberg.de/md/zaw/papy/forschung/bullemendpap_1.2.pdf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,51 @@
+{
+    "description": "Konkordanz IG - SEG Diese Konkordanz erm\u00f6glicht die Abfrage aller in der SEG referenzierten IG-Inschriften. Nach Eingabe von IG-Band und -Inschrift erh\u00e4lt man eine Liste aller SEG-Eintr\u00e4ge der B\u00e4nde 1-58. Aufgef\u00fchrt werden auch SEG-Eintr\u00e4ge, die sich vor dem Erscheinen des entsprechenden IG-Bandes mit dessen Inschriften befassen. Konkordanz IG - IG.", 
+    "domain": "www.ig.uni-muenster.de", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Konkordanzen zu den Inscriptiones Graecae", 
+        "url": "http://www.ig.uni-muenster.de/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7816305231725706904", 
+            "resource_date": "2013-06-14T10:10:00.593-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:04.649420"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/inscriptiones-graecae-konkordanz-ig-seg.html", 
+            "resource_date": "2013-06-14T10:10:00.593-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:04.649433"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Konkordanz IG - SEG", 
+    "url": "http://www.ig.uni-muenster.de/igseg.dll", 
+    "volume": "-", 
+    "year": null, 
+    "zotero_id": null
+}

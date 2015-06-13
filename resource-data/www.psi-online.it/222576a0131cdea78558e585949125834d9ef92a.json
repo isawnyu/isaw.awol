@@ -1,0 +1,51 @@
+{
+    "description": "PSIonline:\u00a0Papiri della Societ\u00e0 Italiana. Il progetto PSI on-line \u00e8 nato grazie ad accordi di cooperazione stipulati tra diverse istituzioni nazionali ed internazionali: l\u2019Universit\u00e0 di Cassino, l\u2019Accademia Fiorentina di Papirologia, la Biblioteca Medicea Laurenziana, l\u2019Istituto Papirologico Vitelli, il Museo Archeologico del Cairo, la Biblioteca di Alessandria. Attualmente, la sua realizzazione \u00e8 curata dal Centro Editoriale e dal Laboratorio di Ricerche Storiche e Archeologiche dell\u2019Antichit\u00e0 (Dipartimento di Scienze Umanistiche) dell\u2019Universit\u00e0 di Cassino.", 
+    "domain": "www.psi-online.it", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "papyrology", 
+        "Italy"
+    ], 
+    "language": [
+        "it", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4779677277893355756", 
+            "resource_date": "2013-01-15T21:17:44.482-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:25.965475"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/psionline-papiri-della-societa-italiana.html", 
+            "resource_date": "2013-01-15T21:17:44.482-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:25.965494"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "PSIonline: Papiri della Societ\u00e0 Italiana", 
+    "url": "http://www.psi-online.it/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

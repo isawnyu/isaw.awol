@@ -1,0 +1,55 @@
+{
+    "description": "<tr align=\"center\"> <td colspan=\"2\"> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"> <tbody><tr> <td> <a href=\"http://repositories. cdlib. org/imbs/socdyn/sdeas/vol2/iss1/\">Issue 1</a> </td></tr> <tr> <td> <a href=\"http://repositories. cdlib. org/imbs/socdyn/sdeas/vol2/iss2/\">Issue 2</a> </td></tr> <tr> <td> <a href=\"http://repositories. cdlib. org/imbs/socdyn/sdeas/vol2/iss3/\">Issue 3</a> </td></tr> </tbody></table> </td> </tr> Issue 1 Issue 2 Issue 3 <tr align=\"center\"> <td colspan=\"2\"> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"> <tbody><tr> <td> <a href=\"http://repositories. cdlib. org/imbs/socdyn/sdeas/vol2/iss1/\">Issue 1</a> </td></tr> <tr> <td> <a href=\"http://repositories. cdlib. org/imbs/socdyn/sdeas/vol2/iss2/\">Issue 2</a> </td></tr> <tr> <td> <a href=\"http://repositories. cdlib. org/imbs/socdyn/sdeas/vol2/iss3/\">Issue 3</a> </td></tr> </tbody></table> </td> </tr>.", 
+    "domain": "repositories.cdlib.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "1554-3374", 
+        "title": "Structure and Dynamics: eJournal of Anthropological and Related Sciences", 
+        "url": "http://repositories.cdlib.org/imbs/socdyn/sdeas/"
+    }, 
+    "keywords": [
+        "journal", 
+        "journal issues"
+    ], 
+    "language": [
+        "ro", 
+        0.9841379387927052
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2869138931861328862", 
+            "resource_date": "2009-10-06T13:48:16.972-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:37.995170"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journal-structure-and.html", 
+            "resource_date": "2009-10-06T13:48:16.972-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:37.995184"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "%IMAGEREPLACED%", 
+    "url": "http://repositories.cdlib.org/imbs/socdyn/sdeas/vol2/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

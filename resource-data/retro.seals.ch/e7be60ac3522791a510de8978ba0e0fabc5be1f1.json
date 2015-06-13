@@ -1,0 +1,54 @@
+{
+    "description": "1996 Asiatische Studien: Zeitschrift der Schweizerischen Asiengesellschaft = Etudes asiatiques: revue de la Soci\u00e9t\u00e9 Suisse - Asie.", 
+    "domain": "retro.seals.ch", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Asiatische Studien", 
+        "url": "http://retro.seals.ch/digbib/vollist?UID=ast-002&id=browse&id2=browse1"
+    }, 
+    "keywords": [
+        "Switzerland", 
+        "journal"
+    ], 
+    "language": [
+        "lb", 
+        0.9999999999999531
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8374431298552310931", 
+            "resource_date": "2011-10-31T12:18:12.651-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:19.567856"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-asiatische-studien.html", 
+            "resource_date": "2011-10-31T12:18:12.651-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:19.567871"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "1996", 
+    "url": "http://retro.seals.ch/digbib/voltoc?rid=ast-002:1996:50::1080&id=browse&id2=browse1&id3=", 
+    "volume": "1996", 
+    "year": null, 
+    "zotero_id": null
+}

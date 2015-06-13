@@ -1,0 +1,50 @@
+{
+    "description": "Tyndale Bulletin.", 
+    "domain": "www.etana.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "New online journals", 
+        "url": "http://www.etana.org/abzu/abzu-displayentry.pl?RC=21097"
+    }, 
+    "keywords": [
+        "journal"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8377551444714480184", 
+            "resource_date": "2012-11-07T09:24:08.224-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:20.025490"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/01/now-online-journals.html", 
+            "resource_date": "2012-11-07T09:24:08.224-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:20.025504"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Tyndale Bulletin", 
+    "url": "http://www.etana.org/abzu/abzu-displayentry.pl?RC=21076", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

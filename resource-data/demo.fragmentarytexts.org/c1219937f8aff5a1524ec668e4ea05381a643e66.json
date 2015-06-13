@@ -1,0 +1,53 @@
+{
+    "description": "The Revolt of Samos is a section where we have chosen the tradition of the Athenian suppression of the revolt of Samos (441-439 BC) to provide a test case for designing a \"synoptical representation\" of primary sources. We are also working on a section about Istros the Callimachean.", 
+    "domain": "demo.fragmentarytexts.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "demo.fragmentarytexts.org", 
+        "url": "http://demo.fragmentarytexts.org/"
+    }, 
+    "keywords": [
+        "Athens"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8918038075477966850", 
+            "resource_date": "2013-08-22T07:35:00.308-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:15:31.834221"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/08/demofragmentarytextsorg.html", 
+            "resource_date": "2013-08-22T07:35:00.308-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:15:31.834237"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Revolt of Samos", 
+    "url": "http://demo.fragmentarytexts.org/en/revolt-of-samos.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

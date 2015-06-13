@@ -1,0 +1,50 @@
+{
+    "description": "Conference Guests.", 
+    "domain": "www.rock-cut.thracians.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "The Rock-Cut Sacred Places of the Thracians and Other Palaeo-Balkan and Ancient Anatolian Peoples", 
+        "url": "http://www.rock-cut.thracians.org/"
+    }, 
+    "keywords": [
+        "conference"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5485345168514564420", 
+            "resource_date": "2013-02-11T20:57:21.833-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:42.175136"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/the-rock-cut-sacred-places-of-thracians.html", 
+            "resource_date": "2013-02-11T20:57:21.833-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:42.175151"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Conference", 
+    "url": "http://www.rock-cut.thracians.org/en/conference.php", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

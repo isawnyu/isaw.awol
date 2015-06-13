@@ -1,0 +1,53 @@
+{
+    "description": "Italian and sicilian cultures (17) jewelry (4).", 
+    "domain": "arachne.uni-koeln.de", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "iDAI.bookbrowser", 
+        "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/188"
+    }, 
+    "keywords": [
+        "Italian"
+    ], 
+    "language": [
+        "en", 
+        0.9970856401700222
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1111922213181555620", 
+            "resource_date": "2013-11-29T07:57:14.931-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:11:27.072314"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/idaibookbrowser.html", 
+            "resource_date": "2013-11-29T07:57:14.931-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:11:27.072325"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Italian and sicilian cultures (17)", 
+    "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=56", 
+    "volume": "17", 
+    "year": null, 
+    "zotero_id": null
+}

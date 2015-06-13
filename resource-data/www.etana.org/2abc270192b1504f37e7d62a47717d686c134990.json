@@ -1,0 +1,48 @@
+{
+    "description": "[more].", 
+    "domain": "www.etana.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Cuneiform Texts from Babylonian Tablets in the British Museum (CT) Online", 
+        "url": "http://www.etana.org/coretexts"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6270243460046702657", 
+            "resource_date": "2013-12-01T08:30:38.083-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:01.596644"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/cuneiform-texts-from-babylonian-tablets.html", 
+            "resource_date": "2013-12-01T08:30:38.083-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:01.596658"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "more", 
+    "url": "http://www.etana.org/node/935", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

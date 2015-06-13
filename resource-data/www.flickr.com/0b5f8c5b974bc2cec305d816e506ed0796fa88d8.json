@@ -1,0 +1,56 @@
+{
+    "description": "The Egypt Exploration Society flickr Photostream.", 
+    "domain": "www.flickr.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Institutional flickr Photostreams", 
+        "url": "http://www.flickr.com/people/apaame/"
+    }, 
+    "keywords": [
+        "Egypt", 
+        "Egypt Exploration Society", 
+        "flickr", 
+        "imagery"
+    ], 
+    "language": [
+        "en", 
+        0.9999999985046699
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3936377341347735887", 
+            "resource_date": "2013-11-11T17:28:15.625-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:09.413874"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/11/institutional-flickr-photostreams.html", 
+            "resource_date": "2013-11-11T17:28:15.625-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:09.413887"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "The Egypt Exploration Society flickr Photostream", 
+    "url": "http://www.flickr.com/people/egyptexplorationsociety/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

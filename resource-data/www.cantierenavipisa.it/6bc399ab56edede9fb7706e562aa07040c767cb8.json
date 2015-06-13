@@ -1,0 +1,48 @@
+{
+    "description": "I Reperti.", 
+    "domain": "www.cantierenavipisa.it", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "Il Cantiere delle Navi Antiche di Pisa", 
+        "url": "http://www.cantierenavipisa.it/Index.html"
+    }, 
+    "keywords": [], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5350968722240080380", 
+            "resource_date": "2013-03-05T06:24:45.565-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:13:39.245523"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/il-cantiere-delle-navi-antiche-di-pisa.html", 
+            "resource_date": "2013-03-05T06:24:45.565-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:13:39.245539"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "I Reperti", 
+    "url": "http://www.cantierenavipisa.it/Reperti.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

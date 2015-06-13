@@ -1,0 +1,55 @@
+{
+    "description": "Dataset to accompany the excavation report for a \u2018liberated African\u2019 graveyard in Rupert\u2019s Valley, St Helena, South Atlantic April 3, 2012 \u2022 Andrew Pearson.", 
+    "domain": "openarchaeologydata.metajnl.com", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "2049-1565", 
+        "title": "Journal of Open Archaeology Data (JOAD)", 
+        "url": "http://openarchaeologydata.metajnl.com/"
+    }, 
+    "keywords": [
+        "report", 
+        "archaeology"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1081318972266302437", 
+            "resource_date": "2013-05-21T13:29:46.323-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:11:25.990101"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/nerw-open-access-journal-journal-of.html", 
+            "resource_date": "2013-05-21T13:29:46.323-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:11:25.990116"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Dataset to accompany the excavation report for a \u2018liberated African\u2019 graveyard in Rupert\u2019s Valley, St Helena, South Atlantic", 
+    "url": "http://openarchaeologydata.metajnl.com/article/dataset-to-accompany-the-excavation-report-for-a-liberated-african-graveyard-in-ruperts-valley-st-helena-south-atlantic/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

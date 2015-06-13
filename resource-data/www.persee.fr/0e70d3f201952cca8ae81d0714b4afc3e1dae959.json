@@ -1,0 +1,54 @@
+{
+    "description": "[ 34-2 ] See also The Ancient World in Pers\u00e9e.", 
+    "domain": "www.persee.fr", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "issn": "1957-701X", 
+        "title": "Pal\u00e9orient", 
+        "url": "http://www.persee.fr/web/revues/home/prescript/revue/paleo"
+    }, 
+    "keywords": [
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        0.9999972859532782
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2883078622035089529", 
+            "resource_date": "2013-07-11T07:30:34.475-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:12:38.672316"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-juournal-paleorient.html", 
+            "resource_date": "2013-07-11T07:30:34.475-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:12:38.672332"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "34-2", 
+    "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2008_num_34_2", 
+    "volume": "34-2", 
+    "year": "2008", 
+    "zotero_id": null
+}

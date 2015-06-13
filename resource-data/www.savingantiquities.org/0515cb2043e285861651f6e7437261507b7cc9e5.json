@@ -1,0 +1,51 @@
+{
+    "description": "resources section where items can now be searched by topic, region and date. The news section on the home page has up-to-the-minute reports, and polls are now on their own separate page.", 
+    "domain": "www.savingantiquities.org", 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title": "SAFE Website Relaunched", 
+        "url": "http://www.savingantiquities.org/"
+    }, 
+    "keywords": [], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6288466917595605675", 
+            "resource_date": "2012-03-26T21:10:10.642-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-13T16:14:01.959683"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/safe-website-relaunched.html", 
+            "resource_date": "2012-03-26T21:10:10.642-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-13T16:14:01.959697"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "resources section", 
+    "url": "http://www.savingantiquities.org/resources-3/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}
