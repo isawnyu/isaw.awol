@@ -166,30 +166,30 @@ class AwolBaseParser:
         logger = logging.getLogger(sys._getframe().f_code.co_name)
         #logger.debug('getting resources from {0}'.format(article.id))
         primary_resource = self._get_primary_resource(article)
-        primary_resource.subordinate_resources = self._get_subordinate_resources(article)
-        for sr in primary_resource.subordinate_resources:
-            parent = {
-                'title': primary_resource.title,
-                'url': primary_resource.url
-            }
-            if len(primary_resource.identifiers.keys()) > 0:
-                try:
-                    parent['issn'] = primary_resource.identifiers['issn']['electronic'][0]
-                except KeyError:
-                    try:
-                        parent['issn'] = primary_resource.identifiers['issn']['generic'][0]
-                    except KeyError:
-                        try:
-                            parent['isbn'] = primary_resource.identifiers['isbn'][0]
-                        except KeyError:
-                            pass                            
-            sr.is_part_of = parent
-            #logger.debug(sr)
-        primary_resource.related_resources = self._get_related_resources()
-        #logger.debug(u'got: "{0}"'.format(unicode(primary_resource)))
-        foo = [primary_resource,] + primary_resource.subordinate_resources + primary_resource.related_resources
-        return foo
-        #return [primary_resource,]
+        #primary_resource.subordinate_resources = self._get_subordinate_resources(article)
+        #for sr in primary_resource.subordinate_resources:
+        #    parent = {
+        #        'title': primary_resource.title,
+        #        'url': primary_resource.url
+        #    }
+        #    if len(primary_resource.identifiers.keys()) > 0:
+        #        try:
+        #            parent['issn'] = primary_resource.identifiers['issn']['electronic'][0]
+        #        except KeyError:
+        #            try:
+        #                parent['issn'] = primary_resource.identifiers['issn']['generic'][0]
+        #            except KeyError:
+        #                try:
+        #                    parent['isbn'] = primary_resource.identifiers['isbn'][0]
+        #                except KeyError:
+        #                    pass                            
+        #    sr.is_part_of = parent
+        #    #logger.debug(sr)
+        #primary_resource.related_resources = self._get_related_resources()
+        ##logger.debug(u'got: "{0}"'.format(unicode(primary_resource)))
+        #foo = [primary_resource,] + primary_resource.subordinate_resources + primary_resource.related_resources
+        #return foo
+        return [primary_resource,]
 
     def _get_anchor_ancestor_for_title(self, anchor):
         a = anchor
@@ -368,14 +368,14 @@ class AwolBaseParser:
         desc_nodes = soup.body.div.contents
         desc_lines = []
         for desc_node in desc_nodes:
-            #logger.debug(u'desc_node: {0}'.format(unicode(desc_node)))
+            #logger.debug(u'desc_node: \n    {0}'.format(unicode(desc_node)))
             if type(desc_node) == NavigableString:
                 line = unicode(desc_node)
-                #logger.debug(u'appending: "{0}"'.format(line))
+                #logger.debug(u'  appending (A): "{0}"'.format(line))
                 desc_lines.append(line)
             elif desc_node.name == 'br':
                 desc_lines[-1] += u'.'
-                #logger.debug(u'backslapping fullstop for br')
+                #logger.debug(u'  backslapping fullstop for br (A)')
             else:
                 anchors = self._filter_anchors(desc_node.find_all('a'))
                 #logger.debug('anchor length: {0}'.format(len(anchors)))
@@ -384,15 +384,15 @@ class AwolBaseParser:
                         if this_node == anchors[1]:
                             break
                         if type(this_node) == NavigableString:
-                            line = unicode(desc_node)
-                            #logger.debug(u'appending: "{0}"'.format(line))
+                            line = unicode(this_node)
+                            #logger.debug(u'  appending (B): "{0}"'.format(line))
                             desc_lines.append(line)
                         elif desc_node.name == 'br':
                             desc_lines[-1].append(u'.')
-                            #logger.debug(u'backslapping fullstop for br')
+                            #logger.debug(u'backslapping fullstop for br (B)')
                         else:
                             lines = this_node.get_text('\n').split('\n')
-                            #logger.debug(u'extending with: {0}'.format(lines))
+                            #logger.debug(u'  extending with: {0}'.format(lines))
                             desc_lines.extend(lines)
                     break
                 else:
@@ -402,7 +402,7 @@ class AwolBaseParser:
                         pass
                     else:
                         lines = desc_node.get_text('\n').split('\n')
-                        #logger.debug(u'extended with: {0}'.format(lines))
+                        #logger.debug(u'  extended with: {0}'.format(lines))
         #logger.debug('desc_lines follows')
         #for line in desc_lines:
             #logger.debug(u'   {0}'.format(line))
@@ -523,8 +523,10 @@ class AwolBaseParser:
         # description
         html = self._get_description_html()
         this_soup = BeautifulSoup(html)
+        #logger.debug(u'description soup: \n\n{0}'.format(unicode(this_soup)))
+        #logger.debug(u'description text: \n\n{0}'.format(this_soup.get_text()))
         desc_text = self._get_description(this_soup)
-        #logger.debug(u'got desc_text: {0}'.format(desc_text))
+        #logger.debug(u'got desc_text: \n\n{0}'.format(desc_text))
 
         # parse identifiers
         identifiers = self._parse_identifiers(desc_text)
