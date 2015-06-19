@@ -11,7 +11,7 @@ import sys
 from isaw.awol.normalize_space import normalize_space
 
 RX_CANARY = re.compile(r'[\.,:!\"“„\;\-\s\']+', re.IGNORECASE)
-RX_DASHES = re.compile(r'[‒–—-]+')
+RX_DASHES = re.compile(r'[‒–—-‑]+')
 
 def clean_string(raw):
     prepped = normalize_space(raw)
