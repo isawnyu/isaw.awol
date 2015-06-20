@@ -11,7 +11,16 @@ import sys
 from isaw.awol.normalize_space import normalize_space
 
 RX_CANARY = re.compile(r'[\.,:!\"“„\;\-\s\']+', re.IGNORECASE)
-RX_DASHES = re.compile(r'[‒–—-‑]+')
+RX_DASHES = re.compile(u'['
+    + u'\u2010' # hyphen
+    + u'\u2011' # non-breaking hyphen
+    + u'\u2012' # figure dash
+    + u'\u2013' # en dash
+    + u'\u2014' # em dash
+    + u'\u2015' # quotation dash
+    + u'\u2e3a' # two-em dash
+    + u'\u2e3b' # three-em dash
+    + u']+')
 
 def clean_string(raw):
     prepped = normalize_space(raw)
@@ -137,8 +146,7 @@ def deduplicate_lines(raws):
 
 def purify_html(raw):
     """Out vile jelly!"""
-    cooked = RX_DASHES.sub(u'-', raw)   # regularize dashes
-    cooked = cooked.replace(u'\u00A0', u' ')  # get rid of non-breaking spaces
-    cooked = cooked.replace(u'\xa0', u' ')
-    cooked = cooked.replace(u'N\xb0', u'No.')   # extirpate superscript 'o' in volume numbers
+    cooked = RX_DASHES.sub(u'-', raw)   # regularize dashes and hyphens
+    cooked = cooked.replace(u'\u00a0', u' ')    # non-breaking space delenda est
+    cooked = cooked.replace(u'N\xb0', u'No.')   # extirpate use of degree sign as superscript "o" in volume numbers
     return cooked
