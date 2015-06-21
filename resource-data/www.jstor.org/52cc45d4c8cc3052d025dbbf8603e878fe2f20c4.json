@@ -10,10 +10,14 @@
     }, 
     "is_part_of": null, 
     "keywords": [
+        "classics", 
         "JSTOR", 
         "antiquity"
     ], 
-    "language": null, 
+    "language": [
+        "it", 
+        0.9999981653646096
+    ], 
     "provenance": [
         {
             "fields": [
@@ -35,18 +39,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6130052852750087038", 
             "resource_date": "2009-12-14T10:29:47.337-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-21T22:24:32.995491"
+            "when": "2015-06-21T23:08:01.454072"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2009-12-14T10:29:47.337-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-21T22:24:32.995508"
+            "when": "2015-06-21T23:08:01.454089"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "New Ancient World Content in JSTOR", 
+    "title": "Quaderni Urbinati di Cultura Classica", 
     "url": "http://www.jstor.org/action/showPublication?journalCode=quadurbicultclas", 
     "volume": null, 
     "year": null, 

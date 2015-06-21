@@ -9,7 +9,9 @@
         }
     }, 
     "is_part_of": null, 
-    "keywords": [], 
+    "keywords": [
+        "journal"
+    ], 
     "language": [
         "fr", 
         1.0
@@ -35,18 +37,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8752339944672987588", 
             "resource_date": "2009-09-03T07:20:41.774-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-21T22:25:11.640719"
+            "when": "2015-06-21T23:08:39.949178"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/revue-detudes-medievales-romanes-issn.html", 
             "resource_date": "2009-09-03T07:20:41.774-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-21T22:25:11.640735"
+            "when": "2015-06-21T23:08:39.949192"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "None", 
+    "title": "Revue d\u2019\u00e9tudes m\u00e9di\u00e9vales romanes", 
     "url": "http://atalaya.revues.org/", 
     "volume": null, 
     "year": null, 

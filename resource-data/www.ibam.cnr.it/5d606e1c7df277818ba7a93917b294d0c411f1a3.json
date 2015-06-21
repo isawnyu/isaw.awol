@@ -10,10 +10,7 @@
         "archaeology", 
         "open access"
     ], 
-    "language": [
-        "en", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -35,18 +32,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-402325928804172241", 
             "resource_date": "2014-03-21T08:51:24.743-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-21T22:24:04.985217"
+            "when": "2015-06-21T23:07:33.589878"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/open-access-journal-ibam-newsletter.html", 
             "resource_date": "2014-03-21T08:51:24.743-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-21T22:24:04.985233"
+            "when": "2015-06-21T23:07:33.589894"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "IBAM Newsletter The Institute of Archaeological and Monumental Heritage. The National Research Council - Italy", 
+    "title": "IBAM Newsletter", 
     "url": "http://www.ibam.cnr.it/pagine.php?pagina=Newsletter", 
     "volume": null, 
     "year": null, 

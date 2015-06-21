@@ -3,7 +3,9 @@
     "domain": "www.ceeol.com", 
     "identifiers": {}, 
     "is_part_of": null, 
-    "keywords": [], 
+    "keywords": [
+        "digital library"
+    ], 
     "language": [
         "en", 
         1.0
@@ -29,18 +31,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1927624230518631241", 
             "resource_date": "2013-06-21T08:19:07.418-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-21T22:23:33.851934"
+            "when": "2015-06-21T23:07:04.138021"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/correction.html", 
             "resource_date": "2013-06-21T08:19:07.418-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-21T22:23:33.851949"
+            "when": "2015-06-21T23:07:04.138037"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Correction", 
+    "title": "Central and Eastern European Online Library", 
     "url": "http://www.ceeol.com/index.aspx", 
     "volume": null, 
     "year": null, 

@@ -7,12 +7,14 @@
         "Turkey", 
         "Anatolia", 
         "journal", 
-        "archaeology", 
-        "open access"
+        "culture", 
+        "open access", 
+        "tourism", 
+        "archaeology"
     ], 
     "language": [
         "tr", 
-        0.9999999999784257
+        0.9999999999769977
     ], 
     "provenance": [
         {
@@ -35,18 +37,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4900799395529718215", 
             "resource_date": "2014-10-24T12:08:14.352-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-21T22:24:17.248821"
+            "when": "2015-06-21T23:07:45.846990"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/seven-open-access-turkish.html", 
             "resource_date": "2014-10-24T12:08:14.352-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-21T22:24:17.248837"
+            "when": "2015-06-21T23:07:45.847005"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Seven Open Access Turkish Archaeological Journals", 
+    "title": "Turkish Ministry of Culture and Tourism", 
     "url": "http://www.kulturvarliklari.gov.tr/", 
     "volume": null, 
     "year": null, 

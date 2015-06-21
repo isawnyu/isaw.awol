@@ -31,6 +31,18 @@ class Parser(AwolDomainParser):
     #                return pa
     #    return pa
 
+    def _reconcile_titles(self, anchor_title=None, article_title=None):
+        """Override some ASCSA titles."""
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+        logger.debug(u'anchor_title: "{0}"'.format(anchor_title))
+        logger.debug(u'article_title: "{0}"'.format(article_title))
+        if anchor_title == u"newsletter's home page here" and article_title == u'ákoue News':
+            return (article_title,)
+        else:
+            return AwolDomainParser._reconcile_titles(self, anchor_title, article_title)
+            
+
+
     def reset(self, content_soup=None):
         AwolDomainParser.reset(self, content_soup)
         self.skip_urls.append('http://www.ascsa.edu.gr/index.php/news/newsDetails/school-newsletter-now-online')

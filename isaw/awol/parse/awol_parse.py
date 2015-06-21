@@ -665,7 +665,7 @@ class AwolBaseParser:
         elif clean_article_lower in anchor_lower:
             return (clean_article_title, anchor_title)
         else:
-            return (clean_article_title,)
+            return (anchor_title,)
 
     def _make_resource(self, **kwargs):
         r = Resource()
