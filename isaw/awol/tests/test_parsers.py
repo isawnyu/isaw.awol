@@ -173,3 +173,14 @@ def test_parsers_issue56():
         logger.debug(r.description)
         raise Exception
 
+@with_setup(setup_function, teardown_function)
+def test_parsers_issue56():
+    """Make sure we're not favoring article titles over anchor titles."""
+    logger = logging.getLogger(sys._getframe().f_code.co_name)
+    file_name = os.path.join(PATH_TEST_DATA, 'post-quick-list.xml')
+    a = AwolArticle(atom_file_name=file_name)
+    parsers = AwolParsers()
+    resources = parsers.parse(a)
+    r = resources[0]
+    assert_equals(r.title, u'OIP 139. Early Megiddo on the East Slope (the “Megiddo Stages”): A Report on the Early Occupation of the East Slope of Megiddo (Results of the Oriental Institute’s Excavations, 1925-1933)')
+
