@@ -1,9 +1,9 @@
 {
-    "description": "Reppal. ISSN\u00a0 0330-843X. Revue du Centre d'Etudes de la Civilisation Ph\u00e9nicienne-Punique et des Antiquit\u00e9s LibyquesMagallat ad-dirasat al-finiqiyat al-buniyat wa al-tar al-lubiyat.", 
+    "description": "[First Posted in AWOL 18 October 2012, updated 15 May 2014]. Reppal: Revue du Centre d'Etudes de la Civilisation Ph\u00e9nicienne-Punique et des Antiquit\u00e9s Libyques. ISSN\u00a0 0330-843X. Revue du Centre d'Etudes de la Civilisation Ph\u00e9nicienne-Punique et des Antiquit\u00e9s LibyquesMagallat ad-dirasat al-finiqiyat al-buniyat wa al-tar al-lubiyat.", 
     "domain": "www.inp.rnrt.tn", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0330-843X"
             ]
         }
@@ -12,6 +12,7 @@
     "keywords": [
         "Tunisia", 
         "journal", 
+        "antiquity", 
         "Punic", 
         "open access", 
         "Phoenician", 
@@ -40,26 +41,21 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8367557547806981769", 
-            "resource_date": "2012-10-18T13:15:49.595-04:00", 
+            "resource_date": "2014-05-15T16:19:33.853-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:18.076658"
+            "when": "2015-06-20T16:13:46.046592"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/open-access-journal-reppal.html", 
-            "resource_date": "2012-10-18T13:15:49.595-04:00", 
+            "resource_date": "2014-05-15T16:19:33.853-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:18.076679"
+            "when": "2015-06-20T16:13:46.046608"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.inp.rnrt.tn/periodiques/reppal/reppal1.pdf", 
-        "http://www.inp.rnrt.tn/periodiques/reppal/reppal3.pdf", 
-        "http://www.inp.rnrt.tn/periodiques/reppal/reppal4.pdf", 
-        "http://www.inp.rnrt.tn/periodiques/reppal/reppal6.pdf"
-    ], 
-    "title": "Reppal", 
-    "url": "http://www.inp.rnrt.tn/index.php?lang=fr", 
+    "subordinate_resources": [], 
+    "title": "Reppal: Revue du Centre d'Etudes de la Civilisation Ph\u00e9nicienne-Punique et des Antiquit\u00e9s Libyques", 
+    "url": "http://www.inp.rnrt.tn/index.php?option=com_content&view=article&id=103&Itemid=3&lang=fr", 
     "volume": null, 
     "year": null, 
     "zotero_id": null

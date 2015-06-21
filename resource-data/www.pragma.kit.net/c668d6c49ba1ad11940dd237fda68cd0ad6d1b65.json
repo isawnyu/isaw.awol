@@ -3,7 +3,7 @@
     "domain": "www.pragma.kit.net", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2236-0077"
             ]
         }
@@ -41,25 +41,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9194323707020775896", 
             "resource_date": "2013-02-28T19:06:52.512-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:39.290461"
+            "when": "2015-06-20T16:13:58.592825"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-kleos.html", 
             "resource_date": "2013-02-28T19:06:52.512-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:39.290475"
+            "when": "2015-06-20T16:13:58.592839"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.pragma.kit.net/kleos/v1.html", 
-        "http://www.pragma.kit.net/kleos/v2-3.html", 
-        "http://www.pragma.kit.net/kleos/v4.html", 
-        "http://www.pragma.kit.net/kleos/v5-6.html", 
-        "http://www.pragma.kit.net/kleos/v7-8.html", 
-        "http://www.pragma.kit.net/kleos/v9-10.html", 
-        "http://www.pragma.kit.net/kleos/v11-12.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "Kl\u00e9os", 
     "title_extended": "Kl\u00e9os: Revista de Filosofia Antiga", 
     "url": "http://www.pragma.kit.net/kleos.html", 

@@ -1,5 +1,5 @@
 {
-    "description": "<p>Paolo Monella sets forth his position on his blog <a href=\"http://www. unipa. it/paolo. monella/lincei/index. html\">Post-doc bourse</a><br/><br/><a href=\"http://www. unipa. it/paolo. monella/lincei/why. html\">Why are there no digital scholarly editions of \"classical\" texts?</a>. </p> Post-doc bourse.", 
+    "description": "Paolo Monella sets forth his position on his blog Post-doc bourse.", 
     "domain": "www.unipa.it", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -29,23 +29,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2862364641738437456", 
             "resource_date": "2012-04-02T10:25:37.633-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:37.868563"
+            "when": "2015-06-20T16:12:33.614695"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/opinionprovocation-why-are-there-no.html", 
             "resource_date": "2012-04-02T10:25:37.633-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:37.868580"
+            "when": "2015-06-20T16:12:33.614711"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.unipa.it/paolo.monella/lincei/why.html", 
-        "http://www.unipa.it/paolo.monella/lincei/why.html#problem", 
-        "http://www.unipa.it/paolo.monella/lincei/why.html#need", 
-        "http://www.unipa.it/paolo.monella/lincei/why.html#canonisation", 
-        "http://www.unipa.it/paolo.monella/lincei/why.html#link"
-    ], 
+    "subordinate_resources": [], 
     "title": "Opinion/Provocation: Why are there no digital scholarly editions of \"classical\" texts?", 
     "url": "http://www.unipa.it/paolo.monella/lincei/index.html", 
     "volume": null, 

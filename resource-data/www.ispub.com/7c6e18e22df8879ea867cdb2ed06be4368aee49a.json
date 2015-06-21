@@ -3,7 +3,7 @@
     "domain": "www.ispub.com", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1939-4594"
             ]
         }
@@ -40,13 +40,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3908864590378685108", 
             "resource_date": "2010-02-28T09:20:49.290-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:09.134882"
+            "when": "2015-06-20T16:12:50.571831"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-internet-journal-of.html", 
             "resource_date": "2010-02-28T09:20:49.290-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:09.134899"
+            "when": "2015-06-20T16:12:50.571850"
         }
     ], 
     "related_resources": [], 

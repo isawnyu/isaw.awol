@@ -3,7 +3,7 @@
     "domain": "www.unior.it", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2036-6353"
             ]
         }
@@ -38,24 +38,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6924131386275883419", 
             "resource_date": "2013-07-17T12:03:06.549-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:40.488621"
+            "when": "2015-06-20T16:13:28.024224"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/new-open-access-journal-newsletter.html", 
             "resource_date": "2013-07-17T12:03:06.549-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:40.488635"
+            "when": "2015-06-20T16:13:28.024240"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.unior.it/img_db/img_21-05-2009_4a15a62ae0004.jpg", 
-        "http://www.unior.it/index2.php?content_id=8113&content_id_start=1", 
-        "http://www.unior.it/index2.php?content_id=8114&content_id_start=1", 
-        "http://www.unior.it/index2.php?content_id=8115&content_id_start=1", 
-        "http://www.unior.it/index2.php?content_id=8112&content_id_start=1", 
-        "http://www.unior.it/index2.php?content_id=8917&content_id_start=1"
-    ], 
+    "subordinate_resources": [], 
     "title": "Newsletter Archeologia", 
     "url": "http://www.unior.it/index2.php?content_id=3632&content_id_start=1", 
     "volume": null, 

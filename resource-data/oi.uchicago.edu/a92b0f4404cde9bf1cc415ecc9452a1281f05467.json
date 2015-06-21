@@ -1,0 +1,54 @@
+{
+    "description": "Oriental Institute Communications (OIC), 31. Barda Balka By Bruce Howe, with foreword by Yorke M. Rowan Purchase.", 
+    "domain": "oi.uchicago.edu", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Iraq", 
+        "Kurdistan", 
+        "book", 
+        "archaeology", 
+        "Oriental Institute"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999999922
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2041965728532829779", 
+            "resource_date": "2014-07-02T09:53:31.115-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:12:23.773786"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/07/new-book-from-oriental-institute-barda.html", 
+            "resource_date": "2014-07-02T09:53:31.115-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:12:23.773802"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Barda Balka", 
+    "url": "http://oi.uchicago.edu/research/publications/oic/oic-31-barda-balka", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

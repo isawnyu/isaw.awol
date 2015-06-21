@@ -3,7 +3,7 @@
     "domain": "www.uib.no", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0806-198X"
             ]
         }
@@ -41,20 +41,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6139092230240853817", 
             "resource_date": "2010-06-09T15:42:20.503-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:56.264478"
+            "when": "2015-06-20T16:13:17.603369"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-journal-of-arabic.html", 
             "resource_date": "2010-06-09T15:42:20.503-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:56.264495"
+            "when": "2015-06-20T16:13:17.603386"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.uib.no/jais/content.htm", 
-        "http://www.uib.no/jais/content8-.htm"
-    ], 
+    "subordinate_resources": [], 
     "title": "Journal of Arabic and Islamic studies", 
     "url": "http://www.uib.no/jais/jais.htm", 
     "volume": null, 

@@ -1,9 +1,9 @@
 {
-    "description": "[First posted in AWOL. 6 November 2009. Updated 14 July 2011]. Rivista di Diritto Romano. ISSN 1720-3694. Periodico di storia del diritto romano, di diritti antichi e della tradizione romanistica medioevale e moderna. Current issue.", 
+    "description": "[First posted in AWOL. 6 November 2009. Updated 23 November 2014]. Rivista di Diritto Romano. ISSN 1720-3694. Qualcuno potrebbe chiedersi se, in presenza di numerosi e autorevoli periodici di diritto romano e diritti dell'antichit\u00e0 pubblicati anche e soprattutto in Italia, fosse proprio il caso di metterne in cantiere uno nuovo: se fosse un lettore tendenzialmente benevolo e animato da incrollabile fiducia nel principio della concorrenza, potrebbe forse dare risposta positiva affermando che l'ingresso di un nuovo operatore sul mercato (!) dovrebbe portare a un miglioramento dell'offerta in generale.", 
     "domain": "www.ledonline.it", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1720-3694"
             ]
         }
@@ -38,23 +38,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5519294264223474694", 
-            "resource_date": "2011-07-15T11:14:52.936-04:00", 
+            "resource_date": "2014-11-23T11:24:45.244-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:42.629162"
+            "when": "2015-06-20T16:13:09.469426"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-rivista-di-diritto.html", 
-            "resource_date": "2011-07-15T11:14:52.936-04:00", 
+            "resource_date": "2014-11-23T11:24:45.244-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:42.629177"
+            "when": "2015-06-20T16:13:09.469442"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.ledonline.it/rivistadirittoromano/allegati/dirittoromano11Agnati.pdf", 
-        "http://www.ledonline.it/rivistadirittoromano/allegati/dirittoromano11Coppola.pdf", 
-        "http://www.ledonline.it/rivistadirittoromano/allegati/dirittoromano11Mastrangelo.pdf"
-    ], 
+    "subordinate_resources": [], 
     "title": "Rivista di Diritto Romano", 
     "url": "http://www.ledonline.it/rivistadirittoromano/", 
     "volume": null, 

@@ -1,5 +1,5 @@
 {
-    "description": "[First posted Secember 22, 2009. Updated June 21, 2011]. Fornv\u00e4nnen. Starting in 2009 the Digital Fornv\u00e4nnen is published at this website. Publisher is the Royal Swedish Academy of Letters, History and Antiquities, and the web edition is made available on the Internet by the Swedish National Heritage Board and the Library of the Royal Swedish Academy of Letters, History and Antiquities. The Table of Contents and Abstracts will be published simultaneously with the print edition at fornvannen. se, while the full text of the articles will be published electronically 6 months after the print edition has reached its subscribers. The articles will then be available free of charge. The Table of Contents and links to available articles in full text will be found at the webpage of the annual issue. Please use the search function or the Table of Contents to locate articles in pdf-format. The library catalogue VITALIS (http://vitalis. raa. se) and the cross search service, Kulturmilj\u00f6s\u00f6k, Cultural Heritage Search (http://www. kms. raa. se/cocoon/kulturmiljosok/enkel_sok. html) also provide links to the articles in full text. What is Fornv\u00e4nnen? Fornv\u00e4nnen is the leading journal for antiquarian research in Sweden. It is also the oldest and most widely distributed journal, with the largest review section in the subject field in Scandinavia. Publication started in 1906. The leading Scandinavian experts in archaeology and Medieval research are published in Fornv\u00e4nnen. The articles in Fornv\u00e4nnen are written mainly in Swedish, sometimes in Danish, Norwegian, English and German. From 1925 there are abstracts and picture headings in English or German. In later issues non-English articles are provided with a Summary in English.", 
+    "description": "[First posted Secember 22, 2009. Updated June 21, 2011]. Fornv\u00e4nnen. The Digital Fornv\u00e4nnen.", 
     "domain": "fornvannen.se", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -8,8 +8,8 @@
         "open access"
     ], 
     "language": [
-        "en", 
-        1.0
+        "fi", 
+        0.9999999708368645
     ], 
     "provenance": [
         {
@@ -32,31 +32,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6700494801013072138", 
             "resource_date": "2011-07-07T09:15:02.831-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:36.438980"
+            "when": "2015-06-20T16:13:25.867079"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/open-access-journal-fornvannen.html", 
             "resource_date": "2011-07-07T09:15:02.831-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:36.438997"
+            "when": "2015-06-20T16:13:25.867095"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://fornvannen.se/fornvannen_senaste.html", 
-        "http://fornvannen.se/1900talet/fornvannen_1906.html", 
-        "http://fornvannen.se/1910talet/fornvannen_1910.html", 
-        "http://fornvannen.se/1920talet/fornvannen_1920.html", 
-        "http://fornvannen.se/1930talet/fornvannen_1930.html", 
-        "http://fornvannen.se/1940talet/fornvannen_1940.html", 
-        "http://fornvannen.se/1950talet/fornvannen_1950.html", 
-        "http://fornvannen.se/1960talet/fornvannen_1960.html", 
-        "http://fornvannen.se/1970talet/fornvannen_1970.html", 
-        "http://fornvannen.se/1980talet/fornvannen_1980.html", 
-        "http://fornvannen.se/1990talet/fornvannen_1990.html", 
-        "http://fornvannen.se/2000talet/fornvannen_2000.html", 
-        "http://fornvannen.se/2010talet/fornvannen_2010.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "Fornv\u00e4nnen", 
     "url": "http://fornvannen.se/fornvannen.html", 
     "volume": null, 

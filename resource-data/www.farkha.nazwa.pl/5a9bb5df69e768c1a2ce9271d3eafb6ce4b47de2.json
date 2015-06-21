@@ -3,7 +3,7 @@
     "domain": "www.farkha.nazwa.pl", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0137-3285"
             ]
         }
@@ -41,26 +41,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2583452340409885846", 
             "resource_date": "2013-10-06T19:25:37.284-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:31.982609"
+            "when": "2015-06-20T16:12:30.805652"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-recherches.html", 
             "resource_date": "2013-10-06T19:25:37.284-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:31.982626"
+            "when": "2015-06-20T16:12:30.805668"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.farkha.nazwa.pl/RechACrac/?page_id=184", 
-        "http://www.farkha.nazwa.pl/RechACrac/?page_id=189", 
-        "http://www.farkha.nazwa.pl/RechACrac/?page_id=189", 
-        "http://www.farkha.nazwa.pl/RechACrac/?page_id=192", 
-        "http://www.farkha.nazwa.pl/RechACrac/?page_id=38", 
-        "http://www.farkha.nazwa.pl/RechACrac/?page_id=34", 
-        "http://www.farkha.nazwa.pl/RechACrac/?page_id=100", 
-        "http://www.farkha.nazwa.pl/RechACrac/?page_id=273"
-    ], 
+    "subordinate_resources": [], 
     "title": "Recherches Arch\u00e9ologiques Nouvelle Serie", 
     "url": "http://www.farkha.nazwa.pl/RechACrac/", 
     "volume": null, 

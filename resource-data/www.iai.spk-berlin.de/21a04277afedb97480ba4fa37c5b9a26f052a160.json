@@ -3,7 +3,7 @@
     "domain": "www.iai.spk-berlin.de", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0342-8642"
             ]
         }
@@ -38,44 +38,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-867256938983279301", 
             "resource_date": "2011-07-07T09:39:54.426-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:26.762121"
+            "when": "2015-06-20T16:13:52.826969"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-indiana.html", 
             "resource_date": "2011-07-07T09:39:54.426-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:26.762138"
+            "when": "2015-06-20T16:13:52.826986"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-27.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-26.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-25.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-24.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-23.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-22.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-21.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-1920.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-1718.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-16.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-15.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-14.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-13.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-12.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-11.html", 
-        "http://www.iai.spk-berlin.de/fileadmin/dokumentenbibliothek/Indiana/Inhaltsverzeichnisse_1-14__Index_1-10/Register_Indiana_1-10.pdf", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-10.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-9.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-8.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-7.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-6.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-5.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-4.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-3.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-2.html", 
-        "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben/indiana-1.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "Indiana", 
     "url": "http://www.iai.spk-berlin.de/publikationen/indiana/bisherige-ausgaben.html", 
     "volume": null, 

@@ -4,11 +4,12 @@
     "identifiers": {}, 
     "is_part_of": null, 
     "keywords": [
-        "religion", 
-        "Iraq", 
         "Isis", 
+        "religion", 
+        "open access", 
+        "Iraq", 
         "archaeology", 
-        "Amar"
+        "monograph"
     ], 
     "language": [
         "en", 
@@ -33,27 +34,20 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1640575574774770026", 
-            "resource_date": "2012-03-02T16:37:33.042-05:00", 
+            "resource_date": "2015-02-02T06:25:29.133-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:05.300260"
+            "when": "2015-06-20T16:12:18.589732"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/isin-isan-bahriyat-in-amar.html", 
-            "resource_date": "2012-03-02T16:37:33.042-05:00", 
+            "resource_date": "2015-02-02T06:25:29.133-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:05.300276"
+            "when": "2015-06-20T16:12:18.589747"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=68826&REC=1", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=68826&REC=1", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=86800&REC=2", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=86800&REC=2", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=104703&REC=3", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=104703&REC=3"
-    ], 
-    "title": "Isin - Isan Bahriyat in AMAR", 
+    "subordinate_resources": [], 
+    "title": "Isin - Isan Bahriyat", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "volume": null, 
     "year": null, 

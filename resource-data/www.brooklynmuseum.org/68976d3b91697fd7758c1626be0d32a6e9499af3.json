@@ -1,5 +1,5 @@
 {
-    "description": "<p>On January 8th 2009 the Brooklyn Museum issued more than 4000 new images from their <a href=\"http://www. brooklynmuseum. org/opencollection/archives/\" target=\"_blank\" title=\"Libraries and Archives\">Libraries and Archives</a> Department to the web. These join the 5700+ works of art and the nearly 10,000 views of past exhibitions they have already published online. <br/><br/>Among the images they've published is a selection, <a href=\"http://www. brooklynmuseum. org/opencollection/archives/lantern_slide_collection\">almost all of Egypt</a>, from their collection of 11,710 glass lantern slides: </p> Libraries and Archives <p>On January 8th 2009 the Brooklyn Museum issued more than 4000 new images from their <a href=\"http://www. brooklynmuseum. org/opencollection/archives/\" target=\"_blank\" title=\"Libraries and Archives\">Libraries and Archives</a> Department to the web. These join the 5700+ works of art and the nearly 10,000 views of past exhibitions they have already published online. <br/><br/>Among the images they've published is a selection, <a href=\"http://www. brooklynmuseum. org/opencollection/archives/lantern_slide_collection\">almost all of Egypt</a>, from their collection of 11,710 glass lantern slides: </p>.", 
+    "description": "On January 8th 2009 the Brooklyn Museum issued more than 4000 new images from their Libraries and Archives Department to the web. These join the 5700+ works of art and the nearly 10,000 views of past exhibitions they have already published online. Among the images they've published is a selection,.", 
     "domain": "www.brooklynmuseum.org", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -34,22 +34,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3901581915702807495", 
             "resource_date": "2009-01-13T15:16:14.771-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:09.038583"
+            "when": "2015-06-20T16:12:50.351775"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/brooklyn-museum-image-collections.html", 
             "resource_date": "2009-01-13T15:16:14.771-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:09.038600"
+            "when": "2015-06-20T16:12:50.351791"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.brooklynmuseum.org/opencollection/archives/lantern_slide_collection", 
-        "http://www.brooklynmuseum.org/opencollection/archives/set/72/collection_of_photographs_by_alfred_p._maudslay_1883-1890.", 
-        "http://www.brooklynmuseum.org/opencollection/tag_game/start.php", 
-        "http://www.brooklynmuseum.org/opencollection/collections/"
-    ], 
+    "subordinate_resources": [], 
     "title": "Brooklyn Museum Image Collections", 
     "url": "http://www.brooklynmuseum.org/opencollection/archives/", 
     "volume": null, 

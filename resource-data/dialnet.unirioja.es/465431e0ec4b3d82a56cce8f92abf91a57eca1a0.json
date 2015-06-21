@@ -1,9 +1,9 @@
 {
-    "description": "Mainake. ISSN: 0212-078X. Revista de la Diputaci\u00f3n Provincial de M\u00e1laga de periodicidad anual. Su objetivo es acoger y difundir los estudios y las novedades de Prehistoria, Protohistoria y Arqueolog\u00eda e Historia de la Antig\u00fcedad Cl\u00e1sica y del Medioevo. Presta especial atenci\u00f3n a temas relacionados con la provincia de M\u00e1laga, aunque en estrecha correspondencia con los trabajos que se desarrollan en tales campos en los \u00e1mbitos nacional e internacional.", 
+    "description": "Mainake. ISSN: 0212-078X.", 
     "domain": "dialnet.unirioja.es", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0212-078X"
             ]
         }
@@ -15,10 +15,7 @@
         "Spain", 
         "open access"
     ], 
-    "language": [
-        "es", 
-        1.0
-    ], 
+    "language": null, 
     "provenance": [
         {
             "fields": [
@@ -38,15 +35,15 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5291622488158296216", 
-            "resource_date": "2012-01-26T06:00:49.399-05:00", 
+            "resource_date": "2015-01-01T08:40:50.579-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:38.387072"
+            "when": "2015-06-20T16:13:07.233616"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-mainake.html", 
-            "resource_date": "2012-01-26T06:00:49.399-05:00", 
+            "resource_date": "2015-01-01T08:40:50.579-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:38.387088"
+            "when": "2015-06-20T16:13:07.233635"
         }
     ], 
     "related_resources": [], 

@@ -4,11 +4,12 @@
     "identifiers": {}, 
     "is_part_of": null, 
     "keywords": [
-        "Damascus", 
-        "Syria", 
         "monuments", 
+        "Damascus", 
+        "open access", 
+        "Syria", 
         "archaeology", 
-        "Amar"
+        "monograph"
     ], 
     "language": [
         "en", 
@@ -33,29 +34,20 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1096390894177956598", 
-            "resource_date": "2012-03-02T16:43:23.871-05:00", 
+            "resource_date": "2014-06-02T15:14:48.392-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:11:26.194426"
+            "when": "2015-06-20T16:12:11.152170"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html", 
-            "resource_date": "2012-03-02T16:43:23.871-05:00", 
+            "resource_date": "2014-06-02T15:14:48.392-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:11:26.194442"
+            "when": "2015-06-20T16:12:11.152185"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106805&REC=1", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106805&REC=1", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106898&REC=2", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106898&REC=2", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106951&REC=3", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=106951&REC=3", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=107060&REC=4", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=107060&REC=4"
-    ], 
-    "title": "Les Monuments ayyoubides de Damas in AMAR", 
+    "subordinate_resources": [], 
+    "title": "Les Monuments ayyoubides de Damas", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "volume": null, 
     "year": null, 

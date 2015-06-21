@@ -1,0 +1,51 @@
+{
+    "description": "Isops\u00e9phies Les lettres grecque faisant office de chiffres, chaque mot grec \u00e9tait susceptible d'avoir une valeur num\u00e9rale. Aussi les Grecs ont-ils jou\u00e9 sur la valeur num\u00e9rale de certains mots soit en les r\u00e9duisant \u00e0 des nombres (par exemple \u03d9\u03b8 \"99\" = \"amen\" dont chaque lettre en grec aboutit \u00e0 un total de 99), soit en op\u00e9rant des correspondances entre des mots de m\u00eame valeur num\u00e9rale (ainsi entre \u03b8\u03b5\u03cc\u03c2 \"dieu\", \u1f00\u03b3\u03b1\u03b8\u03cc\u03c2 \"bon\" et \u1f05\u03b3\u03b9\u03bf\u03c2 \"saint\" qui font tous les trois 284). C'est le principe de l'\"isops\u00e9phie\". Les isops\u00e9phies sous la forme de nombres (comme \u03d9\u03b8 \"99\" pour \"amen\") se rencontrent fr\u00e9quemment dans les documents sur papyrus, sur les objets de la vie quotidienne (comme les amphores) ou dans les inscriptions. Mais l'id\u00e9e qu'elles v\u00e9hiculent (c'est-\u00e0-dire le mot qui se cache derri\u00e8re ces nombres) n'a pas toujours \u00e9t\u00e9 identifi\u00e9e. L'utilitaire \"Isops\u00e9phies\" aidera \u00e0 la r\u00e9solution de ces petites \u00e9nigmes qui tracassent encore les chercheurs. Pour l'utiliser, il suffit de rentrer les mots pleins dans le premier champ (soit en les saisissants directement en grec unicode, soit en copiant \u00e0 partir d'un texte grec en unicode). La valeur num\u00e9rale des mots s'affiche alors dans le second champ, d\u00e9compt\u00e9s par lignes. Les caract\u00e8res \u00e9ventuellement non reconnus sont remplac\u00e9s par ?. Les lettres grecque faisant office de chiffres, chaque mot grec \u00e9tait susceptible d'avoir une valeur num\u00e9rale. Aussi les Grecs ont-ils jou\u00e9 sur la valeur num\u00e9rale de certains mots soit en les r\u00e9duisant \u00e0 des nombres (par exemple \u03d9\u03b8 \"99\" = \"amen\" dont chaque lettre en grec aboutit \u00e0 un total de 99), soit en op\u00e9rant des correspondances entre des mots de m\u00eame valeur num\u00e9rale (ainsi entre \u03b8\u03b5\u03cc\u03c2 \"dieu\", \u1f00\u03b3\u03b1\u03b8\u03cc\u03c2 \"bon\" et \u1f05\u03b3\u03b9\u03bf\u03c2 \"saint\" qui font tous les trois 284). C'est le principe de l'\"isops\u00e9phie\". Les isops\u00e9phies sous la forme de nombres (comme \u03d9\u03b8 \"99\" pour \"amen\") se rencontrent fr\u00e9quemment dans les documents sur papyrus, sur les objets de la vie quotidienne (comme les amphores) ou dans les inscriptions. Mais l'id\u00e9e qu'elles v\u00e9hiculent (c'est-\u00e0-dire le mot qui se cache derri\u00e8re ces nombres) n'a pas toujours \u00e9t\u00e9 identifi\u00e9e. L'utilitaire \"Isops\u00e9phies\" aidera \u00e0 la r\u00e9solution de ces petites \u00e9nigmes qui tracassent encore les chercheurs. Pour l'utiliser, il suffit de rentrer les mots pleins dans le premier champ (soit en les saisissants directement en grec unicode, soit en copiant \u00e0 partir d'un texte grec en unicode). La valeur num\u00e9rale des mots s'affiche alors dans le second champ, d\u00e9compt\u00e9s par lignes. Les caract\u00e8res \u00e9ventuellement non reconnus sont remplac\u00e9s par ?.", 
+    "domain": "www.ifao.egnet.net", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Greek", 
+        "language"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1214645674075961003", 
+            "resource_date": "2015-04-29T15:35:09.264-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:12:12.460938"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/03/isopsephies.html", 
+            "resource_date": "2015-04-29T15:35:09.264-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:12:12.460953"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Isops\u00e9phies", 
+    "url": "http://www.ifao.egnet.net/publications/outils/isopsephies/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,53 @@
+{
+    "description": "3D Petrie Museum. The Petrie Museum of Egyptian Archaeology has one of the largest ancient Egyptian and Sudanese collections in the world, named after pioneering Egyptologist, William Matthew Flinders Petrie. With our 3D viewer, you can virtually handle some of our highlight objects. This is a beta version of our website. It uses WebGL and is best viewed using Microsoft Internet Explorer version 11. x or higher,\u00a0 Google Chrome version 8. x or higher or Mozilla Firefox version 4. x or higher. You can determine the version of your browser by choosing 'Help' at the top of your browser. The models you see here are low resolution for the web. Higher resolution versions are available from the museum.", 
+    "domain": "www.ucl.ac.uk", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Egypt", 
+        "egyptology", 
+        "England", 
+        "museums"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5189243195651138906", 
+            "resource_date": "2014-05-27T12:05:57.557-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:13:06.221619"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/05/3d-petrie-museum.html", 
+            "resource_date": "2014-05-27T12:05:57.557-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:13:06.221634"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "3D Petrie Museum", 
+    "url": "http://www.ucl.ac.uk/3dpetriemuseum", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

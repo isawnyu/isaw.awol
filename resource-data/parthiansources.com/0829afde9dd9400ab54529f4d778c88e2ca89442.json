@@ -1,0 +1,49 @@
+{
+    "description": "Parthian Sources Online.", 
+    "domain": "parthiansources.com", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Parthia", 
+        "Iran", 
+        "history"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3217552088290366863", 
+            "resource_date": "2015-05-11T11:12:40.888-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:12:39.368668"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/05/parthian-sources-online.html", 
+            "resource_date": "2015-05-11T11:12:40.888-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:12:39.368684"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Parthian Sources Online", 
+    "url": "http://parthiansources.com/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -1,5 +1,5 @@
 {
-    "description": "Polymnia: Numismatica antica e medievale. Studi. Polymnia: Numismatica antica e medievale. Studi. The 2nd Simone Assemani Symposium on Islamic Coins, edited by Bruno Callegher and Arianna D'Ottone The 3 rd Simone Assemani Symposium on Islamic Coins [3], edited by Bruno Callegher and Arianna D'Ottone.", 
+    "description": "[First posted in AWOL 20 May 2013, updated 30 October 2014]. Polymnia: Numismatica antica e medievale. Studi. Gold Coin and Small Change: Monetary Circulation in Fifth-Seventh Century Byzantine Palestine by Gabriela I. Bijovsky Le \u201cantiche Monete della Cirenaica\u201dnella letteratura numismatica tra Ottocento e Novecento di Michele Asolati Monetazione del Patriarcato di Aquileia di Giulio Bernardi The 2 nd Simone Assemani Symposium on Islamic Coins edited by Bruno Callegher and Arianna D'Ottone The 3 rd Simone Assemani Symposium on Islamic Coins edited by Bruno Callegher and Arianna D'Ottone.", 
     "domain": "www.openstarts.units.it", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -12,8 +12,8 @@
         "monograph"
     ], 
     "language": [
-        "en", 
-        0.9999965346228257
+        "it", 
+        1.0
     ], 
     "provenance": [
         {
@@ -35,37 +35,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7159942778566681074", 
-            "resource_date": "2013-05-20T11:43:36.906-04:00", 
+            "resource_date": "2014-10-30T11:12:10.250-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:45.526271"
+            "when": "2015-06-20T16:13:30.330481"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-monograph-series-polymnia.html", 
-            "resource_date": "2013-05-20T11:43:36.906-04:00", 
+            "resource_date": "2014-10-30T11:12:10.250-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:45.526287"
+            "when": "2015-06-20T16:13:30.330497"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.openstarts.units.it/dspace/handle/10077/3591", 
-        "http://www.openstarts.units.it/dspace/handle/10077/8087", 
-        "http://www.openstarts.units.it/dspace/handle/10077/8047", 
-        "http://www.openstarts.units.it/dspace/handle/10077/3589", 
-        "http://www.openstarts.units.it/dspace/handle/10077/8697", 
-        "http://www.openstarts.units.it/dspace/handle/10077/6080", 
-        "http://www.openstarts.units.it/dspace/handle/10077/6082", 
-        "http://www.openstarts.units.it/dspace/handle/10077/7103", 
-        "http://www.openstarts.units.it/dspace/handle/10077/3933", 
-        "http://www.openstarts.units.it/dspace/handle/10077/3937", 
-        "http://www.openstarts.units.it/dspace/handle/10077/8005", 
-        "http://www.openstarts.units.it/dspace/handle/10077/888", 
-        "http://www.openstarts.units.it/dspace/handle/10077/889", 
-        "http://www.openstarts.units.it/dspace/handle/10077/891", 
-        "http://www.openstarts.units.it/dspace/handle/10077/2722", 
-        "http://www.openstarts.units.it/dspace/handle/10077/4390", 
-        "http://www.openstarts.units.it/dspace/handle/10077/8016"
-    ], 
+    "subordinate_resources": [], 
     "title": "Polymnia", 
     "title_extended": "Polymnia: Numismatica antica e medievale. Studi", 
     "url": "http://www.openstarts.units.it/dspace/handle/10077/8045", 

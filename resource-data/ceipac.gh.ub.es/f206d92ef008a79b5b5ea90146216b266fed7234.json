@@ -1,5 +1,5 @@
 {
-    "description": "CEIPAC: Biblioteca On-line. Departament de Prehist\u00f2ria, Hist\u00f2ria Antiga y Arqueologia Facultat de Geografia i Hist\u00f2ria, Universitat de Barcelona. C/ Montalegre 6, 08001 Barcelona, Espa\u00f1a.", 
+    "description": "CEIPAC: Biblioteca On-line. CENTRO PARA EL ESTUDIO DE LA INTERDEPENDENCIA PROVINCIAL EN LA ANTIG\u00dcEDAD CL\u00c1SICA Jos\u00e9 Remesal Rodr\u00edguez (C\u00e1tedra de Historia Antigua). Departament de Prehist\u00f2ria, Hist\u00f2ria Antiga y Arqueologia Facultat de Geografia i Hist\u00f2ria, Universitat de Barcelona. C/ Montalegre 6, 08001 Barcelona, Espa\u00f1a.", 
     "domain": "ceipac.gh.ub.es", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -8,7 +8,10 @@
         "Spain", 
         "digital library"
     ], 
-    "language": null, 
+    "language": [
+        "an", 
+        0.999648107716067
+    ], 
     "provenance": [
         {
             "fields": [
@@ -30,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8167676784712675110", 
             "resource_date": "2013-05-01T19:21:28.294-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:12.698269"
+            "when": "2015-06-20T16:13:43.565047"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/ceipac-biblioteca-on-line.html", 
             "resource_date": "2013-05-01T19:21:28.294-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:12.698285"
+            "when": "2015-06-20T16:13:43.565072"
         }
     ], 
     "related_resources": [], 

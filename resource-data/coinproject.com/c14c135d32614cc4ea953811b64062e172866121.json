@@ -1,5 +1,5 @@
 {
-    "description": "[First posted in AWOL 22 January 2011. Updated 13 June 2012]. CoinProject. com - the\u00a0FREE collaborative, non-commercial numismatic research website. This site has been developed over the course of the past two and a half years with the help of more than sixty numismatists. If you feel that you can contribute as a moderator for any of the categories please contact us. After more than two years this site has been made \"public\". While the site has been used by over 100 numismatists, this is the first time that the general public has had access to it and there are bound to be bugs. Please report any errors to\u00a0: Note: Coin records with a red border have not been verified by a moderator and you should verify that the information is accurate. Notice: All images on this site have been contributed by a large number of collectors, dealers and numismatists and are the property of the original image owners. Please contact the owner (usually listed under the field of \"Photograph Credit\") for permission to use their image.", 
+    "description": "[First posted in AWOL 22 January 2011. Updated 13 June 2012]. CoinProject. com - the\u00a0FREE collaborative, non-commercial numismatic research website. This site has been developed over the course of the past two and a half years with the help of more than sixty numismatists. If you feel that you can contribute as a moderator for any of the categories please contact us. After more than two years this site has been made \"public\". While the site has been used by over 100 numismatists, this is the first time that the general public has had access to it and there are bound to be bugs. Please report any errors to\u00a0: alfred@coinproject. com Note: Coin records with a red border have not been verified by a moderator and you should verify that the information is accurate. Notice: All images on this site have been contributed by a large number of collectors, dealers and numismatists and are the property of the original image owners. Please contact the owner (usually listed under the field of \"Photograph Credit\") for permission to use their image.", 
     "domain": "coinproject.com", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -31,35 +31,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5896085391208149914", 
             "resource_date": "2012-06-13T10:10:25.844-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:49.551260"
+            "when": "2015-06-20T16:13:13.915455"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/collaborative-non-commercial-numismatic.html", 
             "resource_date": "2012-06-13T10:10:25.844-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:49.551277"
+            "when": "2015-06-20T16:13:13.915471"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://coinproject.com/greek_list.php?type=25", 
-        "http://coinproject.com/search.php?type=12", 
-        "http://coinproject.com/search.php?type=13", 
-        "http://coinproject.com/search.php?type=9", 
-        "http://coinproject.com/search.php?type=11", 
-        "http://coinproject.com/search.php?type=16", 
-        "http://coinproject.com/greek_list.php?type=1", 
-        "http://coinproject.com/search.php?type=3", 
-        "http://coinproject.com/search.php?type=5", 
-        "http://coinproject.com/search.php?type=6", 
-        "http://coinproject.com/search.php?type=21", 
-        "http://coinproject.com/search.php?type=37", 
-        "http://coinproject.com/search.php?type=22", 
-        "http://coinproject.com/search.php?type=23", 
-        "http://coinproject.com/search.php?type=39", 
-        "http://coinproject.com/search.php?type=15", 
-        "http://coinproject.com/search.php?type=24"
-    ], 
+    "subordinate_resources": [], 
     "title": "CoinProject.com: Collaborative, non-commercial numismatic research", 
     "url": "http://coinproject.com/", 
     "volume": null, 

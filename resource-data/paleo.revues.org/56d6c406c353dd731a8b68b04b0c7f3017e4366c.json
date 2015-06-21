@@ -3,7 +3,7 @@
     "domain": "paleo.revues.org", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2101-0420"
             ]
         }
@@ -39,29 +39,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7560877409950842687", 
             "resource_date": "2013-10-22T07:35:59.344-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:57.538272"
+            "when": "2015-06-20T16:13:35.184738"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-paleo-revue.html", 
             "resource_date": "2013-10-22T07:35:59.344-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:57.538292"
+            "when": "2015-06-20T16:13:35.184754"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://paleo.revues.org/2246", 
-        "http://paleo.revues.org/2053", 
-        "http://paleo.revues.org/1721", 
-        "http://paleo.revues.org/1873", 
-        "http://paleo.revues.org/1557", 
-        "http://paleo.revues.org/411", 
-        "http://paleo.revues.org/110", 
-        "http://paleo.revues.org/805", 
-        "http://paleo.revues.org/1191", 
-        "http://paleo.revues.org/1375", 
-        "http://paleo.revues.org/917"
-    ], 
+    "subordinate_resources": [], 
     "title": "Pal\u00e9o: Revue d'Arch\u00e9ologie Pr\u00e9historique", 
     "url": "http://paleo.revues.org/", 
     "volume": null, 

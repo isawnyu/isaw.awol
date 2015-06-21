@@ -1,27 +1,10 @@
 {
-    "description": "[First posted on AWOL on 1/22/09, updated 30 November May 2012]. Hrcak: Portal of scientific journals of Croatia. ISSN:1846-4394 ISSN:1330-0598 ISSN:1845-4046 ISSN:1846-4807 ISSN:1334-2479 ISSN:1330-1497 ISSN:0353-7897 e-ISSN:1846-6273 ISSN:1330-0644 ISSN:1332-2567. ISSN:1331-3878.", 
+    "description": "[First posted on AWOL on 1/22/09, updated 10 April 2014]. Hrcak: Portal of scientific journals of Croatia. Acta Turistica Nova ISSN:1846-4394.", 
     "domain": "hrcak.srce.hr", 
     "identifiers": {
         "issn": {
-            "electronic": [
-                "1330-0644", 
-                "1846-4394", 
-                "1330-1497", 
-                "1334-2479", 
-                "1330-0598", 
-                "1332-2567", 
-                "1845-4046", 
-                "1846-6273", 
-                "1331-3878", 
-                "1846-4807", 
-                "0353-7897"
-            ], 
             "generic": [
-                "1846-4394", 
-                "1334-2479", 
-                "1332-2567", 
-                "1846-6273", 
-                "1846-4807"
+                "1846-4394"
             ]
         }
     }, 
@@ -57,21 +40,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
-            "resource_date": "2012-11-30T10:12:29.204-05:00", 
+            "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:30.254726"
+            "when": "2015-06-20T16:13:03.680847"
         }, 
         {
-            "resource": "http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html", 
-            "resource_date": "2012-11-30T10:12:29.204-05:00", 
+            "resource": "http://ancientworldonline.blogspot.com/2010/08/croatian-open-access-archaeology.html", 
+            "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:30.254743"
+            "when": "2015-06-20T16:13:03.680863"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://hrcak.srce.hr/"
-    ], 
+    "subordinate_resources": [], 
     "title": "Croatian Open Access Archaeology Journals", 
     "url": "http://hrcak.srce.hr/", 
     "volume": null, 

@@ -1,7 +1,13 @@
 {
-    "description": "[First posted in AWOL 16 June 2009. Updated 22 November 2011]. ANMED: News of Archaeology from Anatolia's Mediterranean Areas. ANMED, one of the annual periodicals by Suna & \u0130nan K\u0131ra\u00e7 Research Institute on Mediterranean Civilisations, has been published bilingual in Turkish and English in Antalya since 2003. Within the frame of the Institute's foundation goals and priorities, the preliminary annual reports of excavations, surveys, restoration-conservation projects and other archaeological works by scientific missions undertaken in the region identified as Anatolia's Mediterranean Areas, that is encompassing ancient Lycia, Pamphylia, Cilicia and Pisidia, constitute the scope of ANMED.", 
+    "description": "[First posted in AWOL 16 June 2009. Updated 16 August 2014]. ANMED: News of Archaeology from Anatolia's Mediterranean Areas. ISSN: 1303-9660. ANMED, one of the annual periodicals by Suna & \u0130nan K\u0131ra\u00e7 Research Institute on Mediterranean Civilisations, has been published bilingual in Turkish and English in Antalya since 2003. Within the frame of the Institute's foundation goals and priorities, the preliminary annual reports of excavations, surveys, restoration-conservation projects and other archaeological works by scientific missions undertaken in the region identified as Anatolia's Mediterranean Areas, that is encompassing ancient Lycia, Pamphylia, Cilicia and Pisidia, constitute the scope of ANMED.", 
     "domain": "www.akmedanmed.com", 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1303-9660"
+            ]
+        }
+    }, 
     "is_part_of": null, 
     "keywords": [
         "Turkey", 
@@ -34,29 +40,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7509611275862590281", 
-            "resource_date": "2013-04-20T17:41:52.876-04:00", 
+            "resource_date": "2014-08-16T09:47:24.739-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:56.683220"
+            "when": "2015-06-20T16:13:34.810846"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/06/open-access-journal-anmed-news-of.html", 
-            "resource_date": "2013-04-20T17:41:52.876-04:00", 
+            "resource_date": "2014-08-16T09:47:24.739-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:56.683237"
+            "when": "2015-06-20T16:13:34.810862"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.akmedanmed.com/articlelist_en.php?catID=15", 
-        "http://www.akmedanmed.com/articlelist_en.php?catID=16", 
-        "http://www.akmedanmed.com/articlelist_en.php?catID=14", 
-        "http://www.akmedanmed.com/articlelist_en.php?catID=13", 
-        "http://www.akmedanmed.com/articlelist_en.php?catID=12", 
-        "http://www.akmedanmed.com/articlelist_en.php?catID=11", 
-        "http://www.akmedanmed.com/articlelist_en.php?catID=10", 
-        "http://www.akmedanmed.com/articlelist_en.php?catID=9", 
-        "http://www.akmedanmed.com/articlelist_en.php?catID=8"
-    ], 
+    "subordinate_resources": [], 
     "title": "ANMED: News of Archaeology from Anatolia's Mediterranean Areas", 
     "url": "http://www.akmedanmed.com/index_en.php", 
     "volume": null, 

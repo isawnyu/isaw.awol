@@ -3,7 +3,7 @@
     "domain": "www.arqueologiapublica.es", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2171-6315"
             ]
         }
@@ -40,22 +40,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3488351363372131010", 
             "resource_date": "2013-11-01T09:53:44.033-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:59.369777"
+            "when": "2015-06-20T16:12:44.189602"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/new-open-access-journal-ap-online.html", 
             "resource_date": "2013-11-01T09:53:44.033-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:59.369794"
+            "when": "2015-06-20T16:12:44.189618"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.arqueologiapublica.es/no_registrado.html", 
-        "http://www.arqueologiapublica.es/no_registrado.html", 
-        "http://www.arqueologiapublica.es/no_registrado.html", 
-        "http://www.arqueologiapublica.es/no_registrado.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "AP: online journal in public archaeology", 
     "url": "http://www.arqueologiapublica.es/", 
     "volume": null, 

@@ -1,5 +1,5 @@
 {
-    "description": "Macedonian Kingdom: The bronze coinage. <blockquote class=\"tr_bq\">. <ul class=\"ekt_coinsRelated\"><li><a href=\"http://pandektis. ekt. gr/pandektis/coinsMacedonia\">Macedonia</a></li><li><a href=\"http://pandektis. ekt. gr/pandektis/coinsMaps\">Maps</a></li><li><a href=\"http://pandektis. ekt. gr/pandektis/coinsAbbreviations\">Abbreviations</a></li><li><a href=\"http://pandektis. ekt. gr/pandektis/coinsBibliography\">Bibliography</a></li><li><a href=\"http://pandektis. ekt. gr/pandektis/coinsContributors\">Contributors</a></li><li><a href=\"http://pandektis. ekt. gr/pandektis/coinsLinks\">Links</a></li></ul></blockquote> Macedonia Maps Abbreviations Bibliography Contributors Links.", 
+    "description": "Macedonian Kingdom: The bronze coinage. Macedonia Maps Abbreviations Bibliography Contributors Links.", 
     "domain": "pandektis.ekt.gr", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -9,7 +9,10 @@
         "bronze", 
         "Greece"
     ], 
-    "language": null, 
+    "language": [
+        "en", 
+        0.9999998123319577
+    ], 
     "provenance": [
         {
             "fields": [
@@ -31,25 +34,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3515596479669262938", 
             "resource_date": "2012-06-13T14:06:39.997-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:59.527251"
+            "when": "2015-06-20T16:12:44.596920"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/macedonian-bronze-coinage-online.html", 
             "resource_date": "2012-06-13T14:06:39.997-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:59.527267"
+            "when": "2015-06-20T16:12:44.596936"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://pandektis.ekt.gr/pandektis/coinsMacedonia", 
-        "http://pandektis.ekt.gr/pandektis/coinsMaps", 
-        "http://pandektis.ekt.gr/pandektis/coinsAbbreviations", 
-        "http://pandektis.ekt.gr/pandektis/coinsBibliography", 
-        "http://pandektis.ekt.gr/pandektis/coinsContributors", 
-        "http://pandektis.ekt.gr/pandektis/coinsLinks", 
-        "http://pandektis.ekt.gr/pandektis/"
-    ], 
+    "subordinate_resources": [], 
     "title": "Macedonian Bronze Coinage Online", 
     "url": "http://pandektis.ekt.gr/pandektis/handle/10442/71821", 
     "volume": null, 

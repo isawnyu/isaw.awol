@@ -3,7 +3,7 @@
     "domain": "dialnet.unirioja.es", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0007-9502"
             ]
         }
@@ -35,68 +35,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4206419451111757327", 
             "resource_date": "2013-09-30T11:09:09.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:15.722552"
+            "when": "2015-06-20T16:12:53.656568"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-caesaraugusta.html", 
             "resource_date": "2013-09-30T11:09:09.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:15.722567"
+            "when": "2015-06-20T16:12:53.656584"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=2011", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=314907", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=2010", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=295105", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=2009", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=231269", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=2008", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=188703", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=2007", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=188297", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=2006", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=151386", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=2002", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=102192", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=2001", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=60990", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=60993", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=2000", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=555", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1999", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=554", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1997", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=553", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1995", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=551", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=552", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1992", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=550", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1991", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=549", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1989", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=548", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1988", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=547", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1987", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=133159", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1986", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=129573", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1985", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=129422", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1984", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=129569", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1981", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=130645", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1980", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=129399", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1979", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=129433", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=255&claveDeBusqueda=1975", 
-        "http://dialnet.unirioja.es/servlet/ejemplar?codigo=129395"
-    ], 
+    "subordinate_resources": [], 
     "title": "Caesaraugusta", 
     "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=255", 
     "volume": null, 

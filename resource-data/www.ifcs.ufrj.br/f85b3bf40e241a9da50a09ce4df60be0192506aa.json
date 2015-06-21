@@ -3,7 +3,7 @@
     "domain": "www.ifcs.ufrj.br", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1982-5323"
             ]
         }
@@ -44,34 +44,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4886949344552679201", 
             "resource_date": "2012-06-12T13:45:44.926-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:28.863694"
+            "when": "2015-06-20T16:13:02.900168"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/07/open-access-journal-anais-de-filosofia.html", 
             "resource_date": "2012-06-12T13:45:44.926-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:28.863710"
+            "when": "2015-06-20T16:13:02.900184"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.ifcs.ufrj.br/%7Eppgf/", 
-        "http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm", 
-        "http://www.ifcs.ufrj.br/%7Eafc/10.htm", 
-        "http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm", 
-        "http://www.ifcs.ufrj.br/%7Eafc/09.htm", 
-        "http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm", 
-        "http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm", 
-        "http://www.ifcs.ufrj.br/%7Eafc/09.htm", 
-        "http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm", 
-        "http://www.ifcs.ufrj.br/%7Eafc/08.htm", 
-        "http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm", 
-        "http://www.ifcs.ufrj.br/%7Eafc/08.htm", 
-        "http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm", 
-        "http://www.ifcs.ufrj.br/%7Eafc/07.htm", 
-        "http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm", 
-        "http://www.ifcs.ufrj.br/%7Eafc/07.htm"
-    ], 
+    "subordinate_resources": [], 
     "title": "Anais de Filosofia Cl\u00e1ssica", 
     "title_extended": "Anais de Filosofia Cl\u00e1ssica - Proceedings of Classical Philosophy - Annales de Philosophie Classique", 
     "url": "http://www.ifcs.ufrj.br/%7Eafc/", 

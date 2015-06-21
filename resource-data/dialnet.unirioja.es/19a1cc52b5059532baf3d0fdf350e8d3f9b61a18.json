@@ -1,9 +1,9 @@
 {
-    "description": "Marq, arqueolog\u00eda y museos. ISSN: 1885-3145. <blockquote class=\"tr_bq\">. <table cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td class=\"ano\"><a class=\"colorPersonalizable\" href=\"http://dialnet. unirioja. es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=7340&amp;clave_busqueda=2007\">2007</a></td><td class=\"volumenes\"><ul class=\"volumenes\"><li class=\"volumen\"><span class=\"alojado\" title=\"Issue with full-text in Dialnet\"><a class=\"ejemplar\" href=\"http://dialnet. unirioja. es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=7340&amp;clave_busqueda=189020\">2</a></span></li></ul></td></tr><tr><td class=\"ano\"><a class=\"colorPersonalizable\" href=\"http://dialnet. unirioja. es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=7340&amp;clave_busqueda=2006\">2006</a></td><td class=\"volumenes\"><ul class=\"volumenes\"><li class=\"volumen\"><span class=\"alojado\" title=\"Issue with full-text in Dialnet\"><a class=\"ejemplar\" href=\"http://dialnet. unirioja. es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=7340&amp;clave_busqueda=154607\">1</a></span></li></ul></td></tr><tr><td class=\"ano\"><a class=\"colorPersonalizable\" href=\"http://dialnet. unirioja. es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=7340&amp;clave_busqueda=2005\">2005</a></td><td class=\"volumenes\"><ul class=\"volumenes\"><li class=\"volumen\"><span class=\"alojado\" title=\"Issue with full-text in Dialnet\"><a class=\"ejemplar\" href=\"http://dialnet. unirioja. es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=7340&amp;clave_busqueda=128759\">0</a></span></li></ul></td></tr></tbody></table></blockquote> 2007 2006 1 2005 0.", 
+    "description": "Marq, arqueolog\u00eda y museos. ISSN: 1885-3145. 2007 2006 1 2005 0.", 
     "domain": "dialnet.unirioja.es", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1885-3145"
             ]
         }
@@ -17,8 +17,8 @@
         "archeaology"
     ], 
     "language": [
-        "es", 
-        0.9913988761198491
+        "an", 
+        0.9855843327903976
     ], 
     "provenance": [
         {
@@ -41,24 +41,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-353171351403729158", 
             "resource_date": "2013-01-22T15:22:26.159-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:59.791961"
+            "when": "2015-06-20T16:12:44.799197"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-marq-arqueologia-y.html", 
             "resource_date": "2013-01-22T15:22:26.159-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:59.791978"
+            "when": "2015-06-20T16:12:44.799213"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=7340&clave_busqueda=2007", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=7340&clave_busqueda=189020", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=7340&clave_busqueda=2006", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=7340&clave_busqueda=154607", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=7340&clave_busqueda=2005", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=7340&clave_busqueda=128759"
-    ], 
+    "subordinate_resources": [], 
     "title": "Marq, arqueolog\u00eda y museos", 
     "url": "http://dialnet.unirioja.es/servlet/revista?codigo=7340", 
     "volume": null, 

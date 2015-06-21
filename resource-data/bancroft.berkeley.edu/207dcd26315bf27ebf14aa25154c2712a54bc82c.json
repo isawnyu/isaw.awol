@@ -1,5 +1,5 @@
 {
-    "description": "Rock Art Studies: A Bibliographic Database <blockquote class=\"tr_bq\"><a href=\"http://bancroft. berkeley. edu/collections/rockart/search. html\">Rock Art Studies: A Bibliographic Database</a> is a compilation in progress which was begun in March, 1993. Currently the database contains over 27,000 citations to the world's rock art literature, with an emphasis on English language and North American citations. Over 9500 of these citations are held in the compiler's personal library. These and many others were reviewed for annotation. With the \"r11\" release, the database became available on the Internet as a project of the Bay Area Rock Art Research Association Archive, Bancroft Library, University of California, Berkeley (<a href=\"http://bancroft. berkeley. edu/collections/rockart. html\">http://bancroft. berkeley. edu/collections/rockart. html</a>). <br/><br/> A few comments regarding the background and objectives of the Compiler, and the assembly of the raw data for inclusion in the database are in order. Leigh Marymor, is a Plumbing Contractor from Berkeley, California who holds a bachelor's degree in Community Education from the University of Wisconsin - Milwaukee. He has been interested in rock art conservation and the literature of rock art studies for over thirty-five years. He served as President of the American Rock Art Research Association (2004-2006), is a co-founder of the Bay Area Rock Art Research Association and has been its Co-chairperson since its inception in 1983. Leigh Marymor received the American Rock Art Research Association's Castleton Award for research excellence in 2002 in recognition of the significance of the compilation of Rock Art Studies: A Bibliographic Database. <br/> The Rock Art Studies database was initially conceived as a tool useful in cataloging the rock art literature held in the Compiler's personal library, which currently consists of approximately 100 shelf feet of books, periodicals, grey literature, ephemera and research notes. As the project grew, additional citations were included from over one hundred additional sources, including: bibliographies, research archives, library catalogues, on-line search services and other private holdings (these sources are notated in the \"library\" field of the database, and are detailed in the text document, Key to Sources for Citations). <br/> The scope of the data included in the database has been limited by the time and energy available to the Compiler, as well as, by his subjective approach to keyword notations (found in the Keywords field). The past emphasis in the database on English language literature has steadily given way to the growing inclusion of the French, Spanish, Italian and Portuguese literature. <br/>. <a href=\"http://bancroft. berkeley. edu/collections/rockart/barara. html\">Bay Area Rock Art Research Association Archive</a><a href=\"http://bancroft. berkeley. edu/collections/rockart/barara. html#assoc\">Bay Area Rock Art Research Association</a><a href=\"http://bancroft. berkeley. edu/collections/rockart/barara. html#conserve\">Bay Area Rock Art Conservation and Education Fund</a><a href=\"http://bancroft. berkeley. edu/collections/rockart/search. html\">Search the Rock Art Studies database</a><a href=\"http://bancroft. berkeley. edu/collections/rockart/citation. html\">Citation information</a><a href=\"http://bancroft. berkeley. edu/collections/rockart/links. html\">Related Links</a><a href=\"http://bancroft. berkeley. edu/collections/rockart/contact. html\">Contact the Compiler</a></blockquote>.", 
+    "description": "Rock Art Studies: A Bibliographic Database is a compilation in progress which was begun in March, 1993. Currently the database contains over 27,000 citations to the world's rock art literature, with an emphasis on English language and North American citations. Over 9500 of these citations are held in the compiler's personal library. These and many others were reviewed for annotation. With the \"r11\" release, the database became available on the Internet as a project of the Bay Area Rock Art Research Association Archive, Bancroft Library, University of California, Berkeley (.", 
     "domain": "bancroft.berkeley.edu", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -34,27 +34,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7380400336186615763", 
             "resource_date": "2013-05-02T09:19:49.431-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:51.424627"
+            "when": "2015-06-20T16:13:33.064934"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/rock-art-studies-bibliographic-database.html", 
             "resource_date": "2013-05-02T09:19:49.431-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:51.424644"
+            "when": "2015-06-20T16:13:33.064951"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://bancroft.berkeley.edu/collections/rockart/search.html", 
-        "http://bancroft.berkeley.edu/collections/rockart.html", 
-        "http://bancroft.berkeley.edu/collections/rockart/barara.html", 
-        "http://bancroft.berkeley.edu/collections/rockart/barara.html#assoc", 
-        "http://bancroft.berkeley.edu/collections/rockart/barara.html#conserve", 
-        "http://bancroft.berkeley.edu/collections/rockart/search.html", 
-        "http://bancroft.berkeley.edu/collections/rockart/citation.html", 
-        "http://bancroft.berkeley.edu/collections/rockart/links.html", 
-        "http://bancroft.berkeley.edu/collections/rockart/contact.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "Rock Art Studies: A Bibliographic Database", 
     "url": "http://bancroft.berkeley.edu/collections/rockart.html", 
     "volume": null, 

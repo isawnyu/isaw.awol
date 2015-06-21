@@ -1,0 +1,52 @@
+{
+    "description": "System zur Erfassung von Ritualszenen in Alt\u00e4gyptischen Tempeln (SERaT). None None.", 
+    "domain": "www.serat.aegyptologie.uni-wuerzburg.de", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Egypt", 
+        "egyptology", 
+        "religion"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1768074766528738043", 
+            "resource_date": "2014-12-28T09:11:53.128-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:12:20.355516"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/12/system-zur-erfassung-von-ritualszenen.html", 
+            "resource_date": "2014-12-28T09:11:53.128-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:12:20.355533"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "System zur Erfassung von Ritualszenen in Alt\u00e4gyptischen Tempeln (SERaT)", 
+    "url": "http://www.serat.aegyptologie.uni-wuerzburg.de/cgi-bin/serat", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

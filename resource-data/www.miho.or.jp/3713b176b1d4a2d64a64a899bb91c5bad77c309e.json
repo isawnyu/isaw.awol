@@ -1,5 +1,5 @@
 {
-    "description": "Miho Museum. <blockquote> <a href=\"http://www. miho. or. jp/english/landscap/head. htm\" target=\"MAIN\"></a>. <a href=\"http://www. miho. or. jp/english/landscap/head. htm\" target=\"MAIN\"></a> </blockquote>.", 
+    "description": "Miho Museum.", 
     "domain": "www.miho.or.jp", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -29,24 +29,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2941939698440175554", 
             "resource_date": "2013-04-21T18:59:43.366-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:40.100149"
+            "when": "2015-06-20T16:12:34.449738"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/miho-museum.html", 
             "resource_date": "2013-04-21T18:59:43.366-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:40.100171"
+            "when": "2015-06-20T16:12:34.449753"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.miho.or.jp/english/landscap/head.htm", 
-        "http://www.miho.or.jp/english/landscap/head.htm", 
-        "http://www.miho.or.jp/english/architec/head.htm", 
-        "http://www.miho.or.jp/english/collect/head.htm", 
-        "http://www.miho.or.jp/english/inform/head.htm", 
-        "http://www.miho.or.jp/english/member/head.htm"
-    ], 
+    "subordinate_resources": [], 
     "title": "Miho Museum", 
     "url": "http://www.miho.or.jp/", 
     "volume": null, 

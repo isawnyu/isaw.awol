@@ -3,7 +3,7 @@
     "domain": "repository.kulib.kyoto-u.ac.jp", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1346-8405"
             ]
         }
@@ -42,28 +42,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8266666854369628598", 
             "resource_date": "2012-11-29T15:48:28.014-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:15.222304"
+            "when": "2015-06-20T16:13:44.923686"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-acta-academiae.html", 
             "resource_date": "2012-11-29T15:48:28.014-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:15.222321"
+            "when": "2015-06-20T16:13:44.923701"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/151352", 
-        "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/134673", 
-        "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/134672", 
-        "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/134671", 
-        "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/134670", 
-        "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/134669", 
-        "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/134668", 
-        "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/134667", 
-        "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/134666", 
-        "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/134665"
-    ], 
+    "subordinate_resources": [], 
     "title": "Acta Academiae Antiquitatis Kiotoensis (The Kyoto Journal of Ancient History) \u897f\u6d0b\u53e4\u4ee3\u53f2\u7814\u7a76", 
     "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/134664", 
     "volume": null, 

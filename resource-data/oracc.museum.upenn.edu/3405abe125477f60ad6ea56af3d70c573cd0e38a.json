@@ -1,0 +1,51 @@
+{
+    "description": "Old Babylonian Model Contracts.", 
+    "domain": "oracc.museum.upenn.edu", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Iran", 
+        "Mesopotamia", 
+        "cuneiform", 
+        "Babylon", 
+        "Old Babylonian"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3930369183777309842", 
+            "resource_date": "2015-03-29T17:20:12.282-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:12:50.721451"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/03/old-babylonian-model-contracts.html", 
+            "resource_date": "2015-03-29T17:20:12.282-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:12:50.721467"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Old Babylonian Model Contracts", 
+    "url": "http://oracc.museum.upenn.edu/obmc/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

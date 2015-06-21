@@ -4,11 +4,11 @@
     "identifiers": {
         "isbn": {
             "generic": [
-                "978"
+                "978-3-98042413-4"
             ]
         }, 
         "issn": {
-            "electronic": [
+            "generic": [
                 "0947-0549"
             ]
         }
@@ -47,22 +47,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9132461024088222124", 
             "resource_date": "2013-08-06T07:54:06.316-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:37.933898"
+            "when": "2015-06-20T16:13:57.872750"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/08/open-access-journal-studies-in-early.html", 
             "resource_date": "2013-08-06T07:54:06.316-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:37.933914"
+            "when": "2015-06-20T16:13:57.872766"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.exoriente.org/docs/00064.pdf", 
-        "http://www.exoriente.org/docs/00063.pdf", 
-        "http://www.exoriente.org/docs/00062.pdf", 
-        "http://www.exoriente.org/docs/00061.pdf"
-    ], 
+    "subordinate_resources": [], 
     "title": "Studies in early Near Eastern production, subsistence, and environment (SENEPSE)", 
     "url": "https://www.exoriente.org/downloads/senepse.php", 
     "volume": null, 

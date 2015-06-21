@@ -1,13 +1,17 @@
 {
-    "description": "BIBLE, JUDAISM, CHRISTIANITY via Google Book Search MISCHA HOOKER DEPARTMENT OF CLASSICAL STUDIES Loyola University.", 
+    "description": "BIBLE, JUDAISM, CHRISTIANITY via Google Book Search MISCHA HOOKER DEPARTMENT OF CLASSICAL STUDIES Loyola University ANCIENT NEAR EAST/HISTORY OF ISRAEL HEBREW BIBLE/OLD TESTAMENT HELLENISTIC JUDAISM/APOCRYPHA/OT PSEUDEPIGRAPHA RABBINIC JUDAISM NEW TESTAMENT PATRISTICS/CHURCH FATHERS PATRISTIC COLLECTIONS Migne, PG: Migne, PL: Corpus Script. Hist. Byz. CHURCH FATHERS/PATRISTIC PERIOD - INDIVIDUALS ( notably ): Augustine: Hilary: Jerome: Lactantius: Optatus of Milevis: Orosius: Sulpicius Severus: MEDIEVAL, RENAISSANCE, REFORMATION. (notably): Wyclif: Luther: Calvin:.", 
     "domain": "www.luc.edu", 
     "identifiers": {}, 
     "is_part_of": null, 
     "keywords": [
+        "religion", 
         "book", 
         "Christianity"
     ], 
-    "language": null, 
+    "language": [
+        "en", 
+        0.9999999846991001
+    ], 
     "provenance": [
         {
             "fields": [
@@ -29,13 +33,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3673503510004034041", 
             "resource_date": "2014-01-01T20:50:16.556-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:03.152310"
+            "when": "2015-06-20T16:12:46.430473"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/bible-judaism-christianity-via-google.html", 
             "resource_date": "2014-01-01T20:50:16.556-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:03.152327"
+            "when": "2015-06-20T16:12:46.430488"
         }
     ], 
     "related_resources": [], 

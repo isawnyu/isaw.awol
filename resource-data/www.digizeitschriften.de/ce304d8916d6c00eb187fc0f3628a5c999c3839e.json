@@ -1,0 +1,53 @@
+{
+    "description": "Arch\u00e4ologischer Anzeiger. 1900 Arch\u00e4ologischer Anzeiger Band 1900.", 
+    "domain": "www.digizeitschriften.de", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "journal", 
+        "Germany", 
+        "archaeology", 
+        "open access"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6277589951559075599", 
+            "resource_date": "2015-01-06T18:50:53.791-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:13:19.986163"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-journal-archaologischer.html", 
+            "resource_date": "2015-01-06T18:50:53.791-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:13:19.986180"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Arch\u00e4ologischer Anzeiger", 
+    "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

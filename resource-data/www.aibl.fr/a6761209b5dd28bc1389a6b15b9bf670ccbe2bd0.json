@@ -5,6 +5,7 @@
     "is_part_of": null, 
     "keywords": [
         "epigraphy", 
+        "inscriptions", 
         "journal", 
         "open access"
     ], 
@@ -33,29 +34,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7197452621386685421", 
             "resource_date": "2012-05-30T07:21:32.831-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:46.326886"
+            "when": "2015-06-20T16:13:30.825077"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/open-access-journal-academie-des.html", 
             "resource_date": "2012-05-30T07:21:32.831-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:46.326900"
+            "when": "2015-06-20T16:13:30.825093"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.aibl.fr/IMG/pdf/li_aibl_103_01-2012_web.pdf", 
-        "http://www.aibl.fr/IMG/pdf/li-104_fevrier-2012.pdf", 
-        "http://www.aibl.fr/IMG/pdf/li-105_mars-2012.pdf", 
-        "http://www.aibl.fr/IMG/pdf/li-106-avril-2012.pdf", 
-        "http://www.aibl.fr/IMG/pdf/li-107-mai-2012.pdf", 
-        "http://www.aibl.fr/IMG/pdf/li-108-juin-2012.pdf", 
-        "http://www.aibl.fr/lettre-d-information/li-aibl-2011/", 
-        "http://www.aibl.fr/lettre-d-information/li-aibl-2010/", 
-        "http://www.aibl.fr/lettre-d-information/li-aibl-2009/", 
-        "http://www.aibl.fr/lettre-d-information/li-aibl-2008/", 
-        "http://www.aibl.fr/lettre-d-information/li-aibl-2007/"
-    ], 
+    "subordinate_resources": [], 
     "title": "Acad\u00e9mie des Inscriptions et Belles-Lettres: Lettre d\u2019information", 
     "url": "http://www.aibl.fr/Lettre-d-information", 
     "volume": null, 

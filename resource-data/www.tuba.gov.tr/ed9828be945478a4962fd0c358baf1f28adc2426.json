@@ -1,9 +1,9 @@
 {
-    "description": "T\u00dcBA-AR: T\u00fcrkiye Bilimler Akademisi Arkeoloji Dergisi - T\u00fcrkish Academy of Sciences Journal of Archaeology ISSN: 1301-8566. 1 (1998).", 
+    "description": "T\u00dcBA-AR: T\u00fcrkiye Bilimler Akademisi Arkeoloji Dergisi - T\u00fcrkish Academy of Sciences Journal of Archaeology ISSN: 1301-8566. T\u00dcBA-Ar Volume 10 (2007) T\u00dcBA-Ar Volume 9. T\u00dcBA-Ar Volume 9 (2006) T\u00dcBA-Ar Volume 8. T\u00dcBA-Ar Volume 8 (2005) T\u00dcBA-Ar Volume 7. T\u00dcBA-Ar Volume 7 (2004) T\u00dcBA-Ar Volume 5. T\u00dcBA-Ar Volume 5 (2002) T\u00dcBA-Ar Volume 4. T\u00dcBA-Ar Volume 4 (2001). T\u00dcBA-Ar Volume 3 (2000).", 
     "domain": "www.tuba.gov.tr", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1301-8566"
             ]
         }
@@ -11,13 +11,15 @@
     "is_part_of": null, 
     "keywords": [
         "Turkey", 
+        "Anatolia", 
         "journal", 
+        "archaeology", 
         "open access", 
         "Tuba-Ar"
     ], 
     "language": [
         "tr", 
-        0.9999997621144581
+        0.9999823744795983
     ], 
     "provenance": [
         {
@@ -38,32 +40,21 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1565263401698142180", 
-            "resource_date": "2013-04-08T10:28:27.189-04:00", 
+            "resource_date": "2014-09-03T11:02:50.779-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:02.798684"
+            "when": "2015-06-20T16:12:17.276650"
         }, 
         {
-            "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-tuba-ar.html", 
-            "resource_date": "2013-04-08T10:28:27.189-04:00", 
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-journal-tuba-ar-turkiye.html", 
+            "resource_date": "2014-09-03T11:02:50.779-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:02.798700"
+            "when": "2015-06-20T16:12:17.276666"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.tuba.gov.tr/images/stories/userfiles/file/syayin/gunce/tuba-ar-2.PDF", 
-        "http://www.tuba.gov.tr/images/stories/userfiles/file/syayin/gunce/tuba-ar-3.PDF", 
-        "http://www.tuba.gov.tr/images/stories/userfiles/file/syayin/gunce/tuba-ar-4.PDF", 
-        "http://www.tuba.gov.tr/images/stories/userfiles/file/syayin/gunce/tuba-ar-5.PDF", 
-        "http://www.tuba.gov.tr/images/stories/userfiles/file/syayin/gunce/tuba-ar-7.PDF", 
-        "http://www.tuba.gov.tr/images/stories/userfiles/file/syayin/gunce/tuba-ar-7.PDF", 
-        "http://www.tuba.gov.tr/images/stories/userfiles/file/syayin/gunce/tuba-ar-8.PDF", 
-        "http://www.tuba.gov.tr/images/stories/userfiles/file/syayin/gunce/tuba-ar-9.PDF", 
-        "http://www.tuba.gov.tr/images/stories/userfiles/file/syayin/gunce/tuba-ar-10.PDF", 
-        "http://www.tuba.gov.tr/images/stories/userfiles/file/files_tr/yayinlar/yayin_data/tuba-ar-11.pdf"
-    ], 
-    "title": "T\u00dcBA AR", 
-    "url": "http://www.tuba.gov.tr/en/publications/tuba-journals.html", 
+    "subordinate_resources": [], 
+    "title": "T\u00dcBA-AR: T\u00fcrkiye Bilimler Akademisi Arkeoloji Dergisi - T\u00fcrkish Academy of Sciences Journal of Archaeology", 
+    "url": "http://www.tuba.gov.tr/publication/tuba-ar-periodical/pid/172/mid/175/", 
     "volume": null, 
     "year": null, 
     "zotero_id": null

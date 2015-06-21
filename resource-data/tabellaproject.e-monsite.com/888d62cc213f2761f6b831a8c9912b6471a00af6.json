@@ -1,5 +1,5 @@
 {
-    "description": "Tabella Defixionis Project. <blockquote class=\"tr_bq\">Tabella Defixionis Project se propose de rescencer les tablettes de d\u00e9fixions d\u00e9couvertes \u00e0 travers le monde gr\u00e9co-romain. En effet, c'est \u00e0 ce jour plus de 2000 tablettes qui ont \u00e9t\u00e9 mises au jour. Elles constituent une base essentielle du travail de l'Historien qui s'int\u00e9resse \u00e0 ces civilisations et \u00e0 l'histoire des\u00a0mentalit\u00e9s. <ul class=\"menu\" id=\"nav\"><li class=\"nav_item item_0 first_menu_item\"> <a class=\"menu_item\" href=\"http://tabellaproject. e-monsite. com/\">Page d'accueil</a> </li><li class=\"nav_item item_1\"> <a class=\"menu_item\" href=\"http://tabellaproject. e-monsite. com/annuaire\">Annuaire</a> </li><li class=\"nav_item item_2 hover\"> <a class=\"menu_item hover\" href=\"http://tabellaproject. e-monsite. com/livre-d-or\">Livre d'or</a> </li></ul></blockquote> Page d'accueil Annuaire Livre d'or.", 
+    "description": "Tabella Defixionis Project se propose de rescencer les tablettes de d\u00e9fixions d\u00e9couvertes \u00e0 travers le monde gr\u00e9co-romain. En effet, c'est \u00e0 ce jour plus de 2000 tablettes qui ont \u00e9t\u00e9 mises au jour. Elles constituent une base essentielle du travail de l'Historien qui s'int\u00e9resse \u00e0 ces civilisations et \u00e0 l'histoire des\u00a0mentalit\u00e9s. Page d'accueil Annuaire Livre d'or.", 
     "domain": "tabellaproject.e-monsite.com", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -33,21 +33,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2893853855088289307", 
             "resource_date": "2012-08-09T16:56:59.751-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:38.941399"
+            "when": "2015-06-20T16:12:33.984922"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/tabella-defixionis-project.html", 
             "resource_date": "2012-08-09T16:56:59.751-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:38.941420"
+            "when": "2015-06-20T16:12:33.984935"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://tabellaproject.e-monsite.com/", 
-        "http://tabellaproject.e-monsite.com/annuaire", 
-        "http://tabellaproject.e-monsite.com/livre-d-or"
-    ], 
+    "subordinate_resources": [], 
     "title": "Tabella Defixionis Project", 
     "url": "http://tabellaproject.e-monsite.com/", 
     "volume": null, 

@@ -1,10 +1,10 @@
 {
-    "description": "Graecolatina et Orientalia. ZBORN\u00cdK FILOZOFICKEJ FAKULTY UNIVERZITY KOMENSK\u00c9HO V BRATISLAVE. Vol. XXXIII-XXXIV, 2012\u00a0 (ISBN: 978-80-223-3285-9) <blockquote class=\"tr_bq\"><a href=\"http://www. fphil. uniba. sk/index. php?id=7410\">Vol. XXXIII-XXXIV, 2012\u00a0 (ISBN: 978-80-223-3285-9)</a>. <a href=\"http://www. fphil. uniba. sk/index. php?id=5089\">Tables of Contents of earlier volumes</a></blockquote>.", 
+    "description": "Graecolatina et Orientalia. ZBORN\u00cdK FILOZOFICKEJ FAKULTY UNIVERZITY KOMENSK\u00c9HO V BRATISLAVE. Vol. XXXIII-XXXIV, 2012\u00a0 (ISBN: 978-80-223-3285-9).", 
     "domain": "www.fphil.uniba.sk", 
     "identifiers": {
         "isbn": {
             "generic": [
-                "978"
+                "978-80-223-3285-9"
             ]
         }
     }, 
@@ -16,7 +16,7 @@
     ], 
     "language": [
         "la", 
-        0.9995129309079143
+        0.999985973745729
     ], 
     "provenance": [
         {
@@ -39,20 +39,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2620950340778672326", 
             "resource_date": "2013-03-23T07:21:14.419-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:33.114333"
+            "when": "2015-06-20T16:12:31.430768"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/newly-open-access-journal-graecolatina.html", 
             "resource_date": "2013-03-23T07:21:14.419-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:33.114350"
+            "when": "2015-06-20T16:12:31.430784"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.fphil.uniba.sk/index.php?id=7410", 
-        "http://www.fphil.uniba.sk/index.php?id=5089"
-    ], 
+    "subordinate_resources": [], 
     "title": "Graecolatina et Orientalia", 
     "url": "http://www.fphil.uniba.sk/index.php?id=1755", 
     "volume": null, 

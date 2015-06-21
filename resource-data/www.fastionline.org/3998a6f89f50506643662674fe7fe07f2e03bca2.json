@@ -1,9 +1,9 @@
 {
-    "description": "FOLD&R (Fasti On Line Documents & Research). ISSN 1828-3179.", 
+    "description": "[First posted in AWOL 30 April 2012, updated 9 July 2014]. FOLD&R (Fasti On Line Documents & Research). ISSN 1828-3179. FOLD&R is an archaeological journal published since 2004 by the International Association for Classical Archaeology in collaboration with the Italian Ministry for Cultural Heritage and Activities.", 
     "domain": "www.fastionline.org", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1828-3179"
             ]
         }
@@ -11,9 +11,14 @@
     "is_part_of": null, 
     "keywords": [
         "journal", 
+        "Italy", 
+        "archaeology", 
         "open access"
     ], 
-    "language": null, 
+    "language": [
+        "en", 
+        1.0
+    ], 
     "provenance": [
         {
             "fields": [
@@ -27,32 +32,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
-                "title_extended", 
                 "url", 
                 "volume", 
                 "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6485308727897627331", 
-            "resource_date": "2012-04-30T11:54:26.357-04:00", 
+            "resource_date": "2014-07-09T18:08:33.787-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:06.813492"
+            "when": "2015-06-20T16:13:22.499942"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-fold.html", 
-            "resource_date": "2012-04-30T11:54:26.357-04:00", 
+            "resource_date": "2014-07-09T18:08:33.787-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:06.813509"
+            "when": "2015-06-20T16:13:22.499958"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.fastionline.org/folder.php", 
-        "http://www.fastionline.org/folderindex.php?view=serieshome&ste_cd=FOLDER-it", 
-        "http://www.fastionline.org/"
-    ], 
-    "title": "FOLD&R", 
-    "title_extended": "FOLD&R (Fasti On Line Documents & Research)", 
+    "subordinate_resources": [], 
+    "title": "FOLD&R (Fasti On Line Documents & Research)", 
     "url": "http://www.fastionline.org/folder.php", 
     "volume": null, 
     "year": null, 

@@ -1,7 +1,13 @@
 {
-    "description": "Africa: Revue des \u00c9tudes et Recherches pr\u00e9historiques, antiques, islamiques et ethnographiques. Tunis: Institut national du patrimoine. Africa est une revue compos\u00e9e de trois s\u00e9ries. La premi\u00e8re est consacr\u00e9e aux \u00e9tudes et aux recherches pr\u00e9historiques antiques et islamiques (Africa), la seconde aux \u00e9tudes et aux recherches relatives au monde ph\u00e9nico-punique et aux antiquit\u00e9s libyques (Reppal), la troisi\u00e8me est consacr\u00e9e aux \u00e9tudes et aux recherches ethnographiques (C. A. T. P. ). Outre les \u00e9tudes et la recherche scientifique, Africa publie tous les travaux d\u2019inventaire, de sauvegarde, de mise en valeur et de pr\u00e9sentation mus\u00e9ographique du patrimoine. La revue accueille les contributions originales (articles, rapport de fouilles, notes ou compte rendus) en langue arabe, fran\u00e7aise, anglaise, italienne, espagnole ou allemande.", 
+    "description": "[First Posted in AWOL 18 October 2012, updated 15 May 2014]. Africa: Revue des \u00c9tudes et Recherches pr\u00e9historiques, antiques, islamiques et ethnographiques. Tunis: Institut national du patrimoine. ISSN: 0330-8235. Africa est une revue compos\u00e9e de trois s\u00e9ries. La premi\u00e8re est consacr\u00e9e aux \u00e9tudes et aux recherches pr\u00e9historiques antiques et islamiques (Africa), la seconde aux \u00e9tudes et aux recherches relatives au monde ph\u00e9nico-punique et aux antiquit\u00e9s libyques (Reppal), la troisi\u00e8me est consacr\u00e9e aux \u00e9tudes et aux recherches ethnographiques (C. A. T. P. ). Outre les \u00e9tudes et la recherche scientifique, Africa publie tous les travaux d\u2019inventaire, de sauvegarde, de mise en valeur et de pr\u00e9sentation mus\u00e9ographique du patrimoine. La revue accueille les contributions originales (articles, rapport de fouilles, notes ou compte rendus) en langue arabe, fran\u00e7aise, anglaise, italienne, espagnole ou allemande.", 
     "domain": "www.inp.rnrt.tn", 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0330-8235"
+            ]
+        }
+    }, 
     "is_part_of": null, 
     "keywords": [
         "Tunisia", 
@@ -34,15 +40,15 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6889461468780911911", 
-            "resource_date": "2012-12-11T15:49:30.069-05:00", 
+            "resource_date": "2014-05-15T16:25:14.938-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:40.111383"
+            "when": "2015-06-20T16:13:27.612558"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/open-access-journal-africa-revue-des.html", 
-            "resource_date": "2012-12-11T15:49:30.069-05:00", 
+            "resource_date": "2014-05-15T16:25:14.938-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:40.111399"
+            "when": "2015-06-20T16:13:27.612574"
         }
     ], 
     "related_resources": [], 

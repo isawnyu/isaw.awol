@@ -1,13 +1,15 @@
 {
-    "description": "Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res. <blockquote class=\"tr_bq\"> <a href=\"http://www. ephe. sorbonne. fr/images/stories/docs_ephe/Publications/RILB/rilb-18-19. pdf\" target=\"_blank\" title=\"RILB - Lettre n\u00b018-19 - 2012-2013\">Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res n\u00b018-19 </a><a href=\"http://www. ephe. sorbonne. fr/images/stories/docs_ephe/Publications/RILB/rilb-18-19. pdf\" title=\"RILB - Lettre n\u00b018-19 - 2012-2013\">(2012-2013)</a><br/> <a href=\"http://www. ephe. sorbonne. fr/images/stories/docs_ephe/Publications/RILB/rilb-17-2011. pdf\" title=\"RILB - Lettre n\u00b017 - 2011\">Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res n\u00b017 </a><a href=\"http://www. ephe. sorbonne. fr/images/stories/docs_ephe/Publications/RILB/rilb-17-2011. pdf\" title=\"RILB - Lettre n\u00b017 - 2011\">(2011)</a><br/> <a href=\"http://www. ephe. sorbonne. fr/images/stories/docs_ephe/Publications/RILB/rilb-16-2010. pdf\" title=\"RILB - Lettre n\u00b016 - 2010\">Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res n\u00b016 </a><a href=\"http://www. ephe. sorbonne. fr/images/stories/docs_ephe/Publications/RILB/rilb-16-2010. pdf\" title=\"RILB - Lettre n\u00b016 - 2010\">(2010)</a><br/><a href=\"http://www. ephe. sorbonne. fr/images/stories/docs_ephe/Publications/RILB/rilb_lettre_15. pdf\" target=\"_blank\" title=\"Lettre du RILB n\u00b015\"> Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res n\u00b015 (2009)</a>. <a href=\"http://www. ephe. sorbonne. fr/images/stories/docs_ephe/Publications/RILB/rilb_14. pdf\" target=\"_blank\" title=\"Lettre du RILB n\u00b014\"> Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res n\u00b014 (2008)</a></blockquote> Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res n\u00b018-19.", 
+    "description": "Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res n\u00b018-19.", 
     "domain": "www.ephe.sorbonne.fr", 
     "identifiers": {}, 
     "is_part_of": null, 
     "keywords": [
         "epigraphy", 
+        "inscriptions", 
+        "Libya", 
         "journal", 
-        "open access", 
-        "Libya"
+        "France", 
+        "open access"
     ], 
     "language": [
         "fr", 
@@ -34,26 +36,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2172646963823304744", 
             "resource_date": "2013-10-28T09:51:02.137-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:21.678677"
+            "when": "2015-06-20T16:12:25.341757"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-lettre-du.html", 
             "resource_date": "2013-10-28T09:51:02.137-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:21.678693"
+            "when": "2015-06-20T16:12:25.341793"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.ephe.sorbonne.fr/images/stories/docs_ephe/Publications/RILB/rilb-18-19.pdf", 
-        "http://www.ephe.sorbonne.fr/images/stories/docs_ephe/Publications/RILB/rilb-18-19.pdf", 
-        "http://www.ephe.sorbonne.fr/images/stories/docs_ephe/Publications/RILB/rilb-17-2011.pdf", 
-        "http://www.ephe.sorbonne.fr/images/stories/docs_ephe/Publications/RILB/rilb-17-2011.pdf", 
-        "http://www.ephe.sorbonne.fr/images/stories/docs_ephe/Publications/RILB/rilb-16-2010.pdf", 
-        "http://www.ephe.sorbonne.fr/images/stories/docs_ephe/Publications/RILB/rilb-16-2010.pdf", 
-        "http://www.ephe.sorbonne.fr/images/stories/docs_ephe/Publications/RILB/rilb_lettre_15.pdf", 
-        "http://www.ephe.sorbonne.fr/images/stories/docs_ephe/Publications/RILB/rilb_14.pdf"
-    ], 
+    "subordinate_resources": [], 
     "title": "Lettre du R\u00e9pertoire des Inscriptions Libyco-Berb\u00e8res", 
     "url": "http://www.ephe.sorbonne.fr/en/research/repertoire-des-inscriptions-libyco-berberes.html", 
     "volume": null, 

@@ -31,29 +31,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6160407160670098870", 
             "resource_date": "2013-02-25T11:40:45.289-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:57.242834"
+            "when": "2015-06-20T16:13:18.109072"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/opes-oslo-papyri-electronic-system.html", 
             "resource_date": "2013-02-25T11:40:45.289-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:57.242849"
+            "when": "2015-06-20T16:13:18.109087"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://ub-fmserver.uio.no/home.php?-link=OPES", 
-        "http://ub-fmserver.uio.no/findrecords.php?-link=Find", 
-        "http://ub-fmserver.uio.no/recordlist.php?-max=45&-skip=0&-link=Record%20List", 
-        "http://ub-fmserver.uio.no/recordlist.php?-max=25&-action=findall&-skip=0&-link=Find%20All", 
-        "http://ub-fmserver.uio.no/Collection.html", 
-        "http://ub-fmserver.uio.no/About.html", 
-        "http://ub-fmserver.uio.no/Acquisition.html", 
-        "http://ub-fmserver.uio.no/Highlights.html", 
-        "http://ub-fmserver.uio.no/Rights.html", 
-        "http://ub-fmserver.uio.no/Unpublished.html", 
-        "http://ub-fmserver.uio.no/Resources.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "OPES: Oslo Papyri Electronic System", 
     "url": "http://ub-fmserver.uio.no/home.php", 
     "volume": null, 

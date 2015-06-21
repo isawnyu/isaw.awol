@@ -3,20 +3,17 @@
     "domain": "racf.revues.org", 
     "identifiers": {
         "issn": {
-            "electronic": [
-                "0220-6617", 
-                "19516207"
-            ], 
             "generic": [
-                "19516207"
+                "0220-6617"
             ]
         }
     }, 
     "is_part_of": null, 
     "keywords": [
         "journal", 
+        "open access", 
         "archaeology", 
-        "open access"
+        "France"
     ], 
     "language": [
         "fr", 
@@ -43,27 +40,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6352189185984310569", 
             "resource_date": "2009-08-12T14:01:35.559-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:04.440278"
+            "when": "2015-06-20T16:13:20.864586"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journal-revue-archeologique.html", 
             "resource_date": "2009-08-12T14:01:35.559-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:04.440295"
+            "when": "2015-06-20T16:13:20.864603"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://racf.revues.org/index1104.html", 
-        "http://racf.revues.org/index581.html", 
-        "http://racf.revues.org/index479.html", 
-        "http://racf.revues.org/index50.html", 
-        "http://racf.revues.org/index1052.html", 
-        "http://racf.revues.org/index1042.html", 
-        "http://racf.revues.org/index935.html", 
-        "http://racf.revues.org/index934.html", 
-        "http://racf.revues.org/index932.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "Revue arch\u00e9ologique du Centre de la France", 
     "url": "http://racf.revues.org/", 
     "volume": null, 

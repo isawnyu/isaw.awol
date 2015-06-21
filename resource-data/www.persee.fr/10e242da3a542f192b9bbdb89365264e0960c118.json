@@ -3,7 +3,7 @@
     "domain": "www.persee.fr", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0042-7306"
             ]
         }
@@ -12,8 +12,9 @@
     "keywords": [
         "journal", 
         "classics", 
+        "open access", 
         "Latin", 
-        "open access"
+        "France"
     ], 
     "language": [
         "fr", 
@@ -38,86 +39,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3837362477205971824", 
-            "resource_date": "2013-09-03T11:41:36.607-04:00", 
+            "resource_date": "2014-09-26T11:46:25.120-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:06.976060"
+            "when": "2015-06-20T16:12:49.071886"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/newly-online-journal-vita-latina.html", 
-            "resource_date": "2013-09-03T11:41:36.607-04:00", 
+            "resource_date": "2014-09-26T11:46:25.120-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:06.976075"
+            "when": "2015-06-20T16:12:49.071902"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1989_num_115_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1989_num_116_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1990_num_117_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1990_num_118_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1990_num_119_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1990_num_120_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1991_num_121_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1991_num_122_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1991_num_123_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1991_num_124_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1992_num_125_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1992_num_126_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1992_num_127_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1992_num_128_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1993_num_129_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1993_num_130_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1993_num_132_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1994_num_133_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1994_num_134_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1994_num_135_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1994_num_136_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1995_num_137_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1995_num_138_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1995_num_139_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1995_num_140_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1996_num_141_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1996_num_142_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1996_num_143_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1996_num_144_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1997_num_145_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1997_num_146_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1997_num_147_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1997_num_148_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1998_num_149_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1998_num_150_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1998_num_151_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1998_num_152_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1999_num_153_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1999_num_154_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1999_num_155_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_1999_num_156_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2000_num_157_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2000_num_158_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2000_num_159_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2000_num_160_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2001_num_161_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2001_num_162_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2001_num_163_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2001_num_164_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2002_num_165_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2002_num_166_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2002_num_167_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2003_num_168_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2003_num_169_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2004_num_170_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2004_num_171_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2005_num_172_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2005_num_173_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2006_num_174_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2006_num_175_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2007_num_176_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2007_num_177_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2008_num_178_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2008_num_179_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2009_num_180_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/vita_0042-7306_2009_num_181_1"
-    ], 
+    "subordinate_resources": [], 
     "title": "Vita Latina", 
     "url": "http://www.persee.fr/web/revues/home/prescript/revue/vita", 
     "volume": null, 

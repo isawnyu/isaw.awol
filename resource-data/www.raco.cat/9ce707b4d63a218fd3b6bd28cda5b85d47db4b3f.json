@@ -3,7 +3,7 @@
     "domain": "www.raco.cat", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0212-2960"
             ]
         }
@@ -42,13 +42,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3548950461911361714", 
             "resource_date": "2011-02-21T08:28:11.380-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:00.455604"
+            "when": "2015-06-20T16:12:45.245659"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-acta-historica-et.html", 
             "resource_date": "2011-02-21T08:28:11.380-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:00.455620"
+            "when": "2015-06-20T16:12:45.245674"
         }
     ], 
     "related_resources": [], 

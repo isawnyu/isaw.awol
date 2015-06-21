@@ -1,0 +1,54 @@
+{
+    "description": "Akkadische und sumerische Texte (AST) bearbeitet von Walter Sommerfeld. Ur III Transliterationen mit Hyperlinks Quelle: Cuneiform Digital Library Initiative (CDLI)ur3_20110805_public. atf.", 
+    "domain": "dnms.org", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Sumerian", 
+        "Iraq", 
+        "Mesopotamia", 
+        "cuneiform", 
+        "Akkadian"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7128222214303444843", 
+            "resource_date": "2014-12-14T17:37:35.358-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:13:30.030939"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/12/akkadische-und-sumerische-texte-ast.html", 
+            "resource_date": "2014-12-14T17:37:35.358-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:13:30.030953"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Akkadische und sumerische Texte (AST)", 
+    "url": "http://dnms.org/apps/ast", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

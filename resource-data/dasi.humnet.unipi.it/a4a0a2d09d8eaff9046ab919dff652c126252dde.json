@@ -4,10 +4,11 @@
     "identifiers": {}, 
     "is_part_of": null, 
     "keywords": [
-        "Arabia", 
         "epigraphy", 
-        "Yemen", 
+        "inscriptions", 
         "Italy", 
+        "Arabia", 
+        "Yemen", 
         "South Arabia"
     ], 
     "language": [
@@ -35,36 +36,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-915482671060200854", 
             "resource_date": "2014-01-21T16:15:11.061-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:38.430880"
+            "when": "2015-06-20T16:13:58.146255"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-corpus-of-south-arabian.html", 
             "resource_date": "2014-01-21T16:15:11.061-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:38.430897"
+            "when": "2015-06-20T16:13:58.146271"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://dasi.humnet.unipi.it/index.php?id=44&prjId=1&corId=5&colId=0", 
-        "http://dasi.humnet.unipi.it/index.php?id=44&prjId=1&corId=5&colId=0", 
-        "http://dasi.humnet.unipi.it/index.php?id=44&prjId=1&corId=28&colId=0", 
-        "http://dasi.humnet.unipi.it/index.php?id=44&prjId=1&corId=28&colId=0", 
-        "http://dasi.humnet.unipi.it/index.php?id=44&prjId=1&corId=29&colId=0", 
-        "http://dasi.humnet.unipi.it/index.php?id=44&prjId=1&corId=29&colId=0", 
-        "http://dasi.humnet.unipi.it/index.php?id=44&prjId=1&corId=27&colId=0", 
-        "http://dasi.humnet.unipi.it/index.php?id=44&prjId=1&corId=27&colId=0", 
-        "http://dasi.humnet.unipi.it/index.php?id=44&prjId=1&corId=16&colId=0", 
-        "http://dasi.humnet.unipi.it/index.php?id=44&prjId=1&corId=16&colId=0", 
-        "http://dasi.humnet.unipi.it/index.php?id=44&prjId=1&corId=11&colId=0", 
-        "http://dasi.humnet.unipi.it/index.php?id=44&prjId=1&corId=11&colId=0", 
-        "http://dasi.humnet.unipi.it/index.php?id=135&prjId=1&corId=0&colId=29", 
-        "http://dasi.humnet.unipi.it/index.php?id=135&prjId=1&corId=0&colId=29", 
-        "http://dasi.humnet.unipi.it/index.php?id=135&prjId=1&corId=0&colId=8", 
-        "http://dasi.humnet.unipi.it/index.php?id=135&prjId=1&corId=0&colId=8", 
-        "http://dasi.humnet.unipi.it/index.php?id=135&prjId=1&corId=0&colId=7", 
-        "http://dasi.humnet.unipi.it/index.php?id=135&prjId=1&corId=0&colId=7"
-    ], 
+    "subordinate_resources": [], 
     "title": "CSAI: Corpus of South Arabian Inscriptions", 
     "url": "http://dasi.humnet.unipi.it/index.php?id=42&prjId=1&corId=0&colId=0", 
     "volume": null, 

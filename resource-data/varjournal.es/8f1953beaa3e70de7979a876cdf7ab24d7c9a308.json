@@ -3,7 +3,7 @@
     "domain": "varjournal.es", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1989-9947"
             ]
         }
@@ -40,30 +40,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9188898254449713328", 
             "resource_date": "2013-02-12T17:10:22.115-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:38.926954"
+            "when": "2015-06-20T16:13:58.495473"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-journal-virtual-archaeology.html", 
             "resource_date": "2013-02-12T17:10:22.115-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:38.926971"
+            "when": "2015-06-20T16:13:58.495489"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://varjournal.es/vol/vol3_num6.html", 
-        "http://varjournal.es/vol/vol3_num6.html", 
-        "http://varjournal.es/vol/vol3_num5.html", 
-        "http://varjournal.es/vol/vol3_num5.html", 
-        "http://varjournal.es/vol/vol2_num4.html", 
-        "http://varjournal.es/vol/vol2_num4.html", 
-        "http://varjournal.es/vol/vol2_num3.html", 
-        "http://varjournal.es/vol/vol2_num3.html", 
-        "http://varjournal.es/vol/vol1_num2.html", 
-        "http://varjournal.es/vol/vol1_num2.html", 
-        "http://varjournal.es/vol/vol1_num1.html", 
-        "http://varjournal.es/vol/vol1_num1.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "Virtual Archaeology Review", 
     "url": "http://varjournal.es/inicio.html", 
     "volume": null, 

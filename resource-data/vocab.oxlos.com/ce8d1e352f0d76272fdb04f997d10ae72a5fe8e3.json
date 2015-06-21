@@ -1,0 +1,55 @@
+{
+    "description": "New Testament Greek Vocabulary Assessment. The eventual goal of this site is to quickly assess the vocabulary coverage of a student learning New Testament Greek and to better understand coverage across the lexicon at various stages in a student\u2019s progression. The immediate goal is just to gather some data. So the site will just test you on your knowledge of the meaning of various nouns in the Greek New Testament. There are no user accounts so there\u2019s no need to sign up or anything. You can answer as many questions as you like and come back to this site at any time. It\u2019s completely anonymous. You can be an established Greek scholar or just a beginning student (in fact, I need a wide range of knowledge levels) but you should have learnt at least a small vocabulary.", 
+    "domain": "vocab.oxlos.com", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Bible", 
+        "language", 
+        "religion", 
+        "New Testament", 
+        "Greek", 
+        "pedagogy"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5042789887315307631", 
+            "resource_date": "2014-05-30T15:11:22.325-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:13:04.500111"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/05/new-testament-greek-vocabulary.html", 
+            "resource_date": "2014-05-30T15:11:22.325-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:13:04.500126"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "New Testament Greek Vocabulary Assessment", 
+    "url": "http://vocab.oxlos.com/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

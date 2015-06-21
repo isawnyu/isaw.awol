@@ -7,11 +7,12 @@
         "epigraphy", 
         "annual report", 
         "Egypt", 
-        "Luxor", 
+        "archaeology", 
         "open access", 
-        "report", 
         "Thebes", 
-        "archaeology"
+        "report", 
+        "France", 
+        "Luxor"
     ], 
     "language": [
         "fr", 
@@ -36,26 +37,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-511338438912204142", 
-            "resource_date": "2013-11-14T10:29:06.063-05:00", 
+            "resource_date": "2014-01-26T07:43:47.648-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:32.633829"
+            "when": "2015-06-20T16:13:05.282791"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/open-access-annual-report-mission.html", 
-            "resource_date": "2013-11-14T10:29:06.063-05:00", 
+            "resource_date": "2014-01-26T07:43:47.648-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:32.633845"
+            "when": "2015-06-20T16:13:05.282807"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.mafto.fr/wp2_mafto/wp-content/uploads/rapport_2007_2008.pdf", 
-        "http://www.mafto.fr/wp2_mafto/wp-content/uploads/rapport_2008_2009.pdf", 
-        "http://www.mafto.fr/wp2_mafto/wp-content/uploads/rapport_2009_2010.pdf", 
-        "http://www.mafto.fr/wp2_mafto/wp-content/uploads/rapport_2010_2011.pdf", 
-        "http://www.mafto.fr/wp2_mafto/wp-content/uploads/rapport_2011_2012.pdf", 
-        "http://www.mafto.fr/wp2_mafto/wp-content/uploads/rapport_2012_2013.pdf"
-    ], 
+    "subordinate_resources": [], 
     "title": "Mission Arch\u00e9ologique Fran\u00e7aise de Th\u00e8bes-Ouest - MAFTO: Rapports scientifiques", 
     "url": "http://www.mafto.fr/publications/rapports-scientifiques/", 
     "volume": null, 

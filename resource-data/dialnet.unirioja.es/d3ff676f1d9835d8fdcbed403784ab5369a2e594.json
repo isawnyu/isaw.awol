@@ -3,7 +3,7 @@
     "domain": "dialnet.unirioja.es", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1575-3492"
             ]
         }
@@ -39,40 +39,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6061835246856823322", 
             "resource_date": "2013-06-08T09:18:27.263-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:55.174559"
+            "when": "2015-06-20T16:13:16.809841"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-isimu.html", 
             "resource_date": "2013-06-08T09:18:27.263-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:55.174583"
+            "when": "2015-06-20T16:13:16.809856"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13138&clave_busqueda=2011", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13138&clave_busqueda=328793", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13138&clave_busqueda=2007", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13138&clave_busqueda=233613", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13138&clave_busqueda=2006", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13138&clave_busqueda=233486", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13138&clave_busqueda=2005", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13138&clave_busqueda=225750", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13138&clave_busqueda=2004", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13138&clave_busqueda=226229", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13138&clave_busqueda=2003", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13138&clave_busqueda=226480", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13138&clave_busqueda=2002", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13138&clave_busqueda=226716", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13138&clave_busqueda=2001", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13138&clave_busqueda=226736", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13138&clave_busqueda=2000", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13138&clave_busqueda=226644", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13138&clave_busqueda=1999", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13138&clave_busqueda=226767", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=13138&clave_busqueda=1998", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=13138&clave_busqueda=226671"
-    ], 
+    "subordinate_resources": [], 
     "title": "ISIMU: Revista sobre Oriente Pr\u00f3ximo y Egipto en la antig\u00fcedad", 
     "url": "http://dialnet.unirioja.es/servlet/revista?codigo=13138", 
     "volume": null, 

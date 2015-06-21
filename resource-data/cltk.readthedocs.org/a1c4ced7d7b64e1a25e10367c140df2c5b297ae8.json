@@ -1,0 +1,53 @@
+{
+    "description": "Classical Language Toolkit. The goals of the Classical Language Toolkit (CLTK) are to:.", 
+    "domain": "cltk.readthedocs.org", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Greek", 
+        "classics", 
+        "Latin", 
+        "language"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6829054760870200743", 
+            "resource_date": "2014-05-17T21:20:10.247-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:13:27.181833"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/05/classical-language-toolkit.html", 
+            "resource_date": "2014-05-17T21:20:10.247-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:13:27.181849"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Classical Language Toolkit", 
+    "url": "http://cltk.readthedocs.org/en/latest/#", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

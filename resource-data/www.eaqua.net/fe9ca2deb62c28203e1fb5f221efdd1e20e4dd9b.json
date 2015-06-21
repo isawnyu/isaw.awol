@@ -1,0 +1,51 @@
+{
+    "description": "eAQUA: Extraktion von strukturiertem Wissen aus Antiken Quellen f\u00fcr die Altertumswissenschaft. Ziel des BMBF gef\u00f6rderten Projektes eAQUA (2008-2013) war die Anpassung und Nutzung von Verfahren des Text Mining f\u00fcr altgriechische und lateinische Texte. Algorithmenbasierte Verfahren der Textauswertung werden seit einigen Jahren erfolgreich auch f\u00fcr die Analyse altertumswissenschaftlicher Textcorpora angewendet, aber besonders die Anwendung auf griechische Texte stellt dabei - wegen der Eigenart der altgriechischen Sprache (Abbildung von Akzenten, morphologische Wortbildung, Satzstruktur etc. ) - eine Neuheit und auch spezielle Herausforderung dar. Im Rahmen der interdisziplin\u00e4ren Zusammenarbeit zwischen altertumswissenschaftlichen F\u00e4chern und der Informatik war das Ziel die Gewinnung von neuem strukturierten Wissen aus antiken bzw. fr\u00fchneuzeitlichen Quellen und die Weiterentwicklung von Werkzeugen aus dem Bereich des Text Mining. Die hier verwendeten Suchm\u00f6glichkeiten (Kookkurrenzsuche, Zitationssuche) gehen \u00fcber die \u00fcblichen Suchm\u00f6glichkeiten im Rahmen digitaler Bibliotheken hinaus und erm\u00f6glichen die Erschlie\u00dfung von Abh\u00e4ngigkeiten, Einfl\u00fcssen und Transferwegen des Wissens in gro\u00dfem Umfang: Die Kookkurrenzsuche, vorrangig im eAQUA-Teilprojekt Projekt Atthidographen 2008-2011 entwickelt, zeigt semantische Zusammenh\u00e4nge an, die Zitationssuche, vorrangig im eAQUA-Teilprojekt Platon 2008-2011 entwickelt, listet Textpassagen auf, die Parallelen zwischen einem Werk und dem gesamten Referenzcorpus darstellen. Beide Tools sind seit 2011 erheblich weiterentwickelt worden und werden hier ohne Zugangsbe- oder -einschr\u00e4nkungen zur Anwendung f\u00fcr frei zug\u00e4ngliche Textcorpora zur Verf\u00fcgung gestellt.", 
+    "domain": "www.eaqua.net", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "classics", 
+        "Germany"
+    ], 
+    "language": [
+        "de", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7905527929503031173", 
+            "resource_date": "2015-02-17T16:47:51.057-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:13:40.756110"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/02/eaqua-extraktion-von-strukturiertem.html", 
+            "resource_date": "2015-02-17T16:47:51.057-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:13:40.756126"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "eAQUA: Extraktion von strukturiertem Wissen aus Antiken Quellen f\u00fcr die Altertumswissenschaft", 
+    "url": "http://www.eaqua.net/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -3,7 +3,7 @@
     "domain": "citeres.univ-tours.fr", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2105-2921"
             ]
         }
@@ -40,41 +40,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1732180333782523697", 
             "resource_date": "2012-11-28T06:08:08.354-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:08.171105"
+            "when": "2015-06-20T16:12:20.126017"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-les-petits-cahiers.html", 
             "resource_date": "2012-11-28T06:08:08.354-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:08.171122"
+            "when": "2015-06-20T16:12:20.126031"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://citeres.univ-tours.fr/compo.php?niveau=lat&page=p_lat/lat_online2", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/pecada_22.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/pecada_21.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/pecada_20.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/pecada_19.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/pecada_18.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_17.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_16.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_15.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_14.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/F2_13.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_12.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_11.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_10.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_9.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_8.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_7.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_6.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_5.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_4.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_3.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_2.pdf", 
-        "http://citeres.univ-tours.fr/doc/lat/pecada/F2_1.pdf"
-    ], 
+    "subordinate_resources": [], 
     "title": "Les Petits Cahiers d'Anatole", 
     "title_extended": "Les Petits Cahiers d'Anatole: revue en ligne publi\u00e9e par le Laboratoire Arch\u00e9ologie et Territoires, UMR 6173", 
     "url": "http://citeres.univ-tours.fr/compo.php?niveau=lat&page=p_lat/lat_online", 

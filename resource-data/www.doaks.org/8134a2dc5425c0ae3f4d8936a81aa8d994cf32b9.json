@@ -1,5 +1,5 @@
 {
-    "description": "Dumbarton Oaks Image Collections and Fieldwork Archives. support scholarship in Byzantine Studies by preserving and providing access to images of art, architecture, and archaeology in a variety of media and archival collections that document fieldwork and research projects at Byzantine sites and monuments. ICFA is also the repository for the Pre-Columbian Photographs and Fieldwork Archives and Garden and Landscape Photographs and Design Archives.", 
+    "description": "Dumbarton Oaks Image Collections and Fieldwork Archives. The Image Collections and Fieldwork Archives (ICFA) support scholarship in Byzantine Studies by preserving and providing access to images of art, architecture, and archaeology in a variety of media and archival collections that document fieldwork and research projects at Byzantine sites and monuments. ICFA is also the repository for the Pre-Columbian Photographs and Fieldwork Archives and.", 
     "domain": "www.doaks.org", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -32,20 +32,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8885362214144510698", 
             "resource_date": "2012-05-06T08:30:19.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:31.494423"
+            "when": "2015-06-20T16:13:55.182659"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/dumbarton-oaks-byzantine-photographs.html", 
             "resource_date": "2012-05-06T08:30:19.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:31.494447"
+            "when": "2015-06-20T16:13:55.182674"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.doaks.org/museum/pre-columbian/photo-fieldwork-archives", 
-        "http://www.doaks.org/library-archives/icfa/garden-and-landscape-collections"
-    ], 
+    "subordinate_resources": [], 
     "title": "Dumbarton Oaks Image Collections and Fieldwork Archives", 
     "url": "http://www.doaks.org/library-archives/icfa/copy_of_icfa", 
     "volume": null, 

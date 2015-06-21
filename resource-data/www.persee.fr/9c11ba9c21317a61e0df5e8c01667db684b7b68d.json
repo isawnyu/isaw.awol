@@ -3,17 +3,18 @@
     "domain": "www.persee.fr", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2117-6973"
             ]
         }
     }, 
     "is_part_of": null, 
     "keywords": [
-        "journal", 
         "open access", 
+        "journal", 
+        "nautical archaeology", 
         "archaeology", 
-        "nautical archaeology"
+        "France"
     ], 
     "language": [
         "fr", 
@@ -40,32 +41,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1423394332945157365", 
             "resource_date": "2013-10-28T10:28:50.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:11:41.596130"
+            "when": "2015-06-20T16:12:14.672188"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-archaeonautica.html", 
             "resource_date": "2013-10-28T10:28:50.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:11:41.596147"
+            "when": "2015-06-20T16:12:14.672204"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1977_mon_1_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1978_num_2_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1981_num_3_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1984_num_4_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1985_mon_5_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1986_num_6_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1987_num_7_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1988_mon_8_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1989_mon_9_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1990_num_10_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1993_num_11_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1994_mon_12_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1995_mon_13_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/nauti_0154-1854_1998_act_14_1"
-    ], 
+    "subordinate_resources": [], 
     "title": "Archaeonautica", 
     "url": "http://www.persee.fr/web/revues/home/prescript/revue/nauti", 
     "volume": null, 

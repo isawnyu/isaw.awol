@@ -3,7 +3,7 @@
     "domain": "www.raco.cat", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0213-3431"
             ]
         }
@@ -41,36 +41,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4468162179205734441", 
             "resource_date": "2013-12-11T06:16:31.419-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:21.005703"
+            "when": "2015-06-20T16:12:56.543596"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-cypsela.html", 
             "resource_date": "2013-12-11T06:16:31.419-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:21.005719"
+            "when": "2015-06-20T16:12:56.543612"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.raco.cat/index.php/Cypsela/issue/view/18718", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/11194", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/11195", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9072", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9070", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9069", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9591", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9602", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9651", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9664", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9665", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9667", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9668", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9712", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9722", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9729", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9732", 
-        "http://www.raco.cat/index.php/Cypsela/issue/view/9735"
-    ], 
+    "subordinate_resources": [], 
     "title": "Cypsela: revista de prehist\u00f2ria i protohist\u00f2ria", 
     "url": "http://www.raco.cat/index.php/Cypsela", 
     "volume": null, 

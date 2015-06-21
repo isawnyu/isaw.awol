@@ -1,5 +1,5 @@
 {
-    "description": "[First listed in AWOL 21 February 2011. Updated 14 September 2011]. OAPEN: online library and publication platform. OAPEN (Open Access Publishing in European Networks) is a collaborative initiative to develop and implement a sustainable Open Access publication model for academic books in the Humanities and Social Sciences. The OAPEN Library aims to improve the visibility and usability of high quality academic research by aggregating peer reviewed Open Access publications from across Europe.", 
+    "description": "[First listed in AWOL 21 February 2011. Updated 24 December 2014]. OAPEN: online library and publication platform.", 
     "domain": "www.oapen.org", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -31,46 +31,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1459741898464052849", 
-            "resource_date": "2012-08-08T17:22:00.656-04:00", 
+            "resource_date": "2014-12-24T09:33:23.221-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:11:45.492808"
+            "when": "2015-06-20T16:12:15.218799"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-library-oapen.html", 
-            "resource_date": "2012-08-08T17:22:00.656-04:00", 
+            "resource_date": "2014-12-24T09:33:23.221-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:11:45.492866"
+            "when": "2015-06-20T16:12:15.218815"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.oapen.org/", 
-        "http://www.oapen.org/", 
-        "http://www.oapen.org/", 
-        "http://www.oapen.org/xtf/search?brand=oapen&identifier=354994;keyword=ancien?", 
-        "http://www.oapen.org/xtf/search?brand=oapen&identifier=359591;keyword=classical", 
-        "http://www.oapen.org/xtf/search?brand=oapen&identifier=354910;keyword=ancien?", 
-        "http://www.oapen.org/xtf/search?brand=oapen&identifier=340082;keyword=ancien?", 
-        "http://www.oapen.org/xtf/search?brand=oapen&identifier=355313;keyword=ancien?", 
-        "http://www.oapen.org/xtf/search?brand=oapen&identifier=359584;keyword=ancien?", 
-        "http://www.oapen.org/xtf/search?brand=oapen&identifier=340275;keyword=ancien?", 
-        "http://www.oapen.org/search?identifier=354989;keyword=antiquity", 
-        "http://www.oapen.org/xtf/search?brand=oapen&identifier=356390;keyword=barri", 
-        "http://www.oapen.org/xtf/search?brand=oapen&identifier=356391;keyword=barri", 
-        "http://www.oapen.org/xtf/search?brand=oapen&identifier=356392;keyword=barri", 
-        "http://www.oapen.org/search?identifier=391875;keyword=antiquity", 
-        "http://www.oapen.org/search?identifier=391871", 
-        "http://www.oapen.org/search?identifier=391868;keyword=antiquity", 
-        "http://www.oapen.org/search?identifier=340232;keyword=antiquity", 
-        "http://www.oapen.org/search?identifier=340244;keyword=antiquity", 
-        "http://www.oapen.org/search?identifier=355313;keyword=antiquity", 
-        "http://www.oapen.org/search?identifier=389221;keyword=antiquity", 
-        "http://www.oapen.org/search?identifier=345487;keyword=antiquity", 
-        "http://www.oapen.org/search?identifier=340083;keyword=antiquity", 
-        "http://www.oapen.org/search?identifier=340246;keyword=archaeology", 
-        "http://www.oapen.org/search?identifier=353951;keyword=mesopotamia", 
-        "http://www.oapen.org/search?title=&creator=Erasmus"
-    ], 
+    "subordinate_resources": [], 
     "title": "OAPEN", 
     "title_extended": "OAPEN: online library and publication platform", 
     "url": "http://www.oapen.org/", 

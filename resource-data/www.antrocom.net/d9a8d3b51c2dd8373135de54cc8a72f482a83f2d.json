@@ -3,7 +3,7 @@
     "domain": "www.antrocom.net", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1973-2880"
             ]
         }
@@ -40,13 +40,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6511422137800933120", 
             "resource_date": "2010-03-23T11:54:24.780-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:07.552200"
+            "when": "2015-06-20T16:13:23.220326"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/03/open-access-journal-antrocom.html", 
             "resource_date": "2010-03-23T11:54:24.780-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:07.552217"
+            "when": "2015-06-20T16:13:23.220341"
         }
     ], 
     "related_resources": [], 

@@ -1,0 +1,53 @@
+{
+    "description": "Lexundria: A Digital Library of Antiquity. Lexundria is a digital library of classical antiquity. Although most of the texts on this site can be found elsewhere on the internet, this project aims to make them accessible in a more research-friendly format. The Lexundria editions are thus distinguished by the following features:.", 
+    "domain": "lexundria.com", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Greek", 
+        "Latin", 
+        "digital library", 
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5440207543130493106", 
+            "resource_date": "2014-12-13T09:13:15.872-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:13:08.493301"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/12/lexundria-digital-library-of-antiquity.html", 
+            "resource_date": "2014-12-13T09:13:15.872-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:13:08.493317"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Lexundria: A Digital Library of Antiquity", 
+    "url": "http://lexundria.com/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

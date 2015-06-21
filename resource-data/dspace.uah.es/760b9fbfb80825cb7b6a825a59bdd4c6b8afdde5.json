@@ -3,7 +3,7 @@
     "domain": "dspace.uah.es", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1130-0728"
             ]
         }
@@ -41,40 +41,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9052057708455102673", 
             "resource_date": "2013-04-30T06:04:04.522-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:36.154520"
+            "when": "2015-06-20T16:13:56.925605"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/open-access-journal-polis-revista-de.html", 
             "resource_date": "2013-04-30T06:04:04.522-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:36.154544"
+            "when": "2015-06-20T16:13:56.925620"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://dspace.uah.es/dspace/handle/10017/5293", 
-        "http://dspace.uah.es/dspace/handle/10017/5294", 
-        "http://dspace.uah.es/dspace/handle/10017/5295", 
-        "http://dspace.uah.es/dspace/handle/10017/5296", 
-        "http://dspace.uah.es/dspace/handle/10017/5297", 
-        "http://dspace.uah.es/dspace/handle/10017/5298", 
-        "http://dspace.uah.es/dspace/handle/10017/5299", 
-        "http://dspace.uah.es/dspace/handle/10017/5300", 
-        "http://dspace.uah.es/dspace/handle/10017/5301", 
-        "http://dspace.uah.es/dspace/handle/10017/5302", 
-        "http://dspace.uah.es/dspace/handle/10017/5303", 
-        "http://dspace.uah.es/dspace/handle/10017/5304", 
-        "http://dspace.uah.es/dspace/handle/10017/5305", 
-        "http://dspace.uah.es/dspace/handle/10017/5306", 
-        "http://dspace.uah.es/dspace/handle/10017/5307", 
-        "http://dspace.uah.es/dspace/handle/10017/5308", 
-        "http://dspace.uah.es/dspace/handle/10017/5309", 
-        "http://dspace.uah.es/dspace/handle/10017/5310", 
-        "http://dspace.uah.es/dspace/handle/10017/9361", 
-        "http://dspace.uah.es/dspace/handle/10017/9362", 
-        "http://dspace.uah.es/dspace/handle/10017/11381", 
-        "http://dspace.uah.es/dspace/handle/10017/11470"
-    ], 
+    "subordinate_resources": [], 
     "title": "Polis: revista de ideas y formas pol\u00edticas de la Antig\u00fcedad", 
     "url": "http://dspace.uah.es/dspace/handle/10017/5291", 
     "volume": null, 

@@ -3,7 +3,7 @@
     "domain": "www.historia.uff.br", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2236-5028"
             ]
         }
@@ -13,6 +13,7 @@
         "Brazil", 
         "Portuguese", 
         "journal", 
+        "student journal", 
         "open access"
     ], 
     "language": [
@@ -38,24 +39,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-583915122004579881", 
-            "resource_date": "2013-04-04T18:09:00.830-04:00", 
+            "resource_date": "2014-01-31T15:51:44.798-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:48.076074"
+            "when": "2015-06-20T16:13:13.179959"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/new-open-access-jpournal-plethos.html", 
-            "resource_date": "2013-04-04T18:09:00.830-04:00", 
+            "resource_date": "2014-01-31T15:51:44.798-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:48.076093"
+            "when": "2015-06-20T16:13:13.179975"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.historia.uff.br/revistaplethos/nova/index.php?Edi%C3%A7%C3%B5es:Pl%C3%AAthos%2C_3%2C_1%2C_2013", 
-        "http://www.historia.uff.br/revistaplethos/nova/index.php?Edi%C3%A7%C3%B5es:Pl%C3%AAthos%2C_2%2C_2%2C_2012", 
-        "http://www.historia.uff.br/revistaplethos/nova/index.php?Edi%C3%A7%C3%B5es:Pl%C3%AAthos%2C_2%2C_1%2C_2012", 
-        "http://www.historia.uff.br/revistaplethos/nova/index.php?Edi%C3%A7%C3%B5es:Pl%C3%AAthos%2C_1%2C_2011"
-    ], 
+    "subordinate_resources": [], 
     "title": "Pl\u00eathos: Revista Discente de Estudos Sobre a Antiguidadee o Medievo", 
     "url": "http://www.historia.uff.br/revistaplethos", 
     "volume": null, 

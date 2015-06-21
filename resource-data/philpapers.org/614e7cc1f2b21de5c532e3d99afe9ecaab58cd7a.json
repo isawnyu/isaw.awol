@@ -1,0 +1,54 @@
+{
+    "description": "[First posted in AWOL 31 December 201, updated 25 January 2014]. philpapers: Online research in philosophy. Ancient Greek and Roman Philosophy Edited by.", 
+    "domain": "philpapers.org", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Greek", 
+        "Roman", 
+        "philosophy", 
+        "digital library", 
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        0.9999999999984099
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8917170956300935650", 
+            "resource_date": "2014-01-25T19:47:42.317-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:13:55.490072"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/ancient-greek-and-roman-philosophy.html", 
+            "resource_date": "2014-01-25T19:47:42.317-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:13:55.490089"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ancient Greek and Roman Philosophy Online at philpapers", 
+    "url": "http://philpapers.org/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -3,7 +3,7 @@
     "domain": "menadoc.bibliothek.uni-halle.de", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0440-1298"
             ]
         }
@@ -39,71 +39,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2239546717630774161", 
             "resource_date": "2013-04-12T11:23:58.075-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:23.466175"
+            "when": "2015-06-20T16:12:26.001310"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/newly-open-access-journal-hallesche.html", 
             "resource_date": "2013-04-12T11:23:58.075-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:23.466192"
+            "when": "2015-06-20T16:12:26.001326"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/243380", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/243380", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/243479", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/243479", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/243602", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/243602", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/243733", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/243733", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/243856", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/243856", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/243977", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/243977", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/238573", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/238573", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/243190", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/243190", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/243281", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/243281", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/238680", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/238680", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/621610", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/621610", 
-        "http://menadoc.bibliothek.uni-halle.de/id/578840", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/578840", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/578964", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/578964", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/615547", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/615547", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/615323", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/615323", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/615751", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/615751", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/616665", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/616665", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/621471", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/621471", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/621471", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/624072", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/630361", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/630361", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/632639", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/632639", 
-        "http://menadoc.bibliothek.uni-halle.de/id/636508", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/636508", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/640465", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/640465", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/641319", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/641319", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/search/642205?query=Hallesche%20Beitr%C3%A4ge%20Orientwissenschaft", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/642795", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/642795", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/687937", 
-        "http://menadoc.bibliothek.uni-halle.de/ssg/content/structure/687937"
-    ], 
+    "subordinate_resources": [], 
     "title": "Hallesche Beitr\u00e4ge zur Orientwissenschaft", 
     "url": "http://menadoc.bibliothek.uni-halle.de/ssg/sru?http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/243479query=Hallesche+Beitr%C3%A4ge+zur+Orientwissenschaf&searchtype=combined&mode=view&operation=searchRetrieve", 
     "volume": null, 

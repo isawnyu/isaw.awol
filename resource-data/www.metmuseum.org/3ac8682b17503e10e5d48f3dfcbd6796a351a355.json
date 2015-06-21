@@ -1,0 +1,64 @@
+{
+    "description": "Have you taken the. AWOL User Survey ?. Metropolitan Museum Journal. P-ISSN: 0077-8958. E-ISSN: 2169-3072. The Metropolitan Museum Journal is an annual publication that serves as a forum for the latest scholarly findings about works of art, chiefly in the collections of the Metropolitan Museum, and topics related to them.", 
+    "domain": "www.metmuseum.org", 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "2169-3072"
+            ], 
+            "generic": [
+                "0077-8958"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "keywords": [
+        "art history", 
+        "art", 
+        "journal", 
+        "antiquity", 
+        "museums", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5089216408729597488", 
+            "resource_date": "2015-03-01T17:00:38.833-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:13:05.137820"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/03/open-access-journal-metropolitan-museum.html", 
+            "resource_date": "2015-03-01T17:00:38.833-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:13:05.137838"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Metropolitan Museum Journal", 
+    "url": "http://www.metmuseum.org/research/metpublications/search-publication-results?searchType=C&Tag=&title=&author=&pt={AA2EA5AF-D293-44E9-B972-579457F115AB}&tc=0&dept=0&fmt=readonline", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

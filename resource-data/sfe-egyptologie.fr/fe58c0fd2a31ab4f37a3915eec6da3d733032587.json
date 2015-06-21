@@ -3,7 +3,7 @@
     "domain": "sfe-egyptologie.fr", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0037-9379"
             ]
         }
@@ -13,7 +13,8 @@
         "Egypt", 
         "egyptology", 
         "journal", 
-        "open access"
+        "open access", 
+        "France"
     ], 
     "language": [
         "fr", 
@@ -40,19 +41,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3199987811875540280", 
             "resource_date": "2012-11-15T13:12:33.816-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:50.659804"
+            "when": "2015-06-20T16:12:38.881151"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-bulletin-de-la.html", 
             "resource_date": "2012-11-15T13:12:33.816-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:50.659821"
+            "when": "2015-06-20T16:12:38.881166"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://sfe-egyptologie.fr/index.php?option=com_wrapper&view=wrapper&Itemid=71"
-    ], 
+    "subordinate_resources": [], 
     "title": "Bulletin de la Soci\u00e9t\u00e9 Fran\u00e7aise d'Egyptologie (BSFE)", 
     "url": "http://sfe-egyptologie.fr/index.php?option=com_wrapper&view=wrapper&Itemid=71", 
     "volume": null, 

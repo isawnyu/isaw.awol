@@ -1,0 +1,53 @@
+{
+    "description": "Ancient Greek Music. By Stefan Hagel. The Melodies Here you find a computer-generated edition of the extant melodies. The Instruments These pages contain sound examples from reconstructed instruments: Aulos Cithara.", 
+    "domain": "www.oeaw.ac.at", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Greek", 
+        "Greece", 
+        "music", 
+        "antiquity"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4284108082661282093", 
+            "resource_date": "2015-03-29T15:18:08.651-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:12:54.959915"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/02/ancient-greek-music.html", 
+            "resource_date": "2015-03-29T15:18:08.651-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:12:54.959931"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Ancient Greek Music", 
+    "url": "http://www.oeaw.ac.at/kal/agm/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

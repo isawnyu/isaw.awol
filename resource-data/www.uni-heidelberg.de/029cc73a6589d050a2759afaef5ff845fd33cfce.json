@@ -1,11 +1,12 @@
 {
-    "description": "[First posted in AWOL 16 February 2012. Updated 16 September 2013]. [First posted in AWOL 16 February 2012. Updated 16 September 2013]. Bulletin of Online Emendations to Papyri (BOEP). We are happy to release the first-ever bulletin of online emendations made to papyri in the Duke Databank of Documentary Papyri (DDbDP). As is well known, papyrologists around the world have over the past two years been entering published documentary texts to the Duke Databank via the Papyrological Editor (formerly SoSOL) at www. papyri. info/editor/. In the process, some people have also proposed a number of emendations to existing texts. This bulletin gathers the proposals that have so far been vetted and adopted by the PN's editorial board. Our hope is that by issuing regular updates we will provide users with a helpful overview of evolving scholarly discussion concerning individual texts. We believe that these bulletins will also facilitate ongoing production of resources such as the Berichtigungsliste and HGV by highlighting meaningful changes to texts among the many other kinds of alterations (automated fixes, typo corrections, etc. ) that are regularly made to documents in the DDbDP. [From Rodney Ast and James Cowey's email announcement].", 
+    "description": "[First posted in AWOL 16 February 2012. Updated 14 January 2015]. [First posted in AWOL 16 February 2012. Updated 14 January 2015]. Bulletin of Online Emendations to Papyri (BOEP). We are happy to release the first-ever bulletin of online emendations made to papyri in the Duke Databank of Documentary Papyri (DDbDP). As is well known, papyrologists around the world have over the past two years been entering published documentary texts to the Duke Databank via the Papyrological Editor (formerly SoSOL) at www. papyri. info/editor/. In the process, some people have also proposed a number of emendations to existing texts. This bulletin gathers the proposals that have so far been vetted and adopted by the PN's editorial board. Our hope is that by issuing regular updates we will provide users with a helpful overview of evolving scholarly discussion concerning individual texts. We believe that these bulletins will also facilitate ongoing production of resources such as the Berichtigungsliste and HGV by highlighting meaningful changes to texts among the many other kinds of alterations (automated fixes, typo corrections, etc. ) that are regularly made to documents in the DDbDP. [From Rodney Ast and James Cowey's email announcement].", 
     "domain": "www.uni-heidelberg.de", 
     "identifiers": {}, 
     "is_part_of": null, 
     "keywords": [
         "papyrology", 
         "journal", 
+        "Germany", 
         "open access"
     ], 
     "language": [
@@ -32,24 +33,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5159144466835026514", 
-            "resource_date": "2013-09-16T07:27:39.136-04:00", 
+            "resource_date": "2015-01-14T12:44:53.896-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:33.781219"
+            "when": "2015-06-20T16:13:05.696261"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/new-open-access-journal-bulletin-of.html", 
-            "resource_date": "2013-09-16T07:27:39.136-04:00", 
+            "resource_date": "2015-01-14T12:44:53.896-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:33.781235"
+            "when": "2015-06-20T16:13:05.696277"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.uni-heidelberg.de/md/zaw/papy/forschung/bullemendpap_1.1.pdf", 
-        "http://www.uni-heidelberg.de/md/zaw/papy/forschung/bullemendpap_1.2.pdf", 
-        "http://www.uni-heidelberg.de/md/zaw/papy/forschung/bullemendpap_2.1.pdf", 
-        "http://www.uni-heidelberg.de/md/zaw/papy/forschung/bullemendpap_2.2.pdf"
-    ], 
+    "subordinate_resources": [], 
     "title": "Bulletin of Online Emendations to Papyri", 
     "title_extended": "Bulletin of Online Emendations to Papyri (BOEP)", 
     "url": "http://www.uni-heidelberg.de/fakultaeten/philosophie/zaw/papy/projekt/bulletin.html", 

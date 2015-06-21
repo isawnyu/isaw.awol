@@ -1,9 +1,9 @@
 {
-    "description": "Glyph Dwellers: Mayan historical\u00a0linguistics. ISSN:1097-3737. Glyph Dwellers is an occasional publication of the Maya Hieroglyphic Database Project, at the University of California, Davis, California. Its purpose is to make available recent discoveries about ancient Maya culture, history, iconography, and Mayan historical linguistics deriving from the project. Funding for the Maya Hieroglyphic Database Project is provided by the National Endowment for the Humanities, grants #RT21365-92, RT21608-94, PA22844-96, the National Science Foundation, #SBR9710961, and the Department of Native American Studies, University of California, Davis. (c) 1997\u20132009 Martha J. Macri & Matthew G. Looper. All rights reserved. Written material and artwork appearing in these reports may not be republished or duplicated for profit. Citation of more than one paragraph requires written permission of the publisher. No copies of this work may be distributed electronically, in whole or in part, without express written permission from the publisher. Links to Glyph Dwellers from other sites are welcome.", 
+    "description": "Glyph Dwellers: Mayan historical\u00a0linguistics. ISSN:1097-3737. Glyph Dwellers is an occasional publication of the Maya Hieroglyphic Database Project, at the University of California, Davis, California. Its purpose is to make available recent discoveries about ancient Maya culture, history, iconography, and Mayan historical linguistics deriving from the project. Funding for the Maya Hieroglyphic Database Project is provided by the National Endowment for the Humanities, grants #RT21365-92, RT21608-94, PA22844-96, the National Science Foundation, #SBR9710961, and the Department of Native American Studies, University of California, Davis. (c) 1997-2009 Martha J. Macri & Matthew G. Looper. All rights reserved. Written material and artwork appearing in these reports may not be republished or duplicated for profit. Citation of more than one paragraph requires written permission of the publisher. No copies of this work may be distributed electronically, in whole or in part, without express written permission from the publisher. Links to Glyph Dwellers from other sites are welcome.", 
     "domain": "nas.ucdavis.edu", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1097-3737"
             ]
         }
@@ -40,45 +40,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5638328518889890837", 
             "resource_date": "2012-06-25T21:32:24.472-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:44.012923"
+            "when": "2015-06-20T16:13:10.505000"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-glyph-dwellers.html", 
             "resource_date": "2012-06-25T21:32:24.472-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:44.012940"
+            "when": "2015-06-20T16:13:10.505015"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://nas.ucdavis.edu/NALC/R1.pdf", 
-        "http://nas.ucdavis.edu/NALC/R2.pdf", 
-        "http://nas.ucdavis.edu/NALC/R3.pdf", 
-        "http://nas.ucdavis.edu/NALC/R4.pdf", 
-        "http://nas.ucdavis.edu/NALC/R5.pdf", 
-        "http://nas.ucdavis.edu/NALC/R6.pdf", 
-        "http://nas.ucdavis.edu/NALC/R7.pdf", 
-        "http://nas.ucdavis.edu/NALC/R8.pdf", 
-        "http://nas.ucdavis.edu/NALC/R9.pdf", 
-        "http://nas.ucdavis.edu/NALC/R10.pdf", 
-        "http://nas.ucdavis.edu/NALC/R11.pdf", 
-        "http://nas.ucdavis.edu/NALC/R12.pdf", 
-        "http://nas.ucdavis.edu/NALC/R13.pdf", 
-        "http://nas.ucdavis.edu/NALC/R14.pdf", 
-        "http://nas.ucdavis.edu/NALC/R15.pdf", 
-        "http://nas.ucdavis.edu/NALC/R16.pdf", 
-        "http://nas.ucdavis.edu/NALC/R17.pdf", 
-        "http://nas.ucdavis.edu/NALC/R18.pdf", 
-        "http://nas.ucdavis.edu/NALC/R19a.pdf", 
-        "http://nas.ucdavis.edu/NALC/R20.pdf", 
-        "http://nas.ucdavis.edu/NALC/R21.pdf", 
-        "http://nas.ucdavis.edu/NALC/R22.pdf", 
-        "http://nas.ucdavis.edu/NALC/R23.pdf", 
-        "http://nas.ucdavis.edu/NALC/R24.pdf", 
-        "http://nas.ucdavis.edu/NALC/R25.pdf", 
-        "http://nas.ucdavis.edu/NALC/R26.pdf", 
-        "http://nas.ucdavis.edu/NALC/R27.pdf"
-    ], 
+    "subordinate_resources": [], 
     "title": "Glyph Dwellers : Mayan historical linguistics", 
     "url": "http://nas.ucdavis.edu/NALC/glyphdwellers.html", 
     "volume": null, 

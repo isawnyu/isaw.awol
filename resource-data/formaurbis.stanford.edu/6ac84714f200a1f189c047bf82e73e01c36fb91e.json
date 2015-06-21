@@ -1,5 +1,5 @@
 {
-    "description": "[First posted in AWOL 8 December 2009, updated 29 November 2013]. Stanford Digital Forma Urbis Romae Project. This site is dedicated to exploring the Forma Urbis Romae, or Severan Marble Plan of Rome. This enormous map, measuring ca. 18. 10 x 13 meters (ca. 60 x 43 feet), was carved between 203-211 CE and covered an entire wall inside the Templum Pacis in Rome. It depicted the groundplan of every architectural feature in the ancient city, from large public monuments to small shops, rooms, and even staircases. For more information about the map itself, go to the Map page. The Severan Marble Plan is a key resource for the study of ancient Rome, but only 10-15% of the map survives, broken into 1,186 pieces. For centuries, scholars have tried to match the fragments and reconstruct this great puzzle, but progress is slow-the marble pieces are heavy, unwieldy, and not easily accessible. Now, computer scientists and archaeologists at Stanford are employing digital technologies to try to reconstruct the map. In collaboration with the Sovraintendenza of the Comune di Roma, a team from Stanford's Computer Graphics laboratory has been creating digital photographs and 3D models of all 1,186 fragments. The next step is to develop 3D matching algorithms to \"solve the map,\" and to build a fully searchable database of the fragments-a much-needed tool for archaeological research. To read about our aims and methods in detail, go to the Project page. To know who is involved, click on People. This site presents 1,186 of the surviving fragments and 87 fragments known only from Renaissance drawings in a fully searchable database. Each entry includes digital color photographs and 3D models (download our viewer, for PCs only - sorry, Mac users), a search box, a description of the fragment, an analysis of its significance and a review of the scholarly literature. The team is also developing a viewer that will allow you to try to match fragments, and a slab map that reconstructs the known areas of the entire Plan. The full release of the database of all 1,186 known fragments is planned for 2004. Our aim is to make this material accessible to specialists, students and the general public. The project is a joint effort between engineers from the Department of Computer Science, archaeologists from the Department of Classics at Stanford, and the Sovraintendenza of the City of Rome. We are still developing this site; please contact us with your comments through the People page.", 
+    "description": "[First posted in AWOL 8 December 2009, updated 29 November 2013]. Stanford Digital Forma Urbis Romae Project. This site is dedicated to exploring the Forma Urbis Romae, or Severan Marble Plan of Rome. This enormous map, measuring ca. 18. 10 x 13 meters (ca. 60 x 43 feet), was carved between 203-211 CE and covered an entire wall inside the Templum Pacis in Rome. It depicted the groundplan of every architectural feature in the ancient city, from large public monuments to small shops, rooms, and even staircases. For more information about the map itself, go to the Map page. The Severan Marble Plan is a key resource for the study of ancient Rome, but only 10-15% of the map survives, broken into 1,186 pieces. For centuries, scholars have tried to match the fragments and reconstruct this great puzzle, but progress is slow--the marble pieces are heavy, unwieldy, and not easily accessible. Now, computer scientists and archaeologists at Stanford are employing digital technologies to try to reconstruct the map. In collaboration with the Sovraintendenza of the Comune di Roma, a team from Stanford's Computer Graphics laboratory has been creating digital photographs and 3D models of all 1,186 fragments. The next step is to develop 3D matching algorithms to \"solve the map,\" and to build a fully searchable database of the fragments--a much-needed tool for archaeological research. To read about our aims and methods in detail, go to the Project page. To know who is involved, click on People. This site presents 1,186 of the surviving fragments and 87 fragments known only from Renaissance drawings in a fully searchable database. Each entry includes digital color photographs and 3D models (download our viewer, for PCs only - sorry, Mac users), a search box, a description of the fragment, an analysis of its significance and a review of the scholarly literature. The team is also developing a viewer that will allow you to try to match fragments, and a slab map that reconstructs the known areas of the entire Plan. The full release of the database of all 1,186 known fragments is planned for 2004. Our aim is to make this material accessible to specialists, students and the general public. The project is a joint effort between engineers from the Department of Computer Science, archaeologists from the Department of Classics at Stanford, and the Sovraintendenza of the City of Rome. We are still developing this site; please contact us with your comments through the People page.", 
     "domain": "formaurbis.stanford.edu", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -35,27 +35,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-436455488187700020", 
             "resource_date": "2013-11-29T07:41:50.403-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:19.500732"
+            "when": "2015-06-20T16:12:55.730880"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/stanford-digital-forma-urbis-romae.html", 
             "resource_date": "2013-11-29T07:41:50.403-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:19.500747"
+            "when": "2015-06-20T16:12:55.730896"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://formaurbis.stanford.edu/index.html", 
-        "http://formaurbis.stanford.edu/docs/FURproject.html", 
-        "http://formaurbis.stanford.edu/docs/FURmap.html", 
-        "http://formaurbis.stanford.edu/docs/FURdb.html", 
-        "http://formaurbis.stanford.edu/docs/FURslabmap.html", 
-        "http://formaurbis.stanford.edu/docs/FURglossary.html", 
-        "http://formaurbis.stanford.edu/docs/FURbiblio.html", 
-        "http://formaurbis.stanford.edu/docs/FURpeople.html", 
-        "http://formaurbis.stanford.edu/docs/FURlinks.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "Stanford Digital Forma Urbis Romae Project", 
     "url": "http://formaurbis.stanford.edu/", 
     "volume": null, 

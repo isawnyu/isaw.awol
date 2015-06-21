@@ -1,5 +1,5 @@
 {
-    "description": "Halvo. <blockquote class=\"tr_bq\">Das halvo-Projekt ist eine studentisch initiierte Datenbank f\u00fcr das Studium der Vorderasiatischen Arch\u00e4ologie. Es ist nicht Ziel diese Datenbank Informationen zu arch\u00e4ologischen Themen m\u00f6glichst komplett aufzunehmen, sondern vielmehr eine Grundlage f\u00fcr die Recherche innerhalb des Studiums oder f\u00fcr frei Interessierte zu bieten. Diese Seite befindet sich immer noch im Aufbau, allerdings ist die Datenbank nun langsam etwas gef\u00fcllt, so das man schon nach einigen Beitr\u00e4gen und Literatur suchen kann. Nach und nach wird diese Seite erweitert werden, sowohl an Eintr\u00e4gen, als auch an Funktionen. <br/><br/><a href=\"http://www. hageneuer. de/fundort. php\">Fundorte</a><br/><a href=\"http://www. hageneuer. de/literatur. php\">Literatur </a>. <blockquote class=\"tr_bq\"><a href=\"http://www. hageneuer. de/literatur. php?aktiv=autoren\" target=\"_self\">Autoren</a>. <a href=\"http://www. hageneuer. de/literatur. php?aktiv=zeitschriften\" target=\"_self\">Zeitschriften</a></blockquote></blockquote> Fundorte.", 
+    "description": "Halvo. Das halvo-Projekt ist eine studentisch initiierte Datenbank f\u00fcr das Studium der Vorderasiatischen Arch\u00e4ologie. Es ist nicht Ziel diese Datenbank Informationen zu arch\u00e4ologischen Themen m\u00f6glichst komplett aufzunehmen, sondern vielmehr eine Grundlage f\u00fcr die Recherche innerhalb des Studiums oder f\u00fcr frei Interessierte zu bieten. Diese Seite befindet sich immer noch im Aufbau, allerdings ist die Datenbank nun langsam etwas gef\u00fcllt, so das man schon nach einigen Beitr\u00e4gen und Literatur suchen kann. Nach und nach wird diese Seite erweitert werden, sowohl an Eintr\u00e4gen, als auch an Funktionen. Fundorte.", 
     "domain": "www.hageneuer.de", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -29,22 +29,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8463837465790268123", 
             "resource_date": "2013-03-02T08:17:06.872-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:21.296952"
+            "when": "2015-06-20T16:13:47.242022"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/halvo.html", 
             "resource_date": "2013-03-02T08:17:06.872-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:21.296968"
+            "when": "2015-06-20T16:13:47.242038"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.hageneuer.de/fundort.php", 
-        "http://www.hageneuer.de/literatur.php", 
-        "http://www.hageneuer.de/literatur.php?aktiv=autoren", 
-        "http://www.hageneuer.de/literatur.php?aktiv=zeitschriften"
-    ], 
+    "subordinate_resources": [], 
     "title": "Halvo", 
     "url": "http://www.hageneuer.de/", 
     "volume": null, 

@@ -1,0 +1,52 @@
+{
+    "description": "Papyri Bononienses. Digitalizzazione completa della collezione di collezione di 58 papiri in lingua greca e latina di et\u00e0 tolemaica, romana e bizantina, acquistata nel 1930 da un antiquario del Cairo e conservati presso la Biblioteca Universitaria dell\u2019Universit\u00e0 di Bologna.", 
+    "domain": "amshistorica.unibo.it", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Egypt", 
+        "Greek", 
+        "papyrology"
+    ], 
+    "language": [
+        "it", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7103824941979617720", 
+            "resource_date": "2014-10-13T10:06:31.068-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:13:29.867391"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/10/papyri-bononienses.html", 
+            "resource_date": "2014-10-13T10:06:31.068-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:13:29.867408"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Papyri Bononienses", 
+    "url": "http://amshistorica.unibo.it/papiribon", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}
