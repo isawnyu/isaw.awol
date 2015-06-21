@@ -1,10 +1,12 @@
 {
-    "description": "Workmen's Huts in the Theban Mountains Project. FI SE EN <blockquote class=\"tr_bq\"><ul><li><a href=\"http://www. egyptologinenseura. fi/fieldwork/index. html\">FI</a></li><li><a href=\"http://www. egyptologinenseura. fi/fieldwork/se/index. html\">SE</a></li><li><a href=\"http://www. egyptologinenseura. fi/fieldwork/engl/index. html\">EN</a>\u00a0</li></ul>. This is a five-year project taking place 1. 8. 2008\u201331. 7. 2013 directed by Dr. Jaana Toivari-Viitala. The project is funded by the Academy of Finland and undertaken at the University of Helsinki in association with the Finnish Egyptological Society. The international partners of the project are The Supreme Council of Antiquities (SCA) in Egypt and the University of Basel in Switzerland as well as the N\u00e1prstek Museum in the Czech Republic. </blockquote>.", 
+    "description": "Workmen's Huts in the Theban Mountains Project. FI SE EN The Workmen\u2019s Huts in the Theban Mountains (WHTM) Project forms part of a research project called People and Environment. A multidisciplinary study on human agency, housing constructions,\u00a0 and social and ritual space in Egypt 1550-1069 BC with special focus on the Station de Repos area. This is a five-year project taking place 1. 8. 2008-31. 7. 2013 directed by Dr. Jaana Toivari-Viitala. The project is funded by the Academy of Finland and undertaken at the University of Helsinki in association with the Finnish Egyptological Society. The international partners of the project are The Supreme Council of Antiquities (SCA) in Egypt and the University of Basel in Switzerland as well as the N\u00e1prstek Museum in the Czech Republic.", 
     "domain": "www.egyptologinenseura.fi", 
     "identifiers": {}, 
     "is_part_of": null, 
     "keywords": [
+        "Egypt", 
         "project", 
+        "archaeology", 
         "Thebes"
     ], 
     "language": [
@@ -30,23 +32,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2657647040842002989", 
-            "resource_date": "2011-11-07T15:28:22.880-05:00", 
+            "resource_date": "2014-05-05T11:44:26.971-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:33.828810"
+            "when": "2015-06-20T16:12:31.809969"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/workmens-huts-in-theban-mountains.html", 
-            "resource_date": "2011-11-07T15:28:22.880-05:00", 
+            "resource_date": "2014-05-05T11:44:26.971-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:33.828826"
+            "when": "2015-06-20T16:12:31.809986"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.egyptologinenseura.fi/fieldwork/index.html", 
-        "http://www.egyptologinenseura.fi/fieldwork/se/index.html", 
-        "http://www.egyptologinenseura.fi/fieldwork/engl/index.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "Workmen's Huts in the Theban Mountains Project", 
     "url": "http://www.egyptologinenseura.fi/fieldwork/", 
     "volume": null, 

@@ -3,7 +3,7 @@
     "domain": "www.deltionchae.org", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1105-5758"
             ]
         }
@@ -11,10 +11,11 @@
     "is_part_of": null, 
     "keywords": [
         "journal", 
-        "Greece", 
+        "Christianity", 
+        "religion", 
         "open access", 
-        "archaeology", 
-        "Christianity"
+        "Greece", 
+        "archaeology"
     ], 
     "language": [
         "el", 
@@ -41,67 +42,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7150152021406876386", 
             "resource_date": "2013-09-06T08:14:20.477-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:45.277219"
+            "when": "2015-06-20T16:13:30.207621"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/newly-in-open-access-deltion-of.html", 
             "resource_date": "2013-09-06T08:14:20.477-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:45.277236"
+            "when": "2015-06-20T16:13:30.207637"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.deltionchae.org/index.php/deltion/index", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/18", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/vol45", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/13", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/12", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/11", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/10", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/9", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/17", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/43", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/42", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/41", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/40", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/39", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/38", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/37", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/36", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/34", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/33", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/32", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/31", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/30", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/29", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/28", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/27", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/26", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/25", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/24", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/23", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/54", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/53", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/51", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/50", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/49", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/48", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/47", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/70", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/69", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/67", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/66", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/65", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/64", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/63", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/62", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/61", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/60", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/59", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/58", 
-        "http://www.deltionchae.org/index.php/deltion/issue/view/57"
-    ], 
+    "subordinate_resources": [], 
     "title": "Deltion of the Christian Archaeological Society (Deltion)", 
     "url": "http://www.deltionchae.org/index.php/deltion/index", 
     "volume": null, 

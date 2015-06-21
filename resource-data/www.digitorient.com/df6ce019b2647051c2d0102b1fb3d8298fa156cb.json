@@ -1,5 +1,5 @@
 {
-    "description": "<p>From the always excellent <a href=\"http://www. digitorient. com/\" rel=\"home\" title=\"digitorient. com\">digitorient. com</a><br/><br/> <br/><br/><a href=\"http://www. digitorient. com/?p=318\">Andr\u00e9 Lemaire: bibliographie r\u00e9cente et articles en t\u00e9l\u00e9chargement</a>. </p> digitorient. com <p>From the always excellent <a href=\"http://www. digitorient. com/\" rel=\"home\" title=\"digitorient. com\">digitorient. com</a><br/><br/> <br/><br/><a href=\"http://www. digitorient. com/?p=318\">Andr\u00e9 Lemaire: bibliographie r\u00e9cente et articles en t\u00e9l\u00e9chargement</a>. </p>.", 
+    "description": "From the always excellent digitorient. com.", 
     "domain": "www.digitorient.com", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -8,7 +8,7 @@
     ], 
     "language": [
         "fr", 
-        1.0
+        0.9978744185915295
     ], 
     "provenance": [
         {
@@ -31,29 +31,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6725702980694724880", 
             "resource_date": "2013-07-27T07:30:51.335-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:36.638303"
+            "when": "2015-06-20T16:13:26.088671"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/andre-lemaire-articles-online.html", 
             "resource_date": "2013-07-27T07:30:51.335-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:36.638320"
+            "when": "2015-06-20T16:13:26.088687"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.digitorient.com/?p=318", 
-        "http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/Publications%20scientifiques.doc", 
-        "http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/SilianaCarthageAL.pdf", 
-        "http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/LemaireHazor.pdf", 
-        "http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/LemaireFormulesjuridiques.pdf", 
-        "http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/LemaireAramaicQumranica.pdf", 
-        "http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/Lemaire%20South%20Arabia.pdf", 
-        "http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/CREJ52_Lemaire.pdf", 
-        "http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/AlphabetDiogene.pdf", 
-        "http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/ALOdedSVT130.pdf", 
-        "http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/ALemaire-Schmidt.pdf"
-    ], 
+    "subordinate_resources": [], 
     "title": "Andr\u00e9 Lemaire articles online", 
     "url": "http://www.digitorient.com/", 
     "volume": null, 

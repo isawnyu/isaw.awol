@@ -1,13 +1,10 @@
 {
-    "description": "Anthropological Review. ISSN: 1898-6773. Anthropological Review Continues Przegl\u0105d Antropologiczny (Vols. 1\u201363) and Przegl\u0105d Antropologiczny \u2013 Anthropological Review (Vols. 64\u201369) ISSN: 0033-2003. Anthropological Review, appearing annually, publishes (since 1997) in English, and is a scientific journal devoted to issues in physical anthropology and related fields of science. The journal has had a long tradition of publication since its founding, in 1926.", 
+    "description": "Anthropological Review. ISSN: 1898-6773. Anthropological Review Continues Przegl\u0105d Antropologiczny (Vols. 1-63) and Przegl\u0105d Antropologiczny - Anthropological Review (Vols. 64-69) ISSN: 0033-2003. Anthropological Review, appearing annually, publishes (since 1997) in English, and is a scientific journal devoted to issues in physical anthropology and related fields of science. The journal has had a long tradition of publication since its founding, in 1926.", 
     "domain": "www.staff.amu.edu.pl", 
     "identifiers": {
         "issn": {
-            "electronic": [
-                "1898-6773", 
-                "0033-2003"
-            ], 
             "generic": [
+                "1898-6773", 
                 "0033-2003"
             ]
         }
@@ -43,29 +40,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4463305183297764692", 
             "resource_date": "2010-02-27T19:02:55.687-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:20.953833"
+            "when": "2015-06-20T16:12:56.521338"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-anthropological.html", 
             "resource_date": "2010-02-27T19:02:55.687-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:20.953850"
+            "when": "2015-06-20T16:12:56.521354"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.staff.amu.edu.pl/%7Eanthro/ar/volume.php?id=1&volume=72&year=2009", 
-        "http://www.staff.amu.edu.pl/%7Eanthro/ar/volume.php?id=1&volume=71&year=2008", 
-        "http://www.staff.amu.edu.pl/%7Eanthro/ar/volume.php?id=1&volume=70&year=2007", 
-        "http://www.staff.amu.edu.pl/%7Eanthro/ar/volume.php?id=1&volume=69&year=2006", 
-        "http://www.staff.amu.edu.pl/%7Eanthro/ar/volume.php?id=1&volume=68&year=2005", 
-        "http://www.staff.amu.edu.pl/%7Eanthro/ar/volume.php?id=1&volume=67&year=2004", 
-        "http://www.staff.amu.edu.pl/%7Eanthro/ar/volume.php?id=1&volume=66&year=2003", 
-        "http://www.staff.amu.edu.pl/%7Eanthro/ar/volume.php?id=1&volume=65&year=2002", 
-        "http://www.staff.amu.edu.pl/%7Eanthro/ar/volume.php?id=1&volume=64&year=2001", 
-        "http://www.staff.amu.edu.pl/%7Eanthro/ar/volume.php?id=1&volume=63&year=2000", 
-        "http://www.staff.amu.edu.pl/%7Eanthro/ar/volume.php?id=1&volume=62&year=1999"
-    ], 
+    "subordinate_resources": [], 
     "title": "Anthropological Review", 
     "url": "http://www.staff.amu.edu.pl/%7Eanthro/html/indexe.html", 
     "volume": null, 

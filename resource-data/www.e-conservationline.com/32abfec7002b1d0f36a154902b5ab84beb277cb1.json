@@ -3,7 +3,7 @@
     "domain": "www.e-conservationline.com", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1646-9283"
             ]
         }
@@ -39,13 +39,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-308175711505389706", 
             "resource_date": "2012-03-26T05:51:21.472-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:47.039903"
+            "when": "2015-06-20T16:12:36.567078"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-e-conservation.html", 
             "resource_date": "2012-03-26T05:51:21.472-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:47.039919"
+            "when": "2015-06-20T16:12:36.567108"
         }
     ], 
     "related_resources": [], 

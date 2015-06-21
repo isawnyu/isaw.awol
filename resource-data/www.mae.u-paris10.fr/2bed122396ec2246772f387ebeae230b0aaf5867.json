@@ -1,21 +1,12 @@
 {
-    "description": "Cahier des th\u00e8mes transversaux ArScAn. Textes des s\u00e9minaires organis\u00e9s par les th\u00e8mes transversaux de l'Unit\u00e9 de recherche Arch\u00e9ologies et Sciences de l'Antiquit\u00e9 (ArScAn) - UMR 7041. Direction de la publication: Anne-Marie Guimier-Sorbets, Philippe Soulier Coordination: Sophie M\u00e9ry. Le Cahier des th\u00e8mes transversaux existe sous une forme imprim\u00e9e qui para\u00eet chaque ann\u00e9e (ISSN: 1953-5120) et sur Internet dans une base de donn\u00e9es regroupant l'ensemble des textes rassembl\u00e9s depuis la cr\u00e9ation des th\u00e8mes (ISSN: 1776-0798).", 
+    "description": "Cahier des th\u00e8mes transversaux ArScAn. L\u2019organisation en huit th\u00e8mes transversaux constitue une des originalit\u00e9s scientifiques de l\u2019UMR 7041 ArScAn. \u00c9labor\u00e9s collectivement, \u00e9volutifs, ces th\u00e8mes structurent un travail commun au-del\u00e0 des fronti\u00e8res chronologiques ou g\u00e9ographiques propres aux programmes de recherche de chacune des \u00e9quipes. Lieux de rencontre des membres de l\u2019UMR, les th\u00e8mes sont ouverts \u00e0 tous. Tout chercheur peut y trouver mati\u00e8re \u00e0 r\u00e9flexion, parce que ces th\u00e8mes couvrent des champs transversaux de l\u2019arch\u00e9ologie, largement ouverts sur l\u2019ensemble des sciences humaines. La richesse des r\u00e9ponses permet l\u2019interaction des traditions de recherche et la dimension pluridisciplinaire des groupes de travail. Leur particularit\u00e9 r\u00e9side dans la conduite du d\u00e9bat et de la confrontation d\u2019id\u00e9es sur les faits, ce qui met en \u00e9vidence le caract\u00e8re polys\u00e9mique des questions trait\u00e9es. Dans cet esprit, des s\u00e9minaires sont organis\u00e9s \u00e0 l\u2019initiative de plusieurs th\u00e8mes traitant de champs communs, alors examin\u00e9s sous des angles diff\u00e9rents. Par ailleurs, plusieurs th\u00e8mes sont associ\u00e9s \u00e0 des s\u00e9minaires de DEA, alliant la volont\u00e9 d\u2019un partage de connaissances et le souci d\u2019une formation de haut niveau des \u00e9tudiants par la possibilit\u00e9 de participer directement aux raisonnements et \u00e0 l\u2019\u00e9laboration de donn\u00e9es nouvelles. L\u2019\u00e9tat d\u2019avancement des travaux est publi\u00e9 annuellement dans Les Cahiers des th\u00e8mes transversaux d\u00e9pos\u00e9s \u00e0 la.", 
     "domain": "www.mae.u-paris10.fr", 
-    "identifiers": {
-        "issn": {
-            "electronic": [
-                "1776-0798", 
-                "1953-5120"
-            ], 
-            "generic": [
-                "1953-5120"
-            ]
-        }
-    }, 
+    "identifiers": {}, 
     "is_part_of": null, 
     "keywords": [
         "journal", 
-        "open access"
+        "open access", 
+        "France"
     ], 
     "language": [
         "fr", 
@@ -40,21 +31,21 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7794699882819104756", 
-            "resource_date": "2010-01-21T13:51:15.975-05:00", 
+            "resource_date": "2015-03-27T08:02:50.945-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:04.213911"
+            "when": "2015-06-20T16:13:39.111969"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-cahier-des-themes.html", 
-            "resource_date": "2010-01-21T13:51:15.975-05:00", 
+            "resource_date": "2015-03-27T08:02:50.945-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:04.213928"
+            "when": "2015-06-20T16:13:39.111985"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
     "title": "Cahier des th\u00e8mes transversaux ArScAn", 
-    "url": "http://www.mae.u-paris10.fr/Cahiers/index.htm", 
+    "url": "http://www.mae.u-paris10.fr/arscan/Presentation-des-themes.html", 
     "volume": null, 
     "year": null, 
     "zotero_id": null

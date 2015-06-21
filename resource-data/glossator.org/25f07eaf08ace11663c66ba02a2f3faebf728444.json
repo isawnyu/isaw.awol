@@ -3,13 +3,14 @@
     "domain": "glossator.org", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1942-3381"
             ]
         }
     }, 
     "is_part_of": null, 
     "keywords": [
+        "commentary", 
         "journal", 
         "open access"
     ], 
@@ -38,13 +39,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6327383297371561733", 
             "resource_date": "2012-01-16T12:00:51.393-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:03.288444"
+            "when": "2015-06-20T16:13:20.521811"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/new-open-access-journal-glossator.html", 
             "resource_date": "2012-01-16T12:00:51.393-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:03.288462"
+            "when": "2015-06-20T16:13:20.521827"
         }
     ], 
     "related_resources": [], 

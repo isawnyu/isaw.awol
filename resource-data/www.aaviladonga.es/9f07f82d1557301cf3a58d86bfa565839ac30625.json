@@ -3,7 +3,7 @@
     "domain": "www.aaviladonga.es", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1575-0639"
             ]
         }
@@ -42,39 +42,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-869087177822739513", 
             "resource_date": "2013-04-29T11:11:24.141-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:27.103087"
+            "when": "2015-06-20T16:13:52.948523"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/open-access-journal-croa-boletin-da.html", 
             "resource_date": "2013-04-29T11:11:24.141-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:27.103104"
+            "when": "2015-06-20T16:13:52.948539"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=52&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=51&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=46&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=45&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=44&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=43&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=38&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=37&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=36&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=39&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=35&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=34&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=33&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=32&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=31&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=30&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=29&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=28&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=27&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=26&clase=marron&idmenu=6", 
-        "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=25&clase=marron&idmenu=6"
-    ], 
+    "subordinate_resources": [], 
     "title": "Croa: bolet\u00edn da Asociacion de Amigos do Museo do Castro de Viladonga", 
     "url": "http://www.aaviladonga.es/index.php?componente=boletin&arch=index&id=0&clase=marron&idmenu=32", 
     "volume": null, 

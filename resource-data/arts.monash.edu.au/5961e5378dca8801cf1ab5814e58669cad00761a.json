@@ -3,7 +3,7 @@
     "domain": "arts.monash.edu.au", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1445-5218"
             ]
         }
@@ -39,21 +39,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7229149156851137244", 
             "resource_date": "2012-09-07T16:28:53.499-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:47.879435"
+            "when": "2015-06-20T16:13:31.543996"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-journal-eras-journal.html", 
             "resource_date": "2012-09-07T16:28:53.499-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:47.879450"
+            "when": "2015-06-20T16:13:31.544011"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://arts.monash.edu.au/sophis/", 
-        "http://arts.monash.edu.au/publications/eras/current-edition/", 
-        "http://arts.monash.edu.au/publications/eras/editions.php"
-    ], 
+    "subordinate_resources": [], 
     "title": "ERAS Journal", 
     "url": "http://arts.monash.edu.au/publications/eras/", 
     "volume": null, 

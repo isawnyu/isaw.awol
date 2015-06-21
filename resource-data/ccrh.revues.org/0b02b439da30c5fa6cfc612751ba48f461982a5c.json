@@ -1,0 +1,60 @@
+{
+    "description": "Les Cahiers du Centre de Recherches Historiques. ISSN: 1760-7906. En cr\u00e9ant les Cahiers du Centre de Recherches Historiques, en 1988, le CRH s\u2019est dot\u00e9 d\u2019une revue r\u00e9guli\u00e8re dont l\u2019ambition \u00e9tait de fournir \u00e0 un grand laboratoire de recherche un instrument d\u2019information et de publication des principaux \u00e9l\u00e9ments ou lignes de force de son activit\u00e9 scientifique. Il s\u2019agissait aussi de donner une plus grande identit\u00e9 au Centre, dont la grande diversit\u00e9 risquait d\u2019aboutir \u00e0 une perception floue de ses directions de travail et de sa production\u00a0; Centre fort de plus de cent membres, dont la notori\u00e9t\u00e9 leur permettait de valoriser ailleurs leurs r\u00e9sultats.", 
+    "domain": "ccrh.revues.org", 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1760-7906"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "keywords": [
+        "journal", 
+        "France", 
+        "history", 
+        "open access", 
+        "antiquity"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-640575694160719619", 
+            "resource_date": "2014-05-05T16:21:26.612-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:13:21.511251"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-les-cahiers-du.html", 
+            "resource_date": "2014-05-05T16:21:26.612-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:13:21.511267"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Les Cahiers du Centre de Recherches Historiques", 
+    "url": "http://ccrh.revues.org/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

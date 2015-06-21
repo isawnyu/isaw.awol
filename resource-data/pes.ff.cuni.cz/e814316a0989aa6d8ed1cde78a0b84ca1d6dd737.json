@@ -1,10 +1,10 @@
 {
-    "description": "Prazsk\u00e9 egyptologick\u00e9 studie PES. ISSN 1801-3809.", 
+    "description": "[First posted in AWOL 3 October 2009, updated 23 July 2014]. Prazsk\u00e9 egyptologick\u00e9 studie PES. ISSN: 1214-3189.", 
     "domain": "pes.ff.cuni.cz", 
     "identifiers": {
         "issn": {
-            "electronic": [
-                "1801-3809"
+            "generic": [
+                "1214-3189"
             ]
         }
     }, 
@@ -12,9 +12,13 @@
     "keywords": [
         "egyptology", 
         "journal", 
+        "Czech Republic", 
         "open access"
     ], 
-    "language": null, 
+    "language": [
+        "jv", 
+        0.9889805083404537
+    ], 
     "provenance": [
         {
             "fields": [
@@ -34,27 +38,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5384112954428654853", 
-            "resource_date": "2012-08-05T09:10:58.846-04:00", 
+            "resource_date": "2014-07-23T07:50:15.800-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:39.828834"
+            "when": "2015-06-20T16:13:07.989579"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journal-prazske.html", 
-            "resource_date": "2012-08-05T09:10:58.846-04:00", 
+            "resource_date": "2014-07-23T07:50:15.800-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:39.828851"
+            "when": "2015-06-20T16:13:07.989595"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://pes.ff.cuni.cz/index.php", 
-        "http://pes.ff.cuni.cz/?req=cat:pes4", 
-        "http://pes.ff.cuni.cz/?req=cat:pes3", 
-        "http://pes.ff.cuni.cz/?req=cat:pes2", 
-        "http://pes.ff.cuni.cz/?req=cat:pes1", 
-        "http://pes.ff.cuni.cz/?req=cat:supl1", 
-        "http://pes.ff.cuni.cz/?req=cat:supl2"
-    ], 
+    "subordinate_resources": [], 
     "title": "Prazsk\u00e9 egyptologick\u00e9 studie PES", 
     "url": "http://pes.ff.cuni.cz/", 
     "volume": null, 

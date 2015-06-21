@@ -61,31 +61,31 @@ del dreader
 RX_IDENTIFIERS = {
     'issn': {
         'electronic': [
-            re.compile(r'(e-|e‒|e–|e—|e|)(issn[^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4})', re.IGNORECASE),
-            re.compile(r'(electronic|online|on-line|digital)([\s:]*issn[^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4})', re.IGNORECASE),
-            re.compile(r'(issn[\s\(]*)(electrónico|électronique|online|on-line|digital)([^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4})', re.IGNORECASE),
-            re.compile(r'(issn[^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4}[\s\(]*)(electrónico|électronique|online|on-line|digital)', re.IGNORECASE),
+            re.compile(r'(e-|e)(issn[\s:]*[\dX\-]{4}[\-\s]+[\dX]{4})', re.IGNORECASE),
+            re.compile(r'(electronic|online|on-line|digital)([\s:]*issn[^\d]*[\dX]{4}[\-\s]+[\dX]{4})', re.IGNORECASE),
+            re.compile(r'(issn[\s\(]*)(electrónico|électronique|online|on-line|digital)([^\d]*[\dX]{4}[\-\s]+[\dX]{4})', re.IGNORECASE),
+            re.compile(r'(issn[^\d]*[\dX]{4}[\-\s]+[\dX]{4}[\s\(]*)(electrónico|électronique|online|on-line|digital)', re.IGNORECASE),
         ],
         'generic': [
-            re.compile(r'(issn[^\d]*[\dX-‒–—]{4}[-‒–—\s]?[\dX]{4})', re.IGNORECASE),
-            re.compile(r'(issn[^\d]*[\dX-‒–—]{8-9})', re.IGNORECASE)
+            re.compile(r'(issn[^\d]*[\dX]{4}[\-\s]+[\dX]{4})', re.IGNORECASE),
+            re.compile(r'(issn[^\d]*[\dX\-\s]{8-11})', re.IGNORECASE)
         ],
         'extract': {
-            'precise': re.compile(r'^[^\d]*([\dX]{4}[-‒–—\s]?[\dX]{4}).*$', re.IGNORECASE),
-            'fallback': re.compile(r'^[^\d]*([\dX-‒–—\s]+).*$', re.IGNORECASE)
+            'precise': re.compile(r'^[^\d]*([\dX]{4}[\-\s]+[\dX]{4}).*$', re.IGNORECASE),
+            'fallback': re.compile(r'^[^\d]*([\dX\-\s]+).*$', re.IGNORECASE)
         }
     },
     'isbn': {
         'electronic': [
-            re.compile(r'(electronic|e-|e‒|e–|e—|online|on-line|digital)([\s:]*isbn[^\d]*[\dX-‒–—]+)', re.IGNORECASE),
-            re.compile(r'(isbn[\s\(]*)(electrónico|électronique|online|on-line|digital)([^\d]*[\dX-‒–—]+)', re.IGNORECASE),
-            re.compile(r'(isbn[^\d]*[\dX-‒–—]+[\s\(]*)(electrónico|électronique|online|on-line|digital)', re.IGNORECASE),
+            re.compile(r'(electronic|e-|online|on-line|digital)([\s:]*isbn[^\d]*[\dX\-]+)', re.IGNORECASE),
+            re.compile(r'(isbn[\s\(]*)(electrónico|électronique|online|on-line|digital)([^\d]*[\dX\-]+)', re.IGNORECASE),
+            re.compile(r'(isbn[^\d]*[\dX\-]+[\s\(]*)(electrónico|électronique|online|on-line|digital)', re.IGNORECASE),
         ],
         'generic': [
-            re.compile(r'isbn[^\d]*[\dX-‒–—]+', re.IGNORECASE),
+            re.compile(r'isbn[^\d]*[\dX\-]+', re.IGNORECASE),
         ],
         'extract': {
-            'precise': re.compile(r'^[^\d]*([\dX-‒–—]+).*$', re.IGNORECASE),
+            'precise': re.compile(r'^[^\d]*([\dX\-]+).*$', re.IGNORECASE),
         }
     }
 }

@@ -1,7 +1,13 @@
 {
-    "description": "Bibliotheca Sacra. Most of the contents of the first twenty volumes is now online.", 
+    "description": "Bibliotheca Sacra. ISSN: 0006-1921. Most of the contents of the first seventy-eight volumes is now online. Vols. 1 - 10 (1844 - 1853) Vols. 11 - 20 (1954 - 1863) Vols. 21 - 30 (1864 - 1873) Vols. 31 - 40 (1874 - 1883) Vols. 41 - 50 (1884 - 1893) Vols. 51 - 60 (1994 - 1903) Vols. 61 - 70 (1904 - 1913) Vols. 71 - 80 (1914 - 1923) Vols. 81 - 90 (1924 - 1933) Vols. 91 - 100 (1934 - 1943) Vols. 101 - 110 (1944 - 1953) Vols. 111 - 120 (1954 - 1963) Vols. 121 - 130 (1964 - 1973) Vols. 131 - 140 (1974 - 1983) Vols. 141 - 160 (1984 - 1993) Vols. 151 - 160 (1994 - 2003) Vols. 161 - (2004 - ).", 
     "domain": "www.biblicalstudies.org.uk", 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0006-1921"
+            ]
+        }
+    }, 
     "is_part_of": null, 
     "keywords": [
         "journal", 
@@ -31,15 +37,15 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2266103266591597962", 
-            "resource_date": "2010-04-19T10:56:44.226-04:00", 
+            "resource_date": "2014-08-12T07:38:24.873-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:26.450153"
+            "when": "2015-06-20T16:12:26.866614"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-bibliotheca-sacra.html", 
-            "resource_date": "2010-04-19T10:56:44.226-04:00", 
+            "resource_date": "2014-08-12T07:38:24.873-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:26.450169"
+            "when": "2015-06-20T16:12:26.866629"
         }
     ], 
     "related_resources": [], 

@@ -1,0 +1,51 @@
+{
+    "description": "\u00c9ditions de la Biblioth\u00e8que nationale de France. at OpenEdition Books. La Biblioth\u00e8que nationale de France est un \u00e9diteur public dont le catalogue compte plus de mille titres. Dans le cadre de sa politique de valorisation des collections, la BnF \u00e9dite des catalogues raisonn\u00e9s et des ouvrages scientifiques destin\u00e9s aux chercheurs et aux professionnels des biblioth\u00e8ques. Ces publications de r\u00e9f\u00e9rence sont le reflet de l\u2019excellence scientifique de l\u2019\u00e9tablissement.", 
+    "domain": "books.openedition.org", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "book", 
+        "France"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2443650188443020686", 
+            "resource_date": "2014-10-29T11:00:17.802-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:12:29.655748"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/10/editions-de-la-bibliotheque-nationale.html", 
+            "resource_date": "2014-10-29T11:00:17.802-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:12:29.655765"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "\u00c9ditions de la Biblioth\u00e8que nationale de France at OpenEdition Books", 
+    "url": "http://books.openedition.org/editionsbnf", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

@@ -3,7 +3,7 @@
     "domain": "hrcak.srce.hr", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1846-4807"
             ]
         }
@@ -40,24 +40,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7627707549368271983", 
             "resource_date": "2012-11-04T17:33:20.666-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:58.823329"
+            "when": "2015-06-20T16:13:36.003009"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/open-access-journal-archaeologica.html", 
             "resource_date": "2012-11-04T17:33:20.666-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:58.823346"
+            "when": "2015-06-20T16:13:36.003026"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=7203", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=5894", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=5888", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=3144", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=3145", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=2462"
-    ], 
+    "subordinate_resources": [], 
     "title": "Archaeologica Adriatica", 
     "url": "http://hrcak.srce.hr/adriatica", 
     "volume": null, 

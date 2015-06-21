@@ -3,7 +3,7 @@
     "domain": "www.persee.fr", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1262-3717"
             ]
         }
@@ -11,10 +11,11 @@
     "is_part_of": null, 
     "keywords": [
         "journal", 
-        "history", 
+        "France", 
         "open access", 
+        "Greece", 
         "archaeology", 
-        "Greece"
+        "history"
     ], 
     "language": [
         "fr", 
@@ -39,33 +40,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4838617049522110536", 
-            "resource_date": "2013-05-12T08:22:56.521-04:00", 
+            "resource_date": "2014-11-17T17:17:29.026-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:27.481062"
+            "when": "2015-06-20T16:13:02.105831"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/emerginmg-open-access-journal-gaia.html", 
-            "resource_date": "2013-05-12T08:22:56.521-04:00", 
+            "resource_date": "2014-11-17T17:17:29.026-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:27.481078"
+            "when": "2015-06-20T16:13:02.105848"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.persee.fr/web/revues/home/prescript/issue/gaia_1287-3349_1997_num_1_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/gaia_1287-3349_1998_num_3_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/gaia_1287-3349_2000_num_4_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/gaia_1287-3349_2001_num_5_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/gaia_1287-3349_2002_num_6_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/gaia_1287-3349_2003_num_7_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/gaia_1287-3349_2004_num_8_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/gaia_1287-3349_2005_num_9_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/gaia_1287-3349_2006_num_10_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/gaia_1287-3349_2007_num_11_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/gaia_1287-3349_2009_num_12_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/gaia_1287-3349_2010_num_13_1", 
-        "http://www.persee.fr/web/revues/home/prescript/issue/gaia_1287-3349_2011_num_14_1"
-    ], 
+    "subordinate_resources": [], 
     "title": "Gaia: revue interdisciplinaire sur la Gr\u00e8ce Archa\u00efque", 
     "url": "http://www.persee.fr/web/revues/home/prescript/revue/gaia", 
     "volume": null, 

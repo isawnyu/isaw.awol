@@ -1,14 +1,13 @@
 {
-    "description": "Prometheus. Rivista di studi classici. Prometheus. Rivista di studi classici. ISSN 0391-2698 (print). ISSN 2281-1044 (online). Fondata da Adelmo Barigazzi nel 1975, la rivista Prometheus si \u00e8 dedicata programmaticamente alla ricerca scientifica sui testi letterari classici greci e latini, nella convinzione che uno studio analitico e filologicamente approfondito dei testi antichi possa giovare ancora fortemente alla formazione culturale dei giovani della nostra et\u00e0.", 
+    "description": "[First posted in AWOL 8 August 2013, updated 1 May 2014]. Prometheus. Rivista di studi classici. ISSN 0391-2698 (print). ISSN 2281-1044 (online). Fondata da Adelmo Barigazzi nel 1975, la rivista Prometheus si \u00e8 dedicata programmaticamente alla ricerca scientifica sui testi letterari classici greci e latini, nella convinzione che uno studio analitico e filologicamente approfondito dei testi antichi possa giovare ancora fortemente alla formazione culturale dei giovani della nostra et\u00e0.", 
     "domain": "www.fupress.net", 
     "identifiers": {
         "issn": {
             "electronic": [
-                "0391-2698", 
                 "2281-1044"
             ], 
             "generic": [
-                "2281-1044"
+                "0391-2698"
             ]
         }
     }, 
@@ -42,29 +41,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3377949648214169331", 
-            "resource_date": "2013-07-08T09:49:37.075-04:00", 
+            "resource_date": "2014-05-03T08:50:12.479-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:55.858811"
+            "when": "2015-06-20T16:12:42.974789"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-journal-prometheus-rivista.html", 
-            "resource_date": "2013-07-08T09:49:37.075-04:00", 
+            "resource_date": "2014-05-03T08:50:12.479-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:55.858836"
+            "when": "2015-06-20T16:12:42.974805"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.fupress.net/index.php/prometheus/issue/view/947", 
-        "http://www.fupress.net/index.php/prometheus/issue/view/948", 
-        "http://www.fupress.net/index.php/prometheus/issue/view/949", 
-        "http://www.fupress.net/index.php/prometheus/issue/view/951", 
-        "http://www.fupress.net/index.php/prometheus/issue/view/952", 
-        "http://www.fupress.net/index.php/prometheus/issue/view/953", 
-        "http://www.fupress.net/index.php/prometheus/issue/view/954", 
-        "http://www.fupress.net/index.php/prometheus/issue/view/955", 
-        "http://www.fupress.net/index.php/prometheus/issue/view/956"
-    ], 
+    "subordinate_resources": [], 
     "title": "Prometheus. Rivista di studi classici", 
     "url": "http://www.fupress.net/index.php/prometheus/index", 
     "volume": null, 

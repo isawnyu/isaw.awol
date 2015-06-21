@@ -1,5 +1,5 @@
 {
-    "description": "The Plakias Stone Age Project. is a Greek-American collaborative project that funds research on the Stone Age discoveries around the village of Plakias in southwest Crete (Greece). It began in 2008 with the Plakias Mesolithic Survey where both Mesolithic (11,000\u2013 9000 B. P. ) and Lower Palaeolithic sites (1. 5 million years\u2013250,000 years ago) were found. The project continues with the excavation of the Mesolithic site of Damnoni and geoarchaeological dating of other sites found in the region.", 
+    "description": "The Plakias Stone Age Project\u00a0is a Greek-American collaborative project that funds research on the Stone Age discoveries around the village of Plakias in southwest Crete (Greece). It began in 2008 with the Plakias Mesolithic Survey where both Mesolithic (11,000- 9000 B. P. ) and Lower Palaeolithic sites (1. 5 million years-250,000 years ago) were found. The project continues with the excavation of the Mesolithic site of Damnoni and geoarchaeological dating of other sites found in the region.", 
     "domain": "plakiasstoneageproject.com", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -34,26 +34,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-905219198761832366", 
             "resource_date": "2013-11-19T08:34:51.379-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:36.295617"
+            "when": "2015-06-20T16:13:56.953983"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/the-plakias-stone-age-project.html", 
             "resource_date": "2013-11-19T08:34:51.379-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:36.295633"
+            "when": "2015-06-20T16:13:56.953998"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://plakiasstoneageproject.com/project-overview/", 
-        "http://plakiasstoneageproject.com/survey/", 
-        "http://plakiasstoneageproject.com/excavation/", 
-        "http://plakiasstoneageproject.com/geoarchaeology/", 
-        "http://plakiasstoneageproject.com/fact-sheet/", 
-        "http://plakiasstoneageproject.com/team-members/", 
-        "http://plakiasstoneageproject.com/interactive/", 
-        "http://plakiasstoneageproject.com/donate/"
-    ], 
+    "subordinate_resources": [], 
     "title": "The Plakias Stone Age Project", 
     "url": "http://plakiasstoneageproject.com/", 
     "volume": null, 

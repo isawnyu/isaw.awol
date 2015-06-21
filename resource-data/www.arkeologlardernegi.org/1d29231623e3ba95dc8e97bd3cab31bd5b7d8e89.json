@@ -3,7 +3,7 @@
     "domain": "www.arkeologlardernegi.org", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1303-3972"
             ]
         }
@@ -41,27 +41,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-869604332945233139", 
             "resource_date": "2013-04-11T14:39:15.137-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:27.628511"
+            "when": "2015-06-20T16:13:53.062728"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/open-access-journal-idol-arkeoloji-ve.html", 
             "resource_date": "2013-04-11T14:39:15.137-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:27.628527"
+            "when": "2015-06-20T16:13:53.062744"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.arkeologlardernegi.org/site/yayindetay.asp?id=61", 
-        "http://www.arkeologlardernegi.org/site/yayindetay.asp?id=60", 
-        "http://www.arkeologlardernegi.org/site/yayindetay.asp?id=59", 
-        "http://www.arkeologlardernegi.org/site/yayindetay.asp?id=58", 
-        "http://www.arkeologlardernegi.org/site/yayindetay.asp?id=55", 
-        "http://www.arkeologlardernegi.org/site/yayindetay.asp?id=54", 
-        "http://www.arkeologlardernegi.org/site/yayindetay.asp?id=53", 
-        "http://www.arkeologlardernegi.org/site/yayindetay.asp?id=52", 
-        "http://www.arkeologlardernegi.org/site/yayindetay.asp?id=51"
-    ], 
+    "subordinate_resources": [], 
     "title": "\u0130DOL arkeoloji ve arkeologlar derne\u011fi dergisi", 
     "url": "http://www.arkeologlardernegi.org/site/index.asp", 
     "volume": null, 

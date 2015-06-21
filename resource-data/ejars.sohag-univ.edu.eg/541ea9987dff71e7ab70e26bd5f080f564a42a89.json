@@ -1,14 +1,13 @@
 {
-    "description": "[First posted in AWOL 2 November 2011. Updated 20 November 2013]. Egyptian journal of archaeological & restoration studies (EJARS). National ISSN: 18178/2010. International ISSN: 2090-4932. Online ISSN: 2090-4940. The Egyptian Journal of Archaeological and Restoration Studies (EJARS) is an International Journal issued by Center of Archaeological and Conservation Studies and Research (ACSRC) - Sohag University. The international journal EJARS Encourage international discussion on several fields such as archaeological problems, Conservation science, coupling between archaeology, archaeometry and management of Conservation projects. It focuses on the Arabian, African and Mediterranean regions and presents an international forum of research, innovations, discoveries, applications and meetings concerning the modern approaches to the study of human past. Also, the journal focuses on a specific new methodology in archaeological and restoration fields.", 
+    "description": "[First posted in AWOL 2 November 2011. Updated 27 May 2015]. Egyptian journal of archaeological & restoration studies (EJARS). National ISSN: 18178/2010. International ISSN: 2090-4932. Online ISSN: 2090-4940. The Egyptian Journal of Archaeological and Restoration Studies (EJARS) is an International Journal issued by Center of Archaeological and Conservation Studies and Research (ACSRC) - Sohag University. The international journal EJARS Encourage international discussion on several fields such as archaeological problems, Conservation science, coupling between archaeology, archaeometry and management of Conservation projects. It focuses on the Arabian, African and Mediterranean regions and presents an international forum of research, innovations, discoveries, applications and meetings concerning the modern approaches to the study of human past. Also, the journal focuses on a specific new methodology in archaeological and restoration fields.", 
     "domain": "ejars.sohag-univ.edu.eg", 
     "identifiers": {
         "issn": {
             "electronic": [
-                "2090-4932", 
                 "2090-4940"
             ], 
             "generic": [
-                "2090-4940"
+                "2090-4932"
             ]
         }
     }, 
@@ -45,25 +44,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5113991741615441189", 
-            "resource_date": "2013-11-20T05:58:06.586-05:00", 
+            "resource_date": "2015-05-27T15:27:46.870-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:32.672177"
+            "when": "2015-06-20T16:13:05.302669"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-egyptian-journal-of.html", 
-            "resource_date": "2013-11-20T05:58:06.586-05:00", 
+            "resource_date": "2015-05-27T15:27:46.870-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:32.672194"
+            "when": "2015-06-20T16:13:05.302686"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://ejars.sohag-univ.edu.eg/CurrentIssue.aspx", 
-        "http://ejars.sohag-univ.edu.eg/Issue1.aspx", 
-        "http://ejars.sohag-univ.edu.eg/Issue2.aspx", 
-        "http://ejars.sohag-univ.edu.eg/Issue3.aspx", 
-        "http://ejars.sohag-univ.edu.eg/Issue4.aspx"
-    ], 
+    "subordinate_resources": [], 
     "title": "Egyptian journal of archaeological & restoration studies (EJARS)", 
     "url": "http://ejars.sohag-univ.edu.eg/", 
     "volume": null, 

@@ -3,7 +3,7 @@
     "domain": "www.komunikacija.org.rs", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1450-5193"
             ]
         }
@@ -35,19 +35,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3907512170835212811", 
             "resource_date": "2011-05-08T08:46:10.008-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:09.123437"
+            "when": "2015-06-20T16:12:50.564277"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-singidunum.html", 
             "resource_date": "2011-05-08T08:46:10.008-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:09.123454"
+            "when": "2015-06-20T16:12:50.564297"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.komunikacija.org.rs/komunikacija/casopisi/singidunum/2/index_html?stdlang=gb"
-    ], 
+    "subordinate_resources": [], 
     "title": "Singidunum", 
     "url": "http://www.komunikacija.org.rs/komunikacija/casopisi/singidunum", 
     "volume": null, 

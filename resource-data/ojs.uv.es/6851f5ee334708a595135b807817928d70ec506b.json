@@ -3,11 +3,8 @@
     "domain": "ojs.uv.es", 
     "identifiers": {
         "issn": {
-            "electronic": [
-                "2253-7295", 
-                "2254-0512"
-            ], 
             "generic": [
+                "2253-7295", 
                 "2254-0512"
             ]
         }
@@ -47,27 +44,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6520074801902136306", 
             "resource_date": "2014-01-20T18:09:18.115-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:07.632402"
+            "when": "2015-06-20T16:13:23.308199"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-sagvntvm-papeles.html", 
             "resource_date": "2014-01-20T18:09:18.115-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:07.632418"
+            "when": "2015-06-20T16:13:23.308215"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://ojs.uv.es/index.php/saguntum/index", 
-        "http://ojs.uv.es/index.php/saguntumextra/issue/view/180", 
-        "http://ojs.uv.es/index.php/saguntumextra/issue/view/108", 
-        "http://ojs.uv.es/index.php/saguntumextra/issue/view/107", 
-        "http://ojs.uv.es/index.php/saguntumextra/issue/view/106", 
-        "http://ojs.uv.es/index.php/saguntumextra/issue/view/201", 
-        "http://ojs.uv.es/index.php/saguntumextra/issue/view/200", 
-        "http://ojs.uv.es/index.php/saguntumextra/issue/view/199", 
-        "http://ojs.uv.es/index.php/saguntum/index"
-    ], 
+    "subordinate_resources": [], 
     "title": "SAGVNTVM Extra. Papeles del Laboratorio de Arqueolog\u00eda de Valencia - Extra", 
     "url": "http://ojs.uv.es/index.php/saguntumextra/index", 
     "volume": null, 

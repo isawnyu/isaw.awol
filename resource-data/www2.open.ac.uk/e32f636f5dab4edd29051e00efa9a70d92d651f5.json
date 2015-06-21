@@ -1,9 +1,9 @@
 {
-    "description": "New Voices In Classical Reception Studies. ISSN 1750-6581. Classical Reception Studies is a rapidly developing field of research. There is a growing number of new scholars investigating issues of reception of classical texts, ideas, performance, and material culture across different cultural contexts and in different media.", 
+    "description": "[First posted in AWOL\u00a0 26 September 3013, updated (a new volume has appeared) 24 February 2015]. New Voices In Classical Reception Studies. ISSN 1750-6581. Classical Reception Studies is a rapidly developing field of research. There is a growing number of new scholars investigating issues of reception of classical texts, ideas, performance, and material culture across different cultural contexts and in different media.", 
     "domain": "www2.open.ac.uk", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1750-6581"
             ]
         }
@@ -38,29 +38,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-893054367496361640", 
-            "resource_date": "2013-09-26T08:02:55.957-04:00", 
+            "resource_date": "2015-03-29T15:12:17.274-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:31.945038"
+            "when": "2015-06-20T16:13:55.691090"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/07/open-access-journal-new-voices-in.html", 
-            "resource_date": "2013-09-26T08:02:55.957-04:00", 
+            "resource_date": "2015-03-29T15:12:17.274-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:31.945054"
+            "when": "2015-06-20T16:13:55.691106"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/issue1/issue1index.htm", 
-        "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/issue2/issue2index.htm", 
-        "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/issue%203/issue3index.htm", 
-        "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/issue%204/issue4index.htm", 
-        "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/Issue5/issue5index.htm", 
-        "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/Issue6/issue6index.htm", 
-        "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/Issue7/issue7index.htm", 
-        "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/call.htm", 
-        "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/call.htm"
-    ], 
+    "subordinate_resources": [], 
     "title": "New Voices In Classical Reception Studies", 
     "url": "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/", 
     "volume": null, 

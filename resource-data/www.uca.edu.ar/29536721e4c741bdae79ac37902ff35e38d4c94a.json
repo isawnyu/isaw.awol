@@ -1,9 +1,9 @@
 {
-    "description": "[First posted in AWOL 20 December 2011. Updated 10 December 2012]. De Rebus Antiquis. ISSN 2250-4923.", 
+    "description": "[First posted in AWOL 20 December 2011. Updated 6 February 2014]. De Rebus Antiquis. ISSN 2250-4923. DE REBUS ANTIQUIS es la publicaci\u00f3n electr\u00f3nica del Proyecto de Estudios Hist\u00f3ricos Grecorromanos (PEHG) del Departamento de Historia de la Facultad de Ciencias Sociales, Pol\u00edticas y de la Comunicaci\u00f3n de la Universidad Cat\u00f3lica Argentina. Esta revista ha nacido con el objeto de dar marco institucional para la publicaci\u00f3n de todas aquellas investigaciones de especialistas en esta \u00e1rea del conocimiento y gestar as\u00ed un \u00e1mbito de debate en las tem\u00e1ticas y l\u00edneas de investigaci\u00f3n m\u00e1s novedosas del tema que nos convoca. Hemos elegido el formato electr\u00f3nico para garantizar el \u00e1gil acceso a sus contenidos a cualquier especialista interesado como un r\u00e1pido alcance nacional e internacional a sus articulistas. Asimismo, desde la perspectiva hist\u00f3rica, convocamos el aporte de otras \u00e1reas del conocimiento como la Ciencia Pol\u00edtica, la Antropolog\u00eda, la Sociolog\u00eda, la Econom\u00eda, las Letras, la Filosof\u00eda, etc. , que son bienvenidos a participar y nos ayudar\u00e1n a satisfacer las exigencias que implica el conocimiento interdisciplinario.", 
     "domain": "www.uca.edu.ar", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2250-4923"
             ]
         }
@@ -11,12 +11,16 @@
     "is_part_of": null, 
     "keywords": [
         "journal", 
-        "classics", 
-        "open access", 
         "Rome", 
-        "Greece"
+        "open access", 
+        "Greece", 
+        "Argentina", 
+        "classics"
     ], 
-    "language": null, 
+    "language": [
+        "es", 
+        1.0
+    ], 
     "provenance": [
         {
             "fields": [
@@ -36,15 +40,15 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2996933517505453388", 
-            "resource_date": "2012-12-10T15:56:09.409-05:00", 
+            "resource_date": "2014-02-06T13:38:56.428-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:41.559579"
+            "when": "2015-06-20T16:12:35.156233"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/new-open-access-journal-de-rebus.html", 
-            "resource_date": "2012-12-10T15:56:09.409-05:00", 
+            "resource_date": "2014-02-06T13:38:56.428-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:41.559596"
+            "when": "2015-06-20T16:12:35.156249"
         }
     ], 
     "related_resources": [], 

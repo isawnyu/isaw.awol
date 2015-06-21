@@ -1,0 +1,51 @@
+{
+    "description": "New Byzantine texts were added to the Thesaurus Linguae Graecae on 22 April 2014. 0082 APOLLONIUS DYSCOLUS Gramm. (2 works).", 
+    "domain": "www.tlg.uci.edu", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Greek", 
+        "thesaurus"
+    ], 
+    "language": [
+        "en", 
+        0.9999999997464546
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2781006941181929099", 
+            "resource_date": "2015-05-11T10:44:17.237-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:12:33.054164"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/04/thesaurus-linguae-graecae-tlg-updates.html", 
+            "resource_date": "2015-05-11T10:44:17.237-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:12:33.054181"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Thesaurus Linguae Graecae (TLG\u00ae) Updates", 
+    "url": "http://www.tlg.uci.edu/authors/post_tlg_e.php", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

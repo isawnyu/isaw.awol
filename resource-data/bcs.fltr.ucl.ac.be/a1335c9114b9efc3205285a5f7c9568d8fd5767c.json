@@ -1,9 +1,10 @@
 {
-    "description": "[First posted in AWOL. 9 November 2009. Updated 2 March 2013]. Folia Electronica Classica. En r\u00e9ponse \u00e0 une suggestion de Jean Schumacher, \u00e0 l'\u00e9poque responsable du service informatique de la Facult\u00e9 de Philosophie et Lettres, la () tente depuis juin 2001 \u00e0 Louvain l'exp\u00e9rience d'une revue \u00e9lectronique consacr\u00e9e au monde classique et enti\u00e8rement libre d'acc\u00e8s\u00a0: les Pour l'instant, la nouvelle revue propose des articles relativement g\u00e9n\u00e9raux, r\u00e9dig\u00e9s en fran\u00e7ais et susceptibles d'int\u00e9resser un large public\u00a0; si elle s'adresse parfois \u00e0 des sp\u00e9cialistes, elle vise davantage les professeurs du secondaire, les \u00e9tudiants, voire les internautes cultiv\u00e9s. Son orientation n'est pas encore bien d\u00e9finie, et une p\u00e9riode de rodage sera probablement n\u00e9cessaire avant d'y voir plus clair.", 
+    "description": "[First posted in AWOL 9 November 2009. Updated 12 March 2015]. [First posted in AWOL 9 November 2009. Updated 12 March 2015]. Folia Electronica Classica. En r\u00e9ponse \u00e0 une suggestion de Jean Schumacher, \u00e0 l'\u00e9poque responsable du service informatique de la Facult\u00e9 de Philosophie et Lettres, la Bibliotheca Classica Selecta (BCS) tente depuis juin 2001 \u00e0 Louvain l'exp\u00e9rience d'une revue \u00e9lectronique consacr\u00e9e au monde classique et enti\u00e8rement libre d'acc\u00e8s\u00a0: les Folia Electronica Classica. Pour l'instant, la nouvelle revue propose des articles relativement g\u00e9n\u00e9raux, r\u00e9dig\u00e9s en fran\u00e7ais et susceptibles d'int\u00e9resser un large public\u00a0; si elle s'adresse parfois \u00e0 des sp\u00e9cialistes, elle vise davantage les professeurs du secondaire, les \u00e9tudiants, voire les internautes cultiv\u00e9s. Son orientation n'est pas encore bien d\u00e9finie, et une p\u00e9riode de rodage sera probablement n\u00e9cessaire avant d'y voir plus clair.", 
     "domain": "bcs.fltr.ucl.ac.be", 
     "identifiers": {}, 
     "is_part_of": null, 
     "keywords": [
+        "Belgium", 
         "journal", 
         "classics", 
         "open access"
@@ -31,44 +32,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6070872303553101648", 
-            "resource_date": "2013-03-02T08:37:20.149-05:00", 
+            "resource_date": "2015-01-12T09:05:28.530-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:55.462836"
+            "when": "2015-06-20T16:13:17.063651"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-folia-electronica.html", 
-            "resource_date": "2013-03-02T08:37:20.149-05:00", 
+            "resource_date": "2015-01-12T09:05:28.530-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:55.462852"
+            "when": "2015-06-20T16:13:17.063676"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://bcs.fltr.ucl.ac.be/fe/01/TM1.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/02/TM2.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/03/TM3.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/04/TM4.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/05/TM5.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/06/TM6.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/07/TM7.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/08/TM8.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/09/TM9.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/10/TM10.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/11/TM11.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/12/TM12.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/13/TM13.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/14/TM14.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/15/TM15.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/16/TM16.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/17/TM17.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/18/TM18.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/19/TM19.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/20/TM20.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/21/TM21.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/22/TM22.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/23/TM23.html", 
-        "http://bcs.fltr.ucl.ac.be/fe/24/TM24.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "Folia Electronica Classica", 
     "url": "http://bcs.fltr.ucl.ac.be/fe/default.htm", 
     "volume": null, 

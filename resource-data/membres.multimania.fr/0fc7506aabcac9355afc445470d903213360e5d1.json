@@ -3,7 +3,7 @@
     "domain": "membres.multimania.fr", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1278-687X"
             ]
         }
@@ -11,8 +11,9 @@
     "is_part_of": null, 
     "keywords": [
         "journal", 
+        "open access", 
         "archaeology", 
-        "open access"
+        "France"
     ], 
     "language": [
         "fr", 
@@ -39,19 +40,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3978537494154636237", 
             "resource_date": "2012-05-24T21:37:43.770-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:09.781156"
+            "when": "2015-06-20T16:12:51.051179"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-revue-darcheologie.html", 
             "resource_date": "2012-05-24T21:37:43.770-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:09.781176"
+            "when": "2015-06-20T16:12:51.051194"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://membres.multimania.fr/apea/page3.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "Revue d'Arch\u00e9ologie G\u00e9n\u00e9rale", 
     "url": "http://membres.multimania.fr/apea/index.html", 
     "volume": null, 

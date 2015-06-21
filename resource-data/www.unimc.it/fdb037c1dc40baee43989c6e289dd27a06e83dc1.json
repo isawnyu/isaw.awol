@@ -1,9 +1,9 @@
 {
-    "description": "Il capitale culturale. Studies on the Value of Cultural Heritage. Il capitale culturale. Studies on the Value of Cultural Heritage. ISSN: 2039-2362. (ISSN: 2039-2362) \u00e8 la rivista del Dipartimento di Beni Culturali dell\u2019Universit\u00e0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\u2019arte) unite dal comune obiettivo della implementazione di attivit\u00e0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.", 
+    "description": "Il capitale culturale. Studies on the Value of Cultural Heritage. Il capitale culturale. Studies on the Value of Cultural Heritage. ISSN: 2039-2362. Il capitale culturale (ISSN: 2039-2362) \u00e8 la rivista del Dipartimento di Beni Culturali dell\u2019Universit\u00e0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\u2019arte) unite dal comune obiettivo della implementazione di attivit\u00e0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.", 
     "domain": "www.unimc.it", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2039-2362"
             ]
         }
@@ -42,28 +42,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-107383690052898357", 
             "resource_date": "2013-03-09T11:04:14.699-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:11:25.712859"
+            "when": "2015-06-20T16:12:10.773371"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/new-open-access-journal-il-capitale.html", 
             "resource_date": "2013-03-09T11:04:14.699-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:11:25.712880"
+            "when": "2015-06-20T16:12:10.773387"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.unimc.it/riviste/index.php/cap-cult/issue/view/19", 
-        "http://www.unimc.it/riviste/index.php/cap-cult/issue/view/19", 
-        "http://www.unimc.it/riviste/index.php/cap-cult/issue/view/18", 
-        "http://www.unimc.it/riviste/index.php/cap-cult/issue/view/18", 
-        "http://www.unimc.it/riviste/index.php/cap-cult/issue/view/14", 
-        "http://www.unimc.it/riviste/index.php/cap-cult/issue/view/14", 
-        "http://www.unimc.it/riviste/index.php/cap-cult/issue/view/8", 
-        "http://www.unimc.it/riviste/index.php/cap-cult/issue/view/8", 
-        "http://www.unimc.it/riviste/index.php/cap-cult/issue/view/2", 
-        "http://www.unimc.it/riviste/index.php/cap-cult/issue/view/2"
-    ], 
+    "subordinate_resources": [], 
     "title": "Il capitale culturale", 
     "title_extended": "Il capitale culturale. Studies on the Value of Cultural Heritage", 
     "url": "http://www.unimc.it/riviste/index.php/cap-cult/index", 

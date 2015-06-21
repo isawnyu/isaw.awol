@@ -15,6 +15,19 @@
         <xsl:apply-templates/>
     </xsl:template>
     
+    <xsl:template match="*[local-name()='b']">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="*[local-name()='i']">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="*[local-name()='u']">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="*[local-name()='strong']">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
     <xsl:template match="*[count(./@*) = 1 and ./@style]">
         <xsl:apply-templates/>
     </xsl:template>
@@ -33,8 +46,6 @@
         </xsl:call-template>
     </xsl:template>
     <xsl:template match="*[local-name()='script']"/>
-    <xsl:template match="*[local-name()='b']"/>
-    <xsl:template match="*[local-name()='strong']"/>
     
     <xsl:template match="*">
         <xsl:call-template name="copier"/>

@@ -3,7 +3,7 @@
     "domain": "birminghamegyptology.co.uk", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2053-3586"
             ]
         }
@@ -37,23 +37,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9163183946628247604", 
-            "resource_date": "2013-10-01T14:17:19.758-04:00", 
+            "resource_date": "2014-07-20T17:12:24.781-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:38.693690"
+            "when": "2015-06-20T16:13:58.192318"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/coming-soon-birmingham-egyptology-journa.html", 
-            "resource_date": "2013-10-01T14:17:19.758-04:00", 
+            "resource_date": "2014-07-20T17:12:24.781-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:38.693715"
+            "when": "2015-06-20T16:13:58.192334"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://birminghamegyptology.co.uk/wp-content/uploads/2013/01/Eton-College-Myers-Collection-of-Egyptian-Antiquities-Object-Highlight-ECM822-A-Faience-Nubian-Head1.pdf", 
-        "http://birminghamegyptology.co.uk/wp-content/uploads/2013/01/Gregory-S-R-W-Piankh-and-Herihor-Art-Ostraca-and-Succession-in-Perspective.pdf", 
-        "http://birminghamegyptology.co.uk/wp-content/uploads/2013/01/Review-pf-Padgham-2012-Eleanor-B-Simmance.pdf"
-    ], 
+    "subordinate_resources": [], 
     "title": "Birmingham Egyptology Journal", 
     "url": "http://birminghamegyptology.co.uk/journal/", 
     "volume": null, 

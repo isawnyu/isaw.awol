@@ -3,7 +3,7 @@
     "domain": "riviste.unimi.it", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2035-4797"
             ]
         }
@@ -41,65 +41,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3740961503201129598", 
             "resource_date": "2014-01-23T16:31:18.797-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:04.440484"
+            "when": "2015-06-20T16:12:47.433008"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-acces-journbal-lanx.html", 
             "resource_date": "2014-01-23T16:31:18.797-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:04.440501"
+            "when": "2015-06-20T16:12:47.433025"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://riviste.unimi.it/index.php/lanx/article/view/3313", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3313/3490", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3314", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3314/3491", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3315", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3315/3492", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3316", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3316/3493", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3318", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3318/3494", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3319", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3319/3495", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3321", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3321/3497", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3322", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3322/3498", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3323", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3323/3499", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3324", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3324/3500", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3325", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3325/3501", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3326", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3326/3502", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3327", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3327/3503", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3328", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3328/3504", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3329", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3329/3505", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3330", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3330/3506", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3331", 
-        "http://riviste.unimi.it/index.php/lanx/article/view/3331/3507", 
-        "http://riviste.unimi.it/index.php/lanx/issue/view/478", 
-        "http://riviste.unimi.it/index.php/lanx/issue/view/410", 
-        "http://riviste.unimi.it/index.php/lanx/issue/view/374", 
-        "http://riviste.unimi.it/index.php/lanx/issue/view/356", 
-        "http://riviste.unimi.it/index.php/lanx/issue/view/336", 
-        "http://riviste.unimi.it/index.php/lanx/issue/view/228", 
-        "http://riviste.unimi.it/index.php/lanx/issue/view/83", 
-        "http://riviste.unimi.it/index.php/lanx/issue/view/60", 
-        "http://riviste.unimi.it/index.php/lanx/issue/view/57", 
-        "http://riviste.unimi.it/index.php/lanx/issue/view/53", 
-        "http://riviste.unimi.it/index.php/lanx/issue/view/41", 
-        "http://riviste.unimi.it/index.php/lanx/issue/view/23", 
-        "http://riviste.unimi.it/index.php/lanx/issue/view/1"
-    ], 
+    "subordinate_resources": [], 
     "title": "LANX. Rivista della Scuola di Specializzazione in Archeologia", 
     "title_extended": "LANX. Rivista della Scuola di Specializzazione in Archeologia - Universit\u00e0 degli Studi di Milano", 
     "url": "http://riviste.unimi.it/index.php/lanx/index", 

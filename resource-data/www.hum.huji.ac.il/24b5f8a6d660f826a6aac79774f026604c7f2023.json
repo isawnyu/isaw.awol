@@ -3,7 +3,7 @@
     "domain": "www.hum.huji.ac.il", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0082-3767"
             ]
         }
@@ -42,24 +42,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7456781055847732566", 
-            "resource_date": "2013-09-26T09:41:34.390-04:00", 
+            "resource_date": "2014-12-26T08:52:38.612-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:56.279588"
+            "when": "2015-06-20T16:13:34.414128"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/newly-open-access-journal-textus-annual.html", 
-            "resource_date": "2013-09-26T09:41:34.390-04:00", 
+            "resource_date": "2014-12-26T08:52:38.612-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:56.279606"
+            "when": "2015-06-20T16:13:34.414143"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.hum.huji.ac.il/units.php?cat=4994&incat=4972", 
-        "http://www.hum.huji.ac.il/units.php?cat=5003&incat=4972", 
-        "http://www.hum.huji.ac.il/units.php?cat=5004&incat=4972", 
-        "http://www.hum.huji.ac.il/units.php?cat=5020&incat=4972"
-    ], 
+    "subordinate_resources": [], 
     "title": "Textus: Annual of the Hebrew University Bible Project", 
     "url": "http://www.hum.huji.ac.il/english/units.php?cat=5016&incat=4982", 
     "volume": null, 

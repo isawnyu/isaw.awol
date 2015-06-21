@@ -3,7 +3,7 @@
     "domain": "www.hcomparada.ifcs.ufrj.br", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1981-383X"
             ]
         }
@@ -41,27 +41,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6343206711545534252", 
             "resource_date": "2012-07-05T14:59:55.531-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:04.342159"
+            "when": "2015-06-20T16:13:20.764975"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revista-de-historia.html", 
             "resource_date": "2012-07-05T14:59:55.531-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:04.342176"
+            "when": "2015-06-20T16:13:20.764991"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.hcomparada.ifcs.ufrj.br/revistahc/volume001_Num001.html", 
-        "http://www.hcomparada.ifcs.ufrj.br/revistahc/volume001_Num002.html", 
-        "http://www.hcomparada.ifcs.ufrj.br/revistahc/volume002_Num001.html", 
-        "http://www.hcomparada.ifcs.ufrj.br/revistahc/volume002_Num002.html", 
-        "http://www.hcomparada.ifcs.ufrj.br/revistahc/volume003_Num001.html", 
-        "http://www.hcomparada.ifcs.ufrj.br/revistahc/volume003_Num002.htm", 
-        "http://www.hcomparada.ifcs.ufrj.br/revistahc/volume004_Num001.htm", 
-        "http://www.hcomparada.ifcs.ufrj.br/revistahc/volume004_Num002.htm", 
-        "http://www.hcomparada.ifcs.ufrj.br/revistahc/volume005_Num001.htm"
-    ], 
+    "subordinate_resources": [], 
     "title": "Revista de Hist\u00f3ria Comparada", 
     "url": "http://www.hcomparada.ifcs.ufrj.br/", 
     "volume": null, 

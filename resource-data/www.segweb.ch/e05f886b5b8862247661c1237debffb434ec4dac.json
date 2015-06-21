@@ -1,5 +1,5 @@
 {
-    "description": "Ressources \u00c9gyptologiques Informatis\u00e9es (\u00abComputerized Egyptological Resources\u00bb; \u00abInformatisierte Quellen zur \u00c4gyptologie\u00bb). The five issues of this bibliography were published in the Bulletin de la Soci\u00e9t\u00e9 d'\u00e9gyptologie and are conveniently assembled here. They provide a revealing snapshot of the early years of computerized Egyptology. <blockquote class=\"tr_bq\"> <a href=\"http://www. segweb. ch/fichpdf/Rei15. pdf\" target=\"_blank\">R\u00c9I 1 (document pdf)</a>. <a href=\"http://www. segweb. ch/fichpdf/Rei26. pdf\" target=\"_blank\">R\u00c9I 2 (document pdf)</a> <a href=\"http://www. segweb. ch/fichpdf/Rei37. pdf\" target=\"_blank\">R\u00c9I 3 (document pdf)</a> <a href=\"http://www. segweb. ch/fichpdf/Rei48. pdf\" target=\"_blank\">R\u00c9I 4 (document pdf)</a> <a href=\"http://www. segweb. ch/fichpdf/Rei59. pdf\" target=\"_blank\">R\u00c9I 5 (document pdf)</a></blockquote> R\u00c9I 1 (document pdf) <blockquote class=\"tr_bq\"> <a href=\"http://www. segweb. ch/fichpdf/Rei15. pdf\" target=\"_blank\">R\u00c9I 1 (document pdf)</a>. <a href=\"http://www. segweb. ch/fichpdf/Rei26. pdf\" target=\"_blank\">R\u00c9I 2 (document pdf)</a> <a href=\"http://www. segweb. ch/fichpdf/Rei37. pdf\" target=\"_blank\">R\u00c9I 3 (document pdf)</a> <a href=\"http://www. segweb. ch/fichpdf/Rei48. pdf\" target=\"_blank\">R\u00c9I 4 (document pdf)</a> <a href=\"http://www. segweb. ch/fichpdf/Rei59. pdf\" target=\"_blank\">R\u00c9I 5 (document pdf)</a></blockquote>.", 
+    "description": "Ressources \u00c9gyptologiques Informatis\u00e9es (\u00abComputerized Egyptological Resources\u00bb; \u00abInformatisierte Quellen zur \u00c4gyptologie\u00bb). The five issues of this bibliography were published in the Bulletin de la Soci\u00e9t\u00e9 d'\u00e9gyptologie and are conveniently assembled here. They provide a revealing snapshot of the early years of computerized Egyptology. R\u00c9I 1 (document pdf).", 
     "domain": "www.segweb.ch", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -10,7 +10,7 @@
     ], 
     "language": [
         "la", 
-        0.9999999999999294
+        0.999999999820705
     ], 
     "provenance": [
         {
@@ -34,23 +34,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8051203153903508903", 
             "resource_date": "2012-01-15T08:52:29.308-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:10.898912"
+            "when": "2015-06-20T16:13:42.459826"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/ressources-egyptologiques-informatisees.html", 
             "resource_date": "2012-01-15T08:52:29.308-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:10.898927"
+            "when": "2015-06-20T16:13:42.459841"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.segweb.ch/fichpdf/Rei15.pdf", 
-        "http://www.segweb.ch/fichpdf/Rei26.pdf", 
-        "http://www.segweb.ch/fichpdf/Rei37.pdf", 
-        "http://www.segweb.ch/fichpdf/Rei48.pdf", 
-        "http://www.segweb.ch/fichpdf/Rei59.pdf"
-    ], 
+    "subordinate_resources": [], 
     "title": "Ressources \u00c9gyptologiques Informatis\u00e9es", 
     "title_extended": "Ressources \u00c9gyptologiques Informatis\u00e9es (\u00abComputerized Egyptological Resources\u00bb; \u00abInformatisierte Quellen zur \u00c4gyptologie\u00bb)", 
     "url": "http://www.segweb.ch/resso.htm", 

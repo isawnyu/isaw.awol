@@ -1,0 +1,55 @@
+{
+    "description": "Archaeological Survey of Israel - English -.", 
+    "domain": "www.antiquities.org.il", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Israel", 
+        "maps", 
+        "survey", 
+        "Palestine", 
+        "atlas", 
+        "archaeology"
+    ], 
+    "language": [
+        "en", 
+        0.999999998063489
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1817654110906253879", 
+            "resource_date": "2014-09-17T14:03:58.018-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:12:21.276831"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/online-archaeological-survey-of-israel.html", 
+            "resource_date": "2014-09-17T14:03:58.018-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:12:21.276847"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Archaeological Survey of Israel Online", 
+    "url": "http://www.antiquities.org.il/survey/new/default_en.aspx", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

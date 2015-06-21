@@ -1,0 +1,54 @@
+{
+    "description": "Oxford Faculty of Classics Newsletter. Newsletter2014 (pdf).", 
+    "domain": "www.classics.ox.ac.uk", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "newsletter", 
+        "journal", 
+        "classics", 
+        "England", 
+        "open access"
+    ], 
+    "language": [
+        "en", 
+        0.9999999995230062
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1764831786284242745", 
+            "resource_date": "2014-10-16T06:52:23.823-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:12:20.329406"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/10/open-access-journal-oxford-faculty-of.html", 
+            "resource_date": "2014-10-16T06:52:23.823-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:12:20.329421"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Oxford Faculty of Classics Newsletter", 
+    "url": "http://www.classics.ox.ac.uk/classics-news.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

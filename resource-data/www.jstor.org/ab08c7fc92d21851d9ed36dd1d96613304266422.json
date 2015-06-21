@@ -3,7 +3,7 @@
     "domain": "www.jstor.org", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0075-4358"
             ]
         }
@@ -39,13 +39,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7073358287268097660", 
             "resource_date": "2009-08-14T07:07:35.835-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:44.018511"
+            "when": "2015-06-20T16:13:29.609979"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/journal-of-roman-studies-is-now.html", 
             "resource_date": "2009-08-14T07:07:35.835-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:44.018530"
+            "when": "2015-06-20T16:13:29.609996"
         }
     ], 
     "related_resources": [], 

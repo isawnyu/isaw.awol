@@ -3,7 +3,7 @@
     "domain": "ars-scribendi.ens-lyon.fr", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1777-5485"
             ]
         }
@@ -40,13 +40,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-89482862073302655", 
             "resource_date": "2013-04-17T09:08:06.381-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:32.037886"
+            "when": "2015-06-20T16:13:55.780240"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-interferences.html", 
             "resource_date": "2013-04-17T09:08:06.381-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:32.037903"
+            "when": "2015-06-20T16:13:55.780256"
         }
     ], 
     "related_resources": [], 

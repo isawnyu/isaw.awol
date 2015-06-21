@@ -7,7 +7,8 @@
         "Turkey", 
         "Zinjirli", 
         "archaeology", 
-        "Amar"
+        "monograph", 
+        "open access"
     ], 
     "language": [
         "en", 
@@ -32,31 +33,20 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3801411834309915256", 
-            "resource_date": "2012-03-02T16:42:36.962-05:00", 
+            "resource_date": "2014-06-02T15:14:20.693-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:06.425923"
+            "when": "2015-06-20T16:12:48.328058"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-sendschirli-in-amar.html", 
-            "resource_date": "2012-03-02T16:42:36.962-05:00", 
+            "resource_date": "2014-06-02T15:14:20.693-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:06.425939"
+            "when": "2015-06-20T16:12:48.328073"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=39442&REC=1", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=39442&REC=1", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=108258&REC=2", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=108258&REC=2", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=91457&REC=3", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=91457&REC=3", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=108463&REC=4", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=108463&REC=4", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=108809&REC=5", 
-        "http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&CISOPTR=108809&REC=5"
-    ], 
-    "title": "Ausgrabungen in Sendschirli in AMAR", 
+    "subordinate_resources": [], 
+    "title": "Ausgrabungen in Sendschirli", 
     "url": "http://amar.hsclib.sunysb.edu/amar/", 
     "volume": null, 
     "year": null, 

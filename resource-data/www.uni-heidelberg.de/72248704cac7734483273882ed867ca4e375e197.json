@@ -1,0 +1,49 @@
+{
+    "description": "ARACHNE glossaries. German-English (pdf).", 
+    "domain": "www.uni-heidelberg.de", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Arachne", 
+        "archaeology", 
+        "DAI"
+    ], 
+    "language": null, 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1632430335213507334", 
+            "resource_date": "2015-05-23T17:30:13.256-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:12:18.552321"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/05/arachne-glossaries.html", 
+            "resource_date": "2015-05-23T17:30:13.256-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:12:18.552338"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ARACHNE glossaries", 
+    "url": "http://www.uni-heidelberg.de/fakultaeten/philosophie/zaw/cms/databases/glossariesARACHNE.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

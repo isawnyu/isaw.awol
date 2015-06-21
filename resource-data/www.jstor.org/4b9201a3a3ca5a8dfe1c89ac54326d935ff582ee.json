@@ -1,9 +1,9 @@
 {
-    "description": "Multidisciplinary and Discipline-Specific Collections at JSTOR. The following journals have been added to the JSTOR archive. More detailed information about JSTOR titles and collections, along with delimited lists, can be accessed from JSTOR's. Available Collections page. Glotta (Arts & Sciences VIII). Release Content: Bd. 1, H. 1 (1909) \u2013 Bd. 83 (2007) Moving Wall: 1 year Publisher: Vandenhoeck & Ruprecht (GmbH & Co. KG) ISSN: 0017-1298. The content for 2008 will be released as soon as the issue becomes available to JSTOR.", 
+    "description": "Multidisciplinary and Discipline-Specific Collections at JSTOR. The following journals have been added to the JSTOR archive. More detailed information about JSTOR titles and collections, along with delimited lists, can be accessed from JSTOR's. Available Collections page. Glotta (Arts & Sciences VIII). Release Content: Bd. 1, H. 1 (1909) - Bd. 83 (2007) Moving Wall: 1 year Publisher: Vandenhoeck & Ruprecht (GmbH & Co. KG) ISSN: 0017-1298. Note: The content for 2008 will be released as soon as the issue becomes available to JSTOR.", 
     "domain": "www.jstor.org", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0017-1298"
             ]
         }
@@ -38,21 +38,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1439458471708233807", 
             "resource_date": "2010-03-29T13:40:40.916-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:11:44.614314"
+            "when": "2015-06-20T16:12:14.996277"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/03/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2010-03-29T13:40:40.916-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:11:44.614332"
+            "when": "2015-06-20T16:12:14.996293"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.jstor.org/action/showPublication?journalCode=glotta", 
-        "http://www.jstor.org/action/showPublication?journalCode=ulstjarch", 
-        "http://www.jstor.org/action/showPublication?journalCode=tranrasgrbritire"
-    ], 
+    "subordinate_resources": [], 
     "title": "New Ancient World Content in JSTOR", 
     "url": "http://www.jstor.org/page/info/about/archives/collections.jsp", 
     "volume": null, 

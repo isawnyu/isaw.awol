@@ -1,5 +1,5 @@
 {
-    "description": "Classical Works Knowledge Base: A Service of the American Philological Association Classical Works Knowledge Base: A Service of the American Philological Association. This domain specific resolution service is called the Classical Works Knowledge Base (CWKB). This service allows for the assembly and maintenance of specialized knowledge about works within its domain and about online resources that can provide services related to those works. It understands the linking heuristics used by online text resources within its domain and is able to create for any given canonical citation one or many URLs that can take users to specific texts within these resources, and ideally to specific passages. Although our example, and the focus of our study, concerns Classical literature, such domain specific knowledge bases would operate in the same way for other disciplines.", 
+    "description": "Classical Works Knowledge Base: A Service of the American Philological Association Classical Works Knowledge Base: A Service of the American Philological Association. The CWKB knowledge base assembles data about Classical works (1,550 authors and 5,200 texts, with variants forms in the main modern languages of Classical studies and common abbreviations). The knowledge base also contains the linking heuristics to the passage level for 6,732 manifestations of Classical works. The full-text services linked to are: the Classical Latin Texts of the Packard Humanities Institute (PHI Latin Texts); the Greek and Roman Texts from the Perseus Digital Library; the Library of Latin Texts - Series A (LLT-A) from Brepols Publishers [licensed]; the Thesaurus Linguae Graecae (TLG) [licensed] and the Abridged Online TLG.", 
     "domain": "cwkb.org", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -32,27 +32,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2324182026857386070", 
-            "resource_date": "2012-09-18T19:14:45.371-04:00", 
+            "resource_date": "2014-07-12T08:14:25.805-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:28.789284"
+            "when": "2015-06-20T16:12:27.765968"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/classical-works-knowledge-base.html", 
-            "resource_date": "2012-09-18T19:14:45.371-04:00", 
+            "resource_date": "2014-07-12T08:14:25.805-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:28.789301"
+            "when": "2015-06-20T16:12:27.765983"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://cwkb.org/pubs/cni_handout.pdf", 
-        "http://cwkb.org/demonstration", 
-        "http://cwkb.org/matrix/20100922", 
-        "http://cwkb.org/presentations", 
-        "http://cwkb.org/service", 
-        "http://cwkb.org/software", 
-        "http://cwkb.org/licence"
-    ], 
+    "subordinate_resources": [], 
     "title": "Classical Works Knowledge Base", 
     "title_extended": "Classical Works Knowledge Base: A Service of the American Philological Association", 
     "url": "http://cwkb.org/home", 

@@ -1,11 +1,10 @@
 {
-    "description": "Cuadernos de Estudios Gallegos. eISSN 1988-8333. ISSN 0210-847X. La revista, publicada por el Instituto de Estudios Galegos Padre Sarmiento, aparece con regularidad desde el a\u00f1o 1944. Los contenidos de se estructuran en cinco secciones o \u00e1mbitos tem\u00e1ticos: Arqueolog\u00eda, Historia del Arte, Geograf\u00eda e Historia, Etnograf\u00eda y Lengua y Literatura. Se han publicado varios n\u00fameros extraordinarios en homenaje a distintas personalidades.", 
+    "description": "Cuadernos de Estudios Gallegos. eISSN 1988-8333. ISSN 0210-847X. La revista Cuadernos de Estudios Gallegos, publicada por el Instituto de Estudios Galegos Padre Sarmiento, aparece con regularidad desde el a\u00f1o 1944. Los contenidos de Cuadernos de Estudios Gallegos se estructuran en cinco secciones o \u00e1mbitos tem\u00e1ticos: Arqueolog\u00eda, Historia del Arte, Geograf\u00eda e Historia, Etnograf\u00eda y Lengua y Literatura. Se han publicado varios n\u00fameros extraordinarios en homenaje a distintas personalidades.", 
     "domain": "estudiosgallegos.revistas.csic.es", 
     "identifiers": {
         "issn": {
             "electronic": [
-                "1988-8333", 
-                "0210-847X"
+                "1988-8333"
             ], 
             "generic": [
                 "0210-847X"
@@ -43,23 +42,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4344549495765124403", 
             "resource_date": "2011-09-13T09:23:23.668-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:19.165520"
+            "when": "2015-06-20T16:12:55.530256"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/open-access-journal-cuadernos-de.html", 
             "resource_date": "2011-09-13T09:23:23.668-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:19.165544"
+            "when": "2015-06-20T16:12:55.530272"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://estudiosgallegos.revistas.csic.es/index.php/estudiosgallegos/issue/view/5", 
-        "http://estudiosgallegos.revistas.csic.es/index.php/estudiosgallegos/issue/view/4", 
-        "http://estudiosgallegos.revistas.csic.es/index.php/estudiosgallegos/issue/view/3", 
-        "http://estudiosgallegos.revistas.csic.es/index.php/estudiosgallegos/issue/view/2", 
-        "http://estudiosgallegos.revistas.csic.es/index.php/estudiosgallegos/issue/view/1"
-    ], 
+    "subordinate_resources": [], 
     "title": "Cuadernos de Estudios Gallegos", 
     "url": "http://estudiosgallegos.revistas.csic.es/index.php/estudiosgallegos/index", 
     "volume": null, 

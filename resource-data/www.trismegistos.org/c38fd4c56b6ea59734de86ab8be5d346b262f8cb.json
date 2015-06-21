@@ -1,0 +1,52 @@
+{
+    "description": "Trismegistos Ghostnames. Ghostnames (previously known as 'Ghostbuster') Currently 1326 attestations of ghostnames. A database of ghostnames by. Willy Clarysse Based on the MA thesis by Chris Eyckmans, Ghostnames in de Griekse papyri (Leuven 1986), reworked and further elaborated by Willy Clarysse. Data processing: Chris Eyckmans, Willy Clarysse Online version (PHP & MySQL): Mark Depauw.", 
+    "domain": "www.trismegistos.org", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "papyrology", 
+        "Greek", 
+        "Trismegistos"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5835468244984253700", 
+            "resource_date": "2014-08-04T19:24:08.417-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:13:13.157554"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/08/new-at-trismegistos-trismegistos.html", 
+            "resource_date": "2014-08-04T19:24:08.417-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:13:13.157578"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "New at Trismegistos: Trismegistos Ghostnames", 
+    "url": "http://www.trismegistos.org/ghostnames/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

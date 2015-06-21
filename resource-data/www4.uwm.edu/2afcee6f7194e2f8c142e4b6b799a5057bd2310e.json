@@ -3,7 +3,7 @@
     "domain": "www4.uwm.edu", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1540-4889"
             ]
         }
@@ -38,26 +38,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8096208787106944952", 
             "resource_date": "2013-02-20T11:54:20.171-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:11.562246"
+            "when": "2015-06-20T16:13:42.809123"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/open-access-journal-e-keltoi-journal-of.html", 
             "resource_date": "2013-02-20T11:54:20.171-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:11.562262"
+            "when": "2015-06-20T16:13:42.809139"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www4.uwm.edu/celtic/ekeltoi/volumes/vol1/index.html", 
-        "http://www4.uwm.edu/celtic/ekeltoi/volumes/vol2/index.html", 
-        "http://www4.uwm.edu/celtic/ekeltoi/volumes/vol4/index.html", 
-        "http://www4.uwm.edu/celtic/ekeltoi/volumes/vol5/index.html", 
-        "http://www4.uwm.edu/celtic/ekeltoi/volumes/vol6/index.html", 
-        "http://www4.uwm.edu/celtic/ekeltoi/volumes/vol7/index.html", 
-        "http://www4.uwm.edu/celtic/ekeltoi/volumes/vol8/index.html", 
-        "http://www4.uwm.edu/celtic/ekeltoi/bookreviews/vol01/index.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "e-Keltoi: Journal of Interdisciplinary Celtic Studies", 
     "url": "http://www4.uwm.edu/celtic/ekeltoi/", 
     "volume": null, 

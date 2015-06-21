@@ -1,0 +1,54 @@
+{
+    "description": "ISSL: The Index to the Sumerian Secondary Literature. Over 70,000 references to the Sumerian secondary literature which also indexes all of the transliterations of word writings in ePSD.", 
+    "domain": "oracc.museum.upenn.edu", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Sumerian", 
+        "dictionaries", 
+        "literature", 
+        "bibliography", 
+        "lexicography"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9090083340914386785", 
+            "resource_date": "2015-03-28T08:35:27.108-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:13:57.481892"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/03/issl-index-to-sumerian-secondary.html", 
+            "resource_date": "2015-03-28T08:35:27.108-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:13:57.481908"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "ISSL: The Index to the Sumerian Secondary Literature", 
+    "url": "http://oracc.museum.upenn.edu/issl", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

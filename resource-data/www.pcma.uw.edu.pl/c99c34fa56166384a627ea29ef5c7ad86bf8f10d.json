@@ -1,9 +1,9 @@
 {
-    "description": "[First posted in AWOL 1 September 2010. Most recently updated 1 August 2013]. Polish Archaeology in the Mediterranean. Reports. ISSN: 1234-5415. Polish Archaeology in the Mediterranean. Reports, appears annually, in English, presenting the full extent of archaeological, geophysical, restoration and study work carried out by expeditions from the Polish Centre of Mediterranean Archaeology, University of Warsaw. The PCMA is present in the Near East and northeastern Africa (Egypt, Sudan, Cyprus, Syria, Lebanon, Iran and Kuwait, formerly also in Iraq). Projects cover all periods from prehistory and protohistory through the Islamic age, emphasizing in particular broadly understood Greco-Roman culture and Early Christianity in the southern and eastern parts of the Mediterranean.", 
+    "description": "[First posted in AWOL 1 September 2010. Most recently updated 20 October 2014]. Polish Archaeology in the Mediterranean. Reports. ISSN: 1234-5415. Polish Archaeology in the Mediterranean. Reports, appears annually, in English, presenting the full extent of archaeological, geophysical, restoration and study work carried out by expeditions from the Polish Centre of Mediterranean Archaeology, University of Warsaw. The PCMA is present in the Near East and northeastern Africa (Egypt, Sudan, Cyprus, Syria, Lebanon, Iran and Kuwait, formerly also in Iraq). Projects cover all periods from prehistory and protohistory through the Islamic age, emphasizing in particular broadly understood Greco-Roman culture and Early Christianity in the southern and eastern parts of the Mediterranean.", 
     "domain": "www.pcma.uw.edu.pl", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1234-5415"
             ]
         }
@@ -12,9 +12,10 @@
     "keywords": [
         "journal", 
         "Mediterranean", 
-        "archaeology", 
         "reports", 
-        "open access"
+        "open access", 
+        "Poland", 
+        "archaeology"
     ], 
     "language": [
         "en", 
@@ -40,41 +41,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1534704712391055532", 
-            "resource_date": "2013-08-01T20:28:15.496-04:00", 
+            "resource_date": "2014-10-20T10:32:21.367-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:11:54.547084"
+            "when": "2015-06-20T16:12:16.403223"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-polish-archaeology.html", 
-            "resource_date": "2013-08-01T20:28:15.496-04:00", 
+            "resource_date": "2014-10-20T10:32:21.367-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:11:54.547100"
+            "when": "2015-06-20T16:12:16.403239"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.pcma.uw.edu.pl/index.php?id=815&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=786&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=725&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=637&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=636&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=635&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=634&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=633&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=632&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=631&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=630&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=629&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=628&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=627&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=626&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=625&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=624&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=623&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=622&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=621&L=2", 
-        "http://www.pcma.uw.edu.pl/index.php?id=616&L=2"
-    ], 
+    "subordinate_resources": [], 
     "title": "Polish Archaeology in the Mediterranean", 
     "title_extended": "Polish Archaeology in the Mediterranean. Reports", 
     "url": "http://www.pcma.uw.edu.pl/index.php?id=617", 

@@ -3,7 +3,7 @@
     "domain": "hrcak.srce.hr", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0351-9767"
             ]
         }
@@ -42,41 +42,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2289439144476944799", 
             "resource_date": "2013-02-21T10:44:26.227-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:27.374443"
+            "when": "2015-06-20T16:12:27.098576"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-povijesni-prilozi.html", 
             "resource_date": "2013-02-21T10:44:26.227-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:27.374460"
+            "when": "2015-06-20T16:12:27.098592"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=6857", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=6131", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=5464", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=5094", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=4472", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=3906", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=3350", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=2866", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=2380", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1713", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1569", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1249", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1240", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=1239", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=874", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=2031", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=2026", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=2030", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=2493", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=2494", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=2495", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=2502", 
-        "http://hrcak.srce.hr/index.php?show=toc&id_broj=2509"
-    ], 
+    "subordinate_resources": [], 
     "title": "Povijesni prilozi", 
     "title_extended": "Povijesni prilozi - Historical Contributions", 
     "url": "http://hrcak.srce.hr/povijesni-prilozi", 

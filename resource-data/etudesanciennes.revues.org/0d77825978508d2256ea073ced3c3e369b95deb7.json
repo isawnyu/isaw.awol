@@ -3,22 +3,20 @@
     "domain": "etudesanciennes.revues.org", 
     "identifiers": {
         "issn": {
-            "electronic": [
-                "1923-2713", 
-                "0317-5065"
-            ], 
             "generic": [
+                "1923-2713", 
                 "0317-5065"
             ]
         }
     }, 
     "is_part_of": null, 
     "keywords": [
-        "classics", 
+        "antiquity", 
         "journal", 
+        "France", 
         "ancient history", 
         "open access", 
-        "antiquity"
+        "classics"
     ], 
     "language": [
         "fr", 
@@ -45,26 +43,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8736383351310575955", 
             "resource_date": "2013-07-07T18:08:12.924-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:28.642595"
+            "when": "2015-06-20T16:13:53.475136"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-cahiers-des-etudes.html", 
             "resource_date": "2013-07-07T18:08:12.924-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:28.642627"
+            "when": "2015-06-20T16:13:53.475152"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://etudesanciennes.revues.org/33", 
-        "http://etudesanciennes.revues.org/38", 
-        "http://etudesanciennes.revues.org/399", 
-        "http://etudesanciennes.revues.org/304", 
-        "http://etudesanciennes.revues.org/123", 
-        "http://etudesanciennes.revues.org/122", 
-        "http://etudesanciennes.revues.org/189", 
-        "http://etudesanciennes.revues.org/233"
-    ], 
+    "subordinate_resources": [], 
     "title": "Cahiers des \u00e9tudes anciennes", 
     "url": "http://etudesanciennes.revues.org/", 
     "volume": null, 

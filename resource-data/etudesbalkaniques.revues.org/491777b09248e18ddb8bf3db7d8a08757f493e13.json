@@ -3,7 +3,7 @@
     "domain": "etudesbalkaniques.revues.org", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2102-5525"
             ]
         }
@@ -39,32 +39,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9089851018309303079", 
             "resource_date": "2013-12-02T06:29:19.818-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:37.005955"
+            "when": "2015-06-20T16:13:57.474022"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/06/newly-in-open-access-etudes-balkaniques.html", 
             "resource_date": "2013-12-02T06:29:19.818-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:37.005972"
+            "when": "2015-06-20T16:13:57.474039"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://etudesbalkaniques.revues.org/index188.html", 
-        "http://etudesbalkaniques.revues.org/index62.html", 
-        "http://etudesbalkaniques.revues.org/index57.html", 
-        "http://etudesbalkaniques.revues.org/index61.html", 
-        "http://etudesbalkaniques.revues.org/index60.html", 
-        "http://etudesbalkaniques.revues.org/index59.html", 
-        "http://etudesbalkaniques.revues.org/index73.html", 
-        "http://etudesbalkaniques.revues.org/index72.html", 
-        "http://etudesbalkaniques.revues.org/index71.html", 
-        "http://etudesbalkaniques.revues.org/index70.html", 
-        "http://etudesbalkaniques.revues.org/index69.html", 
-        "http://etudesbalkaniques.revues.org/index68.html", 
-        "http://etudesbalkaniques.revues.org/index67.html", 
-        "http://etudesbalkaniques.revues.org/index66.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "\u00c9tudes Balkaniques", 
     "title_extended": "\u00c9tudes Balkaniques: Recherches interdisciplinaires sur les mondes hell\u00e9nique et balkanique", 
     "url": "http://etudesbalkaniques.revues.org/", 

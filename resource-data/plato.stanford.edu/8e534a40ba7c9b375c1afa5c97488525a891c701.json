@@ -1,0 +1,57 @@
+{
+    "description": "Stanford Encyclopedia of Philosophy ISSN: 1095-5054. Welcome to the Stanford Encyclopedia of Philosophy (SEP). From its inception, the SEP was designed so that each entry is maintained and kept up-to-date by an expert or group of experts in the field. All entries and substantive updates are refereed by the members of a distinguished Editorial Board before they are made public. Consequently, our dynamic reference work maintains academic standards while evolving and adapting in response to new research. You can cite fixed editions that are created on a quarterly basis and stored in our.", 
+    "domain": "plato.stanford.edu", 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1095-5054"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "keywords": [
+        "philosophy", 
+        "encyclopedia"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4030777067047479527", 
+            "resource_date": "2015-03-29T15:13:01.767-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:12:51.565359"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/02/stanford-encyclopedia-of-philosophy.html", 
+            "resource_date": "2015-03-29T15:13:01.767-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:12:51.565375"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Stanford Encyclopedia of Philosophy", 
+    "url": "http://plato.stanford.edu/index.html", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

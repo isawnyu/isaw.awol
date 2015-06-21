@@ -3,7 +3,7 @@
     "domain": "archiv.ub.uni-heidelberg.de", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2191-6411"
             ]
         }
@@ -38,37 +38,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7399547070975851494", 
             "resource_date": "2013-02-10T08:14:54.221-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:52.280666"
+            "when": "2015-06-20T16:13:33.367705"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/new-open-access-journal-transcultural.html", 
             "resource_date": "2013-02-10T08:14:54.221-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:52.280682"
+            "when": "2015-06-20T16:13:33.367721"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/issue/view/170", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/issue/view/1077", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/issue/view/1089", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/issue/view/1120", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9621/3489", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9620/3487", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9620/3488", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9543", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9543/3482", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9543/3483", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9155", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9155/3490", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9155/3528", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9127", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9127/3484", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9127/3491", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9066", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9066/3485", 
-        "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/article/view/9066/3486"
-    ], 
+    "subordinate_resources": [], 
     "title": "Transcultural Studies", 
     "url": "http://archiv.ub.uni-heidelberg.de/ojs/index.php/transcultural/index", 
     "volume": null, 

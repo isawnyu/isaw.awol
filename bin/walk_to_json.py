@@ -56,7 +56,7 @@ def main (args):
             if 'post-' in file_name and file_name[-4:] == '.xml':
                 walk_count = walk_count + 1
                 if args.progress and walk_count % 100 == 1:
-                    print('\n*****************************\nPERCENT COMPLETE: {0:.0f}\n'.format(float(walk_count)/3321.0*100.0))
+                    print('\n*****************************\nPERCENT COMPLETE: {0:.0f}\n'.format(float(walk_count)/4261.0*100.0))
                 logger.debug('handling {0}'.format(file_name))
                 target = os.path.join(dir_name, file_name)
                 try:

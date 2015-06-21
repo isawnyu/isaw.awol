@@ -1,5 +1,5 @@
 {
-    "description": "Berliner Bl\u00e4tter f\u00fcr M\u00fcnz-, Siegel- und Wappenkunde.", 
+    "description": "Berliner Bl\u00e4tter f\u00fcr M\u00fcnz-, Siegel- und Wappenkunde. Erster Band. 1863. Zweiter Band. 1865. Dritter Band. 1866. Vierter Band. 1868. F\u00fcnfter Band. 1870. Sechster Band. 1871 - 1873.", 
     "domain": "digital.ub.uni-duesseldorf.de", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -33,23 +33,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7980119977046124944", 
             "resource_date": "2012-12-29T07:27:56.129-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:09.147681"
+            "when": "2015-06-20T16:13:41.767566"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-berliner-blatter.html", 
             "resource_date": "2012-12-29T07:27:56.129-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:09.147697"
+            "when": "2015-06-20T16:13:41.767582"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://digital.ub.uni-duesseldorf.de/download/pdf/4041105?name=Zweiter%20Band%201865", 
-        "http://digital.ub.uni-duesseldorf.de/download/pdf/4064135?name=Dritter%20Band%201866", 
-        "http://digital.ub.uni-duesseldorf.de/download/pdf/4059085?name=Vierter%20Band%201868", 
-        "http://digital.ub.uni-duesseldorf.de/download/pdf/4098685?name=F%C3%BCnfter%20Band%201870", 
-        "http://digital.ub.uni-duesseldorf.de/download/pdf/4105059?name=Sechster%20Band%201871%20-%201873"
-    ], 
+    "subordinate_resources": [], 
     "title": "Berliner Bl\u00e4tter f\u00fcr M\u00fcnz-, Siegel- und Wappenkunde", 
     "url": "http://digital.ub.uni-duesseldorf.de/ihd/periodical/structure/4019925", 
     "volume": null, 

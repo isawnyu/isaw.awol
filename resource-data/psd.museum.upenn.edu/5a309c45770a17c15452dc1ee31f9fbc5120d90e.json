@@ -1,5 +1,5 @@
 {
-    "description": "The Pennsylvania Sumerian Dictionary. <blockquote class=\"tr_bq\">Welcome to the website of the Pennsylvania Sumerian Dictionary Project (PSD). The PSD is preparing an exhaustive dictionary of the Sumerian language which aims to be useful to non-specialists as well as Sumerologists. In addition, we are developing tools and datasets for working with the Sumerian language and its text-corpora. All materials will be made freely available on this website. <ul><li><a href=\"http://psd. museum. upenn. edu/epsd1/nepsd-frame. html\">Use the electronic PSD</a> \u00a0 </li><li><a href=\"http://psd. museum. upenn. edu/epsd1/dctools. html\">Tools for corpus projects</a></li><li><a href=\"http://psd. museum. upenn. edu/epsd1/sumerian. html\">Learn about Sumerian</a></li><li><a href=\"http://psd. museum. upenn. edu/epsd1/project. html\">Read about the project</a></li><li><a href=\"http://psd. museum. upenn. edu/epsd1/media. html\">PSD in the news</a></li></ul></blockquote> Use the electronic PSD Tools for corpus projects Learn about Sumerian Read about the project PSD in the news.", 
+    "description": "The Pennsylvania Sumerian Dictionary. Welcome to the website of the Pennsylvania Sumerian Dictionary Project (PSD). The PSD is preparing an exhaustive dictionary of the Sumerian language which aims to be useful to non-specialists as well as Sumerologists. In addition, we are developing tools and datasets for working with the Sumerian language and its text-corpora. All materials will be made freely available on this website. Use the electronic PSD Tools for corpus projects Learn about Sumerian Read about the project PSD in the news.", 
     "domain": "psd.museum.upenn.edu", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -35,23 +35,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8479299857201825874", 
             "resource_date": "2014-01-16T11:42:07.404-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:21.656216"
+            "when": "2015-06-20T16:13:48.164503"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/epsd-pennsylvania-sumerian-dictionary.html", 
             "resource_date": "2014-01-16T11:42:07.404-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:21.656232"
+            "when": "2015-06-20T16:13:48.164518"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://psd.museum.upenn.edu/epsd1/nepsd-frame.html", 
-        "http://psd.museum.upenn.edu/epsd1/dctools.html", 
-        "http://psd.museum.upenn.edu/epsd1/sumerian.html", 
-        "http://psd.museum.upenn.edu/epsd1/project.html", 
-        "http://psd.museum.upenn.edu/epsd1/media.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "ePSD: The Pennsylvania Sumerian Dictionary", 
     "url": "http://psd.museum.upenn.edu/epsd1/index.html", 
     "volume": null, 

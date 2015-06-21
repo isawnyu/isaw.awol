@@ -3,7 +3,7 @@
     "domain": "campus.usal.es", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0544-3733"
             ]
         }
@@ -44,34 +44,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4879755691996232435", 
             "resource_date": "2013-05-22T10:41:36.411-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:28.585982"
+            "when": "2015-06-20T16:13:02.784173"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-minos.html", 
             "resource_date": "2013-05-22T10:41:36.411-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:28.585998"
+            "when": "2015-06-20T16:13:02.784189"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/235", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/262", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/252", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/232", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/228", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/226", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/208", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/203", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/198", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/193", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/242", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/233", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/229", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/227", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/209", 
-        "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/issue/view/192"
-    ], 
+    "subordinate_resources": [], 
     "title": "Minos: Revista de Filolog\u00eda Egea", 
     "url": "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/index", 
     "volume": null, 

@@ -1,10 +1,11 @@
 {
-    "description": "[First posted in AWOL. 9 November 2009. Updated 28 June 2012]. SMID Online. is an analytical bibliography of Mycenaean text studies, including short summaries of scholarly works, cross-references of reviews, and indices of Linear B and Linear A signs, words and texts, as well as a fully cross-referenced subject index. Learn more about SMID here.", 
+    "description": "[First posted in AWOL. 9 November 2009. Updated 28 June 2012]. SMID Online. Studies in Mycenaean Inscriptions and Dialect (SMID) is an analytical bibliography of Mycenaean text studies, including short summaries of scholarly works, cross-references of reviews, and indices of Linear B and Linear A signs, words and texts, as well as a fully cross-referenced subject index. Learn more about SMID here.", 
     "domain": "smid.class.utexas.edu", 
     "identifiers": {}, 
     "is_part_of": null, 
     "keywords": [
         "epigraphy", 
+        "inscriptions", 
         "Mycenean"
     ], 
     "language": [
@@ -32,24 +33,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7555522573063933018", 
             "resource_date": "2012-06-28T21:15:53.920-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:57.479492"
+            "when": "2015-06-20T16:13:35.156145"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-studies-in.html", 
             "resource_date": "2012-06-28T21:15:53.920-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:57.479509"
+            "when": "2015-06-20T16:13:35.156161"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://smid.class.utexas.edu/SMID-about.htm", 
-        "http://smid.class.utexas.edu/index.htm", 
-        "http://smid.class.utexas.edu/SMID-about.htm", 
-        "http://smid.class.utexas.edu/Default.aspx", 
-        "http://smid.class.utexas.edu/Authors.aspx", 
-        "http://smid.class.utexas.edu/Submit.aspx"
-    ], 
+    "subordinate_resources": [], 
     "title": "SMID Online (Studies in Mycenaean Inscriptions and Dialect)", 
     "url": "http://smid.class.utexas.edu/index.htm", 
     "volume": null, 

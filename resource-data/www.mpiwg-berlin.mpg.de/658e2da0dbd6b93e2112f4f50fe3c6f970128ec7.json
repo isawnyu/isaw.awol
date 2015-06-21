@@ -1,9 +1,9 @@
 {
-    "description": "[First posted in AWOL 15 December 2010. Updated 13 May 2013]. Max Planck Institute for the History of Science: Preprints. Preprints For free copies, please send an e-mail with your postal address to Michael Mecke, or download the individual preprint issue; or download and print the preprint order form (PDF format) and mail it to the institute. ISSN 0948 9444 Preprints For free copies, please send an e-mail with your postal address to Michael Mecke, or download the individual preprint issue; or download and print the preprint order form (PDF format) and mail it to the institute. ISSN 0948 9444.", 
+    "description": "[First posted in AWOL 15 December 2010. Updated 31 March 2014]. Max Planck Institute for the History of Science: Preprints. Preprints For free copies, please send an e-mail with your postal address to Michael Mecke, or download the individual preprint issue; or download and print the preprint order form (PDF format) and mail it to the institute. ISSN 0948 9444 Preprints For free copies, please send an e-mail with your postal address to Michael Mecke, or download the individual preprint issue; or download and print the preprint order form (PDF format) and mail it to the institute. ISSN 0948 9444.", 
     "domain": "www.mpiwg-berlin.mpg.de", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0948-9444"
             ]
         }
@@ -38,38 +38,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6464692085684922432", 
-            "resource_date": "2013-05-13T09:38:07.280-04:00", 
+            "resource_date": "2014-03-31T07:44:06.902-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:06.349637"
+            "when": "2015-06-20T16:13:22.001017"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/digital-preprints-from-max-planck.html", 
-            "resource_date": "2013-05-13T09:38:07.280-04:00", 
+            "resource_date": "2014-03-31T07:44:06.902-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:06.349654"
+            "when": "2015-06-20T16:13:22.001035"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.mpiwg-berlin.mpg.de/PDF/preporder.pdf", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P439.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P436.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P435.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P430.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P410.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P401.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P384.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P371.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P344.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P327.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P320.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P289.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P259.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P183.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P145.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P114.PDF", 
-        "http://www.mpiwg-berlin.mpg.de/Preprints/P30.PDF"
-    ], 
+    "subordinate_resources": [], 
     "title": "Digital Preprints from the Max Planck Institute for the History of Science", 
     "url": "http://www.mpiwg-berlin.mpg.de/en/resources/preprints.html", 
     "volume": null, 

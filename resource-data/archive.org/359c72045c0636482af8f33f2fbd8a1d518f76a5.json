@@ -1,5 +1,5 @@
 {
-    "description": "Revue \u00e9gyptologique 1 (1880) <blockquote class=\"tr_bq\"><a href=\"http://archive. org/details/revuegyptologi01pari\">1 (1880)</a> <br/><a href=\"http://archive. org/details/revuegyptologi02pari\">2 (1882)</a> <br/><a href=\"http://archive. org/details/revuegyptologi03pari\">3 (1885)</a> <br/><a href=\"http://archive. org/details/revuegyptologi04pari\">4 (1885)</a> <br/><a href=\"http://archive. org/details/revuegyptologi05pari\">5 (1888)</a> <br/><a href=\"http://archive. org/details/revuegyptologi06pari\">6 (1891)</a> <br/><a href=\"http://archive. org/details/revuegyptologi07pari\">7 (1896)</a> <br/><a href=\"http://archive. org/details/revuegyptologi08pari\">8 (1898)</a> <br/><a href=\"http://archive. org/details/revuegyptologi09pari\">9 (1900)</a> <br/><a href=\"http://archive. org/details/revuegyptologi10pari\">10 (1902)</a> <br/><a href=\"http://archive. org/details/revuegyptologi11pari\">11 (1904)</a><br/><a href=\"http://archive. org/details/revuegyptologi12pari\">12 (1907)</a><br/><a href=\"http://archive. org/details/revuegyptologi13pari\">13 (1911)</a>. <a href=\"http://archive. org/details/revuegyptologi14pari\">14 (1914)</a> <br/>. <a href=\"http://archive. org/details/revuegyptologi00newpari\">Nouvelle S\u00e9rie 1 (1919) - vol. 2, fascicles 1-2 (1920)</a></blockquote>.", 
+    "description": "Revue \u00e9gyptologique 1 (1880).", 
     "domain": "archive.org", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -10,8 +10,8 @@
         "open access"
     ], 
     "language": [
-        "hu", 
-        0.9957984013740356
+        "fr", 
+        0.999999999999996
     ], 
     "provenance": [
         {
@@ -34,33 +34,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4270082800640888605", 
             "resource_date": "2012-12-03T16:58:23.687-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:16.840602"
+            "when": "2015-06-20T16:12:54.731984"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-revue-egyptologique.html", 
             "resource_date": "2012-12-03T16:58:23.687-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:16.840618"
+            "when": "2015-06-20T16:12:54.731999"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://archive.org/details/revuegyptologi01pari", 
-        "http://archive.org/details/revuegyptologi02pari", 
-        "http://archive.org/details/revuegyptologi03pari", 
-        "http://archive.org/details/revuegyptologi04pari", 
-        "http://archive.org/details/revuegyptologi05pari", 
-        "http://archive.org/details/revuegyptologi06pari", 
-        "http://archive.org/details/revuegyptologi07pari", 
-        "http://archive.org/details/revuegyptologi08pari", 
-        "http://archive.org/details/revuegyptologi09pari", 
-        "http://archive.org/details/revuegyptologi10pari", 
-        "http://archive.org/details/revuegyptologi11pari", 
-        "http://archive.org/details/revuegyptologi12pari", 
-        "http://archive.org/details/revuegyptologi13pari", 
-        "http://archive.org/details/revuegyptologi14pari", 
-        "http://archive.org/details/revuegyptologi00newpari"
-    ], 
+    "subordinate_resources": [], 
     "title": "Revue \u00e9gyptologique", 
     "url": "http://archive.org/search.php?query=Revue%20%C3%A9gyptologique", 
     "volume": null, 

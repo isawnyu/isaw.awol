@@ -1,0 +1,53 @@
+{
+    "description": "Manuscript Comparator. This tool allows two or more Biblical (currently New Testament) manuscripts or manuscript editions to be easily compared in side-by-side and unified views (no original unedited MSS are yet incorporated). It demonstrates a fundamental concept in the Open Scriptures framework: semantic linking. All of the contributing manuscripts are merged together to produce a single unified manuscript containing every attested variant; additionally, while merging, a manuscript's words are linked to their corresponding words in the unified manuscript. (All words in the unified manuscript are normalized by making them lower-case and removing diacritics and punctuation; spelling differences and transposed words are not normalized). Because each manuscript links back to the unified manuscript, every manuscript is then connected to every other manuscript by virtue of their shared links to a common point. To use, select the manuscripts for comparison and place them in either the (first) preferred list or the (second) deprecated list; each list must contain at least one manuscript. Reorder the manuscripts in the two lists to indicate precedence so that where manuscripts agree, the equivalent content from the manuscript with a higher precedence will be displayed instead of content from a manuscript with lower precedence. This matters because manuscripts have differences in casing, diacritics, and punctuation. Likewise, the reference system of the manuscript with higher precedence will be displayed.", 
+    "domain": "prototypes.openscriptures.org", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "religion", 
+        "Bible", 
+        "manuscripts", 
+        "New Testament"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-438549741397893227", 
+            "resource_date": "2015-06-11T11:45:58.119-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:12:55.952209"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/06/manuscript-comparator.html", 
+            "resource_date": "2015-06-11T11:45:58.119-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:12:55.952223"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Manuscript Comparator", 
+    "url": "http://prototypes.openscriptures.org/manuscript-comparator/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

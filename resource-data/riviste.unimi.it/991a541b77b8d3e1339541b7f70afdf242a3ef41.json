@@ -3,7 +3,7 @@
     "domain": "riviste.unimi.it", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1128-8221"
             ]
         }
@@ -41,20 +41,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3353180586680076542", 
             "resource_date": "2013-07-05T08:24:41.971-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:55.245019"
+            "when": "2015-06-20T16:12:42.686108"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-dike-rivista-di.html", 
             "resource_date": "2013-07-05T08:24:41.971-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:55.245038"
+            "when": "2015-06-20T16:12:42.686124"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://riviste.unimi.it/index.php/Dike/issue/view/426", 
-        "http://riviste.unimi.it/index.php/Dike/issue/view/426"
-    ], 
+    "subordinate_resources": [], 
     "title": "Dike. Rivista di storia del diritto greco ed ellenistico", 
     "url": "http://riviste.unimi.it/index.php/Dike", 
     "volume": null, 

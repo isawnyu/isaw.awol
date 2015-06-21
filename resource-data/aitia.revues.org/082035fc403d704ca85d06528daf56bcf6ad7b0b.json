@@ -1,9 +1,9 @@
 {
-    "description": "Aitia. Regards sur la culture hell\u00e9nistique au XXI\u00e8me si\u00e8cle. Aitia. Regards sur la culture hell\u00e9nistique au XXI\u00e8me si\u00e8cle. ISSN electronic edition: 1775-4275. Aitia. Regards sur la culture hell\u00e9nistique au XXI e si\u00e8cle est une revue internationale \u00e9lectronique. Elle s\u2019int\u00e9resse \u00e0 l\u2019ensemble de la culture hell\u00e9nistique. Les \u00e9tudes hell\u00e9nisitiques ont fait durant les deux derni\u00e8res d\u00e9cennies des progr\u00e8s consid\u00e9rables et ont connu d\u2019importants bouleversements. Toute cette importante partie de la litt\u00e9rature, de l\u2019art et de la philosophie est longtemps rest\u00e9e dans l\u2019indiff\u00e9rence des chercheurs et universitaires en raison de son caract\u00e8re d\u00e9j\u00e0 tardif et de sa complexit\u00e9. La notion m\u00eame de \u00ab\u00a0p\u00e9riode hell\u00e9nistique\u00a0\u00bb \u2013\u00a0qui d\u00e9bute au moment de la mort d\u2019Alexandre, en 323\u00a0avant\u00a0J. -C. et s\u2019ach\u00e8ve autour de 30\u00a0av. J. -C. \u2013 est assez r\u00e9cente. C\u2019est pourtant un moment essentiel de l\u2019histoire culturelle \u00e0 l\u2019articulation entre le monde classique grec et le monde romain, un moment essentiel o\u00f9, notamment, se mettent en place la critique litt\u00e9raire et l\u2019approche scientifique des textes dans le cadre de la Biblioth\u00e8que du Mus\u00e9e \u00e0 Alexandrie.", 
+    "description": "[First posted in AWOL 30 May 2012, updated 26 July 2014]. Aitia. Regards sur la culture hell\u00e9nistique au XXI\u00e8me si\u00e8cle. ISSN electronic edition: 1775-4275. Aitia. Regards sur la culture hell\u00e9nistique au XXI e si\u00e8cle\u00a0est une revue internationale \u00e9lectronique. Elle s\u2019int\u00e9resse \u00e0 l\u2019ensemble de la culture hell\u00e9nistique. Les \u00e9tudes hell\u00e9nisitiques ont fait durant les deux derni\u00e8res d\u00e9cennies des progr\u00e8s consid\u00e9rables et ont connu d\u2019importants bouleversements. Toute cette importante partie de la litt\u00e9rature, de l\u2019art et de la philosophie est longtemps rest\u00e9e dans l\u2019indiff\u00e9rence des chercheurs et universitaires en raison de son caract\u00e8re d\u00e9j\u00e0 tardif et de sa complexit\u00e9. La notion m\u00eame de \u00ab\u00a0p\u00e9riode hell\u00e9nistique\u00a0\u00bb -\u00a0qui d\u00e9bute au moment de la mort d\u2019Alexandre, en 323\u00a0avant\u00a0J. -C. et s\u2019ach\u00e8ve autour de 30\u00a0av. J. -C. - est assez r\u00e9cente. C\u2019est pourtant un moment essentiel de l\u2019histoire culturelle \u00e0 l\u2019articulation entre le monde classique grec et le monde romain, un moment essentiel o\u00f9, notamment, se mettent en place la critique litt\u00e9raire et l\u2019approche scientifique des textes dans le cadre de la Biblioth\u00e8que du Mus\u00e9e \u00e0 Alexandrie.", 
     "domain": "aitia.revues.org", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1775-4275"
             ]
         }
@@ -32,31 +32,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
-                "title_extended", 
                 "url", 
                 "volume", 
                 "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6371175981286266122", 
-            "resource_date": "2013-01-07T15:53:42.231-05:00", 
+            "resource_date": "2014-07-26T08:28:53.532-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:04.793458"
+            "when": "2015-06-20T16:13:20.943239"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/new-open-accesss-journal-aitia.html", 
-            "resource_date": "2013-01-07T15:53:42.231-05:00", 
+            "resource_date": "2014-07-26T08:28:53.532-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:04.793474"
+            "when": "2015-06-20T16:13:20.943255"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://aitia.revues.org/300", 
-        "http://aitia.revues.org/60"
-    ], 
-    "title": "Aitia", 
-    "title_extended": "Aitia. Regards sur la culture hell\u00e9nistique au XXI\u00e8me si\u00e8cle", 
+    "subordinate_resources": [], 
+    "title": "Aitia. Regards sur la culture hell\u00e9nistique au XXI\u00e8me si\u00e8cle", 
     "url": "http://aitia.revues.org/", 
     "volume": null, 
     "year": null, 

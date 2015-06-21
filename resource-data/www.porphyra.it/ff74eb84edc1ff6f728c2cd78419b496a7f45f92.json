@@ -1,9 +1,9 @@
 {
-    "description": "First posted in AWOL 22 September 2011. Updated 30 July 2013]. Porphyra: la prima rivista online sul mondo di Bisanzio. ISSN: 2240-5240. Porphyra is the first Italian on-line magazine to focus exclusively on Byzantium. Founded in 2003 by Nicola Bergamo, it is currently one of tha many ways through which the Associazione Culturale Bisanzio fosters and promotes Byzantine history, culture and civilization. From March 2006 until December 2011 it has been directed by Matteo Broggini. From January 2012 to present the director is Nicola Bergamo.", 
+    "description": "First posted in AWOL 22 September 2011. Updated 30 July 2013]. Porphyra: la prima rivista online sul mondo di Bisanzio. ISSN: 2240-5240. WHAT IS PORPHYRA Porphyra is the first Italian on-line magazine to focus exclusively on Byzantium. Founded in 2003 by Nicola Bergamo, it is currently one of tha many ways through which the Associazione Culturale Bisanzio fosters and promotes Byzantine history, culture and civilization. From March 2006 until December 2011 it has been directed by Matteo Broggini. From January 2012 to present the director is Nicola Bergamo.", 
     "domain": "www.porphyra.it", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2240-5240"
             ]
         }
@@ -39,19 +39,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5324819194642018397", 
             "resource_date": "2013-07-30T08:55:57.261-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:38.953058"
+            "when": "2015-06-20T16:13:07.537827"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/open-access-journal-porphyra.html", 
             "resource_date": "2013-07-30T08:55:57.261-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:38.953075"
+            "when": "2015-06-20T16:13:07.537843"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.porphyra.it/?p=157"
-    ], 
+    "subordinate_resources": [], 
     "title": "Porphyra: la prima rivista online sul mondo di Bisanzio", 
     "url": "http://www.porphyra.it/", 
     "volume": null, 

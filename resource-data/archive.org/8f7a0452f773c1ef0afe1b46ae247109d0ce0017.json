@@ -1,5 +1,5 @@
 {
-    "description": "The Babylonian and Oriental Record. The Babylonian and oriental record (Volume 1) <blockquote class=\"tr_bq\"><a class=\"titleLink\" href=\"http://archive. org/details/babylonianorient01lond\"><span class=\"searchTerm\">The</span> <span class=\"searchTerm\">Babylonian</span> <span class=\"searchTerm\">and</span> <span class=\"searchTerm\">oriental</span> <span class=\"searchTerm\">record</span> (Volume 1)</a> <br/><a class=\"titleLink\" href=\"http://archive. org/details/babylonianorient02lond\"><span class=\"searchTerm\">The</span> <span class=\"searchTerm\">Babylonian</span> <span class=\"searchTerm\">and</span> <span class=\"searchTerm\">oriental</span> <span class=\"searchTerm\">record</span> (Volume 2)</a><br/><a class=\"titleLink\" href=\"http://archive. org/details/babylonianorient03lond\"><span class=\"searchTerm\">The</span> <span class=\"searchTerm\">Babylonian</span> <span class=\"searchTerm\">and</span> <span class=\"searchTerm\">oriental</span> <span class=\"searchTerm\">record</span> (Volume 3)</a><br/><a class=\"titleLink\" href=\"http://archive. org/details/babylonianorient04lond\"><span class=\"searchTerm\">The</span> <span class=\"searchTerm\">Babylonian</span> <span class=\"searchTerm\">and</span> <span class=\"searchTerm\">oriental</span> <span class=\"searchTerm\">record</span> (Volume 4)</a>. <a class=\"titleLink\" href=\"http://archive. org/details/babylonianorient05londuoft\"><span class=\"searchTerm\">The</span> <span class=\"searchTerm\">Babylonian</span> <span class=\"searchTerm\">and</span> <span class=\"searchTerm\">oriental</span> <span class=\"searchTerm\">record</span> (Volume 5)</a> </blockquote>.", 
+    "description": "The Babylonian and Oriental Record. The Babylonian and oriental record (Volume 1).", 
     "domain": "archive.org", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -33,23 +33,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4359521241765160773", 
             "resource_date": "2013-08-26T11:15:51.075-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:19.458327"
+            "when": "2015-06-20T16:12:55.714826"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/08/open-access-journal-babylonian-and.html", 
             "resource_date": "2013-08-26T11:15:51.075-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:19.458343"
+            "when": "2015-06-20T16:12:55.714842"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://archive.org/details/babylonianorient01lond", 
-        "http://archive.org/details/babylonianorient02lond", 
-        "http://archive.org/details/babylonianorient03lond", 
-        "http://archive.org/details/babylonianorient04lond", 
-        "http://archive.org/details/babylonianorient05londuoft"
-    ], 
+    "subordinate_resources": [], 
     "title": "The Babylonian and Oriental Record", 
     "url": "http://archive.org/search.php?query=The%20Babylonian%20and%20oriental%20record%20AND%20mediatype%3Atexts", 
     "volume": null, 

@@ -1,5 +1,5 @@
 {
-    "description": "British Museum Technical Research Bulletin (BMTRB). The Technical Research Bulletin publishes the results of collaborative work by the British Museum's curators, conservators and scientists covering a broad range of objects and materials from across the Museum\u2019s collection. Published once a year, each issue aims to encompass objects from different continents, historical periods and material types. The Bulletin is designed to appeal both to those with a general interest in the Museum\u2019s collections and those with a specialist interest who wish to broaden their horizons.", 
+    "description": "[First posted in AWOL 25 November 2013, updated 25 December 2014]. British Museum Technical Research Bulletin (BMTRB). The Technical Research Bulletin publishes the results of collaborative work by the British Museum's curators, conservators and scientists covering a broad range of objects and materials from across the Museum\u2019s collection. Published once a year, each issue aims to encompass objects from different continents, historical periods and material types. The Bulletin is designed to appeal both to those with a general interest in the Museum\u2019s collections and those with a specialist interest who wish to broaden their horizons.", 
     "domain": "www.britishmuseum.org", 
     "identifiers": {}, 
     "is_part_of": null, 
@@ -33,35 +33,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1077944458039409564", 
-            "resource_date": "2013-11-25T11:04:56.785-05:00", 
+            "resource_date": "2014-12-25T19:38:57.973-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:11:25.824998"
+            "when": "2015-06-20T16:12:10.806613"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-british-museum.html", 
-            "resource_date": "2013-11-25T11:04:56.785-05:00", 
+            "resource_date": "2014-12-25T19:38:57.973-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:11:25.825015"
+            "when": "2015-06-20T16:12:10.806631"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.britishmuseum.org/research/publications/online_journals/technical_research_bulletin/bmtrb_volume_1.aspx", 
-        "http://www.britishmuseum.org/research/publications/online_journals/technical_research_bulletin/bmtrb_volume_2.aspx", 
-        "http://www.britishmuseum.org/research/publications/online_journals/technical_research_bulletin/bmtrb_volume_3.aspx", 
-        "http://www.britishmuseum.org/research/publications/online_journals/technical_research_bulletin/bmtrb_volume_4.aspx", 
-        "http://www.britishmuseum.org/research/publications/online_journals/technical_research_bulletin/bmtrb_volume_5.aspx", 
-        "http://www.britishmuseum.org/research/publications/online_journals/technical_research_bulletin/bmtrb_volume_6.aspx", 
-        "http://www.britishmuseum.org/pdf/BMTRB_6Ambers-et-al.pdf", 
-        "http://www.britishmuseum.org/pdf/BMTRB_6_Cartwright-and-King.pdf", 
-        "http://www.britishmuseum.org/pdf/BMTRB_6_Craddock-and-Hook.pdf", 
-        "http://www.britishmuseum.org/pdf/BMTRB_6_Hood-et-al.pdf", 
-        "http://www.britishmuseum.org/pdf/BMTRB_6_Oliver-Higgs-and-Spataro.pdf", 
-        "http://www.britishmuseum.org/pdf/BMTRB_6_Passmore-et-al.pdf", 
-        "http://www.britishmuseum.org/pdf/BMTRB_6_Pullan-et-al.pdf", 
-        "http://www.britishmuseum.org/pdf/BMTRB_6_Ryan-Cartwright-and-Spencer.pdf", 
-        "http://www.britishmuseum.org/pdf/BMTRB_6_Swift-et-al.pdf"
-    ], 
+    "subordinate_resources": [], 
     "title": "British Museum Technical Research Bulletin", 
     "title_extended": "British Museum Technical Research Bulletin (BMTRB)", 
     "url": "http://www.britishmuseum.org/research/publications/online_journals/technical_research_bulletin.aspx", 

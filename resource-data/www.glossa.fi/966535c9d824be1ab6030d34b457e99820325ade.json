@@ -3,7 +3,7 @@
     "domain": "www.glossa.fi", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1457-2362"
             ]
         }
@@ -38,13 +38,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6683049683561943317", 
             "resource_date": "2009-12-11T11:42:39.007-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:14:36.328936"
+            "when": "2015-06-20T16:13:25.752074"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/open-access-journal-mirator.html", 
             "resource_date": "2009-12-11T11:42:39.007-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:14:36.328952"
+            "when": "2015-06-20T16:13:25.752089"
         }
     ], 
     "related_resources": [], 

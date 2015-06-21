@@ -1,0 +1,52 @@
+{
+    "description": "Data formats and software for Egyptian. Mark-Jan Nederhof. Software: PhilologEg (formerly AELalign) Data: some encodings of texts hieroglyphic font annotated sign list Encoding: survey of sign lists survey of lists of mnemonics survey of encodings of transliteration the Revised Encoding Scheme for hieroglyphic Grammar books Software: ex2html translates the key to the exercises from a grammar book into HTML and Latex formats (undocumented) ex2xml computes an inverted index of examples from a grammar book that belong to a certain text, and turns it into an XML format as specified by AELalign (undocumented) Data: grammar books selection of exercises and examples from Allen's grammar selection of examples from Callender's grammar selection of examples from Gardiner's grammar selection of examples from Graefe's grammar selection of examples from Loprieno's grammar selection of examples from Ockinga's grammar selection of exercises and examples from Zonhoven's grammar.", 
+    "domain": "mjn.host.cs.st-andrews.ac.uk", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Egypt", 
+        "egyptology", 
+        "data"
+    ], 
+    "language": [
+        "en", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4261117676588118378", 
+            "resource_date": "2014-11-03T10:24:57.831-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:12:54.205654"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/11/data-formats-and-software-for-egyptian.html", 
+            "resource_date": "2014-11-03T10:24:57.831-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:12:54.205670"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "Data formats and software for Egyptian, by Mark-Jan Nederhof", 
+    "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

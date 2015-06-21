@@ -3,7 +3,7 @@
     "domain": "www.otago.ac.nz", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1018-9017"
             ]
         }
@@ -40,40 +40,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-970214116663096044", 
             "resource_date": "2013-03-30T08:24:34.696-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:42.084933"
+            "when": "2015-06-20T16:13:59.726391"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/open-access-journal-scholia-studies-in.html", 
             "resource_date": "2013-03-30T08:24:34.696-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:42.084949"
+            "when": "2015-06-20T16:13:59.726407"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.otago.ac.nz/classics/scholia/scholia_index.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia1%281992%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia2%281993%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia3%281994%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/cholia4%281995%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/cholia5%281996%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/cholia6%281997%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia7%281998%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia8%282009%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia9%282010%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia10%282001%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia11%282002%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia12%282003%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia13%282004%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia14%282005%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia15%282006%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia16%282007%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia17%282008%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia18%282009%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia19%282010%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/Scholia20%282011%29.pdf", 
-        "http://www.otago.ac.nz/classics/scholia/scholia_index.pdf"
-    ], 
+    "subordinate_resources": [], 
     "title": "SCHOLIA: Studies in Classical Antiquity", 
     "url": "http://www.otago.ac.nz/classics/scholia/", 
     "volume": null, 

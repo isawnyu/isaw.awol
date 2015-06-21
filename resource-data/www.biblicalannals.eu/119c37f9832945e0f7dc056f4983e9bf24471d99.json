@@ -1,20 +1,21 @@
 {
-    "description": "The Biblical Annals. ISSN 2083-2222. Journal of the Institute of Biblical Studies of the John Paul II Catholic University of Lublin, Poland, dedicated to biblical studies on the Old and New Testament, and intertestamentary literature, covers fields of research, such as exegesis, philology, and history.", 
+    "description": "The Biblical Annals. ISSN: 2083-2222. Journal of the Institute of Biblical Studies of the John Paul II Catholic University of Lublin, Poland, dedicated to biblical studies on the Old and New Testament, and intertestamentary literature, covers fields of research, such as exegesis, philology, and history.", 
     "domain": "www.biblicalannals.eu", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2083-2222"
             ]
         }
     }, 
     "is_part_of": null, 
     "keywords": [
-        "religion", 
-        "journal", 
         "Bible", 
+        "journal", 
+        "religion", 
+        "bible", 
         "open access", 
-        "bible"
+        "Poland"
     ], 
     "language": [
         "en", 
@@ -39,23 +40,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-404953445695417663", 
-            "resource_date": "2012-06-01T12:02:30.471-04:00", 
+            "resource_date": "2014-10-13T11:56:28.657-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:11.295924"
+            "when": "2015-06-20T16:12:51.642596"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-biblical-annals.html", 
-            "resource_date": "2012-06-01T12:02:30.471-04:00", 
+            "resource_date": "2014-10-13T11:56:28.657-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:11.295940"
+            "when": "2015-06-20T16:12:51.642611"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.biblicalannals.eu/index,authors.html", 
-        "http://www.biblicalannals.eu/index,number.html", 
-        "http://www.biblicalannals.eu/index,keywords.html"
-    ], 
+    "subordinate_resources": [], 
     "title": "The Biblical Annals", 
     "url": "http://www.biblicalannals.eu/english.html", 
     "volume": null, 

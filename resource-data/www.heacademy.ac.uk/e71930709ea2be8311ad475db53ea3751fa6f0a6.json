@@ -3,7 +3,7 @@
     "domain": "www.heacademy.ac.uk", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2040-848X"
             ]
         }
@@ -40,20 +40,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-854250386001492792", 
             "resource_date": "2013-10-01T16:13:23.377-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:22.729097"
+            "when": "2015-06-20T16:13:48.615252"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-research-in.html", 
             "resource_date": "2013-10-01T16:13:23.377-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:22.729114"
+            "when": "2015-06-20T16:13:48.615267"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.heacademy.ac.uk/hca/archaeology/RAEJournal/current_issue", 
-        "http://www.heacademy.ac.uk/hca/archaeology/RAEJournal/current_issue"
-    ], 
+    "subordinate_resources": [], 
     "title": "Research in Archaeological Education Journal", 
     "url": "http://www.heacademy.ac.uk/hca/archaeology/RAEJournal", 
     "volume": null, 

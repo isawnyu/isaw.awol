@@ -1,0 +1,50 @@
+{
+    "description": "Traductions de textes sum\u00e9riens et lexique sum\u00e9rien-fran\u00e7ais online A l'adresse <.", 
+    "domain": "www.arch.unibe.ch", 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "keywords": [
+        "Sumerian"
+    ], 
+    "language": [
+        "fr", 
+        1.0
+    ], 
+    "provenance": [
+        {
+            "fields": [
+                "description", 
+                "domain", 
+                "identifiers", 
+                "is_part_of", 
+                "keywords", 
+                "language", 
+                "provenance", 
+                "related_resources", 
+                "subordinate_resources", 
+                "title", 
+                "url", 
+                "volume", 
+                "year", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8761152632947049584", 
+            "resource_date": "2015-06-09T10:47:58.843-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-06-20T16:13:53.765044"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/06/new-sumerian-resources-from-pascal.html", 
+            "resource_date": "2015-06-09T10:47:58.843-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-06-20T16:13:53.765061"
+        }
+    ], 
+    "related_resources": [], 
+    "subordinate_resources": [], 
+    "title": "New Sumerian Resources from Pascal Attinger", 
+    "url": "http://www.arch.unibe.ch/attinger", 
+    "volume": null, 
+    "year": null, 
+    "zotero_id": null
+}

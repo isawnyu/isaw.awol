@@ -3,7 +3,7 @@
     "domain": "www.pomoerium.eu", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0945-2354"
             ]
         }
@@ -31,35 +31,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
-                "title_extended", 
                 "url", 
                 "volume", 
                 "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-50341059986177510", 
-            "resource_date": "2012-12-17T11:14:36.007-05:00", 
+            "resource_date": "2014-06-09T08:22:57.417-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:31.364004"
+            "when": "2015-06-20T16:13:04.372111"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-pomoerium.html", 
-            "resource_date": "2012-12-17T11:14:36.007-05:00", 
+            "resource_date": "2014-06-09T08:22:57.417-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:31.364019"
+            "when": "2015-06-20T16:13:04.372128"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.pomoerium.eu/pomoer/pomoer1/inhalt1.htm", 
-        "http://www.pomoerium.eu/pomoer/pomoer2/inhalt2.htm", 
-        "http://www.pomoerium.eu/pomoer/pomoer3/inhalt3.htm", 
-        "http://www.pomoerium.eu/pomoer/pomoer4/inhalt4.htm", 
-        "http://www.pomoerium.eu/pomoer/pomoer5/inhalt5.htm", 
-        "http://www.pomoerium.eu/pomoer/pomoer6/inhalt6.htm"
-    ], 
-    "title": "Pomoerium", 
-    "title_extended": "Pomoerium: Studia et Commentarii Ad Orbem Classicum Spectantia", 
+    "subordinate_resources": [], 
+    "title": "Pomoerium: Studia et Commentarii Ad Orbem Classicum Spectantia", 
     "url": "http://www.pomoerium.eu/pomoer.html", 
     "volume": null, 
     "year": null, 

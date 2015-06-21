@@ -1,7 +1,13 @@
 {
-    "description": "Aegeo-Balkan Prehistory edited by Barbara Horejs and Peter Pav\u00fak with technical support by The aims Today the area roughly south of the River Danube embraces a number of states, several languages and also a growing number of scholars working in this wide region. The aim of the project, therefore, is to facilitate an international cooperation resulting in an English language web-page that will serve the purpose of an and at the same time radiate impulses for further scientific discussions related to South-Eastern Europe. The web-page should also offer to archaeologists of various countries the possibility to present the results of their work, new finds, ideas etc. in a fast and unbureaucratic way, which is easily accessible to a much wider audience than the standard archaeological publications. Moreover, the website should also offer a number of services: 1. It is constructed as a database, with all contributions indexed, and can be therefore searched or simply browsed by topic, region and site. 2. A searchable bibliography contains currently more then 800 entries covering the northern and central Aegean, the Balkans and western Anatolia during the 2nd millennium, but extending to late 3rd and early 1st millennia as well. 3. The site will contain a set of G. I. S. -based maps, which are already prepared, but still lack a suitable web-interface. 4. It will function as an edited volume, with its own.", 
+    "description": "Aegeo-Balkan Prehistory edited by Barbara Horejs and Peter Pav\u00fak with technical support by Peter Demj\u00e1n The aims Today the area roughly south of the River Danube embraces a number of states, several languages and also a growing number of scholars working in this wide region. The aim of the project, therefore, is to facilitate an international cooperation resulting in an English language web-page that will serve the purpose of an internet platform and at the same time radiate impulses for further scientific discussions related to South-Eastern Europe. The web-page should also offer to archaeologists of various countries the possibility to present the results of their work, new finds, ideas etc. in a fast and unbureaucratic way, which is easily accessible to a much wider audience than the standard archaeological publications. Moreover, the website should also offer a number of services: 1. It is constructed as a database, with all contributions indexed, and can be therefore searched or simply browsed by topic, region and site. 2. A searchable bibliography contains currently more then 800 entries covering the northern and central Aegean, the Balkans and western Anatolia during the 2nd millennium, but extending to late 3rd and early 1st millennia as well. 3. The site will contain a set of G. I. S. -based maps, which are already prepared, but still lack a suitable web-interface. 4. It will function as an edited volume, with its own ISBN: 978-80-223-2376-5.", 
     "domain": "www.aegeobalkanprehistory.net", 
-    "identifiers": {}, 
+    "identifiers": {
+        "isbn": {
+            "generic": [
+                "978-80-223-2376-5"
+            ]
+        }
+    }, 
     "is_part_of": null, 
     "keywords": [
         "prehistory"
@@ -31,53 +37,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-198471539899299101", 
             "resource_date": "2011-05-03T11:02:22.847-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:12:15.510114"
+            "when": "2015-06-20T16:12:22.894121"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/aegeo-balkan-prehistory.html", 
             "resource_date": "2011-05-03T11:02:22.847-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:12:15.510131"
+            "when": "2015-06-20T16:12:22.894137"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.aegeobalkanprehistory.net/art_list.php", 
-        "http://www.aegeobalkanprehistory.net/biblio.php", 
-        "http://www.aegeobalkanprehistory.net/Forum/index.php", 
-        "http://www.aegeobalkanprehistory.net/maps.php", 
-        "http://www.aegeobalkanprehistory.net/misctxt.php?param=Links", 
-        "http://www.aegeobalkanprehistory.net/misctxt.php?param=Credits", 
-        "http://www.aegeobalkanprehistory.net/art_list.php", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_war=1", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=7&id_war=1", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=2&id_war=1", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=3&id_war=1", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=1&id_war=1", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=4&id_war=1", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_war=2", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=7&id_war=2", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=2&id_war=2", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=3&id_war=2", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=1&id_war=2", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=4&id_war=2", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_war=3", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=7&id_war=3", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=2&id_war=3", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=3&id_war=3", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=6&id_war=3", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=1&id_war=3", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=5&id_war=3", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=4&id_war=3", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_war=4", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=7", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=2", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=3", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=6", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=1", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=5", 
-        "http://www.aegeobalkanprehistory.net/art_list.php?id_reg=4"
-    ], 
+    "subordinate_resources": [], 
     "title": "Aegeo-Balkan Prehistory", 
     "url": "http://www.aegeobalkanprehistory.net/", 
     "volume": null, 

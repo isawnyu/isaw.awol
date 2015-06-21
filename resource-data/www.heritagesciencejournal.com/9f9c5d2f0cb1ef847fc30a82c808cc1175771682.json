@@ -3,7 +3,7 @@
     "domain": "www.heritagesciencejournal.com", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2050-7445"
             ]
         }
@@ -41,55 +41,19 @@
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4076901833376446845", 
-            "resource_date": "2013-04-03T15:29:24.441-04:00", 
+            "resource_date": "2014-11-08T11:41:51.576-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:11.981600"
+            "when": "2015-06-20T16:12:52.031832"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/new-open-access-journal-heritage-science.html", 
-            "resource_date": "2013-04-03T15:29:24.441-04:00", 
+            "resource_date": "2014-11-08T11:41:51.576-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:11.981616"
+            "when": "2015-06-20T16:12:52.031849"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.heritagesciencejournal.com/about/access", 
-        "http://www.heritagesciencejournal.com/content/1/1/8/abstract", 
-        "http://www.heritagesciencejournal.com/content/1/1/8", 
-        "http://www.heritagesciencejournal.com/content/pdf/2050-7445-1-8.pdf", 
-        "http://www.heritagesciencejournal.com/about/access", 
-        "http://www.heritagesciencejournal.com/content/1/1/7/abstract", 
-        "http://www.heritagesciencejournal.com/content/1/1/7", 
-        "http://www.heritagesciencejournal.com/content/pdf/2050-7445-1-7.pdf", 
-        "http://www.heritagesciencejournal.com/about/access", 
-        "http://www.heritagesciencejournal.com/content/1/1/6/abstract", 
-        "http://www.heritagesciencejournal.com/content/1/1/6", 
-        "http://www.heritagesciencejournal.com/content/pdf/2050-7445-1-6.pdf", 
-        "http://www.heritagesciencejournal.com/about/access", 
-        "http://www.heritagesciencejournal.com/content/1/1/5/abstract", 
-        "http://www.heritagesciencejournal.com/content/1/1/5", 
-        "http://www.heritagesciencejournal.com/content/pdf/2050-7445-1-5.pdf", 
-        "http://www.heritagesciencejournal.com/content/1/April/2013", 
-        "http://www.heritagesciencejournal.com/about/access", 
-        "http://www.heritagesciencejournal.com/content/1/1/4/abstract", 
-        "http://www.heritagesciencejournal.com/content/1/1/4", 
-        "http://www.heritagesciencejournal.com/content/pdf/2050-7445-1-4.pdf", 
-        "http://www.heritagesciencejournal.com/content/1/April/2013", 
-        "http://www.heritagesciencejournal.com/about/access", 
-        "http://www.heritagesciencejournal.com/content/1/1/3/abstract", 
-        "http://www.heritagesciencejournal.com/content/1/1/3", 
-        "http://www.heritagesciencejournal.com/content/pdf/2050-7445-1-3.pdf", 
-        "http://www.heritagesciencejournal.com/about/access", 
-        "http://www.heritagesciencejournal.com/content/1/1/2/abstract", 
-        "http://www.heritagesciencejournal.com/content/1/1/2", 
-        "http://www.heritagesciencejournal.com/content/pdf/2050-7445-1-2.pdf", 
-        "http://www.heritagesciencejournal.com/content/1/April/2013", 
-        "http://www.heritagesciencejournal.com/about/access", 
-        "http://www.heritagesciencejournal.com/content/1/1/1/abstract", 
-        "http://www.heritagesciencejournal.com/content/1/1/1", 
-        "http://www.heritagesciencejournal.com/content/pdf/2050-7445-1-1.pdf"
-    ], 
+    "subordinate_resources": [], 
     "title": "Heritage Science", 
     "url": "http://www.heritagesciencejournal.com/", 
     "volume": null, 

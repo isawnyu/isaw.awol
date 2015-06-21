@@ -1,9 +1,9 @@
 {
-    "description": "[First posted in AWOL. 9 November 2009. Updated 23 July 2012]. Theological Librarianship: An Online Journal of the American Theological Library Association. ISSN 1937-8904. <blockquote class=\"tr_bq\"><div id=\"header\"><div id=\"headerTitle\"><h1> </h1></div></div>The purposes of Theological Librarianship are: to foster the professional development of theological librarians and to contribute to and enrich the profession of theological librarianship. <br/>. TL publishes essays, columns, critical reviews, bibliographic essays, and peer-reviewed articles on all aspects of professional librarianship, within the context of a religious/theological library collection encompassing interactions with faculty and administrators engaged in religious/theological education. The primary intended audience includes: professional librarians in colleges, universities, and theological seminaries and others with an interest in theological librarianship. <br/>. <h4><a href=\"https://journal. atla. com/ojs/index. php/theolib/issue/view/13\">Preprints</a></h4><h3>2012</h3><h4><a href=\"https://journal. atla. com/ojs/index. php/theolib/issue/view/11\">Vol 5, No 1 (2012)</a></h4><h3>2011</h3><h4><a href=\"https://journal. atla. com/ojs/index. php/theolib/issue/view/10\">Vol 4, No 1 (2011)</a></h4><h3>2010</h3><h4><a href=\"https://journal. atla. com/ojs/index. php/theolib/issue/view/9\">Vol 3, No 2 (2010)</a></h4><h4><a href=\"https://journal. atla. com/ojs/index. php/theolib/issue/view/8\">Vol 3, No 1 (2010)</a></h4><h3>2009</h3><h4><a href=\"https://journal. atla. com/ojs/index. php/theolib/issue/view/6\">Vol 2, No 2 (2009)</a></h4><h4><a href=\"https://journal. atla. com/ojs/index. php/theolib/issue/view/5\">Vol 2, No 1 (2009)</a></h4><h3>2008</h3><h4><a href=\"https://journal. atla. com/ojs/index. php/theolib/issue/view/4\">Vol 1, No 2 (2008)</a></h4><h4><a href=\"https://journal. atla. com/ojs/index. php/theolib/issue/view/1\">Vol 1, No 1 (2008)</a></h4></blockquote> Preprints 2012 Vol 5, No 1 (2012) 2011 Vol 4, No 1 (2011) 2010 Vol 3, No 2 (2010) Vol 3, No 1 (2010) 2009 Vol 2, No 2 (2009) Vol 2, No 1 (2009) 2008 Vol 1, No 2 (2008) Vol 1, No 1 (2008).", 
+    "description": "[First posted in AWOL. 9 November 2009. Updated 23 July 2012]. Theological Librarianship: An Online Journal of the American Theological Library Association. ISSN 1937-8904. The purposes of Theological Librarianship are: to foster the professional development of theological librarians and to contribute to and enrich the profession of theological librarianship. TL publishes essays, columns, critical reviews, bibliographic essays, and peer-reviewed articles on all aspects of professional librarianship, within the context of a religious/theological library collection encompassing interactions with faculty and administrators engaged in religious/theological education. The primary intended audience includes: professional librarians in colleges, universities, and theological seminaries and others with an interest in theological librarianship. Preprints 2012 Vol 5, No 1 (2012) 2011 Vol 4, No 1 (2011) 2010 Vol 3, No 2 (2010) Vol 3, No 1 (2010) 2009 Vol 2, No 2 (2009) Vol 2, No 1 (2009) 2008 Vol 1, No 2 (2008) Vol 1, No 1 (2008).", 
     "domain": "journal.atla.com", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1937-8904"
             ]
         }
@@ -41,27 +41,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5720611825439059305", 
             "resource_date": "2013-02-21T10:45:35.716-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:13:46.350435"
+            "when": "2015-06-20T16:13:11.867256"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-theological.html", 
             "resource_date": "2013-02-21T10:45:35.716-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:13:46.350452"
+            "when": "2015-06-20T16:13:11.867271"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "https://journal.atla.com/ojs/index.php/theolib/issue/view/13", 
-        "https://journal.atla.com/ojs/index.php/theolib/issue/view/11", 
-        "https://journal.atla.com/ojs/index.php/theolib/issue/view/10", 
-        "https://journal.atla.com/ojs/index.php/theolib/issue/view/9", 
-        "https://journal.atla.com/ojs/index.php/theolib/issue/view/8", 
-        "https://journal.atla.com/ojs/index.php/theolib/issue/view/6", 
-        "https://journal.atla.com/ojs/index.php/theolib/issue/view/5", 
-        "https://journal.atla.com/ojs/index.php/theolib/issue/view/4", 
-        "https://journal.atla.com/ojs/index.php/theolib/issue/view/1"
-    ], 
+    "subordinate_resources": [], 
     "title": "Theological Librarianship", 
     "title_extended": "Theological Librarianship: An Online Journal of the American Theological Library Association", 
     "url": "http://journal.atla.com/ojs/index.php/theolib", 

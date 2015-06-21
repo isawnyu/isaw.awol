@@ -1,9 +1,9 @@
 {
-    "description": "BSAA Arqueolog\u00eda: Bolet\u00edn del Seminario de Estudios de Arqueolog\u00eda (continuing Bolet\u00edn del Seminario de Estudios de Arte y Arqueolog\u00eda: BSAA). ISSN: 1888-976X. See the full List of Open Access Journals in Ancient Studies.", 
+    "description": "BSAA Arqueolog\u00eda: Bolet\u00edn del Seminario de Estudios de Arqueolog\u00eda (continuing Bolet\u00edn del Seminario de Estudios de Arte y Arqueolog\u00eda: BSAA). ISSN: 1888-976X. Sumarios de la revista Accesibles Alojados 2011-2012 77-78 2010 76 2009 75 2008 74 (1) 2006-2007 72-73 (1) 2005 71 (1).", 
     "domain": "dialnet.unirioja.es", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1888-976X"
             ]
         }
@@ -11,8 +11,10 @@
     "is_part_of": null, 
     "keywords": [
         "journal", 
-        "archeaology", 
-        "open access"
+        "open access", 
+        "archaeology", 
+        "Spain", 
+        "archeaology"
     ], 
     "language": [
         "es", 
@@ -31,30 +33,26 @@
                 "related_resources", 
                 "subordinate_resources", 
                 "title", 
-                "title_extended", 
                 "url", 
                 "volume", 
                 "year", 
                 "zotero_id"
             ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7680663990464356791", 
-            "resource_date": "2012-02-16T05:56:50.152-05:00", 
+            "resource_date": "2014-06-01T07:56:15.005-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:00.974258"
+            "when": "2015-06-20T16:13:37.866475"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-bsaa-arqueologia.html", 
-            "resource_date": "2012-02-16T05:56:50.152-05:00", 
+            "resource_date": "2014-06-01T07:56:15.005-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:00.974274"
+            "when": "2015-06-20T16:13:37.866493"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://dialnet.unirioja.es/servlet/revista?codigo=226"
-    ], 
-    "title": "BSAA Arqueolog\u00eda", 
-    "title_extended": "BSAA Arqueolog\u00eda: Bolet\u00edn del Seminario de Estudios de Arqueolog\u00eda", 
+    "subordinate_resources": [], 
+    "title": "BSAA Arqueolog\u00eda: Bolet\u00edn del Seminario de Estudios de Arqueolog\u00eda", 
     "url": "http://dialnet.unirioja.es/servlet/revista?codigo=15437", 
     "volume": null, 
     "year": null, 

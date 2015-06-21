@@ -3,7 +3,7 @@
     "domain": "journals.usb.ac.ir", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "2251-743X"
             ]
         }
@@ -40,21 +40,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7752683636435375250", 
             "resource_date": "2012-12-13T15:57:07.148-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:03.182641"
+            "when": "2015-06-20T16:13:38.706484"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/new-open-access-journal-iranian-journal.html", 
             "resource_date": "2012-12-13T15:57:07.148-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:03.182655"
+            "when": "2015-06-20T16:13:38.706497"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://journals.usb.ac.ir/ijas/en-us/JournalNumbers/Articles151/", 
-        "http://journals.usb.ac.ir/ijas/en-us/JournalNumbers/Articles150/", 
-        "http://journals.usb.ac.ir/ijas/en-us/SendArticle/"
-    ], 
+    "subordinate_resources": [], 
     "title": "Iranian Journal of Archaeological Studies", 
     "url": "http://journals.usb.ac.ir/ijas/en-us/MainPage/", 
     "volume": null, 

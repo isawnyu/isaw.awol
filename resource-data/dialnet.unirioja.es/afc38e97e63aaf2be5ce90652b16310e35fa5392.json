@@ -3,7 +3,7 @@
     "domain": "dialnet.unirioja.es", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "0210-2943"
             ]
         }
@@ -42,54 +42,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8476008991115147483", 
             "resource_date": "2012-06-18T12:53:35.306-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:21.511161"
+            "when": "2015-06-20T16:13:47.334101"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-memorias-de.html", 
             "resource_date": "2012-06-18T12:53:35.306-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:21.511177"
+            "when": "2015-06-20T16:13:47.334118"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=2002", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=183426", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=2000", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=120803", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1998", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=27327", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1997", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=5178", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1996", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=5177", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1994", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=5176", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1992", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=5175", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1990", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=5174", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1989", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=5173", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1988", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=137531", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1987", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=5172", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1986", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=5171", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1984", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=5170", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1981", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=5169", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1980", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=5168", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1979", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=137564", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1978", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=136881", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=937&clave_busqueda=1977", 
-        "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=937&clave_busqueda=136601"
-    ], 
+    "subordinate_resources": [], 
     "title": "Memorias de historia antigua", 
     "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=937", 
     "volume": null, 

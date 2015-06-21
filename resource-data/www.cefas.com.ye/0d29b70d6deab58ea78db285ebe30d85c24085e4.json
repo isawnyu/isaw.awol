@@ -3,7 +3,7 @@
     "domain": "www.cefas.com.ye", 
     "identifiers": {
         "issn": {
-            "electronic": [
+            "generic": [
                 "1015-4523"
             ]
         }
@@ -45,32 +45,17 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-800904006935888018", 
             "resource_date": "2013-07-10T13:33:41.745-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-13T16:15:09.470958"
+            "when": "2015-06-20T16:13:42.008130"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journak-raydan-journal-of.html", 
             "resource_date": "2013-07-10T13:33:41.745-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-13T16:15:09.470975"
+            "when": "2015-06-20T16:13:42.008151"
         }
     ], 
     "related_resources": [], 
-    "subordinate_resources": [
-        "http://www.cefas.com.ye/spip.php?article520", 
-        "http://www.cefas.com.ye/spip.php?article521", 
-        "http://www.cefas.com.ye/IMG/pdf/raydan_8_antonini_cp.pdf", 
-        "http://www.cefas.com.ye/IMG/pdf/raydan_8_breton_cp.pdf", 
-        "http://www.cefas.com.ye/IMG/pdf/raydan_8_bron.pdf", 
-        "http://www.cefas.com.ye/IMG/pdf/raydan_8_brunner.pdf", 
-        "http://www.cefas.com.ye/IMG/pdf/raydan_8_crassard.pdf", 
-        "http://www.cefas.com.ye/IMG/pdf/raydan_8_darles.pdf", 
-        "http://www.cefas.com.ye/IMG/pdf/raydan_8_frantsouzoff_prioletta.pdf", 
-        "http://www.cefas.com.ye/IMG/pdf/raydan_8_gajda_arbach_hajj.pdf", 
-        "http://www.cefas.com.ye/IMG/pdf/raydan_8_maraqten_sholanj.pdf", 
-        "http://www.cefas.com.ye/IMG/pdf/raydan_8_pickworth.pdf", 
-        "http://www.cefas.com.ye/IMG/pdf/raydan_8_robin_arbach.pdf", 
-        "http://www.cefas.com.ye/spip.php?article521"
-    ], 
+    "subordinate_resources": [], 
     "title": "Rayd\u0101n: journal of ancient Yemeni antiquities and epigraphy", 
     "url": "http://www.cefas.com.ye/spip.php?article520", 
     "volume": null, 
