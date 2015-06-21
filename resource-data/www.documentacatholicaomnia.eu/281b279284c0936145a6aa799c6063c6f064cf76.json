@@ -3,7 +3,13 @@
     "domain": "www.documentacatholicaomnia.eu", 
     "identifiers": {}, 
     "is_part_of": null, 
-    "keywords": [], 
+    "keywords": [
+        "database", 
+        "religion", 
+        "church", 
+        "data", 
+        "Christianity"
+    ], 
     "language": [
         "la", 
         1.0
@@ -29,18 +35,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1862134636646060613", 
             "resource_date": "2013-12-26T11:01:51.612-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-21T22:23:32.878344"
+            "when": "2015-06-21T23:07:03.209058"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/10/documenta-catholica-omnia-online.html", 
             "resource_date": "2013-12-26T11:01:51.612-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-21T22:23:32.878361"
+            "when": "2015-06-21T23:07:03.209074"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Documenta Catholica Omnia online", 
+    "title": "Documenta Catholica Omnia - Multilanguage Catholic E-Book Database of all the Writings of Holy Popes, Councils, Church Fathers and Doctors, and Allied Auctors", 
     "url": "http://www.documentacatholicaomnia.eu/", 
     "volume": null, 
     "year": null, 

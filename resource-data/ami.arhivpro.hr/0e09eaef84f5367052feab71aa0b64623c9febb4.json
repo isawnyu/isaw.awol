@@ -8,7 +8,10 @@
         "archaeology", 
         "digital library"
     ], 
-    "language": null, 
+    "language": [
+        "hr", 
+        0.9999899067596059
+    ], 
     "provenance": [
         {
             "fields": [
@@ -30,18 +33,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6674289737873967526", 
             "resource_date": "2012-01-29T08:01:14.277-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-21T22:24:41.663212"
+            "when": "2015-06-21T23:08:09.724865"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/digital-library-of-istria.html", 
             "resource_date": "2012-01-29T08:01:14.277-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-21T22:24:41.663236"
+            "when": "2015-06-21T23:08:09.724880"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "Digital Library of the Istria Archaeological Museum", 
+    "title": "Arheolo\u0161ki Muzej Istre", 
     "url": "http://ami.arhivpro.hr/", 
     "volume": null, 
     "year": null, 

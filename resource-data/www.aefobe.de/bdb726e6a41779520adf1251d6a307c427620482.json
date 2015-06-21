@@ -11,7 +11,10 @@
         "Egyptomania", 
         "series"
     ], 
-    "language": null, 
+    "language": [
+        "de", 
+        0.9999992902577585
+    ], 
     "provenance": [
         {
             "fields": [
@@ -33,18 +36,18 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7451218649349425126", 
             "resource_date": "2012-09-24T10:25:00.814-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-06-21T22:24:51.223425"
+            "when": "2015-06-21T23:08:19.423232"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/new-online-publication-series-from.html", 
             "resource_date": "2012-09-24T10:25:00.814-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-06-21T22:24:51.223441"
+            "when": "2015-06-21T23:08:19.423247"
         }
     ], 
     "related_resources": [], 
     "subordinate_resources": [], 
-    "title": "New Online Publication Series from the Aegypten Forum Berlin e.V.", 
+    "title": "Aegypten Forum Berlin e.V", 
     "url": "http://www.aefobe.de/html/frameset.html", 
     "volume": null, 
     "year": null, 

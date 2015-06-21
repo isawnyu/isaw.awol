@@ -39,7 +39,7 @@ class Parser(AwolDomainParser):
         if anchor_title == u"newsletter's home page here" and article_title == u'ákoue News':
             return (article_title,)
         else:
-            return AwolDomainParser._recocile_titles(self, anchor_title, article_title)
+            return AwolDomainParser._reconcile_titles(self, anchor_title, article_title)
             
 
 
