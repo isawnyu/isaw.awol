@@ -88,7 +88,7 @@ class Article():
         # title of blog post should be same as title of atom entry
         raw_title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text)
         try:
-            self.title = normalize_space(unicodedata.normalize('NFC', raw_title))
+            self.title = purify_html(normalize_space(unicodedata.normalize('NFC', raw_title)))
         except TypeError:
             msg = 'could not extract blog post title for article with id: "{0}"'.format(self.id)
             raise RuntimeWarning(msg)
