@@ -184,3 +184,22 @@ def test_parsers_issue56():
     r = resources[0]
     assert_equals(r.title, u'OIP 139. Early Megiddo on the East Slope (the “Megiddo Stages”): A Report on the Early Occupation of the East Slope of Megiddo (Results of the Oriental Institute’s Excavations, 1925-1933)')
 
+@with_setup(setup_function, teardown_function)
+def test_parsers_omit_by_title():
+    """Make sure colon-omit articles and overall omit articles are ignored."""
+    logger = logging.getLogger(sys._getframe().f_code.co_name)
+
+    #file_name = os.path.join(PATH_TEST_DATA, 'post-admin-colon.xml')
+    #a = AwolArticle(atom_file_name=file_name)
+    #parsers = AwolParsers()
+    #resources = parsers.parse(a)
+    #assert_is_none(resources)
+    #del resources
+    #del a
+    file_name = os.path.join(PATH_TEST_DATA, 'post-admin.xml')
+    a = AwolArticle(atom_file_name=file_name)
+    parsers = AwolParsers()
+    resources = parsers.parse(a)
+    assert_is_none(resources)
+
+
