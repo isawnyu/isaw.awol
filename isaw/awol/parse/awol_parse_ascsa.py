@@ -34,8 +34,8 @@ class Parser(AwolDomainParser):
     def _reconcile_titles(self, anchor_title=None, article_title=None):
         """Override some ASCSA titles."""
         logger = logging.getLogger(sys._getframe().f_code.co_name)
-        logger.debug(u'anchor_title: "{0}"'.format(anchor_title))
-        logger.debug(u'article_title: "{0}"'.format(article_title))
+        #logger.debug(u'anchor_title: "{0}"'.format(anchor_title))
+        #logger.debug(u'article_title: "{0}"'.format(article_title))
         if anchor_title == u"newsletter's home page here" and article_title == u'ákoue News':
             return (article_title,)
         else:
