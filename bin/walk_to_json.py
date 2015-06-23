@@ -22,7 +22,8 @@ from pyzotero import zotero
 from isaw.awol import awol_article
 from isaw.awol.parse.awol_parsers import AwolParsers
 
-
+RX_URLFLAT = re.compile(u'[=+\?\{\}\{\}\(\)\\\-_&%#/,\.]+')
+RX_DEDUPEH = re.compile(u'[-]+')
 DEFAULTLOGLEVEL = logging.WARNING
 
 def arglogger(func):
@@ -79,16 +80,6 @@ def main (args):
                             logger.warning('found {0} resources in {1}'.format(length, file_name))
                         if length > 0:
                             for i,r in enumerate(resources):
-                                #this_id = '-'.join((awol_id, format(i+1, '04')))
-                                #this_path = os.path.join(dest_dir, '.'.join((this_id, 'json')))
-                                #this_dir = os.path.join(dest_dir, this_hash[:6])
-                                #try:
-                                #    os.makedirs(this_dir)
-                                #except OSError as exc:
-                                #    if exc.errno == errno.EEXIST and os.path.isdir(path):
-                                #        pass
-                                #    else: raise
-                                #this_path = os.path.join(this_dir, '.'.join((this_hash[6:], 'json')))
                                 this_dir = os.path.join(dest_dir, r.domain)
                                 logger.debug('saving output to subdirectory: {0}'.format(this_dir))
                                 try:
@@ -97,36 +88,25 @@ def main (args):
                                     if exc.errno == errno.EEXIST and os.path.isdir(this_dir):
                                         pass
                                     else: raise
-                                #rx = re.compile('^https?\:\/\/{0}\/?(.+)$'.format(r.domain.replace('.', '\.')), re.IGNORECASE)
-                                #m = rx.match(r.url)
-                                #if m is None:
-                                #    raise Exception
-                                #else:
-                                #    filename = '.'.join((m.groups()[0], '.json'))
-                                m = hashlib.sha1()
-                                m.update(awol_id)
-                                m.update(format(i+1, '04'))
-                                this_hash = m.hexdigest()
-                                filename = '.'.join((this_hash, 'json'))
-                                logger.debug('url: {0}'.format(r.url))
-                                logger.debug('filename: {0}'.format(filename))
-                                logger.debug(u'r: {0}'.format(unicode(r)))
-                                this_path = os.path.join(this_dir, filename)
-                                
-                                r.json_dump(this_path, formatted=True)
                                 try:
                                     domain_index = index[r.domain]
                                 except KeyError:
                                     domain_index = index[r.domain] = {}
+                                resource_key = RX_DEDUPEH.sub(u'-', RX_URLFLAT.sub(u'-', r.url.split(r.domain)[-1][1:]).lower()).strip(u'-')
+                                if resource_key in domain_index.keys():
+                                    logger.error('collision: {0}:{1}'.format(r.domain, resource_key))
+                                else:
+                                    filename = '.'.join((resource_key, 'json'))
+                                    this_path = os.path.join(this_dir, filename)                                
+                                    r.json_dump(this_path, formatted=True)
                                 try:
                                     resource_title = r.extended_title
                                 except AttributeError:
                                     resource_title = r.title
-                                resource_key = resource_title.replace(u' ', u'-').lower()
                                 resource_package = {
                                     'title_full': resource_title,
                                     'url': r.url,
-                                    'sha1': this_hash,
+                                    'key': resource_key,
                                 }
                                 if resource_title != r.title:
                                     resource_package['title'] = r.title
@@ -135,8 +115,6 @@ def main (args):
                                 except KeyError:
                                     resource_list = domain_index[resource_key] = []
                                 resource_list.append(resource_package)
-                                if len(resource_list) > 1:
-                                    logger.debug(u'resource key collision (count={0}): "{1}"'.format(len(resource_list), resource_key))
             else:
                 logger.debug('skipping {0}'.format(file_name))
         for ignore_dir in ['.git', '.svn', '.hg']:
