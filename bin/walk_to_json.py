@@ -19,10 +19,10 @@ import sys
 import traceback
 
 from pyzotero import zotero
-from isaw.awol import awol_article
+from isaw.awol import awol_article, resource
 from isaw.awol.parse.awol_parsers import AwolParsers
 
-RX_URLFLAT = re.compile(u'[=+\?\{\}\{\}\(\)\\\-_&%#/,\.]+')
+RX_URLFLAT = re.compile(u'[=+\?\{\}\{\}\(\)\\\-_&%#/,\.;:]+')
 RX_DEDUPEH = re.compile(u'[-]+')
 DEFAULTLOGLEVEL = logging.WARNING
 
@@ -93,12 +93,31 @@ def main (args):
                                 except KeyError:
                                     domain_index = index[r.domain] = {}
                                 resource_key = RX_DEDUPEH.sub(u'-', RX_URLFLAT.sub(u'-', r.url.split(r.domain)[-1][1:]).lower()).strip(u'-')
+                                if len(resource_key) > 200:
+                                    resource_keylets = resource_key.split(u'-')
+                                    resource_key = u''
+                                    for i,keylet in enumerate(resource_keylets):
+                                        if len(resource_key) + len(keylet) > 200:
+                                            break
+                                        resource_key = u'-'.join((resource_key, keylet))
+                                filename = '.'.join((resource_key, 'json'))
+                                this_path = os.path.join(this_dir, filename)                                
                                 if resource_key in domain_index.keys():
-                                    logger.error('collision: {0}:{1}'.format(r.domain, resource_key))
-                                else:
-                                    filename = '.'.join((resource_key, 'json'))
-                                    this_path = os.path.join(this_dir, filename)                                
-                                    r.json_dump(this_path, formatted=True)
+                                    # collision! load earlier version from disk and merge
+                                    logger.warning('\n\n\n\n###########\ncollision: {0}:{1}'.format(r.domain, resource_key))
+                                    print('current:\n')
+                                    print(unicode(r))
+                                    r_earlier = resource.Resource()
+                                    r_earlier.json_load(this_path)
+                                    print('earlier:\n')
+                                    print(unicode(r_earlier))
+                                    r_merged = resource.merge(r_earlier, r)
+                                    print('merged:\n')
+                                    print(unicode(r_merged))
+                                    raise Exception
+                                    del r_earlier
+                                    r = r_merged
+                                r.json_dump(this_path, formatted=True)
                                 try:
                                     resource_title = r.extended_title
                                 except AttributeError:

@@ -8,6 +8,7 @@ This module defines the following classes:
  * Resource: Extracts and represents key information about a web resource.
 """
 
+import copy
 import datetime
 import json
 import logging
@@ -17,7 +18,9 @@ from wikidata_suggest import suggest
 
 PROVENANCE_VERBS = {
     'citesAsMetadataDocument': 'http://purl.org/spar/cito/citesAsMetadataDocument',
-    'citesAsDataSource': 'http://purl.org/spar/cito/citesAsDataSource'
+    'citesAsDataSource': 'http://purl.org/spar/cito/citesAsDataSource',
+    'hasWorkflowMotif': 'http://purl.org/net/wf-motifs#hasWorkflowMotif',
+    'Combine': 'http://purl.org/net/wf-motifs#Combine'
 }
 
 class Resource:
@@ -174,6 +177,87 @@ class Resource:
             subordinate = [r.title for r in self.subordinate_resources],
             related = [r.title for r in self.related_resources])
         return s
+
+def merge(r1, r2):
+    """Merge two resources into oneness."""
+
+    r3 = Resource()
+    modified_fields = []
+    k1 = r1.__dict__.keys()
+    k2 = r2.__dict__.keys()
+    all_keys = list(set(k1 + k2))
+    for k in all_keys:
+        modified = False
+        v3 = None
+        try:
+            v1 = copy.deepcopy(r1.__dict__[k])
+        except KeyError:
+            v1 = None
+        try:
+            v2 = copy.deepcopy(r2.__dict__[k])
+        except KeyError:
+            v2 = None
+
+        if k in ['url',]:
+            if v1 != v2:
+                raise Error(u'cannot merge two resources in which the {0} field differs: "{1}" vs. "{2}"'.format(k, v1, v2))
+            else:
+                v3 = v1
+                modified = True
+        else:
+            modified = True
+            if v1 is None and v2 is None:
+                v3 = None
+                modified = False
+            # prefer some data over no data
+            elif v1 is None and v2 is not None:
+                v3 = v2
+            elif v1 is not None and v2 is None:
+                v3 = v1
+            elif k in ['volume', 'year', 'is_part_of', 'zotero_id']:
+                if v1 == v2:
+                    v3 = v1
+                    modified = False
+                else:
+                    raise Error(u'cannot merge two resources in which the {0} field differs: "{1}" vs. "{2}"'.format(k, v1, v2))
+            elif k == 'language':
+                if v1[0] == v2[0]:
+                    v3 = copy.deepcopy(v1)
+                    if v1[1] != v2[1]:
+                        v3[1] = min(v1[1], v2[1])
+                else:
+                    v3 = None   # if parsers didn't agree, then don't assert anything
+            elif k == 'identifiers':
+                pass
+            elif k in ['subordinate_resources', 'related_resources', 'keywords',]:
+                if len(v1) == 0 and len(v2) == 0:
+                    modified = False
+                v3 = list(set(v1 + v2))
+            elif type(v1) in [unicode, str, list]:
+                if len(v1) == 0 and len(v2) == 0:
+                    modified = False
+                    v3 = v1
+                elif v1 == v2:
+                    modified = False
+                    v3 = v1
+                # if one contains the other, prefer the container
+                elif v1 in v2:
+                    v3 = v2
+                elif v2 in v1:
+                    v3 = v1
+                # prefer the longer of the two
+                elif len(v1) > len(v2):
+                    v3 = v1
+                else:
+                    v3 = v2
+            elif k == 'provenance':
+                modified = False
+                v3 = v1 + v2
+        r3.__dict__[k] = v3
+        if modified:
+            modified_fields.append(k)
+    r3.set_provenance('http://purl.org/net/wf-motifs#Combine', 'hasWorkflowMotif', fields=modified_fields)
+    return r3
 
 
 def scriptinfo():
