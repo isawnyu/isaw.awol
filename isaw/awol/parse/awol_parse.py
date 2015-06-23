@@ -187,33 +187,33 @@ class AwolBaseParser:
     def _get_resources(self, article):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
 
+        logger.debug(u'getting resources from {0}: {1}'.format(article.id, article.title))
         if allow_by_title(article.title):
-            #logger.debug('getting resources from {0}'.format(article.id))
+            logger.debug(u'allowed by title')
             primary_resource = self._get_primary_resource(article)
-            #primary_resource.subordinate_resources = self._get_subordinate_resources(article)
-            #for sr in primary_resource.subordinate_resources:
-            #    parent = {
-            #        'title': primary_resource.title,
-            #        'url': primary_resource.url
-            #    }
-            #    if len(primary_resource.identifiers.keys()) > 0:
-            #        try:
-            #            parent['issn'] = primary_resource.identifiers['issn']['electronic'][0]
-            #        except KeyError:
-            #            try:
-            #                parent['issn'] = primary_resource.identifiers['issn']['generic'][0]
-            #            except KeyError:
-            #                try:
-            #                    parent['isbn'] = primary_resource.identifiers['isbn'][0]
-            #                except KeyError:
-            #                    pass                            
-            #    sr.is_part_of = parent
-            #    #logger.debug(sr)
-            #primary_resource.related_resources = self._get_related_resources()
-            ##logger.debug(u'got: "{0}"'.format(unicode(primary_resource)))
-            #foo = [primary_resource,] + primary_resource.subordinate_resources + primary_resource.related_resources
-            #return foo
-            return [primary_resource,]
+            primary_resource.subordinate_resources = self._get_subordinate_resources(article)
+            for sr in primary_resource.subordinate_resources:
+                parent = {
+                    'title': primary_resource.title,
+                    'url': primary_resource.url
+                }
+                if len(primary_resource.identifiers.keys()) > 0:
+                    try:
+                        parent['issn'] = primary_resource.identifiers['issn']['electronic'][0]
+                    except KeyError:
+                        try:
+                            parent['issn'] = primary_resource.identifiers['issn']['generic'][0]
+                        except KeyError:
+                            try:
+                                parent['isbn'] = primary_resource.identifiers['isbn'][0]
+                            except KeyError:
+                                pass                            
+                sr.is_part_of = parent
+                #logger.debug(sr)
+            primary_resource.related_resources = self._get_related_resources()
+            #logger.debug(u'got: "{0}"'.format(unicode(primary_resource)))
+            foo = [primary_resource,] + primary_resource.subordinate_resources + primary_resource.related_resources
+            return foo
         else:
             logger.warning(u"omitted by title: {0}".format(article.title))
             return None
