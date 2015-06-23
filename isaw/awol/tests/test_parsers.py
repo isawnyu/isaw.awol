@@ -202,12 +202,6 @@ def test_parsers_omit_by_title():
     resources = parsers.parse(a)
     assert_is_none(resources)
 
-    # this one should *not* get omitted
-    file_name = os.path.join(PATH_TEST_DATA, 'post-tla.xml')
-    a = AwolArticle(atom_file_name=file_name)
-    parsers = AwolParsers()
-    resources = parsers.parse(a)
-    assert_is_not_none(resources)
 
 
 
