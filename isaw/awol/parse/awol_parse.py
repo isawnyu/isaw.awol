@@ -209,9 +209,7 @@ class AwolBaseParser:
                             except KeyError:
                                 pass                            
                 sr.is_part_of = parent
-                #logger.debug(sr)
             primary_resource.related_resources = self._get_related_resources()
-            #logger.debug(u'got: "{0}"'.format(unicode(primary_resource)))
             foo = [primary_resource,] + primary_resource.subordinate_resources + primary_resource.related_resources
             return foo
         else:
@@ -365,7 +363,6 @@ class AwolBaseParser:
             keywords = self._parse_keywords(resource_title=title, resource_text=desc_text)
 
             # create and populate the resource object
-            r = Resource()
             params = {
                 'url': a.get('href'),
                 'domain': a.get('href').replace('http://', '').replace('https://', '').split('/')[0],
@@ -463,7 +460,7 @@ class AwolBaseParser:
         if s != u'':
             language = langid.classify(s)
             if language[1] >= LANGID_THRESHOLD:
-                return language
+                return list(language)
         return None
 
     def _get_description_html(self):
@@ -565,7 +562,6 @@ class AwolBaseParser:
         keywords = self._parse_keywords(article.title, titles[-1], article.categories)
 
         # create and populate the resource object
-        r = Resource()
         params = {
             'url': a.get('href'),
             'domain': a.get('href').replace('http://', '').replace('https://', '').split('/')[0],
@@ -595,13 +591,9 @@ class AwolBaseParser:
         resource.set_provenance(article.id, 'citesAsDataSource', updated, resource_fields)
         resource.set_provenance(article.url, 'citesAsMetadataDocument', updated)        
 
-    def _parse_keywords(self, post_title=None, resource_title=None, post_categories=[], resource_text=None):
-        """Infer and normalize resource tags."""
-
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-
+    def _mine_keywords(self, *args):
         tags = []
-        for s in (post_title, resource_title, resource_text):
+        for s in args:
             if s is not None:
                 lower_s = s.lower()
                 # mine for terms (i.e., single-word keys)
@@ -612,16 +604,27 @@ class AwolBaseParser:
                         tags.append(tag)
                 if u'open' in lower_list and u'access' in lower_list:
                     if u'partial' in lower_list:
-                        tags.append(u'mixed access')
+                        if u'partial open access' in lower_s:
+                            tags.append(u'mixed access')
                     else:
-                        tags.append(u'open access')
+                        if u'open access' in lower_s:
+                            tags.append(u'open access')
                 if 'series' in lower_list and 'lecture' not in lower_list:
                     tags.append(u'series')
                 # mine for phrases
                 for k in TITLE_SUBSTRING_PHRASES.keys():
                     if k in lower_s:
                         tag = TITLE_SUBSTRING_PHRASES[k]
-                        tags.append(tag)
+                        tags.append(tag)  
+        return tags
+
+    def _parse_keywords(self, post_title=None, resource_title=None, post_categories=[], resource_text=None):
+        """Infer and normalize resource tags."""
+
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+
+        # mine keywords from content
+        tags = self._mine_keywords(post_title, resource_title)
 
         # convert post categories to tags
         for c in post_categories:    
@@ -629,26 +632,20 @@ class AwolBaseParser:
             if 'kind#post' not in tag:
                 if tag in TITLE_SUBSTRING_TAGS.keys():
                     tag = TITLE_SUBSTRING_TAGS[tag]
-                elif c['term'] == u'Boğazköy':
-                    tag = u'Boğazköy'
-                elif c['term'] == u'Subsistenz und Umwelt im frühen Vorderasien':
-                    tag = u'Subsistenz und Umwelt im frühen Vorderasien'
                 else:
-                    logger.error(u'unexpected category tag: {0}'.format(c['term']))
+                    logger.error(u'unexpected category tag "{0}" in post with title "{1}"'.format(c['term'], post_title))
                     raise Exception
                 tags.append(tag)
+        return self._clean_keywords(tags)
 
-
-        # consolidate and normalize tags
-        tags = list(set(tags))
+    def _clean_keywords(self, raw_tags):
+        tags = list(set(raw_tags))
         keywords = []
         for tag in tags:
             if tag == u'':
                 pass
             elif u',' in tag:
                 keywords.extend(tag.split(u','))
-            #elif u'BoğAzköY' == tag:
-            #    keywords.append(u'Boğazköy')
             else:
                 keywords.append(tag)
         keywords = sorted([normalize_space(kw) for kw in list(set(keywords))], key=lambda s: s.lower())
@@ -660,7 +657,6 @@ class AwolBaseParser:
             elif tag != tag.lower():
                 print tag
                 raise Exception
-
         return list(set(keywords))
 
     def _reconcile_titles(self, anchor_title=None, article_title=None):

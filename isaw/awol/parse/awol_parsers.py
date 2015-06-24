@@ -47,11 +47,9 @@ class AwolParsers():
         self.content_soup = article.soup
         domains = self.get_domains()
         length = len(domains)
-        if length > 2:
-            raise NotImplementedError('awol_parsers cannot yet handle multiple domains in a single article: {0}'.format(domains))
-        elif length == 0:
+        if length == 0:
             raise NotImplementedError('awol_parsers does not know what to do with no domains in article: {0}'.format(article.id))
-        elif length == 1 or 'www.oxbowbooks.com' in domains:
+        else:
             try:
                 parser = self.parsers[domains[0]]
                 #logger.debug('using specialized parser for domain: {0}'.format(parser.domain))

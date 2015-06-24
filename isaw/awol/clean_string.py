@@ -30,7 +30,8 @@ def clean_string(raw):
     if len(chopped) > 2:
         cooked = u'.'.join(tuple(chopped[:2]))
         i = 2
-        while i < len(chopped) and len(cooked) < 40:
+        #while i < len(chopped) and len(cooked) < 40: why truncation?
+        while i < len(chopped):
             cooked = cooked + u'.' + chopped[i]
             i = i + 1
     else:
