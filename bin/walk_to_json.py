@@ -93,7 +93,9 @@ def main (args):
                                 except KeyError:
                                     domain_index = index[r.domain] = {}
                                 resource_key = RX_DEDUPEH.sub(u'-', RX_URLFLAT.sub(u'-', r.url.split(r.domain)[-1][1:]).lower()).strip(u'-')
-                                if len(resource_key) > 200:
+                                if resource_key == u'':
+                                    resource_key = r.domain.replace(u'.', u'-')
+                                elif len(resource_key) > 200:
                                     if u'?' in r.url:
                                         m = hashlib.sha1()
                                         m.update(r.url)
