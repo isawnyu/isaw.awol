@@ -203,6 +203,7 @@ def merge(r1, r2):
     k1 = r1.__dict__.keys()
     k2 = r2.__dict__.keys()
     all_keys = list(set(k1 + k2))
+    domain = r1.domain
     for k in all_keys:
         modified = False
         v3 = None
@@ -230,7 +231,22 @@ def merge(r1, r2):
                 v3 = v2
             elif v1 is not None and v2 is None:
                 v3 = v1
-            elif k in ['volume', 'year', 'is_part_of', 'zotero_id']:
+            elif k == 'is_part_of':
+                if v1 == v2:
+                    v3 = v1
+                    modified = False
+                else:
+                    if domain in v1['url']:
+                        v3 = v1
+                    elif domain in v2['url']:
+                        v3 = v2
+                    elif 'issn' in v1.keys() and not('issn' in v2.keys()):
+                        v3 = v1
+                    elif 'issn' in v2.keys() and not('issn' in v1.keys()):
+                        v3 = v2
+                    else:
+                        v3 = None
+            elif k in ['volume', 'year', 'zotero_id']:
                 if v1 == v2:
                     v3 = v1
                     modified = False
