@@ -8,7 +8,7 @@ This module defines the following classes:
  * AwolParser: parse AWOL blog post content for resources
 """
 
-from copy import copy
+from copy import copy, deepcopy
 import logging
 import pkg_resources
 import re
@@ -31,6 +31,20 @@ DOMAINS_IGNORE = [
 DOMAINS_SELF = [
     'ancientworldonline.blogspot.com',
 ]
+BIBLIO_SOURCES = {
+    'zenon.dainst.org': {
+        'url_pattern': re.compile(u'^https?:\/\/zenon.dainst.org/Record/\d+\/?$'),
+        'url_append': '/RDF',
+        'type': 'application/rdf+xml',
+        'namespaces' : {
+            'rdf': 'http://www.w3.org/1999/02/22-rdf-syntax-ns#',
+            'mods': 'http://www.loc.gov/mods/v3'
+        },
+        'payload_xpath': '//rdf:Description[1]/mods:mods[1]',
+        'payload_type': 'application/mods+xml'
+    }
+}
+DOMAINS_BIBLIOGRAPHIC = BIBLIO_SOURCES.keys()
 ANCHOR_TEXT_IGNORE = [
     u'contact us',
 ]
@@ -161,6 +175,8 @@ class AwolBaseParser:
     def get_domains(self, content_soup=None):
         """Determine domains of resources linked in content."""
 
+        #logger = logging.getLogger(sys._getframe().f_code.co_name)
+
         if content_soup is not None:
             self.reset(content_soup)
 
@@ -172,13 +188,18 @@ class AwolBaseParser:
             urls = list(set(urls))
             domains = [domain_from_url(url) for url in urls]
             domains = list(set(domains))
+            #logger.debug(u'domain set: \n   {0}'.format(u'\n   '.join(domains)))
             domains = [domain for domain in domains if domain not in self.skip_domains]
+            #logger.debug(u'domain after skips: \n   {0}'.format(u'\n   '.join(domains)))
+            if len(domains) > 1:
+                domains = [domain for domain in domains if domain not in self.bibliographic_domains]
             c['domains'] = domains
+        #logger.debug(u'get_domains got: \n   {0}'.format(u'\n   '.join(c['domains'])))
         return c['domains']
 
     def parse(self, article):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
-        #logger.debug('parsing {0}'.format(article.id))
+        logger.info('parsing {0}'.format(article.id))
         c = self.content
         self.reset(article.soup)
         resources = self._get_resources(article)
@@ -283,7 +304,7 @@ class AwolBaseParser:
             if len(identifiers.keys()) > 0:
                 params['identifiers'] = identifiers
             if language is not None:
-                params['language'] = language
+                params['languages'] = language
             if len(keywords) > 0:
                 params['keywords'] = keywords
             resource = self._make_resource(**params)
@@ -373,7 +394,7 @@ class AwolBaseParser:
             if len(identifiers.keys()) > 0:
                 params['identifiers'] = identifiers
             if language is not None:
-                params['language'] = language
+                params['languages'] = language
             if len(keywords) > 0:
                 params['keywords'] = keywords
             if volume is not None:
@@ -433,7 +454,7 @@ class AwolBaseParser:
         if len(desc_lines) == 0:
             desc_text = None
         else:
-            #logger.debug(u'before dedupe: {0}'.format(u'\n'.join(desc_lines)))
+            logger.debug(u'before dedupe: {0}'.format(u'\n'.join(desc_lines)))
             desc_text = deduplicate_lines(u'\n'.join(desc_lines))
             if len(desc_text) == 0:
                 desc_text = None
@@ -449,7 +470,7 @@ class AwolBaseParser:
                 elif desc_text[-1] != u'.':
                     desc_text += u'.'
 
-        #logger.debug(u"desc_text: {0}".format(desc_text))
+        logger.debug(u"desc_text: {0}".format(desc_text))
 
         return desc_text        
 
@@ -460,14 +481,17 @@ class AwolBaseParser:
         if s != u'':
             language = langid.classify(s)
             if language[1] >= LANGID_THRESHOLD:
-                return list(language)
+                return language[0]
         return None
 
-    def _get_description_html(self):
+    def _get_description_html(self, context=None):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
-        c = self.content
-        soup = c['soup']
-        first_node = soup.body.contents[0]
+        if context is None:
+            c = self.content
+            soup = c['soup']
+            first_node = soup.body.contents[0]
+        else:
+            first_node = context
         #logger.debug(unicode(first_node))
         last_node = None
         for tag_name in ['blockquote',]:
@@ -547,10 +571,7 @@ class AwolBaseParser:
         # description
         html = self._get_description_html()
         this_soup = BeautifulSoup(html)
-        #logger.debug(u'description soup: \n\n{0}'.format(unicode(this_soup)))
-        #logger.debug(u'description text: \n\n{0}'.format(this_soup.get_text()))
         desc_text = self._get_description(this_soup)
-        #logger.debug(u'got desc_text: \n\n{0}'.format(desc_text))
 
         # parse identifiers
         identifiers = self._parse_identifiers(desc_text)
@@ -574,7 +595,7 @@ class AwolBaseParser:
         if title_extended is not None:
             params['title_extended'] = title_extended
         if language is not None:
-            params['language'] = language
+            params['languages'] = language
         if len(keywords) > 0:
             params['keywords'] = keywords
         resource = self._make_resource(**params)
@@ -585,9 +606,12 @@ class AwolBaseParser:
         #logger.debug(u'returning resource: "{0}"'.format(unicode(resource)))
         return resource
 
-    def _set_provenance(self, resource, article):
-        updated = article.root.xpath("//*[local-name()='updated']")[0].text.strip()   
-        resource_fields = sorted([k for k in resource.__dict__.keys() if '_' != k[0]])
+    def _set_provenance(self, resource, article, fields=None):
+        updated = article.root.xpath("//*[local-name()='updated']")[0].text.strip()  
+        if fields is None: 
+            resource_fields = sorted([k for k in resource.__dict__.keys() if '_' != k[0]])
+        else:
+            resource_fields = fields
         resource.set_provenance(article.id, 'citesAsDataSource', updated, resource_fields)
         resource.set_provenance(article.url, 'citesAsMetadataDocument', updated)        
 
@@ -681,9 +705,50 @@ class AwolBaseParser:
             return (anchor_title,)
 
     def _make_resource(self, **kwargs):
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
         r = Resource()
+
         for k,v in kwargs.items():
-            setattr(r, k, v)
+            #logger.debug(u'_make_resource_processing {0}={1}'.format(k, v))
+            if type(v) == list:
+                value = v
+            elif type(v) in [unicode, str]:
+                value = [v, ]
+            elif type(v) == tuple:
+                value = v
+            elif type(v) == dict:
+                value = v
+            else:
+                value = list(v) 
+            try:
+                curv = getattr(r, k)
+            except AttributeError:
+                raise AttributeError(u'{k} is not a valid attribute for a resource'.format(k=k))
+            else:
+                if curv == None:
+                    setattr(r, k, value[0])
+                    if len(value) > 1:
+                        raise Exception('rats')
+                elif type(curv) == list:
+                    value_new = deepcopy(curv)
+                    value_new.extend(value)
+                    setattr(r, k, value_new)
+                elif type(curv) == dict and type(value) == tuple:
+                    value_new = deepcopy(curv)
+                    value_new[value[0]] = value[1]
+                    setattr(r, k, value_new)
+                elif type(curv) == dict and type(value) == dict:
+                    value_new = deepcopy(curv)
+                    for kk in value.keys():
+                        value_new[kk] = value[kk]
+                    setattr(r, k, value_new)
+                else:
+                    logger.debug(u'k={0}'.format(k))
+                    logger.debug(value)
+                    logger.debug(u'type(curv)= {0}'.format(type(curv)))
+                    logger.debug(u'type(value)= {0}'.format(type(value)))
+                    raise Exception('bother')
+
         return r
 
     def _parse_identifiers(self, content_text):
@@ -816,7 +881,8 @@ class AwolBaseParser:
         return anchors
 
     def reset(self, content_soup=None):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
+        #logger = logging.getLogger(sys._getframe().f_code.co_name)
+        #logger.debug("******* reset!")
         self.content = {}
         c = self.content
         if content_soup is not None:
@@ -824,6 +890,7 @@ class AwolBaseParser:
         c['anchors'] = None
         c['domains'] = None
         self.skip_domains = copy(DOMAINS_IGNORE) + copy(DOMAINS_SELF)
+        self.bibliographic_domains = copy(DOMAINS_BIBLIOGRAPHIC)
         self.skip_text = copy(ANCHOR_TEXT_IGNORE)
         self.skip_urls = copy(ANCHOR_URLS_IGNORE)
 

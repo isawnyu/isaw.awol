@@ -69,6 +69,7 @@ class Parser(AwolDomainParser):
                     relatives.append(rr)
                 params = {
                     'authors': [clean_string(person.get_text()), ],
+                    'description': description,
                     'domain': domain_from_url(a.get('href')),
                     'keywords': self._parse_keywords(post_title=rr.title, resource_title=clean_string(a.get_text())),
                     'language': self._get_language(clean_string(a.get_text())),

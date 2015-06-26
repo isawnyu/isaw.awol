@@ -30,19 +30,36 @@ class Resource:
         """Set all attributes to default values."""
 
         self.authors = []
+        self.contributors = []
         self.description = None
         self.domain = None
-        self.subordinate_resources = []
+        self.editors = []
+        self.end_date = None
+        self.extent = None
+        self.form = None
+        self.frequency = None
         self.identifiers = {}
         self.is_part_of = None
+        self.issuance = None
+        self.issued_dates = None
         self.keywords = []
-        self.language = None
+        self.languages = []
+        self.places = []
         self.provenance = []
+        self.publishers = []
         self.related_resources = []
+        self.responsibility = []
+        self.start_date = None
+        self.subordinate_resources = []
         self.title = None
+        self.title_alternates = []
+        self.title_extended = None
+        self.type = None
         self.url = None
+        self.url_alternates = []
         self.volume = None
         self.year = None
+        self.zenon_id = None
         self.zotero_id = None
 
     def json_dumps(self, formatted=False):
@@ -160,44 +177,27 @@ class Resource:
         except AttributeError:
             title_extended = None
 
-        s = u"""
-        title: {title}
-        authors: {authors}
-        extended title: {titleextended}
-        url: {url}
-        description: {description}
-        language: {language}
-        domain: {domain}
-        keywords: {keywords}
-        identifiers: {identifiers}
-        part of: {partof}
-        volume: {volume}
-        year: {year}
-        related resources: {related}
-        subordinate resources: {subordinate}
-        provenance: {provenance}
-        """
-        s = s.format(
-            title = self.title,
-            authors = repr(self.authors),
-            titleextended = title_extended,
-            url = self.url,
-            description = self.description,
-            language = self.language,
-            domain = self.domain,
-            keywords = repr(self.keywords),
-            identifiers = repr(self.identifiers), 
-            partof = repr(self.is_part_of),
-            volume = self.volume,
-            year = self.year,
-            provenance = repr(self.provenance), 
-            subordinate = [r.title for r in self.subordinate_resources],
-            related = [r.title for r in self.related_resources])
+        s = u''
+        for k in sorted(self.__dict__.keys()):
+            v = self.__dict__[k]
+            if v is None:
+                pass
+            elif type(v) == unicode:
+                s += u'\n{k}: {v}'.format(k=k, v=v)
+            elif type(v) == str:
+                s += u'\n{k}: {v}'.format(k=k, v=unicode(v))
+            elif len(v) == 1:
+                s += u'\n{k}: {v}'.format(k=k, v=unicode(v))
+            else:
+                s += u'\n{k}: {vals}'.format(
+                    k=k,
+                    vals=u', '.join([unicode(val) for val in v]))
+        
         return s
 
 def merge(r1, r2):
     """Merge two resources into oneness."""
-
+    logger = logging.getLogger(sys._getframe().f_code.co_name)
     r3 = Resource()
     modified_fields = []
     k1 = r1.__dict__.keys()
@@ -205,6 +205,7 @@ def merge(r1, r2):
     all_keys = list(set(k1 + k2))
     domain = r1.domain
     for k in all_keys:
+        logger.debug("merging k={0}".format(k))
         modified = False
         v3 = None
         try:
@@ -218,7 +219,7 @@ def merge(r1, r2):
 
         if k in ['url',]:
             if v1 != v2:
-                raise Exce(u'cannot merge two resources in which the {0} field differs: "{1}" vs. "{2}"'.format(k, v1, v2))
+                raise Exception(u'cannot merge two resources in which the {0} field differs: "{1}" vs. "{2}"'.format(k, v1, v2))
             else:
                 v3 = v1
         else:
@@ -253,10 +254,14 @@ def merge(r1, r2):
                 else:
                     print('\n\n\n##########\nv1:')
                     print(unicode(v1))
-                    print('\n\n##########\nv2:')
+                    print(r1.url)
+                    print(r1.provenance)
+                    print('##########\nv2:')
                     print(unicode(v2))
+                    print(r2.url)
+                    print(r2.provenance)
                     raise Exception(u'cannot merge two resources in which the {0} field differs: "{1}" vs. "{2}"'.format(k, v1, v2))
-            elif k == 'language':
+            elif k == 'languages':
                 if v1[0] == v2[0]:
                     v3 = copy.deepcopy(v1)
                     if v1[1] != v2[1]:
@@ -266,7 +271,7 @@ def merge(r1, r2):
                 else:
                     v3 = None   # if parsers didn't agree, then don't assert anything
             elif k == 'identifiers':
-                pass
+                logger.warning("identifier merging is not implemented!")
             elif k in ['subordinate_resources', 'related_resources']:
                 if len(v1) == 0 and len(v2) == 0:
                     modified = False
@@ -279,11 +284,16 @@ def merge(r1, r2):
             elif k == 'provenance':
                 modified = False
                 v3 = v1 + v2
-            elif type(v1) == list:
-                v3 = set(v1 + v2)
-                if v3 == set(v1) and v3 == set(v2):
+            elif type(v1) == list and type(v2) == list:
+                if len(v1) == 0 and len(v2) == 0:
                     modified = False
-                v3 = list(v3)
+                    v3 = []
+                elif len(v1) == 0 and len(v2) > 0:
+                    v3 = v2
+                elif len(v1) > 0 and len(v2) == 0:
+                    v3 = v1
+                else:
+                    v3 = v1 + v2
             elif type(v1) in [unicode, str]:
                 if len(v1) == 0 and len(v2) == 0:
                     modified = False

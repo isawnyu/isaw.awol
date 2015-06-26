@@ -42,12 +42,14 @@ def test_parsers_init():
     parsers = AwolParsers()
     plist = parsers.parsers
     # trap for untested addition of a parser
-    assert_equals(len(plist.keys()), 4)    
+    assert_equals(len(plist.keys()), 6)    
     # test for known parsers
     assert_true('generic' in plist.keys())
-    assert_true('www.persee.fr' in plist.keys())
+    assert_true('generic-single' in plist.keys())
     assert_true('www.ascsa.edu.gr' in plist.keys())
     assert_true('oi.uchicago.edu' in plist.keys())
+    assert_true('othes.univie.ac.at' in plist.keys())
+    assert_true('www.ancientgrains.org' in plist.keys())
 
 @with_setup(setup_function, teardown_function)
 def test_parsers_get_domains():
@@ -83,6 +85,17 @@ def test_parsers_generic():
     del resources
 
 @with_setup(setup_function, teardown_function)
+def test_parsers_generic_external_biblio():
+    file_name = os.path.join(PATH_TEST_DATA, 'post-numismatico-dello-stato.xml')
+    a = AwolArticle(atom_file_name=file_name)
+    parsers = AwolParsers()
+    resources = parsers.parse(a)
+    r = resources[0]
+    assert_equals(r.identifiers, {'uri': ['http://www.numismaticadellostato.it/web/pns/notiziario']})
+    assert_equals(r.title, u'Notiziario del Portale Numismatico dello Stato')
+    assert_equals(sorted(r.keywords), sorted([u'journal', u'Italy', u'open access', u'numismatics']))
+
+@with_setup(setup_function, teardown_function)
 def test_parsers_persee():
 
     file_name = os.path.join(PATH_TEST_DATA, 'post-archeonautica.xml')
@@ -93,7 +106,7 @@ def test_parsers_persee():
     assert_equals(r.title, u'Archaeonautica')
     assert_equals(r.url, 'http://www.persee.fr/web/revues/home/prescript/revue/nauti')
     assert_equals(r.description, u'Archaeonautica. eISSN - 2117-6973. Archaeonautica est une collection créée en 1977 par le CNRS et le Ministère de la Culture à l’initiative de Bernard Liou. Publiée par CNRS Edition, le secrétariat de rédaction de la collection est assuré par le Centre Camille Jullian. Le but de la collection est la publication des recherches d’archéologie sous-marines ou, plus généralement, subaquatique, de la Préhistoire à l’époque moderne. Elle est aussi destinée à accueillir des études d’archéologie maritime et d’archéologie navale, d’histoire maritime et d’histoire économique.')
-    assert_equals(r.language, ('fr', 1.0))
+    assert_equals(r.languages, ['fr'])
     assert_equals(r.domain, 'www.persee.fr')
     assert_equals(sorted(r.keywords), sorted([u'France', u'journal', u'open access', u'archaeology', u'nautical archaeology']))
     assert_equals(r.identifiers, {'issn': {'electronic': [u'2117-6973']}})
@@ -130,7 +143,7 @@ def test_parsers_ascsa():
     r = resources[0]
     assert_equals(r.title, u'ákoue News')
     assert_equals(r.url, 'http://www.ascsa.edu.gr/index.php/publications/newsletter/')
-    assert_equals(r.description, u"\xe1koue News. The School's newsletter, \xe1koue, has become a new, shorter print publication as we transition an increasing number of news articles and stories to the School website. Often there will be links to additional photos or news in the web edition that we haven't room to place in the print edition. Also supplemental articles that did not make it into print will be placed on the newsletter's home page here. The last issue of \xe1koue had asked for subscribers to notify us of their delivery preference-print or web edition. If you have do wish to have a print edition mailed to you, please contact us.")
+    assert_equals(r.description, u"\xe1koue News. The School's newsletter, \xe1koue, has become a new, shorter print publication as we transition an increasing number of news articles and stories to the School website. Often there will be links to additional photos or news in the web edition that we haven't room to place in the print edition. Also supplemental articles that did not make it into print will be placed on the newsletter's home page here. The last issue of \xe1koue had asked for subscribers to notify us of their delivery preference--print or web edition. If you have do wish to have a print edition mailed to you, please contact us.")
     assert_equals(r.domain, 'www.ascsa.edu.gr')
     assert_equals(r.keywords, [u'ASCSA'])
     #assert_equals(len(r.subordinate_resources), 0)
