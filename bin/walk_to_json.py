@@ -57,7 +57,8 @@ def main (args):
             if 'post-' in file_name and file_name[-4:] == '.xml':
                 walk_count = walk_count + 1
                 if args.progress and walk_count % 100 == 1:
-                    print('\n*****************************\nPERCENT COMPLETE: {0:.0f}\n'.format(float(walk_count)/4261.0*100.0))
+                    logger.info('\n*****************************\nPERCENT COMPLETE: {0:.0f}\n'.format(float(walk_count)/4261.0*100.0))
+                logger.info('\n=========================================================================================\nARTICLE:\n')
                 logger.debug('handling {0}'.format(file_name))
                 target = os.path.join(dir_name, file_name)
                 try:
@@ -65,6 +66,8 @@ def main (args):
                 except (ValueError, RuntimeError) as e:
                     logger.warning(e)
                 else:
+                    logger.info(u'article title: {0}'.format(a.title))
+                    logger.info(u'url: {0}'.format(a.url))
                     awol_id = '-'.join(('awol', a.id.split('.')[-1]))
                     logger.debug('awol_id: {0}'.format(awol_id))
                     resources = None
@@ -79,7 +82,12 @@ def main (args):
                             length = 0
                             logger.warning('found {0} resources in {1}'.format(length, file_name))
                         if length > 0:
+                            logger.debug('preparing to save {0} resources'.format(length))
                             for i,r in enumerate(resources):
+                                logger.info(u'\n-----------------------------------------------------------------------------------------\nRESOURCE\n')
+                                logger.info(u'preparing to save resource for {0}'.format(r.url))
+                                logger.debug(u'domain: {0}'.format(r.domain))
+                                logger.info(u'title: {0}'.format(r.title))
                                 this_dir = os.path.join(dest_dir, r.domain)
                                 logger.debug('saving output to subdirectory: {0}'.format(this_dir))
                                 try:
@@ -124,7 +132,9 @@ def main (args):
                                     #raise Exception
                                     del r_earlier
                                     r = r_merged
+                                r.resource_key = resource_key
                                 r.json_dump(this_path, formatted=True)
+                                logger.info(u'wrote resource to {0}'.format(this_path))
                                 try:
                                     resource_title = r.extended_title
                                 except AttributeError:
