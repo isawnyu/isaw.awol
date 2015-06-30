@@ -199,7 +199,7 @@ class AwolBaseParser:
 
     def parse(self, article):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
-        logger.info('parsing {0}'.format(article.id))
+        logger.debug(u'parsing {0}'.format(article.url))
         c = self.content
         self.reset(article.soup)
         resources = self._get_resources(article)
@@ -212,27 +212,29 @@ class AwolBaseParser:
         if allow_by_title(article.title):
             logger.debug(u'allowed by title')
             primary_resource = self._get_primary_resource(article)
-            primary_resource.subordinate_resources = self._get_subordinate_resources(article)
-            for sr in primary_resource.subordinate_resources:
-                parent = {
-                    'title': primary_resource.title,
-                    'url': primary_resource.url
-                }
-                if len(primary_resource.identifiers.keys()) > 0:
+            parent = primary_resource.package()
+            if len(primary_resource.identifiers.keys()) > 0:
+                try:
+                    parent['issn'] = primary_resource.identifiers['issn']['electronic'][0]
+                except KeyError:
                     try:
-                        parent['issn'] = primary_resource.identifiers['issn']['electronic'][0]
+                        parent['issn'] = primary_resource.identifiers['issn']['generic'][0]
                     except KeyError:
                         try:
-                            parent['issn'] = primary_resource.identifiers['issn']['generic'][0]
+                            parent['isbn'] = primary_resource.identifiers['isbn'][0]
                         except KeyError:
-                            try:
-                                parent['isbn'] = primary_resource.identifiers['isbn'][0]
-                            except KeyError:
-                                pass                            
+                            pass           
+
+            subs = self._get_subordinate_resources(article)                 
+            for sr in subs:
                 sr.is_part_of = parent
-            primary_resource.related_resources = self._get_related_resources()
-            foo = [primary_resource,] + primary_resource.subordinate_resources + primary_resource.related_resources
-            return foo
+                primary_resource.subordinate_resources.append(sr.package())
+
+            rels = self._get_related_resources()
+            for rr in rels:
+                primary_resource.related_resources(append(rr.package()))
+
+            return [primary_resource,] + subs + rels
         else:
             logger.warning(u"omitted by title: {0}".format(article.title))
             return None
@@ -710,44 +712,46 @@ class AwolBaseParser:
 
         for k,v in kwargs.items():
             #logger.debug(u'_make_resource_processing {0}={1}'.format(k, v))
-            if type(v) == list:
-                value = v
-            elif type(v) in [unicode, str]:
-                value = [v, ]
-            elif type(v) == tuple:
-                value = v
-            elif type(v) == dict:
-                value = v
-            else:
-                value = list(v) 
-            try:
-                curv = getattr(r, k)
-            except AttributeError:
-                raise AttributeError(u'{k} is not a valid attribute for a resource'.format(k=k))
-            else:
-                if curv == None:
-                    setattr(r, k, value[0])
-                    if len(value) > 1:
-                        raise Exception('rats')
-                elif type(curv) == list:
-                    value_new = deepcopy(curv)
-                    value_new.extend(value)
-                    setattr(r, k, value_new)
-                elif type(curv) == dict and type(value) == tuple:
-                    value_new = deepcopy(curv)
-                    value_new[value[0]] = value[1]
-                    setattr(r, k, value_new)
-                elif type(curv) == dict and type(value) == dict:
-                    value_new = deepcopy(curv)
-                    for kk in value.keys():
-                        value_new[kk] = value[kk]
-                    setattr(r, k, value_new)
+            if v is not None:
+
+                if type(v) == list:
+                    value = v
+                elif type(v) in [unicode, str]:
+                    value = [v, ]
+                elif type(v) == tuple:
+                    value = v
+                elif type(v) == dict:
+                    value = v
                 else:
-                    logger.debug(u'k={0}'.format(k))
-                    logger.debug(value)
-                    logger.debug(u'type(curv)= {0}'.format(type(curv)))
-                    logger.debug(u'type(value)= {0}'.format(type(value)))
-                    raise Exception('bother')
+                    value = list(v) 
+                try:
+                    curv = getattr(r, k)
+                except AttributeError:
+                    raise AttributeError(u'{k} is not a valid attribute for a resource'.format(k=k))
+                else:
+                    if curv == None:
+                        setattr(r, k, value[0])
+                        if len(value) > 1:
+                            raise Exception('rats')
+                    elif type(curv) == list:
+                        value_new = deepcopy(curv)
+                        value_new.extend(value)
+                        setattr(r, k, value_new)
+                    elif type(curv) == dict and type(value) == tuple:
+                        value_new = deepcopy(curv)
+                        value_new[value[0]] = value[1]
+                        setattr(r, k, value_new)
+                    elif type(curv) == dict and type(value) == dict:
+                        value_new = deepcopy(curv)
+                        for kk in value.keys():
+                            value_new[kk] = value[kk]
+                        setattr(r, k, value_new)
+                    else:
+                        logger.debug(u'k={0}'.format(k))
+                        logger.debug(value)
+                        logger.debug(u'type(curv)= {0}'.format(type(curv)))
+                        logger.debug(u'type(value)= {0}'.format(type(value)))
+                        raise Exception('bother')
 
         return r
 

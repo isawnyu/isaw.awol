@@ -72,8 +72,8 @@ class Resource:
     def json_dump(self, filename, formatted=False):
         """Dump resource as JSON to a file."""
         dump = self.__dict__.copy()
-        dump['related_resources'] = [r.__dict__.copy() for r in self.related_resources]
-        dump['subordinate_resources'] = [r.__dict__.copy() for r in self.subordinate_resources]
+        dump['related_resources'] = [r.copy() for r in self.related_resources]
+        dump['subordinate_resources'] = [r.copy() for r in self.subordinate_resources]
         with open(filename, 'w') as f:
             if formatted:
                 json.dump(dump, f, indent=4, sort_keys=True)
@@ -89,20 +89,34 @@ class Resource:
         """Parse resource from a json file."""
         with open(filename, 'r') as f:
             self.__dict__ = json.load(f)
-        related = []
-        for d in self.related_resources:
-            r = Resource()
-            for k,v in d.items():
-                setattr(r, k, v)
-            related.append(r)
-        self.related_resources = related
-        subordinate = []
-        for d in self.subordinate_resources:
-            r = Resource()
-            for k,v in d.items():
-                setattr(r, k, v)
-            related.append(r)
-        self.subordinate_resources = subordinate
+        #related = []
+        #for d in self.related_resources:
+        #    r = Resource()
+        #    for k,v in d.items():
+        #        setattr(r, k, v)
+        #    related.append(r)
+        #self.related_resources = related
+        #subordinate = []
+        #for d in self.subordinate_resources:
+        #    r = Resource()
+        #    for k,v in d.items():
+        #        setattr(r, k, v)
+        #    related.append(r)
+        #self.subordinate_resources = subordinate
+
+    def package(self):
+        """Return a summary package of resource information."""
+        pkg = {}
+        try:
+            title = self.extended_title
+        except AttributeError:
+            title = self.title
+        pkg['title_full'] = title
+        pkg['url'] = self.url
+        if title != self.title:
+            pkg['title'] = self.title
+        return pkg
+
 
     def zotero_add(self, zot, creds, extras={}):
         """Upload as a record to Zotero."""
@@ -219,7 +233,15 @@ def merge(r1, r2):
 
         if k in ['url',]:
             if v1 != v2:
-                raise Exception(u'cannot merge two resources in which the {0} field differs: "{1}" vs. "{2}"'.format(k, v1, v2))
+                logger.warning(u'url mismatch in merge: {0} vs. {1}'.format(v1, v2))
+                if v1.startswith(v2):
+                    v3 = v2
+                    r3.__dict__['url_alternates'].append(v1)
+                elif v2.startswith(v1):
+                    v3 = v1
+                    r3.__dict__['url_alternates'].append(v2)
+                else:
+                    raise Exception(u'could not reconcile url mismatch in merge: {1} vs. {2}'.format(k, v1, v2))
             else:
                 v3 = v1
         else:
@@ -262,25 +284,27 @@ def merge(r1, r2):
                     print(r2.provenance)
                     raise Exception(u'cannot merge two resources in which the {0} field differs: "{1}" vs. "{2}"'.format(k, v1, v2))
             elif k == 'languages':
-                if v1[0] == v2[0]:
+                if len(v1) == 0 and len(v2) > 0:
+                    v3 = copy.deepcopy(v2)
+                elif len(v1) > 0 and len(v2) == 0:
                     v3 = copy.deepcopy(v1)
-                    if v1[1] != v2[1]:
-                        v3[1] = min(v1[1], v2[1])
-                    else:
-                        modified = False
+                elif len(v1) > 0 and len(v2) > 0:
+                    v3 = list(set(v1 + v2))
                 else:
-                    v3 = None   # if parsers didn't agree, then don't assert anything
+                    v3 = []
             elif k == 'identifiers':
                 logger.warning("identifier merging is not implemented!")
             elif k in ['subordinate_resources', 'related_resources']:
                 if len(v1) == 0 and len(v2) == 0:
                     modified = False
                 v3 = v1 + v2
-                urls = list(set([r.url for r in v3]))
-                resources = []
-                for url in urls:
-                    resources.append([r for r in v3 if r.url == url][0])
-                v3 = resources
+                seen = []
+                for v3_child in v3:
+                    if v3_child['url'] in seen:
+                        del(v3_child)
+                    else:
+                        seen.append(v3_child['url'])
+                del(seen)
             elif k == 'provenance':
                 modified = False
                 v3 = v1 + v2
@@ -293,7 +317,7 @@ def merge(r1, r2):
                 elif len(v1) > 0 and len(v2) == 0:
                     v3 = v1
                 else:
-                    v3 = v1 + v2
+                    v3 = list(set(v1 + v2))
             elif type(v1) in [unicode, str]:
                 if len(v1) == 0 and len(v2) == 0:
                     modified = False

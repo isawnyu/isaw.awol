@@ -116,6 +116,7 @@ class Parser(AwolBaseParser):
                         except KeyError:
                             rk = k
                         params[rk] = value
+                    params['domain'] = domain_from_url(biblio_data['url'][0])
                     top_resource = self._make_resource(**params)
                     try:
                         updated = biblio_data['record_change_date'][0]
@@ -123,6 +124,8 @@ class Parser(AwolBaseParser):
                         updated = biblio_data['record_creation_date'][0]
                     resource_fields = sorted([k for k in params.keys() if '_' != k[0]])
                     top_resource.set_provenance(biblio_url, 'citesAsDataSource', updated, resource_fields)
+                    if domain == 'zenon.dainst.org':
+                        top_resource.zenon_id = url.split(u'/')[-1]
                 else:
                     raise IOError("unsuccessfull attempt (status code {0}) " +
                         "to get bibliograhic data from {1}".format(
@@ -318,9 +321,9 @@ class Parser(AwolBaseParser):
                 try:
                     a_prev, a, url, domain = self._get_next_valid_url(a)
                 except ValueError as e:
-                    msg = u'{e} after handling bibliographic url {biblurl} in {article} with {parser} parser'.format(
+                    msg = u'{e} after handling url {url} in {article} with {parser} parser'.format(
                         e=e,
-                        biblurl=biblio_url,
+                        url=url,
                         article=article.url,
                         parser=self.domain)
                     logger.warning(msg)

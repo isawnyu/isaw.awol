@@ -60,7 +60,7 @@ class Parser(AwolDomainParser):
                     params = {
                         'domain': domain_from_url(f.get('href')),
                         'keywords': self._parse_keywords(resource_title=clean_string(f.get_text())),
-                        'language': self._get_language(clean_string(f.get_text())),
+                        'languages': self._get_language(clean_string(f.get_text())),
                         'title': clean_string(f.get_text()),                        
                         'url': f.get('href')
                     }
@@ -72,14 +72,14 @@ class Parser(AwolDomainParser):
                     'description': description,
                     'domain': domain_from_url(a.get('href')),
                     'keywords': self._parse_keywords(post_title=rr.title, resource_title=clean_string(a.get_text())),
-                    'language': self._get_language(clean_string(a.get_text())),
+                    'languages': self._get_language(clean_string(a.get_text())),
                     'title': clean_string(a.get_text()),
                     'url': a.get('href'),
                     'year': clean_string(person.next_sibling),
                 }
                 resource = self._make_resource(**params)
 
-                resource.related_resources.append(rr)
+                resource.related_resources.append(rr.package())
                 self._set_provenance(resource, article)
                 resources.append(resource)
             relative_urls = list(set([r.url for r in relatives]))
