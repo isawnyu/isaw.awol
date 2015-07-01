@@ -298,8 +298,54 @@ def merge(r1, r2):
                 else:
                     v3 = []
             elif k == 'identifiers':
-                logger.warning("identifier merging is not implemented!")
-                
+                if len(v1) == 0 and len(v2) > 0:
+                    v3 = copy.deepcopy(v2)
+                elif len(v1) > 0 and len(v2) == 0:
+                    v3 = copy.deepcopy(v1)
+                elif len(v1) > 0 and len(v2) > 0:
+                    v3 = {}
+                    idfams = list(set(v1.keys() + v2.keys()))
+                    for idfam in idfams:
+                        thisval1 = None
+                        thisval2 = None
+                        try:
+                            thisval1 = v1[idfam]
+                        except KeyError:
+                            pass
+                        try:
+                            thisval2 = v2[idfam]
+                        except KeyError:
+                            pass
+                        if type(thisval1) == list or type(thisval2) == list:
+                            v3[idfam] = []
+                            if thisval1 is not None:
+                                v3[idfam].extend(thisval1)
+                            if thisval2 is not None:
+                                v3[idfam].extend(thisval2)
+                            v3[idfam] = list(set(v3[idfam]))
+                        elif type(thisval1) == dict or type(thisval2) == dict:
+                            v3[idfam] = {}
+                            idtypes = list(set(thisval1.keys() + thisval2.keys()))
+                            for idtype in idtypes:
+                                thissubval1 = None
+                                thissubval2 = None
+                                try:
+                                    thissubval1 = v1[idfam][idtype]
+                                except KeyError:
+                                    pass
+                                try:
+                                    thissubval2 = v2[idfam][idtype]
+                                except KeyError:
+                                    pass
+                                v3[idfam][idtype] = []
+                                if thissubval1 is not None:
+                                    v3[idfam][idtype].extend(thissubval1)
+                                if thissubval2 is not None:
+                                    v3[idfam][idtype].extend(thissubval2)
+                                v3[idfam][idtype] = list(set(v3[idfam][idtype]))
+                else:
+                    v3 = {}
+
             elif k in ['subordinate_resources', 'related_resources']:
                 if len(v1) == 0 and len(v2) == 0:
                     modified = False
