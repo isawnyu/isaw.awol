@@ -40,6 +40,7 @@ class Resource:
         self.frequency = None
         self.identifiers = {}
         self.is_part_of = None
+        self.issue = None
         self.issuance = None
         self.issued_dates = None
         self.keywords = []

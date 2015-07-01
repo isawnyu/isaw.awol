@@ -65,7 +65,9 @@ class AwolParsers():
             try:
                 parser = self.parsers[domains[0]]
             except KeyError:
-                if u'journal:' in article.title.lower():
+                if article.url == 'http://ancientworldonline.blogspot.com/2010/05/open-access-journal-annuaire-du-musee.html':
+                    parser = self.parsers['generic']
+                elif u'journal:' in article.title.lower():
                     parser = self.parsers['generic-single']
                 else:
                     parser = self.parsers['generic']

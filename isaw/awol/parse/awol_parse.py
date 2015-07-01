@@ -162,6 +162,13 @@ del dreader
 TITLE_SUBSTRING_TERMS = {k:v for (k,v) in TITLE_SUBSTRING_TAGS.iteritems() if ' ' not in k}
 TITLE_SUBSTRING_PHRASES = {k:v for (k,v) in TITLE_SUBSTRING_TAGS.iteritems() if k not in TITLE_SUBSTRING_TERMS.keys()}
 RX_ANALYTIC_TITLES = [
+    # volume, issue, year (e.g. Bd. 52, Nr. 1 (2005))
+    {
+        'rx': re.compile(r'^Bd\.\s+(\d+),?\s+Nr\.\s+(\d+)\s+\(?(\d{4})\)?$', re.IGNORECASE),
+        'volume': 1,
+        'issue': 2,
+        'year': 3
+    },
     # year, then volume
     {
         'rx': re.compile(r'^[^\d]*(\d{4})\W*([\d\-]+)[^\d]*$', re.IGNORECASE),
@@ -179,6 +186,7 @@ RX_ANALYTIC_TITLES = [
         'rx': re.compile(r'^[^\d]*([\d\-]+)[^\d]*$', re.IGNORECASE),
         'volume': 1,
     },
+
 
 ]
 RX_PUNCT_FIX = re.compile(r'\s+([\.,:;]{1})')
@@ -566,7 +574,7 @@ class AwolBaseParser:
                         except KeyError:
                             pass           
 
-            subs = self._get_subordinate_resources(article)                 
+            subs = self._get_subordinate_resources(article, primary_resource.package())                 
             for sr in subs:
                 sr.is_part_of = parent
                 primary_resource.subordinate_resources.append(sr.package())
@@ -620,6 +628,7 @@ class AwolBaseParser:
             'domain': domain_from_url(anchor.get('href')),
             'title': title
         }
+        logger.debug("WAH: {0}".format(params['url']))
         if desc_text is not None:
             params['description'] = desc_text
         if len(identifiers.keys()) > 0:
@@ -633,6 +642,7 @@ class AwolBaseParser:
         if len(keywords) > 0:
             params['keywords'] = keywords
         resource = self._make_resource(**params)
+        logger.debug("WWWWWWW {0}".format(resource.url))
 
         # provenance
         self._set_provenance(resource, article)
@@ -649,8 +659,7 @@ class AwolBaseParser:
         try:
             biblio_howto = BIBLIO_SOURCES[domain]
         except KeyError:
-            msg = u'parsing structured bibliographic data from {0} is ' \
-            + u'not supported.'.format(domain)
+            msg = u'parsing structured bibliographic data from {0} is not supported.'.format(domain)
             raise NotImplementedError(msg)
         else:
             m = biblio_howto['url_pattern'].match(url)
@@ -692,6 +701,10 @@ class AwolBaseParser:
                             value = (k, biblio_data[k])
                         elif k == 'language':
                             value = [lang[0] for lang in biblio_data[k]]
+                        elif k == 'url':
+                            value = biblio_data[k][0]
+                            if len(biblio_data[k]) > 1:
+                                raise Exception
                         else:
                             value = biblio_data[k]
                         try:
@@ -715,10 +728,19 @@ class AwolBaseParser:
                             biblio_req.status_code, biblio_url))
             return top_resource
     
-    def _get_subordinate_resources(self, article):
+    def _get_subordinate_resources(self, article, parent_package, start_anchor=None):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
         resources = []
-        anchors = self._get_anchors()[1:]
+        anchors = self._get_anchors()
+        index = 0
+        if start_anchor is not None:
+            for i,a in enumerate(anchors):
+                if a == start_anchor:
+                    index = i
+                    break
+
+        logger.debug(u'parent_package : {0}'.format(repr(parent_package)))
+        anchors = [a for a in anchors[index:] if a.get('href').startswith(parent_package['url'])]
         for a in anchors:
             # title
             title_context = self._get_anchor_ancestor_for_title(a)
@@ -726,10 +748,10 @@ class AwolBaseParser:
 
             # try to extract volume and year
             try:
-                volume, year = self._grok_analytic_title(title)
+                volume, issue, year = self._grok_analytic_title(title)
             except TypeError:
-                volume = year = None
-            if volume is not None and year is None:
+                volume = year = issue = None
+            if volume is not None and year is None and issue is not None:
                 # sometimes more than one volume falls in a single list item b/c same year or parts
                 try:
                     parent_li = a.find_parents('li')[0]
@@ -750,9 +772,8 @@ class AwolBaseParser:
                                 year = cooked
 
             # description
-            next_node = title_context.next_element
+            next_node = title_context.next_sibling
             desc_text = self._get_description(next_node)
-
 
             # parse identifiers
             identifiers = self._parse_identifiers(desc_text)
@@ -767,7 +788,8 @@ class AwolBaseParser:
             params = {
                 'url': a.get('href'),
                 'domain': a.get('href').replace('http://', '').replace('https://', '').split('/')[0],
-                'title': title
+                'title': title,
+                'is_part_of': parent_package
             }
             if desc_text is not None:
                 params['description'] = desc_text
@@ -781,6 +803,8 @@ class AwolBaseParser:
                 params['volume'] = volume
             if year is not None:
                 params['year'] = year
+            if issue is not None:
+                params['issue'] = issue
             resource = self._make_resource(**params)
 
             self._set_provenance(resource, article)
@@ -806,13 +830,19 @@ class AwolBaseParser:
             if m is not None:
                 break
         if m is not None:
-            
-            if 'year' not in g.keys():
-                return (m.group(g['volume']), None)
-            elif 'volume' not in g.keys():
-                return (None, m.group(g['year']))
-            else:
-                return (m.group(g['volume'], g['year']))
+            try:
+                volume = m.group(g['volume'])
+            except KeyError:
+                volume = None
+            try:
+                issue = m.group(g['issue'])
+            except KeyError:
+                issue = None
+            try:
+                year = m.group(g['year'])
+            except KeyError:
+                year = None
+            return (volume, issue, year)            
 
     # keyword methods
     def _mine_keywords(self, *args):
@@ -888,13 +918,16 @@ class AwolBaseParser:
         r = Resource()
 
         for k,v in kwargs.items():
-            #logger.debug(u'_make_resource_processing {0}={1}'.format(k, v))
+            logger.debug(u'_make_resource_processing {0}={1}'.format(k, v))
             if v is not None:
 
                 if type(v) == list:
                     value = v
                 elif type(v) in [unicode, str]:
-                    value = [v, ]
+                    if k == 'url':
+                        value = v
+                    else:
+                        value = [v, ]
                 elif type(v) == tuple:
                     value = v
                 elif type(v) == dict:
@@ -906,7 +939,9 @@ class AwolBaseParser:
                 except AttributeError:
                     raise AttributeError(u'{k} is not a valid attribute for a resource'.format(k=k))
                 else:
-                    if curv == None:
+                    if curv == None and type(value) in [unicode, str, dict]:
+                        setattr(r, k, value)
+                    elif curv == None:
                         setattr(r, k, value[0])
                         if len(value) > 1:
                             raise Exception('rats')

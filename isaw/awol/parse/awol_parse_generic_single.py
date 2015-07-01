@@ -26,6 +26,7 @@ class Parser(AwolBaseParser):
 
         logger = logging.getLogger(sys._getframe().f_code.co_name)
         resources = []
+        relateds = []
         subordinates = []
         soup = article.soup
 
@@ -104,8 +105,9 @@ class Parser(AwolBaseParser):
         elif bib_resource is not None:
             top_resource = bib_resource
 
-        # parse subordinate resources
-        logger.warning("not yet parsing subordinates or relateds")
+        # parse subordinate and related resources
+        subordinates = self._get_subordinate_resources(article, top_resource.package(), start_anchor=a)
+        top_resource.subordinate_resources = [sub.package() for sub in subordinates]
 
-        return [top_resource,]
+        return [top_resource,] + subordinates + relateds
 

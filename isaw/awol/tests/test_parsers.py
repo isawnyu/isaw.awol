@@ -253,7 +253,14 @@ def test_parsers_issn_variation():
     a = AwolArticle(atom_file_name=file_name)
     parsers = AwolParsers()
     resources = parsers.parse(a)
-    r = resources[0]
-    assert_equals(r.identifiers, {'issn': {'electronic': [u'2198-9400'], 'generic': [u'0076-2741']}})
-
-
+    assert_equals(len(resources), 25)
+    rtop = resources[0]
+    assert_equals(rtop.identifiers, {'issn': {'electronic': [u'2198-9400'], 'generic': [u'0076-2741']}})
+    assert_equals(len(rtop.subordinate_resources), 24)
+    assert_equals(sorted([r.title for r in resources[1:]]), [u'Bd. 52, Nr. 1 (2005)',  u'Bd. 52, Nr. 2 (2005)',  u'Bd. 53, Nr. 1 (2006)',  u'Bd. 53, Nr. 2 (2006)',  u'Bd. 53, Nr. 3 (2006)',  u'Bd. 54, Nr. 1 (2007)',  u'Bd. 54, Nr. 2 (2007)',  u'Bd. 54, Nr. 3 (2007)',  u'Bd. 55, Nr. 1 (2008)',  u'Bd. 55, Nr. 2 (2008)',  u'Bd. 55, Nr. 3 (2008)',  u'Bd. 56, Nr. 1 (2009)',  u'Bd. 56, Nr. 2 (2009)',  u'Bd. 56, Nr. 3 (2009)',  u'Bd. 57, Nr. 1 (2010)',  u'Bd. 57, Nr. 2 (2010)',  u'Bd. 58, Nr. 1 (2011)',  u'Bd. 58, Nr. 2 (2011)',  u'Bd. 58, Nr. 3 (2011)',  u'Bd. 59, Nr. 1 (2012)',  u'Bd. 59, Nr. 2 (2012)',  u'Bd. 59, Nr. 3 (2012)',  u'Bd. 60, Nr. 1 (2013)',  u'Bd. 60, Nr. 2 (2013)'])
+    assert_equals(sorted(list(set([r.year for r in resources[1:]]))), [u'2005', u'2006', u'2007', u'2008', u'2009', u'2010', u'2011', u'2012', u'2013'])
+    assert_equals(sorted(list(set([r.volume for r in resources[1:]]))), [u'52', u'53', u'54', u'55', u'56', u'57', u'58', u'59', u'60'])
+    assert_equals(sorted(list(set([r.issue for r in resources[1:]]))), [u'1', u'2', u'3'])
+    kids = [kid['url'] for kid in rtop.subordinate_resources]
+    for url in [r.url for r in resources[1:]]:
+        assert_in(url, kids)
