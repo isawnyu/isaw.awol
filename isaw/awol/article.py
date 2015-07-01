@@ -115,12 +115,13 @@ class Article():
         
         # extract content, normalize, and parse as HTML for later use
         raw_content = unicode(root.find('{http://www.w3.org/2005/Atom}content').text)
-        content = normalize_space(unicodedata.normalize('NFC', raw_content))
+        soup = BeautifulSoup(raw_content)
+        content = unicode(soup)
+        content = normalize_space(unicodedata.normalize('NFC', content))
         content = purify_html(content)
         self.content = content
-        soup = BeautifulSoup(content)
         try:
-            html = exml.fromstring(str(soup))
+            html = exml.fromstring(content)
         except XMLSyntaxError:
             msg = 'XMLSyntaxError while trying to parse content of {0}'.format(atom_file_name)
             raise ValueError(msg)
