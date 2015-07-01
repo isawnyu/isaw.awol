@@ -97,7 +97,7 @@ def allow_by_title(title):
 RX_IDENTIFIERS = {
     'issn': {
         'electronic': [
-            re.compile(r'(e-|e)(issn[\s:]*[\dX\-]{4}[\-\s]+[\dX]{4})', re.IGNORECASE),
+            re.compile(r'(e-|e)(issn[\s:\-]*[\dX\-]{4}[\-\s]+[\dX]{4})', re.IGNORECASE),
             re.compile(r'(electronic|online|on-line|digital|internet)([\s:]*issn[^\d]*[\dX]{4}[\-\s]+[\dX]{4})', re.IGNORECASE),
             re.compile(r'(issn[\s\(\-]*)(electrónico|électronique|online|on-line|digital|internet)([^\d]*[\dX]{4}[\-\s]+[\dX]{4})', re.IGNORECASE),
             re.compile(r'(issn[^\d]*[\dX]{4}[\-\s]+[\dX]{4}[\s\(]*)(electrónico|électronique|online|on-line|digital)', re.IGNORECASE),
