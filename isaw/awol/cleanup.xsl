@@ -38,6 +38,7 @@
     <xsl:template match="*[local-name()='a'  and not(@href)]"/>       
     <xsl:template match="*[local-name()='a' and contains(@href, 'javascript')]"/>
     <xsl:template match="*[local-name()='a' and contains(@href, 'mailto')]"/>
+    <xsl:template match="*[local-name()='a' and starts-with(@href, 'data:image')]"/>
     
     <xsl:template match="*[local-name()='img' and not(ancestor::*[local-name()='a'])]"/>
     <xsl:template match="*[local-name()='a' and count(*[local-name()='img']) &gt; 0]">
