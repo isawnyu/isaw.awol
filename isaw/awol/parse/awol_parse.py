@@ -125,6 +125,14 @@ RX_IDENTIFIERS = {
         }
     }
 }
+
+RX_AUTHORS = [
+    re.compile(r'(compiled by |assembled by |created by |written by |authors?):?\s*([^\.]+)', re.IGNORECASE)
+]
+RX_EDITORS = [
+    re.compile(r'(edited by |editors?):?\s*([^\.]+)', re.IGNORECASE)
+]
+
 LANGID_THRESHOLD = 0.98
 title_strings_csv = pkg_resources.resource_stream('isaw.awol', 'awol_title_strings.csv')
 dreader = unicodecsv.DictReader(
@@ -272,18 +280,19 @@ class AwolBaseParser:
             title = clean_string(title_context.get_text())
 
             # description
-            html = u' {0}\n'.format(unicode(title_context))
+            #html = u' {0}\n'.format(unicode(title_context))
             next_node = title_context.next_element
-            while True:
-                html = html + u' {0}\n'.format(unicode(next_node))
-                if next_node.name in ['blockquote', 'hr', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'ul', 'p', 'div', 'ol']:
-                    break
-                next_node = next_node.next_element
-                if next_node is None:
-                    break
-            html = u'<div>\n' + html + u'\n</div>'
-            this_soup = BeautifulSoup(html)
-            desc_text = self._get_description(this_soup)
+            #while True:
+            #    html = html + u' {0}\n'.format(unicode(next_node))
+            #    if next_node.name in ['blockquote', 'hr', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'ul', 'p', 'div', 'ol']:
+            #        break
+            #    next_node = next_node.next_element
+            #    if next_node is None:
+            #        break
+            #html = u'<div>\n' + html + u'\n</div>'
+            #this_soup = BeautifulSoup(html)
+            #desc_text = self._get_description(this_soup)
+            desc_text = self._get_description(next_node)
 
             # parse identifiers
             identifiers = self._parse_identifiers(desc_text)
@@ -363,18 +372,20 @@ class AwolBaseParser:
                                 year = cooked
 
             # description
-            html = u' {0}\n'.format(unicode(title_context))
+            #html = u' {0}\n'.format(unicode(title_context))
             next_node = title_context.next_element
-            while True:
-                html = html + u' {0}\n'.format(unicode(next_node))
-                if next_node.name in ['blockquote', 'hr', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'ul', 'p', 'div', 'ol']:
-                    break
-                next_node = next_node.next_element
-                if next_node is None:
-                    break
-            html = u'<div>\n' + html + u'\n</div>'
-            this_soup = BeautifulSoup(html)
-            desc_text = self._get_description(this_soup)
+            #while True:
+            #    html = html + u' {0}\n'.format(unicode(next_node))
+            #    if next_node.name in ['blockquote', 'hr', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'ul', 'p', 'div', 'ol']:
+            #        break
+            #    next_node = next_node.next_element
+            #    if next_node is None:
+            #        break
+            #html = u'<div>\n' + html + u'\n</div>'
+            #this_soup = BeautifulSoup(html)
+            #desc_text = self._get_description_from_soup(this_soup)
+            desc_text = self._get_description(next_node)
+
 
             # parse identifiers
             identifiers = self._parse_identifiers(desc_text)
@@ -410,71 +421,87 @@ class AwolBaseParser:
             resources.append(resource)
         return resources
 
-    def _get_description(self, soup):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-        desc_nodes = soup.body.div.contents
-        desc_lines = []
-        for desc_node in desc_nodes:
-            #logger.debug(u'desc_node: \n    {0}'.format(unicode(desc_node)))
-            if type(desc_node) == NavigableString:
-                line = unicode(desc_node)
-                #logger.debug(u'  appending (A): "{0}"'.format(line))
-                desc_lines.append(line)
-            elif desc_node.name == 'br':
-                desc_lines[-1] += u'.'
-                #logger.debug(u'  backslapping fullstop for br (A)')
+    def _get_description(self, context=None):
+        #logger = logging.getLogger(sys._getframe().f_code.co_name)
+        if context is None:
+            c = self.content
+            soup = c['soup']
+            first_node = soup.body.contents[0]
+            #logger.debug(u'context:\n\n{0}\n\n'.format(soup.prettify()))
+            skip_first_anchor = True
+        else:
+            first_node = context
+            #logger.debug('special context!!')
+            skip_first_anchor = False
+
+        stop_tags = ['a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'div', 'ol', 'li']
+
+        def digdigdig(this_node, first_node, stop_tags, skip_first_anchor):
+            results = []
+            if (
+                this_node != first_node 
+                and this_node.name in stop_tags 
+                and (
+                    not(skip_first_anchor) 
+                    or (
+                        this_node.name == 'a' 
+                        and len([e for e in this_node.previous_elements if e.name == 'a']) > 0
+                        )
+                    )
+                ):
+                return (True, results)
+            if this_node.name == 'br':
+                results.append(u'. ')
+            if type(this_node) == NavigableString:
+                results.append(purify_html(unicode(this_node)))
             else:
-                anchors = self._filter_anchors(desc_node.find_all('a'))
-                #logger.debug('anchor length: {0}'.format(len(anchors)))
-                if len(anchors) > 1:
-                    for this_node in desc_node.contents:
-                        if this_node == anchors[1]:
-                            break
-                        if type(this_node) == NavigableString:
-                            line = unicode(this_node)
-                            #logger.debug(u'  appending (B): "{0}"'.format(line))
-                            desc_lines.append(line)
-                        elif desc_node.name == 'br':
-                            desc_lines[-1].append(u'.')
-                            #logger.debug(u'backslapping fullstop for br (B)')
-                        else:
-                            lines = this_node.get_text('\n').split('\n')
-                            #logger.debug(u'  extending with: {0}'.format(lines))
-                            desc_lines.extend(lines)
-                    break
+                try:
+                    descendants = this_node.descendants
+                except AttributeError:
+                    pass
                 else:
-                    try:
-                        desc_lines.extend(desc_node.get_text('\n').split('\n'))
-                    except AttributeError:
-                        pass
-                    else:
-                        lines = desc_node.get_text('\n').split('\n')
-                        #logger.debug(u'  extended with: {0}'.format(lines))
-        #logger.debug('desc_lines follows')
-        #for line in desc_lines:
-            #logger.debug(u'   {0}'.format(line))
+                    if descendants is not None:
+                        for child in this_node.children:
+                            stop, child_results = digdigdig(child, first_node, stop_tags, skip_first_anchor)
+                            results.extend(child_results)
+                            if stop:
+                                return (stop, results)
+            return (False, results)
+
+        stop, desc_lines = digdigdig(first_node, first_node, stop_tags, False)
+        node = first_node.next_sibling
+        while not stop and node is not None and node.name not in stop_tags:
+            stop, results = digdigdig(node, first_node, stop_tags, False)
+            desc_lines.extend(results)
+            node = node.next_sibling
+
+        if len(desc_lines) == 0:
+            stop, desc_lines = digdigdig(first_node, first_node, stop_tags, True)
+            node = first_node.next_sibling
+            while not stop and node is not None and node.name not in stop_tags:
+                stop, results = digdigdig(node, first_node, stop_tags, True)
+                desc_lines.extend(results)
+                node = node.next_sibling
+
         if len(desc_lines) == 0:
             desc_text = None
         else:
-            logger.debug(u'before dedupe: {0}'.format(u'\n'.join(desc_lines)))
             desc_text = deduplicate_lines(u'\n'.join(desc_lines))
+            desc_text = u''.join(desc_lines)
             if len(desc_text) == 0:
                 desc_text = None
             else:
                 desc_text = desc_text.replace(u'%IMAGEREPLACED%', u'').strip()
                 desc_text = RX_PUNCT_FIX.sub(r'\1', desc_text)
-                #logger.debug(u'before sentence dedupe: {0}'.format(desc_text))
                 desc_text = deduplicate_sentences(desc_text)
-                #logger.debug(u'after sentence dedupe: {0}'.format(desc_text))
                 desc_text = RX_PUNCT_DEDUPE.sub(r'\1', desc_text)
+                desc_text = normalize_space(desc_text)
                 if len(desc_text) == 0:
                     desc_text = None
                 elif desc_text[-1] != u'.':
                     desc_text += u'.'
 
-        logger.debug(u"desc_text: {0}".format(desc_text))
-
-        return desc_text        
+        return desc_text   
 
     def _get_language(self, *args):
         chunks = [chunk for chunk in args if chunk is not None]
@@ -485,59 +512,6 @@ class AwolBaseParser:
             if language[1] >= LANGID_THRESHOLD:
                 return language[0]
         return None
-
-    def _get_description_html(self, context=None):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-        if context is None:
-            c = self.content
-            soup = c['soup']
-            first_node = soup.body.contents[0]
-        else:
-            first_node = context
-        #logger.debug(unicode(first_node))
-        last_node = None
-        for tag_name in ['blockquote',]:
-            for node in first_node.find_all_next(tag_name):
-                if len(node.get_text().strip()) > 0:
-                    last_node = node
-                    break
-            if last_node is not None:
-                break
-        if last_node is None:
-            first_anchor = first_node.find_next('a')
-            if first_anchor is not None:
-                if not self._consider_anchor(first_anchor):
-                    node = first_anchor.next_element
-                else:
-                    node = first_anchor.find_next('a')
-                    if node is not None:
-                        node = node.next_element 
-                if node is None:
-                    node = first_anchor
-                while node.next_element is not None:
-                    if node.name in ['hr', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'ul', 'ol', 'p']:
-                        break
-                    else:
-                        node = node.next_element
-                last_node = node
-            else:
-                last_node = first_node
-
-        html = u' {0}.\n'.format(unicode(first_node))
-        next_node = first_node.next_element
-        while next_node != last_node:
-            html = html + u'\n{0}'.format(unicode(next_node))
-            try:
-                next_node = next_node.next_element
-            except AttributeError:
-                break
-        html = html + u' {0}\n'.format(unicode(next_node)) 
-        html = u'<div>\n' + html + u'\n</div>'
-        #logger.debug('description html follows')
-        #for hh in html.split(u'\n'):
-            #logger.debug(u'   {0}'.format(hh))
-        #logger.debug(u'description html:\n{0}'.format(html))
-        return html
 
     def _get_primary_anchor(self):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
@@ -571,9 +545,13 @@ class AwolBaseParser:
             title_extended = None
 
         # description
-        html = self._get_description_html()
-        this_soup = BeautifulSoup(html)
-        desc_text = self._get_description(this_soup)
+        #html = self._get_description_html()
+        #this_soup = BeautifulSoup(html)
+        #desc_text = self._get_description_from_soup(this_soup)
+        desc_text = self._get_description()
+
+        # parse authors
+        authors = self._parse_authors(desc_text)
 
         # parse identifiers
         identifiers = self._parse_identifiers(desc_text)
@@ -592,6 +570,8 @@ class AwolBaseParser:
         }
         if desc_text is not None:
             params['description'] = desc_text
+        if len(authors) > 0:
+            params['authors'] = authors
         if len(identifiers.keys()) > 0:
             params['identifiers'] = identifiers
         if title_extended is not None:
@@ -755,6 +735,34 @@ class AwolBaseParser:
 
         return r
 
+    def _parse_peeps(self, rx_list, content_text):
+
+        cooked = []
+        raw = u''
+        for rx in rx_list:
+            m = rx.search(content_text)
+            if m:
+                raw = m.groups()[-1]
+                break
+        if len(raw) > 0:
+            if u',' in raw:
+                cracked = raw.split(u',')
+            else:
+                cracked = [raw,]
+            for chunk in cracked:
+                if u' and ' in chunk:
+                    cooked.extend(chunk.split(u' and '))
+                else:
+                    cooked.append(chunk)
+            cooked = [normalize_space(peep) for peep in cooked if len(normalize_space(peep)) > 0]
+        return cooked
+
+    def _parse_authors(self, content_text):
+        return self._parse_peeps(RX_AUTHORS, content_text)
+
+    def _parse_editors(self, content_text):
+        return self._parse_peeps(RX_EDITORS, content_text)
+
     def _parse_identifiers(self, content_text):
         """Parse identifying strings of interest from an AWOL blog post."""
 
@@ -840,7 +848,7 @@ class AwolBaseParser:
         return unique_urls
 
     def _consider_anchor(self, a):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
+        #logger = logging.getLogger(sys._getframe().f_code.co_name)
         #logger.debug('skip urls: {0}'.format(', '.join(self.skip_urls)))
         url = a.get('href')
         if url is not None:

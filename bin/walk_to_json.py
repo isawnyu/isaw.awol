@@ -69,7 +69,7 @@ def main (args):
                     logger.info(u'article title: {0}'.format(a.title))
                     logger.info(u'url: {0}'.format(a.url))
                     awol_id = '-'.join(('awol', a.id.split('.')[-1]))
-                    logger.debug('awol_id: {0}'.format(awol_id))
+                    logger.info('awol_id: {0}'.format(awol_id))
                     resources = None
                     try:
                         resources = parsers.parse(a)
@@ -107,7 +107,7 @@ def main (args):
                                     if u'?' in r.url:
                                         m = hashlib.sha1()
                                         m.update(r.url)
-                                        resource_key = m.digest()
+                                        resource_key = unicode(m.hexdigest())
                                     else:
                                         resource_keylets = resource_key.split(u'-')
                                         resource_key = u''
@@ -115,6 +115,8 @@ def main (args):
                                             if len(resource_key) + len(keylet) > 200:
                                                 break
                                             resource_key = u'-'.join((resource_key, keylet))
+                                logger.debug(resource_key)
+                                resource_key = resource_key.encode('utf-8')
                                 filename = '.'.join((resource_key, 'json'))
                                 this_path = os.path.join(this_dir, filename)                                
                                 if resource_key in domain_index.keys():

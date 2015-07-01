@@ -77,11 +77,11 @@ def test_parsers_generic():
     assert_equals(r.title, u'Il capitale culturale')
     assert_equals(r.title_extended, u'Il capitale culturale. Studies on the Value of Cultural Heritage')
     assert_equals(r.url, 'http://www.unimc.it/riviste/index.php/cap-cult/index')
-    assert_equals(r.description, u'Il capitale culturale. Studies on the Value of Cultural Heritage. Il capitale culturale (ISSN: 2039-2362) è la rivista del Dipartimento di Beni Culturali dell’Università di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell’arte) unite dal comune obiettivo della implementazione di attività di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.')
-    assert_equals(r.language, ('it', 1.0))
+    assert_equals(r.description, u'Il capitale culturale. Studies on the Value of Cultural Heritage. ISSN: 2039-2362. Il capitale culturale (ISSN: 2039-2362) \xe8 la rivista del Dipartimento di Beni Culturali dell\u2019Universit\xe0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\u2019arte) unite dal comune obiettivo della implementazione di attivit\xe0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.')
+    assert_equals(r.languages, ['it'])
     assert_equals(r.domain, 'www.unimc.it')
     assert_equals(sorted(r.keywords), sorted([u'culture', u'journal', u'cultural heritage', u'open access', u'heritage']))
-    assert_equals(r.identifiers, {'issn': {'electronic': [u'2039-2362']}})
+    assert_equals(r.identifiers, {'issn': {'generic': [u'2039-2362']}})
     del resources
 
 @with_setup(setup_function, teardown_function)
@@ -109,7 +109,7 @@ def test_parsers_persee():
     assert_equals(r.languages, ['fr'])
     assert_equals(r.domain, 'www.persee.fr')
     assert_equals(sorted(r.keywords), sorted([u'France', u'journal', u'open access', u'archaeology', u'nautical archaeology']))
-    assert_equals(r.identifiers, {'issn': {'electronic': [u'2117-6973']}})
+    assert_equals(r.identifiers, {'issn': {'generic': [u'2117-6973']}})
     assert_is_none(r.is_part_of)
     assert_equals(len(r.provenance), 2)
     assert_equals(r.provenance[0]['term'], 'http://purl.org/spar/cito/citesAsDataSource')
@@ -127,8 +127,8 @@ def test_parsers_persee():
     r = resources[0]
     assert_equals(r.title, u'Gallia Préhistoire')
     assert_equals(r.url, 'http://www.persee.fr/web/revues/home/prescript/revue/galip')
-    assert_equals(r.description, u'Gallia Préhistoire. Créée par le CNRS, la revue Gallia Préhistoire est, depuis plus d’un demi-siècle, la grande revue de l’archéologie nationale, réputée pour la rigueur de ses textes et la qualité de ses illustrations. Gallia Préhistoire publie des articles de synthèse sur les découvertes et les recherches les plus signifiantes dans le domaine de la Préhistoire en France. Son champ chronologique couvre toute la Préhistoire depuis le Paléolithique inférieur jusqu’à la fin de l’-ge du Bronze. Son champ géographique est celui de la France; cependant, Gallia Préhistoire publie aussi des études traitant des cultures limitrophes.')
-    assert_equals(r.language, ('fr', 1.0))
+    assert_equals(r.description, u'Gallia Préhistoire. Créée par le CNRS, la revue Gallia Préhistoire est, depuis plus d’un demi-siècle, la grande revue de l’archéologie nationale, réputée pour la rigueur de ses textes et la qualité de ses illustrations. Gallia Préhistoire publie des articles de synthèse sur les découvertes et les recherches les plus signifiantes dans le domaine de la Préhistoire en France. Son champ chronologique couvre toute la Préhistoire depuis le Paléolithique inférieur jusqu’à la fin de l’âge du Bronze. Son champ géographique est celui de la France; cependant, Gallia Préhistoire publie aussi des études traitant des cultures limitrophes.')
+    assert_equals(r.languages, ['fr'])
     assert_equals(r.domain, 'www.persee.fr')
     assert_equals(r.keywords, [u'journal', u'open access'])
 
@@ -143,7 +143,7 @@ def test_parsers_ascsa():
     r = resources[0]
     assert_equals(r.title, u'ákoue News')
     assert_equals(r.url, 'http://www.ascsa.edu.gr/index.php/publications/newsletter/')
-    assert_equals(r.description, u"\xe1koue News. The School's newsletter, \xe1koue, has become a new, shorter print publication as we transition an increasing number of news articles and stories to the School website. Often there will be links to additional photos or news in the web edition that we haven't room to place in the print edition. Also supplemental articles that did not make it into print will be placed on the newsletter's home page here. The last issue of \xe1koue had asked for subscribers to notify us of their delivery preference--print or web edition. If you have do wish to have a print edition mailed to you, please contact us.")
+    assert_equals(r.description, u"\xe1koue News. The School's newsletter, \xe1koue, has become a new, shorter print publication as we transition an increasing number of news articles and stories to the School website. Often there will be links to additional photos or news in the web edition that we haven't room to place in the print edition. Also supplemental articles that did not make it into print will be placed on the.")
     assert_equals(r.domain, 'www.ascsa.edu.gr')
     assert_equals(r.keywords, [u'ASCSA'])
     #assert_equals(len(r.subordinate_resources), 0)
@@ -195,7 +195,7 @@ def test_parsers_issue56():
     parsers = AwolParsers()
     resources = parsers.parse(a)
     r = resources[0]
-    assert_equals(r.title, u'OIP 139. Early Megiddo on the East Slope (the “Megiddo Stages”): A Report on the Early Occupation of the East Slope of Megiddo (Results of the Oriental Institute’s Excavations, 1925-1933)')
+    assert_equals(r.title, u'OIP 139. Early Megiddo on the East Slope (the "Megiddo Stages"): A Report on the Early Occupation of the East Slope of Megiddo (Results of the Oriental Institute’s Excavations, 1925-1933)')
 
 @with_setup(setup_function, teardown_function)
 def test_parsers_omit_by_title():
@@ -215,6 +215,25 @@ def test_parsers_omit_by_title():
     resources = parsers.parse(a)
     assert_is_none(resources)
 
+@with_setup(setup_function, teardown_function)
+def test_parsers_authors():
+    """Can we really extract authors?"""
+
+    file_name = os.path.join(PATH_TEST_DATA, 'post-theban-necropolis.xml')
+    a = AwolArticle(atom_file_name=file_name)
+    parsers = AwolParsers()
+    resources = parsers.parse(a)
+    assert_equal(resources[0].authors, [u'Jiro Kondo',])
+
+@with_setup(setup_function, teardown_function)
+def test_parsers_authors():
+    """Flakey description extraction?"""
+
+    file_name = os.path.join(PATH_TEST_DATA, 'post-elephantine-reports.xml')
+    a = AwolArticle(atom_file_name=file_name)
+    parsers = AwolParsers()
+    resources = parsers.parse(a)
+    assert_equal(resources[0].description, u'Elephantine Grenzstadt und Handelsposten an der S\xfcdgrenze \xc4gyptens - Southern border town and trading post of Ancient Egypt. DAI - Deutsches Arch\xe4ologisches Institut. The aim of the excavations at Elephantine is to provide a coherent picture of the different parts of an ancient settlement and the interrelations between its temples, houses and cemeteries. Detailing the cultural development of the site, and using it as a source to extrapolate settlement patterns in other, less archaeologically accessible settlements is part of the objective of the mission. It is a rare moment when mud-brick settlement remains can be viewed by the public. This was formally made available as an open-air onsite museum in 1998. The research program at Elephantine intends to not only excavate large portions of the site and to study and restore it, but to try to understand Elephantine\u2019s role in the larger economical, political, ethnical and social contexts, both on the regional and the supra-regional level. The work aims to follow, diachronically, the developments across the different \xe9poques and disciplines. For such an approach, the preservation of the site and its layers with its moderate extension offers ideal conditions. Currently, the mission is supporting the efforts of the Supreme Council of Antiquities to restore and refurbish the old museum on Elephantine Island.')
 
 
 

@@ -48,14 +48,19 @@ class AwolParsers():
         domains = self.get_domains()
         length = len(domains)
         logger.debug(
-            u'\n----------------------------------------------------------------------------------------------------------------\n'
+            u'\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nparsing '
             + article.url
             + u'\n')
         logger.debug(u'domains: {0}'.format(repr(domains)))
         if length == 0:
             raise NotImplementedError('awol_parsers does not know what to do with no domains in article: {0}'.format(article.id))
         elif length > 1:
-            raise NotImplementedError(u'awol_parsers does not know what to do with multiple domains in article: {0}\n    {1}'.format(article.id, u'\n    '.join(domains)))
+            if u'journal:' in article.title.lower():
+                parser = self.parsers['generic-single']
+                logger.debug('using "{0}" parser'.format(parser.domain))
+                return parser.parse(article)
+            else:
+                raise NotImplementedError(u'awol_parsers does not know what to do with multiple domains in article: {0}\n    {1}'.format(article.id, u'\n    '.join(domains)))
         else:
             try:
                 parser = self.parsers[domains[0]]
@@ -63,11 +68,9 @@ class AwolParsers():
                 if u'journal:' in article.title.lower():
                     parser = self.parsers['generic-single']
                 else:
-                    return self.parsers['generic'].parse(article)
+                    parser = self.parsers['generic']
             logger.debug('using "{0}" parser'.format(parser.domain))
             return parser.parse(article)
-
-        logger.debug('\n\n')
 
 
     def reset(self):

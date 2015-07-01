@@ -72,11 +72,15 @@ class Resource:
     def json_dump(self, filename, formatted=False):
         """Dump resource as JSON to a file."""
         dump = self.__dict__.copy()
-        dump['related_resources'] = [r.copy() for r in self.related_resources]
-        dump['subordinate_resources'] = [r.copy() for r in self.subordinate_resources]
+        #dump['related_resources'] = [r.copy() for r in self.related_resources]
+        #dump['subordinate_resources'] = [r.copy() for r in self.subordinate_resources]
         with open(filename, 'w') as f:
             if formatted:
-                json.dump(dump, f, indent=4, sort_keys=True)
+                try:
+                    json.dump(self.__dict__, f, indent=4, sort_keys=True)
+                except UnicodeDecodeError:
+                    print(self)
+                    raise
             else:
                 json.dump(dump, f)
         del dump
@@ -186,28 +190,29 @@ class Resource:
 
     def __str__(self):
         
-        try:
-            title_extended = self.title_extended
-        except AttributeError:
-            title_extended = None
+        def puke(this, depth=0):
+            #logger = logging.getLogger(sys._getframe().f_code.co_name)
+            that = ''
+            if this is None:
+                #logger.debug('none!')
+                return that
 
-        s = u''
-        for k in sorted(self.__dict__.keys()):
-            v = self.__dict__[k]
-            if v is None:
-                pass
-            elif type(v) == unicode:
-                s += u'\n{k}: {v}'.format(k=k, v=v)
-            elif type(v) == str:
-                s += u'\n{k}: {v}'.format(k=k, v=unicode(v))
-            elif len(v) == 1:
-                s += u'\n{k}: {v}'.format(k=k, v=unicode(v))
+            pad = ' ' * (depth * 4)
+
+            #logger.debug(type(this))
+            if type(this) in [list, set, tuple]:
+                that += pad + '{vals}'.format(vals=', '.join([puke(val, depth=depth+1) for val in this]))
+            elif type(this) in [dict,]:
+                for k in sorted(this.keys()):
+                    #logger.debug(u'k is {0}'.format(k))
+                    that += pad + '{0}: '.format(k.encode('utf-8'))
+                    puke(this[k], depth=depth+1)
             else:
-                s += u'\n{k}: {vals}'.format(
-                    k=k,
-                    vals=u', '.join([unicode(val) for val in v]))
-        
-        return s
+                #logger.debug(u'value is {0}'.format(this))
+                that += pad + '"{0}"'.format(this.encode('utf-8'))
+            return that
+
+        return puke(self.__dict__)
 
 def merge(r1, r2):
     """Merge two resources into oneness."""
@@ -219,7 +224,7 @@ def merge(r1, r2):
     all_keys = list(set(k1 + k2))
     domain = r1.domain
     for k in all_keys:
-        logger.debug("merging k={0}".format(k))
+        #logger.debug("merging k={0}".format(k))
         modified = False
         v3 = None
         try:
@@ -233,7 +238,7 @@ def merge(r1, r2):
 
         if k in ['url',]:
             if v1 != v2:
-                logger.warning(u'url mismatch in merge: {0} vs. {1}'.format(v1, v2))
+                #logger.warning(u'url mismatch in merge: {0} vs. {1}'.format(v1, v2))
                 if v1.startswith(v2):
                     v3 = v2
                     r3.__dict__['url_alternates'].append(v1)
@@ -294,6 +299,7 @@ def merge(r1, r2):
                     v3 = []
             elif k == 'identifiers':
                 logger.warning("identifier merging is not implemented!")
+                
             elif k in ['subordinate_resources', 'related_resources']:
                 if len(v1) == 0 and len(v2) == 0:
                     modified = False

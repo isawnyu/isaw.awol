@@ -21,6 +21,13 @@ RX_DASHES = re.compile(u'['
     + u'\u2e3a' # two-em dash
     + u'\u2e3b' # three-em dash
     + u']+')
+REPLACEMENTS = [
+    (u'\u00a0', u' '),      # non-breaking space
+    (u'N\xb0', u'No.'),     # use of degree sign as superscript "o" in volume numbers
+    (u'\u2026', u'...'),    # ellipsis
+    (u'\u201c', u'"'),      # left double-quote
+    (u'\u201d', u'"'),      # right double-quote
+]
 
 def clean_string(raw):
     prepped = normalize_space(raw)
@@ -147,7 +154,7 @@ def deduplicate_lines(raws):
 
 def purify_html(raw):
     """Out vile jelly!"""
-    cooked = RX_DASHES.sub(u'-', raw)   # regularize dashes and hyphens
-    cooked = cooked.replace(u'\u00a0', u' ')    # non-breaking space delenda est
-    cooked = cooked.replace(u'N\xb0', u'No.')   # extirpate use of degree sign as superscript "o" in volume numbers
+    cooked = RX_DASHES.sub(u'-', raw)       # regularize dashes and hyphens
+    for replace in REPLACEMENTS:
+        cooked = cooked.replace(replace[0], replace[1])
     return cooked

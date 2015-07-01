@@ -150,6 +150,9 @@ class Parser(AwolBaseParser):
         # description
         desc_text = self._get_description()
 
+        # parse authors
+        authors = self._parse_authors(desc_text)
+
         # parse identifiers
         identifiers = self._parse_identifiers(desc_text)
         logger.debug(u'identifiers: {0}'.format(repr(identifiers)))
@@ -170,6 +173,8 @@ class Parser(AwolBaseParser):
             params['description'] = desc_text
         if len(identifiers.keys()) > 0:
             params['identifiers'] = identifiers
+        if len(authors) > 0:
+            params['authors'] = authors            
         if title_extended is not None:
             params['title_extended'] = title_extended
         if language is not None:
@@ -183,75 +188,6 @@ class Parser(AwolBaseParser):
 
         #logger.debug(u'returning resource: "{0}"'.format(unicode(resource)))
         return resource        
-
-    def _get_description(self, context=None):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-        html = self._get_description_html(context)
-        logger.debug(html)
-        soup = BeautifulSoup(html)
-        desc_nodes = soup.body.div.contents
-        desc_lines = []
-        for desc_node in desc_nodes:
-            logger.debug(u'desc_node({0}: \n    "{1}"'.format(type(desc_node), unicode(desc_node)))
-            if type(desc_node) == NavigableString:
-                line = unicode(desc_node)
-                logger.debug(u'  appending (A): "{0}"'.format(line))
-                desc_lines.append(line)
-            elif desc_node.name == 'br':
-                desc_lines[-1] += u'.'
-                logger.debug(u'  backslapping fullstop for br (A)')
-            else:
-                anchors = self._filter_anchors(desc_node.find_all('a'))
-                logger.debug('anchor length: {0}'.format(len(anchors)))
-                if len(anchors) > 1:
-                    for this_node in desc_node.contents:
-                        if this_node == anchors[1]:
-                            break
-                        if type(this_node) == NavigableString:
-                            line = unicode(this_node)
-                            logger.debug(u'  appending (B): "{0}"'.format(line))
-                            desc_lines.append(line)
-                        elif desc_node.name == 'br':
-                            desc_lines[-1].append(u'.')
-                            logger.debug(u'backslapping fullstop for br (B)')
-                        else:
-                            lines = this_node.get_text('\n').split('\n')
-                            logger.debug(u'  extending with: {0}'.format(lines))
-                            desc_lines.extend(lines)
-                    break
-                else:
-                    try:
-                        desc_lines.extend(desc_node.get_text('\n').split('\n'))
-                    except AttributeError:
-                        pass
-                    else:
-                        lines = desc_node.get_text('\n').split('\n')
-                        logger.debug(u'  extended with: {0}'.format(lines))
-        logger.debug('desc_lines follows')
-        for line in desc_lines:
-            logger.debug(u'   "{0}"'.format(line))
-        if len(desc_lines) == 0:
-            desc_text = None
-        else:
-            logger.debug(u'before dedupe: "{0}"'.format(u'\n'.join(desc_lines)))
-            desc_text = deduplicate_lines(u'\n'.join(desc_lines))
-            if len(desc_text) == 0:
-                desc_text = None
-            else:
-                desc_text = desc_text.replace(u'%IMAGEREPLACED%', u'').strip()
-                desc_text = RX_PUNCT_FIX.sub(r'\1', desc_text)
-                logger.debug(u'before sentence dedupe: "{0}"'.format(desc_text))
-                desc_text = deduplicate_sentences(desc_text)
-                logger.debug(u'after sentence dedupe: "{0}"'.format(desc_text))
-                desc_text = RX_PUNCT_DEDUPE.sub(r'\1', desc_text)
-                if len(desc_text) == 0:
-                    desc_text = None
-                elif desc_text[-1] != u'.':
-                    desc_text += u'.'
-
-        #logger.debug(u"desc_text: {0}".format(desc_text))
-
-        return desc_text        
 
     def _get_resources(self, article):
         """Assume first link is the top-level resource and everything else is subordinate."""
