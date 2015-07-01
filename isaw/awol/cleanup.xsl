@@ -11,6 +11,7 @@
         <xsl:apply-templates/>
     </xsl:template>
     
+    <xsl:template match="*[local-name()='span' and count(*) = 0 and normalize-space()='']"/>
     <xsl:template match="*[local-name()='span' and count(./@*) = 0]">
         <xsl:apply-templates/>
     </xsl:template>
