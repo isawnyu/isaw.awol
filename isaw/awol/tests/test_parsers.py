@@ -226,7 +226,7 @@ def test_parsers_authors():
     assert_equal(resources[0].authors, [u'Jiro Kondo',])
 
 @with_setup(setup_function, teardown_function)
-def test_parsers_authors():
+def test_parsers_elephantine():
     """Flakey description extraction?"""
 
     file_name = os.path.join(PATH_TEST_DATA, 'post-elephantine-reports.xml')
@@ -235,5 +235,14 @@ def test_parsers_authors():
     resources = parsers.parse(a)
     assert_equal(resources[0].description, u'Elephantine Grenzstadt und Handelsposten an der S\xfcdgrenze \xc4gyptens - Southern border town and trading post of Ancient Egypt. DAI - Deutsches Arch\xe4ologisches Institut. The aim of the excavations at Elephantine is to provide a coherent picture of the different parts of an ancient settlement and the interrelations between its temples, houses and cemeteries. Detailing the cultural development of the site, and using it as a source to extrapolate settlement patterns in other, less archaeologically accessible settlements is part of the objective of the mission. It is a rare moment when mud-brick settlement remains can be viewed by the public. This was formally made available as an open-air onsite museum in 1998. The research program at Elephantine intends to not only excavate large portions of the site and to study and restore it, but to try to understand Elephantine\u2019s role in the larger economical, political, ethnical and social contexts, both on the regional and the supra-regional level. The work aims to follow, diachronically, the developments across the different \xe9poques and disciplines. For such an approach, the preservation of the site and its layers with its moderate extension offers ideal conditions. Currently, the mission is supporting the efforts of the Supreme Council of Antiquities to restore and refurbish the old museum on Elephantine Island.')
 
+@with_setup(setup_function, teardown_function)
+def test_parsers_freiburger():
+    """Add 'table' as a tag on which to stop when parsing descriptions"""
+
+    file_name = os.path.join(PATH_TEST_DATA, 'post-freiburger-hefte.xml')
+    a = AwolArticle(atom_file_name=file_name)
+    parsers = AwolParsers()
+    resources = parsers.parse(a)
+    assert_equal(resources[0].description, u"Cahiers d'arch\xe9ologie fribourgeoise = Freiburger Hefte f\xfcr Arch\xe4ologie. ISSN: 1423-8756. As successor to the Chroniques Arch\xe9ologiques, edited between 1984 and 1997, the Cahiers d'Arch\xe9ologie Fribourgeoise present the results of excavations that took place in the Canton of Fribourg as well as the various activities of the Archaeology Department of the State of Fribourg. Since 1999, this yearly publication contains a series of richly illustrated articles and thematic reports in French or in German.")
 
 

@@ -434,7 +434,7 @@ class AwolBaseParser:
             #logger.debug('special context!!')
             skip_first_anchor = False
 
-        stop_tags = ['a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'div', 'ol', 'li']
+        stop_tags = ['a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'div', 'ol', 'li', 'table']
 
         def digdigdig(this_node, first_node, stop_tags, skip_first_anchor):
             results = []
