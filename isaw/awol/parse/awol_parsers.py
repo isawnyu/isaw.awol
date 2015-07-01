@@ -57,7 +57,7 @@ class AwolParsers():
         elif length > 1:
             if u'journal:' in article.title.lower():
                 parser = self.parsers['generic-single']
-                logger.debug('using "{0}" parser'.format(parser.domain))
+                logger.info('using "{0}" parser'.format(parser.domain))
                 return parser.parse(article)
             else:
                 raise NotImplementedError(u'awol_parsers does not know what to do with multiple domains in article: {0}\n    {1}'.format(article.id, u'\n    '.join(domains)))
@@ -69,7 +69,7 @@ class AwolParsers():
                     parser = self.parsers['generic-single']
                 else:
                     parser = self.parsers['generic']
-            logger.debug('using "{0}" parser'.format(parser.domain))
+            logger.info('using "{0}" parser'.format(parser.domain))
             return parser.parse(article)
 
 
