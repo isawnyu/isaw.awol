@@ -169,6 +169,12 @@ RX_ANALYTIC_TITLES = [
         'issue': 2,
         'year': 3
     },
+    # year, blah blah blah, then volume (e.g. u'1888 Mitteilungen des Deutschen Arch\xe4ologischen Instituts / R\xf6mische Abteilung Band 3')
+    {
+        'rx': re.compile(r'^(\d{4})[^\d]+Band (\d+)$', re.IGNORECASE),
+        'volume': 2,
+        'year': 1
+    },
     # year, then volume
     {
         'rx': re.compile(r'^[^\d]*(\d{4})\W*([\d\-]+)[^\d]*$', re.IGNORECASE),
@@ -283,25 +289,35 @@ class AwolBaseParser:
 
     def _get_anchor_ancestor_for_title(self, anchor):
         a = anchor
-        parents = a.find_parents('li')
-        if len(parents) > 0 and len(parents[0].find_all('a')) == 1:
-            anchor_ancestor = parents[0]
+        url = a.get('href')
+        parent = a.find_parent('li')
+        if parent is not None:
+            anchor_ancestor = parent
         else:
-            parents = a.find_parents('span')
-            i = 0
-            while i < len(parents):
-                if len(parents[i].find_all('a')) > 1:
-                    break
-                i = i+1
-            i = i - 1
-            if i > -1:
-                anchor_ancestor = parents[i]
+            previous_parent = a
+            parent = a.parent
+            while parent is not None and len([a for a in parent.find_all('a') if a.get('href') != url]) > 0:
+                prevous_parent = parent
+                parent = parent.parent
+            #parents = a.find_parents('span')
+            #i = 0
+            #while i < len(parents):
+            #    if len(parents[i].find_all('a')) > 1:
+            #        break
+            #    i = i+1
+            #i = i - 1
+            #if i > -1:
+            #    anchor_ancestor = parents[i]
+            #else:
+            #    parents = a.find_parents('p')
+            #    if len(parents) > 0 and len(parents[0].find_all('a')) == 1:
+            #        anchor_ancestor = parents[0]
+            #    else:
+            #        anchor_ancestor = a
+            if previous_parent.name == 'body':
+                anchor_ancestor = anchor
             else:
-                parents = a.find_parents('p')
-                if len(parents) > 0 and len(parents[0].find_all('a')) == 1:
-                    anchor_ancestor = parents[0]
-                else:
-                    anchor_ancestor = a
+                anchor_ancestor = previous_parent
         return anchor_ancestor
 
     def _get_anchors(self):
@@ -312,14 +328,14 @@ class AwolBaseParser:
             return c['anchors']
         soup = c['soup']
         #logger.debug(u'finding anchors in: {0}'.format(unicode(soup))) 
-        raw_anchors = [a for a in soup.find_all('a')]
+        raw_anchors = [a for a in soup.find_all('a') if a.find_previous('a', href=a.get('href')) is None]
         #logger.debug('raw anchors: {0}'.format(', '.join([a.get('href') for a in raw_anchors])))
         anchors = self._filter_anchors(raw_anchors)
         c['anchors'] = anchors
         return anchors
 
     def _get_description(self, context=None):
-        #logger = logging.getLogger(sys._getframe().f_code.co_name)
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
         if context is None:
             c = self.content
             soup = c['soup']
@@ -333,23 +349,50 @@ class AwolBaseParser:
 
         stop_tags = ['a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'div', 'ol', 'li', 'table']
 
-        def digdigdig(this_node, first_node, stop_tags, skip_first_anchor):
+        def digdigdig(this_node, first_node, stop_tags, skip_first_anchor, previous_urls):
+            logger = logging.getLogger(sys._getframe().f_code.co_name)
+
+            node_type = type(this_node)
+            node_name = this_node.name
+            try:
+                node_url = this_node.get('href')
+            except AttributeError:
+                node_url = ''
+            #logger.debug('dig (nodetype: {nodetype}, name: {name}, url: {url})'.format(
+            #    nodetype=node_type, name=node_name, url=node_url))
             results = []
+
             if (
                 this_node != first_node 
-                and this_node.name in stop_tags 
+                and node_name in stop_tags 
                 and (
-                    not(skip_first_anchor) 
+                    node_name != 'a'
                     or (
-                        this_node.name == 'a' 
-                        and len([e for e in this_node.previous_elements if e.name == 'a']) > 0
+                        'a' in stop_tags 
+                        and node_name == 'a'
+                        and (
+                                (
+                                skip_first_anchor
+                                and len(previous_urls) == 0                                    
+                                )
+                            or (
+                                not(skip_first_anchor)
+                                and len(previous_urls) > 0
+                                and node_url != previous_urls[-1]
+                                )
+                            )
                         )
                     )
                 ):
+                if node_name == 'a':
+                    previous_urls.append(node_url)
                 return (True, results)
-            if this_node.name == 'br':
+
+            if node_name == 'a':
+                previous_urls.append(this_node.get('href'))
+            if node_name == 'br':
                 results.append(u'. ')
-            if type(this_node) == NavigableString:
+            if node_type == NavigableString:
                 results.append(purify_html(unicode(this_node)))
             else:
                 try:
@@ -359,24 +402,26 @@ class AwolBaseParser:
                 else:
                     if descendants is not None:
                         for child in this_node.children:
-                            stop, child_results = digdigdig(child, first_node, stop_tags, skip_first_anchor)
+                            stop, child_results = digdigdig(child, first_node, stop_tags, skip_first_anchor, previous_urls)
                             results.extend(child_results)
                             if stop:
                                 return (stop, results)
             return (False, results)
 
-        stop, desc_lines = digdigdig(first_node, first_node, stop_tags, False)
+        previous_urls = []
+        stop, desc_lines = digdigdig(first_node, first_node, stop_tags, False, previous_urls)
         node = first_node.next_sibling
         while not stop and node is not None and node.name not in stop_tags:
-            stop, results = digdigdig(node, first_node, stop_tags, False)
+            stop, results = digdigdig(node, first_node, stop_tags, False, previous_urls)
             desc_lines.extend(results)
             node = node.next_sibling
 
         if len(desc_lines) == 0:
-            stop, desc_lines = digdigdig(first_node, first_node, stop_tags, True)
+            previous_urls = []
+            stop, desc_lines = digdigdig(first_node, first_node, stop_tags, True, previous_urls)
             node = first_node.next_sibling
             while not stop and node is not None and node.name not in stop_tags:
-                stop, results = digdigdig(node, first_node, stop_tags, True)
+                stop, results = digdigdig(node, first_node, stop_tags, True, previous_urls)
                 desc_lines.extend(results)
                 node = node.next_sibling
 
@@ -614,7 +659,7 @@ class AwolBaseParser:
 
         # parse identifiers
         identifiers = self._parse_identifiers(desc_text)
-        logger.debug(u'identifiers: {0}'.format(repr(identifiers)))
+        #logger.debug(u'identifiers: {0}'.format(repr(identifiers)))
 
         # language
         language = self._get_language(title, title_extended, desc_text)
@@ -628,7 +673,6 @@ class AwolBaseParser:
             'domain': domain_from_url(anchor.get('href')),
             'title': title
         }
-        logger.debug("WAH: {0}".format(params['url']))
         if desc_text is not None:
             params['description'] = desc_text
         if len(identifiers.keys()) > 0:
@@ -642,7 +686,6 @@ class AwolBaseParser:
         if len(keywords) > 0:
             params['keywords'] = keywords
         resource = self._make_resource(**params)
-        logger.debug("WWWWWWW {0}".format(resource.url))
 
         # provenance
         self._set_provenance(resource, article)
@@ -738,13 +781,22 @@ class AwolBaseParser:
                 if a == start_anchor:
                     index = i
                     break
+            anchors = [a for a in anchors[index:]]
 
-        logger.debug(u'parent_package : {0}'.format(repr(parent_package)))
-        anchors = [a for a in anchors[index:] if a.get('href').startswith(parent_package['url'])]
+        parent_domain = domain_from_url(parent_package['url'])
+        anchors = [a for a in anchors if parent_domain in a.get('href')]
+        #logger.debug(u'anchors: {0}'.format(repr([a.get('href') for a in anchors])))
+
         for a in anchors:
+            #logger.debug(u'subordinate anchor: {0}'.format(a.get('href')))
             # title
             title_context = self._get_anchor_ancestor_for_title(a)
-            title = clean_string(title_context.get_text())
+            #tc_type = type(title_context)
+            #tc_name = title_context.name
+            #tc_code = title_context.prettify()
+            #logger.debug(u'title_context (type: {tc_type}, name: {tc_name})'.format(tc_type=tc_type, tc_name=tc_name))
+            #logger.debug(tc_code)
+            title = clean_string(title_context.get_text(u' '))
 
             # try to extract volume and year
             try:
@@ -918,7 +970,7 @@ class AwolBaseParser:
         r = Resource()
 
         for k,v in kwargs.items():
-            logger.debug(u'_make_resource_processing {0}={1}'.format(k, v))
+            #logger.debug(u'_make_resource_processing {0}={1}'.format(k, v))
             if v is not None:
 
                 if type(v) == list:

@@ -264,3 +264,18 @@ def test_parsers_issn_variation():
     kids = [kid['url'] for kid in rtop.subordinate_resources]
     for url in [r.url for r in resources[1:]]:
         assert_in(url, kids)
+
+@with_setup(setup_function, teardown_function)
+def test_parsers_when_rome_attacks():
+    file_name = os.path.join(PATH_TEST_DATA, 'post-mitdai-roem.xml')
+    a = AwolArticle(atom_file_name=file_name)
+    parsers = AwolParsers()
+    resources = parsers.parse(a)
+    assert_equals(len(resources), 14)
+    rtop = resources[0]
+    assert_equals(rtop.url, 'http://www.digizeitschriften.de/dms/toc/?PPN=PPN783873484')
+    assert_equals(len(rtop.subordinate_resources), 13)
+    assert_equals(sorted([r.year for r in resources[1:]]), [None, u'1888', u'1889', u'1890', u'1891', u'1892', u'1893', u'1895', u'1896', u'1897', u'1898', u'1899', u'1900'])
+    assert_equals(sorted(list(set([r.volume for r in resources[1:]]))), [None, u'10', u'11', u'12', u'13', u'14', u'15', u'3', u'4', u'5', u'6', u'7', u'8'])
+
+
