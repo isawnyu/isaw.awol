@@ -12,6 +12,7 @@ import copy
 import datetime
 import json
 import logging
+import pprint
 import sys
 
 from wikidata_suggest import suggest
@@ -191,29 +192,7 @@ class Resource:
 
     def __str__(self):
         
-        def puke(this, depth=0):
-            #logger = logging.getLogger(sys._getframe().f_code.co_name)
-            that = ''
-            if this is None:
-                #logger.debug('none!')
-                return that
-
-            pad = ' ' * (depth * 4)
-
-            #logger.debug(type(this))
-            if type(this) in [list, set, tuple]:
-                that += pad + '{vals}'.format(vals=', '.join([puke(val, depth=depth+1) for val in this]))
-            elif type(this) in [dict,]:
-                for k in sorted(this.keys()):
-                    #logger.debug(u'k is {0}'.format(k))
-                    that += pad + '{0}: '.format(k.encode('utf-8'))
-                    puke(this[k], depth=depth+1)
-            else:
-                #logger.debug(u'value is {0}'.format(this))
-                that += pad + '"{0}"'.format(this.encode('utf-8'))
-            return that
-
-        return puke(self.__dict__)
+        return pprint.pformat(self.__dict__, indent=4, width=120)
 
 def merge(r1, r2):
     """Merge two resources into oneness."""
@@ -275,19 +254,22 @@ def merge(r1, r2):
                         v3 = v2
                     else:
                         v3 = None
-            elif k in ['volume', 'year', 'zotero_id']:
+            elif k in ['volume', 'year', 'zenon_id', 'issue', 'zotero_id']:
                 if v1 == v2:
                     v3 = v1
                     modified = False
+                elif v1 is None and v1 is not None:
+                    v3 = v2
+                elif v1 is not None and v2 is None:
+                    v3 = v1
                 else:
-                    print('\n\n\n##########\nv1:')
+                    print('\n\n\n#####\nkey: {0}'.format(k))
+                    print('##########\nv1:')
                     print(unicode(v1))
-                    print(r1.url)
-                    print(r1.provenance)
+                    print(r1.__str__())
                     print('##########\nv2:')
                     print(unicode(v2))
-                    print(r2.url)
-                    print(r2.provenance)
+                    print(r2.__str__())
                     raise Exception(u'cannot merge two resources in which the {0} field differs: "{1}" vs. "{2}"'.format(k, v1, v2))
             elif k == 'languages':
                 if len(v1) == 0 and len(v2) > 0:
