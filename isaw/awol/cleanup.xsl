@@ -12,6 +12,7 @@
     </xsl:template>
     
     <xsl:template match="*[local-name()='span' and count(*) = 0 and normalize-space()='']"/>
+    <xsl:template match="*[local-name()='div' and count(*) = 0 and normalize-space()='']"/>
     <xsl:template match="*[local-name()='span' and count(./@*) = 0]">
         <xsl:apply-templates/>
     </xsl:template>
@@ -42,11 +43,6 @@
     <xsl:template match="*[local-name()='a' and starts-with(@href, 'data:image')]"/>
     
     <xsl:template match="*[local-name()='img' and not(ancestor::*[local-name()='a'])]"/>
-    <xsl:template match="*[local-name()='a' and count(*[local-name()='img']) &gt; 0]">
-        <xsl:call-template name="copier">
-            <xsl:with-param name="replace">%IMAGEREPLACED%</xsl:with-param>
-        </xsl:call-template>
-    </xsl:template>
     <xsl:template match="*[local-name()='script']"/>
     
     <xsl:template match="*">
