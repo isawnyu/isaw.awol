@@ -1,0 +1,547 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 16 October 2011. Updated 3 February 2013]. Helios: National Hellenic Research Foundation Repository. Helios is the repository of the National Hellenic Research Foundation (NHRF), operates according to international standards and provides free and unrestricted access to scientific content produced by researchers at NHRF. The repository is supported by the National Documentation Centre (EKT). It includes different types of content in science, culture and education (e. g. scientific results, publications, conference proceedings, books, training material, videos and images) and offers self-archiving services to the research community at NHRF. Browse the Helios Collections and search for the scientific material of your interest! Register to the repository and enjoy additional services. \u03a4\u03bf \u0391\u03c0\u03bf\u03b8\u03b5\u03c4\u03ae\u03c1\u03b9\u03bf \u0389\u03bb\u03b9\u03bf\u03c2 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03af \u03c5\u03c0\u03bf\u03b4\u03bf\u03bc\u03ae \u03bf\u03c1\u03b3\u03b1\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03c8\u03b7\u03c6\u03b9\u03b1\u03ba\u03bf\u03cd \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03bf\u03bc\u03ad\u03bd\u03bf\u03c5 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03ad\u03c7\u03b5\u03b9 \u03b1\u03bd\u03bf\u03b9\u03ba\u03c4\u03ae \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03c4\u03c5\u03b1\u03ba\u03ae \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7 \u03c3\u03c4\u03bf \u03c0\u03bb\u03bf\u03cd\u03c3\u03b9\u03bf \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc \u03ad\u03c1\u03b3\u03bf \u03c4\u03bf\u03c5 \u0395\u03b8\u03bd\u03b9\u03ba\u03bf\u03cd \u0399\u03b4\u03c1\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2 \u0395\u03c1\u03b5\u03c5\u03bd\u03ce\u03bd. \u039f \u0389\u03bb\u03b9\u03bf\u03c2 \u03b1\u03bd\u03b1\u03c0\u03c4\u03cd\u03c3\u03c3\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf \u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u03a4\u03b5\u03ba\u03bc\u03b7\u03c1\u03af\u03c9\u03c3\u03b7\u03c2 (\u0395\u039a\u03a4) \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae \u03c0\u03c1\u03cc\u03c4\u03c5\u03c0\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03b5\u03c1\u03b9\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03b9 \u03c8\u03b7\u03c6\u03b9\u03b1\u03ba\u03cc \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf \u03b1\u03c0\u03cc \u03b4\u03b9\u03ac\u03c6\u03bf\u03c1\u03bf\u03c5\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03bf\u03cd\u03c2 \u03ba\u03bb\u03ac\u03b4\u03bf\u03c5\u03c2. \u03a3\u03c4\u03b7\u03bd \u03b1\u03bd\u03b1\u03bd\u03b5\u03c9\u03bc\u03ad\u03bd\u03b7 \u03c4\u03bf\u03c5 \u03bc\u03bf\u03c1\u03c6\u03ae \u03c0\u03b1\u03c1\u03ad\u03c7\u03b5\u03b9 \u03b5\u03be\u03b5\u03bb\u03b9\u03b3\u03bc\u03ad\u03bd\u03b1 \u03b5\u03c1\u03b3\u03b1\u03bb\u03b5\u03af\u03b1 \u03b1\u03bd\u03b1\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7\u03c2, \u03c0\u03bb\u03bf\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03b7\u03c2 \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7\u03c2 \u03c3\u03c4\u03b9\u03c2 \u03c8\u03b7\u03c6\u03b9\u03b1\u03ba\u03ad\u03c2 \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ad\u03c2 \u03c4\u03bf\u03c5, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2, \u03ba\u03b1\u03c4\u03cc\u03c0\u03b9\u03bd.", 
+    "domain": "helios-eie.ekt.gr", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "National Hellenic Research Foundation", 
+        "url": "http://helios-eie.ekt.gr/EIE/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Hellenic", 
+        "Greece", 
+        "Hellenism", 
+        "repository", 
+        "institutional repository"
+    ], 
+    "languages": [
+        "el"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5664670820881259523", 
+            "resource_date": "2013-02-03T07:29:56.240-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:26.646181"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/09/institutional-repositories-national.html", 
+            "resource_date": "2013-02-03T07:29:56.240-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:26.646197"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5664670820881259523", 
+            "resource_date": "2013-02-03T07:29:56.240-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:26.651577"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/09/institutional-repositories-national.html", 
+            "resource_date": "2013-02-03T07:29:56.240-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:26.651590"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "title_extended", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:27.154738"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "EIE", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Helios: National Hellenic Research Foundation Repository", 
+            "url": "http://helios-eie.ekt.gr/EIE/"
+        }, 
+        {
+            "title_full": "Communities & Collections", 
+            "url": "http://helios-eie.ekt.gr/EIE/community-list"
+        }, 
+        {
+            "title_full": "Date", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=date"
+        }, 
+        {
+            "title_full": "Author", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=author"
+        }, 
+        {
+            "title_full": "NHRF Author", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=authornhrfen"
+        }, 
+        {
+            "title_full": "Title", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=title"
+        }, 
+        {
+            "title_full": "Subject", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject"
+        }, 
+        {
+            "title_full": "Type", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=type"
+        }, 
+        {
+            "title_full": "General Works", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AAx"
+        }, 
+        {
+            "title_full": "Encyclopedias", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AAx%3A%3AAE"
+        }, 
+        {
+            "title_full": "Indexes", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AAx%3A%3AAI"
+        }, 
+        {
+            "title_full": "Periodicals", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AAx%3A%3AAP"
+        }, 
+        {
+            "title_full": "History of scholarship and learning. The humanities", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AAx%3A%3AAZ"
+        }, 
+        {
+            "title_full": "Philosophy (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AB%3A%3AB1"
+        }, 
+        {
+            "title_full": "Psychology", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AB%3A%3ABF"
+        }, 
+        {
+            "title_full": "Ethics", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AB%3A%3ABJ1"
+        }, 
+        {
+            "title_full": "Religion (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AB%3A%3ABL"
+        }, 
+        {
+            "title_full": "Auxiliary sciences of History", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AC"
+        }, 
+        {
+            "title_full": "History of Civilization", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AC%3A%3ACB"
+        }, 
+        {
+            "title_full": "Archaeology", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AC%3A%3ACC"
+        }, 
+        {
+            "title_full": "Numismatics", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AC%3A%3ACJ"
+        }, 
+        {
+            "title_full": "Inscriptions. Epigraphy", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AC%3A%3ACN"
+        }, 
+        {
+            "title_full": "Biography", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AC%3A%3ACT"
+        }, 
+        {
+            "title_full": "History", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AD"
+        }, 
+        {
+            "title_full": "Medieval history", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AD%3A%3AD1%3A%3AD111"
+        }, 
+        {
+            "title_full": "Military and naval history", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AD%3A%3AD1%3A%3AD25"
+        }, 
+        {
+            "title_full": "Political and diplomatic history", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AD%3A%3AD1%3A%3AD31"
+        }, 
+        {
+            "title_full": "Ancient history", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AD%3A%3AD1%3A%3AD51"
+        }, 
+        {
+            "title_full": "Mediterranean Region. The Greco-Roman World", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AD%3A%3ADE"
+        }, 
+        {
+            "title_full": "Ancient Greece", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AD%3A%3ADF%3A%3ADF10"
+        }, 
+        {
+            "title_full": "Modern Greece", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AD%3A%3ADF%3A%3ADF701"
+        }, 
+        {
+            "title_full": "Geography (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AG%3A%3AG1"
+        }, 
+        {
+            "title_full": "Anthropology", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AG%3A%3AGN"
+        }, 
+        {
+            "title_full": "Folklore", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AG%3A%3AGR"
+        }, 
+        {
+            "title_full": "Manners and Customs", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AG%3A%3AGT"
+        }, 
+        {
+            "title_full": "Social Sciences (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AH%3A%3AH1"
+        }, 
+        {
+            "title_full": "Statistics", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AH%3A%3AHA"
+        }, 
+        {
+            "title_full": "Demography. Population", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AH%3A%3AHB"
+        }, 
+        {
+            "title_full": "Economic history and conditions", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AH%3A%3AHC"
+        }, 
+        {
+            "title_full": "Land use", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AH%3A%3AHD101"
+        }, 
+        {
+            "title_full": "Agriculture", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AH%3A%3AHD1401"
+        }, 
+        {
+            "title_full": "Economic growth, development, planning", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AH%3A%3AHD72"
+        }, 
+        {
+            "title_full": "Commerce", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AH%3A%3AHF"
+        }, 
+        {
+            "title_full": "Sociology (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AH%3A%3AHM"
+        }, 
+        {
+            "title_full": "Social history and conditions. Social problems.Social reform", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AH%3A%3AHN"
+        }, 
+        {
+            "title_full": "The family. Marriage. Women", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AH%3A%3AHQ"
+        }, 
+        {
+            "title_full": "Political Science (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AJ%3A%3AJA"
+        }, 
+        {
+            "title_full": "Political Theory. The state", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AJ%3A%3AJC"
+        }, 
+        {
+            "title_full": "Law", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AK"
+        }, 
+        {
+            "title_full": "Intellectual property", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AK%3A%3AK1%3A%3AK7550"
+        }, 
+        {
+            "title_full": "Education", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AL"
+        }, 
+        {
+            "title_full": "Education (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AL%3A%3AL7"
+        }, 
+        {
+            "title_full": "Music", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AM"
+        }, 
+        {
+            "title_full": "Architecture", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AN%3A%3ANA"
+        }, 
+        {
+            "title_full": "Painting", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AN%3A%3AND"
+        }, 
+        {
+            "title_full": "Arts in general", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AN%3A%3ANX"
+        }, 
+        {
+            "title_full": "Language and Literature", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AP"
+        }, 
+        {
+            "title_full": "Philology (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AP%3A%3AP1"
+        }, 
+        {
+            "title_full": "Science", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ"
+        }, 
+        {
+            "title_full": "Mathematics", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQA"
+        }, 
+        {
+            "title_full": "Electronic computers. Computer Science", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQA75"
+        }, 
+        {
+            "title_full": "Astronomy", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQB"
+        }, 
+        {
+            "title_full": "Physics", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQC"
+        }, 
+        {
+            "title_full": "Optics. Light", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQC%3A%3AQC350"
+        }, 
+        {
+            "title_full": "Chemistry (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQD1"
+        }, 
+        {
+            "title_full": "Inorganic chemistry", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQD146"
+        }, 
+        {
+            "title_full": "Organic chemistry", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQD241"
+        }, 
+        {
+            "title_full": "Biochemistry", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQD415"
+        }, 
+        {
+            "title_full": "Physical and theoretical chemistry", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQD450"
+        }, 
+        {
+            "title_full": "Crystallography", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQD901"
+        }, 
+        {
+            "title_full": "Biology (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQH"
+        }, 
+        {
+            "title_full": "Evolution", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQH%3A%3AQH359"
+        }, 
+        {
+            "title_full": "Virology", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQR%3A%3AQR355"
+        }, 
+        {
+            "title_full": "Science (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AQ%3A%3AQsub"
+        }, 
+        {
+            "title_full": "Medicine", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AR"
+        }, 
+        {
+            "title_full": "Medicine (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AR%3A%3AR5"
+        }, 
+        {
+            "title_full": "Medicine - public aspects", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AR%3A%3ARA1"
+        }, 
+        {
+            "title_full": "Toxicology. Poisons", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AR%3A%3ARA1190"
+        }, 
+        {
+            "title_full": "Pathology", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AR%3A%3ARB"
+        }, 
+        {
+            "title_full": "Neoplasms. Tumors. Oncology (Incl.cancer, carcinogens)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AR%3A%3ARC254"
+        }, 
+        {
+            "title_full": "Internal medicine", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AR%3A%3ARC31"
+        }, 
+        {
+            "title_full": "Neoplasms. Tumors. Oncology (Incl.cancer, carcinogens)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AR%3A%3ARC31%3A%3ARC254"
+        }, 
+        {
+            "title_full": "Surgery", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AR%3A%3ARD"
+        }, 
+        {
+            "title_full": "Pharmacy and materia medica", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AR%3A%3ARS1"
+        }, 
+        {
+            "title_full": "Pharmaceutical chemistry", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AR%3A%3ARS1%3A%3ARS400"
+        }, 
+        {
+            "title_full": "Plant Culture", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AS%3A%3ASB"
+        }, 
+        {
+            "title_full": "Technology", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AT"
+        }, 
+        {
+            "title_full": "Technology (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AT%3A%3AT1"
+        }, 
+        {
+            "title_full": "Information technology", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AT%3A%3AT585"
+        }, 
+        {
+            "title_full": "Engineering (General). Civil engineering (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AT%3A%3ATA1"
+        }, 
+        {
+            "title_full": "Biotechnology", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AT%3A%3ATP248"
+        }, 
+        {
+            "title_full": "Military Science", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AU"
+        }, 
+        {
+            "title_full": "Naval Science", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AV"
+        }, 
+        {
+            "title_full": "Bibliography (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AZ%3A%3AZ1001"
+        }, 
+        {
+            "title_full": "Collections", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AZ%3A%3AZ662"
+        }, 
+        {
+            "title_full": "Library Science. Information Science", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AZ%3A%3AZ665"
+        }, 
+        {
+            "title_full": "LIbraries (General)", 
+            "url": "http://helios-eie.ekt.gr/EIE/browse?type=subject&order=ASC&rpp=500&value=LCC%3A%3AZ%3A%3AZ719"
+        }
+    ], 
+    "title": "Helios: National Hellenic Research Foundation Repository", 
+    "title_alternates": [], 
+    "title_extended": "Helios: National Hellenic Research Foundation Repository", 
+    "type": null, 
+    "url": "http://helios-eie.ekt.gr/EIE/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

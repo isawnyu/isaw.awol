@@ -1,0 +1,91 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Learn about Sumerian.", 
+    "domain": "psd.museum.upenn.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "The Pennsylvania Sumerian Dictionary", 
+        "url": "http://psd.museum.upenn.edu/epsd1/index.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "tools"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8479299857201825874", 
+            "resource_date": "2014-01-16T11:42:07.404-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:59.414520"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/01/epsd-pennsylvania-sumerian-dictionary.html", 
+            "resource_date": "2014-01-16T11:42:07.404-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:59.414531"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "epsd1-dctools-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "Tools for corpus projects", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://psd.museum.upenn.edu/epsd1/dctools.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

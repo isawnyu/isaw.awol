@@ -1,0 +1,417 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Pr\u00eatres Civique: Les pr\u00eatres du culte imp\u00e9rial romain dans les cit\u00e9s de la province d'Asie. Cette base de donn\u00e9es des pr\u00eatres du culte imp\u00e9rial romain dans les cit\u00e9s de la province d\u2019Asie est issue d\u2019un travail de doctorat effectu\u00e9 entre 2005 et 2009 sous la direction de Jean-Louis Ferrary (\u00c9cole Pratique des Hautes \u00c9tudes, Paris) par Gabrielle Frija (\u00c9cole Pratique des Hautes \u00c9tudes, Paris - Universit\u00e9 Rennes 2). La prosopographie des pr\u00eatres et grands-pr\u00eatres des empereurs repose sur un d\u00e9pouillement syst\u00e9matique des inscriptions des cit\u00e9s d\u2019Asie. Cette recherche a permis de recenser un peu plus de 460 pr\u00eatres dans 80 cit\u00e9s diff\u00e9rentes; rapport\u00e9 \u00e0 l\u2019ensemble des cit\u00e9s de la province d\u2019Asie et \u00e0 la p\u00e9riode concern\u00e9e, de l\u2019arriv\u00e9e au pouvoir d\u2019Auguste \u00e0 la fin du IIIe si\u00e8cle, ce nombre est faible pour une charge qui \u00e9tait en g\u00e9n\u00e9ral annuelle. Le catalogue des pr\u00eatres civiques demande donc \u00e0 \u00eatre compl\u00e9t\u00e9 au fur et \u00e0 mesure des d\u00e9couvertes \u00e9pigraphiques. L\u2019objectif de la mise en ligne de la base de donn\u00e9es est de faciliter la consultation de la prosopographie; celle-ci est \u00e9galement disponible aupr\u00e8s de l\u2019auteur sous la forme classique d\u2019un catalogue.", 
+    "domain": "www.pretres-civiques.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Pr\u00eatres Civique: Les pr\u00eatres du culte imp\u00e9rial romain dans les cit\u00e9s de la province d'Asie", 
+        "url": "http://www.pretres-civiques.org/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "prosopography", 
+        "Greek", 
+        "Roman", 
+        "Asia", 
+        "religion"
+    ], 
+    "languages": [
+        "fr"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-191928554507254710", 
+            "resource_date": "2013-07-17T11:00:41.045-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:05:56.041668"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/pretres-civique-les-pretres-du-culte.html", 
+            "resource_date": "2013-07-17T11:00:41.045-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:05:56.041684"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-191928554507254710", 
+            "resource_date": "2013-07-17T11:00:41.045-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:05:56.047309"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/pretres-civique-les-pretres-du-culte.html", 
+            "resource_date": "2013-07-17T11:00:41.045-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:05:56.047321"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:05:56.185105"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "www-pretres-civiques-org", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Pr\u00eatres Civique: Les pr\u00eatres du culte imp\u00e9rial romain dans les cit\u00e9s de la province d'Asie", 
+            "url": "http://www.pretres-civiques.org/"
+        }, 
+        {
+            "title_full": "Gabrielle Frija (\u00c9cole Pratique des Hautes \u00c9tudes, Paris - Universit\u00e9 Rennes 2)", 
+            "url": "http://www.pretres-civiques.org/contact"
+        }, 
+        {
+            "title_full": "cit\u00e9s", 
+            "url": "http://www.pretres-civiques.org/rechercher-un-pretre-par-cite"
+        }, 
+        {
+            "title_full": "pr\u00eatrises", 
+            "url": "http://www.pretres-civiques.org/rechercher-un-pretre-par-titre"
+        }, 
+        {
+            "title_full": "pr\u00eatres", 
+            "url": "http://www.pretres-civiques.org/liste-des-pretres"
+        }, 
+        {
+            "title_full": "sources", 
+            "url": "http://www.pretres-civiques.org/rechercher-une-source"
+        }, 
+        {
+            "title_full": "bibliographie", 
+            "url": "http://www.pretres-civiques.org/content/bibliographie"
+        }, 
+        {
+            "title_full": "conversion", 
+            "url": "http://www.pretres-civiques.org/conversion"
+        }, 
+        {
+            "title_full": "I.Stratonikeia", 
+            "url": "http://www.pretres-civiques.org/sources/publication/619"
+        }, 
+        {
+            "title_full": "IAph2007", 
+            "url": "http://www.pretres-civiques.org/sources/publication/622"
+        }, 
+        {
+            "title_full": "TAM V 2", 
+            "url": "http://www.pretres-civiques.org/sources/publication/640"
+        }, 
+        {
+            "title_full": "I.Didyma", 
+            "url": "http://www.pretres-civiques.org/sources/publication/596"
+        }, 
+        {
+            "title_full": "IG XII 2", 
+            "url": "http://www.pretres-civiques.org/sources/publication/459"
+        }, 
+        {
+            "title_full": "I.Ephesos", 
+            "url": "http://www.pretres-civiques.org/sources/publication/419"
+        }, 
+        {
+            "title_full": "I.Magnesia", 
+            "url": "http://www.pretres-civiques.org/sources/publication/585"
+        }, 
+        {
+            "title_full": "RPC I", 
+            "url": "http://www.pretres-civiques.org/sources/publication/487"
+        }, 
+        {
+            "title_full": "I.Pergamon", 
+            "url": "http://www.pretres-civiques.org/sources/publication/421"
+        }, 
+        {
+            "title_full": "RPC Online", 
+            "url": "http://www.pretres-civiques.org/sources/publication/476"
+        }, 
+        {
+            "title_full": "Iscr. di Cos EV", 
+            "url": "http://www.pretres-civiques.org/sources/publication/449"
+        }, 
+        {
+            "title_full": "IGR 4", 
+            "url": "http://www.pretres-civiques.org/sources/publication/425"
+        }, 
+        {
+            "title_full": "I.Tralleis", 
+            "url": "http://www.pretres-civiques.org/sources/publication/614"
+        }, 
+        {
+            "title_full": "I.Cos", 
+            "url": "http://www.pretres-civiques.org/sources/publication/453"
+        }, 
+        {
+            "title_full": "I.Mylasa", 
+            "url": "http://www.pretres-civiques.org/sources/publication/609"
+        }, 
+        {
+            "title_full": "MAMA 6", 
+            "url": "http://www.pretres-civiques.org/sources/publication/616"
+        }, 
+        {
+            "title_full": "IG XII 5", 
+            "url": "http://www.pretres-civiques.org/sources/publication/499"
+        }, 
+        {
+            "title_full": "IG XII 6", 
+            "url": "http://www.pretres-civiques.org/sources/publication/587"
+        }, 
+        {
+            "title_full": "TAM V 3", 
+            "url": "http://www.pretres-civiques.org/sources/publication/639"
+        }, 
+        {
+            "title_full": "LW", 
+            "url": "http://www.pretres-civiques.org/sources/publication/593"
+        }, 
+        {
+            "title_full": "EA", 
+            "url": "http://www.pretres-civiques.org/sources/publication/430"
+        }, 
+        {
+            "title_full": "La Carie II", 
+            "url": "http://www.pretres-civiques.org/sources/publication/428"
+        }, 
+        {
+            "title_full": "Milet VI 3", 
+            "url": "http://www.pretres-civiques.org/sources/publication/598"
+        }, 
+        {
+            "title_full": "CIG", 
+            "url": "http://www.pretres-civiques.org/sources/publication/463"
+        }, 
+        {
+            "title_full": "Alt.v.Hierapolis", 
+            "url": "http://www.pretres-civiques.org/sources/publication/628"
+        }, 
+        {
+            "title_full": "BMC Lydia", 
+            "url": "http://www.pretres-civiques.org/sources/publication/647"
+        }, 
+        {
+            "title_full": "I.Kibyra", 
+            "url": "http://www.pretres-civiques.org/sources/publication/645"
+        }, 
+        {
+            "title_full": "I.Alexandria", 
+            "url": "http://www.pretres-civiques.org/sources/publication/474"
+        }, 
+        {
+            "title_full": "RPC II", 
+            "url": "http://www.pretres-civiques.org/sources/publication/600"
+        }, 
+        {
+            "title_full": "I.Ilion", 
+            "url": "http://www.pretres-civiques.org/sources/publication/465"
+        }, 
+        {
+            "title_full": "IG XII 3", 
+            "url": "http://www.pretres-civiques.org/sources/publication/495"
+        }, 
+        {
+            "title_full": "I.Smyrna", 
+            "url": "http://www.pretres-civiques.org/sources/publication/588"
+        }, 
+        {
+            "title_full": "BMC Phrygia", 
+            "url": "http://www.pretres-civiques.org/sources/publication/653"
+        }, 
+        {
+            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u03cd\u03c2", 
+            "url": "http://www.pretres-civiques.org/pretres/pretrises/2"
+        }, 
+        {
+            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03ad\u03c1\u03b5\u03b9\u03b1", 
+            "url": "http://www.pretres-civiques.org/pretres/pretrises/715"
+        }, 
+        {
+            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u1f7a\u03c2 \u03c4\u1ff6\u03bd \u03a3\u03b5\u03b2\u03b1\u03c3\u03c4\u1ff6\u03bd", 
+            "url": "http://www.pretres-civiques.org/pretres/pretrises/16"
+        }, 
+        {
+            "title_full": "\u1f30\u03b5\u03c1\u03b5\u1f7a\u03c2 \u03c4\u1ff6\u03bd \u03a3\u03b5\u03b2\u03b1\u03c3\u03c4\u1ff6\u03bd", 
+            "url": "http://www.pretres-civiques.org/pretres/pretrises/80"
+        }, 
+        {
+            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u1f7a\u03c2 \u03c4\u1fc6\u03c2 \u03c0\u03b1\u03c4\u03c1\u03af\u03b4\u03bf\u03c2", 
+            "url": "http://www.pretres-civiques.org/pretres/pretrises/716"
+        }, 
+        {
+            "title_full": "\u1f31\u03b5\u03c1\u03b5\u1f7a\u03c2 \u039a\u03b1\u03af\u03c3\u03b1\u03c1\u03bf\u03c2", 
+            "url": "http://www.pretres-civiques.org/pretres/pretrises/830"
+        }, 
+        {
+            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03ad\u03c1\u03b5\u03b9\u03b1 \u03c4\u1ff6\u03bd \u03a3\u03b5\u03b2\u03b1\u03c3\u03c4\u1ff6\u03bd", 
+            "url": "http://www.pretres-civiques.org/pretres/pretrises/760"
+        }, 
+        {
+            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u03cd\u03c2", 
+            "url": "http://www.pretres-civiques.org/pretres/pretrises/762"
+        }, 
+        {
+            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u1f7a\u03c2 \u03c4\u1fc6\u03c2 \u03c0\u03cc\u03bb\u03b5\u03c9\u03c2", 
+            "url": "http://www.pretres-civiques.org/pretres/pretrises/733"
+        }, 
+        {
+            "title_full": "\u1f31\u03b5\u03c1\u03b5\u1f7a\u03c2 \u03a3\u03b5\u03b2\u03b1\u03c3\u03c4\u03bf\u1fe6", 
+            "url": "http://www.pretres-civiques.org/pretres/pretrises/109"
+        }, 
+        {
+            "title_full": "Sevir Augustalis", 
+            "url": "http://www.pretres-civiques.org/pretres/pretrises/592"
+        }, 
+        {
+            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u1f7a\u03c2 \u03c4\u1ff6\u03bd \u03a3\u03b5\u03b2\u03b1\u03c3\u03c4\u1ff6\u03bd A\u1f50\u03c4\u03bf\u03ba\u03c1\u03b1\u03c4\u03cc\u03c1\u03c9\u03bd", 
+            "url": "http://www.pretres-civiques.org/pretres/pretrises/786"
+        }, 
+        {
+            "title_full": "[A\u1f50\u03c1\u03ae\u03bb\u03b9\u03bf\u03c2] ..", 
+            "url": "http://www.pretres-civiques.org/pretre/aurelius-annianus"
+        }, 
+        {
+            "title_full": "\u03a6\u03bb\u03b1\u03b2\u03af\u03b1 \u03a4\u03b1\u03c4\u03af\u03b1", 
+            "url": "http://www.pretres-civiques.org/pretre/flavia-tatia"
+        }, 
+        {
+            "title_full": "A\u1f50\u03c1\u03ae\u03bb\u03b9\u03bf\u03c2 \u0396\u03ae\u03bd\u03c9\u03bd", 
+            "url": "http://www.pretres-civiques.org/pretre/aurelius-zenon"
+        }, 
+        {
+            "title_full": "(\u039a\u03bb\u03b1\u03cd\u03b4\u03b9\u03bf\u03c2) [-]", 
+            "url": "http://www.pretres-civiques.org/pretre/claudius"
+        }, 
+        {
+            "title_full": "\u03a6\u03bb\u03ac\u03b2\u03b9\u03bf\u03c2 \u039a\u03c1\u03b1\u03c4\u03b5\u03c1\u03cc\u03c2..", 
+            "url": "http://www.pretres-civiques.org/pretre/flavius-craterus"
+        }, 
+        {
+            "title_full": "\u03a3[-]", 
+            "url": "http://www.pretres-civiques.org/pretre/s"
+        }, 
+        {
+            "title_full": "\u0391\u1f50\u03c1\u03b7\u03bb\u03af\u03b1 \u03a6\u03bb\u03b1|\u03b2\u03af\u03b1..", 
+            "url": "http://www.pretres-civiques.org/pretre/aurelia-flavia-artemonis"
+        }, 
+        {
+            "title_full": "\u0393\u03bd. \u0394\u03bf\u03bc\u03af\u03c4\u03b9\u03bf\u03c2..", 
+            "url": "http://www.pretres-civiques.org/pretre/domitius-aelianus"
+        }, 
+        {
+            "title_full": "\u03a6\u03bb\u03b1\u03bf\u03cd\u03b9\u03bf\u03c2 \u03a0\u03b5\u03b9\u03bd\u03b1\u03c1\u03af\u03bf\u03c2..", 
+            "url": "http://www.pretres-civiques.org/pretre/flavius-pinarius"
+        }, 
+        {
+            "title_full": "A\u1f30\u03bc\u03b9\u03bb\u03af\u03bf\u03c2 \u1f59\u03c8\u03b9\u03ba\u03bb\u1fc6\u03c2..", 
+            "url": "http://www.pretres-civiques.org/pretre/aemilius-hypsicl%C3%A8s"
+        }, 
+        {
+            "title_full": "[-] \u039a\u03ad\u03bb\u03b5\u03c1", 
+            "url": "http://www.pretres-civiques.org/pretre/celer"
+        }, 
+        {
+            "title_full": "\u039b. \u039d\u03ce\u03bd\u03b9\u03bf\u03c2..", 
+            "url": "http://www.pretres-civiques.org/pretre/nonius-aristodamus"
+        }
+    ], 
+    "title": "Pr\u00eatres Civique: Les pr\u00eatres du culte imp\u00e9rial romain dans les cit\u00e9s de la province d'Asie", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.pretres-civiques.org/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

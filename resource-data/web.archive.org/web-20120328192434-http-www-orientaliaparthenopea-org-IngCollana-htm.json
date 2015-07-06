@@ -1,0 +1,627 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Orientalia Parthenopea Journal. ISSN 1972-3598.", 
+    "domain": "web.archive.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1972-3598"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "Italy", 
+        "open access"
+    ], 
+    "languages": [], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9039930559165941759", 
+            "resource_date": "2013-10-29T16:32:41.907-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:15:11.877728"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-orientalia.html", 
+            "resource_date": "2013-10-29T16:32:41.907-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:15:11.877744"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "web-20120328192434-http-www-orientaliaparthenopea-org-IngCollana-htm", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Contacts", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/IngContatti.htm"
+        }, 
+        {
+            "title_full": "Fonti inglesi sul Giappone prima del soggiorno di William Adams", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Romano1.pdf"
+        }, 
+        {
+            "title_full": "La pittura di Maruyama \u014ckyo (1733-1795) fra tradizione e innovazione", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Capriati1.pdf"
+        }, 
+        {
+            "title_full": "La presentazione letteraria dell\u2019agopuntura e della moxibustione in Europa", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Borriello1.pdf"
+        }, 
+        {
+            "title_full": "Le vie del cielo del Sol Levante. Prima parte: Dagli aquiloni al", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Iovine1.pdf"
+        }, 
+        {
+            "title_full": "La favola di Cenerentola tra Oriente ed Occidente", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Gammella1.pdf"
+        }, 
+        {
+            "title_full": "La poesia moderna in Giappone. Considerazioni sull\u2019esperienza poetica di Ishikawa Takuboku e Hagiwara Sakutar\u014d nei primi anni del \u2018900", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Capponcelli1.pdf"
+        }, 
+        {
+            "title_full": "Biwa: le origini dello strumento ed il suo ruolo nel contesto musicale giapponese", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Ferrara1.pdf"
+        }, 
+        {
+            "title_full": "Il colonialismo culturale in Cina. La definizione dell\u2019identit\u00e0 cinese moderna", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Orsini1.pdf"
+        }, 
+        {
+            "title_full": "Turismo cinese in Italia: ultime tendenze e previsioni", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Scaletti1.pdf"
+        }, 
+        {
+            "title_full": "I periodici italiani sugli studi estremo-orientali", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Amoroso1.pdf"
+        }, 
+        {
+            "title_full": "La vaccinazione in Giappone", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Borriello2.pdf"
+        }, 
+        {
+            "title_full": "Le vie del cielo del Sol Levante. Seconda parte: Gli albori dell\u2019aeronautica militare e civile", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Iovine2.pdf"
+        }, 
+        {
+            "title_full": "Considerazioni sul valore della \u00abcopia\u00bb nell\u2019ambito dell\u2019arte giapponese: una mostra del Museo Nazionale di T\u014dky\u014d", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Capriati2.pdf"
+        }, 
+        {
+            "title_full": "..A gyerty", 
+            "url": "http://web.archive.org/web/20120328192434/file:/C:/Documents%20and%20Settings/Giovanni/Desktop/Orientale/Papp1.htm"
+        }, 
+        {
+            "title_full": "\u00e1k csonkig \u00e9gtek. Prima parte: fenomeni di ricorrenza in Sandor Marai", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Papp1.pdf"
+        }, 
+        {
+            "title_full": "L\u2019evangelizzazione dell\u2019India: quale India?", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Conte1.pdf"
+        }, 
+        {
+            "title_full": "Le missioni cattoliche in Tibet. Gli studi italiani", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Amato1.pdf"
+        }, 
+        {
+            "title_full": "Xi\u2019an - Pompei: un gemellaggio di valenza storica", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Petrella1.pdf"
+        }, 
+        {
+            "title_full": "La presentazione del Giappone all\u2019Inghilterra attraverso la corrispondenza dei suoi mercanti nel primo Seicento", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Romano2.pdf"
+        }, 
+        {
+            "title_full": "Chindon-ya: il pazzariello giapponese", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Borriello3.pdf"
+        }, 
+        {
+            "title_full": "Le \u00abdonne di conforto\u00bb delle truppe giapponesi durante la seconda guerra mondiale", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Mancino1.pdf"
+        }, 
+        {
+            "title_full": "Il giardino giapponese in Italia", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Iarrusso1.pdf"
+        }, 
+        {
+            "title_full": ".", 
+            "url": "http://web.archive.org/web/20120328192434/file:/C:/Documents%20and%20Settings/Giovanni/Desktop/Orientale/papp2.htm"
+        }, 
+        {
+            "title_full": "A gyerty\u00e1k csonkig \u00e9gtek. Parte seconda: variazioni per un titolo e il valore simbolico delle candele e del fuoco", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Papp2.pdf"
+        }, 
+        {
+            "title_full": "Il \u00abLevante\u00bb una categoria letteraria trans-mediterranea?", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Carlino1.pdf"
+        }, 
+        {
+            "title_full": "Minima ugaritica:", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Criscuolo1.pdf"
+        }, 
+        {
+            "title_full": "\u00deMR in KTU 1.5119", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/criscuolo1.htm"
+        }, 
+        {
+            "title_full": "Alcune osservazioni sul toponimo \u00abIndia\u00bb", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Conte2.pdf"
+        }, 
+        {
+            "title_full": "\u00abNel dire e nel fare\u00bb. Esempi di raddoppiamento grammaticale nelle lingue austronesiane", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Riccio1.pdf"
+        }, 
+        {
+            "title_full": "Considerazioni sulla pittura dell\u2019epoca di Nara: il", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Capriati3.pdf"
+        }, 
+        {
+            "title_full": "Torige ritsujo by\u014dbu e lo Sh\u014dtoku Taishi nid\u014dji z\u014d", 
+            "url": "http://web.archive.org/web/20120328192434/file:/C:/Documents%20and%20Settings/Giovanni/Desktop/Orientale/capriati3.htm"
+        }, 
+        {
+            "title_full": "Gli scavi di archeologia subacquea nell\u2019isola di Takashima", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Petrella2.pdf"
+        }, 
+        {
+            "title_full": "Il", 
+            "url": "http://web.archive.org/web/20120328192434/file:/C:/Documents%20and%20Settings/Giovanni/Desktop/Orientale/borriello4.htm"
+        }, 
+        {
+            "title_full": "Kju sju Kagami di Engelbert Kaempfer", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Borriello4.pdf"
+        }, 
+        {
+            "title_full": "Akutagawa Ry\u016bnosuke e il suo interesse narrativo sulla figura del", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Mennella1.pdf"
+        }, 
+        {
+            "title_full": "kappa", 
+            "url": "http://web.archive.org/web/20120328192434/file:/C:/Documents%20and%20Settings/Giovanni/Desktop/Orientale/mennella1.htm"
+        }, 
+        {
+            "title_full": "Shibusa Shirazu Orchestra: tra Jazz e", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Gianfreda1.pdf"
+        }, 
+        {
+            "title_full": "L\u2019arabo", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/criscuolo2.htm"
+        }, 
+        {
+            "title_full": "lu\u0121ah nella comparazione semitica", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Criscuolo2.pdf"
+        }, 
+        {
+            "title_full": "L\u2019esercizio di", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Caruso1.pdf"
+        }, 
+        {
+            "title_full": "Mao chengji e Gulliver\u2019s Travels: due satire a confronto", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Barone1.pdf"
+        }, 
+        {
+            "title_full": "Il Centenario del raid automobilistico Pechino-Parigi", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Viggiano1.pdf"
+        }, 
+        {
+            "title_full": "A proposito dell\u2019immigrazione cinese in Campania: l\u2019insediamento nell\u2019avellinese e il caso di Solofra", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Luciano1.pdf"
+        }, 
+        {
+            "title_full": "L\u2019influenza dell\u2019ideologia imperiale sull\u2019archeologia del periodo Kofun", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Petrella3.pdf"
+        }, 
+        {
+            "title_full": "L\u2019esperienza giapponese di Erwin von Baelz", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Borriello5.pdf"
+        }, 
+        {
+            "title_full": "Tsukumogami: gli \u00abspiriti\u00bb delle cose", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Mennella2.pdf"
+        }, 
+        {
+            "title_full": "Agap\u00e9 ed eros in Deddoendo no omoide di Yoshimoto Banana", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Pelliccia1.pdf"
+        }, 
+        {
+            "title_full": "Grammaire compar\u00e9e des langues s\u00e9mitiques. \u00c9l\u00e9ments de phon\u00e9tique, de morphologie et de syntaxe", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Criscuolo3.pdf"
+        }, 
+        {
+            "title_full": "The Topography of the City-State of Ugarit", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Criscuolo4.pdf"
+        }, 
+        {
+            "title_full": "Napfelkelte (Alba) (trad. di Judit Papp)", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Buky1.pdf"
+        }, 
+        {
+            "title_full": "Kathmandu, Mahendranagar, Mumbai, Kalkota", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Domokos1.pdf"
+        }, 
+        {
+            "title_full": "Dag\u00e1ly el\u0151tt - Kivonatok a tengerb\u0151l", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Fenyvesi1.pdf"
+        }, 
+        {
+            "title_full": "Imuka \u00e1lma", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Halasz1.pdf"
+        }, 
+        {
+            "title_full": "Instead of justifying his not-being-there", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Domokos2.pdf"
+        }, 
+        {
+            "title_full": "L\u2019Occidente e la \u00abmorte sacra\u00bb: tra realt\u00e0 e sistemi di rappresentazione", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Ballinari1.pdf"
+        }, 
+        {
+            "title_full": "La \u00ablibert\u00e0 religiosa\u00bb dall\u2019inizio della Repubblica cinese ai nostri giorni", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Capristo1.pdf"
+        }, 
+        {
+            "title_full": "La salute della Cina: per una storia della politica sanitaria cinese dalla nascita della Repubblica Popolare all\u2019economia di mercato", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Caruso2.pdf"
+        }, 
+        {
+            "title_full": "Tradurre il dialetto del Kansai. Una proposta del racconto", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Manieri1.pdf"
+        }, 
+        {
+            "title_full": "Bulldog", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Manieri2.pdf"
+        }, 
+        {
+            "title_full": "Mure Y\u014dko tra", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Ingrosso1.pdf"
+        }, 
+        {
+            "title_full": "Relazioni di opposizione nelle forme composte in alcune lingue del Sud-est asiatico", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Riccio2.pdf"
+        }, 
+        {
+            "title_full": "Carte di viaggi e viaggi di carta. L\u2019Africa, Gerusalemme e l\u2019aldil\u00e0", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Conte3.pdf"
+        }, 
+        {
+            "title_full": "Le capitali nei paesi dell\u2019Europa Centrale e Orientale: Centri politici e laboratori culturali", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Papp3.pdf"
+        }, 
+        {
+            "title_full": "Il mondo di Banana Yoshimoto", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Pelliccia2.pdf"
+        }, 
+        {
+            "title_full": "Jan Andrzej Morsztyn: Poesie scelte (testo a fronte)", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Russo1.pdf"
+        }, 
+        {
+            "title_full": "L\u00e1szl\u00f3 Nemes: un aspirante scrittore ungherese al servizio della Royal Army in Italia", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Papp4.pdf"
+        }, 
+        {
+            "title_full": "T\u0171 a kazalban (Ago nel pagliaio)", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Nemes1.pdf"
+        }, 
+        {
+            "title_full": "Asimmetria del tempo e brutalit\u00e0 della storia in La nuova vita di Orhan Pamuk", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Fasolino1.pdf"
+        }, 
+        {
+            "title_full": "La stampa egiziana e il dibattito sullo scontro di civilt\u00e0 dopo l\u201911 settembre", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Gervasio1.pdf"
+        }, 
+        {
+            "title_full": "Note di storia di toponim\u00eca dell\u2019Oceano Indiano: Taprobane e D\u0113b", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Conte4.pdf"
+        }, 
+        {
+            "title_full": "Alcuni problemi circa una corretta descrizione del sistema vocalico hind\u012b-urd\u016b", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Bon1.pdf"
+        }, 
+        {
+            "title_full": "Un campano racconta la cosmogon\u00eca e la mitologia ind\u00f9: Giacomo Fenicio, S.J. (Capua 1558 - Porakkad 1632)", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Pereira1.pdf"
+        }, 
+        {
+            "title_full": "Sciamanesimo vecchio e nuovo in Giappone: analisi antropologiche", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Torsello1.pdf"
+        }, 
+        {
+            "title_full": "Abbigliamento giapponese nell\u2019iconografia occidentale dei secoli XVI-XVIII", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Mochimaru1.pdf"
+        }, 
+        {
+            "title_full": "Kajii Motojir\u014d tra watakushi sh\u014dsetsu e elementi modernisti", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Ciccone1.pdf"
+        }, 
+        {
+            "title_full": "Sakura no ki no shita ni wa (Sotto gli alberi di ciliegio)", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Ciccone2.pdf"
+        }, 
+        {
+            "title_full": "Remon (Il limone)", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Ciccone3.pdf"
+        }, 
+        {
+            "title_full": "Omekakesan", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Ingrosso2.pdf"
+        }, 
+        {
+            "title_full": "La via del guerriero nel XX secolo: il bushid\u014d tra strumentalizzazione e propaganda", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Castravelli1.pdf"
+        }, 
+        {
+            "title_full": "Gli scavi archeologici del genk\u014d b\u014drui: un muro difensivo e un simbolo di potenza", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Petrella4.pdf"
+        }, 
+        {
+            "title_full": "La Carta del Preste Juan / an\u00f3nimo del siglo XII", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Conte5.pdf"
+        }, 
+        {
+            "title_full": "Daniele Gattoni, Dall\u2019estremo Oriente all\u2019estremo occidente: storia delle migrazioni cinesi, giapponesi, coreane negli Stati Uniti dal 1848 al 1924", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Gattoni1.pdf"
+        }, 
+        {
+            "title_full": "Deutsche Briefe von \u00c4thiopiern aus der Protestantischen Mission: Vom Fall des T\u00e9wodros bis zur Unterwerfung des K\u00f6nigs Min\u00edlik (1869 bis 1878)", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Smidt1.pdf"
+        }, 
+        {
+            "title_full": "\u00abHi, kifek, \u00e7a va?\u00bb. Un\u2019avventura etnopragmatica nel Libano contemporaneo", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Carpi1.pdf"
+        }, 
+        {
+            "title_full": "I frammenti descrittivi di \u2018Azm\u012b Bi\u0161\u0101ra. Denuncia e resistenza nel romanzo al", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/MRConte1.pdf"
+        }, 
+        {
+            "title_full": "Na\u011f\u012bb Mahf\u016bz tra fides e laicit\u00e0. Una esegesi di al-Sukkariyya", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Fasolino2.pdf"
+        }, 
+        {
+            "title_full": "Preliminaries of a Project in Special-Field Lexicography", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Kiss1.pdf"
+        }, 
+        {
+            "title_full": "Strannoe \u010dado XXogo veka: Gender as Cosmic Mystery in Arkady and Boris Strugatsky\u2019s Otel\u2019 U pogib\u0161ego al\u2019pinista", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Cederlof1.pdf"
+        }, 
+        {
+            "title_full": "L\u2019espressione linguistica del potere nell\u2019Iran achemenide", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Lanzetta1.pdf"
+        }, 
+        {
+            "title_full": "Yufa you meiyou? Le condizioni della nascita (o dell\u2019assenza) dello studio grammaticale in Cina", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Pellin1.pdf"
+        }, 
+        {
+            "title_full": "Lao She e lo humour", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Barone2.pdf"
+        }, 
+        {
+            "title_full": "Brave Daughters of the Buddha: The Feminisms of the Burmese Buddhists Nuns", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Bonnet-Acosta1.pdf"
+        }, 
+        {
+            "title_full": "A Reflection on the \u00abInvisibleness\u00bb of Tibetans in Taiwan --Close look at its relationship with Taiwanese nationalism-", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Okawa1.pdf"
+        }, 
+        {
+            "title_full": "Sur la coh\u00e9rence textuelle dans le po\u00e8me ha\u00efku", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Frentiu1.pdf"
+        }, 
+        {
+            "title_full": "Quest e nostalgia nella narrativa di viaggio di Murakami Haruki", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Di%20Gennaro1.pdf"
+        }, 
+        {
+            "title_full": "Manifestazione del tragico nella messinscena di Othello in stile N\u014d di Ueda Munakata Kuniyoshi", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Ciccone4.pdf"
+        }, 
+        {
+            "title_full": "Studi e ricerche sulle vie di Pellegrinaggio del Medioevo", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Conte6.pdf"
+        }, 
+        {
+            "title_full": "La Cina in Italia. Una bibliografia dal 1899 al 1999", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Del%20Faro1.pdf"
+        }, 
+        {
+            "title_full": "La lingua malata: linguaggio e violenza nella filosofia contemporanea", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Manco1.pdf"
+        }, 
+        {
+            "title_full": "Shashin, Japanese Canadian Photography to 1942", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Silvestrini1.pdf"
+        }, 
+        {
+            "title_full": "Deutsche Briefe von \u00c4thiopiern aus der Protestantischen Mission: Von der Reichseinigung unter Yohannis IV. bis zur grossen Hungersnot (1879 bis 1889)", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Smidt2.pdf"
+        }, 
+        {
+            "title_full": "Riflessioni sul Mediterraneo: dall\u2019archivio di Iain Chambers alla geografia gotica di Massimo Scotti", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Carlino2.pdf"
+        }, 
+        {
+            "title_full": "Didaskal...aj g\u00a6r \u00d0 kair\u00d2j, o\u00d9k \u00a2ntilog...aj (Or. 40, 44). Forme di ascolto in contesto didattico nelle Orazioni di Gregorio di Nazianzo", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Barone%20Pro.pdf"
+        }, 
+        {
+            "title_full": "Il contributo di \u2018Al\u012b al-D\u016b\u2018\u0101\u011f\u012b alla rinascita letteraria e teatrale della Tunisia. Echi di teatro dell\u2019assurdo nella pi\u00e8ce teatrale R\u0101\u2018\u012b al-nu\u011f\u016bm (\u00abIl guardiano delle stelle\u00bb)", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Conte7.pdf"
+        }, 
+        {
+            "title_full": "R\u0101\u2018\u012b al-nu\u011f\u016bm (Il guardiano delle stelle)(Traduzione di Maria Rosaria Conte)", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Ali.pdf"
+        }, 
+        {
+            "title_full": "A Cultural Practice Between Material Culture and Ideology: Sanitary Appliances in Modern, Traditional Levantine Jewry, and in the Norms Set by a Local Ritualist", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Nissan.pdf"
+        }, 
+        {
+            "title_full": "Giovanni Battista nella tradizione islamica", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Cuciniello.pdf"
+        }, 
+        {
+            "title_full": "Aspetti del fenomeno di raddoppiamento nella lingua ungherese e le \u2018parole gemelle\u2019", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Papp5.pdf"
+        }, 
+        {
+            "title_full": "Das erste Kapitel der Frauendichtung", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Sardi.pdf"
+        }, 
+        {
+            "title_full": "Nuclei slavo-pagani nella letteratura polacca", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Russo2.pdf"
+        }, 
+        {
+            "title_full": "L\u2019epopea camoniana nel trattato del goano Jo\u00e3o da Cunha Jaques", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Pereira2.pdf"
+        }, 
+        {
+            "title_full": "Il Cattolicesimo in Cina agli occhi del Cardi-nale Zen: vescovo di Hong Kong", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Capristo2.pdf"
+        }, 
+        {
+            "title_full": "Viaggio nella terra di primavera: Midaregami di Yosano Akiko", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Ponzini.pdf"
+        }, 
+        {
+            "title_full": "Il Cardinale Celso Costantini e la Cina. Un protagonista nella Chiesa e nel mondo del XXI secolo", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Del%20Faro2.pdf"
+        }, 
+        {
+            "title_full": "Michel Quitout, Paysage linguistique et enseignement des langues au Maghreb des origines \u00e0 nos jours: L\u2019amazighe, l\u2019arabe et le fran\u00e7ais au Maroc, en Alg\u00e9rie, en Tunisie et en Libye (Europe-Maghreb)", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Mion.pdf"
+        }, 
+        {
+            "title_full": "From the Ethnikos Dikhasmos to the Ethnike Kata-strophe (1916-1923): Eleftherios Venizelos and King Constantine I", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Kaloudis.pdf"
+        }, 
+        {
+            "title_full": "Hemingway e io - oppure: io e Hemingway", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Nemes2.pdf"
+        }, 
+        {
+            "title_full": "Ist der \u00dcbersetzer Autor oder Interpret?", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Vladu.pdf"
+        }, 
+        {
+            "title_full": "Scalarit\u00e9 endophrastique vs scalarit\u00e9 exophrastique: quels types d\u2019\u00e9chelle?", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Inkova.pdf"
+        }, 
+        {
+            "title_full": "L\u2019allocuzione indiretta in ebraico antico", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Esposito.pdf"
+        }, 
+        {
+            "title_full": "Recent Changes in the Process of Obtaining Israeli Citizenship. A Validation of the \u00abEthno-Republican\u00bb Discourse?", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Marzano.pdf"
+        }, 
+        {
+            "title_full": "Scrittrici britanniche del Settecento e", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/D%27Ezio.pdf"
+        }, 
+        {
+            "title_full": "Tahamul, nang e namus: strutture - simbolo di stra-tificazione socio-culturale in Mille splendidi soli di Khaled Hosseini", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Fasolino3.pdf"
+        }, 
+        {
+            "title_full": "Desde Chechenia hasta Osetia del Sur. Breve an\u00e1lisis de las guerras m\u00e1s recientes en el C\u00e1ucaso", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Veith.pdf"
+        }, 
+        {
+            "title_full": "Dialogando su antiche questioni e nuovi spiragli dell\u2019evangelizzazione in Cina. Vincenza Cinzia Capristo intervista Angelo S. Lazzarotto", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Capristo3.pdf"
+        }, 
+        {
+            "title_full": "La \u00abfebbre dell\u2019interpretariato\u00bb in Cina", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Orsini2.pdf"
+        }, 
+        {
+            "title_full": "Japanese calligraphy: the path to writing as art", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Frentiu2.pdf"
+        }, 
+        {
+            "title_full": "The Resurgence of Nationalism in China and Japan: A Comparative Analysis", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Pugliese.pdf"
+        }, 
+        {
+            "title_full": "Esempi di affissazione con valore intensivo nel verbo maleo-polinesiano", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Riccio3.pdf"
+        }, 
+        {
+            "title_full": "Matteo Ripa e il Collegio dei Cinesi di Napoli (1682-1869) Percorso documentario e iconografico Catalogo della Mostra", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Del%20Faro3.pdf"
+        }, 
+        {
+            "title_full": "Italia-Cina. Un incontro di lunga durata", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Del%20Faro4.pdf"
+        }, 
+        {
+            "title_full": "L\u2019ultimo Missionario (Oriente)", 
+            "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/Mennella3.pdf"
+        }
+    ], 
+    "title": "Orientalia Parthenopea Journal", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://web.archive.org/web/20120328192434/http://www.orientaliaparthenopea.org/IngCollana.htm", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

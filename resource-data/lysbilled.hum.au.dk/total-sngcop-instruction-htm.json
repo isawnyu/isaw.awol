@@ -1,0 +1,91 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Text search.", 
+    "domain": "lysbilled.hum.au.dk", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Black Sea Coins in Danish Collections", 
+        "url": "http://lysbilled.hum.au.dk/total/sngcop/introduction.htm"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "data"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6419117744065750265", 
+            "resource_date": "2012-08-04T08:35:45.135-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:16.693646"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/08/black-sea-coins-in-danish-collections.html", 
+            "resource_date": "2012-08-04T08:35:45.135-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:16.693658"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "total-sngcop-instruction-htm", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "Instruction in how to use the data base", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://lysbilled.hum.au.dk/total/sngcop/instruction.htm", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

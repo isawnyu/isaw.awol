@@ -1,0 +1,572 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "The Archaeological Journal. The Royal Archaeological Institute (RAI) is a leading national archaeology society and since 1844 we have annually published the Archaeological Journal. The journal contains papers on the Institute's interests, which span all aspects of the archaeological, architectural and landscape history of the British Isles. It presents the results of archaeological and architectural survey and fieldwork on sites and monuments of all periods as well as syntheses and overviews of such work in the British Isles. For several years, the RAI has been running a project to digitally scan and make available back issues of the Archaeological Journal. Volumes 1-120, the first 120 years of our journal, are now available to view. The next stage of our project is to scan journals 121-160 and make these available. Our most recent journals (since 2004) are available through our website for subscribing members and libraries, and on a pay-per-view basis on ArchLib.", 
+    "domain": "archaeologydataservice.ac.uk", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "Great Britain", 
+        "archaeology", 
+        "open access"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7618046179210567183", 
+            "resource_date": "2013-01-15T13:26:04.163-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:22.470311"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/newly-open-access-journal.html", 
+            "resource_date": "2013-01-15T13:26:04.163-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:22.470327"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "archives-view-archjournal", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Volume 1 (1844)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=1&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 2 (1845)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=2&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 3 (1846)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=3&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 4 (1847)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=4&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 5 (1848)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=5&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 6 (1849)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=6&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 7 (1850)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=7&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 8 (1851)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=8&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 9 (1852)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=9&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 10 (1853)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=10&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 11 (1854)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=11&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 12 (1855)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=12&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 13 (1856)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=13&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 14 (1857)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=14&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 15 (1858)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=15&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 16 (1859)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=16&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 17 (1860)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=17&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 18 (1861)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=18&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 19 (1862)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=19&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 20 (1863)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=20&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 21 (1864)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=21&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 22 (1865)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=22&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 23 (1866)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=23&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 24 (1867)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=24&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 25 (1868)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=25&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 26 (1869)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=26&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 27 (1870)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=27&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 28 (1871)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=28&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 29 (1872)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=29&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 30 (1873)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=30&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 31 (1874)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=31&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 32 (1875)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=32&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 33 (1876)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=33&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 34 (1877)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=34&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 35 (1878)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=35&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 36 (1879)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=36&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 37 (1880)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=37&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 38 (1881)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=38&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 39 (1882)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=39&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 40 (1883)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=40&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 41 (1884)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=41&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 42 (1885)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=42&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 43 (1886)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=43&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 44 (1887)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=44&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 45 (1888)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=45&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 46 (1889)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=46&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 47 (1890)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=47&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 48 (1891)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=48&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 49 (1892)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=49&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 50 (1893)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=50&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 51 (1894)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=51&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 52 (1895)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=52&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 53 (1896)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=53&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 54 (1897)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=54&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 55 (1898)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=55&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 56 (1899)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=56&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 57 (1900)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=57&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 58 (1901)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=58&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 59 (1902)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=59&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 60 (1903)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=60&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 61 (1904)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=61&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 62 (1905)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=62&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 63 (1906)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=63&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 64 (1907)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=64&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 65 (1908)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=65&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 66 (1909)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=66&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 67 (1910)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=67&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 68 (1911)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=68&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 69 (1912)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=69&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 70 (1913)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=70&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 71 (1914)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=71&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 72 (1915)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=72&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 73 (1916)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=73&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 74 (1917)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=74&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 75 (1918)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=75&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 76 (1919)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=76&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 77 (1920)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=77&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 78 (1921)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=78&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 79 (1922)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=79&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 80 (1923)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=80&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 81 (1924)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=81&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 82 (1925)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=82&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 83 (1926)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=83&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 84 (1927)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=84&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 85 (1928)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=85&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 86 (1929)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=86&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 87 (1930)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=87&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 88 (1931)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=88&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 89 (1932)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=89&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 90 (1933)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=90&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 91 (1934)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=91&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 92 (1935)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=92&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 93 (1936)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=93&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 94 (1937)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=94&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 95 (1938)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=95&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 96 (1939)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=96&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 97 (1940)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=97&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 98 (1941)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=98&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 99 (1942)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=99&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 100 (1943)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=100&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 101 (1944)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=101&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 102 (1945)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=102&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 103 (1946)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=103&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 104 (1947)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=104&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 105 (1948)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=105&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 106 (1949)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=106&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 107 (1950)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=107&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 108 (1951)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=108&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 109 (1952)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=109&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 110 (1953)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=110&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 111 (1954)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=111&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 112 (1955)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=112&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 113 (1956)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=113&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 114 (1957)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=114&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 115 (1958)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=115&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 116 (1959)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=116&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 117 (1960)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=117&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 118 (1961)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=118&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 119 (1962)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=119&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }, 
+        {
+            "title_full": "Volume 120 (1963)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/contents.cfm?vol=120&CFID=43172&CFTOKEN=4B36EDAD-9576-4E38-B2094C843172EA0F"
+        }
+    ], 
+    "title": "The Archaeological Journal", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://archaeologydataservice.ac.uk/archives/view/archjournal/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,263 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Visible Past. ISSN 2159-9378 (online).", 
+    "domain": "visiblepast.net", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "2159-9378"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "issn": "2159-9378", 
+        "title_full": "Visible Past", 
+        "url": "http://visiblepast.net/see/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [], 
+    "languages": [], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3632498067413349333", 
+            "resource_date": "2013-12-05T11:59:38.318-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:13.453547"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/visible-past.html", 
+            "resource_date": "2013-12-05T11:59:38.318-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:13.453562"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3632498067413349333", 
+            "resource_date": "2013-12-05T11:59:38.318-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:13.455232"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/visible-past.html", 
+            "resource_date": "2013-12-05T11:59:38.318-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:13.455243"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:08:13.490616"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "see", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Visible Past", 
+            "url": "http://visiblepast.net/see/"
+        }, 
+        {
+            "title_full": "Visible Past is..", 
+            "url": "http://visiblepast.net/see/about/"
+        }, 
+        {
+            "title_full": "Tutorials", 
+            "url": "http://visiblepast.net/see/tutorials/"
+        }, 
+        {
+            "title_full": "Contact", 
+            "url": "http://visiblepast.net/see/test/"
+        }, 
+        {
+            "title_full": "Feedback", 
+            "url": "http://visiblepast.net/see/feedback/"
+        }, 
+        {
+            "title_full": "Papers Art History Archeology", 
+            "url": "http://visiblepast.net/see/section/papers/"
+        }, 
+        {
+            "title_full": "Art History", 
+            "url": "http://visiblepast.net/see/section/papers/art-history/"
+        }, 
+        {
+            "title_full": "Archeology", 
+            "url": "http://visiblepast.net/see/section/papers/archeology/"
+        }, 
+        {
+            "title_full": "Africa", 
+            "url": "http://visiblepast.net/see/section/africa/"
+        }, 
+        {
+            "title_full": "Americas", 
+            "url": "http://visiblepast.net/see/section/americas/"
+        }, 
+        {
+            "title_full": "Asia China Indian Subcontinent Middle East", 
+            "url": "http://visiblepast.net/see/section/asia/"
+        }, 
+        {
+            "title_full": "China", 
+            "url": "http://visiblepast.net/see/section/asia/china/"
+        }, 
+        {
+            "title_full": "Indian Subcontinent", 
+            "url": "http://visiblepast.net/see/section/asia/india/"
+        }, 
+        {
+            "title_full": "Middle East", 
+            "url": "http://visiblepast.net/see/section/asia/mideast/"
+        }, 
+        {
+            "title_full": "Australia and Pacific Islands", 
+            "url": "http://visiblepast.net/see/section/australiapac/"
+        }, 
+        {
+            "title_full": "Europe", 
+            "url": "http://visiblepast.net/see/section/europe/"
+        }, 
+        {
+            "title_full": "Cilicia Bickici Highland", 
+            "url": "http://visiblepast.net/see/section/cilicia/"
+        }, 
+        {
+            "title_full": "Bickici Highland", 
+            "url": "http://visiblepast.net/see/section/cilicia/bickici-high/"
+        }, 
+        {
+            "title_full": "Antiquity Prehistory Roman Empire", 
+            "url": "http://visiblepast.net/see/section/antiquity/"
+        }, 
+        {
+            "title_full": "Prehistory", 
+            "url": "http://visiblepast.net/see/section/prehistory/"
+        }, 
+        {
+            "title_full": "Roman Empire", 
+            "url": "http://visiblepast.net/see/section/antiquity/roman-empire/"
+        }, 
+        {
+            "title_full": "Medieval", 
+            "url": "http://visiblepast.net/see/section/medieval/"
+        }, 
+        {
+            "title_full": "Modern 19th Century 20th Century World War II Recent History", 
+            "url": "http://visiblepast.net/see/section/modern/"
+        }, 
+        {
+            "title_full": "19th Century", 
+            "url": "http://visiblepast.net/see/section/modern/19th-century/"
+        }, 
+        {
+            "title_full": "20th Century World War II", 
+            "url": "http://visiblepast.net/see/section/modern/20th-century/"
+        }, 
+        {
+            "title_full": "World War II", 
+            "url": "http://visiblepast.net/see/section/modern/20th-century/world-war-ii/"
+        }, 
+        {
+            "title_full": "Recent History", 
+            "url": "http://visiblepast.net/see/section/recent-history/"
+        }
+    ], 
+    "title": "Visible Past", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://visiblepast.net/see/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

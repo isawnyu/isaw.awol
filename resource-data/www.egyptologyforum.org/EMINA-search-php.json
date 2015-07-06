@@ -1,0 +1,92 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "of Egyptian mummy resources in North America, compiled by S. J. Wolfe (Mummies in Nineteenth Century America; Ancient Egyptians as Artifacts; McFarland, 2009) from thousands of digitized articles in newspapers, periodicals and books, as well as web sites, personal recollections, correspondences, and regular print resources. The database will be continually expanding and changing as new information is added. Updates will be loaded on a monthly basis unless it becomes expedient to upload more often. The database consists of two tables.", 
+    "domain": "www.egyptologyforum.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "EMINA: Egyptian Mummies in North America", 
+        "url": "http://www.egyptologyforum.org/EMINA/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "data", 
+        "database"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2165824896513328223", 
+            "resource_date": "2014-04-19T08:02:26.483-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:09.186948"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/04/emina-egyptian-mummies-in-north-america.html", 
+            "resource_date": "2014-04-19T08:02:26.483-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:09.186959"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "EMINA-search-php", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "searchable database", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.egyptologyforum.org/EMINA/search.php", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

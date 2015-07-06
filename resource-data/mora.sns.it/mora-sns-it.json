@@ -1,0 +1,163 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Monumenta rariora: La Fortuna dela Stattuaria Antica nei Repertori a Stampa - The Reception of Antique Statuary in Collections of Engravings. Il progetto prevede la realizzazione di un corpus di repertori di incisioni a stampa sulla statuaria antica la cui gestione informatizzata permetta una fruizione ottimale e contestualizzata dei testi che lo costituiscono, in genere di difficile reperimento. Il lavoro \u00e8 stato strutturato su due fronti differenti ma correlati: da una parte la considerazione dell'oggetto rappresentato da un punto di vista archeologico e della sua storia collezionistica, dall'altra lo studio dell'incisione finalizzato alla determinazione di vari rapporti intercorrenti all'interno delle tradizioni culturali che afferiscono all'opera medesima. La creazione di una base di dati scientificamente sostenibile, rigorosa e continuamente aggiornabile, si accompagna ad un sistema di utilizzo che permette agevolmente l'intera fruizione e che fornisce all'utente la possibilit\u00e0 di seguire dei personali \"itinerari\" di ricerca. The project foresees the realization of a corpus of engravings collections on ancient sculpture. Its computerised management permits an optimal and contextualised fruition of the texts compiling it, which are generally very difficult to find. The work has been approached from two different angles which are correlated: on one side, consideration of the represented object from an archaeological point of view and the history of its collection, and on the other, the study of the finalised engravings so as to determine the various underlying relationships within the cultural traditions referring to the work itself. The creation of a scientifically sustainable data base, rigorous and continuously up-datable, is accompanied by a user system which easily permits its entire fruition and gives the user the possibility of following personal search\" itineraries. \".", 
+    "domain": "mora.sns.it", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Monumenta rariora: La Fortuna dela Stattuaria Antica nei Repertori a Stampa - The Reception of Antique Statuary in Collections of Engravings", 
+        "url": "http://mora.sns.it/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "ancient", 
+        "art", 
+        "collection", 
+        "antiquity", 
+        "reception", 
+        "statuary"
+    ], 
+    "languages": [
+        "it"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6722662586229612944", 
+            "resource_date": "2015-02-04T10:57:21.204-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:38.826764"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/monumenta-rariora-reception-of-antique.html", 
+            "resource_date": "2015-02-04T10:57:21.204-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:38.826780"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6722662586229612944", 
+            "resource_date": "2015-02-04T10:57:21.204-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:38.833912"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/monumenta-rariora-reception-of-antique.html", 
+            "resource_date": "2015-02-04T10:57:21.204-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:38.833928"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "volume", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:11:38.835421"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "mora-sns-it", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Monumenta rariora: La Fortuna dela Stattuaria Antica nei Repertori a Stampa - The Reception of Antique Statuary in Collections of Engravings", 
+            "url": "http://mora.sns.it/"
+        }
+    ], 
+    "title": "Monumenta rariora: La Fortuna dela Stattuaria Antica nei Repertori a Stampa - The Reception of Antique Statuary in Collections of Engravings", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://mora.sns.it/", 
+    "url_alternates": [], 
+    "volume": "-", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

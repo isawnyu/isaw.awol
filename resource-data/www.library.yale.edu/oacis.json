@@ -1,0 +1,189 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "OACIS for the Middle East (Online Access to Consolidated Information on Serials) is a union list of serials from or about the Middle East. The mission of OACIS is to improve access to Middle Eastern serials in libraries in the United States, Europe, and the Middle East. The OACIS Project / press releases / proposal / advisory board /. member universities and libraries / \"On the Road\" / project information / project development status / project surveys, statistics, and evaluations.", 
+    "domain": "www.library.yale.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "OACIS for the Middle East", 
+        "url": "http://www.library.yale.edu/oacis/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Middle East"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6791844732397238324", 
+            "resource_date": "2012-07-23T09:49:53.173-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:44.349278"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/oacis-for-middle-east.html", 
+            "resource_date": "2012-07-23T09:49:53.173-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:44.349295"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6791844732397238324", 
+            "resource_date": "2012-07-23T09:49:53.173-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:44.352198"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/oacis-for-middle-east.html", 
+            "resource_date": "2012-07-23T09:49:53.173-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:44.352212"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:11:44.367987"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "oacis", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "OACIS for the Middle East", 
+            "url": "http://www.library.yale.edu/oacis/"
+        }, 
+        {
+            "title_full": "press releases", 
+            "url": "http://www.library.yale.edu/oacis/oacis_press.html"
+        }, 
+        {
+            "title_full": "proposal", 
+            "url": "http://www.library.yale.edu/oacis/oacistext.html"
+        }, 
+        {
+            "title_full": "advisory board", 
+            "url": "http://www.library.yale.edu/oacis/oacis_partners.html"
+        }, 
+        {
+            "title_full": "member universities and libraries", 
+            "url": "http://www.library.yale.edu/oacis/oacis_members.html"
+        }, 
+        {
+            "title_full": "On the Road", 
+            "url": "http://www.library.yale.edu/oacis/oacis_road.html"
+        }, 
+        {
+            "title_full": "project information", 
+            "url": "http://www.library.yale.edu/oacis/project/"
+        }, 
+        {
+            "title_full": "project development status", 
+            "url": "http://www.library.yale.edu/oacis/oacis_dev.html"
+        }, 
+        {
+            "title_full": "project surveys, statistics, and evaluations", 
+            "url": "http://www.library.yale.edu/oacis/oacis_surveys.html"
+        }
+    ], 
+    "title": "OACIS for the Middle East", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.library.yale.edu/oacis/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

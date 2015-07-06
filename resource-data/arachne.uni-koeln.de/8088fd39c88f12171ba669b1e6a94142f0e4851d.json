@@ -1,0 +1,178 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Arachne Monument Browser. Usually object information in the database Arachne is developed by inquiries. With this in mind, browsing is the common navigation form for information retrieval. Although Arachne already provides this opportunity within the attached context browser, it can be realized more explicitly within some exemplified, figuratively created monuments and types. Ara PacisSarcophagiPergamon AltarTrajan\u2019s ColumnMercator\u2019s Map of Cologne.", 
+    "domain": "arachne.uni-koeln.de", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Arachne Monument Browser", 
+        "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/182"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Arachne", 
+        "DAI"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2804741766201441651", 
+            "resource_date": "2012-07-16T11:28:04.958-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:35.687644"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/arachne-monument-browser.html", 
+            "resource_date": "2012-07-16T11:28:04.958-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:35.687659"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2804741766201441651", 
+            "resource_date": "2012-07-16T11:28:04.958-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:35.689053"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/arachne-monument-browser.html", 
+            "resource_date": "2012-07-16T11:28:04.958-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:35.689064"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:35.696841"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "8088fd39c88f12171ba669b1e6a94142f0e4851d", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Arachne Monument Browser", 
+            "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/182"
+        }, 
+        {
+            "title_full": "Ara Pacis", 
+            "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/200"
+        }, 
+        {
+            "title_full": "Sarcophagi", 
+            "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/206"
+        }, 
+        {
+            "title_full": "Pergamon Altar", 
+            "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/201"
+        }, 
+        {
+            "title_full": "Trajan\u2019s Column", 
+            "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/202"
+        }, 
+        {
+            "title_full": "Mercator\u2019s Map of Cologne", 
+            "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/227"
+        }
+    ], 
+    "title": "Arachne Monument Browser", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/182", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

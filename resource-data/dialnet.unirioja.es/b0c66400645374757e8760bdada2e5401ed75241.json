@@ -1,0 +1,96 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Gallaecia. ISSN: 0211-8653. Journal table of contents.", 
+    "domain": "dialnet.unirioja.es", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0211-8653"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "issn": "0211-8653", 
+        "title_full": "Gallaecia", 
+        "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=611"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5594714661926615041", 
+            "resource_date": "2011-12-23T08:01:20.974-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:22.918276"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html", 
+            "resource_date": "2011-12-23T08:01:20.974-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:22.918286"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "b0c66400645374757e8760bdada2e5401ed75241", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "16 (*)", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=611&clave_busqueda=78983", 
+    "url_alternates": [], 
+    "volume": "16", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

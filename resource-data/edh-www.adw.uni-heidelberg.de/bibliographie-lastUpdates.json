@@ -1,0 +1,92 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Epigraphischen Datenbank Heidelberg - Epigraphic Database Heidelberg (EDH). Die Aufgabe der Epigraphischen Datenbank Heidelberg (EDH) besteht in der systematischen Aufnahme der antiken lateinischen und bilinguen (dabei zumeist lateinisch-griechischen) Inschriften in einer komplexen Datenbank. Aufgrund ihrer interdisziplin\u00e4r angelegen Konzeption und Arbeitsweise z\u00e4hlt sie zu den international f\u00fchrenden Datenbankvorhaben zur raschen Sammlung und zuverl\u00e4ssigen historischen Auswertung epigraphischer Zeugnisse. Die besonderen Merkmale der EDH liegen auf der regionalen Systematik, der beliebigen Kombinierbarkeit der gespeicherten Metainformationen und der wechselseitigen Verkn\u00fcpfung der Epigraphischen Text-Datenbank mit den beiden weiteren Teildatenbanken der EDH, der Epigraphischen Bibliographie und der Epigraphischen Fotothek. Ihr Ziel liegt darin, die epigraphische Dokumentation der Provinzen des r\u00f6mischen Reiches bis zum Jahr 2020 (vorgesehenem Laufzeitende) so vollst\u00e4ndig und zuverl\u00e4ssig wie m\u00f6glich f\u00fcr online-Recherchen zur Verf\u00fcgung zu stellen. Auf Beschlu\u00df der Commissione epigrafia e informatica der AIEGL aus dem Jahr 2003 f\u00fcr die Errichtung der internationalen epigraphischen Datenbankf\u00f6deration EAGLE (Electronic Archives of Greek and Latin Epigraphy) obliegt der EDH seitdem die Betreuung der Inschriften der r\u00f6mischen Provinzen, w\u00e4hrend die bis dahin \u00fcber die EDH bereits erfa\u00dften Inschriften Italiens der Epigraphic Database Rome (EDR) zur weiteren Bearbeitung und Vervollst\u00e4ndigung des Datenbestandes durch letztere \u00fcberlassen worden sind. Zweck der EAGLE-F\u00f6deration ist es, m\u00f6glichst alle lateinischen und griechischen Inschriften der Antike nach einheitlichen Kritierien im Internet zug\u00e4nglich zu machen. Die Gr\u00fcndung von EDR erfolgte zu diesem Zweck in enger Kooperation mit der EDH und nach deren Modell. The task of the Epigraphic Database Heidelberg (EDH) is the systematic entry of ancient Latin and bilingual (usually Latin and Greek) inscriptions into a complex database. As a result of its interdisciplinary approach, conception and method of work EDH is to be counted among the leading international database projects which collects and provides reliable historical analysis of epigraphic monuments. A distinguishing feature of EDH is its regional focus, its capability of combining the stored metadata as freely as possible and the reciprocal linking of the Epigraphic Text Database with both of the constituent databases of EDH, the Bibliographic Database and the Photographic Database. Its aim is to render the epigraphic documentation of the provinces of the Roman Empire as completely and reliably as possible for online research work. Under the leadership of the Commissione epigrafia e informatica of the AIEGL a decision was made in 2003 to create an international epigraphic database confederation EAGLE (Electronic Archives of Greek and Latin Epigraphy). Since then EDH is responsible for the inscriptions of the Roman provinces. The inscriptions of Italy which had already been entered into EDH were passed on to the Epigraphic Database Rome (EDR). It is now the domain of EDR to improve these records as well as adding to their number in order to complete the entry of all inscriptions of Italy. The long term aim of this confederation is to make all Latin and Greek inscriptions from Antiquity available on the Internet in a standardised system of criteria. It was with this in mind that EDR was founded on the model of and in cooperation with EDH. The Epigraphic Database Heidelberg contains the texts of Latin and bilingual (i. e. Latin-Greek) inscriptions of the Roman Empire. The epigraphic monuments are collected and kept up to date on the basis of modern research. With the help of seach functions specific queries can be carried out - e. g. a search for words in inscriptions and / or particular descriptive data. The seach results are often displayed together with photos and drawings. The geographic focus is provided by the provinces of the Roman Empire. The total number of records rises continuously. The Research Project is made up of three constituent databases.", 
+    "domain": "edh-www.adw.uni-heidelberg.de", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Epigraphischen Datenbank Heidelberg - Epigraphic Database Heidelberg (EDH)", 
+        "url": "http://edh-www.adw.uni-heidelberg.de/home"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "data", 
+        "database"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7813010385594992633", 
+            "resource_date": "2013-09-04T07:53:47.139-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:55.416766"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/epigraphic-database-heidelberg-edh.html", 
+            "resource_date": "2013-09-04T07:53:47.139-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:55.416779"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "bibliographie-lastUpdates", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "Bibliographic Database ( last update )", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://edh-www.adw.uni-heidelberg.de/bibliographie/lastUpdates", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

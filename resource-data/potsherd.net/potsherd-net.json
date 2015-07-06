@@ -1,0 +1,269 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 3 June 2011. Updated 27 November 2012]. POTSHERD - Atlas of Roman Pottery.", 
+    "domain": "potsherd.net", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "POTSHERD - Atlas of Roman Pottery", 
+        "url": "http://potsherd.net/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "atlas", 
+        "pottery", 
+        "Roman", 
+        "ceramics"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3180585578175116770", 
+            "resource_date": "2012-11-27T18:34:33.264-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:55.048110"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/potsherd-atlas-of-roman-pottery.html", 
+            "resource_date": "2012-11-27T18:34:33.264-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:55.048127"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3180585578175116770", 
+            "resource_date": "2012-11-27T18:34:33.264-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:55.050070"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/potsherd-atlas-of-roman-pottery.html", 
+            "resource_date": "2012-11-27T18:34:33.264-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:55.050082"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "volume", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:55.098767"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "potsherd-net", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "POTSHERD - Atlas of Roman Pottery", 
+            "url": "http://potsherd.net/"
+        }, 
+        {
+            "title_full": "The pages include an introductory Atlas of Roman Pottery , containing descriptions and distribution maps of types of Roman pottery (particularly types found in Britain)", 
+            "url": "http://potsherd.net/atlas/index.html"
+        }, 
+        {
+            "title_full": "The pages of the Atlas describing the individual wares can be accessed through the main menu, which lists the wares by CLASS (table wares, cooking wares, transport amphoras etc) or SOURCE (by province of origin). Links to these indices will also be found in the main menu bar", 
+            "url": "http://potsherd.net/atlas/Class/ALL/index.html"
+        }, 
+        {
+            "title_full": "The pages of the Atlas describing the individual wares can be accessed through the main menu, which lists the wares by CLASS (table wares, cooking wares, transport amphoras etc) or SOURCE (by province of origin). Links to these indices will also be found in the main menu bar", 
+            "url": "http://potsherd.net/atlas/Source/ALL/index.html"
+        }, 
+        {
+            "title_full": "Atlas", 
+            "url": "http://potsherd.net/atlas/"
+        }, 
+        {
+            "title_full": "Publications", 
+            "url": "http://potsherd.net/atlas/publications/"
+        }, 
+        {
+            "title_full": "All wares", 
+            "url": "http://potsherd.net/atlas/ware/ALL"
+        }, 
+        {
+            "title_full": "All classes", 
+            "url": "http://potsherd.net/atlas/Class/ALL"
+        }, 
+        {
+            "title_full": "Amphoras", 
+            "url": "http://potsherd.net/atlas/Class/AMPH"
+        }, 
+        {
+            "title_full": "Terra Sigillata", 
+            "url": "http://potsherd.net/atlas/Class/TS"
+        }, 
+        {
+            "title_full": "Coarse wares", 
+            "url": "http://potsherd.net/atlas/Class/COAR"
+        }, 
+        {
+            "title_full": "Fine wares", 
+            "url": "http://potsherd.net/atlas/Class/FINE"
+        }, 
+        {
+            "title_full": "Mortaria", 
+            "url": "http://potsherd.net/atlas/Class/MORT"
+        }, 
+        {
+            "title_full": "All sources", 
+            "url": "http://potsherd.net/atlas/Source/ALL"
+        }, 
+        {
+            "title_full": "Britain", 
+            "url": "http://potsherd.net/atlas/Source/BRIT"
+        }, 
+        {
+            "title_full": "Gaul", 
+            "url": "http://potsherd.net/atlas/Source/GAUL"
+        }, 
+        {
+            "title_full": "Germania", 
+            "url": "http://potsherd.net/atlas/Source/GERM"
+        }, 
+        {
+            "title_full": "Iberia", 
+            "url": "http://potsherd.net/atlas/Source/HISP"
+        }, 
+        {
+            "title_full": "Italy", 
+            "url": "http://potsherd.net/atlas/Source/ITAL"
+        }, 
+        {
+            "title_full": "Africa", 
+            "url": "http://potsherd.net/atlas/Source/AFRI"
+        }, 
+        {
+            "title_full": "Eastern Empire", 
+            "url": "http://potsherd.net/atlas/Source/ORIE"
+        }, 
+        {
+            "title_full": "Terra sigillata kilns", 
+            "url": "http://potsherd.net/mapping/tskilns"
+        }, 
+        {
+            "title_full": "Romano-British kilns (GB)", 
+            "url": "http://potsherd.net/mapping/rbkilns"
+        }, 
+        {
+            "title_full": "JRPS Bibliography (GB)", 
+            "url": "http://potsherd.net/mapping/jrps"
+        }, 
+        {
+            "title_full": "Terra sigillata forms", 
+            "url": "http://potsherd.net/atlas/types/sigillata/gallery/"
+        }, 
+        {
+            "title_full": "National Roman fabric reference collection", 
+            "url": "http://potsherd.net/atlas/concordance/nrfrc"
+        }, 
+        {
+            "title_full": "Tools", 
+            "url": "http://potsherd.net/atlas/topics/tools"
+        }, 
+        {
+            "title_full": "Sherd scans", 
+            "url": "http://potsherd.net/atlas/topics/scanning"
+        }
+    ], 
+    "title": "POTSHERD - Atlas of Roman Pottery", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://potsherd.net/", 
+    "url_alternates": [], 
+    "volume": "-", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

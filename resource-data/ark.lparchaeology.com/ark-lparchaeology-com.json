@@ -1,0 +1,197 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "ARK: The Archaeological Recording Kit. ARK (The Archaeological Recording Kit) is a web-based \u2018toolkit\u2019 for the collection, storage and dissemination of archaeological data. It includes data-editing, data-creation, data-viewing and data-sharing tools, all of which are delivered using a web-based front-end. It is designed to be adaptable to any digital or paper-based recording system, so does not dictate what or how the archaeologist records at a given site. Rather it provides a framework, an interface and a set of pre-fabricated digital tools for archaeological recording and data dissemination according to the unique needs of any given project. Based on industry standard data technologies (Apache/MySQL/PHP), ARK is completely opensource and standards-compliant.", 
+    "domain": "ark.lparchaeology.com", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "ARK: The Archaeological Recording Kit", 
+        "url": "http://ark.lparchaeology.com/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "archaeology"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7568927814287394486", 
+            "resource_date": "2011-07-24T09:23:39.677-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:21.117166"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/ark-archaeological-recording-kit.html", 
+            "resource_date": "2011-07-24T09:23:39.677-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:21.117180"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7568927814287394486", 
+            "resource_date": "2011-07-24T09:23:39.677-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:21.120843"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/ark-archaeological-recording-kit.html", 
+            "resource_date": "2011-07-24T09:23:39.677-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:21.120855"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:21.140900"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "ark-lparchaeology-com", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "ARK: The Archaeological Recording Kit", 
+            "url": "http://ark.lparchaeology.com/"
+        }, 
+        {
+            "title_full": "Overview", 
+            "url": "http://ark.lparchaeology.com/about/overview"
+        }, 
+        {
+            "title_full": "Mission Statement", 
+            "url": "http://ark.lparchaeology.com/about/mission-statement"
+        }, 
+        {
+            "title_full": "Who is ARK for?", 
+            "url": "http://ark.lparchaeology.com/about/who-is-ark-for"
+        }, 
+        {
+            "title_full": "ARK Support", 
+            "url": "http://ark.lparchaeology.com/about/ark-support"
+        }, 
+        {
+            "title_full": "Development team", 
+            "url": "http://ark.lparchaeology.com/about/ark-development-team"
+        }, 
+        {
+            "title_full": "Theoretical Overview", 
+            "url": "http://ark.lparchaeology.com/about/some-ark-theory"
+        }, 
+        {
+            "title_full": "Hypertext", 
+            "url": "http://ark.lparchaeology.com/about/hypertext"
+        }, 
+        {
+            "title_full": "Reflexive Method", 
+            "url": "http://ark.lparchaeology.com/about/reflexivity"
+        }, 
+        {
+            "title_full": "Hybridism and Mash-ups", 
+            "url": "http://ark.lparchaeology.com/about/hybridism"
+        }, 
+        {
+            "title_full": "Further Information", 
+            "url": "http://ark.lparchaeology.com/about/further-information"
+        }
+    ], 
+    "title": "ARK: The Archaeological Recording Kit", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://ark.lparchaeology.com/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

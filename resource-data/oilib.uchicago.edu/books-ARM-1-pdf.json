@@ -1,0 +1,179 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Jean, Charles-F. Lettres Diverses Archives Royales de Mari 2 Paris Imprimerie Nationale 1950.", 
+    "domain": "oilib.uchicago.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Correspondance de Samsi-Addu et de ses fils", 
+        "url": "http://oilib.uchicago.edu/books/ARM_1.pdf"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Syria", 
+        "Mesopotamia", 
+        "cuneiform", 
+        "archives", 
+        "Mari"
+    ], 
+    "languages": [
+        "fr", 
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8149380779940100819", 
+            "resource_date": "2013-04-22T10:47:02.203-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:17.932782"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/early-archives-royales-de-mari-online.html", 
+            "resource_date": "2013-04-22T10:47:02.203-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:17.932798"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8149380779940100819", 
+            "resource_date": "2013-04-22T10:47:02.203-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:17.935041"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/early-archives-royales-de-mari-online.html", 
+            "resource_date": "2013-04-22T10:47:02.203-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:17.935053"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:13:17.944889"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "books-ARM-1-pdf", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Dossin, Georges Correspondance de Samsi-Addu et de ses fils Archives Royales de Mari 1 Paris Imprimerie Nationale 1950", 
+            "url": "http://oilib.uchicago.edu/books/ARM_1.pdf"
+        }, 
+        {
+            "title_full": "Jean, Charles-F. Lettres Diverses Archives Royales de Mari 2 Paris Imprimerie Nationale 1950", 
+            "url": "http://oilib.uchicago.edu/books/ARM_2.pdf"
+        }, 
+        {
+            "title_full": "Kupper, J. R. Correspondance de Kibri-Dagan, Gouverneur de Terqa Archives Royales de Mari 3 Paris Imprimerie Nationale 1950", 
+            "url": "http://oilib.uchicago.edu/books/ARM_3.pdf"
+        }, 
+        {
+            "title_full": "Dossin, Georges Correspondance de Samsi-Addu et de ses fils (Suite) Archives Royales de Mari 4 Paris Imprimerie Nationale 1951", 
+            "url": "http://oilib.uchicago.edu/books/ARM_4.pdf"
+        }, 
+        {
+            "title_full": "Dossin, Georges Correspondance de Iasmah-Addu Archives Royales de Mari 5 Paris Imprimerie Nationale 1952", 
+            "url": "http://oilib.uchicago.edu/books/ARM_5.pdf"
+        }
+    ], 
+    "title": "Dossin, Georges Correspondance de Samsi-Addu et de ses fils Archives Royales de Mari 1 Paris Imprimerie Nationale 1950", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://oilib.uchicago.edu/books/ARM_1.pdf", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

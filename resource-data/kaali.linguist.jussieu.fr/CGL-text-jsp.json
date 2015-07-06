@@ -1,0 +1,618 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 27 March 2011. Updated 3 November 2014]. Corpus Grammaticorum Latinorum: Acc\u00e8s aux sources grammaticales de la Latinit\u00e9 tardive: recherche, parcours textuels et bibliographie. Le corpus des textes attribu\u00e9s de mani\u00e8re conventionnelle aux grammatici Latini est constitu\u00e9 par l\u2019ensemble des manuels de grammaire latine \u00e9crits entre le IIIe et le VIIIe si\u00e8cle apr. J. -C. et \u00e9dit\u00e9s par Heinrich Keil \u00e0 Leipzig entre 1855 et 1880. Ce corpus pr\u00e9sente de nombreux centres d\u2019int\u00e9r\u00eat:.", 
+    "domain": "kaali.linguist.jussieu.fr", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Corpus Grammaticorum Latinorum", 
+        "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Latin", 
+        "grammar"
+    ], 
+    "languages": [
+        "fr"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7837154497674416686", 
+            "resource_date": "2014-11-03T19:02:04.044-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:56.948952"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-grammatici-latini.html", 
+            "resource_date": "2014-11-03T19:02:04.044-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:56.948967"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7837154497674416686", 
+            "resource_date": "2014-11-03T19:02:04.044-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:56.954529"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-grammatici-latini.html", 
+            "resource_date": "2014-11-03T19:02:04.044-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:56.954542"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:57.115458"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "CGL-text-jsp", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Corpus Grammaticorum Latinorum", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp"
+        }, 
+        {
+            "title_full": "historique du projet", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/index.jsp?link=historic"
+        }, 
+        {
+            "title_full": "\u00e9dition du corpus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/index.jsp?link=edition"
+        }, 
+        {
+            "title_full": "aide \u00e0 la navigation", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/index.jsp?link=help"
+        }, 
+        {
+            "title_full": "\u00e0 propos de CGL", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/index.jsp?link=apropos"
+        }, 
+        {
+            "title_full": "Liste des textes", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?list=yes"
+        }, 
+        {
+            "title_full": "Liste des sections", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?listSection=yes"
+        }, 
+        {
+            "title_full": "Nouvelle recherche", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/search.jsp?query=new"
+        }, 
+        {
+            "title_full": "Liste des textes", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/bgl.jsp?by=titles"
+        }, 
+        {
+            "title_full": "Liste des grammairiens", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/bgl.jsp?by=author"
+        }, 
+        {
+            "title_full": "Liste des sections", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/bgl.jsp?list=section"
+        }, 
+        {
+            "title_full": "Liste des auteurs cit\u00e9s", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/bgl.jsp?display=namedAuthor"
+        }, 
+        {
+            "title_full": "recherche simple", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/bgl.jsp?search=simple"
+        }, 
+        {
+            "title_full": "Agroecius de orthographia", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T01"
+        }, 
+        {
+            "title_full": "Alcuinus de orthographia", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T02"
+        }, 
+        {
+            "title_full": "Aphthonius de metris omnibus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T03"
+        }, 
+        {
+            "title_full": "[Aphthonius] de metris Horatianis", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T04"
+        }, 
+        {
+            "title_full": "Arusiani Messii exempla elocutionis", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T05"
+        }, 
+        {
+            "title_full": "[Aspri] ars maior", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T06"
+        }, 
+        {
+            "title_full": "Audacis excerpta de Scauro et Palladio", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T07"
+        }, 
+        {
+            "title_full": "[Augustini] regulae", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T09"
+        }, 
+        {
+            "title_full": "Augustini ars breuiata", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T08"
+        }, 
+        {
+            "title_full": "Bassus de metris", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T10"
+        }, 
+        {
+            "title_full": "[Bassus] de metris Horatii", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T11"
+        }, 
+        {
+            "title_full": "[Bassus] de pedibus et de compositionibus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T12"
+        }, 
+        {
+            "title_full": "Beda de arte metrica", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T13"
+        }, 
+        {
+            "title_full": "Beda de orthographia", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T14"
+        }, 
+        {
+            "title_full": "[Caper] de orthographia", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T15"
+        }, 
+        {
+            "title_full": "[Caper] de uerbis dubiis", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T16"
+        }, 
+        {
+            "title_full": "Cassiodorus de orthographia", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T18"
+        }, 
+        {
+            "title_full": "[Censorinus] de musica et de metrica epitoma disciplinarum 9-15", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T19"
+        }, 
+        {
+            "title_full": "Charisii ars", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T20"
+        }, 
+        {
+            "title_full": "Cledonii ars", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T22"
+        }, 
+        {
+            "title_full": "Consentius de barbarismis et metaplasmis", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T23"
+        }, 
+        {
+            "title_full": "Consentius de nomine et uerbo", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T24"
+        }, 
+        {
+            "title_full": "Diomedis ars", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T25"
+        }, 
+        {
+            "title_full": "Donatiani fragmentum", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T26"
+        }, 
+        {
+            "title_full": "Donati ars maior", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T27"
+        }, 
+        {
+            "title_full": "Donati ars minor", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T28"
+        }, 
+        {
+            "title_full": "Dosithei ars", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T29"
+        }, 
+        {
+            "title_full": "Eutyches de uerbo", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T30"
+        }, 
+        {
+            "title_full": "Fortunatiani ars metrica", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T31"
+        }, 
+        {
+            "title_full": "Iuliani Toletani ars", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T33"
+        }, 
+        {
+            "title_full": "Iohannis (Scoti) defloratio de Macrobio", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T32"
+        }, 
+        {
+            "title_full": "Macrobii excerpta Bobiensa", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T34"
+        }, 
+        {
+            "title_full": "Mallius Theodorus de metris", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T35"
+        }, 
+        {
+            "title_full": "Martyrius de b muta et u uocali", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T36"
+        }, 
+        {
+            "title_full": "[Palaemonis] ars", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T37"
+        }, 
+        {
+            "title_full": "Papiri(an)us de orthographia", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T38"
+        }, 
+        {
+            "title_full": "Phocas de nomine et uerbo", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T39"
+        }, 
+        {
+            "title_full": "[Phocas] de aspiratione", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T40"
+        }, 
+        {
+            "title_full": "Pompeius in artem Donati", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T41"
+        }, 
+        {
+            "title_full": "Prisciani institutio de nomine", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T42"
+        }, 
+        {
+            "title_full": "Prisciani institutiones", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T43"
+        }, 
+        {
+            "title_full": "Prisciani libri minores", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T44"
+        }, 
+        {
+            "title_full": "Prisciani partitiones", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T45"
+        }, 
+        {
+            "title_full": "[Priscianus] de accentibus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T46"
+        }, 
+        {
+            "title_full": "[Probus] de ultimis syllabis = auctor ad Caelestinum", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T51"
+        }, 
+        {
+            "title_full": "[Probus] de nomine", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T50"
+        }, 
+        {
+            "title_full": "[Probus] de catholicis", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T49"
+        }, 
+        {
+            "title_full": "[Probi] instituta artium = Palladius", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T48"
+        }, 
+        {
+            "title_full": "[Probi] appendix", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T47"
+        }, 
+        {
+            "title_full": "Rufinus de metris oratorum", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T52"
+        }, 
+        {
+            "title_full": "Rufinus in metra comicorum", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T53"
+        }, 
+        {
+            "title_full": "Sacerdotis artes", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T54"
+        }, 
+        {
+            "title_full": "[Scaurus] de ordinatione partium orationis", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T56"
+        }, 
+        {
+            "title_full": "Scaurus de orthographia", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T55"
+        }, 
+        {
+            "title_full": "Sergius de littera de syllaba de pedibus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T57"
+        }, 
+        {
+            "title_full": "[Sergius] de arte grammatica", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T58"
+        }, 
+        {
+            "title_full": "[Sergii] explanationes in artes Donati", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T59"
+        }, 
+        {
+            "title_full": "Seruius de centum metris", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T60"
+        }, 
+        {
+            "title_full": "Seruius de finalibus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T61"
+        }, 
+        {
+            "title_full": "Seruius de metris Horatii", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T62"
+        }, 
+        {
+            "title_full": "Seruius in Donati artem maiorem", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T63"
+        }, 
+        {
+            "title_full": "Seruius in Donati artem minorem", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T64"
+        }, 
+        {
+            "title_full": "Seuerus de pedibus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T65"
+        }, 
+        {
+            "title_full": "Terentianus de littera de syllaba de pedibus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T66"
+        }, 
+        {
+            "title_full": "Velius Longus de orthographia", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T67"
+        }, 
+        {
+            "title_full": "Marii Victorini ars", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T68"
+        }, 
+        {
+            "title_full": "[Victorini siue Palaemonis] ars", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T69"
+        }, 
+        {
+            "title_full": "[Victorinus] de soloecismo et barbarismo = Palladius", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T70"
+        }, 
+        {
+            "title_full": "Maximus Victorinus de ratione metrorum", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T71"
+        }, 
+        {
+            "title_full": "[Victorinus] de caesuris", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T72"
+        }, 
+        {
+            "title_full": "[Victorinus] de finalibus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T73"
+        }, 
+        {
+            "title_full": "[Victorinus] de finalibus metrorum = Metrorius", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=T74"
+        }, 
+        {
+            "title_full": "ars Bobiensis", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA32"
+        }, 
+        {
+            "title_full": "de dubiis nominibus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA01"
+        }, 
+        {
+            "title_full": "de structuris", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA02"
+        }, 
+        {
+            "title_full": "frg. Berolinense de heroo hexametro", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA04"
+        }, 
+        {
+            "title_full": "frg. Berolinense de speciebus hexametri", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA05"
+        }, 
+        {
+            "title_full": "frg. Bobiense de accentibus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA06"
+        }, 
+        {
+            "title_full": "frg. Bobiense de finalibus syllabis", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA07"
+        }, 
+        {
+            "title_full": "frg. Bobiense de metris", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA08"
+        }, 
+        {
+            "title_full": "frg. Bobiense de nomine", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA09"
+        }, 
+        {
+            "title_full": "frg. Bobiense de nomine et pronomine", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA10"
+        }, 
+        {
+            "title_full": "frg. Bobiense de propriis nominibus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA11"
+        }, 
+        {
+            "title_full": "frg. Bobiense de uerbo = ad Seuerianum", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA13"
+        }, 
+        {
+            "title_full": "frg. Bobiense de uersibus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA14"
+        }, 
+        {
+            "title_full": "frg. Lauantinum in artes Donati", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA15"
+        }, 
+        {
+            "title_full": "frg. Leidense in artes Donati", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA16"
+        }, 
+        {
+            "title_full": "frg. Monacense de barbarismo", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA17"
+        }, 
+        {
+            "title_full": "frg. Parisinum de iambico metro", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA18"
+        }, 
+        {
+            "title_full": "frg. Parisinum de idiomatibus casuum", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA19"
+        }, 
+        {
+            "title_full": "frg. Parisinum de nominibus in ct", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA20"
+        }, 
+        {
+            "title_full": "frg. Parisinum de notis", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA21"
+        }, 
+        {
+            "title_full": "frg. Parisinum de praepositionibus et uerbis", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA22"
+        }, 
+        {
+            "title_full": "frg. Parisinum de rhythmo", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA23"
+        }, 
+        {
+            "title_full": "frg. Parisinum de uerbo", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA03"
+        }, 
+        {
+            "title_full": "frg. Sangallense de epodo octosyllabo", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA24"
+        }, 
+        {
+            "title_full": "frg. Sangallense de iambico trimetro", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA25"
+        }, 
+        {
+            "title_full": "frg. Sangallense de pentametro", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA26"
+        }, 
+        {
+            "title_full": "frg. Sangallense de scansione heroici uersus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA27"
+        }, 
+        {
+            "title_full": "frg. Sangermanense de schematibus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA28"
+        }, 
+        {
+            "title_full": "frg. Vaticanum de positura de chria etc", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA29"
+        }, 
+        {
+            "title_full": "frg. Vindobonense de pedibus", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA30"
+        }, 
+        {
+            "title_full": "frg. Weissenburgense de caesuris", 
+            "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp?id=TA31"
+        }
+    ], 
+    "title": "Corpus Grammaticorum Latinorum", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://kaali.linguist.jussieu.fr/CGL/text.jsp", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

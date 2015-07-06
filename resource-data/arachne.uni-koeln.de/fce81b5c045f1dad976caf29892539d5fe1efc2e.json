@@ -1,0 +1,398 @@
+{
+    "authors": [
+        "compiled the documentation in literature", 
+        "photographs himself"
+    ], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 2 June 2012, updated 14 January 2015]. Corpus of Ancient Sarcophagi. Prof. Dr. Ortwin Dally, Prof. Dr. Reinhard F\u00f6rtsch, Prof. Dr. Henner v. Hesberg In cooperation with the German Archaeological Institute, the CoDArchLab takes part in the re-conception of the Corpus of Ancient Sarcophagi and from an IT point of view, assumes responsibility for backing up an online-presence of the material, which is to be as coherent as possible. The Corpus was determined for collection and publication of sarcophagi of the Roman Empire by the German Archaeological Institute in the year 1870. An adequate, software based structuring is to be developed in a pilot phase financed by the University of Cologne and arbitrarily implemented on chosen categories. It is also possible to use the great, partly digitalized photo holdings on ancient sarcophagus plastic of the CoDArchLab. One leading aspect is to make the formalization and recyclability of the elicitation of the material a central editorial principle. Up to now the editing of the volumes was handled so that each author compiled the documentation in literature and photographs himself. Therefore the institute lacks an overall object collection or file. This poses a serious conceptual deficit, not only editorially but also for and in times of digitalized information, since the collected information outside of the format of the published volumes went lost. Thus all material conditioning of new volumes is to be conducted in ARACHNE by a formalized process, so that personal changes during processing are more bearable. That way it is possible to make the already processed information available to science in the database even if the project was closed. A second leading aspect is the substantial conception of web processing, in which the functional and regional scenic contexts, regarding contents, are to be considered more strongly than by the previously applied principle, which has barely been changed since the 19th century and treats one mythological figure or category after the other. The footing for this is a \"fixed\" website of the DAI for the corpus of sarcophagi. Among other things, it contains \"fixed\" appropriate pages with persistent URL for individual volumes:.", 
+    "domain": "arachne.uni-koeln.de", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Arachne Monument Browser", 
+        "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/182"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "ancient", 
+        "Germany", 
+        "DAI", 
+        "antiquity"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2804741766201441651", 
+            "resource_date": "2012-07-16T11:28:04.958-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:35.691300"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/arachne-monument-browser.html", 
+            "resource_date": "2012-07-16T11:28:04.958-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:35.691311"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7688708016130384576", 
+            "resource_date": "2015-01-14T07:29:57.083-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:50.628438"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/online-corpus-of-ancient-sarcophagi.html", 
+            "resource_date": "2015-01-14T07:29:57.083-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:50.628454"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "authors", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:50.685355"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7688708016130384576", 
+            "resource_date": "2015-01-14T07:29:57.083-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:50.634758"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/online-corpus-of-ancient-sarcophagi.html", 
+            "resource_date": "2015-01-14T07:29:57.083-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:50.634771"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "authors", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:50.689173"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9158211463162104013", 
+            "resource_date": "2012-03-19T06:39:54.262-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:15:19.074267"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/publications-dissertations-online-at.html", 
+            "resource_date": "2012-03-19T06:39:54.262-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:15:19.074278"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "authors", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:15:19.088722"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "fce81b5c045f1dad976caf29892539d5fe1efc2e", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Corpus of Ancient Sarcophagi", 
+            "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/206"
+        }, 
+        {
+            "title_full": "B. Andreae, Sarkophage mit Darstellungen aus dem Menschenleben. Die r\u00f6mischen Jagdsarkophage, ASR 1, 2 (Berlin 1980)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=4&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%201,%202"
+        }, 
+        {
+            "title_full": "R. Amedick, Sarkophage mit Darstellungen aus dem Menschenleben. Vita Privata, ASR 1, 4 (Berlin 1991)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=5&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%201,%204"
+        }, 
+        {
+            "title_full": "ASR 2", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=9&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%202"
+        }, 
+        {
+            "title_full": "Supplemente", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=9&sarkophag[search][sarkophag_literatur.Supplement]=ja&sarkophag[search_title]=Supplemente%20zu%20ASR%202"
+        }, 
+        {
+            "title_full": "ASR 2 inkl. Supplemente", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=9&sarkophag[search_title]=ASR%202%20incl.%20supplements"
+        }, 
+        {
+            "title_full": "ASR 3, 1", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=10&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%203,%201"
+        }, 
+        {
+            "title_full": "Supplemente", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=10&sarkophag[search][sarkophag_literatur.Supplement]=ja&sarkophag[search_title]=Supplemente%20zu%20ASR%203,%201"
+        }, 
+        {
+            "title_full": "ASR 3, 1 inkl. Supplemente", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=10&sarkophag[search_title]=ASR%203,%201%20incl.%20supplements"
+        }, 
+        {
+            "title_full": "C. Robert, Die antiken Sarkophagreliefs. Einzelmythen. Hippolytos bis Meleagros, ASR 3, 2 (Berlin 1904)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=11&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%203,%202"
+        }, 
+        {
+            "title_full": "C. Robert, Die antiken Sarkophagreliefs. Einzelmythen. Niobiden bis Triptolemos. Ungedeutet, ASR 3, 3 (Berlin 1919)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=12&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%203,%203"
+        }, 
+        {
+            "title_full": "F. Matz, Die dionysischen Sarkophage, ASR 4, 1 (Berlin 1968)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=13&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%204,%201"
+        }, 
+        {
+            "title_full": "F. Matz, Die dionysischen Sarkophage, ASR 4, 2 (Berlin 1968)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=14&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%204,%202"
+        }, 
+        {
+            "title_full": "F. Matz, Die dionysischen Sarkophage, ASR 4, 3 (Berlin 1969)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=15&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%204,%203"
+        }, 
+        {
+            "title_full": "F. Matz, Die dionysischen Sarkophage, ASR 4, 4 (Berlin 1974)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=16&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%204,%204"
+        }, 
+        {
+            "title_full": "A. Rumpf, Die Meerwesen auf den antiken Sarkophagreliefs, ASR 5, 1 (Berlin 1939)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=17&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%205,%201"
+        }, 
+        {
+            "title_full": "P. Kranz, Die stadtr\u00f6mischen Eroten-Sarkophage. Dionysische Themen, ASR 5, 2,1 (Berlin 1999)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=2340&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%205,%202,1"
+        }, 
+        {
+            "title_full": "D. Bielefeld, Die stadtr\u00f6mischen Eroten-Sarkophage. Weinlese- und Ernteszenen, ASR 5, 2,2 (Berlin 1997)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=18&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%205,%202,2"
+        }, 
+        {
+            "title_full": "K. Schauenburg, Die stadtr\u00f6mischen Eroten-Sarkophage. Zirkusrennen und verwandte Darstellungen, ASR 5, 2,3 (Berlin 1995)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=19&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%205,%202,3"
+        }, 
+        {
+            "title_full": "M. Wegner, Die Musensarkophage, ASR 5, 3 (Berlin 1966)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=20&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%205,%203"
+        }, 
+        {
+            "title_full": "P. Kranz, Jahreszeiten-Sarkophage, ASR 5, 4 (Berlin 1984)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=21&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%205,%204"
+        }, 
+        {
+            "title_full": "J. Stroszeck, L\u00f6wen-Sarkophage. Die Sarkophage mit L\u00f6wenk\u00f6pfen, schreitenden L\u00f6wen und L\u00f6wen-Kampfgruppen, ASR 6, 1 (Berlin 1998)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=22&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%206,%201"
+        }, 
+        {
+            "title_full": "H. Herdej\u00fcrgen, Die dekorativen r\u00f6mischen Sarkophage. Stadtr\u00f6mische und italische Girlandensarkophage. Die Sarkophage des 1. und 2. Jahrhunderts, ASR 6, 2,1 (Berlin 1996)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=23&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%206,%202,1"
+        }, 
+        {
+            "title_full": "J. Kollwitz - H. Dittmers-Herdej\u00fcrgen, Die Sarkophage der westlichen Gebiete des Imperium Romanum. Die ravennatischen Sarkophage, ASR 8, 2 (Berlin 1979)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=25&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%208,%202"
+        }, 
+        {
+            "title_full": "S. Rogge, Die Sarkophage Griechenlands und der Donauprovinzen. Die attischen Sarkophage. Achill und Hippolytos, ASR 9, 1,1 (Berlin 1995)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=63&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%209,%201,1"
+        }, 
+        {
+            "title_full": "D. Grassinger, Die mythologischen Sarkophage. Achill bis Amazonen, ASR 12, 1 (Berlin 1999)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=6&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%2012,%201"
+        }, 
+        {
+            "title_full": "H. Sichtermann, Die mythologischen Sarkophage. Apollon bis Grazien, ASR 12, 2 (Berlin 1992)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=7&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%2012,%202"
+        }, 
+        {
+            "title_full": "G. Koch, Die mythologischen Sarkophage. Meleager, ASR 12, 6 (Berlin 1975)", 
+            "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=sarkophag_set&sarkophag[search][FS_LiteraturID]=8&sarkophag[search][sarkophag_literatur.Supplement]=-ja&sarkophag[search_title]=ASR%2012,%206"
+        }
+    ], 
+    "title": "Corpus of Ancient Sarcophagi", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/206", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

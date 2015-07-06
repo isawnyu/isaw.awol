@@ -1,0 +1,706 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 19 July 2010. Updated 3 June 2013]. ACME: Annali della Facolt\u00e0 di Lettere e Filosofia dell'Universit\u00e0 degli Studi di Milano. La rivista \u00e8 quadrimestrale e accoglie articoli e studi su tutti gli argomenti che costituiscono materia d\u2019insegnamento della Facolt\u00e0 di Lettere e Filosofia. Gli articoli presentati per la pubblicazione sono sottoposti a revisione scientifica anonima. A partire dall'annata 2009 la Rivista \u00e8 integralmente on line in formato open-access.", 
+    "domain": "www.ledonline.it", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Italy", 
+        "open access"
+    ], 
+    "languages": [
+        "it"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5451155528136538292", 
+            "resource_date": "2013-06-03T16:06:12.324-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:15.748726"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/newly-open-accesss-journal-acme.html", 
+            "resource_date": "2013-06-03T16:06:12.324-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:15.748741"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "acme-index-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Nicoletta Brazzelli (a cura di), \u00abThis is an awful place\u00bb. Robert Falcon Scott e l\u2019Antartide", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_00_Sezione-Brazzelli.pdf"
+        }, 
+        {
+            "title_full": "Introduzione. Scienza, esplorazione ed eroismo: Robert Falcon Scott al Polo Sud", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_01_Brazzelli.pdf"
+        }, 
+        {
+            "title_full": "Sfida all\u2019ultimo parallelo: la conquista del Polo Sud cento anni dopo", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_02_Bernat.pdf"
+        }, 
+        {
+            "title_full": "L\u2019Antartide \u00e8 veramente un \u00abawful place\u00bb? I caratteri ambientali del continente pi\u00f9 freddo della Terra", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_03_Smiraglia.pdf"
+        }, 
+        {
+            "title_full": "Why do the British still remember Scott of the Antarctic?", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_04_Jones.pdf"
+        }, 
+        {
+            "title_full": "Scott of the Antarctic (1948): Geopolitics, film and Britain\u2019s Polar Empire", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_05_Dodds.pdf"
+        }, 
+        {
+            "title_full": "Il genitivo messapico in -ihi", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_06_Ciceri.pdf"
+        }, 
+        {
+            "title_full": "Problemi colometrici negli anapesti senecani e sense-correspondence . L\u2019esempio di Thyestes", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_07_Floris.pdf"
+        }, 
+        {
+            "title_full": "\u00abAliquid novi\u00bb: alcune considerazioni su novit\u00e0 e modernit\u00e0 nell\u2019Alberti latino e volgare", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_08_Cabrini.pdf"
+        }, 
+        {
+            "title_full": "La riscrittura di Ovidio nella Favola di Narcisso di Luigi Alamanni", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_09_Origgi.pdf"
+        }, 
+        {
+            "title_full": "Gormenghast : il castello. Il mondo di Mervyn Peake", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_10_Bellotti.pdf"
+        }, 
+        {
+            "title_full": "\u00abRaccontare \u00e8 monotono\u00bb: il ritmo della prosa in Feria d\u2019agosto di Cesare Pavese", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_11_Zoppi.pdf"
+        }, 
+        {
+            "title_full": "Tzvetan Todorov: ipotesi per un ritratto a figura intera", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_12_Cosio.pdf"
+        }, 
+        {
+            "title_full": "L\u2019Euripo sulla rotta di Troia, secondo Euripide. Correnti alterne del destino o venti d\u2019opposte doxai ?", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_13_Castrucci.pdf"
+        }, 
+        {
+            "title_full": "Virgilio e Orazio in un dialogo a distanza (Verg. Ecl . 4.4; Hor. Epod . 16.1 e Verg. Aen . 1.291)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_14_Montorfano.pdf"
+        }, 
+        {
+            "title_full": "Le postille sulle carte di Renato Serra dedicate a Pascoli e a Kipling", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-12-III_15_Mandrioli.pdf"
+        }, 
+        {
+            "title_full": "Mesambria Pontica e i Traci", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_01_Mainardi.pdf"
+        }, 
+        {
+            "title_full": "El poder en miniatura. La \"obra-detalle\" como instrumento pol\u00edtico y paradigma est\u00e9tico de la antig\u00fcedad tard\u00eda", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_02_Lobato.pdf"
+        }, 
+        {
+            "title_full": "De emplastro. Prime considerazioni su un inedito trattatello di pittura murale altomedievale", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_03_Brun.pdf"
+        }, 
+        {
+            "title_full": "L\u2019Elucidation e la Prima Continuazione del Conte du Graal", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_04_Biancardi.pdf"
+        }, 
+        {
+            "title_full": "Before the \u00abCritick\u00bb, John Dennis: Thomas Rymer\u2019s first volley in the battle of the handkerchief", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_05_Rossi.pdf"
+        }, 
+        {
+            "title_full": "Un canzoniere al femminile: Sonnets from the Portuguese di Elizabeth Barrett Browning e la tradizione poetica inglese", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_06_Rizzato.pdf"
+        }, 
+        {
+            "title_full": "\u00abQuando io venni in Italia, vinsi perch\u00e9 ero solo\u00bb: Mario Fumagalli attore, capocomico, innovatore", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_07_Angioletti.pdf"
+        }, 
+        {
+            "title_full": "La strategia retorica degli Studies in Classic American Literature", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_08_Ferrario.pdf"
+        }, 
+        {
+            "title_full": "Intrascendibilit\u00e0 dell\u2019esperienza e atteggiamento naturale in Merleau-Ponty", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_09_Sacconaghi.pdf"
+        }, 
+        {
+            "title_full": "Il Piccolo Teatro di Milano e l\u2019esperienza del decentramento teatrale (1968-1972)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_10_Bentoglio.pdf"
+        }, 
+        {
+            "title_full": "\"A different sense of reality\". Le trasposizioni cinematografiche delle opere di Tennessee Williams (1950-1968)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_11_Secchi.pdf"
+        }, 
+        {
+            "title_full": "L\u2019intestazione della serie En di Pilo", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_12_Soldani.pdf"
+        }, 
+        {
+            "title_full": "En polumelo (polumalo?) Sikelia. Nota su una controversa lezione pindarica (Ol. 1.12)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_13_Ded%C3%A8.pdf"
+        }, 
+        {
+            "title_full": "L\u2019esistenza di un criterio di verit\u00e0 nella filosofia di Filone di Larissa", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_14_Vezzoli.pdf"
+        }, 
+        {
+            "title_full": "Filosofi e filosofia nelle Saturae Menippeae di Varrone Reatino", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_15_Messina.pdf"
+        }, 
+        {
+            "title_full": "Postille bibliologiche all\u2019Apocalisse di Giovanni", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-III_16_Moioli.pdf"
+        }, 
+        {
+            "title_full": "Maria Bonghi Jovino (a cura di), Culture a contatto in Campania. Processi di trasformazione tra V e IV secolo a.C", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_00_Sezione-Bonghi.pdf"
+        }, 
+        {
+            "title_full": "Introduzione", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_01_Introduzione.pdf"
+        }, 
+        {
+            "title_full": "I nuovi scavi del Fondo Patturelli. Elementi per una definizione topografica", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_02_Sampaolo.pdf"
+        }, 
+        {
+            "title_full": "Una piccola scultura nel grande processo di trasformazione da Capua etrusca a Capua sannitica", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_03_Bonghi.pdf"
+        }, 
+        {
+            "title_full": "La definizione degli spazi pubblici a Cuma tra Greci e Sanniti", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_04_Greco.pdf"
+        }, 
+        {
+            "title_full": "Culture a contatto in Campania. Processi di trasformazione tra V e IV secolo a.C. Il golfo di Salerno", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_05_Pontrandolfo.pdf"
+        }, 
+        {
+            "title_full": "Contatti di culture nel quadro archeologico di Cales", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_06_Chiesa.pdf"
+        }, 
+        {
+            "title_full": "Funzioni e caratteri del pullarius in et\u00e0 repubblicana e imperiale", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_07_Foti.pdf"
+        }, 
+        {
+            "title_full": "\u00abAb Hectore et Aiace\u00bb: biografia, allegoria e mito nel commento di Servio alla nona egloga di Virgilio", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_08_Canetta.pdf"
+        }, 
+        {
+            "title_full": "Girolamo Benivieni e la questione della lingua: alcune considerazioni sulle correzioni al Commento del 1500", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_09_Benedetto.pdf"
+        }, 
+        {
+            "title_full": "Luigi Capuana critico letterario del \u00abCorriere della Sera\u00bb", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_10_Meneghel.pdf"
+        }, 
+        {
+            "title_full": "\u00abMy empire is of the imagination\u00bb: fantasie di dominio e incubi d'invasione in She di Henry Rider Haggard", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_11_Brazzelli.pdf"
+        }, 
+        {
+            "title_full": "Ippolito Cafici: un Nestore siciliano. Documenti inediti sulla vita e sull'opera", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_12_Pace.pdf"
+        }, 
+        {
+            "title_full": "Osservazioni linguistiche sulla narrativa di Antonio Tabucchi. Piani del racconto, testualit\u00e0, sintassi", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_13_Giovanni.pdf"
+        }, 
+        {
+            "title_full": "Democrazia in dialogo. Il ruolo della diversit\u00e0 nel metodo dialogico platonico", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_14_Faiferri.pdf"
+        }, 
+        {
+            "title_full": "\u00abLa roccia spirituale che seguiva\u00bb: l'interpretazione di 1 Cor 10.4 nei Padri della Chiesa", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_15_Messina.pdf"
+        }, 
+        {
+            "title_full": "Nota sulla Theot\u00f3kos descritta da Fozio, Hom. XVII 2 (p. 167.14-17 Laourdas)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-II_16_Daskas.pdf"
+        }, 
+        {
+            "title_full": "Alessandro Costazza (a cura di), La storia nel racconto epico e nel romanzo", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_00_Sezione-Costazza.pdf"
+        }, 
+        {
+            "title_full": "Introduzione", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_00_Introduzione.pdf"
+        }, 
+        {
+            "title_full": "La Hervarar saga e l\u2019istituto regale in Scandinavia", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_01_Cometta.pdf"
+        }, 
+        {
+            "title_full": "Il mondo capovolto e il Simplicissimus. Una visione ironica della Guerra dei Trent\u2019anni in Grimmelshausen", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_02_Venosa.pdf"
+        }, 
+        {
+            "title_full": "I \"torbidi\" moscoviti nei romanzi di Faddej Bulgarin e Zygmunt Krasi\u0144ski", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_03_Bernardini.pdf"
+        }, 
+        {
+            "title_full": "Politica e doppio fondo storico nel romanzo L\u2019uomo senza qualit\u00e0 di Robert Musil", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_04_Haas.pdf"
+        }, 
+        {
+            "title_full": "Le storie che vanno a riempire le \u00ablacune dei libri di storia turchi\u00bb. Il genocidio degli armeni nei romanzi di Franz Werfel e di Edgar Hilsenrath", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_05_Costazza.pdf"
+        }, 
+        {
+            "title_full": "La Danimarca fra esplorazione e colonialismo nelle opere di Thorkild Hansen", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_06_Meregalli.pdf"
+        }, 
+        {
+            "title_full": "Mito, storia e attualit\u00e0. Mia sorella Antigone (1980) di Grete Weil e le ferite del Novecento tedesco", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_07_Castellari.pdf"
+        }, 
+        {
+            "title_full": "Eidos tra eikon e paradeigma. Considerazioni sull\u2019ambiguit\u00e0 di eidos, idea e genos nel Timeo di Platone", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_08_Bergomi.pdf"
+        }, 
+        {
+            "title_full": "Platone, Nietzsche e il Mind-Body Problem", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_09_Bianchi.pdf"
+        }, 
+        {
+            "title_full": "Gli antichi e i moderni nelle Epistole del 1548 curate da Lodovico Dolce", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_10_Sachet.pdf"
+        }, 
+        {
+            "title_full": "Il cavallo di Erasistrato (Lucill. AP 11.259)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_11_Floridi.pdf"
+        }, 
+        {
+            "title_full": "Sugli spectacula virtutis di Scipione nei Punica di Silio Italico. I modelli letterari e una possibile suggestione nel Panegirico di Plinio", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_12_Costa.pdf"
+        }, 
+        {
+            "title_full": "Dialogicit\u00e0 e formule allocutive nelle lettere di Cesarotti a Giustina Renier", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_13_Quattrin.pdf"
+        }, 
+        {
+            "title_full": "Il sistema dei ceti nei primi scritti jenesi di Hegel", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_14_Gerardi.pdf"
+        }, 
+        {
+            "title_full": "R.K. Narayan\u2019s \u00abSelvi\u00bb as a reflection upon the feminine self", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-11-I_15_Vescovi.pdf"
+        }, 
+        {
+            "title_full": "Lo spazio del paesaggio. Concezioni e rappresentazioni della natura nella poesia latina (I sec. a.C. - I sec. d.C.)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-2010-III_01_Mandile.pdf"
+        }, 
+        {
+            "title_full": "Un \"generalissimo\" semibarbaro suocero e genero di imperatori: Stilicone in Claudiano", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-2010-III_02_Gualandri.pdf"
+        }, 
+        {
+            "title_full": "Una \u00abToscana Iliade\u00bb tra classicit\u00e0 e modernit\u00e0: l\u2019Avarchide di Luigi Alamanni", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-2010-III_03_Comelli.pdf"
+        }, 
+        {
+            "title_full": "Spigolature sui pittori e scultori emiliani a Mantova dal 1637 al 1707 con un'apertura su Marcantonio Donzelli", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-2010-III_04_Occaso.pdf"
+        }, 
+        {
+            "title_full": "Soave traduttore-divulgatore delle teorie retorico-estetiche di Hugh Blair. Contributi di una ricerca in corso", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-2010-III_05_Tancini.pdf"
+        }, 
+        {
+            "title_full": "Paolo D\u2019Ancona e L\u2019Istituto di Storia dell\u2019arte della Statale di Milano (1908-1957)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-2010-III_06_Pizzi.pdf"
+        }, 
+        {
+            "title_full": "Il finale gnoseologico delle Citt\u00e0 invisibili di Italo Calvino", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-2010-III_07_Brigatti.pdf"
+        }, 
+        {
+            "title_full": "Dietro la maschera. Contesti e funzioni di modellini fittili di maschere dalla necropoli in localit\u00e0 Calvario (Tarquinia, Viterbo)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-2010-III_08_Zanoni.pdf"
+        }, 
+        {
+            "title_full": "Giambo e commedia nel primo Giambo di Callimaco: un esempio di poesia ellenistica \"impegnata\"", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-2010-III_09_Pasquali.pdf"
+        }, 
+        {
+            "title_full": "Byzantina Melitensia", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-2010-III_10_Fiaccadori.pdf"
+        }, 
+        {
+            "title_full": "Dopo gli occhi: per i sonetti 74-76 del Canzoniere", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-2010-III_11_Berra.pdf"
+        }, 
+        {
+            "title_full": "Note su Shakespeare e le avanguardie storiche europee", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-2010-III_12_Cianci.pdf"
+        }, 
+        {
+            "title_full": "Questioni di stile e d\u2019altro ancora", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-2010-III_13_Pettoello.pdf"
+        }, 
+        {
+            "title_full": "Il mito, la filosofia ed il problema della realt\u00e0 nel pensiero di Hans Blumenberg", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-2010-III_14_Caloni.pdf"
+        }, 
+        {
+            "title_full": "Introduzione", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-01-Brazzelli-Introduzione.pdf"
+        }, 
+        {
+            "title_full": "\u00abAvea di vetro e non d\u2019acqua sembiante\u00bb. Ghiacci danteschi", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-02-Spaggiari.pdf"
+        }, 
+        {
+            "title_full": "I ghiacciai savoiardi del Monte Bianco. Scienza, esperienza e letteratura nel tornante fra XVIII e XIX secolo", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-03-Scaramellini.pdf"
+        }, 
+        {
+            "title_full": "La battaglia fra i ghiacci. South di Ernest Shackleton", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-04-Brazzelli.pdf"
+        }, 
+        {
+            "title_full": "Chiesa di ghiaccio e castello di ghiaccio. Architetture naturali e simboliche in Ibsen e Vesaas", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-05-Meregalli.pdf"
+        }, 
+        {
+            "title_full": "\u00abEnding in snow and ice\u00bb. Ice di Anna Kavan", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-06-Pagetti.pdf"
+        }, 
+        {
+            "title_full": "Ermes come connettore narrativo nelle Dionisiache di Nonno.Testo e macrotesto", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-07-Nizzola.pdf"
+        }, 
+        {
+            "title_full": "Gli avori del \u00abgruppo di Romano\u00bb. Aspetti e problemi", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-08-Flamine.pdf"
+        }, 
+        {
+            "title_full": "From Persia to the Provence. Tales of love in Byzantiumand beyond", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-09-Agapitos.pdf"
+        }, 
+        {
+            "title_full": "L\u2019Inghilterra vista da vicino. Note barettiane a uso dei connazionali", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-10-Ubezio.pdf"
+        }, 
+        {
+            "title_full": "La sperimentazione del collage nella Waste Land di T.S. Eliot", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-11-Crivelli.pdf"
+        }, 
+        {
+            "title_full": "Omero e l\u2019Egeo settentrionale come \"spazio del sacro\". Samotracia e le isole circostanti: a met\u00e0 strada tra il cielo e i fondali del mare (sulla rotta dei voli degli dei)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-12-Castrucci.pdf"
+        }, 
+        {
+            "title_full": "Ancora sulla versione del Liside platonico di Pier Candido Decembrio", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-13-Martinelli-Tempesta.pdf"
+        }, 
+        {
+            "title_full": "Alexandre Roslin e Parma", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-14-Malinverni.pdf"
+        }, 
+        {
+            "title_full": "Il liceo di Montalbano", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-II-15-Privitera.pdf"
+        }, 
+        {
+            "title_full": "Tra analisi morfologica e teoria linguistica. I nomi radicali nella lingua omerica", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-I-01-Dede.pdf"
+        }, 
+        {
+            "title_full": "\u00abIllimitata pluralit\u00e0\u00bb. L\u2019argomento del regresso in Parm. 132a1-b2", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-I-02-Forcignano.pdf"
+        }, 
+        {
+            "title_full": "I Tristia di Ausonio. Pater ad filium (Auson. 7 Green)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-I-03-Moroni.pdf"
+        }, 
+        {
+            "title_full": "Sterilis Camena. El Carmen 9 de Sidonio Apolinar o la muerte de la poes\u00eda", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-I-04-Lobato.pdf"
+        }, 
+        {
+            "title_full": "La scena \"all\u2019ebraica\" nel teatro del Rinascimento", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-I-05-Baricci.pdf"
+        }, 
+        {
+            "title_full": "L\u2019edizione giuntina delle Opere di Girolamo Benivieni", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-I-06-DiBenedetto.pdf"
+        }, 
+        {
+            "title_full": "Documenti inediti dalla Biblioth\u00e8que Nationale de France del dibattito secentesco sul frammento traurino di Petronio", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-I-07-Pace.pdf"
+        }, 
+        {
+            "title_full": "More challenges to Milton\u2019s authorship of De Doctrina Christiana", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-I-08-Falcone.pdf"
+        }, 
+        {
+            "title_full": "La septi\u00e8me face du d\u00e9 (1936) ou la puissance op\u00e9rationnelle de la quatri\u00e8me dimension. Marcel Duchamp et Georges Hugnet \u00e0 l\u2019\u00e9coute des math\u00e9matiques", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-I-09-Riva.pdf"
+        }, 
+        {
+            "title_full": "A proposito delle forme kr\u00e9demnon/kr\u00e1desma e Xit\u00f3ne/Xiton\u00e9a", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-I-10-Arena.pdf"
+        }, 
+        {
+            "title_full": "What do we mean by crisis? The culture of confrontation in the Greek city", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-I-11-Asmonti.pdf"
+        }, 
+        {
+            "title_full": "Per una bibliografia illustrata dei ritratti di Giambattista Marino", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-10-I-12-Alonzo.pdf"
+        }, 
+        {
+            "title_full": "L\u2019Inno Omerico a Dioniso (Hymn. Hom. VII) e Corinto", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-III-01-Nobili.pdf"
+        }, 
+        {
+            "title_full": "L'autobiografismo nel progetto letterario di Vittorio Alfieri", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-III-02-Donati.pdf"
+        }, 
+        {
+            "title_full": "Ritratti di maternit\u00e0 in Virginia Woolf. Un'indagine tra parole e immagini", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-III-03-Gorgoglione.pdf"
+        }, 
+        {
+            "title_full": "L'immigrazione a Taranto nel secondo decennio del Novecento e negli anni Trenta", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-III-04-Lapesa.pdf"
+        }, 
+        {
+            "title_full": "Ragioni e metodi per la fondazione di una filosofia scientifica. L'errore di Hans Reichenbach", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-III-05-Perego.pdf"
+        }, 
+        {
+            "title_full": "Immigrazione e costruzione identitaria locale. Il caso dei Gastarbeiter italiani nel centro industriale di Francoforte-H\u00f6chst", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-III-06-Galster.pdf"
+        }, 
+        {
+            "title_full": "Racconti eccentrici e temerari: gli Accoppiamenti giudiziosi di C.E. Gadda", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-III-07-Gallarini.pdf"
+        }, 
+        {
+            "title_full": "P\u00f3lemos e l\u2019articolazione agonica della convivenza. Politica, storia e comunit\u00e0 attraverso il pensiero di Jan Pato\u010dka e Roberto Esposito", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-III-08-Croce.pdf"
+        }, 
+        {
+            "title_full": "Sulle emozioni estetiche", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-III-09-Galbusera.pdf"
+        }, 
+        {
+            "title_full": "Reliquie callimachee in Esichio", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-III-10-Venezia.pdf"
+        }, 
+        {
+            "title_full": "Un secolo di interpretazioni su un epigramma di Mecenate (fr. 1 Lunderstedt)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-III-11-Costa.pdf"
+        }, 
+        {
+            "title_full": "Livia e il simbolismo del papavero da oppio e delle spighe nella glittica romana", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-III-12-Fabbri.pdf"
+        }, 
+        {
+            "title_full": "Note sull'Aponus di Claudiano", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-III-13-Mandile.pdf"
+        }, 
+        {
+            "title_full": "La \u00abMarquesina di F\u2022\u2022\u2022\u00bb di Laurence Sterne. Ipotesi storica e realt\u00e0 letteraria", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-III-14-Siboni.pdf"
+        }, 
+        {
+            "title_full": "Le funzioni del personaggio nella letteratura occidentale", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-II-01-Spera-premessa.pdf"
+        }, 
+        {
+            "title_full": "Sit Medea ferox invictaque, flebilis Ino", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-II-02-Gualandri.pdf"
+        }, 
+        {
+            "title_full": "\u00abVoil\u00e0 une belle mort!\u00bb. Orlando a Roncisvalle", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-II-03-D%27Agostino.pdf"
+        }, 
+        {
+            "title_full": "Il malo ingegno di un personaggio dantesco: Guido da Montefeltro", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-II-04-Spera.pdf"
+        }, 
+        {
+            "title_full": "Oskar Matzerath e le stratificazioni di senso di un personaggio", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-II-05-Costazza.pdf"
+        }, 
+        {
+            "title_full": "Cecilia, ossia la realt\u00e0. Il mistero della donna in La noia di Alberto Moravia", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-II-06-Turchetta.pdf"
+        }, 
+        {
+            "title_full": "L'epos di Corinto e Omero", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-II-07-Tagliabue.pdf"
+        }, 
+        {
+            "title_full": "Alcune nuove iscrizioni falische: forze centripete o centrifughe?", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-II-08-Giacomelli.pdf"
+        }, 
+        {
+            "title_full": "\u00abPer Bibliotaphos quosdam\u00bb. Pierio Valeriano e le Interpretationes Vergilianae di Tiberio Claudio Donato nella Roma del Cinquecento", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-II-09-Pirovano.pdf"
+        }, 
+        {
+            "title_full": "Le ceneri dei secentisti. Legittimazione e progresso della politica nella civilt\u00e0 poetica secentesca", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-II-10-Alonzo.pdf"
+        }, 
+        {
+            "title_full": "Nuovi pensieri dai pozzi della miseria. Vita e scrittura in Etty Hillesum", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-II-11-Bragantini.pdf"
+        }, 
+        {
+            "title_full": "L\u2019elegia In Magam et Berenicen di Callimaco: In Berenices nuptias?", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-II-12-Chiesa.pdf"
+        }, 
+        {
+            "title_full": "Il progetto sull\u2019esondazione del Tevere (Tacito, Annales 1.76 e 1.79)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-II-13-Cappelletti.pdf"
+        }, 
+        {
+            "title_full": "Uno \"Schutzbrief\" latino-tedesco del tardo Medioevo tridentino. Trento, Biblioteca di San Bernardino, ms. 317", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-II-14-Pogliani.pdf"
+        }, 
+        {
+            "title_full": "Omaggio ad Alberto Grilli. Atti della Giornata di studio \u00abCultura filosofica, geografia storica e scuola: la lezione di Alberto Grilli \u00bb (Lugano - Aula magna del Liceo cantonale di Lugano 1, 22 ottobre 2008)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-01-Atti-Grilli.pdf"
+        }, 
+        {
+            "title_full": "Premessa", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-02-Gualandri.pdf"
+        }, 
+        {
+            "title_full": "Alberto Grilli e lo stoicismo", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-03-Mazzoli.pdf"
+        }, 
+        {
+            "title_full": "Alberto Grilli tra Antioco e Cicerone (con un'appendice asseverativa)", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-04-Milanese.pdf"
+        }, 
+        {
+            "title_full": "Alberto Grilli studioso dell'epigrafe di Diogene di Enoanda", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-05-Pace.pdf"
+        }, 
+        {
+            "title_full": "La geografia nell'opera di Alberto Grilli", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-06-Cordano.pdf"
+        }, 
+        {
+            "title_full": "Alberto Grilli professore e maestro", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-07-Martinelli-Tempesta.pdf"
+        }, 
+        {
+            "title_full": "Alberto Grilli e la scuola ticinese", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-08-Reggi.pdf"
+        }, 
+        {
+            "title_full": "La figura di Alberto Grilli nelle lettere di alcuni suoi amici inviate a Giancarlo Reggi", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-09-Appendice.pdf"
+        }, 
+        {
+            "title_full": "La stauroteca di Limburg an-der-Lahn: devozione e lusso nel mondo bizantino", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-10-Ginnasi.pdf"
+        }, 
+        {
+            "title_full": "\u00abAn island nowhere\u00bb. L\u2019isola della Tempesta tra geografia e immaginazione", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-11-Brazzelli.pdf"
+        }, 
+        {
+            "title_full": "L\u2019apprendistato poetico di Luigi Illica alla luce di un inedito documento di Catalani", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-12-Saino.pdf"
+        }, 
+        {
+            "title_full": "Ontologia e sistema. Faneroscopia, teoria dell\u2019essere e processi cognitivi pre-razionali nella filosofia di C.S. Peirce", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-13-Quaggia.pdf"
+        }, 
+        {
+            "title_full": "I codici di genere nei manifesti del cinema peplum. Da Le Fatiche di Ercole (1958) all\u2019esaurimento del genere nel 1965", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-14-Gregori.pdf"
+        }, 
+        {
+            "title_full": "Filologia e filosofia nella storiografia di Mario Dal Pra", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-15-Rambaldi.pdf"
+        }, 
+        {
+            "title_full": "Secundo flumine", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-16-Panero.pdf"
+        }, 
+        {
+            "title_full": "\u00abThe ways of God to men\u00bb. Milton\u2019s Paradise Lost and Theodicy", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-17-Falcone.pdf"
+        }, 
+        {
+            "title_full": "Heart of Darkness", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-18-Manzoni.pdf"
+        }, 
+        {
+            "title_full": "Su che cosa si pretende dal significato", 
+            "url": "http://www.ledonline.it/acme/allegati/Acme-09-I-19-Guardo.pdf"
+        }
+    ], 
+    "title": "ACME", 
+    "title_alternates": [], 
+    "title_extended": "ACME: Annali della Facolt\u00e0 di Lettere e Filosofia dell'Universit\u00e0 degli Studi di Milano", 
+    "type": null, 
+    "url": "http://www.ledonline.it/acme/index.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

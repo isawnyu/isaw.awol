@@ -1,0 +1,334 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "\u897f\u6d0b\u53e4\u5178\u5b78\u7814\u7a76 - Classical Society of Japan. ISSN: 0447-9114 / 0447-9114.", 
+    "domain": "ci.nii.ac.jp", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0447-9114"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Japan", 
+        "journal", 
+        "classics", 
+        "open access"
+    ], 
+    "languages": [
+        "zh"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6772463811010891059", 
+            "resource_date": "2014-05-10T19:07:34.741-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:42.232010"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-classical-society.html", 
+            "resource_date": "2014-05-10T19:07:34.741-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:42.232026"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "vol-issue-nels-AN00130160-en-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "58", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000489396_en.html"
+        }, 
+        {
+            "title_full": "Open Access", 
+            "url": "http://ci.nii.ac.jp/vol_issue_pkg/nels/AN00130160_en.html"
+        }, 
+        {
+            "title_full": "57", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000480664_en.html"
+        }, 
+        {
+            "title_full": "56", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000480663_en.html"
+        }, 
+        {
+            "title_full": "55", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000455026_en.html"
+        }, 
+        {
+            "title_full": "54", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440954_en.html"
+        }, 
+        {
+            "title_full": "53", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000441044_en.html"
+        }, 
+        {
+            "title_full": "52", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440953_en.html"
+        }, 
+        {
+            "title_full": "51", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440882_en.html"
+        }, 
+        {
+            "title_full": "50", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440886_en.html"
+        }, 
+        {
+            "title_full": "49", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440951_en.html"
+        }, 
+        {
+            "title_full": "48", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440888_en.html"
+        }, 
+        {
+            "title_full": "47", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440950_en.html"
+        }, 
+        {
+            "title_full": "46", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440915_en.html"
+        }, 
+        {
+            "title_full": "45", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440948_en.html"
+        }, 
+        {
+            "title_full": "44", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440918_en.html"
+        }, 
+        {
+            "title_full": "43", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440878_en.html"
+        }, 
+        {
+            "title_full": "42", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440880_en.html"
+        }, 
+        {
+            "title_full": "41", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440884_en.html"
+        }, 
+        {
+            "title_full": "40", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440890_en.html"
+        }, 
+        {
+            "title_full": "39", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440941_en.html"
+        }, 
+        {
+            "title_full": "38", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440891_en.html"
+        }, 
+        {
+            "title_full": "37", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440892_en.html"
+        }, 
+        {
+            "title_full": "36", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440893_en.html"
+        }, 
+        {
+            "title_full": "35", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440831_en.html"
+        }, 
+        {
+            "title_full": "34", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440894_en.html"
+        }, 
+        {
+            "title_full": "33", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440895_en.html"
+        }, 
+        {
+            "title_full": "32", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440938_en.html"
+        }, 
+        {
+            "title_full": "31", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440937_en.html"
+        }, 
+        {
+            "title_full": "30", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440896_en.html"
+        }, 
+        {
+            "title_full": "29", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440898_en.html"
+        }, 
+        {
+            "title_full": "28", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440899_en.html"
+        }, 
+        {
+            "title_full": "27", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440933_en.html"
+        }, 
+        {
+            "title_full": "26", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440900_en.html"
+        }, 
+        {
+            "title_full": "25", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440901_en.html"
+        }, 
+        {
+            "title_full": "24", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440903_en.html"
+        }, 
+        {
+            "title_full": "23", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440904_en.html"
+        }, 
+        {
+            "title_full": "22", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440906_en.html"
+        }, 
+        {
+            "title_full": "21", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440908_en.html"
+        }, 
+        {
+            "title_full": "20", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440909_en.html"
+        }, 
+        {
+            "title_full": "19", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440911_en.html"
+        }, 
+        {
+            "title_full": "18", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440913_en.html"
+        }, 
+        {
+            "title_full": "17", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440924_en.html"
+        }, 
+        {
+            "title_full": "16", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440914_en.html"
+        }, 
+        {
+            "title_full": "15", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440916_en.html"
+        }, 
+        {
+            "title_full": "14", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440849_en.html"
+        }, 
+        {
+            "title_full": "13", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440919_en.html"
+        }, 
+        {
+            "title_full": "12", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440917_en.html"
+        }, 
+        {
+            "title_full": "11", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440863_en.html"
+        }, 
+        {
+            "title_full": "10", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440865_en.html"
+        }, 
+        {
+            "title_full": "9", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440867_en.html"
+        }, 
+        {
+            "title_full": "8", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440912_en.html"
+        }, 
+        {
+            "title_full": "7", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440910_en.html"
+        }, 
+        {
+            "title_full": "6", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440876_en.html"
+        }, 
+        {
+            "title_full": "5", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440907_en.html"
+        }, 
+        {
+            "title_full": "4", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440905_en.html"
+        }, 
+        {
+            "title_full": "3", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440851_en.html"
+        }, 
+        {
+            "title_full": "2", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440902_en.html"
+        }, 
+        {
+            "title_full": "1", 
+            "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440855_en.html"
+        }
+    ], 
+    "title": "\u897f\u6d0b\u53e4\u5178\u5b78\u7814\u7a76 - Classical Society of Japan", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160_en.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

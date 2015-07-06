@@ -1,0 +1,187 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Chartes: Catalogo dei Papiri Ercolanesi online. Il Catalogo dei Papiri Ercolanesi online \u00e8 nato con il duplice intento di aggiornare il Catalogo cartaceo (con i due Supplementi) e di fornire un nuovo strumento di lavoro a quanti si occupano dei papiri di Ercolano. Nella versione attuale i dati sono aggiornati al 2005 (versione cd). Sono previsti ulteriori aggiornamenti comprendenti i dati delle ricerche e le pubblicazioni pi\u00f9 recenti.", 
+    "domain": "www.chartes.it", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Chartes: Catalogo dei Papiri Ercolanesi online", 
+        "url": "http://www.chartes.it/index.php"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "papyrology", 
+        "Greek", 
+        "Latin"
+    ], 
+    "languages": [
+        "it"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7554288361790147347", 
+            "resource_date": "2014-08-03T07:57:00.853-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:20.645855"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/08/chartes-catalogo-dei-papiri-ercolanesi.html", 
+            "resource_date": "2014-08-03T07:57:00.853-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:20.645869"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7554288361790147347", 
+            "resource_date": "2014-08-03T07:57:00.853-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:20.648686"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/08/chartes-catalogo-dei-papiri-ercolanesi.html", 
+            "resource_date": "2014-08-03T07:57:00.853-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:20.648697"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:20.659735"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "index-php", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Chartes: Catalogo dei Papiri Ercolanesi online", 
+            "url": "http://www.chartes.it/index.php"
+        }, 
+        {
+            "title_full": "Home", 
+            "url": "http://www.chartes.it/index.php?r=site/index"
+        }, 
+        {
+            "title_full": "Su Chartes", 
+            "url": "http://www.chartes.it/index.php?r=site/page&view=about"
+        }, 
+        {
+            "title_full": "Papiri", 
+            "url": "http://www.chartes.it/index.php?r=document/search"
+        }, 
+        {
+            "title_full": "Bibliografia", 
+            "url": "http://www.chartes.it/index.php?r=bibliografy/search"
+        }, 
+        {
+            "title_full": "Pezzi", 
+            "url": "http://www.chartes.it/index.php?r=piece/search"
+        }, 
+        {
+            "title_full": "Immagini", 
+            "url": "http://www.chartes.it/index.php?r=image/index"
+        }, 
+        {
+            "title_full": "Bibliografia Gen", 
+            "url": "http://www.chartes.it/index.php?r=bibliografyGeneral"
+        }
+    ], 
+    "title": "Chartes: Catalogo dei Papiri Ercolanesi online", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.chartes.it/index.php", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

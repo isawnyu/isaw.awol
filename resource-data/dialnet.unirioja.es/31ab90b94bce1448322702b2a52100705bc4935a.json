@@ -1,0 +1,130 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Thamyris, nova series: Revista de Did\u00e1ctica de Cultura Cl\u00e1sica, Griego y Lat\u00edn. ISSN: 2254-1799.", 
+    "domain": "dialnet.unirioja.es", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "2254-1799"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Latin", 
+        "journal", 
+        "Greek", 
+        "open access", 
+        "classics", 
+        "Spain"
+    ], 
+    "languages": [], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1477641486391894666", 
+            "resource_date": "2015-01-10T08:52:07.306-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:05:29.462911"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/new-open-access-journal-thamyris-nova.html", 
+            "resource_date": "2015-01-10T08:52:07.306-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:05:29.462927"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "31ab90b94bce1448322702b2a52100705bc4935a", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "2013", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=20078&claveDeBusqueda=2013"
+        }, 
+        {
+            "title_full": "4", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=351866"
+        }, 
+        {
+            "title_full": "2012", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=20078&claveDeBusqueda=2012"
+        }, 
+        {
+            "title_full": "3", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=321569"
+        }, 
+        {
+            "title_full": "2011", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=20078&claveDeBusqueda=2011"
+        }, 
+        {
+            "title_full": "2", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=321223"
+        }, 
+        {
+            "title_full": "2010", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&revistaDeBusqueda=20078&claveDeBusqueda=2010"
+        }, 
+        {
+            "title_full": "1", 
+            "url": "http://dialnet.unirioja.es/servlet/ejemplar?codigo=321220"
+        }
+    ], 
+    "title": "Thamyris, nova series: Revista de Did\u00e1ctica de Cultura Cl\u00e1sica, Griego y Lat\u00edn", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://dialnet.unirioja.es/servlet/revista?codigo=20078", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

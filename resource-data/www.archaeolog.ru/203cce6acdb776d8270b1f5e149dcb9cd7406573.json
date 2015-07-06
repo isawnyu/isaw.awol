@@ -1,0 +1,842 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u044f. \u0416\u0443\u0440\u043d\u0430\u043b \u043e\u0441\u043d\u043e\u0432\u0430\u043d \u0432 1957 \u0433. (\u0434\u043e 1992 \u0433. \u043d\u0430\u0437\u044b\u0432\u0430\u043b\u0441\u044f \"\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u044f\"), \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u043c \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0438\u0437\u0434\u0430\u043d\u0438\u0435\u043c \u0420\u043e\u0441\u0441\u0438\u0438, \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f \u0432 \u0420\u0424, \u0441\u0442\u0440\u0430\u043d\u0430\u0445 \u0431\u043b\u0438\u0436\u043d\u0435\u0433\u043e \u0438 \u0434\u0430\u043b\u044c\u043d\u0435\u0433\u043e \u0437\u0430\u0440\u0443\u0431\u0435\u0436\u044c\u044f. \u0422\u0435\u043c\u0430\u0442\u0438\u043a\u0430 \u0436\u0443\u0440\u043d\u0430\u043b\u0430:.", 
+    "domain": "www.archaeolog.ru", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u044f", 
+        "url": "http://www.archaeolog.ru/index.php?id=259"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "USSR", 
+        "open access", 
+        "Russian", 
+        "archaeology", 
+        "Soviet Union"
+    ], 
+    "languages": [
+        "ru"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6609443968453393829", 
+            "resource_date": "2012-04-15T07:45:51.312-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:34.371181"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal.html", 
+            "resource_date": "2012-04-15T07:45:51.312-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:34.371196"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6609443968453393829", 
+            "resource_date": "2012-04-15T07:45:51.312-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:35.157913"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal.html", 
+            "resource_date": "2012-04-15T07:45:51.312-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:35.157928"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:11:35.463432"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "203cce6acdb776d8270b1f5e149dcb9cd7406573", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u044f", 
+            "url": "http://www.archaeolog.ru/index.php?id=259"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1936_sbornik01.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1937_sbornik02.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1937_sbornik03.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1937_sbornik04.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 5 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1940_sbornik05.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 6 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1940_sbornik06.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 7 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1941_sbornik07.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 8 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1946_sbornik08.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 9 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1947_sbornik09.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 10 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1948_sbornik10.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 11 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1949_sbornik11.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 12 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1950_sbornik12.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 13 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1950_sbornik13.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 14 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1950_sbornik14.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 15 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1951_sbornik15.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 16 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1952_sbornik16.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 17 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1953_sbornik17.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 18 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1953_sbornik18.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 19 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1954_sbornik19.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 20 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1954_sbornik20.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 21 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1954_sbornik21.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 22 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1955_sbornik22.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 23 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1955_sbornik23.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 24 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1955_sbornik24.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 25 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1956_sbornik25.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 26 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1956_sbornik26.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 27 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1957_sbornik27.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 28 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1958_sbornik28.pdf"
+        }, 
+        {
+            "title_full": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a 29-30 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1959_sbornik29-30.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1957_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1957_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1957_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1957_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1958_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1958_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1958_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1958_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1959_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1959_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1959_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1959_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1960_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1960_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1960_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1960_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1961_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1961_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1961_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1961_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1962_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1962_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1962_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1962_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1963_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1963_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1963_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1963_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1964_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1964_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1964_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1964_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1965_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1965_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1965_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1965_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1966_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1966_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1966_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1966_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1967_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1967_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1967_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1967_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1968_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1968_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1968_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1968_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1969_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1969_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1969_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1969_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1970_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1970_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1970_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1970_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1971_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1971_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1971_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1971_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1972_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1972_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1972_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1972_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1973_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1973_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1973_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1973_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1974_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1974_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1974_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1974_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1975_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1975_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1975_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1975_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1976_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1976_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1976_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1976_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1977_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1977_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1977_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1977_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1978_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1978_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1978_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1978_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1979_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1979_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1979_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1979_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1980_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1980_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1980_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1980_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1981_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1981_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1981_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1981_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1982_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1982_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1982_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1982_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1983_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1983_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1983_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1983_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1984_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1984_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1984_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1984_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1985_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1985_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1985_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1985_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1986_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1986_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1986_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1986_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1987_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1987_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1987_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1987_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1988_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1988_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1988_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1988_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1989_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1989_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1989_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1989_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1990_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1990_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1990_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1990_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1991_book01.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 2 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1991_book02.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 3 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1991_book03.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 4 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1991_book04.pdf"
+        }, 
+        {
+            "title_full": "\u0432\u044b\u043f\u0443\u0441\u043a 1 (pdf)", 
+            "url": "http://www.archaeolog.ru/media/books_sov_archaeology/1992_book01.pdf"
+        }
+    ], 
+    "title": "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u044f", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.archaeolog.ru/index.php?id=259", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

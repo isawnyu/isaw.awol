@@ -1,0 +1,352 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 9 March 2011. Updated 13 January 2015]. Past Oriented Journals at Pers\u00e9e. Each title also has its own individual entry in AWOL.", 
+    "domain": "www.persee.fr", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Journals at Pers\u00e9e", 
+        "url": "http://www.persee.fr/web/revues/home"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "ancient", 
+        "Aegean", 
+        "journal", 
+        "library", 
+        "France", 
+        "digital library", 
+        "antiquity", 
+        "Pers\u00e9e"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
+            "resource_date": "2015-01-13T18:47:15.944-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:18.342185"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
+            "resource_date": "2015-01-13T18:47:15.944-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:18.342200"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
+            "resource_date": "2015-01-13T18:47:15.944-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:18.344192"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
+            "resource_date": "2015-01-13T18:47:15.944-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:18.344203"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:18.422004"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "web-revues-home", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Journals at Pers\u00e9e", 
+            "url": "http://www.persee.fr/web/revues/home"
+        }, 
+        {
+            "title_full": "Anatolia antiqua. Eski Anadolu", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/anata"
+        }, 
+        {
+            "title_full": "Annales", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/ahess"
+        }, 
+        {
+            "title_full": "Annales d'\u00c9thiopie", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/ethio"
+        }, 
+        {
+            "title_full": "L'Antiquit\u00e9 Classique", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/antiq"
+        }, 
+        {
+            "title_full": "Antiquit\u00e9s africaines", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/antaf"
+        }, 
+        {
+            "title_full": "Archaeonautica", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/nauti"
+        }, 
+        {
+            "title_full": "Arch\u00e9ologie du Midi M\u00e9di\u00e9val", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/amime"
+        }, 
+        {
+            "title_full": "Arch\u00e9oSciences, revue d'Arch\u00e9om\u00e9trie", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/arsci"
+        }, 
+        {
+            "title_full": "Arts Asiatiques", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/arasi"
+        }, 
+        {
+            "title_full": "Biblioth\u00e8que des \u00c9coles fran\u00e7aises d'Ath\u00e8nes et de Rome", 
+            "url": "http://www.persee.fr/web/ouvrages/home/prescript/fond/befar"
+        }, 
+        {
+            "title_full": "Bulletin de Correspondance Hell\u00e9nique", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/bch"
+        }, 
+        {
+            "title_full": "Bulletin de la Soci\u00e9t\u00e9 pr\u00e9historique fran\u00e7aise", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/bspf"
+        }, 
+        {
+            "title_full": "Bulletin de l'Association Guillaume Bud\u00e9", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/bude"
+        }, 
+        {
+            "title_full": "Bulletin de l'\u00c9cole fran\u00e7aise d'Extr\u00eame-Orient", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/befeo"
+        }, 
+        {
+            "title_full": "Cahiers du Centre Gustave Glotz", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/ccgg"
+        }, 
+        {
+            "title_full": "Comptes-rendus des s\u00e9ances de l'Acad\u00e9mie des Inscriptions et Belles-Lettres", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/crai"
+        }, 
+        {
+            "title_full": "Culture & Mus\u00e9es", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/pumus"
+        }, 
+        {
+            "title_full": "Dialogues d'histoire ancienne", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/dha"
+        }, 
+        {
+            "title_full": "GAIA. Revue interdisciplinaire sur la Gr\u00e8ce ancienne", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/gaia"
+        }, 
+        {
+            "title_full": "Gallia", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/galia"
+        }, 
+        {
+            "title_full": "Gallia Pr\u00e9histoire", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/galip"
+        }, 
+        {
+            "title_full": "Journal de la soci\u00e9t\u00e9 des am\u00e9ricanistes", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/jsa"
+        }, 
+        {
+            "title_full": "Journal de la Soci\u00e9t\u00e9 des Oc\u00e9anistes", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/jso"
+        }, 
+        {
+            "title_full": "Journal des Africanistes", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/jafr"
+        }, 
+        {
+            "title_full": "Journal des Savants", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/jds"
+        }, 
+        {
+            "title_full": "M\u00e9diterran\u00e9e", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/medit"
+        }, 
+        {
+            "title_full": "M\u00e9langes de l'\u00e9cole fran\u00e7aise de Rome", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/mefr"
+        }, 
+        {
+            "title_full": "M\u00e8tis. Anthropologie des mondes grecs anciens", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/metis"
+        }, 
+        {
+            "title_full": "Monuments et m\u00e9moires de la Fondation Eug\u00e8ne Piot", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/piot"
+        }, 
+        {
+            "title_full": "Pal\u00e9o, Revue d'Arch\u00e9ologie Pr\u00e9historique", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/pal"
+        }, 
+        {
+            "title_full": "Pal\u00e9orient", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/paleo"
+        }, 
+        {
+            "title_full": "Quaternaire", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/quate"
+        }, 
+        {
+            "title_full": "Revue Arch\u00e9ologique de l'Ouest", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/rao"
+        }, 
+        {
+            "title_full": "Revue arch\u00e9ologique de Narbonnaise", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/ran"
+        }, 
+        {
+            "title_full": "Revue arch\u00e9ologique de Picardie", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/pica"
+        }, 
+        {
+            "title_full": "Revue arch\u00e9ologique du Centre de la France", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/racf"
+        }, 
+        {
+            "title_full": "Revue des \u00e9tudes byzantines", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/rebyz"
+        }, 
+        {
+            "title_full": "Revue des \u00c9tudes Grecques", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/reg"
+        }, 
+        {
+            "title_full": "Revue des mondes musulmans et de la M\u00e9diterran\u00e9e", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/remmm"
+        }, 
+        {
+            "title_full": "Revue Numismatique", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/numi"
+        }, 
+        {
+            "title_full": "Syria. Arch\u00e9ologie, Art et histoire", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/syria"
+        }, 
+        {
+            "title_full": "Vita Latina", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/vita"
+        }, 
+        {
+            "title_full": "Proceedings and Series At Pers\u00e9:", 
+            "url": "http://www.persee.fr/web/ouvrages/home"
+        }, 
+        {
+            "title_full": "Annuaires de l'\u00c9cole pratique des hautes \u00e9tudes", 
+            "url": "http://www.persee.fr/web/ouvrages/home/prescript/fond/ephe"
+        }, 
+        {
+            "title_full": "Publications de l'Acad\u00e9mie des Inscriptions et Belles-Lettres", 
+            "url": "http://www.persee.fr/web/ouvrages/home/prescript/fond/aibl"
+        }, 
+        {
+            "title_full": "Publications de la Maison de l'Orient et de la M\u00e9diterran\u00e9e", 
+            "url": "http://www.persee.fr/web/ouvrages/home/prescript/fond/mom"
+        }, 
+        {
+            "title_full": "Publications de l'\u00c9cole Fran\u00e7aise de Rome", 
+            "url": "http://www.persee.fr/web/ouvrages/home/prescript/fond/efr"
+        }
+    ], 
+    "title": "Journals at Pers\u00e9e", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.persee.fr/web/revues/home", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,231 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Intratext Digital Library. Full-text Digital Library offering books and corpora as lexical hypertexts on Creative Commons License Committed to accuracy, accessibility and touch-oriented cognitive ergonomics Lingua latina.", 
+    "domain": "www.intratext.com", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Intratext Digital Library", 
+        "url": "http://www.intratext.com/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Latin", 
+        "digital library", 
+        "library"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7792031706496568625", 
+            "resource_date": "2013-10-24T06:06:11.963-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:53.820273"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/intratext-digital-library-lingua-latina.html", 
+            "resource_date": "2013-10-24T06:06:11.963-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:53.820289"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7792031706496568625", 
+            "resource_date": "2013-10-24T06:06:11.963-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:53.822586"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/10/intratext-digital-library-lingua-latina.html", 
+            "resource_date": "2013-10-24T06:06:11.963-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:53.822598"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:53.865106"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "www-intratext-com", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Intratext Digital Library", 
+            "url": "http://www.intratext.com/"
+        }, 
+        {
+            "title_full": "Lingua latina", 
+            "url": "http://www.intratext.com/LAT/"
+        }, 
+        {
+            "title_full": "antiqua (VII-II sec. a.C.)", 
+            "url": "http://www.intratext.com/Latina/Romana/default.htm#A"
+        }, 
+        {
+            "title_full": "classica (I sec. a.C.)", 
+            "url": "http://www.intratext.com/Latina/Romana/default.htm#C"
+        }, 
+        {
+            "title_full": "postclassica (I-VI sec.)", 
+            "url": "http://www.intratext.com/Latina/Romana/default.htm#P"
+        }, 
+        {
+            "title_full": "VII - XIV sec", 
+            "url": "http://www.intratext.com/Latina/Mediaevalis/default.htm"
+        }, 
+        {
+            "title_full": "XV - XXI sec", 
+            "url": "http://www.intratext.com/Latina/Nova/default.htm"
+        }, 
+        {
+            "title_full": "APULEIUS", 
+            "url": "http://www.intratext.com/Catalogo/Autori/Aut23.HTM"
+        }, 
+        {
+            "title_full": "AUSONIUS", 
+            "url": "http://www.intratext.com/Catalogo/Autori/Aut33.HTM"
+        }, 
+        {
+            "title_full": "CAESAR", 
+            "url": "http://www.intratext.com/Catalogo/Autori/Aut54.HTM"
+        }, 
+        {
+            "title_full": "HORATIUS FLACCUS", 
+            "url": "http://www.intratext.com/Catalogo/Autori/Aut186.HTM"
+        }, 
+        {
+            "title_full": "FLORUS", 
+            "url": "http://www.intratext.com/Catalogo/Autori/AUT150.HTM"
+        }, 
+        {
+            "title_full": "FRONTINUS", 
+            "url": "http://www.intratext.com/Catalogo/Autori/AUT156.HTM"
+        }, 
+        {
+            "title_full": "OVIDIUS NASO", 
+            "url": "http://www.intratext.com/Catalogo/Autori/AUT281.HTM"
+        }, 
+        {
+            "title_full": "PLAUTUS", 
+            "url": "http://www.intratext.com/Catalogo/Autori/AUT305.HTM"
+        }, 
+        {
+            "title_full": "SALLUSTIUS CRISPUS", 
+            "url": "http://www.intratext.com/Catalogo/Autori/Aut339.HTM"
+        }, 
+        {
+            "title_full": "TACITUS", 
+            "url": "http://www.intratext.com/Catalogo/Autori/Aut363.HTM"
+        }, 
+        {
+            "title_full": "TERENTIUS AFER", 
+            "url": "http://www.intratext.com/Catalogo/Autori/AUT367.HTM"
+        }, 
+        {
+            "title_full": "VERGILIUS MARO", 
+            "url": "http://www.intratext.com/Catalogo/Autori/AUT392.HTM"
+        }
+    ], 
+    "title": "Intratext Digital Library", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.intratext.com/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

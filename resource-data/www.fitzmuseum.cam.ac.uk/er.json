@@ -1,0 +1,232 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Egyptology Resources.", 
+    "domain": "www.fitzmuseum.cam.ac.uk", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Egyptology Resources", 
+        "url": "http://www.fitzmuseum.cam.ac.uk/er/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "egyptology"
+    ], 
+    "languages": [
+        "hu"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3373125283979777048", 
+            "resource_date": "2014-08-17T09:25:09.515-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:07:58.322297"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/08/happy-20th-birthday-to-egyptology.html", 
+            "resource_date": "2014-08-17T09:25:09.515-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:07:58.322315"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3373125283979777048", 
+            "resource_date": "2014-08-17T09:25:09.515-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:07:58.323893"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/08/happy-20th-birthday-to-egyptology.html", 
+            "resource_date": "2014-08-17T09:25:09.515-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:07:58.323905"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:07:58.352428"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "er", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Egyptology Resources", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/"
+        }, 
+        {
+            "title_full": "See Facebook feed here", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/index.html"
+        }, 
+        {
+            "title_full": "News on the change is here", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/news.html"
+        }, 
+        {
+            "title_full": "Announcements", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/announce.html"
+        }, 
+        {
+            "title_full": "Email address database", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/email/email.html"
+        }, 
+        {
+            "title_full": "Beinlich wordlist", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/beinlich/beinlich.html"
+        }, 
+        {
+            "title_full": "Frequently Asked Questions", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/faq.html"
+        }, 
+        {
+            "title_full": "Tomb of Senneferi (TT99)", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/tt99/"
+        }, 
+        {
+            "title_full": "Cyberscribe", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/cyberscribe_index.html"
+        }, 
+        {
+            "title_full": "Essential resources", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/essential.html"
+        }, 
+        {
+            "title_full": "Egyptological Institutions", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/institutions.html"
+        }, 
+        {
+            "title_full": "Museums", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/museum.html"
+        }, 
+        {
+            "title_full": "Digs", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/dig.html"
+        }, 
+        {
+            "title_full": "Journals, magazines", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/journals.html"
+        }, 
+        {
+            "title_full": "Publishers, booksellers", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/publish.html"
+        }, 
+        {
+            "title_full": "Societies", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/society.html"
+        }, 
+        {
+            "title_full": "Lists, newsgroups", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/lists_groups.html"
+        }, 
+        {
+            "title_full": "Interesting Egypt", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/other.html"
+        }, 
+        {
+            "title_full": "Fun stuff", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/amusement.html"
+        }, 
+        {
+            "title_full": "Personal pages, web-logs, photos", 
+            "url": "http://www.fitzmuseum.cam.ac.uk/er/personal.html"
+        }
+    ], 
+    "title": "Egyptology Resources", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.fitzmuseum.cam.ac.uk/er/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

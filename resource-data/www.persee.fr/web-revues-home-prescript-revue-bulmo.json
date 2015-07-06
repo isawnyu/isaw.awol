@@ -1,0 +1,561 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Bulletin Monumental. eISSN - 2275-5039. Le Bulletin monumental, publication de la Soci\u00e9t\u00e9 fran\u00e7aise d\u2019Arch\u00e9ologie depuis 1835, est une revue trimestrielle qui vise un public de sp\u00e9cialistes et d\u2019amateurs \u00ab \u00e9clair\u00e9s \u00bb s\u2019int\u00e9ressant au patrimoine et \u00e0 l\u2019architecture du haut Moyen-\u00e2ge jusqu\u2019au XX\u00b0 si\u00e8cle. Chaque livraison, illustr\u00e9e de photographies et de plans, offre des articles de fond et des rubriques d\u2019information (actualit\u00e9s, bibliographie, chronique, commentaires critiques et comptes-rendus).", 
+    "domain": "www.persee.fr", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "2275-5039"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "open access", 
+        "France"
+    ], 
+    "languages": [
+        "fr"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7397483638842927371", 
+            "resource_date": "2015-04-18T09:26:01.190-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:10.081447"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/emerging-open-access-journal-bulletin.html", 
+            "resource_date": "2015-04-18T09:26:01.190-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:10.081464"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "web-revues-home-prescript-revue-bulmo", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "1970 : [ 128-1 ] [ 128-2 ] [ 128-3 ] [ 128-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1970_num_128_1"
+        }, 
+        {
+            "title_full": "1970 : [ 128-1 ] [ 128-2 ] [ 128-3 ] [ 128-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1970_num_128_2"
+        }, 
+        {
+            "title_full": "1970 : [ 128-1 ] [ 128-2 ] [ 128-3 ] [ 128-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1970_num_128_3"
+        }, 
+        {
+            "title_full": "1970 : [ 128-1 ] [ 128-2 ] [ 128-3 ] [ 128-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1970_num_128_4"
+        }, 
+        {
+            "title_full": "1971 : [ 129-1 ] [ 129-2 ] [ 129-3 ] [ 129-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1971_num_129_1"
+        }, 
+        {
+            "title_full": "1971 : [ 129-1 ] [ 129-2 ] [ 129-3 ] [ 129-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1971_num_129_2"
+        }, 
+        {
+            "title_full": "1971 : [ 129-1 ] [ 129-2 ] [ 129-3 ] [ 129-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1971_num_129_3"
+        }, 
+        {
+            "title_full": "1971 : [ 129-1 ] [ 129-2 ] [ 129-3 ] [ 129-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1971_num_129_4"
+        }, 
+        {
+            "title_full": "1972 : [ 130-1 ] [ 130-2 ] [ 130-3 ] [ 130-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1972_num_130_1"
+        }, 
+        {
+            "title_full": "1972 : [ 130-1 ] [ 130-2 ] [ 130-3 ] [ 130-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1972_num_130_2"
+        }, 
+        {
+            "title_full": "1972 : [ 130-1 ] [ 130-2 ] [ 130-3 ] [ 130-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1972_num_130_3"
+        }, 
+        {
+            "title_full": "1972 : [ 130-1 ] [ 130-2 ] [ 130-3 ] [ 130-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1972_num_130_4"
+        }, 
+        {
+            "title_full": "1973 : [ 131-1 ] [ 131-2 ] [ 131-3 ] [ 131-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1973_num_131_1"
+        }, 
+        {
+            "title_full": "1973 : [ 131-1 ] [ 131-2 ] [ 131-3 ] [ 131-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1973_num_131_2"
+        }, 
+        {
+            "title_full": "1973 : [ 131-1 ] [ 131-2 ] [ 131-3 ] [ 131-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1973_num_131_3"
+        }, 
+        {
+            "title_full": "1973 : [ 131-1 ] [ 131-2 ] [ 131-3 ] [ 131-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1973_num_131_4"
+        }, 
+        {
+            "title_full": "1974 : [ 132-1 ] [ 132-2 ] [ 132-3 ] [ 132-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1974_num_132_1"
+        }, 
+        {
+            "title_full": "1974 : [ 132-1 ] [ 132-2 ] [ 132-3 ] [ 132-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1974_num_132_2"
+        }, 
+        {
+            "title_full": "1974 : [ 132-1 ] [ 132-2 ] [ 132-3 ] [ 132-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1974_num_132_3"
+        }, 
+        {
+            "title_full": "1974 : [ 132-1 ] [ 132-2 ] [ 132-3 ] [ 132-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1974_num_132_4"
+        }, 
+        {
+            "title_full": "1975 : [ 133-1 ] [ 133-2 ] [ 133-3 ] [ 133-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1975_num_133_1"
+        }, 
+        {
+            "title_full": "1975 : [ 133-1 ] [ 133-2 ] [ 133-3 ] [ 133-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1975_num_133_2"
+        }, 
+        {
+            "title_full": "1975 : [ 133-1 ] [ 133-2 ] [ 133-3 ] [ 133-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1975_num_133_3"
+        }, 
+        {
+            "title_full": "1975 : [ 133-1 ] [ 133-2 ] [ 133-3 ] [ 133-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1975_num_133_4"
+        }, 
+        {
+            "title_full": "1976 : [ 134-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1976_num_134_1"
+        }, 
+        {
+            "title_full": "1981 : [ 139-1 ] [ 139-2 ] [ 139-3 ] [ 139-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1981_num_139_1"
+        }, 
+        {
+            "title_full": "1981 : [ 139-1 ] [ 139-2 ] [ 139-3 ] [ 139-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1981_num_139_2"
+        }, 
+        {
+            "title_full": "1981 : [ 139-1 ] [ 139-2 ] [ 139-3 ] [ 139-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1981_num_139_3"
+        }, 
+        {
+            "title_full": "1981 : [ 139-1 ] [ 139-2 ] [ 139-3 ] [ 139-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1981_num_139_4"
+        }, 
+        {
+            "title_full": "1984 : [ 142-1 ] [ 142-2 ] [ 142-3 ] [ 142-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1984_num_142_1"
+        }, 
+        {
+            "title_full": "1984 : [ 142-1 ] [ 142-2 ] [ 142-3 ] [ 142-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1984_num_142_2"
+        }, 
+        {
+            "title_full": "1984 : [ 142-1 ] [ 142-2 ] [ 142-3 ] [ 142-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1984_num_142_3"
+        }, 
+        {
+            "title_full": "1984 : [ 142-1 ] [ 142-2 ] [ 142-3 ] [ 142-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1984_num_142_4"
+        }, 
+        {
+            "title_full": "1985 : [ 143-1 ] [ 143-2 ] [ 143-3 ] [ 143-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1985_num_143_1"
+        }, 
+        {
+            "title_full": "1985 : [ 143-1 ] [ 143-2 ] [ 143-3 ] [ 143-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1985_num_143_2"
+        }, 
+        {
+            "title_full": "1985 : [ 143-1 ] [ 143-2 ] [ 143-3 ] [ 143-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1985_num_143_3"
+        }, 
+        {
+            "title_full": "1985 : [ 143-1 ] [ 143-2 ] [ 143-3 ] [ 143-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1985_num_143_4"
+        }, 
+        {
+            "title_full": "1987 : [ 145-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1987_num_145_1"
+        }, 
+        {
+            "title_full": "1988 : [ 146-1 ] [ 146-2 ] [ 146-3 ] [ 146-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1988_num_146_1"
+        }, 
+        {
+            "title_full": "1988 : [ 146-1 ] [ 146-2 ] [ 146-3 ] [ 146-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1988_num_146_2"
+        }, 
+        {
+            "title_full": "1988 : [ 146-1 ] [ 146-2 ] [ 146-3 ] [ 146-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1988_num_146_3"
+        }, 
+        {
+            "title_full": "1988 : [ 146-1 ] [ 146-2 ] [ 146-3 ] [ 146-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1988_num_146_4"
+        }, 
+        {
+            "title_full": "1989 : [ 147-1 ] [ 147-2 ] [ 147-3 ] [ 147-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1989_num_147_1"
+        }, 
+        {
+            "title_full": "1989 : [ 147-1 ] [ 147-2 ] [ 147-3 ] [ 147-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1989_num_147_2"
+        }, 
+        {
+            "title_full": "1989 : [ 147-1 ] [ 147-2 ] [ 147-3 ] [ 147-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1989_num_147_3"
+        }, 
+        {
+            "title_full": "1989 : [ 147-1 ] [ 147-2 ] [ 147-3 ] [ 147-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1989_num_147_4"
+        }, 
+        {
+            "title_full": "1990 : [ 148-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1990_num_148_1"
+        }, 
+        {
+            "title_full": "1991 : [ 149-1 ] [ 149-2 ] [ 149-3 ] [ 149-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1991_num_149_1"
+        }, 
+        {
+            "title_full": "1991 : [ 149-1 ] [ 149-2 ] [ 149-3 ] [ 149-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1991_num_149_2"
+        }, 
+        {
+            "title_full": "1991 : [ 149-1 ] [ 149-2 ] [ 149-3 ] [ 149-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1991_num_149_3"
+        }, 
+        {
+            "title_full": "1991 : [ 149-1 ] [ 149-2 ] [ 149-3 ] [ 149-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1991_num_149_4"
+        }, 
+        {
+            "title_full": "1992 : [ 150-1 ] [ 150-2 ] [ 150-3 ] [ 150-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1992_num_150_1"
+        }, 
+        {
+            "title_full": "1992 : [ 150-1 ] [ 150-2 ] [ 150-3 ] [ 150-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1992_num_150_2"
+        }, 
+        {
+            "title_full": "1992 : [ 150-1 ] [ 150-2 ] [ 150-3 ] [ 150-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1992_num_150_3"
+        }, 
+        {
+            "title_full": "1992 : [ 150-1 ] [ 150-2 ] [ 150-3 ] [ 150-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1992_num_150_4"
+        }, 
+        {
+            "title_full": "1993 : [ 151-1 ] [ 151-2 ] [ 151-3 ] [ 151-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1993_num_151_1"
+        }, 
+        {
+            "title_full": "1993 : [ 151-1 ] [ 151-2 ] [ 151-3 ] [ 151-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1993_num_151_2"
+        }, 
+        {
+            "title_full": "1993 : [ 151-1 ] [ 151-2 ] [ 151-3 ] [ 151-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1993_num_151_3"
+        }, 
+        {
+            "title_full": "1993 : [ 151-1 ] [ 151-2 ] [ 151-3 ] [ 151-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1993_num_151_4"
+        }, 
+        {
+            "title_full": "1994 : [ 152-1 ] [ 152-2 ] [ 152-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1994_num_152_1"
+        }, 
+        {
+            "title_full": "1994 : [ 152-1 ] [ 152-2 ] [ 152-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1994_num_152_2"
+        }, 
+        {
+            "title_full": "1994 : [ 152-1 ] [ 152-2 ] [ 152-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1994_num_152_3"
+        }, 
+        {
+            "title_full": "1995 : [ 153-1 ] [ 153-2 ] [ 153-3 ] [ 153-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1995_num_153_1"
+        }, 
+        {
+            "title_full": "1995 : [ 153-1 ] [ 153-2 ] [ 153-3 ] [ 153-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1995_num_153_2"
+        }, 
+        {
+            "title_full": "1995 : [ 153-1 ] [ 153-2 ] [ 153-3 ] [ 153-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1995_num_153_3"
+        }, 
+        {
+            "title_full": "1995 : [ 153-1 ] [ 153-2 ] [ 153-3 ] [ 153-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1995_num_153_4"
+        }, 
+        {
+            "title_full": "1996 : [ 154-1 ] [ 154-2 ] [ 154-3 ] [ 154-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1996_num_154_1"
+        }, 
+        {
+            "title_full": "1996 : [ 154-1 ] [ 154-2 ] [ 154-3 ] [ 154-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1996_num_154_2"
+        }, 
+        {
+            "title_full": "1996 : [ 154-1 ] [ 154-2 ] [ 154-3 ] [ 154-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1996_num_154_3"
+        }, 
+        {
+            "title_full": "1996 : [ 154-1 ] [ 154-2 ] [ 154-3 ] [ 154-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1996_num_154_4"
+        }, 
+        {
+            "title_full": "1997 : [ 155-1 ] [ 155-2 ] [ 155-3 ] [ 155-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1997_num_155_1"
+        }, 
+        {
+            "title_full": "1997 : [ 155-1 ] [ 155-2 ] [ 155-3 ] [ 155-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1997_num_155_2"
+        }, 
+        {
+            "title_full": "1997 : [ 155-1 ] [ 155-2 ] [ 155-3 ] [ 155-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1997_num_155_3"
+        }, 
+        {
+            "title_full": "1997 : [ 155-1 ] [ 155-2 ] [ 155-3 ] [ 155-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1997_num_155_4"
+        }, 
+        {
+            "title_full": "1998 : [ 156-1 ] [ 156-2 ] [ 156-3 ] [ 156-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1998_num_156_1"
+        }, 
+        {
+            "title_full": "1998 : [ 156-1 ] [ 156-2 ] [ 156-3 ] [ 156-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1998_num_156_2"
+        }, 
+        {
+            "title_full": "1998 : [ 156-1 ] [ 156-2 ] [ 156-3 ] [ 156-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1998_num_156_3"
+        }, 
+        {
+            "title_full": "1998 : [ 156-1 ] [ 156-2 ] [ 156-3 ] [ 156-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1998_num_156_4"
+        }, 
+        {
+            "title_full": "1999 : [ 157-1 ] [ 157-2 ] [ 157-3 ] [ 157-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1999_num_157_1"
+        }, 
+        {
+            "title_full": "1999 : [ 157-1 ] [ 157-2 ] [ 157-3 ] [ 157-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1999_num_157_2"
+        }, 
+        {
+            "title_full": "1999 : [ 157-1 ] [ 157-2 ] [ 157-3 ] [ 157-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1999_num_157_3"
+        }, 
+        {
+            "title_full": "1999 : [ 157-1 ] [ 157-2 ] [ 157-3 ] [ 157-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_1999_num_157_4"
+        }, 
+        {
+            "title_full": "2000 : [ 158-1 ] [ 158-2 ] [ 158-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2000_num_158_1"
+        }, 
+        {
+            "title_full": "2000 : [ 158-1 ] [ 158-2 ] [ 158-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2000_num_158_2"
+        }, 
+        {
+            "title_full": "2000 : [ 158-1 ] [ 158-2 ] [ 158-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2000_num_158_4"
+        }, 
+        {
+            "title_full": "2001 : [ 159-1 ] [ 159-2 ] [ 159-3 ] [ 159-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2001_num_159_1"
+        }, 
+        {
+            "title_full": "2001 : [ 159-1 ] [ 159-2 ] [ 159-3 ] [ 159-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2001_num_159_2"
+        }, 
+        {
+            "title_full": "2001 : [ 159-1 ] [ 159-2 ] [ 159-3 ] [ 159-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2001_num_159_3"
+        }, 
+        {
+            "title_full": "2001 : [ 159-1 ] [ 159-2 ] [ 159-3 ] [ 159-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2001_num_159_4"
+        }, 
+        {
+            "title_full": "2002 : [ 160-1 ] [ 160-2 ] [ 160-3 ] [ 160-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2002_num_160_1"
+        }, 
+        {
+            "title_full": "2002 : [ 160-1 ] [ 160-2 ] [ 160-3 ] [ 160-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2002_num_160_2"
+        }, 
+        {
+            "title_full": "2002 : [ 160-1 ] [ 160-2 ] [ 160-3 ] [ 160-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2002_num_160_3"
+        }, 
+        {
+            "title_full": "2002 : [ 160-1 ] [ 160-2 ] [ 160-3 ] [ 160-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2002_num_160_4"
+        }, 
+        {
+            "title_full": "2003 : [ 161-1 ] [ 161-2 ] [ 161-3 ] [ 161-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2003_num_161_1"
+        }, 
+        {
+            "title_full": "2003 : [ 161-1 ] [ 161-2 ] [ 161-3 ] [ 161-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2003_num_161_2"
+        }, 
+        {
+            "title_full": "2003 : [ 161-1 ] [ 161-2 ] [ 161-3 ] [ 161-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2003_num_161_3"
+        }, 
+        {
+            "title_full": "2003 : [ 161-1 ] [ 161-2 ] [ 161-3 ] [ 161-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2003_num_161_4"
+        }, 
+        {
+            "title_full": "2004 : [ 162-1 ] [ 162-2 ] [ 162-3 ] [ 162-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2004_num_162_1"
+        }, 
+        {
+            "title_full": "2004 : [ 162-1 ] [ 162-2 ] [ 162-3 ] [ 162-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2004_num_162_2"
+        }, 
+        {
+            "title_full": "2004 : [ 162-1 ] [ 162-2 ] [ 162-3 ] [ 162-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2004_num_162_3"
+        }, 
+        {
+            "title_full": "2004 : [ 162-1 ] [ 162-2 ] [ 162-3 ] [ 162-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2004_num_162_4"
+        }, 
+        {
+            "title_full": "2005 : [ 163-1 ] [ 163-2 ] [ 163-3 ] [ 163-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2005_num_163_1"
+        }, 
+        {
+            "title_full": "2005 : [ 163-1 ] [ 163-2 ] [ 163-3 ] [ 163-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2005_num_163_2"
+        }, 
+        {
+            "title_full": "2005 : [ 163-1 ] [ 163-2 ] [ 163-3 ] [ 163-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2005_num_163_3"
+        }, 
+        {
+            "title_full": "2005 : [ 163-1 ] [ 163-2 ] [ 163-3 ] [ 163-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2005_num_163_4"
+        }, 
+        {
+            "title_full": "2006 : [ 164-1 ] [ 164-2 ] [ 164-3 ] [ 164-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2006_num_164_1"
+        }, 
+        {
+            "title_full": "2006 : [ 164-1 ] [ 164-2 ] [ 164-3 ] [ 164-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2006_num_164_2"
+        }, 
+        {
+            "title_full": "2006 : [ 164-1 ] [ 164-2 ] [ 164-3 ] [ 164-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2006_num_164_3"
+        }, 
+        {
+            "title_full": "2006 : [ 164-1 ] [ 164-2 ] [ 164-3 ] [ 164-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2006_num_164_4"
+        }, 
+        {
+            "title_full": "2007 : [ 165-1 ] [ 165-2 ] [ 165-3 ] [ 165-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2007_num_165_1"
+        }, 
+        {
+            "title_full": "2007 : [ 165-1 ] [ 165-2 ] [ 165-3 ] [ 165-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2007_num_165_2"
+        }, 
+        {
+            "title_full": "2007 : [ 165-1 ] [ 165-2 ] [ 165-3 ] [ 165-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2007_num_165_3"
+        }, 
+        {
+            "title_full": "2007 : [ 165-1 ] [ 165-2 ] [ 165-3 ] [ 165-4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2007_num_165_4"
+        }, 
+        {
+            "title_full": "2008 : [ 166-1 ] [ 166-2 ] [ 166-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2008_num_166_1"
+        }, 
+        {
+            "title_full": "2008 : [ 166-1 ] [ 166-2 ] [ 166-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2008_num_166_2"
+        }, 
+        {
+            "title_full": "2008 : [ 166-1 ] [ 166-2 ] [ 166-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bulmo_0007-473x_2008_num_166_3"
+        }
+    ], 
+    "title": "Bulletin Monumental", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.persee.fr/web/revues/home/prescript/revue/bulmo", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

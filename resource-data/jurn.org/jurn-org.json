@@ -1,0 +1,157 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "JURN is a curated academic search-engine, indexing 3,154 free ejournals in the arts & humanities. JURN is a search-engine indexing free \u2018open access\u2019 ejournals in the arts and humanities, along with other arts and scholarly journals offering free content. How do I use it? You can use it just like Google. JURN is running on a Google Custom Search; so JURN is speedy, and you can use all the usual Google search modifers, such as intitle:\"your phrase\" and filetype:pdf But I assume the typical user will have an adequate grasp of the best ways to search Google, and will thus also have some idea of the exact terms they need to use. For example, a unsophisticated search for. Gender Studies Shakespeare. will only obtain an interesting but very broad overview, while a search such as such as. intitle:\"The Tempest\" gender. will return much more specific results. In the right hand sidebar of.", 
+    "domain": "jurn.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "JURN", 
+        "url": "http://jurn.org/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "humanities"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3340302652639754837", 
+            "resource_date": "2009-06-23T13:01:01.537-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:07:56.220124"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/06/jurn-access-to-free-ejournals-in-arts.html", 
+            "resource_date": "2009-06-23T13:01:01.537-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:07:56.220140"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3340302652639754837", 
+            "resource_date": "2009-06-23T13:01:01.537-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:07:56.224153"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/06/jurn-access-to-free-ejournals-in-arts.html", 
+            "resource_date": "2009-06-23T13:01:01.537-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:07:56.224164"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:07:56.225650"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "jurn-org", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "JURN", 
+            "url": "http://jurn.org/"
+        }
+    ], 
+    "title": "JURN", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://jurn.org/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

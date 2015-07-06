@@ -1,0 +1,159 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Have you taken the AWOL User Survey?. From \"Ilya Yakubovich\" <sogdiana783@gmail. com>: The Annotated Corpus of Luwian Texts (ACLT), available for public use at <http://web-corpora. net/LuwianCorpus/search/>, has now been updated to includes the analysis of Luwian cuneiform texts published in Die keilschrift-luwischen Texte in Umschrift (StBoT 30) by Frank Starke. The Iron Age Luwian texts published since the appearance of the Corpus of Hieroglyphic Luwian Inscriptions (CHLI) by J. David Hawkins have also been included in the new version of the corpus. The interface of the corpus contains the provisional Luwian glossaries, whose lemmata can be used as entries for automated search. For practical reasons, the glossaries to the cuneiform and hieroglyphic corpora are given separately, even though they reflect essentially the same language. I The narrow transliteration of the hieroglyphic texts used in the corpus generally follows the system of the CHLI but incorporates several modifications reflecting the recent progress in the Luwian Studies. The narrow transliteration of the cuneiform texts reflects the conventions of StBoT 30 and its computer adaptation by H. Craig Melchert. Note that the present corpus, as a rule, does not contain isolated Luwian forms occurring in Hittite texts. This project has been completed with the assistance of a research grant of the Corpus Linguistics Program sponsored by the Presidium of the Russian Academy of Sciences. Dr. Ilya Yakubovich acted as the principal investigator of the project, whose team consisted of Dr. Timoofey Arkhangelskiy, Mr. Sergey Boroday, and Dr. Alexei Kassian. Queries and corrections of both linguistic and technical errors will be warmly welcomed. For linguistic issues, please contact Ilya Yakubovich (sogdiana783@gmail. com). For possible problems with computer interface, please contact Timofey Arkhangelskiy (timarkh@gmail. com).", 
+    "domain": "web-corpora.net", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "The Annotated Corpus of Luwian Texts (ACLT)", 
+        "url": "http://web-corpora.net/LuwianCorpus/search/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Turkey", 
+        "Anatolia", 
+        "Luwian"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4295004187085623245", 
+            "resource_date": "2015-03-04T13:29:08.985-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:57.408566"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/03/news-from-the-annotated-corpus-of.html", 
+            "resource_date": "2015-03-04T13:29:08.985-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:57.408582"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4295004187085623245", 
+            "resource_date": "2015-03-04T13:29:08.985-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:57.410219"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/03/news-from-the-annotated-corpus-of.html", 
+            "resource_date": "2015-03-04T13:29:08.985-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:57.410230"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:08:57.411663"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "LuwianCorpus-search", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "The Annotated Corpus of Luwian Texts (ACLT)", 
+            "url": "http://web-corpora.net/LuwianCorpus/search/"
+        }
+    ], 
+    "title": "The Annotated Corpus of Luwian Texts (ACLT)", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://web-corpora.net/LuwianCorpus/search/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

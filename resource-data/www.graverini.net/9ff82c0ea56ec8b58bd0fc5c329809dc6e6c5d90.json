@@ -1,0 +1,171 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Learning Latin.", 
+    "domain": "www.graverini.net", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Learning Latin", 
+        "url": "http://www.graverini.net/learning-latin/?lang=en"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Latin"
+    ], 
+    "languages": [], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8974783875380870246", 
+            "resource_date": "2014-04-12T08:17:26.773-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:15:04.324936"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/04/learning-latin.html", 
+            "resource_date": "2014-04-12T08:17:26.773-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:15:04.324953"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8974783875380870246", 
+            "resource_date": "2014-04-12T08:17:26.773-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:15:04.326350"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/04/learning-latin.html", 
+            "resource_date": "2014-04-12T08:17:26.773-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:15:04.326361"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:15:04.332995"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "9ff82c0ea56ec8b58bd0fc5c329809dc6e6c5d90", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Learning Latin", 
+            "url": "http://www.graverini.net/learning-latin/?lang=en"
+        }, 
+        {
+            "title_full": "Luca Graverini", 
+            "url": "http://www.graverini.net/"
+        }, 
+        {
+            "title_full": "Morphology drills", 
+            "url": "http://www.graverini.net/learning-latin/morphology-drills/?lang=en"
+        }, 
+        {
+            "title_full": "Vocabulary drill", 
+            "url": "http://www.graverini.net/learning-latin/vocabulary-drill/?lang=en"
+        }, 
+        {
+            "title_full": "Timeline (Chronological map)", 
+            "url": "http://www.graverini.net/timeline/?lang=en"
+        }
+    ], 
+    "title": "Learning Latin", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.graverini.net/learning-latin/?lang=en", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

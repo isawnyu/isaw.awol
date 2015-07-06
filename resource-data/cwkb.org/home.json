@@ -1,0 +1,187 @@
+{
+    "authors": [
+        "and 5", 
+        "200 texts", 
+        "with variants forms in the main modern languages of Classical studies", 
+        "common abbreviations)"
+    ], 
+    "contributors": [], 
+    "description": "Classical Works Knowledge Base: A Service of the American Philological Association. The CWKB knowledge base assembles data about Classical works (1,550 authors and 5,200 texts, with variants forms in the main modern languages of Classical studies and common abbreviations). The knowledge base also contains the linking heuristics to the passage level for 6,732 manifestations of Classical works. The full-text services linked to are:.", 
+    "domain": "cwkb.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Classical Works Knowledge Base", 
+        "url": "http://cwkb.org/home"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "APA", 
+        "SCS", 
+        "classics"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2324182026857386070", 
+            "resource_date": "2014-07-12T08:14:25.805-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:22.108174"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/classical-works-knowledge-base.html", 
+            "resource_date": "2014-07-12T08:14:25.805-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:22.108190"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2324182026857386070", 
+            "resource_date": "2014-07-12T08:14:25.805-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:22.110947"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/classical-works-knowledge-base.html", 
+            "resource_date": "2014-07-12T08:14:25.805-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:22.110959"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "title_extended", 
+                "authors", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:22.119310"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "home", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Classical Works Knowledge Base: A Service of the American Philological Association", 
+            "url": "http://cwkb.org/home"
+        }, 
+        {
+            "title_full": "Search", 
+            "url": "http://cwkb.org/search"
+        }, 
+        {
+            "title_full": "Resolution Service", 
+            "url": "http://cwkb.org/resservice"
+        }, 
+        {
+            "title_full": "Credits", 
+            "url": "http://cwkb.org/credits"
+        }, 
+        {
+            "title_full": "Publications", 
+            "url": "http://cwkb.org/presentations"
+        }, 
+        {
+            "title_full": "Software", 
+            "url": "http://cwkb.org/software"
+        }
+    ], 
+    "title": "Classical Works Knowledge Base: A Service of the American Philological Association", 
+    "title_alternates": [], 
+    "title_extended": "Classical Works Knowledge Base: A Service of the American Philological Association", 
+    "type": null, 
+    "url": "http://cwkb.org/home", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

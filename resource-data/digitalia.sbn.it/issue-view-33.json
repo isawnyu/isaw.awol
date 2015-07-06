@@ -1,0 +1,95 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "DigItalia, rivista del digitale nei beni culturali. ISSN: 1972-621X. DigItalia, rivista del digitale nei beni culturali, edita dal 2005 dall'ICCU, si colloca nel campo dell\u2019editoria periodica specializzata in Italia, individuando quale obiettivo primario lo studio ed il dibattito critico sulle tematiche relative all\u2019applicazione delle tecnologie digitali alle varie tipologie del patrimonio culturale. Dal 2012 su piattaforma OJS con il supporto dell'Universit\u00e0 di Macerata. La piattaforma OJS consente funzionalit\u00e0 di ricerca nei metadati e nei full text, che non era possibile nella precedente versione online. DigItalia \u00e8 disponibile anche nella versione a stampa. Consultabile online anche sul portale PA, Sistema Modus-Biblioteca virtuale-Pubblicazioni ufficiali dello Stato.", 
+    "domain": "digitalia.sbn.it", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1972-621X"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "title_full": "DigItalia, rivista del digitale nei beni culturali", 
+        "url": "http://digitalia.sbn.it/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [], 
+    "languages": [
+        "it"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-142009343002172060", 
+            "resource_date": "2015-01-01T08:52:36.676-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:05:26.848370"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-digitalia-rivista.html", 
+            "resource_date": "2015-01-01T08:52:36.676-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:05:26.848382"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "issue-view-33", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "Vol 1 (2007)", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://digitalia.sbn.it/issue/view/33", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

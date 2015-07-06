@@ -1,0 +1,867 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 31 December 201, updated 25 January 2014]. philpapers: Online research in philosophy.", 
+    "domain": "philpapers.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "philpapers: Online research in philosophy", 
+        "url": "http://philpapers.org/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "ancient", 
+        "philosophy", 
+        "library", 
+        "antiquity", 
+        "Greek", 
+        "Roman", 
+        "digital library"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8917170956300935650", 
+            "resource_date": "2014-01-25T19:47:42.317-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:14:57.744277"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/ancient-greek-and-roman-philosophy.html", 
+            "resource_date": "2014-01-25T19:47:42.317-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:14:57.744293"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8917170956300935650", 
+            "resource_date": "2014-01-25T19:47:42.317-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:14:57.748368"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/ancient-greek-and-roman-philosophy.html", 
+            "resource_date": "2014-01-25T19:47:42.317-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:14:57.748380"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:14:58.300494"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "philpapers-org", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "philpapers: Online research in philosophy", 
+            "url": "http://philpapers.org/"
+        }, 
+        {
+            "title_full": "Ancient Greek and Roman Philosophy", 
+            "url": "http://philpapers.org/browse/ancient-greek-and-roman-philosophy"
+        }, 
+        {
+            "title_full": "Robin Smith", 
+            "url": "http://philpapers.org/profile/6920"
+        }, 
+        {
+            "title_full": "Classical Greek Philosophy", 
+            "url": "http://philpapers.org/browse/classical-greek-philosophy"
+        }, 
+        {
+            "title_full": "Classical Greek Philosophy, Misc", 
+            "url": "http://philpapers.org/browse/classical-greek-philosophy-misc"
+        }, 
+        {
+            "title_full": "Socrates", 
+            "url": "http://philpapers.org/browse/socrates"
+        }, 
+        {
+            "title_full": "Plato", 
+            "url": "http://philpapers.org/browse/plato"
+        }, 
+        {
+            "title_full": "Hugh Benson", 
+            "url": "http://philpapers.org/profile/10948"
+        }, 
+        {
+            "title_full": "Aristotle", 
+            "url": "http://philpapers.org/browse/aristotle"
+        }, 
+        {
+            "title_full": "Socratics", 
+            "url": "http://philpapers.org/browse/socratics"
+        }, 
+        {
+            "title_full": "Old Academy", 
+            "url": "http://philpapers.org/browse/old-academy"
+        }, 
+        {
+            "title_full": "Speusippus", 
+            "url": "http://philpapers.org/browse/speusippus"
+        }, 
+        {
+            "title_full": "Xenocrates", 
+            "url": "http://philpapers.org/browse/xenocrates"
+        }, 
+        {
+            "title_full": "Old Academy, Misc", 
+            "url": "http://philpapers.org/browse/old-academy-misc"
+        }, 
+        {
+            "title_full": "Hellenistic and Later Ancient Philosophy", 
+            "url": "http://philpapers.org/browse/hellenistic-and-later-ancient-philosophy"
+        }, 
+        {
+            "title_full": "Dirk Baltzly", 
+            "url": "http://philpapers.org/profile/7081"
+        }, 
+        {
+            "title_full": "Peripatetics", 
+            "url": "http://philpapers.org/browse/peripatetics"
+        }, 
+        {
+            "title_full": "Theophrastus", 
+            "url": "http://philpapers.org/browse/theophrastus"
+        }, 
+        {
+            "title_full": "Peripatetics, Misc", 
+            "url": "http://philpapers.org/browse/peripatetics-misc"
+        }, 
+        {
+            "title_full": "Stoics", 
+            "url": "http://philpapers.org/browse/stoics"
+        }, 
+        {
+            "title_full": "The Old Stoa", 
+            "url": "http://philpapers.org/browse/the-old-stoa"
+        }, 
+        {
+            "title_full": "Chrysippus", 
+            "url": "http://philpapers.org/browse/chrysippus"
+        }, 
+        {
+            "title_full": "Epictetus", 
+            "url": "http://philpapers.org/browse/epictetus"
+        }, 
+        {
+            "title_full": "Marcus Aurelius", 
+            "url": "http://philpapers.org/browse/marcus-aurelius"
+        }, 
+        {
+            "title_full": "Stoics, Misc", 
+            "url": "http://philpapers.org/browse/stoics-misc"
+        }, 
+        {
+            "title_full": "Aristotelian Commentators", 
+            "url": "http://philpapers.org/browse/aristotelian-commentators"
+        }, 
+        {
+            "title_full": "Alexander of Aphrodisias", 
+            "url": "http://philpapers.org/browse/alexander-of-aphrodisias"
+        }, 
+        {
+            "title_full": "Andronicus", 
+            "url": "http://philpapers.org/browse/andronicus"
+        }, 
+        {
+            "title_full": "Ammonius", 
+            "url": "http://philpapers.org/browse/ammonius"
+        }, 
+        {
+            "title_full": "John Philoponus", 
+            "url": "http://philpapers.org/browse/john-philoponus"
+        }, 
+        {
+            "title_full": "Simplicius", 
+            "url": "http://philpapers.org/browse/simplicius"
+        }, 
+        {
+            "title_full": "Aristotelian Commentators, Misc", 
+            "url": "http://philpapers.org/browse/aristotelian-commentators-misc"
+        }, 
+        {
+            "title_full": "Epicureans", 
+            "url": "http://philpapers.org/browse/epicureans"
+        }, 
+        {
+            "title_full": "Tim O'Keefe", 
+            "url": "http://philpapers.org/profile/26367"
+        }, 
+        {
+            "title_full": "Epicurus", 
+            "url": "http://philpapers.org/browse/epicurus"
+        }, 
+        {
+            "title_full": "Lucretius", 
+            "url": "http://philpapers.org/browse/lucretius"
+        }, 
+        {
+            "title_full": "Philodemus", 
+            "url": "http://philpapers.org/browse/philodemus"
+        }, 
+        {
+            "title_full": "Epicureans, Misc", 
+            "url": "http://philpapers.org/browse/epicureans-misc"
+        }, 
+        {
+            "title_full": "Middle Platonists", 
+            "url": "http://philpapers.org/browse/middle-platonists"
+        }, 
+        {
+            "title_full": "Galen", 
+            "url": "http://philpapers.org/browse/galen"
+        }, 
+        {
+            "title_full": "Philo", 
+            "url": "http://philpapers.org/browse/philo"
+        }, 
+        {
+            "title_full": "Plutarch", 
+            "url": "http://philpapers.org/browse/plutarch"
+        }, 
+        {
+            "title_full": "Middle Platonists, Misc", 
+            "url": "http://philpapers.org/browse/middle-platonists-misc"
+        }, 
+        {
+            "title_full": "Neoplatonists", 
+            "url": "http://philpapers.org/browse/neoplatonists"
+        }, 
+        {
+            "title_full": "Plotinus", 
+            "url": "http://philpapers.org/browse/plotinus"
+        }, 
+        {
+            "title_full": "Porphyry", 
+            "url": "http://philpapers.org/browse/porphyry"
+        }, 
+        {
+            "title_full": "Proclus", 
+            "url": "http://philpapers.org/browse/proclus"
+        }, 
+        {
+            "title_full": "Neoplatonists, Misc", 
+            "url": "http://philpapers.org/browse/neoplatonists-misc"
+        }, 
+        {
+            "title_full": "Academic Skeptics", 
+            "url": "http://philpapers.org/browse/academic-skeptics"
+        }, 
+        {
+            "title_full": "Diego E. Machuca", 
+            "url": "http://philpapers.org/profile/5673"
+        }, 
+        {
+            "title_full": "Pyrrhonists", 
+            "url": "http://philpapers.org/browse/pyrrhonists"
+        }, 
+        {
+            "title_full": "Hellenistic and Later Ancient Philosophy, Misc", 
+            "url": "http://philpapers.org/browse/hellenistic-and-later-ancient-philosophy-misc"
+        }, 
+        {
+            "title_full": "Pre-Socratic Philosophy", 
+            "url": "http://philpapers.org/browse/pre-socratic-philosophy"
+        }, 
+        {
+            "title_full": "Catherine Joanna Rowett", 
+            "url": "http://philpapers.org/profile/4760"
+        }, 
+        {
+            "title_full": "Milesians", 
+            "url": "http://philpapers.org/browse/milesians"
+        }, 
+        {
+            "title_full": "Anaxagoras", 
+            "url": "http://philpapers.org/browse/anaxagoras"
+        }, 
+        {
+            "title_full": "Pythagoreans", 
+            "url": "http://philpapers.org/browse/pythagoreans"
+        }, 
+        {
+            "title_full": "Eleatics", 
+            "url": "http://philpapers.org/browse/eleatics"
+        }, 
+        {
+            "title_full": "Parmenides", 
+            "url": "http://philpapers.org/browse/parmenides"
+        }, 
+        {
+            "title_full": "Zeno of Elea", 
+            "url": "http://philpapers.org/browse/zeno-of-elea"
+        }, 
+        {
+            "title_full": "Eleatics, Misc", 
+            "url": "http://philpapers.org/browse/eleatics-misc"
+        }, 
+        {
+            "title_full": "Atomists", 
+            "url": "http://philpapers.org/browse/atomists"
+        }, 
+        {
+            "title_full": "Sophists", 
+            "url": "http://philpapers.org/browse/sophists"
+        }, 
+        {
+            "title_full": "Protagoras", 
+            "url": "http://philpapers.org/browse/protagoras"
+        }, 
+        {
+            "title_full": "Gorgias", 
+            "url": "http://philpapers.org/browse/gorgias"
+        }, 
+        {
+            "title_full": "Sophists, Misc", 
+            "url": "http://philpapers.org/browse/sophists-misc"
+        }, 
+        {
+            "title_full": "Empedocles", 
+            "url": "http://philpapers.org/browse/empedocles"
+        }, 
+        {
+            "title_full": "Heraclitus", 
+            "url": "http://philpapers.org/browse/heraclitus"
+        }, 
+        {
+            "title_full": "Xenophanes", 
+            "url": "http://philpapers.org/browse/xenophanes"
+        }, 
+        {
+            "title_full": "Pre-Socratic Philosophy, Misc", 
+            "url": "http://philpapers.org/browse/pre-socratic-philosophy-misc"
+        }, 
+        {
+            "title_full": "Aristotle: Logic and Philosophy of Language", 
+            "url": "http://philpapers.org/browse/aristotle-logic-and-philosophy-of-language"
+        }, 
+        {
+            "title_full": "Aristotle: Syllogistic", 
+            "url": "http://philpapers.org/browse/aristotle-syllogistic"
+        }, 
+        {
+            "title_full": "Aristotle: Dialectic and Dialectical Argument", 
+            "url": "http://philpapers.org/browse/aristotle-dialectic-and-dialectical-argument"
+        }, 
+        {
+            "title_full": "Aristotle: Demonstration", 
+            "url": "http://philpapers.org/browse/aristotle-demonstration"
+        }, 
+        {
+            "title_full": "Aristotle: Non-Syllogistic Argument", 
+            "url": "http://philpapers.org/browse/aristotle-non-syllogistic-argument"
+        }, 
+        {
+            "title_full": "Aristotle: Fallacies", 
+            "url": "http://philpapers.org/browse/aristotle-fallacies"
+        }, 
+        {
+            "title_full": "Aristotle: Induction", 
+            "url": "http://philpapers.org/browse/aristotle-induction"
+        }, 
+        {
+            "title_full": "Aristotle: Predication", 
+            "url": "http://philpapers.org/browse/aristotle-predication"
+        }, 
+        {
+            "title_full": "Aristotle: Principles", 
+            "url": "http://philpapers.org/browse/aristotle-principles"
+        }, 
+        {
+            "title_full": "Aristotle: Definition", 
+            "url": "http://philpapers.org/browse/aristotle-definition"
+        }, 
+        {
+            "title_full": "Aristotle: Truth", 
+            "url": "http://philpapers.org/browse/aristotle-truth"
+        }, 
+        {
+            "title_full": "Aristotle: Necessity and Contingency", 
+            "url": "http://philpapers.org/browse/aristotle-necessity-and-contingency"
+        }, 
+        {
+            "title_full": "Aristotle's Works in Logic", 
+            "url": "http://philpapers.org/browse/aristotles-works-in-logic"
+        }, 
+        {
+            "title_full": "Aristotle: Logic and Philosophy of Language, Misc", 
+            "url": "http://philpapers.org/browse/aristotle-logic-and-philosophy-of-language-misc"
+        }, 
+        {
+            "title_full": "Aristotle: Metaphysics", 
+            "url": "http://philpapers.org/browse/aristotle-metaphysics"
+        }, 
+        {
+            "title_full": "Aristotle: First Philosophy", 
+            "url": "http://philpapers.org/browse/aristotle-first-philosophy"
+        }, 
+        {
+            "title_full": "Aristotle: Substance", 
+            "url": "http://philpapers.org/browse/aristotle-substance"
+        }, 
+        {
+            "title_full": "Aristotle: The Zeta Problem", 
+            "url": "http://philpapers.org/browse/aristotle-the-zeta-problem"
+        }, 
+        {
+            "title_full": "Aristotle: Non-Contradiction", 
+            "url": "http://philpapers.org/browse/aristotle-non-contradiction"
+        }, 
+        {
+            "title_full": "Aristotle: Form and Matter", 
+            "url": "http://philpapers.org/browse/aristotle-form-and-matter"
+        }, 
+        {
+            "title_full": "Aristotle: Substantial Forms", 
+            "url": "http://philpapers.org/browse/aristotle-substantial-forms"
+        }, 
+        {
+            "title_full": "Aristotle: Actuality and Potentiality", 
+            "url": "http://philpapers.org/browse/aristotle-actuality-and-potentiality"
+        }, 
+        {
+            "title_full": "Aristotle: Essence", 
+            "url": "http://philpapers.org/browse/aristotle-essence"
+        }, 
+        {
+            "title_full": "Aristotle: Mathematical Objects", 
+            "url": "http://philpapers.org/browse/aristotle-mathematical-objects"
+        }, 
+        {
+            "title_full": "Aristotle's Works: The Metaphysics", 
+            "url": "http://philpapers.org/browse/aristotles-works-the-metaphysics"
+        }, 
+        {
+            "title_full": "Aristotle: Metaphysics, Misc", 
+            "url": "http://philpapers.org/browse/aristotle-metaphysics-misc"
+        }, 
+        {
+            "title_full": "Aristotle: Natural Science", 
+            "url": "http://philpapers.org/browse/aristotle-natural-science"
+        }, 
+        {
+            "title_full": "Aristotle: Matter and Elements", 
+            "url": "http://philpapers.org/browse/aristotle-matter-and-elements"
+        }, 
+        {
+            "title_full": "Aristotle: Time", 
+            "url": "http://philpapers.org/browse/aristotle-time"
+        }, 
+        {
+            "title_full": "Aristotle: Place", 
+            "url": "http://philpapers.org/browse/aristotle-place"
+        }, 
+        {
+            "title_full": "Aristotle: Cosmology", 
+            "url": "http://philpapers.org/browse/aristotle-cosmology"
+        }, 
+        {
+            "title_full": "Aristotle: The Unmoved Mover", 
+            "url": "http://philpapers.org/browse/aristotle-the-unmoved-mover"
+        }, 
+        {
+            "title_full": "Aristotle: Biology", 
+            "url": "http://philpapers.org/browse/aristotle-biology"
+        }, 
+        {
+            "title_full": "Aristotle: Matter and Material Change", 
+            "url": "http://philpapers.org/browse/aristotle-matter-and-material-change"
+        }, 
+        {
+            "title_full": "Aristotle: Causation", 
+            "url": "http://philpapers.org/browse/aristotle-causation"
+        }, 
+        {
+            "title_full": "Aristotle: Chance", 
+            "url": "http://philpapers.org/browse/aristotle-chance"
+        }, 
+        {
+            "title_full": "Aristotle: Necessity and Possibility", 
+            "url": "http://philpapers.org/browse/aristotle-necessity-and-possibility"
+        }, 
+        {
+            "title_full": "Aristotle: Theoretical Wisdom", 
+            "url": "http://philpapers.org/browse/aristotle-theoretical-wisdom"
+        }, 
+        {
+            "title_full": "Aristotle's Works in Natural Science", 
+            "url": "http://philpapers.org/browse/aristotles-works-in-natural-science"
+        }, 
+        {
+            "title_full": "Aristotle: Natural Science, Misc", 
+            "url": "http://philpapers.org/browse/aristotle-natural-science-misc"
+        }, 
+        {
+            "title_full": "Aristotle: Epistemology", 
+            "url": "http://philpapers.org/browse/aristotle-epistemology"
+        }, 
+        {
+            "title_full": "Aristotle: Perception", 
+            "url": "http://philpapers.org/browse/aristotle-perception"
+        }, 
+        {
+            "title_full": "Caleb Cohoe", 
+            "url": "http://philpapers.org/profile/13425"
+        }, 
+        {
+            "title_full": "Aristotle: Theoretical Science", 
+            "url": "http://philpapers.org/browse/aristotle-theoretical-science"
+        }, 
+        {
+            "title_full": "Aristotle: Epistemology, Misc", 
+            "url": "http://philpapers.org/browse/aristotle-epistemology-misc"
+        }, 
+        {
+            "title_full": "Aristotle: Philosophy of Mind", 
+            "url": "http://philpapers.org/browse/aristotle-philosophy-of-mind"
+        }, 
+        {
+            "title_full": "Aristotle: Soul", 
+            "url": "http://philpapers.org/browse/aristotle-soul"
+        }, 
+        {
+            "title_full": "Aristotle: Active/Passive Intellect", 
+            "url": "http://philpapers.org/browse/aristotle-activepassive-intellect"
+        }, 
+        {
+            "title_full": "Aristotle: Philosophy of Mind, Misc", 
+            "url": "http://philpapers.org/browse/aristotle-philosophy-of-mind-misc"
+        }, 
+        {
+            "title_full": "Aristotle: Philosophy of Science", 
+            "url": "http://philpapers.org/browse/aristotle-philosophy-of-science"
+        }, 
+        {
+            "title_full": "Aristotle: Empiricism", 
+            "url": "http://philpapers.org/browse/aristotle-empiricism"
+        }, 
+        {
+            "title_full": "Aristotle: Mathematical Science", 
+            "url": "http://philpapers.org/browse/aristotle-mathematical-science"
+        }, 
+        {
+            "title_full": "Aristotle: Philosophy of Science, Misc", 
+            "url": "http://philpapers.org/browse/aristotle-philosophy-of-science-misc"
+        }, 
+        {
+            "title_full": "Aristotle: Ethics", 
+            "url": "http://philpapers.org/browse/aristotle-ethics"
+        }, 
+        {
+            "title_full": "Aristotle: The Good", 
+            "url": "http://philpapers.org/browse/aristotle-the-good"
+        }, 
+        {
+            "title_full": "Aristotle: The Good Life", 
+            "url": "http://philpapers.org/browse/aristotle-the-good-life"
+        }, 
+        {
+            "title_full": "Aristotle: Happiness", 
+            "url": "http://philpapers.org/browse/aristotle-happiness"
+        }, 
+        {
+            "title_full": "Aristotle: Moral Virtues", 
+            "url": "http://philpapers.org/browse/aristotle-moral-virtues"
+        }, 
+        {
+            "title_full": "Aristotle: Friendship", 
+            "url": "http://philpapers.org/browse/aristotle-friendship"
+        }, 
+        {
+            "title_full": "Aristotle: Courage", 
+            "url": "http://philpapers.org/browse/aristotle-courage"
+        }, 
+        {
+            "title_full": "Aristotle: Justice", 
+            "url": "http://philpapers.org/browse/aristotle-justice"
+        }, 
+        {
+            "title_full": "Aristotle: Moral Virtues, Misc", 
+            "url": "http://philpapers.org/browse/aristotle-moral-virtues-misc"
+        }, 
+        {
+            "title_full": "Aristotle: Moral Education", 
+            "url": "http://philpapers.org/browse/aristotle-moral-education"
+        }, 
+        {
+            "title_full": "Aristotle: Practical Wisdom", 
+            "url": "http://philpapers.org/browse/aristotle-practical-wisdom"
+        }, 
+        {
+            "title_full": "Aristotle: Free Will and Agency", 
+            "url": "http://philpapers.org/browse/aristotle-free-will-and-agency"
+        }, 
+        {
+            "title_full": "Aristotle: Character", 
+            "url": "http://philpapers.org/browse/aristotle-character"
+        }, 
+        {
+            "title_full": "Aristotle: Voluntary and Involuntary", 
+            "url": "http://philpapers.org/browse/aristotle-voluntary-and-involuntary"
+        }, 
+        {
+            "title_full": "Aristotle: Pleasure", 
+            "url": "http://philpapers.org/browse/aristotle-pleasure"
+        }, 
+        {
+            "title_full": "Aristotle: The Two Lives", 
+            "url": "http://philpapers.org/browse/aristotle-the-two-lives"
+        }, 
+        {
+            "title_full": "Aristotle: External Goods", 
+            "url": "http://philpapers.org/browse/aristotle-external-goods"
+        }, 
+        {
+            "title_full": "Aristotle: Weakness of Will", 
+            "url": "http://philpapers.org/browse/aristotle-weakness-of-will"
+        }, 
+        {
+            "title_full": "Aristotle: Ethics, Misc", 
+            "url": "http://philpapers.org/browse/aristotle-ethics-misc"
+        }, 
+        {
+            "title_full": "Aristotle: Political Philosophy", 
+            "url": "http://philpapers.org/browse/aristotle-political-philosophy"
+        }, 
+        {
+            "title_full": "Aristotle: Politics", 
+            "url": "http://philpapers.org/browse/aristotle-politics"
+        }, 
+        {
+            "title_full": "Aristotle: Political Philosophy, Misc", 
+            "url": "http://philpapers.org/browse/aristotle-political-philosophy-misc"
+        }, 
+        {
+            "title_full": "Aristotle: Aesthetics", 
+            "url": "http://philpapers.org/browse/aristotle-aesthetics"
+        }, 
+        {
+            "title_full": "Aristotle's Works in Aesthetics", 
+            "url": "http://philpapers.org/browse/aristotles-works-in-aesthetics"
+        }, 
+        {
+            "title_full": "Aristotle: Aesthetics, Misc", 
+            "url": "http://philpapers.org/browse/aristotle-aesthetics-misc"
+        }, 
+        {
+            "title_full": "Aristotle: Philosophical Method", 
+            "url": "http://philpapers.org/browse/aristotle-philosophical-method"
+        }, 
+        {
+            "title_full": "Aristotle: Dialectic", 
+            "url": "http://philpapers.org/browse/aristotle-dialectic"
+        }, 
+        {
+            "title_full": "Aristotle: Puzzles", 
+            "url": "http://philpapers.org/browse/aristotle-puzzles"
+        }, 
+        {
+            "title_full": "Aristotle: Philosophical Method, Misc", 
+            "url": "http://philpapers.org/browse/aristotle-philosophical-method-misc"
+        }, 
+        {
+            "title_full": "Aristotle's Works", 
+            "url": "http://philpapers.org/browse/aristotles-works"
+        }, 
+        {
+            "title_full": "Aristotle's Works in Ethics", 
+            "url": "http://philpapers.org/browse/aristotles-works-in-ethics"
+        }, 
+        {
+            "title_full": "Aristotle: Nicomachean Ethics", 
+            "url": "http://philpapers.org/browse/aristotle-nicomachean-ethics"
+        }, 
+        {
+            "title_full": "Aristotle: Eudemian Ethics", 
+            "url": "http://philpapers.org/browse/aristotle-eudemian-ethics"
+        }, 
+        {
+            "title_full": "Aristotle: Magna Moralia", 
+            "url": "http://philpapers.org/browse/aristotle-magna-moralia"
+        }, 
+        {
+            "title_full": "Aristotle's Lost Works", 
+            "url": "http://philpapers.org/browse/aristotles-lost-works"
+        }, 
+        {
+            "title_full": "Aristotle's Works: The Physics", 
+            "url": "http://philpapers.org/browse/aristotles-works-the-physics"
+        }, 
+        {
+            "title_full": "Aristotle's Works, Misc", 
+            "url": "http://philpapers.org/browse/aristotles-works-misc"
+        }, 
+        {
+            "title_full": "Aristotle and Other Philosophers", 
+            "url": "http://philpapers.org/browse/aristotle-and-other-philosophers"
+        }, 
+        {
+            "title_full": "Aristotle: Criticism of Plato", 
+            "url": "http://philpapers.org/browse/aristotle-criticism-of-plato"
+        }, 
+        {
+            "title_full": "Aristotle and Other Philosophers, Misc", 
+            "url": "http://philpapers.org/browse/aristotle-and-other-philosophers-misc"
+        }, 
+        {
+            "title_full": "Aristotle: Development", 
+            "url": "http://philpapers.org/browse/aristotle-development"
+        }, 
+        {
+            "title_full": "Aristotle, Misc", 
+            "url": "http://philpapers.org/browse/aristotle-misc"
+        }, 
+        {
+            "title_full": "Ancient Greek and Roman Philosophy: Topics", 
+            "url": "http://philpapers.org/browse/ancient-greek-and-roman-philosophy-topics"
+        }, 
+        {
+            "title_full": "Ancient Greek and Roman Aesthetics", 
+            "url": "http://philpapers.org/browse/ancient-greek-and-roman-aesthetics"
+        }, 
+        {
+            "title_full": "Ancient Greek and Roman Logic", 
+            "url": "http://philpapers.org/browse/ancient-greek-and-roman-logic"
+        }, 
+        {
+            "title_full": "Ancient Greek and Roman Epistemology", 
+            "url": "http://philpapers.org/browse/ancient-greek-and-roman-epistemology"
+        }, 
+        {
+            "title_full": "Ancient Greek and Roman Ethics", 
+            "url": "http://philpapers.org/browse/ancient-greek-and-roman-ethics"
+        }, 
+        {
+            "title_full": "Plato: Ethics", 
+            "url": "http://philpapers.org/browse/plato-ethics"
+        }, 
+        {
+            "title_full": "Ancient Greek and Roman Metaphysics", 
+            "url": "http://philpapers.org/browse/ancient-greek-and-roman-metaphysics"
+        }, 
+        {
+            "title_full": "Ancient Greek and Roman Philosophy of Mind", 
+            "url": "http://philpapers.org/browse/ancient-greek-and-roman-philosophy-of-mind"
+        }, 
+        {
+            "title_full": "Ancient Greek and Roman Political Philosophy", 
+            "url": "http://philpapers.org/browse/ancient-greek-and-roman-political-philosophy"
+        }, 
+        {
+            "title_full": "Ancient Greek and Roman Philosophy, Miscellaneous", 
+            "url": "http://philpapers.org/browse/ancient-greek-and-roman-philosophy-miscellaneous"
+        }, 
+        {
+            "title_full": "Ancient Greek and Roman Philosophy, Misc", 
+            "url": "http://philpapers.org/browse/ancient-greek-and-roman-philosophy-misc"
+        }, 
+        {
+            "title_full": "Ancient Greek Political Philosophy", 
+            "url": "http://philpapers.org/browse/ancient-greek-political-philosophy"
+        }
+    ], 
+    "title": "philpapers: Online research in philosophy", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://philpapers.org/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

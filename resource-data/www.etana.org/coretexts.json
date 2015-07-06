@@ -1,0 +1,628 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Fifty-eight volumes and the index to volumes 1-50 of the series Cuneiform Texts from Babylonian Tablets in the British Museum (CT) were made available online as a part of.", 
+    "domain": "www.etana.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "ETANA Core Texts", 
+        "url": "http://www.etana.org/coretexts"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "cuneiform", 
+        "museums", 
+        "open access", 
+        "Mesopotamia", 
+        "Iraq", 
+        "Babylon", 
+        "British Museum", 
+        "ETANA"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6270243460046702657", 
+            "resource_date": "2014-06-30T10:20:16.669-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:10.559831"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/cuneiform-texts-from-babylonian-tablets.html", 
+            "resource_date": "2014-06-30T10:20:16.669-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:10.559846"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6270243460046702657", 
+            "resource_date": "2014-06-30T10:20:16.669-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:10.564494"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/cuneiform-texts-from-babylonian-tablets.html", 
+            "resource_date": "2014-06-30T10:20:16.669-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:10.564506"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:11:10.914594"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "coretexts", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "ETANA Core Texts", 
+            "url": "http://www.etana.org/coretexts"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part I . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/14471.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part I . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/588"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part II . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/15168.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part II . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/692"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part III . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17058.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part III . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/721"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part IV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/15167.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part IV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/691"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part V . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17057.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part V . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/720"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part VI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17059.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part VI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/722"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part VII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17060.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part VII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/723"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part VIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17061.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part VIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/724"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part IX . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17062.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part IX . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/725"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part X . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17063.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part X . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/726"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17064.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/727"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17065.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/728"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17066.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/729"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XIV . ETANA. (Book) [more}", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17468.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XIV . ETANA. (Book) [more}", 
+            "url": "http://www.etana.org/node/753"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/15166.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/690"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XVI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/15165.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XVI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/689"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XVII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/15164.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XVII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/688"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XVIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17068.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XVIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/730"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XIX . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17069.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XIX . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/731"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XX . ETANA . (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17070.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XX . ETANA . (Book) [more]", 
+            "url": "http://www.etana.org/node/732"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17083.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/745"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17071.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/733"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17072.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/734"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXIV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17073.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXIV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/735"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17074.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/736"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXVI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17075.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXVI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/737"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXVII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17076.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXVII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/738"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXVIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17077.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXVIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/739"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXIX . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17078.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXIX . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/740"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXX . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17079.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXX . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/741"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17080.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/742"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17081.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/743"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/17082.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/744"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXIV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/15163.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXIV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/687"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/15162.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/686"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXVI . ETANA. (Book) [more", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/15161.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXVI . ETANA. (Book) [more", 
+            "url": "http://www.etana.org/node/685"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXVII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/15160.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXVII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/684"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXVIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/15159.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXVIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/683"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXIX . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/15158.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XXXIX . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/682"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XL . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/15157.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c. in the British Museum. Part XL . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/681"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20442.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/921"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20445.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/922"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20446.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/923"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLIV . ETANA. (b ook) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20447.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLIV . ETANA. (b ook) [more]", 
+            "url": "http://www.etana.org/node/924"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20448.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/925"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLVI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20449.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLVI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/926"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLVII . ETANA. . (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20450.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLVII . ETANA. . (Book) [more]", 
+            "url": "http://www.etana.org/node/927"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLVIII . ETANA. . (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20451.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLVIII . ETANA. . (Book) [more]", 
+            "url": "http://www.etana.org/node/928"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLIX . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20452.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part XLIX . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/929"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part L . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20453.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part L . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/930"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Index to Parts I-L . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20454.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Index to Parts I-L . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/931"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part LI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20455.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part LI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/932"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part LII . ETANA. . (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20456.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part LII . ETANA. . (Book) [more]", 
+            "url": "http://www.etana.org/node/933"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part LIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20457.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part LIII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/934"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets in the British Museum. Part LIV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20458.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets in the British Museum. Part LIV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/935"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part LV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20459.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part LV . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/936"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part LVI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20460.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets, &c., in the British Museum. Part LVI . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/937"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets in the British Museum. Part LVII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/sites/default/files/coretexts/20461.pdf"
+        }, 
+        {
+            "title_full": "British Museum. Dept. of Egyptian and Assyrian Antiquities. Cuneiform texts from Babylonian tablets in the British Museum. Part LVII . ETANA. (Book) [more]", 
+            "url": "http://www.etana.org/node/938"
+        }
+    ], 
+    "title": "ETANA Core Texts", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.etana.org/coretexts", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

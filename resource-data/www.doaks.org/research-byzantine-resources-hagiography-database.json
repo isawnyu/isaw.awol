@@ -1,0 +1,93 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Translations of Byzantine Saints' Lives.", 
+    "domain": "www.doaks.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Dumbarton Oaks Resources for Byzantine Studies", 
+        "url": "http://www.doaks.org/research/byzantine/resources"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "data", 
+        "hagiography", 
+        "database"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6585175168383285288", 
+            "resource_date": "2013-05-13T12:50:46.035-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:30.308328"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/04/dumbarton-oaks-resources-for-byzantine.html", 
+            "resource_date": "2013-05-13T12:50:46.035-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:30.308339"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "research-byzantine-resources-hagiography-database", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "Hagiography Database", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.doaks.org/research/byzantine/resources/hagiography-database", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,165 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Byblos: Revista de Historiograf\u00eda Hist\u00f3rico-Jur\u00eddica. ISSN 1885-3129. La Revista Virtual Byblos nace de la dificultad planteada en los \u00faltimos a\u00f1os de estar al tanto de la ingente producci\u00f3n bibliogr\u00e1fica que en los campos hist\u00f3rico e hist\u00f3rico-jur\u00eddico se ha generado. En los pa\u00edses anglosajones, donde el desarrollo de los recursos en red est\u00e1 m\u00e1s avanzado, hace tiempo que algunas universidades, aprovechando la extensi\u00f3n de las listas de distribuci\u00f3n de correo, han creado p\u00e1ginas web donde el staff universitario y los miembros de dichas listas cuelgan peri\u00f3dicamente rese\u00f1as y, sobre todo, recensiones cr\u00edticas de los trabajos le\u00eddos por todos ellos, de modo que, mediante este procedimiento, se consigue que el trabajo de lectura de todos enriquezca a gran n\u00famero de personas, que se evitan la penosa tarea de leer gran cantidad de estudios.", 
+    "domain": "www.ucm.es", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1885-3129"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "title_full": "Byblos: Revista de Historiograf\u00eda Hist\u00f3rico-Jur\u00eddica", 
+        "url": "http://www.ucm.es/info/byblos/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "languages": [
+        "es"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1679276733380716010", 
+            "resource_date": "2010-09-24T10:35:38.329-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:05:44.330304"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-byblos-revista-de.html", 
+            "resource_date": "2010-09-24T10:35:38.329-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:05:44.330319"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1679276733380716010", 
+            "resource_date": "2010-09-24T10:35:38.329-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:05:44.335413"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-byblos-revista-de.html", 
+            "resource_date": "2010-09-24T10:35:38.329-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:05:44.335427"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "volume", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:05:44.338306"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "info-byblos", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Byblos: Revista de Historiograf\u00eda Hist\u00f3rico-Jur\u00eddica", 
+            "url": "http://www.ucm.es/info/byblos/"
+        }
+    ], 
+    "title": "Byblos: Revista de Historiograf\u00eda Hist\u00f3rico-Jur\u00eddica", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.ucm.es/info/byblos/", 
+    "url_alternates": [], 
+    "volume": "-", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

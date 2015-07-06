@@ -1,0 +1,169 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "ARACHNE glossaries. German-English (pdf) English-German (pdf) Locations Greek-German (pdf).", 
+    "domain": "www.uni-heidelberg.de", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "ARACHNE glossaries", 
+        "url": "http://www.uni-heidelberg.de/fakultaeten/philosophie/zaw/cms/databases/glossariesARACHNE.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Arachne", 
+        "archaeology", 
+        "DAI"
+    ], 
+    "languages": [], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1632430335213507334", 
+            "resource_date": "2015-05-23T17:30:13.256-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:05:43.279516"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/05/arachne-glossaries.html", 
+            "resource_date": "2015-05-23T17:30:13.256-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:05:43.279532"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1632430335213507334", 
+            "resource_date": "2015-05-23T17:30:13.256-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:05:43.280929"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/05/arachne-glossaries.html", 
+            "resource_date": "2015-05-23T17:30:13.256-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:05:43.280942"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:05:43.286444"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "fakultaeten-philosophie-zaw-cms-databases-glossariesARACHNE-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "ARACHNE glossaries", 
+            "url": "http://www.uni-heidelberg.de/fakultaeten/philosophie/zaw/cms/databases/glossariesARACHNE.html"
+        }, 
+        {
+            "title_full": "German-English (pdf)", 
+            "url": "http://www.uni-heidelberg.de/md/zaw/cms/databases/cms_german_english.pdf"
+        }, 
+        {
+            "title_full": "English-German (pdf)", 
+            "url": "http://www.uni-heidelberg.de/md/zaw/cms/databases/cms_english_german.pdf"
+        }, 
+        {
+            "title_full": "Locations Greek-German (pdf)", 
+            "url": "http://www.uni-heidelberg.de/md/zaw/cms/databases/werteliste_fundort_gr-deu.pdf"
+        }
+    ], 
+    "title": "ARACHNE glossaries", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.uni-heidelberg.de/fakultaeten/philosophie/zaw/cms/databases/glossariesARACHNE.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

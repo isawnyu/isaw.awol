@@ -1,0 +1,237 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Altbabylonische Briefe in Umschrift und \u00dcbersetzung. ISSN: 0065-6593.", 
+    "domain": "dlib.nyu.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0065-6593"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "issn": "0065-6593", 
+        "title_full": "Altbabylonische Briefe in Umschrift und \u00dcbersetzung", 
+        "url": "http://dlib.nyu.edu/ancientworld/series/altbabylonische-briefe-in-umschrift-und-uebersetzung"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "open access", 
+        "monograph"
+    ], 
+    "languages": [
+        "de"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6126027862145705236", 
+            "resource_date": "2015-05-15T13:27:11.900-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:59.582162"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series.html", 
+            "resource_date": "2015-05-15T13:27:11.900-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:59.582178"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6126027862145705236", 
+            "resource_date": "2015-05-15T13:27:11.900-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:59.584513"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series.html", 
+            "resource_date": "2015-05-15T13:27:11.900-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:59.584525"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:59.627068"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "ancientworld-series-altbabylonische-briefe-in-umschrift-und-uebersetzung", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Altbabylonische Briefe in Umschrift und \u00dcbersetzung", 
+            "url": "http://dlib.nyu.edu/ancientworld/series/altbabylonische-briefe-in-umschrift-und-uebersetzung"
+        }, 
+        {
+            "title_full": "Briefe aus dem Archive des \u0160ama\u0161-\u1e2a\u0101zir in Paris und Oxford (TCL 7 und OECT 3)", 
+            "url": "http://dlib.nyu.edu/ancientworld/books/brill_awdl000038"
+        }, 
+        {
+            "title_full": "Brill's ancient world selection", 
+            "url": "http://dlib.nyu.edu/ancientworld/series/brill-s-ancient-world-selection"
+        }, 
+        {
+            "title_full": "Assyriology", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2942"
+        }, 
+        {
+            "title_full": "Mus\u00e9e du Louvre -- Catalogs", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2959"
+        }, 
+        {
+            "title_full": "Ashmolean Museum -- Catalogs", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2960"
+        }, 
+        {
+            "title_full": "Assyro-Babylonian letters", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/210"
+        }, 
+        {
+            "title_full": "Akkadian language -- Texts", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/153"
+        }, 
+        {
+            "title_full": "Assyro-Babylonian literature", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2961"
+        }, 
+        {
+            "title_full": "\u0130stanbul Arkeoloji M\u00fczeleri -- Catalogs", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2963"
+        }, 
+        {
+            "title_full": "British Museum -- Catalogs", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2962"
+        }, 
+        {
+            "title_full": "Yale Babylonian Collection", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3018"
+        }, 
+        {
+            "title_full": "Assyro-Babylonian literature -- Translations into English", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/310"
+        }, 
+        {
+            "title_full": "Philadelphia University (Philadelphia", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/475"
+        }, 
+        {
+            "title_full": "Pa.) -- Museum -- Catalogs", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3019"
+        }, 
+        {
+            "title_full": "Robert H. Lowie Museum of Anthropology -- Catalogs", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3020"
+        }, 
+        {
+            "title_full": "University of Chicago -- Oriental Institute -- Catalogs", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3021"
+        }, 
+        {
+            "title_full": "Hammurabi -- King of Babylonia -- Coorespondence", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3017"
+        }, 
+        {
+            "title_full": "series from Brill in the Ancient World Digital Library", 
+            "url": "http://dlib.nyu.edu/ancientworld/series/"
+        }
+    ], 
+    "title": "Altbabylonische Briefe in Umschrift und \u00dcbersetzung", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://dlib.nyu.edu/ancientworld/series/altbabylonische-briefe-in-umschrift-und-uebersetzung", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

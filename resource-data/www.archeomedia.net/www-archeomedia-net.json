@@ -1,0 +1,168 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Archeomedia - Rivista di Archeologia On-line. ISSN: 1828-0005. ArcheoMedia \u00e8 una rivista ad abbonamento gratuito, per le persone che si interessano di archeologia. La redazione \u00e8 composta da soci Mediares Sc, Societ\u00e0 di Servizi per la Cultura, con il supporto di \"collaboratori esterni\". ArcheoMedia \u00e8 uno strumento di aggiornamento sulle novit\u00e0 archeologiche.", 
+    "domain": "www.archeomedia.net", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1828-0005"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "title_full": "Archeomedia", 
+        "url": "http://www.archeomedia.net/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "archaeology", 
+        "open access"
+    ], 
+    "languages": [
+        "it"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5741174287300054412", 
+            "resource_date": "2010-09-29T16:12:49.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:30.627964"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-archeomedia.html", 
+            "resource_date": "2010-09-29T16:12:49.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:30.627979"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5741174287300054412", 
+            "resource_date": "2010-09-29T16:12:49.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:30.631097"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-archeomedia.html", 
+            "resource_date": "2010-09-29T16:12:49.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:30.631108"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "title_extended", 
+                "volume", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:30.632618"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "www-archeomedia-net", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Archeomedia - Rivista di Archeologia On-line", 
+            "url": "http://www.archeomedia.net/"
+        }
+    ], 
+    "title": "Archeomedia - Rivista di Archeologia On-line", 
+    "title_alternates": [], 
+    "title_extended": "Archeomedia - Rivista di Archeologia On-line", 
+    "type": null, 
+    "url": "http://www.archeomedia.net/", 
+    "url_alternates": [], 
+    "volume": "-", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,271 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "iDAI. bookbrowser. The iDAI. bookbrowser integrates documents in the object structure of Arachne, providing direct links between \"real world\" objects and their textual descriptions. It also helps to overcome the isolated presentation of books and contextualises them against the background of their cultural environments. The iDAI. bookbrowser's most important components are digitized prints from the 16th to 19th centuries, currently about 2000. Every title is biographically referenced in the ZENON DAI and linked to its record in the iDAI. bookbrowser. These books belong to the holdings of the Rome Department of the German Archaeological Institute (DAI), the Cologne Digital Archeology Laboratory (CoDArchLab) at the Archaeological Institute of the University of Cologne, the Cologne University Library and to the Winckelmann-Institute at Stendal. As another component thematically coherent convolutes are edited and contextualised. These include the photo album of baron Max von Oppenheim, a very valuable document for regional studies, or the handwritten inventory of the photograph collection of the Rome Department of the German Archaeological Institute. Additionally, the iDAI. Bookbrowser is linked with external web portals like the virtual library Propylaeum specialized in classical and ancient studies as well as the Central Register of Digitised Prints (zvdd). Thus, its contents cannot be retrieved only directly via Arachne and ZENON but can be also found and retrieved through different other web portals. In this way the iDAI. Bookbrowser's web presence is growing progressively. Furthermore, the iDAI. Bookbrowser supports the Metadata Encoding and Transmission Standard (METS) due to its OAI-interface. Its programming takes place at the Cologne Digital Archeology Laboratory. The Berlin head office of the German Archeological Institute as well as the Faculty of Arts and Humanities of the University of Cologne provide financing for this project.", 
+    "domain": "arachne.uni-koeln.de", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "iDAI.bookbrowser", 
+        "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/188"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "classics", 
+        "library", 
+        "digital library"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1111922213181555620", 
+            "resource_date": "2013-11-29T07:57:14.931-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:05:06.411813"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/idaibookbrowser.html", 
+            "resource_date": "2013-11-29T07:57:14.931-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:05:06.411829"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1111922213181555620", 
+            "resource_date": "2013-11-29T07:57:14.931-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:05:06.417650"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/idaibookbrowser.html", 
+            "resource_date": "2013-11-29T07:57:14.931-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:05:06.417662"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:05:06.579775"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "2e0f6b80e58208ac93016571a5d2aaf69778adbb", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "iDAI.bookbrowser", 
+            "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/188"
+        }, 
+        {
+            "title_full": "ancient Middle East (4)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=65"
+        }, 
+        {
+            "title_full": "anthropology (30)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=80"
+        }, 
+        {
+            "title_full": "architecture (701)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=11"
+        }, 
+        {
+            "title_full": "epigraphy (188)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=30"
+        }, 
+        {
+            "title_full": "Etruscan culture (33)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=55"
+        }, 
+        {
+            "title_full": "history of art (45)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=10"
+        }, 
+        {
+            "title_full": "iconographic themes (48)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=25"
+        }, 
+        {
+            "title_full": "Italian and sicilian cultures (17)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=56"
+        }, 
+        {
+            "title_full": "jewelry (4)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=22"
+        }, 
+        {
+            "title_full": "law and administration (15)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=36"
+        }, 
+        {
+            "title_full": "Minoan-Mycenaean culture (0)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=50"
+        }, 
+        {
+            "title_full": "mosaic (15)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=19"
+        }, 
+        {
+            "title_full": "museums and collections (77)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=5"
+        }, 
+        {
+            "title_full": "numismatics (67)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=28"
+        }, 
+        {
+            "title_full": "painting (40)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=18"
+        }, 
+        {
+            "title_full": "peripheral cultures (3)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=45"
+        }, 
+        {
+            "title_full": "philosophy (3)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=76"
+        }, 
+        {
+            "title_full": "plastic art and sculpture (258)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=12"
+        }, 
+        {
+            "title_full": "portrait (23)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=15"
+        }, 
+        {
+            "title_full": "practice and institutions (229)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=1"
+        }, 
+        {
+            "title_full": "prehistory (17)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=42"
+        }, 
+        {
+            "title_full": "private and public life (6)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=26"
+        }, 
+        {
+            "title_full": "religion (38)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=32"
+        }, 
+        {
+            "title_full": "sarcophagi (25)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=16"
+        }, 
+        {
+            "title_full": "technology and material (24)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=8"
+        }, 
+        {
+            "title_full": "topography (787)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=7"
+        }, 
+        {
+            "title_full": "utensils (31)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=21"
+        }, 
+        {
+            "title_full": "vessels (52)", 
+            "url": "http://arachne.uni-koeln.de/arachne/index.php?view[layout]=search_result_category&view[category]=buch&search[mode]=detail&search[constraints][buch][buchzuvokabular.FS_VokabularID]=20"
+        }
+    ], 
+    "title": "iDAI.bookbrowser", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://arachne.uni-koeln.de/drupal/?q=en/node/188", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

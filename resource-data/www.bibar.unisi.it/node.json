@@ -1,0 +1,207 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "BibAr - Biblioteca Archeologica On-line\u00e8 una biblioteca virtuale attraverso la quale \u00e8 possibile consultare volumi scientifici di argomento archeologico editi da case editrici specializzate. Le case editrici che collaborano con BibAr forniscono la versione digitale completa delle loro ultime pubblicazioni, con la limitazione della sola consultazione a video.", 
+    "domain": "www.bibar.unisi.it", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "BibAr - Biblioteca Archeologica On-line", 
+        "url": "http://www.bibar.unisi.it/node"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "digital library", 
+        "archaeology", 
+        "library"
+    ], 
+    "languages": [
+        "it"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2823595568857182930", 
+            "resource_date": "2012-12-17T11:31:46.720-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:35.865956"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/bibar-biblioteca-archeologica-on-line.html", 
+            "resource_date": "2012-12-17T11:31:46.720-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:35.865972"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2823595568857182930", 
+            "resource_date": "2012-12-17T11:31:46.720-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:35.868960"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/12/bibar-biblioteca-archeologica-on-line.html", 
+            "resource_date": "2012-12-17T11:31:46.720-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:35.868975"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "volume", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:35.890208"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "node", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "BibAr - Biblioteca Archeologica On-line", 
+            "url": "http://www.bibar.unisi.it/node"
+        }, 
+        {
+            "title_full": "case editrici che collaborano con BibAr", 
+            "url": "http://www.bibar.unisi.it/case-editrici"
+        }, 
+        {
+            "title_full": "Cerca in BibAr", 
+            "url": "http://www.bibar.unisi.it/cerca"
+        }, 
+        {
+            "title_full": "Autori", 
+            "url": "http://www.bibar.unisi.it/autori"
+        }, 
+        {
+            "title_full": "Indice generale", 
+            "url": "http://www.bibar.unisi.it/indice"
+        }, 
+        {
+            "title_full": "Indice per argomento", 
+            "url": "http://www.bibar.unisi.it/argomento"
+        }, 
+        {
+            "title_full": "Ultime pubblicazioni inserite", 
+            "url": "http://www.bibar.unisi.it/ultime-pubblicazioni"
+        }, 
+        {
+            "title_full": "Collane", 
+            "url": "http://www.bibar.unisi.it/collane"
+        }, 
+        {
+            "title_full": "Riviste", 
+            "url": "http://www.bibar.unisi.it/riviste"
+        }, 
+        {
+            "title_full": "Carte archeologiche", 
+            "url": "http://www.bibar.unisi.it/carte-archeologiche"
+        }, 
+        {
+            "title_full": "Atti SAMI", 
+            "url": "http://www.bibar.unisi.it/atti-sami"
+        }, 
+        {
+            "title_full": "Monografie", 
+            "url": "http://www.bibar.unisi.it/monografie"
+        }, 
+        {
+            "title_full": "Miscellanea", 
+            "url": "http://www.bibar.unisi.it/miscellanea"
+        }
+    ], 
+    "title": "BibAr - Biblioteca Archeologica On-line", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.bibar.unisi.it/node", 
+    "url_alternates": [], 
+    "volume": "-", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

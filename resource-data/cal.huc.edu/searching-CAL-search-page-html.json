@@ -1,0 +1,92 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "The Comprehensive Aramaic Lexicon. The CAL is a text base of the Aramaic texts in all dialects from the earliest (9th Century BCE) through the 13th Century CE, currently with a database of approximately 2. 5 million lexically parsed words, and an associated set of electronic tools for analyzing and manipulating the data, whose ultimate goal is the creation of a complete lexicon of the language. IT IS A WORK IN PROGRESS, not a completed dictionary. Accordingly, any citations for scholarly purposes should include the date when the data was found.", 
+    "domain": "cal.huc.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "The Comprehensive Aramaic Lexicon", 
+        "url": "http://cal.huc.edu/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "data", 
+        "database"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8337022270172200518", 
+            "resource_date": "2013-02-16T16:25:52.195-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:25.223284"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-aramaic-texts-bibliography.html", 
+            "resource_date": "2013-02-16T16:25:52.195-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:25.223296"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "searching-CAL-search-page-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "Search the CAL lexical and textual databases", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://cal.huc.edu/searching/CAL_search_page.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

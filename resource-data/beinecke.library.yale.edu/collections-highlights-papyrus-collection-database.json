@@ -1,0 +1,170 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Beinecke Rare Books & Manuscript Library: Papyrus Collection Database.", 
+    "domain": "beinecke.library.yale.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Beinecke Rare Books & Manuscript Library: Papyrus Collection Database", 
+        "url": "http://beinecke.library.yale.edu/collections/highlights/papyrus-collection-database"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "database", 
+        "data", 
+        "collection", 
+        "book", 
+        "papyrology", 
+        "manuscripts"
+    ], 
+    "languages": [
+        "de"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8173766942094481814", 
+            "resource_date": "2013-12-13T06:05:37.116-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:18.964861"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/beinecke-rare-books-manuscript-library.html", 
+            "resource_date": "2013-12-13T06:05:37.116-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:18.964876"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8173766942094481814", 
+            "resource_date": "2013-12-13T06:05:37.116-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:18.966877"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/beinecke-rare-books-manuscript-library.html", 
+            "resource_date": "2013-12-13T06:05:37.116-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:18.966891"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:13:18.971371"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "collections-highlights-papyrus-collection-database", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Beinecke Rare Books & Manuscript Library: Papyrus Collection Database", 
+            "url": "http://beinecke.library.yale.edu/collections/highlights/papyrus-collection-database"
+        }, 
+        {
+            "title_full": "Yale papyrus collection", 
+            "url": "http://beinecke.library.yale.edu/papyrus/"
+        }, 
+        {
+            "title_full": "papyrus inventory system", 
+            "url": "http://beinecke.library.yale.edu/research/library-catalogs-databases/guide-yale-papyrus-collection"
+        }
+    ], 
+    "title": "Beinecke Rare Books & Manuscript Library: Papyrus Collection Database", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://beinecke.library.yale.edu/collections/highlights/papyrus-collection-database", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

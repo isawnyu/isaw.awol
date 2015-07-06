@@ -1,0 +1,468 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Data formats and software for Egyptian. Mark-Jan Nederhof. Software:.", 
+    "domain": "mjn.host.cs.st-andrews.ac.uk", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Data formats and software for Egyptian", 
+        "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Egypt", 
+        "egyptology", 
+        "data", 
+        "Egyptian"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4261117676588118378", 
+            "resource_date": "2014-11-03T10:24:57.831-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:41.248805"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/11/data-formats-and-software-for-egyptian.html", 
+            "resource_date": "2014-11-03T10:24:57.831-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:41.248821"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4261117676588118378", 
+            "resource_date": "2014-11-03T10:24:57.831-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:41.252420"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/11/data-formats-and-software-for-egyptian.html", 
+            "resource_date": "2014-11-03T10:24:57.831-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:41.252432"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:08:41.377853"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "egyptian", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Data formats and software for Egyptian", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/"
+        }, 
+        {
+            "title_full": "PhilologEg (formerly AELalign)", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/align"
+        }, 
+        {
+            "title_full": "some encodings of texts", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts"
+        }, 
+        {
+            "title_full": "hieroglyphic font", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/fonts/newgardiner.html"
+        }, 
+        {
+            "title_full": "annotated sign list", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode"
+        }, 
+        {
+            "title_full": "survey of sign lists", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/standards/signlists.html"
+        }, 
+        {
+            "title_full": "survey of lists of mnemonics", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/standards/mnemonics.html"
+        }, 
+        {
+            "title_full": "survey of encodings of transliteration", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/standards/transliteration.html"
+        }, 
+        {
+            "title_full": "the Revised Encoding Scheme for hieroglyphic", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/res"
+        }, 
+        {
+            "title_full": "ex2html translates the key to the exercises from a grammar book into HTML and Latex formats (undocumented)", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/grammars/ex2html"
+        }, 
+        {
+            "title_full": "ex2xml computes an inverted index of examples from a grammar book that belong to a certain text, and turns it into an XML format as specified by AELalign (undocumented)", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/grammars/extoxml"
+        }, 
+        {
+            "title_full": "grammar books", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/grammars"
+        }, 
+        {
+            "title_full": "selection of exercises and examples from Allen's grammar", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/grammars/Allen-cite.ex"
+        }, 
+        {
+            "title_full": "selection of exercises and examples from Allen's grammar", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/grammars/Allen.txt"
+        }, 
+        {
+            "title_full": "selection of examples from Callender's grammar", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/grammars/Callender.txt"
+        }, 
+        {
+            "title_full": "selection of examples from Gardiner's grammar", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/grammars/Gardiner.txt"
+        }, 
+        {
+            "title_full": "selection of examples from Graefe's grammar", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/grammars/Graefe.txt"
+        }, 
+        {
+            "title_full": "selection of examples from Loprieno's grammar", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/grammars/Loprieno.txt"
+        }, 
+        {
+            "title_full": "selection of examples from Ockinga's grammar", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/grammars/Ockinga.txt"
+        }, 
+        {
+            "title_full": "selection of exercises and examples from Zonhoven's grammar", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/grammars/Zonhoven.ex"
+        }, 
+        {
+            "title_full": "selection of exercises and examples from Zonhoven's grammar", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/grammars/Zonhoven.txt"
+        }, 
+        {
+            "title_full": "Ahmose son of Abana, Autobiography of [hiero; eng; translit; image]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/urkIV-001.pdf"
+        }, 
+        {
+            "title_full": "Ahmose, prince, son of Seqenenre, Inscription on a statue of [hiero; eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/urkIV-002.pdf"
+        }, 
+        {
+            "title_full": "Amenhotep IV, early inscription [hiero; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/AmenhotepIVinscription.pdf"
+        }, 
+        {
+            "title_full": "Armant stela of Tuthmosis III [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/ArmantTuthmosisIII.pdf"
+        }, 
+        {
+            "title_full": "Bentresh stela [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Bentresh.pdf"
+        }, 
+        {
+            "title_full": "Canal inscription of Tuthmosis III [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/CanalTuthmosisIII.pdf"
+        }, 
+        {
+            "title_full": "Coronation decree of Tuthmosis I [hiero; eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/urkIV-030.pdf"
+        }, 
+        {
+            "title_full": "Destruction of mankind [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/DestructionMankind.pdf"
+        }, 
+        {
+            "title_full": "Dispute of a man with his ba [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Dispute.pdf"
+        }, 
+        {
+            "title_full": "Djehuti-hotep, Colossus of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/DjehutiHotepColossus.pdf"
+        }, 
+        {
+            "title_full": "Eloquent peasant [hiero; eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Peasant.pdf"
+        }, 
+        {
+            "title_full": "Gebel Barkal stela of Tuthmosis III [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/GebelBarkalTuthmosisIII.pdf"
+        }, 
+        {
+            "title_full": "Gilukhipa scarab of Amenophis III [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/ScarabAmenophisD.pdf"
+        }, 
+        {
+            "title_full": "Hammamat expedition: commander's record [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Hammamat113.pdf"
+        }, 
+        {
+            "title_full": "Hammamat expedition: first wonder [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Hammamat110.pdf"
+        }, 
+        {
+            "title_full": "Hammamat expedition: official record [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Hammamat192.pdf"
+        }, 
+        {
+            "title_full": "Hammamat expedition: second wonder [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Hammamat191.pdf"
+        }, 
+        {
+            "title_full": "Hapidjef, Address to the visitor of the tomb of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/HapidjefAddressVisitor.pdf"
+        }, 
+        {
+            "title_full": "Horemmekhib, Address to the visitor of the tomb of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/HoremmekhibAddressVisitor.pdf"
+        }, 
+        {
+            "title_full": "Hymn to the sun [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/HymnSun.pdf"
+        }, 
+        {
+            "title_full": "Ikhernofret, Stela of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/IkhernofretStela.pdf"
+        }, 
+        {
+            "title_full": "Iki, Funerary stela of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/IkiFuneraryStela.pdf"
+        }, 
+        {
+            "title_full": "Imenyankhren, Address to the visitor of the tomb of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/ImenyankhrenAddressVisitor.pdf"
+        }, 
+        {
+            "title_full": "Intef son of Senet, Stela of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/IntefSonSenet.pdf"
+        }, 
+        {
+            "title_full": "Kamose, Text on a spearhead of [hiero; eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/urkIV-004.pdf"
+        }, 
+        {
+            "title_full": "Karnak stela of Ahmose [hiero; eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/urkIV-005.pdf"
+        }, 
+        {
+            "title_full": "Kay, Laudatory autobiography of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/HatnubGr24.pdf"
+        }, 
+        {
+            "title_full": "Khnumhotpe, prince of Beni Hasan, Biography of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/KhnumhotepBeniHasan.pdf"
+        }, 
+        {
+            "title_full": "Lake scarab of Amenophis III [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/ScarabAmenophisE.pdf"
+        }, 
+        {
+            "title_full": "Lion-hunt scarab of Amenophis III [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/ScarabAmenophisC.pdf"
+        }, 
+        {
+            "title_full": "Magical spell for the protection of a baby [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/MagicalSpellBaby.pdf"
+        }, 
+        {
+            "title_full": "Marriage scarab of Amenophis III [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/ScarabAmenophisA.pdf"
+        }, 
+        {
+            "title_full": "Merneptah stela [hiero]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Merneptah.pdf"
+        }, 
+        {
+            "title_full": "Nebankh from Abydos, Stela of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/NebankhAbydosStela.pdf"
+        }, 
+        {
+            "title_full": "Nebipw-Sesostris, Address to the visitor of the tomb of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/NebipwSesostrisAddressVisitor.pdf"
+        }, 
+        {
+            "title_full": "Neferenii, Address to the visitor of the tomb of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/NefereniiAddressVisitor.pdf"
+        }, 
+        {
+            "title_full": "Nubian Rebellion, recorded by inscription of Tuthmosis II [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/urkIV-055.pdf"
+        }, 
+        {
+            "title_full": "Papyrus Ebers [hiero; eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Ebers.pdf"
+        }, 
+        {
+            "title_full": "Papyrus Westcar [hiero; eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Westcar.pdf"
+        }, 
+        {
+            "title_full": "Poetical stela of Tuthmosis III [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/PoeticalTuthmosisIII.pdf"
+        }, 
+        {
+            "title_full": "Ptahhotep, Instruction of [hiero; eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Ptahhotep.pdf"
+        }, 
+        {
+            "title_full": "Ptahwer, Address to the visitor of the tomb of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/PtahwerAddressVisitor.pdf"
+        }, 
+        {
+            "title_full": "Punt expedition of Queen Hatshepsut [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/HatshepsutPunt.pdf"
+        }, 
+        {
+            "title_full": "Restoration stela of Tutankhamun [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/RestorationTutankhamun.pdf"
+        }, 
+        {
+            "title_full": "Sebek-hotep, Address to the visitor of the tomb of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/SebekhotepAddressVisitor.pdf"
+        }, 
+        {
+            "title_full": "Second Semneh stela under Sesostris III [hiero; eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/SecondSemnehSesostrisIII.pdf"
+        }, 
+        {
+            "title_full": "Sehetepibre, Stela of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/SehetepibreAbydos.pdf"
+        }, 
+        {
+            "title_full": "Semneh stela marking southern boundary under Sesostris III [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/FirstSemnehSesostrisIII.pdf"
+        }, 
+        {
+            "title_full": "Sesostris the hall-keeper, Address to the visitor of the tomb of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/SesostrisAddressVisitor.pdf"
+        }, 
+        {
+            "title_full": "Shipwrecked Sailor [hiero; eng/nld; translit; ortho]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Shipwrecked.pdf"
+        }, 
+        {
+            "title_full": "Sinuhe [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Sinuhe.pdf"
+        }, 
+        {
+            "title_full": "Sobekdjedju, Address to the visitor of the tomb of [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/SobekdjedjuAddressVisitor.pdf"
+        }, 
+        {
+            "title_full": "Tetisheri, Stela of Ahmose honouring [hiero; eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/urkIV-007.pdf"
+        }, 
+        {
+            "title_full": "Ti, prince, son of Seqenenre, Text on throw sticks of [hiero; eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/urkIV-003.pdf"
+        }, 
+        {
+            "title_full": "Tura, first inscription in quarries at [hiero; eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/urkIV-006A.pdf"
+        }, 
+        {
+            "title_full": "Tura, second inscription in quarries at [hiero; eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/urkIV-006B.pdf"
+        }, 
+        {
+            "title_full": "Wild bull-hunt scarab of Amenophis III [eng; translit]", 
+            "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/ScarabAmenophisB.pdf"
+        }
+    ], 
+    "title": "Data formats and software for Egyptian", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://mjn.host.cs.st-andrews.ac.uk/egyptian/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,481 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Revue de th\u00e9ologie et de philosophie. ISSN: 0035-1784. La Revue de th\u00e9ologie et de philosophie (RThPh) a \u00e9t\u00e9 fond\u00e9e en 1868 par des philosophes et des th\u00e9ologiens protestants de Suisse romande. Elle parut \u00e0 l\u2019origine sous le titre \u00abTh\u00e9ologie et philosophie: Compte rendu des principales publications scientifiques \u00e0 l\u2019\u00e9tranger \u00bb. Elle fut donc au d\u00e9part un simple bulletin de recensions. Le but des premiers r\u00e9dacteurs \u00e9tait d\u2019informer le public philosophique et th\u00e9ologique romand des nouveaux travaux allemands, anglais et italiens, sans parti pris, selon le principe \u00ab La v\u00e9rit\u00e9 sans la recherche de la v\u00e9rit\u00e9 n\u2019est pas la v\u00e9rit\u00e9 \u00bb. Au fil des ans, la RThPh est devenue une revue, assurant, \u00e0 c\u00f4t\u00e9 des comptes rendus, la publication d\u2019articles, de chroniques et d\u2019\u00e9tudes critiques, participant ainsi elle-m\u00eame plus activement aux travaux et d\u00e9bats en cours. Pour plus de d\u00e9tails sur l\u2019histoire de la Revue:Henri Meylan, \u00abLa Revue de th\u00e9ologie et de philosophie 1868 1968\u00bb, RThPh, 1968, pp. 273 292. Pour trouver un article ou une recension dans la Revue, on peut consulter les quatre volumes de \u00abTables\u00bb \u00e9labor\u00e9s au fil des d\u00e9cennies: 1868-1911, 1913-1937, 1938-1967 et 1968-1995. Les deux derniers volumes sont en vente aupr\u00e8s du Secr\u00e9tariat de la Revue.", 
+    "domain": "retro.seals.ch", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0035-1784"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Switzerland", 
+        "journal", 
+        "open access"
+    ], 
+    "languages": [
+        "fr"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3744372501590470004", 
+            "resource_date": "2015-07-02T18:15:56.548-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:18.181560"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/07/newly-open-access-journal-revue-de.html", 
+            "resource_date": "2015-07-02T18:15:56.548-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:18.181576"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "c8c7088879153e39dd7c3024102b62e3b28be961", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Volume 1", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1913:1"
+        }, 
+        {
+            "title_full": "Volume 2", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1914:2"
+        }, 
+        {
+            "title_full": "Volume 3", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1915:3"
+        }, 
+        {
+            "title_full": "Volume 4", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1916:4"
+        }, 
+        {
+            "title_full": "Volume 5", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1917:5"
+        }, 
+        {
+            "title_full": "Volume 6", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1918:6"
+        }, 
+        {
+            "title_full": "Volume 7", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1919:7"
+        }, 
+        {
+            "title_full": "Volume 8", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1920:8"
+        }, 
+        {
+            "title_full": "Volume 9", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1921:9"
+        }, 
+        {
+            "title_full": "Volume 10", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1922:10"
+        }, 
+        {
+            "title_full": "Volume 11", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1923:11"
+        }, 
+        {
+            "title_full": "Volume 12", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1924:12"
+        }, 
+        {
+            "title_full": "Volume 13", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1925:13"
+        }, 
+        {
+            "title_full": "Volume 14", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1926:14"
+        }, 
+        {
+            "title_full": "Volume 15", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1927:15"
+        }, 
+        {
+            "title_full": "Volume 16", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1928:16"
+        }, 
+        {
+            "title_full": "Volume 17", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1929:17"
+        }, 
+        {
+            "title_full": "Volume 18", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1930:18"
+        }, 
+        {
+            "title_full": "Volume 19", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1931:19"
+        }, 
+        {
+            "title_full": "Volume 20", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1932:20"
+        }, 
+        {
+            "title_full": "Volume 21", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1933:21"
+        }, 
+        {
+            "title_full": "Volume 22", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1934:22"
+        }, 
+        {
+            "title_full": "Volume 23", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1935:23"
+        }, 
+        {
+            "title_full": "Volume 24", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1936:24"
+        }, 
+        {
+            "title_full": "Volume 25", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1937:25"
+        }, 
+        {
+            "title_full": "Volume 26", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1938:26"
+        }, 
+        {
+            "title_full": "Volume 27", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1939:27"
+        }, 
+        {
+            "title_full": "Volume 28", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1940:28"
+        }, 
+        {
+            "title_full": "Volume 29", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1941:29"
+        }, 
+        {
+            "title_full": "Volume 30", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1942:30"
+        }, 
+        {
+            "title_full": "Volume 31", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1943:31"
+        }, 
+        {
+            "title_full": "Volume 32", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1944:32"
+        }, 
+        {
+            "title_full": "Volume 33", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1945:33"
+        }, 
+        {
+            "title_full": "Volume 34", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1946:34"
+        }, 
+        {
+            "title_full": "Volume 35", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1947:35"
+        }, 
+        {
+            "title_full": "Volume 36", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1948:36"
+        }, 
+        {
+            "title_full": "Volume 37", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1949:37"
+        }, 
+        {
+            "title_full": "Volume 38", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1950:38"
+        }, 
+        {
+            "title_full": "Volume 1", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1951:1"
+        }, 
+        {
+            "title_full": "Volume 2", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1952:2"
+        }, 
+        {
+            "title_full": "Volume 3", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1953:3"
+        }, 
+        {
+            "title_full": "Volume 4", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1954:4"
+        }, 
+        {
+            "title_full": "Volume 5", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1955:5"
+        }, 
+        {
+            "title_full": "Volume 6", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1956:6"
+        }, 
+        {
+            "title_full": "Volume 7", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1957:7"
+        }, 
+        {
+            "title_full": "Volume 8", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1958:8"
+        }, 
+        {
+            "title_full": "Volume 9", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1959:9"
+        }, 
+        {
+            "title_full": "Volume 10", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1960:10"
+        }, 
+        {
+            "title_full": "Volume 11", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1961:11"
+        }, 
+        {
+            "title_full": "Volume 12", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1962:12"
+        }, 
+        {
+            "title_full": "Volume 13", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1963:13"
+        }, 
+        {
+            "title_full": "Volume 14", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1964:14"
+        }, 
+        {
+            "title_full": "Volume 15", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1965:15"
+        }, 
+        {
+            "title_full": "Volume 16", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1966:16"
+        }, 
+        {
+            "title_full": "Volume 17", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1967:17"
+        }, 
+        {
+            "title_full": "Volume 18", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1968:18"
+        }, 
+        {
+            "title_full": "Volume 19", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1969:19"
+        }, 
+        {
+            "title_full": "Volume 20", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1970:20"
+        }, 
+        {
+            "title_full": "Volume 21", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1971:21"
+        }, 
+        {
+            "title_full": "Volume 22", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1972:22"
+        }, 
+        {
+            "title_full": "Volume 23", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1973:23"
+        }, 
+        {
+            "title_full": "Volume 24", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1974:24"
+        }, 
+        {
+            "title_full": "Volume 25", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1975:25"
+        }, 
+        {
+            "title_full": "Volume 26", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1976:26"
+        }, 
+        {
+            "title_full": "Volume 27", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1977:27"
+        }, 
+        {
+            "title_full": "Volume 28", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1978:28"
+        }, 
+        {
+            "title_full": "Volume 29", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1979:29"
+        }, 
+        {
+            "title_full": "Volume 30", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1980:30"
+        }, 
+        {
+            "title_full": "Volume 31", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1981:31"
+        }, 
+        {
+            "title_full": "Volume 32", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1982:32"
+        }, 
+        {
+            "title_full": "Volume 33", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1983:33"
+        }, 
+        {
+            "title_full": "Volume 34", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1984:34"
+        }, 
+        {
+            "title_full": "Volume 35", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1985:35"
+        }, 
+        {
+            "title_full": "Volume 36", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1986:36"
+        }, 
+        {
+            "title_full": "Volume 37", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1987:37"
+        }, 
+        {
+            "title_full": "Volume 38", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1988:38"
+        }, 
+        {
+            "title_full": "Volume 39", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1989:39"
+        }, 
+        {
+            "title_full": "Volume 40", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1990:40"
+        }, 
+        {
+            "title_full": "Volume 41", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1991:41"
+        }, 
+        {
+            "title_full": "Volume 42", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1992:42"
+        }, 
+        {
+            "title_full": "Volume 43", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1993:43"
+        }, 
+        {
+            "title_full": "Volume 44", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1994:44"
+        }, 
+        {
+            "title_full": "Volume 45", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1995:45"
+        }, 
+        {
+            "title_full": "Volume 46", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1:46"
+        }, 
+        {
+            "title_full": "Volume 47", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1997:47"
+        }, 
+        {
+            "title_full": "Volume 48", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1998:48"
+        }, 
+        {
+            "title_full": "Volume 49", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:1991:49"
+        }, 
+        {
+            "title_full": "Volume 50", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:2000:50"
+        }, 
+        {
+            "title_full": "Volume 51", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:2001:51"
+        }, 
+        {
+            "title_full": "Volume 52", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:2002:52"
+        }, 
+        {
+            "title_full": "Volume 53", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:2003:53"
+        }, 
+        {
+            "title_full": "Volume 54", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:2004:54"
+        }, 
+        {
+            "title_full": "Volume 55", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:2005:55"
+        }, 
+        {
+            "title_full": "Volume 56", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:2006:56"
+        }, 
+        {
+            "title_full": "Volume 57", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:2007:57"
+        }, 
+        {
+            "title_full": "Volume 58", 
+            "url": "http://retro.seals.ch/digbib/voltoc?pid=rtp-003:2008:58"
+        }
+    ], 
+    "title": "Revue de th\u00e9ologie et de philosophie", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://retro.seals.ch/digbib/vollist?UID=rtp-003", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

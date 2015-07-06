@@ -1,0 +1,91 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": ", currently counting 165893 entries. When the database was created in 2005, it focused on providing information (metadata) on published papyrological documents from Graeco-Roman Egypt. Chronological boundaries are always artificial, and the nature of the sources soon suggested that BC 800 and AD 800 were more suited. Since egyptology does not know a disciplinary boundary between papyri and inscriptions, TM also decided to expand by adding all epigraphic material as well. Papyrology on the other hand includes also writing tablets from outside Egypt, which led us to widen our geographical scope to the entire ancient world. Finally, since the distinction between published and unpublished is increasingly less productive in a digital environment, we now no longer discriminate in that respect either. In principle, however, we still provide only metadata. This means that Trismegistos increasingly wants to be a platform where information can be found about all texts from antiquity, thus facilitating cross-cultural and cross-linguistic research. This will of course only be possible through cooperation with all players in the field, since our aim is to lead people to the partner websites, where more information, often including also photographs, transliterations and translations of the texts, can be found. Several aspects of the Texts database have been elaborated in the course of successive projects (see History) and have become separate databases linked with the core Trismegistos Texts database.", 
+    "domain": "www.trismegistos.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Trismegistos", 
+        "url": "http://www.trismegistos.org/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Trismegistos"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3360883248438106183", 
+            "resource_date": "2013-07-23T09:25:32.205-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:07:57.856552"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-library-trismegistos.html", 
+            "resource_date": "2013-07-23T09:25:32.205-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:07:57.856565"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "tm-index-php", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "Trismegistos Texts", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.trismegistos.org/tm/index.php", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

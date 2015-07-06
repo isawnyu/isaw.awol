@@ -1,0 +1,91 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "FASTI: A database of archaeological excavations since the year 2000. Between 1946 and 1987 the International Association for Classical Archaeology (AIAC) published the Fasti Archaeologici. It contained very useful summary notices of excavations throughout the area of the Roman Empire. However, spiraling costs and publication delays combined to render it less and less useful. AIACs board of directors thus decided in 1998 to discontinue the publication and to seek a new way of recording and diffusing new results. The Fasti Online is the result of this effort. The site aims to provide a comprehensive record of archaeological and conservation intitiatives in the participating countries, searchable both in English and in the language of the country. As of 2012, each record may also be illustrated with plans a photographs. FASTI is eager to welcome and support the entry of new countries into the project. For information on how to join FASTI contact Elizabeth Fentress, elizabeth. fentress@gmail. com. The project is generously supported by the Packard Humanities Institute, and the Society for the Promotion of Roman Studies. while the Italian and Ukrainian sites receive additional support from the Ministero dei Beni e le Attivita' Culturali and the Ukrainian Studies Fund, respectively.", 
+    "domain": "www.fastionline.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "FASTI", 
+        "url": "http://www.fastionline.org/index.php"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Ukraine"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3993621974004464558", 
+            "resource_date": "2014-07-09T17:59:19.275-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:28.684662"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/opoen-access-journal-fasti.html", 
+            "resource_date": "2014-07-09T17:59:19.275-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:28.684675"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "fb00a9b6ecca724e11640b6713faf01932bee323", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "Ukraine", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.fastionline.org/search.php?zoomtype=poly_feature&zoom_value=Ukraine&zoom_field=name&zoom_layer=fasti_countries&reset=true", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

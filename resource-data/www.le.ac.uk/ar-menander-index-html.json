@@ -1,0 +1,178 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "The Insula of the Menander at Pompeii Volume III: The Finds in Context: An On-Line Companion. By Penelope M. Allison. This site hosts a database of finds to accompany Penelope M. Allison, The Insula of the Menander in Pompeii vol iii: The Finds, a Contextual Study (Oxford University Press 2006). The database contains some 2000 artefacts found in this insula, including over 1000 photographs and 583 drawings. An introduction and an explanation of database fields assist the reader in using this database, which is searchable on a number of locational, typological, functional and other descriptive fields.", 
+    "domain": "www.le.ac.uk", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "The Insula of the Menander at Pompeii Volume III: The Finds in Context: An On-Line Companion", 
+        "url": "http://www.le.ac.uk/ar/menander/index.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Pompeii"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6771320265825117222", 
+            "resource_date": "2011-12-06T06:23:08.329-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:42.145244"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/insula-of-menander-at-pompeii-volume.html", 
+            "resource_date": "2011-12-06T06:23:08.329-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:42.145259"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6771320265825117222", 
+            "resource_date": "2011-12-06T06:23:08.329-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:42.148577"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/insula-of-menander-at-pompeii-volume.html", 
+            "resource_date": "2011-12-06T06:23:08.329-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:42.148590"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "volume", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:11:42.158943"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "ar-menander-index-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "The Insula of the Menander at Pompeii Volume III: The Finds in Context: An On-Line Companion", 
+            "url": "http://www.le.ac.uk/ar/menander/index.html"
+        }, 
+        {
+            "title_full": "introduction", 
+            "url": "http://www.le.ac.uk/ar/menander/introduction.html"
+        }, 
+        {
+            "title_full": "insula plan", 
+            "url": "http://www.le.ac.uk/ar/menander/insulaplan.html"
+        }, 
+        {
+            "title_full": "list of houses and units", 
+            "url": "http://www.le.ac.uk/ar/menander/houselist.html"
+        }, 
+        {
+            "title_full": "search database", 
+            "url": "http://www.le.ac.uk/ar/menander/search.html"
+        }, 
+        {
+            "title_full": "explanation of database fields", 
+            "url": "http://www.le.ac.uk/ar/menander/databasefields.html"
+        }
+    ], 
+    "title": "The Insula of the Menander at Pompeii Volume III: The Finds in Context: An On-Line Companion", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.le.ac.uk/ar/menander/index.html", 
+    "url_alternates": [], 
+    "volume": "-", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

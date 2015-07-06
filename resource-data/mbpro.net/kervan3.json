@@ -1,0 +1,490 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 4 June 2011. Updated 13 February 2015].", 
+    "domain": "mbpro.net", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6486826106368876738", 
+            "resource_date": "2015-02-13T16:09:58.521-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:22.361917"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/open-access-journal-kervan.html", 
+            "resource_date": "2015-02-13T16:09:58.521-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:22.361932"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "kervan3", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Num. 15 - January 2012", 
+            "url": "http://mbpro.net/kervan3/Number_15"
+        }, 
+        {
+            "title_full": "Num. 13/14 - July 2011", 
+            "url": "http://mbpro.net/kervan3/Numb._13-14"
+        }, 
+        {
+            "title_full": "Num. 12 - July 2010", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/12.pdf"
+        }, 
+        {
+            "title_full": "Num. 7-11 - January 2010", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/7a11.pdf"
+        }, 
+        {
+            "title_full": "Num. 6 - July 2007", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/6.pdf"
+        }, 
+        {
+            "title_full": "Num. 4/5 - July 2006 - January 2007", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/4e5.pdf"
+        }, 
+        {
+            "title_full": "Num.3 - January 2006", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/3.pdf"
+        }, 
+        {
+            "title_full": "Num. 2 - July 2005", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/2.pdf"
+        }, 
+        {
+            "title_full": "Num. 1 - January 2005", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/1.pdf"
+        }, 
+        {
+            "title_full": "A", 
+            "url": "http://mbpro.net/kervan3/Archive#a"
+        }, 
+        {
+            "title_full": "B", 
+            "url": "http://mbpro.net/kervan3/Archive#b"
+        }, 
+        {
+            "title_full": "C", 
+            "url": "http://mbpro.net/kervan3/Archive#c"
+        }, 
+        {
+            "title_full": "D", 
+            "url": "http://mbpro.net/kervan3/Archive#d"
+        }, 
+        {
+            "title_full": "G", 
+            "url": "http://mbpro.net/kervan3/Archive#g"
+        }, 
+        {
+            "title_full": "K", 
+            "url": "http://mbpro.net/kervan3/Archive#k"
+        }, 
+        {
+            "title_full": "L", 
+            "url": "http://mbpro.net/kervan3/Archive#l"
+        }, 
+        {
+            "title_full": "M", 
+            "url": "http://mbpro.net/kervan3/Archive#m"
+        }, 
+        {
+            "title_full": "N", 
+            "url": "http://mbpro.net/kervan3/Archive#n"
+        }, 
+        {
+            "title_full": "O", 
+            "url": "http://mbpro.net/kervan3/Archive#o"
+        }, 
+        {
+            "title_full": "P", 
+            "url": "http://mbpro.net/kervan3/Archive#p"
+        }, 
+        {
+            "title_full": "R", 
+            "url": "http://mbpro.net/kervan3/Archive#r"
+        }, 
+        {
+            "title_full": "S", 
+            "url": "http://mbpro.net/kervan3/Archive#s"
+        }, 
+        {
+            "title_full": "T", 
+            "url": "http://mbpro.net/kervan3/Archive#t"
+        }, 
+        {
+            "title_full": "V", 
+            "url": "http://mbpro.net/kervan3/Archive#v"
+        }, 
+        {
+            "title_full": "Uccidere il dio. Presenze iraniche nel Battistero di Parma e oltre [16, 2012]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/16_2_ALB.pdf"
+        }, 
+        {
+            "title_full": "Acque divine e liturgie celesti. Tracce di una realt\u00e0 alchemica fra ellenismo e iranismo [13/14, 2011]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/13e14_2_ALB.pdf"
+        }, 
+        {
+            "title_full": "Coptica Iranica [4/5, 2006-2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/4e5_2_ALB.pdf"
+        }, 
+        {
+            "title_full": "Fragments of a forgotten Aion - an outline on a Gnostic myth [2, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/2_2_ALB.pdf"
+        }, 
+        {
+            "title_full": "La dimora di Ahreman. La guerra e le origini del dualismo iranico [1, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/1_2_ALB.pdf"
+        }, 
+        {
+            "title_full": "Strat\u00e9gies argumentatives dans le discours pol\u00e9mique d\u2019al-\u01e6\u0101hi\u1e93 [13/14, 2011]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/13e14_3_ANG.pdf"
+        }, 
+        {
+            "title_full": "Autori egiziani degli anni Duemila. Blogosfera, graphic e postmoderno: nuovi linguaggi nel panorama letterario arabo [13/14, 2011]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/13e14_4_AVA.pdf"
+        }, 
+        {
+            "title_full": "Egitto moderno, una storia di diversit\u00e0: il modello europeo e la societ\u00e0 cosmopolita [15, 2012]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/15_2_AVA.pdf"
+        }, 
+        {
+            "title_full": "(A. Barotto, P. Riberi, M. Volpicelli, A. Mengozzi) La verit\u00e0 visibile nella natura e nella scrittura: Sul baco da seta di Khamis bar Qarda\u1e25e (fine del XIII secolo) [13/14, 2011]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/13e14_5_BAR_MEN.pdf"
+        }, 
+        {
+            "title_full": "Mos\u00e8, il falco e la colomba: edizione e traduzione del Ms Gotha HB ar. 2212 [15, 2012]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/15_3_BEL.pdf"
+        }, 
+        {
+            "title_full": "Cantar al vino [review; 15, 2012]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/15_9_REC.pdf"
+        }, 
+        {
+            "title_full": "Zum Ausfall von Ajin im \u00c4gyptischen [16, 2012]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/16_3_BOJ.pdf"
+        }, 
+        {
+            "title_full": "Zwei Vorschl\u00e4ge zur Etymologie des \u00e4gyptischen Wortes \u201egA\" \u201eKranich\" [15, 2012]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/15_4_BOJ.pdf"
+        }, 
+        {
+            "title_full": "Tra Bibbia e Corano - Problemi relativi alla traduzione di un passo riguardante Giobbe [2, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/2_3_BRA.pdf"
+        }, 
+        {
+            "title_full": "Il \"complotto ebraico\". L\u2019antisemitismo islamico da Maometto a Bin Laden [review; 3, 2006]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/3_9_REC.pdf"
+        }, 
+        {
+            "title_full": "L'Occidente e gli altri. La globalizzazione e la minaccia terroristica [review; 1, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/1_9_REC.pdf"
+        }, 
+        {
+            "title_full": "Come ricavare i nomi degli angeli e dei demoni nella divinazione con i quadrati magici, secondo il Maf\u0101t\u012b\u1e25 al-\u0121ayb di A\u1e25mad M\u016bs\u0101 al-Zarq\u0101w\u012b [12, 2010]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/12_2_BUD.pdf"
+        }, 
+        {
+            "title_full": "The Legend of Sergius Ba\u1e25\u012br\u0101, Eastern Christian Apologetics and Apocalyptic in Response to Islam [review; 12, 2010]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/12_7_REC.pdf"
+        }, 
+        {
+            "title_full": "Hab\u012bb Tanv\u012br: la leggenda vivente del teatro moderno hindi [6, 2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/6_2_CAC.pdf"
+        }, 
+        {
+            "title_full": "Hanuman\u2019s Tale - The Message of a Divine Monkey [review; 6, 2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/6_8_REC.pdf"
+        }, 
+        {
+            "title_full": "L\u2019origine du langage d'apr\u00e8s les mutakallim\u016bn de l'\u00e9poque classique. . In: F. Chiabotti, G. Carrera - Origine et finalit\u00e9 du langage dans le moyen \u00e2ge islamique [13/14, 2011]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/13e14_7_CAR_CHIA.pdf"
+        }, 
+        {
+            "title_full": "A vventurieri ottocenteschi: Nicola Prato e Giovanni Bustelli [13/14, 2011]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/13e14_6_CARRE.pdf"
+        }, 
+        {
+            "title_full": "Di \"gialli\" del Mediterraneo e di Ahmet Mithat [12, 2010]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/12_3_CAR.pdf"
+        }, 
+        {
+            "title_full": "Sultane ottomane fra leggenda e realt\u00e0 [4/5, 2006-2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/4e5_3_CAR.pdf"
+        }, 
+        {
+            "title_full": "Viaggi in Armenia, Kurdistan e Lazistan [review; 2, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/2_12_REC.pdf"
+        }, 
+        {
+            "title_full": "(a cura di) Vari aspetti del Nulla Assoluto nelle filosofie di Nishida e Tanabe (di K. Kosaka) [7-11, 2010]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/7a11_2_KOS.pdf"
+        }, 
+        {
+            "title_full": "Na\u1e25w al-qul\u016bb al-\u1e63a\u0121\u012br : il \u00abTrattato minore sulla grammatica dei cuori\u00bb di \u2018Abd al-Kar\u012bm al-Qu\u0161ayr\u012b (376-465/986-1072) - Presentazione e traduzione annotata [7-11, 2010]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/7a11_3_CHIA.pdf"
+        }, 
+        {
+            "title_full": "La stringa rituale: una teoria delle varianti ritualistiche attraverso l\u2019analisi di un sacrificio indiano antico [16, 2012]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/16_4_CHI.pdf"
+        }, 
+        {
+            "title_full": "L\u2019 a\u015bvamedha nella storia: un\u2019indagine sulle testimonianze storiche della celebrazione del sacrificio del cavallo in India [13/14, 2011]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/13e14_8_CHIE.pdf"
+        }, 
+        {
+            "title_full": "Metafisica della metempsicosi in H\u014dj\u014d no umi - considerazioni di Noguchi Takehiko [15, 2012]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/15_5_CIC.pdf"
+        }, 
+        {
+            "title_full": "Abe Kobo e L\u2019incontro segreto [2, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/2_4_COC.pdf"
+        }, 
+        {
+            "title_full": "La terza via del nuovo teatro (intervista a Sato Masafumi e Shiota Eiko, attori dell' Abe Kobo Studio) [1, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/1_3_COC.pdf"
+        }, 
+        {
+            "title_full": "Kamogawa Horum\u014d [review; 13/14, 2011]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/13e14_11_REC.pdf"
+        }, 
+        {
+            "title_full": "IN (\"IN\") [review; 7-11, 2010]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/7a11_7_REC.pdf"
+        }, 
+        {
+            "title_full": "La conciliazione in India: profili storici e prospettive attuali [3, 2006]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/3_2_COL.pdf"
+        }, 
+        {
+            "title_full": "Il pensiero del Buddha [review; 16, 2012]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/16_5_REC.pdf"
+        }, 
+        {
+            "title_full": "The 'other' India in literature and film: Mohan D\u0101s in Uday Praka\u015b\u2019s story and in Mazhar Kamran\u2019s film [15, 2012]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/15_6_CON.pdf"
+        }, 
+        {
+            "title_full": "The Books on Mohandas K. Gandhi in the Chinese press of the Republican period [15, 2012]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/15_7_DET.pdf"
+        }, 
+        {
+            "title_full": "Accordo TRIPs, brevetti e resistenze interne in India: uno scenario frastagliato [13/14, 2011]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/13e14_9_DRA.pdf"
+        }, 
+        {
+            "title_full": "S ome Italian and Catholic sources on Jazira (1920-1950) [6, 2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/2_5_GAL.pdf"
+        }, 
+        {
+            "title_full": "S ome Italian and Catholic sources on Jazira (1920-1950) [6, 2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/6_3_GAL.pdf"
+        }, 
+        {
+            "title_full": "Alle origini del dialogo tra curdi e turchi [1, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/1_4_GAL.pdf"
+        }, 
+        {
+            "title_full": "Storia del Medio Oriente. 1798-2005 [review; 4/5, 2006-2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/4e5_9_REC.pdf"
+        }, 
+        {
+            "title_full": "La confr\u00e9rie ni'matullahiyya en Iran [4/5, 2006-2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/4e5_4_GAN.pdf"
+        }, 
+        {
+            "title_full": "\u2019in \u0161ar\u1e6d \u01e7aw\u0101b al-\u0161ar\u1e6d nella tradizione grammaticale araba e nelle grammatiche europee dell\u2019arabo classico: note per un\u2019interpretazione del sistema verbale della lingua araba [12, 2010]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/12_4_GIO.pdf"
+        }, 
+        {
+            "title_full": "\u2019in yaqum vs \u2019in qama : un\u2019ipotesi modale [3, 2006]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/3_3_GIO.pdf"
+        }, 
+        {
+            "title_full": "L\u2019individu existe-t-il dans la soci\u00e9t\u00e9 arabo-musulmane? Parcours individuels et insertion soci\u00e9tale: une lecture de N. Elias, Die Gesellschaft der Individuen, Suhrkamp, Frankfurt 1987 [review; 3, 2006]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/3_8_LET.pdf"
+        }, 
+        {
+            "title_full": "Le strutture condizionali dell\u2019arabo classico nella tradizione grammaticale araba e nella tradizione grammaticale europea [2, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/2_6_GIO.pdf"
+        }, 
+        {
+            "title_full": "La missione dei canonici del Gran San Bernardo in Cina. Un\u2019avventura alle porte del Tibet [12, 2010]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/12_5_GLA.pdf"
+        }, 
+        {
+            "title_full": "Diglossia araba tra passato e futuro: cause, contesti, prospettive [4/5, 2006-2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/4e5_5_GRA.pdf"
+        }, 
+        {
+            "title_full": "Che c'importa delle torri, meglio l'atletica! [1, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/1_5_GRE.pdf"
+        }, 
+        {
+            "title_full": "Arab Media Discourse: Breaking Taboos [13/14, 2011]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/13e14_10_LAH.pdf"
+        }, 
+        {
+            "title_full": "Aion, Eros e Hades nei frammenti caldaici [3, 2006]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/3_4_LAN.pdf"
+        }, 
+        {
+            "title_full": "Les \u00ab complexes de phrases \u00bb de l\u2019arabe classique [6, 2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/6_4_LAR.pdf"
+        }, 
+        {
+            "title_full": "Le \u00absegmentateur\u00bb fa-(\u2019inna) en arabe classique et moderne [3, 2006]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/3_5_LAR.pdf"
+        }, 
+        {
+            "title_full": "Marco dalla Tomba y la Misi\u00f3n de Tibet [6, 2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/6_5_LOR.pdf"
+        }, 
+        {
+            "title_full": "A proposito della \"Madina al-Fadila\" tra al-Farabi e Mulla Sadra [2, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/2_7_LOR.pdf"
+        }, 
+        {
+            "title_full": "Un abito arabo per Il Profeta. Lettere inedite di Kahlil Gibran a Antony Bashir [7-11, 2010]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/7a11_4_MED.pdf"
+        }, 
+        {
+            "title_full": "Bollywood Galore and the Expatriate Text: Disarranged Marriages and the Impossible Return of the Native [2, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/2_8_MON.pdf"
+        }, 
+        {
+            "title_full": "L\u2019incomprensione tra gli amanti nel poema Khosrow e \u0160irin di Ne\u1e93\u0101mi [7-11, 2010]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/7a11_5_ORS.pdf"
+        }, 
+        {
+            "title_full": "Hindutva: la destra nazional-religiosa ind\u00f9 dalle origini alla conquista del potere [6, 2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/6_6_OZZ.pdf"
+        }, 
+        {
+            "title_full": "La SARS, strumento di propaganda e di solidarieta\u2019 nazionale: il mito degli \"angeli in camice bianco\" (Baiyi tianshi) [3, 2006]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/3_6_PAT.pdf"
+        }, 
+        {
+            "title_full": "Fenomeni di fondamentalismo all'interno di una religione considerata come sistema complesso: esempi di revisionismo storico in \u00e0mbito hinduista [4/5, 2006-2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/4e5_6_PEL.pdf"
+        }, 
+        {
+            "title_full": "Orientamenti religiosi della poesia dell'India dalle origini vediche alla \"Scuola delle ombre\" della letteratura hindi [1, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/1_6_PIA.pdf"
+        }, 
+        {
+            "title_full": "Taiwanese composers and piano works in the XX century: traditional Chinese culture and the Taiwan Xin Yinyue [1, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/1_7_PIS.pdf"
+        }, 
+        {
+            "title_full": "Le \"declinazioni\" dell\u2019amore nella letteratura giapponese moderna [12, 2010]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/12_6_RAP.pdf"
+        }, 
+        {
+            "title_full": "The feet of the Jangama: identity and ritual issues among the Virasaivas of Karnataka [6, 2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/6_7_RIP.pdf"
+        }, 
+        {
+            "title_full": "Lo Yuelun del Xunzi: introduzione e traduzione annotata [4/5, 2006-2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/4e5_7_SAB.pdf"
+        }, 
+        {
+            "title_full": "La diaspora secondo J. M. G. Barclay [2, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/2_11_SCR.pdf"
+        }, 
+        {
+            "title_full": "The Perception of Privacy: The Case of Ruan Lingyu [2, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/2_9_STA.pdf"
+        }, 
+        {
+            "title_full": "Orge e orgiasmo rituale nel mondo antico: alcune note [4/5, 2006-2007]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/4e5_8_TOM.pdf"
+        }, 
+        {
+            "title_full": "\"Le parole che vengono da fuori\": i forestierismi nella lingua cinese contemporanea [15, 2012]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/15_8_TOS.pdf"
+        }, 
+        {
+            "title_full": "Shi Cihang - The First Case of Mummified Buddhist in Taiwan [3, 2006]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/3_7_TRA.pdf"
+        }, 
+        {
+            "title_full": "Manrique, \u2018Ad\u012b ibn Zayd, Borges, Ab\u016b M\u0101\u1e0d\u012b: come la letteratura pu\u00f2 venire in aiuto del buon senso [7-11, 2010]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/7a11_6_VAL.pdf"
+        }, 
+        {
+            "title_full": "Qualche considerazione ulteriore sulle proposizioni aggettivali [\u00abna\u2018t sabab \u012b \u00bb] in \u00e0rabo letterario [2, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/2_10_VAL.pdf"
+        }, 
+        {
+            "title_full": "Sull'as\u00edndeto fra aggettivi attributi in \u00e0rabo letterario [1, 2005]", 
+            "url": "http://mbpro.net/kervan3/data/_uploaded/file/documents/1_8_VALL.pdf"
+        }
+    ], 
+    "title": "Kervan: International Journal of Afro-Asiatic Studies", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://mbpro.net/kervan3/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

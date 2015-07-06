@@ -1,0 +1,403 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Cuneiform Monographs. ISSN: 0929-0052.", 
+    "domain": "dlib.nyu.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0929-0052"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "issn": "0929-0052", 
+        "title_full": "Cuneiform Monographs", 
+        "url": "http://dlib.nyu.edu/ancientworld/series/cuneiform-monographs"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "cuneiform", 
+        "Brill", 
+        "open access", 
+        "Mesopotamia", 
+        "Iraq", 
+        "monograph"
+    ], 
+    "languages": [], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2574513768245403685", 
+            "resource_date": "2015-05-14T13:50:19.604-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:28.509676"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-cuneiform.html", 
+            "resource_date": "2015-05-14T13:50:19.604-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:28.509691"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2574513768245403685", 
+            "resource_date": "2015-05-14T13:50:19.604-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:28.513243"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-cuneiform.html", 
+            "resource_date": "2015-05-14T13:50:19.604-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:28.513256"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:28.844030"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "ancientworld-series-cuneiform-monographs", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Cuneiform Monographs", 
+            "url": "http://dlib.nyu.edu/ancientworld/series/cuneiform-monographs"
+        }, 
+        {
+            "title_full": "Brill's ancient world selection", 
+            "url": "http://dlib.nyu.edu/ancientworld/series/brill-s-ancient-world-selection"
+        }, 
+        {
+            "title_full": "Assyriology", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2942"
+        }, 
+        {
+            "title_full": "Akkadian language -- Texts", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/153"
+        }, 
+        {
+            "title_full": "Assyro-Babylonian religion -- Texts", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/299"
+        }, 
+        {
+            "title_full": "Assyro-Babylonian demonology", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3006"
+        }, 
+        {
+            "title_full": "Assyro-Babylonian medicine", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3016"
+        }, 
+        {
+            "title_full": "Epilepsy -- Iraq -- Babylonia -- History", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/226"
+        }, 
+        {
+            "title_full": "Babylonia -- Commerce -- History -- Sources", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/280"
+        }, 
+        {
+            "title_full": "Akkadian language -- Numerals", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/529"
+        }, 
+        {
+            "title_full": "Akkadian language -- Verb", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/530"
+        }, 
+        {
+            "title_full": "Akkadian language -- Grammar", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/531"
+        }, 
+        {
+            "title_full": "Proceedings of the Groningen Group for the Study of Mesopotamian Literature v. 2", 
+            "url": "http://dlib.nyu.edu/ancientworld/series/proceedings-of-the-groningen-group-for-the-study-of-mesopotamian-literature"
+        }, 
+        {
+            "title_full": "Sumerian poetry -- History and criticism", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/470"
+        }, 
+        {
+            "title_full": "Assyro-Babylonian poetry -- History and criticism", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/471"
+        }, 
+        {
+            "title_full": "Inanna (Sumerian deity)", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/188"
+        }, 
+        {
+            "title_full": "Assyro-Babylonian religion -- Rituals", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/189"
+        }, 
+        {
+            "title_full": "Sumerians -- Rites and ceremonies", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/190"
+        }, 
+        {
+            "title_full": "Venus deities", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/191"
+        }, 
+        {
+            "title_full": "Tell el-Amarna tablets", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/222"
+        }, 
+        {
+            "title_full": "Cuneiform tablets", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/90"
+        }, 
+        {
+            "title_full": "Cuneiform inscriptions", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/40"
+        }, 
+        {
+            "title_full": "Assyro-Babylonian astronomy", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2955"
+        }, 
+        {
+            "title_full": "Astrology", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/174"
+        }, 
+        {
+            "title_full": "Omens", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/183"
+        }, 
+        {
+            "title_full": "Assyro-Babylonian civilization", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2952"
+        }, 
+        {
+            "title_full": "Iranian studies", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2941"
+        }, 
+        {
+            "title_full": "Harvard Semitic Museum -- Catalogs", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2983"
+        }, 
+        {
+            "title_full": "Seals (Numismatics) -- Iraq -- Erech (Extinct city) -- Catalogs", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/377"
+        }, 
+        {
+            "title_full": "Seleucids", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/114"
+        }, 
+        {
+            "title_full": "Erech (Extinct city) -- Commerce -- History -- Sources", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/378"
+        }, 
+        {
+            "title_full": "Erech (Extinct city)", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/379"
+        }, 
+        {
+            "title_full": "Muze\u02bcon artsot ha-Mi\u1e33ra (Jerusalem) -- Catalogs", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3005"
+        }, 
+        {
+            "title_full": "Cuneiform inscriptions -- Syria -- Emar (Extinct city)", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/99"
+        }, 
+        {
+            "title_full": "Syria -- Antiquities -- Catalogs", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/100"
+        }, 
+        {
+            "title_full": "Birth customs -- Iraq -- Babylonia", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/294"
+        }, 
+        {
+            "title_full": "Childbirth -- Iraq -- Babylonia", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/295"
+        }, 
+        {
+            "title_full": "Childbirth in the Bible", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/296"
+        }, 
+        {
+            "title_full": "Hittitology", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2991"
+        }, 
+        {
+            "title_full": "Turkey", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2753"
+        }, 
+        {
+            "title_full": "Hittite language -- Adverb", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/434"
+        }, 
+        {
+            "title_full": "Hittite language -- Verb", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/435"
+        }, 
+        {
+            "title_full": "Hittite language -- Particles", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/436"
+        }, 
+        {
+            "title_full": "Hittite language -- Relational grammar", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/437"
+        }, 
+        {
+            "title_full": "Letter writing -- Iraq -- Babylonia", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/23"
+        }, 
+        {
+            "title_full": "Akkadian language -- Discourse analysis", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/24"
+        }, 
+        {
+            "title_full": "Akkadian language -- Social aspects", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/25"
+        }, 
+        {
+            "title_full": "Sumerian language -- Rhetoric", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3035"
+        }, 
+        {
+            "title_full": "Gudea -- of Lagash -- Art", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3036"
+        }, 
+        {
+            "title_full": "Gudea -- of Lagash -- In Literature", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3037"
+        }, 
+        {
+            "title_full": "Temples -- Iraq -- Lagash (Extinct city) -- In art", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/496"
+        }, 
+        {
+            "title_full": "Temples -- Iraq -- Lagash (Extinct city) -- In literature", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/497"
+        }, 
+        {
+            "title_full": "Sumerian language -- Texts", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/413"
+        }, 
+        {
+            "title_full": "Assyro-Babylonian astrology", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3007"
+        }, 
+        {
+            "title_full": "Planets -- Observations -- History", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/176"
+        }, 
+        {
+            "title_full": "Gilgamesh", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/411"
+        }, 
+        {
+            "title_full": "Death", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/412"
+        }, 
+        {
+            "title_full": "Sumerian epic poetry", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3042"
+        }, 
+        {
+            "title_full": "Family archives -- Iraq -- Babylonia", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/154"
+        }, 
+        {
+            "title_full": "series from Brill in the Ancient World Digital Library", 
+            "url": "http://dlib.nyu.edu/ancientworld/series/"
+        }
+    ], 
+    "title": "Cuneiform Monographs", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://dlib.nyu.edu/ancientworld/series/cuneiform-monographs", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

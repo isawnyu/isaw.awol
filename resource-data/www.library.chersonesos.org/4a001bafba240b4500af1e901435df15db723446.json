@@ -1,0 +1,390 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "\u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u043f\u043e \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0438 \u0420\u043e\u0441\u0441\u0438\u0438 - Materials for the Archaeology of Russia, Published by the Imperial Archaeological Commission. Altogether 37 volumes were issued (1866-1918).", 
+    "domain": "www.library.chersonesos.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "empires", 
+        "journal", 
+        "imperial", 
+        "materials", 
+        "open access", 
+        "archaeology"
+    ], 
+    "languages": [
+        "ru"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8360981738578768290", 
+            "resource_date": "2011-03-11T10:03:46.130-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:26.077083"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-journal_11.html", 
+            "resource_date": "2011-03-11T10:03:46.130-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:26.077099"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "4a001bafba240b4500af1e901435df15db723446", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "MAR no. 1 (1866)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=220&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=220&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 2 (1873)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=221&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=221&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 3 (1888)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=222&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=222&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 4 (1890)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=223&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=223&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 5 (1891)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=224&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=224&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 6 (1891)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=225&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=225&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 7 (1892)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=226&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=226&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 8 (1892)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=227&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=227&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 9 (1892)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=228&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=228&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 10 (1893)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=229&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=229&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 11 (1893)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=230&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=230&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 12 (1893)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=231&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=231&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 13 (1894)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=232&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=232&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 14 (1893)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=233&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=233&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 15 (1894)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=234&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=234&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 16 (1894)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=235&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=235&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 17 (1895)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=236&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=236&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 18 (1895)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=237&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=237&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 19 (1896)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=238&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=238&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 20 (1896)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=239&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=239&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 21 (1897)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=240&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=240&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 22 (1899)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=241&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=241&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 23 (1899)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=242&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=242&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 24 (1901)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=243&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=243&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 25 (1901)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=244&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=244&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 26 (1902)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=245&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=245&ext=djvu"
+        }, 
+        {
+            "title_full": "\u041cAR no. 27 (1902)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=246&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=246&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 28 (1902)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=247&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=247&ext=djvu"
+        }, 
+        {
+            "title_full": "\u041cAR no. 29 (1903)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=248&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=248&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 30 (1906)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=249&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=249&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 31 (1911)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=250&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=250&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 32 (1907)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=251&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=251&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 33 (1910)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=252&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=252&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 34 (1914)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=253&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=253&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 35 (1915)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=254&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=254&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 36 (1918)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=255&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=255&ext=djvu"
+        }, 
+        {
+            "title_full": "MAR no. 37 (1918)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=256&section_code=7"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=256&ext=djvu"
+        }
+    ], 
+    "title": "\u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u043f\u043e \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0438 \u0420\u043e\u0441\u0441\u0438\u0438", 
+    "title_alternates": [], 
+    "title_extended": "\u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u043f\u043e \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0438 \u0420\u043e\u0441\u0441\u0438\u0438 - Materials for the Archaeology of Russia, Published by the Imperial Archaeological Commission", 
+    "type": null, 
+    "url": "http://www.library.chersonesos.org/showsection.php?section_code=7", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

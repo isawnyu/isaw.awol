@@ -1,0 +1,95 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 20 April 2012. Updated 3 December 2014]. Journal of Open Archaeology Data (JOAD). ISSN 2049-1565. The Journal of Open Archaeology Data (JOAD) features peer reviewed data papers describing archaeology datasets with high reuse potential. We are working with a number of specialist and institutional data repositories to ensure that the associated data are professionally archived, preserved, and openly available. Equally importantly, the data and the papers are citable, and reuse will be tracked. While still in beta phase, the journal is now accepting papers. We will also be adding new functionality over the next few weeks, and refining the look and feel.", 
+    "domain": "openarchaeologydata.metajnl.com", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "2049-1565"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "title_full": "Journal of Open Archaeology Data (JOAD)", 
+        "url": "http://openarchaeologydata.metajnl.com/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1081318972266302437", 
+            "resource_date": "2014-12-03T16:12:37.097-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:05:02.484164"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/nerw-open-access-journal-journal-of.html", 
+            "resource_date": "2014-12-03T16:12:37.097-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:05:02.484176"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "issue-view-2", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "Vol 2 (2013)", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://openarchaeologydata.metajnl.com/issue/view/2", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

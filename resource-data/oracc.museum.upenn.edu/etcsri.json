@@ -1,0 +1,212 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "The Electronic Text Corpus of Sumerian Royal Inscriptions (ETCSRI) project's main objective is the creation of an annotated, grammatically and morphologically analyzed, transliterated, trilingual (Sumerian-English-Hungarian), parallel corpus of all Sumerian royal inscriptions. ETCSRI is to be developed at the Department of Assyriology and Hebrew Studies (Institute of Ancient Studies, E\u00f6tv\u00f6s L. University, Budapest) by a research team led by G\u00e1bor Z\u00f3lyomi as part of The Open Richly Annotated Cuneiform Corpus with the continuous assistance and help of Steve Tinney. Funding for ETCSRI is provided by the Hungarian Scientific Research Fund (OTKA) between 2008. 10. 01 - 2013. 06. 30 (project no. K75104). If you cite the corpus, please use the next citation form: Z\u00f3lyomi, G\u00e1bor - Tanos, B\u00e1lint - S\u00f6vegj\u00e1rt\u00f3, Szilvia. The Electronic Text Corpus of Sumerian Royal Inscriptions. 2008-. http://oracc. museum. upenn. edu/etcsri/index. html. Do a a full text search in ETCSRI. [HELP].", 
+    "domain": "oracc.museum.upenn.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "The Electronic Text Corpus of Sumerian Royal Inscriptions", 
+        "url": "http://oracc.museum.upenn.edu/etcsri/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "epigraphy", 
+        "inscriptions", 
+        "Sumerian", 
+        "text editions"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8665964004173566317", 
+            "resource_date": "2013-11-11T05:31:40.544-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:14:45.956067"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/11/the-electronic-text-corpus-of-sumerian.html", 
+            "resource_date": "2013-11-11T05:31:40.544-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:14:45.956082"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8665964004173566317", 
+            "resource_date": "2013-11-11T05:31:40.544-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:14:45.960326"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/11/the-electronic-text-corpus-of-sumerian.html", 
+            "resource_date": "2013-11-11T05:31:40.544-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:14:45.960337"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:14:45.981847"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "etcsri", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "The Electronic Text Corpus of Sumerian Royal Inscriptions", 
+            "url": "http://oracc.museum.upenn.edu/etcsri/"
+        }, 
+        {
+            "title_full": "The Open Richly Annotated Cuneiform Corpus", 
+            "url": "http://oracc.museum.upenn.edu/index.html"
+        }, 
+        {
+            "title_full": "a full text search", 
+            "url": "http://oracc.museum.upenn.edu/etcsri/find"
+        }, 
+        {
+            "title_full": "HELP", 
+            "url": "http://oracc.museum.upenn.edu/doc/user/fulltextsearch/"
+        }, 
+        {
+            "title_full": "Introduction", 
+            "url": "http://oracc.museum.upenn.edu/etcsri/introduction/"
+        }, 
+        {
+            "title_full": "ETCSRI corpus", 
+            "url": "http://oracc.museum.upenn.edu/etcsri/corpus"
+        }, 
+        {
+            "title_full": "Staff", 
+            "url": "http://oracc.museum.upenn.edu/etcsri/staff/"
+        }, 
+        {
+            "title_full": "Glossing", 
+            "url": "http://oracc.museum.upenn.edu/etcsri/glossing/"
+        }, 
+        {
+            "title_full": "Parsing", 
+            "url": "http://oracc.museum.upenn.edu/etcsri/parsing/"
+        }, 
+        {
+            "title_full": "Searching in ETCSRI", 
+            "url": "http://oracc.museum.upenn.edu/etcsri/searchinginetcsri/"
+        }, 
+        {
+            "title_full": "Downloads", 
+            "url": "http://oracc.museum.upenn.edu/etcsri/downloads/"
+        }, 
+        {
+            "title_full": "Bibliography", 
+            "url": "http://oracc.museum.upenn.edu/etcsri/bibliography/"
+        }, 
+        {
+            "title_full": "Links", 
+            "url": "http://oracc.museum.upenn.edu/etcsri/links/"
+        }, 
+        {
+            "title_full": "Contacts", 
+            "url": "http://oracc.museum.upenn.edu/etcsri/contacts/"
+        }
+    ], 
+    "title": "The Electronic Text Corpus of Sumerian Royal Inscriptions", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://oracc.museum.upenn.edu/etcsri/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

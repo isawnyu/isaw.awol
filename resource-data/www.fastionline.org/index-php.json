@@ -1,0 +1,202 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "FASTI: A database of archaeological excavations since the year 2000. Between 1946 and 1987 the International Association for Classical Archaeology (AIAC) published the Fasti Archaeologici. It contained very useful summary notices of excavations throughout the area of the Roman Empire. However, spiraling costs and publication delays combined to render it less and less useful. AIACs board of directors thus decided in 1998 to discontinue the publication and to seek a new way of recording and diffusing new results. The Fasti Online is the result of this effort. The site aims to provide a comprehensive record of archaeological and conservation intitiatives in the participating countries, searchable both in English and in the language of the country. As of 2012, each record may also be illustrated with plans a photographs. FASTI is eager to welcome and support the entry of new countries into the project. For information on how to join FASTI contact Elizabeth Fentress, elizabeth. fentress@gmail. com. The project is generously supported by the Packard Humanities Institute, and the Society for the Promotion of Roman Studies. while the Italian and Ukrainian sites receive additional support from the Ministero dei Beni e le Attivita' Culturali and the Ukrainian Studies Fund, respectively.", 
+    "domain": "www.fastionline.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3993621974004464558", 
+            "resource_date": "2014-07-09T17:59:19.275-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:28.643207"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/opoen-access-journal-fasti.html", 
+            "resource_date": "2014-07-09T17:59:19.275-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:28.643223"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "index-php", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Italy", 
+            "url": "http://www.fastionline.org/search.php?zoomtype=poly_feature&zoom_value=Italy&zoom_field=name&zoom_layer=fasti_countries&reset=true"
+        }, 
+        {
+            "title_full": "Serbia", 
+            "url": "http://www.fastionline.org/search.php?zoomtype=poly_feature&zoom_value=Serbia&zoom_field=name&zoom_layer=fasti_countries&reset=true"
+        }, 
+        {
+            "title_full": "Bulgaria", 
+            "url": "http://www.fastionline.org/search.php?zoomtype=poly_feature&zoom_value=Bulgaria&zoom_field=name&zoom_layer=fasti_countries&reset=true"
+        }, 
+        {
+            "title_full": "Romania", 
+            "url": "http://www.fastionline.org/search.php?zoomtype=poly_feature&zoom_value=Romania&zoom_field=name&zoom_layer=fasti_countries&reset=true"
+        }, 
+        {
+            "title_full": "Macedonia", 
+            "url": "http://www.fastionline.org/search.php?zoomtype=poly_feature&zoom_value=Macedonia&zoom_field=name&zoom_layer=fasti_countries&reset=true"
+        }, 
+        {
+            "title_full": "Malta", 
+            "url": "http://www.fastionline.org/search.php?zoomtype=poly_feature&zoom_value=Malta&zoom_field=name&zoom_layer=fasti_countries&reset=true"
+        }, 
+        {
+            "title_full": "Morocco", 
+            "url": "http://www.fastionline.org/search.php?zoomtype=poly_feature&zoom_value=Morocco&zoom_field=name&zoom_layer=fasti_countries&reset=true"
+        }, 
+        {
+            "title_full": "Croatia", 
+            "url": "http://www.fastionline.org/search.php?zoomtype=poly_feature&zoom_value=Croatia&zoom_field=name&zoom_layer=fasti_countries&reset=true"
+        }, 
+        {
+            "title_full": "Albania", 
+            "url": "http://www.fastionline.org/search.php?zoomtype=poly_feature&zoom_value=Albania&zoom_field=name&zoom_layer=fasti_countries&reset=true"
+        }, 
+        {
+            "title_full": "Slovenia", 
+            "url": "http://www.fastionline.org/search.php?zoomtype=poly_feature&zoom_value=Slovenia&zoom_field=name&zoom_layer=fasti_countries&reset=true"
+        }, 
+        {
+            "title_full": "Kosovo", 
+            "url": "http://www.fastionline.org/search.php?zoomtype=poly_feature&zoom_value=Kosovo&zoom_field=name&zoom_layer=fasti_countries&reset=true"
+        }, 
+        {
+            "title_full": "Montenegro", 
+            "url": "http://www.fastionline.org/search.php?zoomtype=poly_feature&zoom_value=Montenegro&zoom_field=name&zoom_layer=fasti_countries&reset=true"
+        }, 
+        {
+            "title_full": "Ukraine", 
+            "url": "http://www.fastionline.org/search.php?zoomtype=poly_feature&zoom_value=Ukraine&zoom_field=name&zoom_layer=fasti_countries&reset=true"
+        }, 
+        {
+            "title_full": "English", 
+            "url": "http://www.fastionline.org/index.php?&lang=en"
+        }, 
+        {
+            "title_full": "Italiano", 
+            "url": "http://www.fastionline.org/index.php?&lang=it"
+        }, 
+        {
+            "title_full": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438", 
+            "url": "http://www.fastionline.org/index.php?&lang=mk"
+        }, 
+        {
+            "title_full": "rom\u00e2n\u0103", 
+            "url": "http://www.fastionline.org/index.php?&lang=ro"
+        }, 
+        {
+            "title_full": "\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438", 
+            "url": "http://www.fastionline.org/index.php?&lang=bg"
+        }, 
+        {
+            "title_full": "\u0421\u0440\u043f\u0441\u043a\u0438", 
+            "url": "http://www.fastionline.org/index.php?&lang=sr"
+        }, 
+        {
+            "title_full": "Hrvatski", 
+            "url": "http://www.fastionline.org/index.php?&lang=hr"
+        }, 
+        {
+            "title_full": "Fran\u03c2ais", 
+            "url": "http://www.fastionline.org/index.php?&lang=fr"
+        }, 
+        {
+            "title_full": "\u0639\u0631\u0628\u064a", 
+            "url": "http://www.fastionline.org/index.php?&lang=ar"
+        }, 
+        {
+            "title_full": "Sloven\u0161\u010dina", 
+            "url": "http://www.fastionline.org/index.php?&lang=sl"
+        }, 
+        {
+            "title_full": "Shqip", 
+            "url": "http://www.fastionline.org/index.php?&lang=sq"
+        }, 
+        {
+            "title_full": "Crnogorski", 
+            "url": "http://www.fastionline.org/index.php?&lang=me"
+        }, 
+        {
+            "title_full": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e", 
+            "url": "http://www.fastionline.org/index.php?&lang=uk"
+        }, 
+        {
+            "title_full": "\u0420\u043e\u0441\u0441\u0438\u044e", 
+            "url": "http://www.fastionline.org/index.php?&lang=ru"
+        }, 
+        {
+            "title_full": "FOLD&R (Fasti On Line Documents & Research)", 
+            "url": "http://www.fastionline.org/folder.php"
+        }
+    ], 
+    "title": "FASTI", 
+    "title_alternates": [], 
+    "title_extended": "FASTI:", 
+    "type": null, 
+    "url": "http://www.fastionline.org/index.php", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

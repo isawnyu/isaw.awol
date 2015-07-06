@@ -1,0 +1,216 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "DCS: Digital Corpus of Sanskrit. DCS, the Digital Corpus of Sanskrit, is a searchable collection of lemmatized Sanskrit texts. It offers free internet access to a part of the database of the linguistic program SanskritTagger, which has been under constant development since 1999.", 
+    "domain": "kjc-fs-cluster.kjc.uni-heidelberg.de", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Digital Corpus of Sanskrit", 
+        "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Sanskrit", 
+        "India"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2635873555143543323", 
+            "resource_date": "2013-06-30T07:46:47.637-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:30.634828"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/snascrit-corpus-online.html", 
+            "resource_date": "2013-06-30T07:46:47.637-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:30.634844"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2635873555143543323", 
+            "resource_date": "2013-06-30T07:46:47.637-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:30.637556"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/snascrit-corpus-online.html", 
+            "resource_date": "2013-06-30T07:46:47.637-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:30.637567"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "title_extended", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:30.668774"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "dcs-index-php", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "DCS: Digital Corpus of Sanskrit", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php"
+        }, 
+        {
+            "title_full": "Technical background", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=intro_sanskrit_tagger"
+        }, 
+        {
+            "title_full": "structure of the corpus", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=intro_dcs_design"
+        }, 
+        {
+            "title_full": "Lexical units can be retrieved from the dictionary via a query interface or a dictionary page. For each lexical unit contained in the corpus, DCS offers the complete set of references and a statistical evaluation based on historical principles. More about the query interface , the dictionary and the detail evaluation of lexical units", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=help_query"
+        }, 
+        {
+            "title_full": "Lexical units can be retrieved from the dictionary via a query interface or a dictionary page. For each lexical unit contained in the corpus, DCS offers the complete set of references and a statistical evaluation based on historical principles. More about the query interface , the dictionary and the detail evaluation of lexical units", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=help_dictionary"
+        }, 
+        {
+            "title_full": "Lexical units can be retrieved from the dictionary via a query interface or a dictionary page. For each lexical unit contained in the corpus, DCS offers the complete set of references and a statistical evaluation based on historical principles. More about the query interface , the dictionary and the detail evaluation of lexical units", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=help_details"
+        }, 
+        {
+            "title_full": "As an alternative, philological research can start from the interlinear lexical analysis that accompanies each text contained in the database. Information about the text interface", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=help_text"
+        }, 
+        {
+            "title_full": "query", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=abfrage"
+        }, 
+        {
+            "title_full": "dictionary", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=dictionary"
+        }, 
+        {
+            "title_full": "text collection", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=texte"
+        }, 
+        {
+            "title_full": "help center", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=help_center"
+        }, 
+        {
+            "title_full": "Contact, copyright, disclaimer", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=impressum"
+        }, 
+        {
+            "title_full": "Login", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=login"
+        }, 
+        {
+            "title_full": "Corpus", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=corpus"
+        }, 
+        {
+            "title_full": "Functions", 
+            "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=functions"
+        }
+    ], 
+    "title": "DCS: Digital Corpus of Sanskrit", 
+    "title_alternates": [], 
+    "title_extended": "DCS: Digital Corpus of Sanskrit", 
+    "type": null, 
+    "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

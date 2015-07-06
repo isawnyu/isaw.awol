@@ -1,0 +1,173 @@
+{
+    "authors": [
+        "and works", 
+        "including detailed information on the critical editions on which the digital texts are based", 
+        "listing", 
+        "if the case", 
+        "editorial changes which deviate from the critical editions chosen as reference"
+    ], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 3 January 2011, updated 22 April 2015]. DigilibLT: Biblioteca digitale di testi latini tardoantichi - Digital library of late-antique latin texts. The Digital library of late-antique Latin texts - digilibLT - publishes prose texts written in Latin in the late antiquity (from the 2nd to the 7th century AD). The texts are annotated according to the XML-TEI standards, and are offered free of charge to the public for reading and research. The library also offers a complete canon of authors and works, including detailed information on the critical editions on which the digital texts are based, and listing, if the case, editorial changes which deviate from the critical editions chosen as reference. Search windows are designed to allow users to search either the entire collection of texts or a selection of them (by author, period, or type of text) or single authors and works. Texts can be downloaded freely, which allows individual scholars to work on their areas of interest with maximum flexibility. The library also provides short entries on late-antique authors and works, bibliographies, and canon entries. Finally, the library also includes some important works on late-antique Latin prose authors, offering the texts in PDF form or listing links to websites where these works can be found.", 
+    "domain": "digiliblt.lett.unipmn.it", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "DigilibLT: Biblioteca digitale di testi latini tardoantichi - Digital library of late-antique latin texts", 
+        "url": "http://digiliblt.lett.unipmn.it/index.php"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Italy", 
+        "Latin", 
+        "late antiquity", 
+        "digital library", 
+        "library"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3552384657348574246", 
+            "resource_date": "2015-04-22T15:38:18.261-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:08.608354"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/digital-library-of-late-antique-latin.html", 
+            "resource_date": "2015-04-22T15:38:18.261-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:08.608370"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3552384657348574246", 
+            "resource_date": "2015-04-22T15:38:18.261-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:08.614064"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/digital-library-of-late-antique-latin.html", 
+            "resource_date": "2015-04-22T15:38:18.261-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:08.614076"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "volume", 
+                "authors", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:08:08.617108"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "index-php", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "DigilibLT: Biblioteca digitale di testi latini tardoantichi - Digital library of late-antique latin texts", 
+            "url": "http://digiliblt.lett.unipmn.it/index.php"
+        }, 
+        {
+            "title_full": "Epitoma de Tito Liuio - saec. II", 
+            "url": "http://digiliblt.lett.unipmn.it/testi.php#"
+        }
+    ], 
+    "title": "DigilibLT: Biblioteca digitale di testi latini tardoantichi - Digital library of late-antique latin texts", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://digiliblt.lett.unipmn.it/index.php", 
+    "url_alternates": [], 
+    "volume": "-", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

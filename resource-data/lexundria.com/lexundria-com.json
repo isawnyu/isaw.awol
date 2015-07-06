@@ -1,0 +1,588 @@
+{
+    "authors": [
+        "(analogous to the verse divisions of the Bible)"
+    ], 
+    "contributors": [], 
+    "description": "Lexundria: A Digital Library of Antiquity. Lexundria is a digital library of classical antiquity. Although most of the texts on this site can be found elsewhere on the internet, this project aims to make them accessible in a more research-friendly format. The Lexundria editions are thus distinguished by the following features: 1. Standard reference numbers. Most classical texts have a standard referencing scheme used by academics and other authors (analogous to the verse divisions of the Bible). These divisions are clearly marked in the texts on this site, even when the corresponding print edition does not contain them. 2. Pin-citation functionality. You can easily look up a passage at Lexundria using its pin citation. Rather than browse through long blocks of text in order to find the passage you\u2019re looking for, simply enter the standard citation in the Lexundria search box. Lexundria will automatically pinpoint the passage and display it. 3. Parallel-editions mode. When Lexundria hosts more than one edition of a work, you will see a \"compare\" option at the bottom of the version menu. This feature allows you to compare editions side-by-side, one passage at a time. For a taste of how this works, try reading Epicurus\u2019s Kuriai Doxai in comparison mode. 4. A comprehensive search engine. Lexundria\u2019s full-text search engine makes it easy to search for words and phrases. To search the entire Lexundria library, simply enter your search terms in the search box and hit submit. To limit your search to a single work, add a backslash followed by the standard abbreviation for the work. (For example, \"Antonius \\Cic. Phil. \" will search for occurrences of \"Antonius\" only in Cicero\u2019s Philippics. ) To limit your search to a single edition, add another backslash followed by the Lexundria abbreviation for the edition. (Edition abbreviations can be found on Lexundria\u2019s table of contents page for the work you\u2019re interested in. ) Please note that Lexundria will conduct a natural-language search by default. To conduct a Boolean search instead, add an equals sign to the beginning of your query. With only a few dozen texts online at the moment, this project is still in its infancy. But even a limited version is preferable to a \"coming soon\" page, and in that spirit this modest start is offered to the public. I hope that this resource will make consulting these important texts more convenient than ever.", 
+    "domain": "lexundria.com", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Lexundria: A Digital Library of Antiquity", 
+        "url": "http://lexundria.com/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Greek", 
+        "Latin", 
+        "digital library", 
+        "library", 
+        "antiquity"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5440207543130493106", 
+            "resource_date": "2014-12-13T09:13:15.872-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:14.814904"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/12/lexundria-digital-library-of-antiquity.html", 
+            "resource_date": "2014-12-13T09:13:15.872-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:14.814921"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5440207543130493106", 
+            "resource_date": "2014-12-13T09:13:15.872-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:14.821748"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/12/lexundria-digital-library-of-antiquity.html", 
+            "resource_date": "2014-12-13T09:13:15.872-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:14.821762"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "authors", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:15.023277"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "lexundria-com", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Lexundria: A Digital Library of Antiquity", 
+            "url": "http://lexundria.com/"
+        }, 
+        {
+            "title_full": "try reading Epicurus\u2019s Kuriai Doxai in comparison mode", 
+            "url": "http://lexundria.com/epic_kd/1/cf"
+        }, 
+        {
+            "title_full": "Antonius \\Cic. Phil", 
+            "url": "http://lexundria.com/go?q=Antonius%20%5CCic.%20Phil."
+        }, 
+        {
+            "title_full": "Josephus: Life of Flavius Josephus c. 100 AD", 
+            "url": "http://lexundria.com/j_vit/0/wst"
+        }, 
+        {
+            "title_full": "Plutarch: Parallel Lives c. 100 AD", 
+            "url": "http://lexundria.com/plut_thes/0/prr"
+        }, 
+        {
+            "title_full": "Life of Romulus", 
+            "url": "http://lexundria.com/plut_rom/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Theseus and Romulus", 
+            "url": "http://lexundria.com/plut_comp_thes_rom/0/prr"
+        }, 
+        {
+            "title_full": "Life of Lycurgus", 
+            "url": "http://lexundria.com/plut_lyc/0/prr"
+        }, 
+        {
+            "title_full": "Life of Numa", 
+            "url": "http://lexundria.com/plut_num/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Lycurgus and Numa", 
+            "url": "http://lexundria.com/plut_comp_lyc_num/0/prr"
+        }, 
+        {
+            "title_full": "Life of Solon", 
+            "url": "http://lexundria.com/plut_sol/0/prr"
+        }, 
+        {
+            "title_full": "Life of Publicola", 
+            "url": "http://lexundria.com/plut_publ/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Solon and Publicola", 
+            "url": "http://lexundria.com/plut_comp_sol_publ/0/prr"
+        }, 
+        {
+            "title_full": "Life of Themistocles", 
+            "url": "http://lexundria.com/plut_them/0/prr"
+        }, 
+        {
+            "title_full": "Life of Camillus", 
+            "url": "http://lexundria.com/plut_cam/0/prr"
+        }, 
+        {
+            "title_full": "Life of Pericles", 
+            "url": "http://lexundria.com/plut_per/0/prr"
+        }, 
+        {
+            "title_full": "Life of Fabius Maximus", 
+            "url": "http://lexundria.com/plut_fab/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Pericles and Fabius Maximus", 
+            "url": "http://lexundria.com/plut_comp_per_fab/0/prr"
+        }, 
+        {
+            "title_full": "Life of Alcibiades", 
+            "url": "http://lexundria.com/plut_alc/0/prr"
+        }, 
+        {
+            "title_full": "Life of Coriolanus", 
+            "url": "http://lexundria.com/plut_cor/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Alcibiades and Coriolanus", 
+            "url": "http://lexundria.com/plut_comp_alc_cor/0/prr"
+        }, 
+        {
+            "title_full": "Life of Timoleon", 
+            "url": "http://lexundria.com/plut_tim/0/prr"
+        }, 
+        {
+            "title_full": "Life of Aemilius Paulus", 
+            "url": "http://lexundria.com/plut_aem/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Timoleon and Aemilius Paulus", 
+            "url": "http://lexundria.com/plut_comp_tim_aem/0/prr"
+        }, 
+        {
+            "title_full": "Life of Pelopidas", 
+            "url": "http://lexundria.com/plut_pel/0/prr"
+        }, 
+        {
+            "title_full": "Life of Marcellus", 
+            "url": "http://lexundria.com/plut_marc/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Pelopidas and Marcellus", 
+            "url": "http://lexundria.com/plut_comp_pel_marc/0/prr"
+        }, 
+        {
+            "title_full": "Life of Aristides", 
+            "url": "http://lexundria.com/plut_arist/0/prr"
+        }, 
+        {
+            "title_full": "Life of Cato the Elder", 
+            "url": "http://lexundria.com/plut_cat_ma/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Aristides and Cato", 
+            "url": "http://lexundria.com/plut_comp_aristid_cat/0/prr"
+        }, 
+        {
+            "title_full": "Life of Philopoemen", 
+            "url": "http://lexundria.com/plut_phil/0/prr"
+        }, 
+        {
+            "title_full": "Life of Flamininus", 
+            "url": "http://lexundria.com/plut_flam/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Philopoemen and Flamininus", 
+            "url": "http://lexundria.com/plut_comp_phil_flam/0/prr"
+        }, 
+        {
+            "title_full": "Life of Pyrrhus", 
+            "url": "http://lexundria.com/plut_pyrrh/0/prr"
+        }, 
+        {
+            "title_full": "Life of Marius", 
+            "url": "http://lexundria.com/plut_mar/0/prr"
+        }, 
+        {
+            "title_full": "Life of Lysander", 
+            "url": "http://lexundria.com/plut_lys/0/prr"
+        }, 
+        {
+            "title_full": "Life of Sulla", 
+            "url": "http://lexundria.com/plut_sull/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Lysander and Sulla", 
+            "url": "http://lexundria.com/plut_comp_lys_sull/0/prr"
+        }, 
+        {
+            "title_full": "Life of Cimon", 
+            "url": "http://lexundria.com/plut_cim/0/prr"
+        }, 
+        {
+            "title_full": "Life of Lucullus", 
+            "url": "http://lexundria.com/plut_luc/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Cimon and Lucullus", 
+            "url": "http://lexundria.com/plut_comp_cim_luc/0/prr"
+        }, 
+        {
+            "title_full": "Life of Nicias", 
+            "url": "http://lexundria.com/plut_nic/0/prr"
+        }, 
+        {
+            "title_full": "Life of Crassus", 
+            "url": "http://lexundria.com/plut_crass/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Nicias and Crassus", 
+            "url": "http://lexundria.com/plut_comp_nic_crass/0/prr"
+        }, 
+        {
+            "title_full": "Life of Eumenes", 
+            "url": "http://lexundria.com/plut_eum/0/prr"
+        }, 
+        {
+            "title_full": "Life of Sertorius", 
+            "url": "http://lexundria.com/plut_sert/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Eumenes and Sertorius", 
+            "url": "http://lexundria.com/plut_comp_eum_sert/0/prr"
+        }, 
+        {
+            "title_full": "Life of Agesilaus", 
+            "url": "http://lexundria.com/plut_ages/0/prr"
+        }, 
+        {
+            "title_full": "Life of Pompey", 
+            "url": "http://lexundria.com/plut_pomp/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Agesilaus and Pompey", 
+            "url": "http://lexundria.com/plut_comp_ages_pomp/0/prr"
+        }, 
+        {
+            "title_full": "Life of Alexander", 
+            "url": "http://lexundria.com/plut_alex/0/prr"
+        }, 
+        {
+            "title_full": "Life of Caesar", 
+            "url": "http://lexundria.com/plut_caes/0/prr"
+        }, 
+        {
+            "title_full": "Life of Phocion", 
+            "url": "http://lexundria.com/plut_phoc/0/prr"
+        }, 
+        {
+            "title_full": "Life of Cato the Younger", 
+            "url": "http://lexundria.com/plut_cat_mi/0/prr"
+        }, 
+        {
+            "title_full": "Life of Agis", 
+            "url": "http://lexundria.com/plut_agis/0/prr"
+        }, 
+        {
+            "title_full": "Life of Cleomenes", 
+            "url": "http://lexundria.com/plut_cleom/0/prr"
+        }, 
+        {
+            "title_full": "Life of Tiberius", 
+            "url": "http://lexundria.com/plut_tg/0/prr"
+        }, 
+        {
+            "title_full": "Life of Caius Gracchus", 
+            "url": "http://lexundria.com/plut_cg/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Agis and Cleomenes and the Gracchi", 
+            "url": "http://lexundria.com/plut_comp_ag_gracch/0/prr"
+        }, 
+        {
+            "title_full": "Life of Demosthenes", 
+            "url": "http://lexundria.com/plut_dem/0/prr"
+        }, 
+        {
+            "title_full": "Life of Cicero", 
+            "url": "http://lexundria.com/plut_cic/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Demosthenes and Cicero", 
+            "url": "http://lexundria.com/plut_comp_dem_cic/0/prr"
+        }, 
+        {
+            "title_full": "Life of Demetrius", 
+            "url": "http://lexundria.com/plut_demetr/0/prr"
+        }, 
+        {
+            "title_full": "Life of Antony", 
+            "url": "http://lexundria.com/plut_ant/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Demetrius and Antony", 
+            "url": "http://lexundria.com/plut_comp_demetr_ant/0/prr"
+        }, 
+        {
+            "title_full": "Life of Dion", 
+            "url": "http://lexundria.com/plut_dion/0/prr"
+        }, 
+        {
+            "title_full": "Life of Brutus", 
+            "url": "http://lexundria.com/plut_brut/0/prr"
+        }, 
+        {
+            "title_full": "Comparison of Dion and Brutus", 
+            "url": "http://lexundria.com/plut_comp_dion_brut/0/prr"
+        }, 
+        {
+            "title_full": "Plutarch: Life of Aratus c. 100 AD", 
+            "url": "http://lexundria.com/plut_arat/0/prr"
+        }, 
+        {
+            "title_full": "Plutarch: Life of Artaxerxes c. 100 AD", 
+            "url": "http://lexundria.com/plut_art/0/prr"
+        }, 
+        {
+            "title_full": "Plutarch: Life of Galba c. 100 AD", 
+            "url": "http://lexundria.com/plut_galb/0/prr"
+        }, 
+        {
+            "title_full": "Plutarch: Life of Otho c. 100 AD", 
+            "url": "http://lexundria.com/plut_otho/0/prr"
+        }, 
+        {
+            "title_full": "Suetonius: Lives of the Caesars c. 120 AD", 
+            "url": "http://lexundria.com/suet_jul/0/r"
+        }, 
+        {
+            "title_full": "Life of Augustus", 
+            "url": "http://lexundria.com/suet_aug/0/r"
+        }, 
+        {
+            "title_full": "Life of Tiberius", 
+            "url": "http://lexundria.com/suet_tib/0/r"
+        }, 
+        {
+            "title_full": "Life of Caligula", 
+            "url": "http://lexundria.com/suet_cal/0/r"
+        }, 
+        {
+            "title_full": "Life of Claudius", 
+            "url": "http://lexundria.com/suet_cl/0/r"
+        }, 
+        {
+            "title_full": "Life of Nero", 
+            "url": "http://lexundria.com/suet_nero/0/r"
+        }, 
+        {
+            "title_full": "Life of Galba", 
+            "url": "http://lexundria.com/suet_gal/0/r"
+        }, 
+        {
+            "title_full": "Life of Otho", 
+            "url": "http://lexundria.com/suet_otho/0/r"
+        }, 
+        {
+            "title_full": "Life of Vitellius", 
+            "url": "http://lexundria.com/suet_vit/0/r"
+        }, 
+        {
+            "title_full": "Life of Vespasian", 
+            "url": "http://lexundria.com/suet_ves/0/r"
+        }, 
+        {
+            "title_full": "Life of Titus", 
+            "url": "http://lexundria.com/suet_tit/0/r"
+        }, 
+        {
+            "title_full": "Life of Domitian", 
+            "url": "http://lexundria.com/suet_dom/0/r"
+        }, 
+        {
+            "title_full": "Herodotus: Histories 5th cent. BC", 
+            "url": "http://lexundria.com/hdt/0/mcly"
+        }, 
+        {
+            "title_full": "Sallust: Catiline's War c. 41 BC", 
+            "url": "http://lexundria.com/sal_cat/0/r"
+        }, 
+        {
+            "title_full": "Sallust: The Jugurthine War c. 40 BC", 
+            "url": "http://lexundria.com/sal_jug/0/r"
+        }, 
+        {
+            "title_full": "Josephus: Wars of the Jews c. 77 AD", 
+            "url": "http://lexundria.com/j_bj/0/wst"
+        }, 
+        {
+            "title_full": "Josephus: Antiquities of the Jews c. 94 AD", 
+            "url": "http://lexundria.com/j_aj/0/wst"
+        }, 
+        {
+            "title_full": "Cassius Dio: Roman History c. 220 AD", 
+            "url": "http://lexundria.com/dio/0/cy"
+        }, 
+        {
+            "title_full": "Ammian: History 4th cent. AD", 
+            "url": "http://lexundria.com/amm/0/y"
+        }, 
+        {
+            "title_full": "Parmenides: On Nature c. 480 BC", 
+            "url": "http://lexundria.com/parm_frag/0/b"
+        }, 
+        {
+            "title_full": "Epicurus: Letter to Herodotus c. 305 BC", 
+            "url": "http://lexundria.com/epic_ep_hdt/0/hks"
+        }, 
+        {
+            "title_full": "Epicurus: Letter to Pythocles c. 305 BC", 
+            "url": "http://lexundria.com/epic_ep_pyth/0/hks"
+        }, 
+        {
+            "title_full": "Epicurus: Letter to Menoeceus c. 300 BC", 
+            "url": "http://lexundria.com/epic_ep_men/0/hks"
+        }, 
+        {
+            "title_full": "Epicurus: Principal Doctrines c. 300 BC", 
+            "url": "http://lexundria.com/epic_kd/0/hks10"
+        }, 
+        {
+            "title_full": "Marcus Aurelius: Meditations c. 180 AD", 
+            "url": "http://lexundria.com/m_aur_med/0/lg"
+        }, 
+        {
+            "title_full": "Cicero: Catilinarian Orations 63 BC", 
+            "url": "http://lexundria.com/cic_cat/0/y"
+        }, 
+        {
+            "title_full": "Cicero: Philippics 44-43 BC", 
+            "url": "http://lexundria.com/cic_phil/0/y"
+        }, 
+        {
+            "title_full": "Augustus: The Deeds of the Divine Augustus c. 14 AD", 
+            "url": "http://lexundria.com/aug_anc/0/ship"
+        }, 
+        {
+            "title_full": "Clement of Rome: Epistle of the Romans to the Corinthians c. 100 AD", 
+            "url": "http://lexundria.com/i_clem/0/lk"
+        }, 
+        {
+            "title_full": "Unknown Author: Muratorian Canon c. 170 AD", 
+            "url": "http://lexundria.com/mur_frag/0/nsherk"
+        }, 
+        {
+            "title_full": "Melito of Sardis: Selections c. 175 AD", 
+            "url": "http://lexundria.com/mel_ekl/0/mcgiff"
+        }, 
+        {
+            "title_full": "Plato: The Apology of Socrates c. 395 BC", 
+            "url": "http://lexundria.com/plat_apol/0/j"
+        }, 
+        {
+            "title_full": "Xenophon: The Apology of Socrates to the Jury c. 395 BC", 
+            "url": "http://lexundria.com/xen_apol/0/td"
+        }, 
+        {
+            "title_full": "Vitruvius: On Architecture c. 25 BC", 
+            "url": "http://lexundria.com/vitr/0/gw"
+        }, 
+        {
+            "title_full": "Josephus: Against Apion c. 97 AD", 
+            "url": "http://lexundria.com/j_ap/0/wst"
+        }
+    ], 
+    "title": "Lexundria: A Digital Library of Antiquity", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://lexundria.com/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

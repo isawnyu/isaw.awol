@@ -1,0 +1,174 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "REVEAL (Reconstruction and Exploratory Visualization: Engineering meets ArchaeoLogy). Inaccuracies, Inconsistencies and Impatience. One of the key problems in archaeology is trying to accurately locate things like trenches, walls, and artifacts in 3D space. Traditionally, archaeologists describe their finds, manually take measurements, and use hand-drawn sketches and occasional photographs to record the contexts of artifacts, strata, and architectural features. This methodology suffers from inaccuracy, inconsistent terminology, transcription errors, and just taking too long. Some things are not recorded at all because their significance is not recognized until too late. Other issues for fieldteams include noting what was found, who found it, what are the find\u2019s characteristics, figuring out how all this data should be organized, and how other researchers can assimilate all this information. Understanding the meaning, context, and function of an object evolves over time as it is examined and categorized, which often involves multiple specialists each of whom may submit data in different formats. The standard collocation methods don't effectively allow hypothesis testing on all the excavated data in real time; nor allow for planning field strategies while the dig is underway. Normally, we have to wait until all evidence has been collected, analyzed, and synthesized--that often takes years and is unfair to our colleagues. Has the transition to digital acquisition technologies improved the situation? We now have the choice of laser scans, LIDAR, digital photography, databases, CAD, GIS, GPS, total stations, and even smartphones with high-res cameras and custom apps that can be tailored for use during excavations.", 
+    "domain": "www.vizin.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "REVEAL (Reconstruction and Exploratory Visualization: Engineering meets ArchaeoLogy)", 
+        "url": "http://www.vizin.org/projects/reveal/project.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "engineering", 
+        "technology"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-22485645788464120", 
+            "resource_date": "2014-10-29T15:02:04.340-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:17.486609"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/10/reveal-reconstruction-and-exploratory.html", 
+            "resource_date": "2014-10-29T15:02:04.340-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:17.486626"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-22485645788464120", 
+            "resource_date": "2014-10-29T15:02:04.340-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:17.492454"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/10/reveal-reconstruction-and-exploratory.html", 
+            "resource_date": "2014-10-29T15:02:04.340-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:17.492467"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:17.499198"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "projects-reveal-project-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "REVEAL (Reconstruction and Exploratory Visualization: Engineering meets ArchaeoLogy)", 
+            "url": "http://www.vizin.org/projects/reveal/project.html"
+        }, 
+        {
+            "title_full": "setting", 
+            "url": "http://www.vizin.org/projects/reveal/setting.html"
+        }, 
+        {
+            "title_full": "solution", 
+            "url": "http://www.vizin.org/projects/reveal/solution.html"
+        }, 
+        {
+            "title_full": "gallery", 
+            "url": "http://www.vizin.org/projects/reveal/gallery.html"
+        }, 
+        {
+            "title_full": "research", 
+            "url": "http://www.vizin.org/projects/reveal/research.html"
+        }
+    ], 
+    "title": "REVEAL (Reconstruction and Exploratory Visualization: Engineering meets ArchaeoLogy)", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.vizin.org/projects/reveal/project.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

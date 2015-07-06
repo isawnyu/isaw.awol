@@ -1,0 +1,162 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "The UC Berkeley Digital Nineveh Archives was initiated in December 2005, and has been made possible by a grant from the National Endowment for the Humanities initiative, Recovering Iraq's Past. In December 2007 additional support was provided by the British Universities Iraq Consortium. The project, directed by David Stronach and Eleanor Wilkinson, began digitizing only the field records from the University of California at Berkeley Expedition to Nineveh 1987, 1989 and 1990. It has grown to accommodate knowledge contributed by other archaeologists past, present and future, in what has the potential to be first comprehensive archaeological reckoning of the history of the site, from the 19th century through to today. The primary objectives of the Digital Nineveh Archive Project are: \u2022 To create an online teaching and research tool presenting a comprehensive picture of Nineveh within the history of archaeology in the Near East. \u2022 To establish a searchable data repository for meaningful analysis of currently unlinked sets of data from different areas of the site and different episodes in the 160-year history of excavations. The archived content is directly credited to the contributor, who determines re-use and access. \u2022 To provide a cost-effective, permanent venue for disseminating the research of scholars with limited or no access to conventional publications and institutional support.", 
+    "domain": "okapi.berkeley.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Digital Nineveh Archives", 
+        "url": "http://okapi.berkeley.edu/nineveh/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Nineveh", 
+        "Assyria", 
+        "archives", 
+        "Mesopotamia", 
+        "Iraq", 
+        "archaeology"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2167086956371523968", 
+            "resource_date": "2015-02-27T13:43:52.121-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:09.218493"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/04/digital-nineveh-archives.html", 
+            "resource_date": "2015-02-27T13:43:52.121-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:09.218508"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2167086956371523968", 
+            "resource_date": "2015-02-27T13:43:52.121-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:09.223558"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/04/digital-nineveh-archives.html", 
+            "resource_date": "2015-02-27T13:43:52.121-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:09.223570"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:09.224964"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "nineveh", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Digital Nineveh Archives", 
+            "url": "http://okapi.berkeley.edu/nineveh/"
+        }
+    ], 
+    "title": "Digital Nineveh Archives", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://okapi.berkeley.edu/nineveh/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

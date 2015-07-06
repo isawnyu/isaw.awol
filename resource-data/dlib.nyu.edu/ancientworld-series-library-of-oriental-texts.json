@@ -1,0 +1,209 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Library of oriental texts. ISSN: 1380-7315.", 
+    "domain": "dlib.nyu.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1380-7315"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "issn": "1380-7315", 
+        "title_full": "Library of oriental texts", 
+        "url": "http://dlib.nyu.edu/ancientworld/series/library-of-oriental-texts"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "open access", 
+        "monograph"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5930806261517756093", 
+            "resource_date": "2015-05-16T17:57:29.921-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:51.576777"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-library-of.html", 
+            "resource_date": "2015-05-16T17:57:29.921-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:51.576792"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5930806261517756093", 
+            "resource_date": "2015-05-16T17:57:29.921-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:51.578593"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-library-of.html", 
+            "resource_date": "2015-05-16T17:57:29.921-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:51.578604"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:51.601379"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "ancientworld-series-library-of-oriental-texts", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Library of oriental texts", 
+            "url": "http://dlib.nyu.edu/ancientworld/series/library-of-oriental-texts"
+        }, 
+        {
+            "title_full": "Brill's ancient world selection", 
+            "url": "http://dlib.nyu.edu/ancientworld/series/brill-s-ancient-world-selection"
+        }, 
+        {
+            "title_full": "Gilgamesh and Akka", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/77"
+        }, 
+        {
+            "title_full": "Sumerian epic poetry", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3042"
+        }, 
+        {
+            "title_full": "Sumerian language -- Texts", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/413"
+        }, 
+        {
+            "title_full": "Gilgamesh (Legendary character) -- Poetry", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3043"
+        }, 
+        {
+            "title_full": "Assyriology", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2942"
+        }, 
+        {
+            "title_full": "Assyro-Babylonian incantations", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3002"
+        }, 
+        {
+            "title_full": "Birth customs", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/517"
+        }, 
+        {
+            "title_full": "Childbirth -- Folklore", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/518"
+        }, 
+        {
+            "title_full": "Akkadian language -- Texts", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/153"
+        }, 
+        {
+            "title_full": "series from Brill in the Ancient World Digital Library", 
+            "url": "http://dlib.nyu.edu/ancientworld/series/"
+        }
+    ], 
+    "title": "Library of oriental texts", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://dlib.nyu.edu/ancientworld/series/library-of-oriental-texts", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

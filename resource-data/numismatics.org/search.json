@@ -1,0 +1,210 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "MANTIS: A Numismatic Technologies Integration Service. The ANS collections database contains information on more than 600,000 objects in the Society\u2019s collections. These include, coins, paper money, tokens, \u2018primitive\u2019 money, medals and decorations, from all parts of the world, and all periods in which such objects have been produced. Show search instructions. Click an image below to search a department.", 
+    "domain": "numismatics.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "MANTIS: A Numismatic Technologies Integration Service", 
+        "url": "http://numismatics.org/search/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "collection", 
+        "numismatics"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8010053222031561942", 
+            "resource_date": "2011-05-04T10:19:33.448-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:13.478576"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/american-numismatic-societys-new.html", 
+            "resource_date": "2011-05-04T10:19:33.448-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:13.478591"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8010053222031561942", 
+            "resource_date": "2011-05-04T10:19:33.448-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:13.481369"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/04/american-numismatic-societys-new.html", 
+            "resource_date": "2011-05-04T10:19:33.448-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:13.481380"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:13:13.515581"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "search", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "MANTIS: A Numismatic Technologies Integration Service", 
+            "url": "http://numismatics.org/search/"
+        }, 
+        {
+            "title_full": "Show search instructions", 
+            "url": "http://numismatics.org/search/#instructions"
+        }, 
+        {
+            "title_full": "Greek", 
+            "url": "http://numismatics.org/search/Greek"
+        }, 
+        {
+            "title_full": "Roman", 
+            "url": "http://numismatics.org/search/Roman"
+        }, 
+        {
+            "title_full": "Byzantine", 
+            "url": "http://numismatics.org/search/Byzantine"
+        }, 
+        {
+            "title_full": "Islamic", 
+            "url": "http://numismatics.org/search/Islamic"
+        }, 
+        {
+            "title_full": "East Asian", 
+            "url": "http://numismatics.org/search/EastAsian"
+        }, 
+        {
+            "title_full": "South Asian", 
+            "url": "http://numismatics.org/search/SouthAsian"
+        }, 
+        {
+            "title_full": "Medieval", 
+            "url": "http://numismatics.org/search/Medieval"
+        }, 
+        {
+            "title_full": "Modern", 
+            "url": "http://numismatics.org/search/Modern"
+        }, 
+        {
+            "title_full": "United States", 
+            "url": "http://numismatics.org/search/UnitedStates"
+        }, 
+        {
+            "title_full": "Latin American", 
+            "url": "http://numismatics.org/search/LatinAmerica"
+        }, 
+        {
+            "title_full": "Medals And Decorations", 
+            "url": "http://numismatics.org/search/MedalsAndDecorations"
+        }, 
+        {
+            "title_full": "online", 
+            "url": "http://numismatics.org/About/AcquisitionDeacquisition"
+        }
+    ], 
+    "title": "MANTIS: A Numismatic Technologies Integration Service", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://numismatics.org/search/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

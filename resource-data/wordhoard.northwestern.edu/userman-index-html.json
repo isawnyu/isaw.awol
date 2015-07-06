@@ -1,0 +1,433 @@
+{
+    "authors": [
+        "those words"
+    ], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 4 March 2010, updated 10 October 2014]. WORDHOARD: An application for the close reading and scholarly analysis of deeply tagged texts. The WordHoard project is named after an Old English phrase for the verbal treasure 'unlocked' by a wise speaker. It applies to highly canonical literary texts the insights and techniques of corpus linguistics, that is to say, the empirical and computer-assisted study of large bodies of written texts or transcribed speech. In the WordHoard environment, such texts are annotated or tagged by morphological, lexical, prosodic, and narratological criteria. They are mediated through a 'digital page' or user interface that lets scholarly but non-technical users explore the greatly increased query potential of textual data kept in such a form. It is a basic assumption of WordHoard that new kinds of historical, literary, or broadly cultural analysis will be supported through the forms of data access that are made possible when literary texts are treated in the manner of linguistic corpora. Deeply tagged corpora of course support more finely grained inquiries at a verbal or stylistic level. But more importantly, access to the words of a text at such microscopic levels also lets you look in new ways at the imaginative worlds created by those words. In its current release WordHoard contains the entire canon of Early Greek epic in the original and in translation, as well as all of Chaucer, Shakespeare, and Spenser. The section on Provenance, Copyrights, and Licenses provides detailed information about the texts.", 
+    "domain": "wordhoard.northwestern.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "WORDHOARD: An application for the close reading and scholarly analysis of deeply tagged texts", 
+        "url": "http://wordhoard.northwestern.edu/userman/index.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Greek", 
+        "epic"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3586527690288082736", 
+            "resource_date": "2014-10-11T11:33:10.694-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:09.163170"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/03/wordhoard.html", 
+            "resource_date": "2014-10-11T11:33:10.694-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:09.163185"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3586527690288082736", 
+            "resource_date": "2014-10-11T11:33:10.694-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:09.169025"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/03/wordhoard.html", 
+            "resource_date": "2014-10-11T11:33:10.694-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:09.169038"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "authors", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:08:09.311856"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "userman-index-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "WORDHOARD: An application for the close reading and scholarly analysis of deeply tagged texts", 
+            "url": "http://wordhoard.northwestern.edu/userman/index.html"
+        }, 
+        {
+            "title_full": "Preface", 
+            "url": "http://wordhoard.northwestern.edu/userman/preface.html"
+        }, 
+        {
+            "title_full": "What is WordHoard?", 
+            "url": "http://wordhoard.northwestern.edu/userman/whatiswordhoard.html"
+        }, 
+        {
+            "title_full": "Metadata and the Query Potential of the Digital Surrogate", 
+            "url": "http://wordhoard.northwestern.edu/userman/metadata.html"
+        }, 
+        {
+            "title_full": "Working with Very Common and Very Rare Words", 
+            "url": "http://wordhoard.northwestern.edu/userman/commonrare.html"
+        }, 
+        {
+            "title_full": "The Corpora and Tagging Data", 
+            "url": "http://wordhoard.northwestern.edu/userman/corpora.html"
+        }, 
+        {
+            "title_full": "Getting Started", 
+            "url": "http://wordhoard.northwestern.edu/userman/getting-started.html"
+        }, 
+        {
+            "title_full": "The Basics", 
+            "url": "http://wordhoard.northwestern.edu/userman/basics.html"
+        }, 
+        {
+            "title_full": "The Table of Contents Window", 
+            "url": "http://wordhoard.northwestern.edu/userman/table-of-contents.html"
+        }, 
+        {
+            "title_full": "Getting Information about Works", 
+            "url": "http://wordhoard.northwestern.edu/userman/work-info.html"
+        }, 
+        {
+            "title_full": "Displaying and Reading Works", 
+            "url": "http://wordhoard.northwestern.edu/userman/work-window.html"
+        }, 
+        {
+            "title_full": "Getting Information about Words", 
+            "url": "http://wordhoard.northwestern.edu/userman/word-info.html"
+        }, 
+        {
+            "title_full": "Lexicons", 
+            "url": "http://wordhoard.northwestern.edu/userman/lexicon.html"
+        }, 
+        {
+            "title_full": "Getting Information about Lemmas", 
+            "url": "http://wordhoard.northwestern.edu/userman/lemma-info.html"
+        }, 
+        {
+            "title_full": "Parts of Speech and Word Classes", 
+            "url": "http://wordhoard.northwestern.edu/userman/pos-and-wc.html"
+        }, 
+        {
+            "title_full": "Translations, Transliterations and Transcriptions", 
+            "url": "http://wordhoard.northwestern.edu/userman/translations.html"
+        }, 
+        {
+            "title_full": "The Iliad Scholia and E. K. Annotations", 
+            "url": "http://wordhoard.northwestern.edu/userman/scholia.html"
+        }, 
+        {
+            "title_full": "Searching for Words", 
+            "url": "http://wordhoard.northwestern.edu/userman/search-words.html"
+        }, 
+        {
+            "title_full": "Concordances", 
+            "url": "http://wordhoard.northwestern.edu/userman/concordance.html"
+        }, 
+        {
+            "title_full": "Searching for Lemmas", 
+            "url": "http://wordhoard.northwestern.edu/userman/search-lemmas.html"
+        }, 
+        {
+            "title_full": "Searching for Works", 
+            "url": "http://wordhoard.northwestern.edu/userman/search-works.html"
+        }, 
+        {
+            "title_full": "Logging In and Logging Out", 
+            "url": "http://wordhoard.northwestern.edu/userman/login.html"
+        }, 
+        {
+            "title_full": "Managing Accounts", 
+            "url": "http://wordhoard.northwestern.edu/userman/manage-accounts.html"
+        }, 
+        {
+            "title_full": "Introduction to Saved Queries", 
+            "url": "http://wordhoard.northwestern.edu/userman/saved-queries-introduction.html"
+        }, 
+        {
+            "title_full": "Saved Word Queries", 
+            "url": "http://wordhoard.northwestern.edu/userman/saved-word-queries.html"
+        }, 
+        {
+            "title_full": "Saved Bibliographic Queries", 
+            "url": "http://wordhoard.northwestern.edu/userman/saved-work-queries.html"
+        }, 
+        {
+            "title_full": "Introduction to Work and Word Sets", 
+            "url": "http://wordhoard.northwestern.edu/userman/sets-introduction.html"
+        }, 
+        {
+            "title_full": "Work Sets", 
+            "url": "http://wordhoard.northwestern.edu/userman/work-sets.html"
+        }, 
+        {
+            "title_full": "Word Sets", 
+            "url": "http://wordhoard.northwestern.edu/userman/word-sets.html"
+        }, 
+        {
+            "title_full": "Exporting and Importing Sets", 
+            "url": "http://wordhoard.northwestern.edu/userman/export-import-sets.html"
+        }, 
+        {
+            "title_full": "Introduction to Analysis Methods", 
+            "url": "http://wordhoard.northwestern.edu/userman/analysis-intro.html"
+        }, 
+        {
+            "title_full": "Calculator Window", 
+            "url": "http://wordhoard.northwestern.edu/userman/calc-window.html"
+        }, 
+        {
+            "title_full": "Displaying Word Form Lists", 
+            "url": "http://wordhoard.northwestern.edu/userman/analysis-createwordlists.html"
+        }, 
+        {
+            "title_full": "Comparing Word Form Counts", 
+            "url": "http://wordhoard.northwestern.edu/userman/analysis-comparewords.html"
+        }, 
+        {
+            "title_full": "Tracking Word Form Use Over Time", 
+            "url": "http://wordhoard.northwestern.edu/userman/analysis-trackwordovertime.html"
+        }, 
+        {
+            "title_full": "Finding Collocates", 
+            "url": "http://wordhoard.northwestern.edu/userman/analysis-collocates.html"
+        }, 
+        {
+            "title_full": "Finding Multiword Units", 
+            "url": "http://wordhoard.northwestern.edu/userman/analysis-multiwordunits.html"
+        }, 
+        {
+            "title_full": "Comparing Collocates", 
+            "url": "http://wordhoard.northwestern.edu/userman/analysis-comparingcollocates.html"
+        }, 
+        {
+            "title_full": "Comparing Texts", 
+            "url": "http://wordhoard.northwestern.edu/userman/analysis-comparingtexts.html"
+        }, 
+        {
+            "title_full": "Annotations", 
+            "url": "http://wordhoard.northwestern.edu/userman/annotations.html"
+        }, 
+        {
+            "title_full": "Introduction to scripting", 
+            "url": "http://wordhoard.northwestern.edu/userman/scripting-intro.html"
+        }, 
+        {
+            "title_full": "Mathematical functions", 
+            "url": "http://wordhoard.northwestern.edu/userman/scripting-math.html"
+        }, 
+        {
+            "title_full": "Utility functions", 
+            "url": "http://wordhoard.northwestern.edu/userman/scripting-utility.html"
+        }, 
+        {
+            "title_full": "Script example: How many words are unique to each Shakespeare work?", 
+            "url": "http://wordhoard.northwestern.edu/userman/scripting-example.html"
+        }, 
+        {
+            "title_full": "Introduction for Developers", 
+            "url": "http://wordhoard.northwestern.edu/userman/dev-intro.html"
+        }, 
+        {
+            "title_full": "Files and Setup", 
+            "url": "http://wordhoard.northwestern.edu/userman/dev-files.html"
+        }, 
+        {
+            "title_full": "Documents", 
+            "url": "http://wordhoard.northwestern.edu/userman/dev-docs.html"
+        }, 
+        {
+            "title_full": "Installing the Database", 
+            "url": "http://wordhoard.northwestern.edu/userman/install-database.html"
+        }, 
+        {
+            "title_full": "Hibernate changes", 
+            "url": "http://wordhoard.northwestern.edu/userman/hibernatechanges.html"
+        }, 
+        {
+            "title_full": "Building the Source Code", 
+            "url": "http://wordhoard.northwestern.edu/userman/build-source.html"
+        }, 
+        {
+            "title_full": "Building the Static Object Model", 
+            "url": "http://wordhoard.northwestern.edu/userman/build-model.html"
+        }, 
+        {
+            "title_full": "Deployment", 
+            "url": "http://wordhoard.northwestern.edu/userman/deploy.html"
+        }, 
+        {
+            "title_full": "Introduction for Text Developers", 
+            "url": "http://wordhoard.northwestern.edu/userman/text-intro.html"
+        }, 
+        {
+            "title_full": "The Corpora XML File", 
+            "url": "http://wordhoard.northwestern.edu/userman/text-corpus.html"
+        }, 
+        {
+            "title_full": "The Authors XML File", 
+            "url": "http://wordhoard.northwestern.edu/userman/text-author.html"
+        }, 
+        {
+            "title_full": "The Word Classes XML File", 
+            "url": "http://wordhoard.northwestern.edu/userman/text-word-class.html"
+        }, 
+        {
+            "title_full": "Parts of Speech XML File", 
+            "url": "http://wordhoard.northwestern.edu/userman/text-pos.html"
+        }, 
+        {
+            "title_full": "Work XML Files", 
+            "url": "http://wordhoard.northwestern.edu/userman/text-work.html"
+        }, 
+        {
+            "title_full": "Standard Spelling XML Files", 
+            "url": "http://wordhoard.northwestern.edu/userman/text-spelling.html"
+        }, 
+        {
+            "title_full": "The Benson Gloss XML File", 
+            "url": "http://wordhoard.northwestern.edu/userman/text-benson.html"
+        }, 
+        {
+            "title_full": "Translation XML Files", 
+            "url": "http://wordhoard.northwestern.edu/userman/text-tran.html"
+        }, 
+        {
+            "title_full": "Annotation XML Files", 
+            "url": "http://wordhoard.northwestern.edu/userman/text-annotation.html"
+        }, 
+        {
+            "title_full": "The Work Sets XML File", 
+            "url": "http://wordhoard.northwestern.edu/userman/text-work-sets.html"
+        }, 
+        {
+            "title_full": "Martin Mueller's Tagging Data", 
+            "url": "http://wordhoard.northwestern.edu/userman/martin-data.html"
+        }, 
+        {
+            "title_full": "Software Copyrights and Licenses", 
+            "url": "http://wordhoard.northwestern.edu/userman/license.html"
+        }, 
+        {
+            "title_full": "The Texts: Provenance, Copyrights and Licenses", 
+            "url": "http://wordhoard.northwestern.edu/userman/text-license.html"
+        }, 
+        {
+            "title_full": "Version History", 
+            "url": "http://wordhoard.northwestern.edu/userman/version-history.html"
+        }, 
+        {
+            "title_full": "The Mac vs. Windows Wars", 
+            "url": "http://wordhoard.northwestern.edu/userman/wars.html"
+        }, 
+        {
+            "title_full": "NU Deployment Notes", 
+            "url": "http://wordhoard.northwestern.edu/userman/nu-deploy.html"
+        }
+    ], 
+    "title": "WORDHOARD: An application for the close reading and scholarly analysis of deeply tagged texts", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://wordhoard.northwestern.edu/userman/index.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,392 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted on AWOL 25 October 2010. Updated 27 January 2014]. thvproject. it (Thesaurus Herculanensium Voluminum). Il progetto THV (Thesaurus Herculanensium Voluminum) \u00e8 nato con lo scopo di creare uno strumento informatico per la ricerca sui testi custoditi nei papiri greci ercolanesi. Sar\u00e0 possibile effettuare ricerche di parole o parte di esse per opera, per autore o su tutto il corpus che verr\u00e0, periodicamente, arricchito e aggiornato. Per gli studiosi, inoltre, sar\u00e0 possibile intervenire direttamente sui testi aggiungendo le nuove letture. Ogni volta che saranno disponibili nuovi testi da consultare verr\u00e0 data notizia della immissione su questo stesso sito, sul sito del CISPE \"Marcello Gigante\" e nella Papy-List. Testi immessi: PHerc. 182, 1005, 1027, 1065, 1507 sono a cura di Matilde Fiorillo. PHerc. 1055, 1251, 1425, 1418, 1431 (coll. 1-10), 1021 sono a cura di Antonio Parisi. PHerc. 336/1150 \u00e8 a cura di Mariacristina Fimiani. Il progetto \u00e8 stato ideato e realizzato da Gianluca Del Mastro col sostegno del Centro Internazionale per lo studio dei Papiri Ercolanesi \"Marcello Gigante\" a cui si deve il finanziamento del software. L'immissione dei dati \u00e8 curata e finanaziata dal CISPE in collaborazione con la cattedra di Filologia Classica I dell'Universit\u00e0 di W\u00fcrzburg. Realizzazione del software a cura di ARCA di Luciano Fattore e Luca Pelella. Direzione immissione testi: Gianluca Del Mastro (Napoli) e Holger Essler (W\u00fcrzburg). Revisione e verifica dei dati: Gianluca Del Mastro e Antonio Parisi (Napoli); Holger Essler (W\u00fcrzburg).", 
+    "domain": "www.thvproject.it", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "THV (Thesaurus Herculanensium Voluminum)", 
+        "url": "http://www.thvproject.it/newthv/beta/default.asp"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "papyrology", 
+        "Greek", 
+        "Herculaneum", 
+        "Latin", 
+        "thesaurus"
+    ], 
+    "languages": [
+        "it"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6582388627696775982", 
+            "resource_date": "2014-08-03T08:25:50.953-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:30.218457"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/08/thv-thesaurus-herculanensium-voluminum.html", 
+            "resource_date": "2014-08-03T08:25:50.953-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:30.218472"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6582388627696775982", 
+            "resource_date": "2014-08-03T08:25:50.953-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:30.223695"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/08/thv-thesaurus-herculanensium-voluminum.html", 
+            "resource_date": "2014-08-03T08:25:50.953-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:30.223708"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:11:30.226734"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7221107525365885349", 
+            "resource_date": "2014-01-27T16:24:56.419-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:00.740468"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/online-publication-of-thesaurus.html", 
+            "resource_date": "2014-01-27T16:24:56.419-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:00.740484"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:00.898662"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7221107525365885349", 
+            "resource_date": "2014-01-27T16:24:56.419-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:00.746500"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/online-publication-of-thesaurus.html", 
+            "resource_date": "2014-01-27T16:24:56.419-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:00.746512"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:00.902614"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "newthv-beta-default-asp", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "THV (Thesaurus Herculanensium Voluminum)", 
+            "url": "http://www.thvproject.it/newthv/beta/default.asp"
+        }, 
+        {
+            "title_full": "thvproject.it (Thesaurus Herculanensium Voluminum)", 
+            "url": "http://www.thvproject.it/newthv/beta/default.asp"
+        }, 
+        {
+            "title_full": "Demetrius Laco - De anthropomorphia deorum", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=21"
+        }, 
+        {
+            "title_full": "Philodemus - De divitiis", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=31"
+        }, 
+        {
+            "title_full": "Philodemus - De Ira", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=8"
+        }, 
+        {
+            "title_full": "Polystratus - De contemptu", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=19"
+        }, 
+        {
+            "title_full": "Philodemus - De rhetorica", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=16"
+        }, 
+        {
+            "title_full": "Philodemus - De rhetorica", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=20"
+        }, 
+        {
+            "title_full": "Philodemus - De rhetorica", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=29"
+        }, 
+        {
+            "title_full": "Philodemus - De rhetorica", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=30"
+        }, 
+        {
+            "title_full": "Philodemus - Ad contubernales", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=13"
+        }, 
+        {
+            "title_full": "Demetrius Laco - Nonnullae quaestiones de diaeta", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=22"
+        }, 
+        {
+            "title_full": "Philodemus - De vitiis X", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=26"
+        }, 
+        {
+            "title_full": "Demetrio Lacone - Aporie testuali ed esegetiche in Epicuro", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=25"
+        }, 
+        {
+            "title_full": "Demetrius Laco - De poematis", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=27"
+        }, 
+        {
+            "title_full": "Philodemus - Historia Academicorum", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=15"
+        }, 
+        {
+            "title_full": "Carneiscus - Philistas", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=18"
+        }, 
+        {
+            "title_full": "Philodemus - De morte", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=33"
+        }, 
+        {
+            "title_full": "Demetrius Laco - De forma dei", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=17"
+        }, 
+        {
+            "title_full": "Philodemus - De signis", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=11"
+        }, 
+        {
+            "title_full": "Demetrius Laco - De Poematis", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=23"
+        }, 
+        {
+            "title_full": "Philodemus - De electionibus et fugis", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=12"
+        }, 
+        {
+            "title_full": "Philodemus - Pragmateiai", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=7"
+        }, 
+        {
+            "title_full": "Philodemus - De poematis", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=9"
+        }, 
+        {
+            "title_full": "Epicurus - De natura", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=10"
+        }, 
+        {
+            "title_full": "Philodemus - De bono rege secundum Homerum", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=14"
+        }, 
+        {
+            "title_full": "Philodemus - De rhetorica", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=28"
+        }, 
+        {
+            "title_full": "Philodemus - De vitiis (De adulatione)", 
+            "url": "http://www.thvproject.it/newthv/beta/specifiche_papiro.asp?id=24"
+        }
+    ], 
+    "title": "thvproject.it (Thesaurus Herculanensium Voluminum)", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.thvproject.it/newthv/beta/default.asp", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

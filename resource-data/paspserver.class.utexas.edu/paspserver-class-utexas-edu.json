@@ -1,0 +1,108 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "SMID Online. ISSN: 0081-8275. Welcome to the online version of the Studies in Mycenaean Inscriptions and Dialect (SMID). SMID is an analytical bibliography of Mycenaean text studies, including short summaries of scholarly works, cross-references of reviews, and indices of Linear B and Linear A signs, words and texts, as well as a fully cross-referenced subject index. SMID is a unit of the Program in Aegean Scripts and Prehistory in the Department of Classics at The University of Texas at Austin. PASP director Tom Palaima initiated the revival of SMID at the University of Texas at Austin and published the first volume (for the year 1979) in 1995. The database and print format were set up by Elizabeth Sikkenga, the new series' 1st editor & project director. Successors as editor are: Peter van Alfen, Nick Dobson, and Amy Dill. At this website you can search the volumes of SMID that have been published by PASP. Publication was suspended in 2010, leaving three unpublished volumes.", 
+    "domain": "paspserver.class.utexas.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0081-8275"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "bibliography", 
+        "Mycenean", 
+        "journal", 
+        "Linear B", 
+        "Linear A", 
+        "open access"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4234943634105262800", 
+            "resource_date": "2014-01-31T09:42:50.360-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:38.854394"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-smid-online.html", 
+            "resource_date": "2014-01-31T09:42:50.360-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:38.854410"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "paspserver-class-utexas-edu", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Search By Keyword", 
+            "url": "http://paspserver.class.utexas.edu/Default.aspx"
+        }, 
+        {
+            "title_full": "Search By Author", 
+            "url": "http://paspserver.class.utexas.edu/Authors.aspx"
+        }
+    ], 
+    "title": "SMID Online", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://paspserver.class.utexas.edu/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

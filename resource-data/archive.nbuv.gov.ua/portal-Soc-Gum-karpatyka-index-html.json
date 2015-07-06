@@ -1,0 +1,113 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "\u041a\u0430\u0440\u043f\u0430\u0442\u0438\u043a\u0430. \u0432\u0438\u0441\u0432\u0456\u0442\u043b\u0435\u043d\u043d\u044f \u0435\u0442\u043d\u043e\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0438\u0445 \u0456 \u043f\u043e\u043b\u0456\u0442\u0438\u0447\u043d\u0438\u0445 \u043f\u0440\u043e\u0446\u0435\u0441\u0456\u0432, \u0449\u043e \u0432\u0456\u0434\u0431\u0443\u0432\u0430\u043b\u0438\u0441\u044c \u0443 \u041a\u0430\u0440\u043f\u0430\u0442\u043e-\u0414\u0443\u043d\u0430\u0439\u0441\u044c\u043a\u043e\u043c\u0443 \u0430\u0440\u0435\u0430\u043b\u0456, \u0431\u0435\u0437\u043f\u043e\u0441\u0435\u0440\u0435\u0434\u043d\u044c\u043e \u043f\u043e\u0432\u2019\u044f\u0437\u0430\u043d\u0438\u0445 \u0437 \u0434\u0430\u0432\u043d\u044c\u043e\u044e \u0456\u0441\u0442\u043e\u0440\u0456\u0454\u044e \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u043e-\u0421\u0445\u0456\u0434\u043d\u043e\u0457 \u0404\u0432\u0440\u043e\u043f\u0438 Articles in Russian, Ukrainian (and occasionally other languages) with English abstracts.", 
+    "domain": "archive.nbuv.gov.ua", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Ukraine", 
+        "journal", 
+        "Karpatica = Karpatyka", 
+        "archaeology", 
+        "open access"
+    ], 
+    "languages": [
+        "uk"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7098992797489588383", 
+            "resource_date": "2013-02-26T13:50:52.928-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:55.901216"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal_26.html", 
+            "resource_date": "2013-02-26T13:50:52.928-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:55.901233"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "portal-Soc-Gum-karpatyka-index-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "\u0412\u0438\u043f. 40", 
+            "url": "http://archive.nbuv.gov.ua/portal/Soc_Gum/karpatyka/2011_40/index.html"
+        }, 
+        {
+            "title_full": "\u0412\u0438\u043f. 39", 
+            "url": "http://archive.nbuv.gov.ua/portal/Soc_Gum/karpatyka/2010_39/index.html"
+        }, 
+        {
+            "title_full": "\u0412\u0438\u043f. 38", 
+            "url": "http://archive.nbuv.gov.ua/portal/Soc_Gum/karpatyka/2009_38/index.html"
+        }, 
+        {
+            "title_full": "\u0412\u0438\u043f. 37", 
+            "url": "http://archive.nbuv.gov.ua/portal/Soc_Gum/karpatyka/2008_37/zmist.htm"
+        }, 
+        {
+            "title_full": "\u0412\u0438\u043f. 36", 
+            "url": "http://archive.nbuv.gov.ua/portal/Soc_Gum/karpatyka/2007_36/zmist.htm"
+        }
+    ], 
+    "title": "\u041a\u0430\u0440\u043f\u0430\u0442\u0438\u043a\u0430", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://archive.nbuv.gov.ua/portal/Soc_Gum/karpatyka/index.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,257 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Documenta et monumenta Orientis antiqui. ISSN: 0419-5124.", 
+    "domain": "dlib.nyu.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0419-5124"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "issn": "0419-5124", 
+        "title_full": "Documenta et monumenta Orientis antiqui", 
+        "url": "http://dlib.nyu.edu/ancientworld/series/documenta-et-monumenta-orientis-antiqui"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "open access", 
+        "monograph"
+    ], 
+    "languages": [
+        "la"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4181472535401358349", 
+            "resource_date": "2015-05-15T13:20:23.870-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:37.334355"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-documenta.html", 
+            "resource_date": "2015-05-15T13:20:23.870-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:37.334371"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4181472535401358349", 
+            "resource_date": "2015-05-15T13:20:23.870-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:37.336587"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-documenta.html", 
+            "resource_date": "2015-05-15T13:20:23.870-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:37.336598"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:08:37.390626"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "ancientworld-series-documenta-et-monumenta-orientis-antiqui", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Documenta et monumenta Orientis antiqui", 
+            "url": "http://dlib.nyu.edu/ancientworld/series/documenta-et-monumenta-orientis-antiqui"
+        }, 
+        {
+            "title_full": "Palestinian bichrome ware", 
+            "url": "http://dlib.nyu.edu/ancientworld/books/brill_awdl000002"
+        }, 
+        {
+            "title_full": "Brill's ancient world selection", 
+            "url": "http://dlib.nyu.edu/ancientworld/series/brill-s-ancient-world-selection"
+        }, 
+        {
+            "title_full": "Ancient pottery -- Palestine", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2997"
+        }, 
+        {
+            "title_full": "Ancient pottery-- Israel", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2998"
+        }, 
+        {
+            "title_full": "Material culture -- Palestine", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2999"
+        }, 
+        {
+            "title_full": "Palestine -- Antiquities", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/218"
+        }, 
+        {
+            "title_full": "Israel -- Antiquities", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/390"
+        }, 
+        {
+            "title_full": "Hittitology", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2991"
+        }, 
+        {
+            "title_full": "Turkey", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2753"
+        }, 
+        {
+            "title_full": "Hattic language -- Texts", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/169"
+        }, 
+        {
+            "title_full": "Hittite language -- Texts", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/358"
+        }, 
+        {
+            "title_full": "Excavations (Archaeology) -- Israel -- Caesarea", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/504"
+        }, 
+        {
+            "title_full": "Caesarea (Israel) -- Antiquities", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/505"
+        }, 
+        {
+            "title_full": "Papyrology", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3014"
+        }, 
+        {
+            "title_full": "Ancient Judaism", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2944"
+        }, 
+        {
+            "title_full": "Egyptian language -- Papyri", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/158"
+        }, 
+        {
+            "title_full": "Aramaic (Papyri) -- Egypt -- Elephantine", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/160"
+        }, 
+        {
+            "title_full": "Elephantine (Egypt) -- Antiquities", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/161"
+        }, 
+        {
+            "title_full": "Hittite law -- Sources", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/3022"
+        }, 
+        {
+            "title_full": "Book of the Covenant -- Commentaries", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2964"
+        }, 
+        {
+            "title_full": "Hittites -- Kings and rulers", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/359"
+        }, 
+        {
+            "title_full": "Hittite Oracles", 
+            "url": "http://dlib.nyu.edu/ancientworld/subjects/2992"
+        }, 
+        {
+            "title_full": "series from Brill in the Ancient World Digital Library", 
+            "url": "http://dlib.nyu.edu/ancientworld/series/"
+        }
+    ], 
+    "title": "Documenta et monumenta Orientis antiqui", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://dlib.nyu.edu/ancientworld/series/documenta-et-monumenta-orientis-antiqui", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

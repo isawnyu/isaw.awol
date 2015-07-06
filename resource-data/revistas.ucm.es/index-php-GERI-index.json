@@ -1,0 +1,315 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Geri\u00f3n. Revista de Historia Antigua. ISSN 0213-0181. ISSN-e 1988-3080. Se centra en temas relativos a las ciencias de la antig\u00fcedad, con especial dedicaci\u00f3n a la Historia Antigua.", 
+    "domain": "revistas.ucm.es", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0213-0181", 
+                "1988-3080"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "ancient", 
+        "journal", 
+        "antiquity", 
+        "ancient history", 
+        "open access", 
+        "classics", 
+        "Spain", 
+        "history"
+    ], 
+    "languages": [
+        "es"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3027793891964173850", 
+            "resource_date": "2014-10-07T11:50:25.847-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:45.053820"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/10/open-access-journal-gerion-revista-de.html", 
+            "resource_date": "2014-10-07T11:50:25.847-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:45.053835"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "index-php-GERI-index", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Vol 31 (2013)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/2474/showToc"
+        }, 
+        {
+            "title_full": "Vol 30 (2012)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/2382/showToc"
+        }, 
+        {
+            "title_full": "Vol 29, No 2 (2011)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/2308/showToc"
+        }, 
+        {
+            "title_full": "Vol 29, No 1 (2011)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/2245/showToc"
+        }, 
+        {
+            "title_full": "Vol 28, No 2 (2010)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/2101/showToc"
+        }, 
+        {
+            "title_full": "Vol 28, No 1 (2010)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI101012/showToc"
+        }, 
+        {
+            "title_full": "Vol 27, No 2 (2009)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI090922/showToc"
+        }, 
+        {
+            "title_full": "Vol 27, No 1 (2009)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI090912/showToc"
+        }, 
+        {
+            "title_full": "2008: Anejo XII", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/2113/showToc"
+        }, 
+        {
+            "title_full": "Vol 26, No 2 (2008)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI080821/showToc"
+        }, 
+        {
+            "title_full": "Vol 26, No 1 (2008)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI080812/showToc"
+        }, 
+        {
+            "title_full": "2007: Anejo XI", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI070733/showToc"
+        }, 
+        {
+            "title_full": "Vol 25, No 2 (2007)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI070724/showToc"
+        }, 
+        {
+            "title_full": "Vol 25, No 1 (2007)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI070723/showToc"
+        }, 
+        {
+            "title_full": "2007: Extra 1", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI070711/showToc"
+        }, 
+        {
+            "title_full": "2006: Anejo X", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI060633/showToc"
+        }, 
+        {
+            "title_full": "Vol 24, No 2 (2006)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI060622/showToc"
+        }, 
+        {
+            "title_full": "Vol 24, No 1 (2006)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI060612/showToc"
+        }, 
+        {
+            "title_full": "2005: Anejo IX", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI050533/showToc"
+        }, 
+        {
+            "title_full": "Vol 23, No 2 (2005)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI050522/showToc"
+        }, 
+        {
+            "title_full": "Vol 23, No 1 (2005)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI050511/showToc"
+        }, 
+        {
+            "title_full": "Vol 22, No 2 (2004)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI040422/showToc"
+        }, 
+        {
+            "title_full": "Vol 22, No 1 (2004)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI040412/showToc"
+        }, 
+        {
+            "title_full": "2004: Anejo VIII", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI040411/showToc"
+        }, 
+        {
+            "title_full": "Vol 21, No 1 (2003)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI030312/showToc"
+        }, 
+        {
+            "title_full": "2003: Anejo VII", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI030311/showToc"
+        }, 
+        {
+            "title_full": "2002: Anejo VI", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI020233/showToc"
+        }, 
+        {
+            "title_full": "Vol 20, No 2 (2002)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI020222/showToc"
+        }, 
+        {
+            "title_full": "Vol 20, No 1 (2002)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI020212/showToc"
+        }, 
+        {
+            "title_full": "2001: Anejo V", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI010133/showToc"
+        }, 
+        {
+            "title_full": "No 19 (2001)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI010111/showToc"
+        }, 
+        {
+            "title_full": "Vol 18 (2000)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI000012/showToc"
+        }, 
+        {
+            "title_full": "2000: Anejo IV", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI000011/showToc"
+        }, 
+        {
+            "title_full": "Vol 17 (1999)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI999911/showToc"
+        }, 
+        {
+            "title_full": "Vol 16 (1998)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI989811/showToc"
+        }, 
+        {
+            "title_full": "Vol 15 (1997)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI979711/showToc"
+        }, 
+        {
+            "title_full": "Vol 14 (1996)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI969611/showToc"
+        }, 
+        {
+            "title_full": "Vol 13 (1995)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI959511/showToc"
+        }, 
+        {
+            "title_full": "Vol 12 (1994)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI949411/showToc"
+        }, 
+        {
+            "title_full": "Vol 11 (1993)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI939311/showToc"
+        }, 
+        {
+            "title_full": "Vol 10 (1992)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI929211/showToc"
+        }, 
+        {
+            "title_full": "1991: Anejo III", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI919122/showToc"
+        }, 
+        {
+            "title_full": "Vol 9 (1991)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI919112/showToc"
+        }, 
+        {
+            "title_full": "Vol 8 (1990)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI909011/showToc"
+        }, 
+        {
+            "title_full": "1989: Anejo II", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI898922/showToc"
+        }, 
+        {
+            "title_full": "Vol 7 (1989)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI898912/showToc"
+        }, 
+        {
+            "title_full": "1988: Anejo I", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI888822/showToc"
+        }, 
+        {
+            "title_full": "Vol 6 (1988)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI888812/showToc"
+        }, 
+        {
+            "title_full": "Vol 5 (1987)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI878711/showToc"
+        }, 
+        {
+            "title_full": "Vol 4 (1986)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI868611/showToc"
+        }, 
+        {
+            "title_full": "Vol 3 (1985)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI858511/showToc"
+        }, 
+        {
+            "title_full": "Vol 2 (1984)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI848411/showToc"
+        }, 
+        {
+            "title_full": "Vol 1 (1983)", 
+            "url": "http://revistas.ucm.es/index.php/GERI/issue/view/GERI838311/showToc"
+        }
+    ], 
+    "title": "Geri\u00f3n. Revista de Historia Antigua", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://revistas.ucm.es/index.php/GERI/index", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

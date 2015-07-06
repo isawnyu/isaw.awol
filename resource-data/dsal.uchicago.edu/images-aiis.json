@@ -1,0 +1,159 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "American Institute of Indian Studies Center for Art and Archaeology Archive The web presentation of the AIIS photographic archive is a joint venture of the AIIS and the Digital South Asia Library project. The data included been collected and edited by AIIS staff in Gurgaon. Programming and database design have been undertaken by DSAL project staff in Chicago. The original AIIS collection is organized into four separate collections, architecture, sculpture, paintings and numismatics. The web version of the AIIS photograph archive has combined these four collections into one for ease of searching and display. There is an option to limit a search to one or more of these original designations. The architectural database model is designed to provide specific information about an architectural monument: structural details, decorative motifs, technical details, materials, etc. Any monument, structural or rock-cut, that possesses describable architectural features should be analyzed according to fields in this database model. In addition, sculptural and painted details in situ should be described along with the monument itself, using the same architecture model. Rock-cut monuments containing elements that can be described in architectural, sculptural, and painting terms also should be indexed using the architecture model. The sculpture database model is designed to provide detailed analysis of detached round and relief sculpture. The kinds of information contained in the sculpture database model include descriptions of the subjects and iconographical features (attributes, mudras, asanas, and subordinate elements). Detached sculpture from a known monument but now in a public or private collection should be analyzed using the sculpture model. In addition, sculpture lying loose at a site which does not necessarily belong to a monument located at the site also should be analyzed according to the sculpture model. In this latter case, the location should be noted in the PRESENT LOCATION field. The painting database model includes specific fields for analysis of paintings and illustrated folios of manuscripts. Wall paintings (murals and frescoes) that have been removed to public or private collections should be described using the painting model. However, wall paintings in situ (such as those at Ajanta) should be described with the monument where they are located using the architectural model. The numismatic database model is designed to accommodate specific information about coins. The structure of the various databases is rather similar, many of the fields are in all four databases. For the web implemnation we have grouped the following fields together for searching purposes. A subject search will look through data in the following fields: monument, religious affiliation, style, period, patron, index category, subject, context, materials, monument type, medium. A location search will look through data in the following fields: country, state, district, site, monument, complex, present location. A date search will look through data in the following fields: photo date, AIIS period, CE date. An identification number search will look through data in the following fields: accession number, negative number, museum number. An affliation search will look through data in the following fields: documentation reference, photographer, protected by, donor, religious affiliation, patron. The quick search will look through data in the following fields: monument, religious affiliation, style, period, patron, index category, subject, context, materials, monument type, medium, country, state, district, site, monument, complex, present location. All of the information included in this database originally was written on individual index cards. The herculean task of entering the data from the index cards into a database was done by staff at the AIIS offices in Gurgaon under the careful direction of Sushil Sharma.", 
+    "domain": "dsal.uchicago.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "American Institute of Indian Studies Center for Art and Archaeology Archive", 
+        "url": "http://dsal.uchicago.edu/images/aiis/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Indian", 
+        "art", 
+        "archaeology", 
+        "archive"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1092479623412845010", 
+            "resource_date": "2011-05-03T11:19:54.637-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:05:04.990608"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/american-institute-of-indian-studies.html", 
+            "resource_date": "2011-05-03T11:19:54.637-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:05:04.990623"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1092479623412845010", 
+            "resource_date": "2011-05-03T11:19:54.637-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:05:04.999696"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/05/american-institute-of-indian-studies.html", 
+            "resource_date": "2011-05-03T11:19:54.637-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:05:04.999708"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:05:05.001119"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "images-aiis", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "American Institute of Indian Studies Center for Art and Archaeology Archive", 
+            "url": "http://dsal.uchicago.edu/images/aiis/"
+        }
+    ], 
+    "title": "American Institute of Indian Studies Center for Art and Archaeology Archive", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://dsal.uchicago.edu/images/aiis/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

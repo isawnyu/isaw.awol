@@ -1,0 +1,168 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 1 November 2010. Updated 31 December 2014]. Virtual Library on ancient and modern Egypt. Les fonds documentaires sur l\u2019\u00c9gypte, de l\u2019Antiquit\u00e9 \u00e0 l\u2019\u00e9poque contemporaine, sont d\u2019une tr\u00e8s grande richesse. Des centaines de milliers de pi\u00e8ces sont conserv\u00e9es dans les collections publiques et priv\u00e9es: objets arch\u00e9ologiques, manuscrits, photographies, r\u00e9cits de voyages, cartes g\u00e9ographiques, dessins, estampes, tissus, journaux intimes ou de campagnes, m\u00e9moires et correspondances, archives diplomatiques et commerciales, etc. Plusieurs \u00e9tablissements de la R\u00e9gion Provence-Alpes-C\u00f4te d\u2019Azur poss\u00e8dent de remarquables ensembles de documents sur l\u2019\u00c9gypte, E-CORPUS en pr\u00e9sente d\u00e9j\u00e0 quelques uns, d\u2019autres viendront compl\u00e9ter virtuellement cette vaste source d\u2019informations, en une biblioth\u00e8que \u00ab sans murs \u00bb, qu\u2019alimentent \u00e9galement les fonds \u00e9gyptiens de plusieurs \u00e9tablissements en France et \u00e0 l\u2019\u00e9tranger.", 
+    "domain": "www.e-corpus.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Virtual Library on Ancient and Modern Egypt", 
+        "url": "http://www.e-corpus.org/eng/virtualcollections/egyptologie/index.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "ancient", 
+        "Egypt", 
+        "egyptology", 
+        "library", 
+        "France", 
+        "digital library", 
+        "antiquity"
+    ], 
+    "languages": [
+        "fr"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5416168834517418822", 
+            "resource_date": "2014-12-31T09:48:35.090-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:14.154454"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/virtual-library-on-ancient-and-modern.html", 
+            "resource_date": "2014-12-31T09:48:35.090-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:14.154470"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5416168834517418822", 
+            "resource_date": "2014-12-31T09:48:35.090-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:14.158627"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/virtual-library-on-ancient-and-modern.html", 
+            "resource_date": "2014-12-31T09:48:35.090-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:14.158639"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:14.161951"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "eng-virtualcollections-egyptologie-index-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Virtual Library on ancient and modern Egypt", 
+            "url": "http://www.e-corpus.org/eng/virtualcollections/egyptologie/index.html"
+        }, 
+        {
+            "title_full": "E-CORPUS", 
+            "url": "http://www.e-corpus.org/index.php"
+        }
+    ], 
+    "title": "Virtual Library on ancient and modern Egypt", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.e-corpus.org/eng/virtualcollections/egyptologie/index.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

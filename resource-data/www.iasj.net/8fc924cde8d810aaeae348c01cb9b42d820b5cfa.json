@@ -1,0 +1,655 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Athar alrafedain \u0622\u062b\u0627\u0631 \u0627\u0644\u0631\u0627\u0641\u062f\u064a\u0646. ISSN: 2304-103X. Scientific journal looking at the effects of Iraq and the Arab world issued by the Faculty of Archaeology University of Mosul \u0645\u062c\u0644\u0629 \u0639\u0644\u0645\u064a\u0629 \u0645\u062d\u0643\u0645\u0629 \u062a\u0628\u062d\u062b \u0641\u064a \u0622\u062b\u0627\u0631 \u0627\u0644\u0639\u0631\u0627\u0642 \u0648\u0627\u0644\u0648\u0637\u0646 \u0627\u0644\u0639\u0631\u0628\u064a \u062a\u0635\u062f\u0631\u0647\u0627 \u0643\u0644\u064a\u0629 \u0627\u0644\u0622\u062b\u0627\u0631 \u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0648\u0635\u0644.", 
+    "domain": "www.iasj.net", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "2304-103X"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "cuneiform", 
+        "journal", 
+        "Assyria", 
+        "Assyriology", 
+        "Mesopotamia", 
+        "open access", 
+        "Arabic", 
+        "Iraq", 
+        "archaeology"
+    ], 
+    "languages": [
+        "ar"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3453137652093875171", 
+            "resource_date": "2014-08-21T10:46:30.141-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:02.164208"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/new-open-access-journal-athar-alrafedain.html", 
+            "resource_date": "2014-08-21T10:46:30.141-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:02.164223"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "8fc924cde8d810aaeae348c01cb9b42d820b5cfa", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "\u0623.\u062f. \u0639\u0627\u0645\u0631 \u0633\u0644\u064a\u0645\u0627\u0646", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%20%20%20%20%D8%A3.%D8%AF.%20%D8%B9%D8%A7%D9%85%D8%B1%20%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%22&formQuery=au:%22%20%20%20%20%20%20%D8%A3.%D8%AF.%20%D8%B9%D8%A7%D9%85%D8%B1%20%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76812"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76812"
+        }, 
+        {
+            "title_full": "\u0623. \u062f. \u0627\u062d\u0645\u062f \u0642\u0627\u0633\u0645 \u0627\u0644\u062c\u0645\u0639\u0629", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D8%A3.%20%D8%AF.%20%D8%A7%D8%AD%D9%85%D8%AF%20%D9%82%D8%A7%D8%B3%D9%85%20%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9%22&formQuery=au:%22%20%D8%A3.%20%D8%AF.%20%D8%A7%D8%AD%D9%85%D8%AF%20%D9%82%D8%A7%D8%B3%D9%85%20%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76813"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76813"
+        }, 
+        {
+            "title_full": "\u0623. \u062f. \u062c\u0627\u0628\u0631 \u062e\u0644\u064a\u0644 \u0625\u0628\u0631\u0627\u0647\u064a\u0645", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D8%A3.%20%D8%AF.%20%D8%AC%D8%A7%D8%A8%D8%B1%20%D8%AE%D9%84%D9%8A%D9%84%20%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%22&formQuery=au:%22%20%D8%A3.%20%D8%AF.%20%D8%AC%D8%A7%D8%A8%D8%B1%20%D8%AE%D9%84%D9%8A%D9%84%20%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76815"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76815"
+        }, 
+        {
+            "title_full": "\u0623. \u062f. \u0639\u0644\u064a \u064a\u0627\u0633\u064a\u0646 \u0627\u0644\u062c\u0628\u0648\u0631\u064a", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D8%A3.%20%D8%AF.%20%D8%B9%D9%84%D9%8A%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%AC%D8%A8%D9%88%D8%B1%D9%8A%22&formQuery=au:%22%20%D8%A3.%20%D8%AF.%20%D8%B9%D9%84%D9%8A%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%AC%D8%A8%D9%88%D8%B1%D9%8A%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76816"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76816"
+        }, 
+        {
+            "title_full": "\u0623. \u062f. \u0646\u0648\u0627\u0644\u0647 \u0627\u062d\u0645\u062f \u0627\u0644\u0645\u062a\u0648\u0644\u064a", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D8%A3.%20%D8%AF.%20%D9%86%D9%88%D8%A7%D9%84%D9%87%20%D8%A7%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%84%D9%8A%22&formQuery=au:%22%20%D8%A3.%20%D8%AF.%20%D9%86%D9%88%D8%A7%D9%84%D9%87%20%D8%A7%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%84%D9%8A%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76817"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76817"
+        }, 
+        {
+            "title_full": "\u0623. \u062f. \u0623\u062d\u0644\u0627\u0645 \u0633\u0639\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0637\u0627\u0644\u0628\u064a", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%D8%A3.%20%D8%AF.%20%D8%A3%D8%AD%D9%84%D8%A7%D9%85%20%D8%B3%D8%B9%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8%D9%8A%22&formQuery=au:%22%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%D8%A3.%20%D8%AF.%20%D8%A3%D8%AD%D9%84%D8%A7%D9%85%20%D8%B3%D8%B9%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8%D9%8A%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76818"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76818"
+        }, 
+        {
+            "title_full": "\u062f. \u062d\u0633\u064a\u0646 \u0638\u0627\u0647\u0631 \u062d\u0645\u0648\u062f", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D8%AF.%20%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B8%D8%A7%D9%87%D8%B1%20%D8%AD%D9%85%D9%88%D8%AF%22&formQuery=au:%22%20%D8%AF.%20%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B8%D8%A7%D9%87%D8%B1%20%D8%AD%D9%85%D9%88%D8%AF%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76825"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76825"
+        }, 
+        {
+            "title_full": "\u062f. \u0635\u0628\u0627\u062d \u062c\u0627\u0633\u0645 \u0627\u0644\u0634\u0643\u0631\u064a", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D8%AF.%20%D8%B5%D8%A8%D8%A7%D8%AD%20%D8%AC%D8%A7%D8%B3%D9%85%20%D8%A7%D9%84%D8%B4%D9%83%D8%B1%D9%8A%22&formQuery=au:%22%20%D8%AF.%20%D8%B5%D8%A8%D8%A7%D8%AD%20%D8%AC%D8%A7%D8%B3%D9%85%20%D8%A7%D9%84%D8%B4%D9%83%D8%B1%D9%8A%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76830"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76830"
+        }, 
+        {
+            "title_full": "\u062f. \u0627\u062d\u0645\u062f \u0643\u0627\u0645\u0644 \u0645\u062d\u0645\u062f", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%D8%AF.%20%D8%A7%D8%AD%D9%85%D8%AF%20%D9%83%D8%A7%D9%85%D9%84%20%D9%85%D8%AD%D9%85%D8%AF%22&formQuery=au:%22%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%D8%AF.%20%D8%A7%D8%AD%D9%85%D8%AF%20%D9%83%D8%A7%D9%85%D9%84%20%D9%85%D8%AD%D9%85%D8%AF%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76833"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76833"
+        }, 
+        {
+            "title_full": "\u0623. \u0645. \u062f. \u0635\u0641\u0648\u0627\u0646 \u0633\u0627\u0645\u064a \u0633\u0639\u064a\u062f", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D8%A3.%20%D9%85.%20%D8%AF.%20%D8%B5%D9%81%D9%88%D8%A7%D9%86%20%D8%B3%D8%A7%D9%85%D9%8A%20%D8%B3%D8%B9%D9%8A%D8%AF%22&formQuery=au:%22%20%D8%A3.%20%D9%85.%20%D8%AF.%20%D8%B5%D9%81%D9%88%D8%A7%D9%86%20%D8%B3%D8%A7%D9%85%D9%8A%20%D8%B3%D8%B9%D9%8A%D8%AF%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76835"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76835"
+        }, 
+        {
+            "title_full": "\u0623. \u0645. \u062f. \u0645\u0624\u064a\u062f \u0645\u062d\u0645\u062f \u0633\u0644\u064a\u0645\u0627\u0646", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%D8%A3.%20%D9%85.%20%D8%AF.%20%D9%85%D8%A4%D9%8A%D8%AF%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%20%22&formQuery=au:%22%20%20%D8%A3.%20%D9%85.%20%D8%AF.%20%D9%85%D8%A4%D9%8A%D8%AF%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76842"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76842"
+        }, 
+        {
+            "title_full": "\u062f. \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u064a\u0648\u0646\u0633 \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%D8%AF.%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D9%8A%D9%88%D9%86%D8%B3%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%22&formQuery=au:%22%20%20%D8%AF.%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D9%8A%D9%88%D9%86%D8%B3%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76844"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76844"
+        }, 
+        {
+            "title_full": "\u062f. \u0634\u064a\u0645\u0627\u0621 \u0639\u0644\u064a \u0623\u062d\u0645\u062f", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%D8%AF.%20%D8%B4%D9%8A%D9%85%D8%A7%D8%A1%20%D8%B9%D9%84%D9%8A%20%D8%A3%D8%AD%D9%85%D8%AF%22&formQuery=au:%22%20%20%D8%AF.%20%D8%B4%D9%8A%D9%85%D8%A7%D8%A1%20%D8%B9%D9%84%D9%8A%20%D8%A3%D8%AD%D9%85%D8%AF%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76849"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76849"
+        }, 
+        {
+            "title_full": "\u062f. \u062e\u0627\u0644\u062f \u062d\u064a\u062f\u0631 \u0627\u0644\u062d\u0627\u0641\u0638", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D8%AF.%20%D8%AE%D8%A7%D9%84%D8%AF%20%D8%AD%D9%8A%D8%AF%D8%B1%20%D8%A7%D9%84%D8%AD%D8%A7%D9%81%D8%B8%22&formQuery=au:%22%20%D8%AF.%20%D8%AE%D8%A7%D9%84%D8%AF%20%D8%AD%D9%8A%D8%AF%D8%B1%20%D8%A7%D9%84%D8%AD%D8%A7%D9%81%D8%B8%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76852"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76852"
+        }, 
+        {
+            "title_full": "\u062f. \u0623\u0643\u0631\u0645 \u0645\u062d\u0645\u062f \u064a\u062d\u064a\u0649", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D8%AF.%20%D8%A3%D9%83%D8%B1%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%20%D9%8A%D8%AD%D9%8A%D9%89%22&formQuery=au:%22%20%D8%AF.%20%D8%A3%D9%83%D8%B1%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%20%D9%8A%D8%AD%D9%8A%D9%89%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76857"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76857"
+        }, 
+        {
+            "title_full": "\u062f. \u064a\u0627\u0633\u0645\u064a\u0646 \u0639\u0628\u062f\u0627\u0644\u0643\u0631\u064a\u0645 \u0645\u062d\u0645\u062f \u0639\u0644\u064a", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%D8%AF.%20%D9%8A%D8%A7%D8%B3%D9%85%D9%8A%D9%86%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%8A%22&formQuery=au:%22%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%D8%AF.%20%D9%8A%D8%A7%D8%B3%D9%85%D9%8A%D9%86%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%8A%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76866"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76866"
+        }, 
+        {
+            "title_full": "\u0639\u062b\u0645\u0627\u0646 \u063a\u0627\u0646\u0645 \u0645\u062d\u0645\u062f", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D8%BA%D8%A7%D9%86%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%22&formQuery=au:%22%20%20%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D8%BA%D8%A7%D9%86%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76868"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76868"
+        }, 
+        {
+            "title_full": "\u0645. \u062e\u0627\u0644\u062f \u0639\u0644\u064a \u062e\u0637\u0627\u0628", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%D9%85.%20%D8%AE%D8%A7%D9%84%D8%AF%20%D8%B9%D9%84%D9%8A%20%D8%AE%D8%B7%D8%A7%D8%A8%22&formQuery=au:%22%20%20%D9%85.%20%D8%AE%D8%A7%D9%84%D8%AF%20%D8%B9%D9%84%D9%8A%20%D8%AE%D8%B7%D8%A7%D8%A8%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76869"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76869"
+        }, 
+        {
+            "title_full": "\u0645. \u0645\u062d\u0645\u062f \u062d\u0645\u0632\u0629 \u0627\u0644\u0637\u0627\u0626\u064a", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%D9%85.%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%AD%D9%85%D8%B2%D8%A9%20%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A%22&formQuery=au:%22%20%20%D9%85.%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%AD%D9%85%D8%B2%D8%A9%20%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76870"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76870"
+        }, 
+        {
+            "title_full": "\u0635\u0628\u0627\u062d \u062d\u0645\u064a\u062f \u064a\u0648\u0646\u0633", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D8%B5%D8%A8%D8%A7%D8%AD%20%D8%AD%D9%85%D9%8A%D8%AF%20%D9%8A%D9%88%D9%86%D8%B3%22&formQuery=au:%22%20%D8%B5%D8%A8%D8%A7%D8%AD%20%D8%AD%D9%85%D9%8A%D8%AF%20%D9%8A%D9%88%D9%86%D8%B3%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76872"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76872"
+        }, 
+        {
+            "title_full": "\u064a\u0627\u0633\u0645\u064a\u0646 \u064a\u0627\u0633\u064a\u0646 \u0635\u0627\u0644\u062d \u0627\u0644\u062d\u064a\u0627\u0644\u064a", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%20%20%D9%8A%D8%A7%D8%B3%D9%85%D9%8A%D9%86%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D9%84%D9%8A%22&formQuery=au:%22%20%20%20%20%D9%8A%D8%A7%D8%B3%D9%85%D9%8A%D9%86%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D9%84%D9%8A%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76876"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76876"
+        }, 
+        {
+            "title_full": "\u0623\u062d\u0645\u062f \u0645\u064a\u0633\u0631 \u0641\u0627\u0636\u0644", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%D8%A3%D8%AD%D9%85%D8%AF%20%D9%85%D9%8A%D8%B3%D8%B1%20%D9%81%D8%A7%D8%B6%D9%84%22&formQuery=au:%22%20%20%D8%A3%D8%AD%D9%85%D8%AF%20%D9%85%D9%8A%D8%B3%D8%B1%20%D9%81%D8%A7%D8%B6%D9%84%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76879"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76879"
+        }, 
+        {
+            "title_full": "\u0645.\u0645 \u0645\u062d\u0645\u0648\u062f \u062d\u0627\u0645\u062f \u0627\u062d\u0645\u062f \u0627\u0644\u0645\u0639\u0645\u0627\u0631\u064a", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%D9%85.%D9%85%20%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%AD%D8%A7%D9%85%D8%AF%20%D8%A7%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%22&formQuery=au:%22%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%D9%85.%D9%85%20%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%AD%D8%A7%D9%85%D8%AF%20%D8%A7%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76883"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76883"
+        }, 
+        {
+            "title_full": "\u0645.\u0645. \u0647\u064a\u0641\u0627\u0621 \u0623\u062d\u0645\u062f \u0639\u0628\u062f", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%D9%85.%D9%85.%20%D9%87%D9%8A%D9%81%D8%A7%D8%A1%20%D8%A3%D8%AD%D9%85%D8%AF%20%D8%B9%D8%A8%D8%AF%22&formQuery=au:%22%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%D9%85.%D9%85.%20%D9%87%D9%8A%D9%81%D8%A7%D8%A1%20%D8%A3%D8%AD%D9%85%D8%AF%20%D8%B9%D8%A8%D8%AF%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76886"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76886"
+        }, 
+        {
+            "title_full": "\u0645.\u0645. \u0631\u0646\u0627 \u0648\u0639\u062f\u0627\u0644\u0644\u0647 \u0645\u0647\u062f\u064a", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%D9%85.%D9%85.%20%D8%B1%D9%86%D8%A7%20%D9%88%D8%B9%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D9%85%D9%87%D8%AF%D9%8A%22&formQuery=au:%22%20%20%D9%85.%D9%85.%20%D8%B1%D9%86%D8%A7%20%D9%88%D8%B9%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D9%85%D9%87%D8%AF%D9%8A%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76889"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76889"
+        }, 
+        {
+            "title_full": "\u0645. \u0645. \u0648\u0633\u0646 \u0639\u0628\u062f\u0627\u0644\u0645\u0637\u0644\u0628 \u062d\u0633\u0646", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20%D9%85.%20%D9%85.%20%D9%88%D8%B3%D9%86%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%B7%D9%84%D8%A8%20%D8%AD%D8%B3%D9%86%22&formQuery=au:%22%20%20%D9%85.%20%D9%85.%20%D9%88%D8%B3%D9%86%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%B7%D9%84%D8%A8%20%D8%AD%D8%B3%D9%86%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76891"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76891"
+        }, 
+        {
+            "title_full": "Asst.Prof.Dr.Salim.y.Aljuboori", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%20Asst.Prof.Dr.Salim.y.Aljuboori%20%22&formQuery=au:%22%20%20Asst.Prof.Dr.Salim.y.Aljuboori%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=76894"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=76894"
+        }, 
+        {
+            "title_full": "Prof.Dr. Ali.Y.Aljuboori", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22Prof.Dr.%20Ali.Y.Aljuboori%20%22&formQuery=au:%22Prof.Dr.%20Ali.Y.Aljuboori%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69793"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69793"
+        }, 
+        {
+            "title_full": "Amer S. Ibraheem \u0639\u0627\u0645\u0631 \u0633\u0644\u064a\u0645\u0627\u0646 \u0627\u0628\u0631\u0627\u0647\u064a\u0645", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22Amer%20S.%20Ibraheem%20%D8%B9%D8%A7%D9%85%D8%B1%20%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%20%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%22&formQuery=au:%22Amer%20S.%20Ibraheem%20%D8%B9%D8%A7%D9%85%D8%B1%20%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%20%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69367"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69367"
+        }, 
+        {
+            "title_full": "\u0623\u062d\u0645\u062f \u0642\u0627\u0633\u0645 \u0627\u0644\u062c\u0645\u0639\u0629", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D8%A3%D8%AD%D9%85%D8%AF%20%D9%82%D8%A7%D8%B3%D9%85%20%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9%20%20%20%20%20%20%20%20%20%20%22&formQuery=au:%22%20%D8%A3%D8%AD%D9%85%D8%AF%20%D9%82%D8%A7%D8%B3%D9%85%20%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9%20%20%20%20%20%20%20%20%20%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69443"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69443"
+        }, 
+        {
+            "title_full": "\u0623.\u062f. \u062c\u0627\u0628\u0631 \u062e\u0644\u064a\u0644 \u0625\u0628\u0631\u0627\u0647\u064a\u0645", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%D8%A3.%D8%AF.%20%D8%AC%D8%A7%D8%A8%D8%B1%20%D8%AE%D9%84%D9%8A%D9%84%20%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%22&formQuery=au:%22%D8%A3.%D8%AF.%20%D8%AC%D8%A7%D8%A8%D8%B1%20%D8%AE%D9%84%D9%8A%D9%84%20%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69688"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69688"
+        }, 
+        {
+            "title_full": "\u0623. \u062e\u0627\u0644\u062f \u0633\u0627\u0644\u0645 \u0625\u0633\u0645\u0627\u0639\u064a\u0644", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%D8%A3.%20%D8%AE%D8%A7%D9%84%D8%AF%20%D8%B3%D8%A7%D9%84%D9%85%20%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%20%22&formQuery=au:%22%D8%A3.%20%D8%AE%D8%A7%D9%84%D8%AF%20%D8%B3%D8%A7%D9%84%D9%85%20%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69689"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69689"
+        }, 
+        {
+            "title_full": "\u0623.\u0645. \u062f. \u0646\u0648\u0627\u0644\u0629 \u0627\u062d\u0645\u062f \u0627\u0644\u0645\u062a\u0648\u0644\u064a", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%D8%A3.%D9%85.%20%D8%AF.%20%D9%86%D9%88%D8%A7%D9%84%D8%A9%20%D8%A7%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%84%D9%8A%20%22&formQuery=au:%22%D8%A3.%D9%85.%20%D8%AF.%20%D9%86%D9%88%D8%A7%D9%84%D8%A9%20%D8%A7%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%84%D9%8A%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69690"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69690"
+        }, 
+        {
+            "title_full": "\u0627\u0644\u062f\u0643\u062a\u0648\u0631 \u0635\u0628\u0627\u062d \u062c\u0627\u0633\u0645 \u0627\u0644\u0634\u0643\u0631\u064a", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1%20%D8%B5%D8%A8%D8%A7%D8%AD%20%D8%AC%D8%A7%D8%B3%D9%85%20%D8%A7%D9%84%D8%B4%D9%83%D8%B1%D9%8A%20%22&formQuery=au:%22%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1%20%D8%B5%D8%A8%D8%A7%D8%AD%20%D8%AC%D8%A7%D8%B3%D9%85%20%D8%A7%D9%84%D8%B4%D9%83%D8%B1%D9%8A%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69691"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69691"
+        }, 
+        {
+            "title_full": "\u062f. \u0623\u062d\u0645\u062f \u0643\u0627\u0645\u0644 \u0645\u062d\u0645\u062f", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%D8%AF.%20%D8%A3%D8%AD%D9%85%D8%AF%20%D9%83%D8%A7%D9%85%D9%84%20%D9%85%D8%AD%D9%85%D8%AF%20%22&formQuery=au:%22%D8%AF.%20%D8%A3%D8%AD%D9%85%D8%AF%20%D9%83%D8%A7%D9%85%D9%84%20%D9%85%D8%AD%D9%85%D8%AF%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69692"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69692"
+        }, 
+        {
+            "title_full": "\u0623.\u062f.\u063a\u0633\u0627\u0641 \u0637\u0647 \u064a\u0627\u0633\u064a\u0641", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%D8%A3.%D8%AF.%D8%BA%D8%B3%D8%A7%D9%81%20%D8%B7%D9%87%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%81%20%22&formQuery=au:%22%D8%A3.%D8%AF.%D8%BA%D8%B3%D8%A7%D9%81%20%D8%B7%D9%87%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%81%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "\u0623.\u062f.\u0633\u062a\u064a \u0631\u0642\u064a\u0629 \u062d\u0627\u062c \u062a\u0628\u063e", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%D8%A3.%D8%AF.%D8%B3%D8%AA%D9%8A%20%D8%B1%D9%82%D9%8A%D8%A9%20%D8%AD%D8%A7%D8%AC%20%D8%AA%D8%A8%D8%BE%20%22&formQuery=au:%22%D8%A3.%D8%AF.%D8%B3%D8%AA%D9%8A%20%D8%B1%D9%82%D9%8A%D8%A9%20%D8%AD%D8%A7%D8%AC%20%D8%AA%D8%A8%D8%BE%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "\u062c\u0647\u064a\u0646\u0647 \u062d\u0627\u0645\u062f \u062d\u0633\u0627\u0646\u064a", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22.%20%D8%AC%D9%87%D9%8A%D9%86%D9%87%20%D8%AD%D8%A7%D9%85%D8%AF%20%D8%AD%D8%B3%D8%A7%D9%86%D9%8A%20%22&formQuery=au:%22.%20%D8%AC%D9%87%D9%8A%D9%86%D9%87%20%D8%AD%D8%A7%D9%85%D8%AF%20%D8%AD%D8%B3%D8%A7%D9%86%D9%8A%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69694"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69694"
+        }, 
+        {
+            "title_full": "\u0623. \u0645. \u062f. \u0634\u0639\u0644\u0627\u0646 \u0643\u0627\u0645\u0644 \u0627\u0633\u0645\u0627\u0639\u064a\u0644", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%D8%A3.%20%D9%85.%20%D8%AF.%20%D8%B4%D8%B9%D9%84%D8%A7%D9%86%20%D9%83%D8%A7%D9%85%D9%84%20%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%20%22&formQuery=au:%22%D8%A3.%20%D9%85.%20%D8%AF.%20%D8%B4%D8%B9%D9%84%D8%A7%D9%86%20%D9%83%D8%A7%D9%85%D9%84%20%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69695"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69695"
+        }, 
+        {
+            "title_full": "\u0623. \u0645. \u062f. \u0635\u0641\u0648\u0627\u0646 \u0633\u0627\u0645\u064a \u0633\u0639\u064a\u062f", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%D8%A3.%20%D9%85.%20%D8%AF.%20%D8%B5%D9%81%D9%88%D8%A7%D9%86%20%D8%B3%D8%A7%D9%85%D9%8A%20%D8%B3%D8%B9%D9%8A%D8%AF%20%22&formQuery=au:%22%D8%A3.%20%D9%85.%20%D8%AF.%20%D8%B5%D9%81%D9%88%D8%A7%D9%86%20%D8%B3%D8%A7%D9%85%D9%8A%20%D8%B3%D8%B9%D9%8A%D8%AF%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69697"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69697"
+        }, 
+        {
+            "title_full": "\u062f . \u062e\u0627\u0644\u062f \u062d\u064a\u062f\u0631 \u0627\u0644\u062d\u0627\u0641\u0638", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%D8%AF%20.%20%D8%AE%D8%A7%D9%84%D8%AF%20%D8%AD%D9%8A%D8%AF%D8%B1%20%D8%A7%D9%84%D8%AD%D8%A7%D9%81%D8%B8%20%22&formQuery=au:%22%D8%AF%20.%20%D8%AE%D8%A7%D9%84%D8%AF%20%D8%AD%D9%8A%D8%AF%D8%B1%20%D8%A7%D9%84%D8%AD%D8%A7%D9%81%D8%B8%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69698"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69698"
+        }, 
+        {
+            "title_full": "\u062f. \u0625\u064a\u0645\u0627\u0646 \u0647\u0627\u0646\u064a \u0627\u0644\u0639\u0644\u0648\u0634", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D8%AF.%20%D8%A5%D9%8A%D9%85%D8%A7%D9%86%20%D9%87%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D8%B4%22&formQuery=au:%22%20%D8%AF.%20%D8%A5%D9%8A%D9%85%D8%A7%D9%86%20%D9%87%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D8%B4%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69779"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69779"
+        }, 
+        {
+            "title_full": "\u062f. \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u064a\u0648\u0646\u0633 \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D8%AF.%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D9%8A%D9%88%D9%86%D8%B3%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%22&formQuery=au:%22%20%D8%AF.%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D9%8A%D9%88%D9%86%D8%B3%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69780"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69780"
+        }, 
+        {
+            "title_full": "\u0645.\u0645. \u062d\u0633\u0646\u064a\u0646 \u062d\u064a\u062f\u0631 \u0639\u0628\u062f\u0627\u0644\u0648\u0627\u062d\u062f", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D9%85.%D9%85.%20%D8%AD%D8%B3%D9%86%D9%8A%D9%86%20%D8%AD%D9%8A%D8%AF%D8%B1%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF%22&formQuery=au:%22%20%D9%85.%D9%85.%20%D8%AD%D8%B3%D9%86%D9%8A%D9%86%20%D8%AD%D9%8A%D8%AF%D8%B1%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69782"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69782"
+        }, 
+        {
+            "title_full": "\u0645.\u0645 \u063a\u0633\u0627\u0646 \u0645\u0631\u062f\u0627\u0646", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D9%85.%D9%85%20%D8%BA%D8%B3%D8%A7%D9%86%20%D9%85%D8%B1%D8%AF%D8%A7%D9%86%22&formQuery=au:%22%20%D9%85.%D9%85%20%D8%BA%D8%B3%D8%A7%D9%86%20%D9%85%D8%B1%D8%AF%D8%A7%D9%86%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69784"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69784"
+        }, 
+        {
+            "title_full": "\u0645.\u0645 \u064a\u0627\u0633\u0645\u064a\u0646 \u064a\u0627\u0633\u064a\u0646 \u0635\u0627\u0644\u062d", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D9%85.%D9%85%20%D9%8A%D8%A7%D8%B3%D9%85%D9%8A%D9%86%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%B5%D8%A7%D9%84%D8%AD%22&formQuery=au:%22%20%D9%85.%D9%85%20%D9%8A%D8%A7%D8%B3%D9%85%D9%8A%D9%86%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%B5%D8%A7%D9%84%D8%AD%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69787"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69787"
+        }, 
+        {
+            "title_full": "\u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0623\u0645\u064a\u0646 \u0623\u063a\u0627", 
+            "url": "http://www.iasj.net/iasj?func=search&query=au:%22%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A3%D9%85%D9%8A%D9%86%20%D8%A3%D8%BA%D8%A7%20%22&formQuery=au:%22%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A3%D9%85%D9%8A%D9%86%20%D8%A3%D8%BA%D8%A7%20%22&uiLanguage=en"
+        }, 
+        {
+            "title_full": "Fulltext", 
+            "url": "http://www.iasj.net/iasj?func=fulltext&aId=69788"
+        }, 
+        {
+            "title_full": "Export", 
+            "url": "http://www.iasj.net/iasj?func=chooseApplication&resid=69788"
+        }, 
+        {
+            "title_full": "IASN: Iraq Academic Scientific Journals", 
+            "url": "http://www.iasj.net/iasj"
+        }
+    ], 
+    "title": "Athar alrafedain \u0622\u062b\u0627\u0631 \u0627\u0644\u0631\u0627\u0641\u062f\u064a\u0646", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.iasj.net/iasj?func=issues&jId=267&uiLanguage=en", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

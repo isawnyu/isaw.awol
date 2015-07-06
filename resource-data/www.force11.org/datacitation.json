@@ -1,0 +1,220 @@
+{
+    "authors": [
+        "the"
+    ], 
+    "contributors": [], 
+    "description": "Joint Declaration of Data Citation Principles - Created by the.", 
+    "domain": "www.force11.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Joint Declaration of Data Citation Principles", 
+        "url": "http://www.force11.org/datacitation"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "data"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2364395482515972228", 
+            "resource_date": "2014-03-05T12:06:48.861-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:22.605004"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/03/joint-declaration-of-data-citation.html", 
+            "resource_date": "2014-03-05T12:06:48.861-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:22.605020"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2364395482515972228", 
+            "resource_date": "2014-03-05T12:06:48.861-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:22.606980"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/03/joint-declaration-of-data-citation.html", 
+            "resource_date": "2014-03-05T12:06:48.861-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:22.606992"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "authors", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:22.643285"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "datacitation", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Joint Declaration of Data Citation Principles", 
+            "url": "http://www.force11.org/datacitation"
+        }, 
+        {
+            "title_full": "Data Citation Synthesis Group", 
+            "url": "http://www.force11.org/node/4785"
+        }, 
+        {
+            "title_full": "FORCE11", 
+            "url": "http://www.force11.org/about"
+        }, 
+        {
+            "title_full": "Importance Data should be considered legitimate, citable products of research. Data citations should be accorded the same importance in the scholarly record as citations of other research objects, such as publications[ 1 ]", 
+            "url": "http://www.force11.org/node/4772/#ref1"
+        }, 
+        {
+            "title_full": "Credit and Attribution Data citations should facilitate giving scholarly credit and normative and legal attribution to all contributors to the data, recognizing that a single style or mechanism of attribution may not be applicable to all data[ 2 ]", 
+            "url": "http://www.force11.org/node/4772/#ref2"
+        }, 
+        {
+            "title_full": "Evidence In scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited[ 3 ]", 
+            "url": "http://www.force11.org/node/4772/#ref3"
+        }, 
+        {
+            "title_full": "Unique Identification A data citation should include a persistent method for identification that is machine actionable, globally unique, and widely used by a community[ 4 ]", 
+            "url": "http://www.force11.org/node/4772/#ref4"
+        }, 
+        {
+            "title_full": "Access Data citations should facilitate access to the data themselves and to such associated metadata, documentation, code, and other materials, as are necessary for both humans and machines to make informed use of the referenced data[ 5 ]", 
+            "url": "http://www.force11.org/node/4772/#ref5"
+        }, 
+        {
+            "title_full": "Persistence Unique identifiers, and metadata describing the data, and its disposition, should persist -- even beyond the lifespan of the data they describe[ 6 ]", 
+            "url": "http://www.force11.org/datacitation#ref6"
+        }, 
+        {
+            "title_full": "Specificity and Verifiability Data citations should facilitate identification of, access to, and verfication of the specific data that support a claim. Citations or citation metadata should include information about provenance and fixity sufficient to facilitate verfiying that the specific timeslice, version and/or granular portion of data retrieved subsequently is the same as was originally cited[ 7 ]", 
+            "url": "http://www.force11.org/node/4772/#ref7"
+        }, 
+        {
+            "title_full": "Interoperability and flexibility Data citation methods should be sufficiently flexible to accommodate the variant practices among communities, but should not differ so much that they compromise interoperability of data citation practices across communities[ 8 ].. For further information glossary , examples and references", 
+            "url": "http://www.force11.org/node/4772/#ref8"
+        }, 
+        {
+            "title_full": "Interoperability and flexibility Data citation methods should be sufficiently flexible to accommodate the variant practices among communities, but should not differ so much that they compromise interoperability of data citation practices across communities[ 8 ].. For further information glossary , examples and references", 
+            "url": "http://www.force11.org/node/4770"
+        }, 
+        {
+            "title_full": "Interoperability and flexibility Data citation methods should be sufficiently flexible to accommodate the variant practices among communities, but should not differ so much that they compromise interoperability of data citation practices across communities[ 8 ].. For further information glossary , examples and references", 
+            "url": "http://www.force11.org/node/4771"
+        }, 
+        {
+            "title_full": "Interoperability and flexibility Data citation methods should be sufficiently flexible to accommodate the variant practices among communities, but should not differ so much that they compromise interoperability of data citation practices across communities[ 8 ].. For further information glossary , examples and references", 
+            "url": "http://www.force11.org/node/4772"
+        }, 
+        {
+            "title_full": "Add Endorsement", 
+            "url": "http://www.force11.org/node/add/endorsement-all?destination=datacitation/endorsements"
+        }, 
+        {
+            "title_full": "Discussion Forum", 
+            "url": "http://www.force11.org/datacitation#googlegroup"
+        }
+    ], 
+    "title": "Joint Declaration of Data Citation Principles", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.force11.org/datacitation", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

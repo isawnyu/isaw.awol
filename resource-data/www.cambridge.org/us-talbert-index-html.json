@@ -1,0 +1,928 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Rome\u2019s World: The Peutinger Map Reconsidered. Richard J. A. Talbert. Supplementary materials online at Cambridge University Press.", 
+    "domain": "www.cambridge.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Rome\u2019s World: The Peutinger Map Reconsidered", 
+        "url": "http://www.cambridge.org/us/talbert/index.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "atlas", 
+        "maps", 
+        "Rome", 
+        "Italy"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2010937680683481159", 
+            "resource_date": "2012-07-14T08:08:10.517-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:00.289026"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/romes-world-online-supplement.html", 
+            "resource_date": "2012-07-14T08:08:10.517-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:00.289043"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2010937680683481159", 
+            "resource_date": "2012-07-14T08:08:10.517-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:00.293021"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/romes-world-online-supplement.html", 
+            "resource_date": "2012-07-14T08:08:10.517-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:00.293033"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:00.718877"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "us-talbert-index-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Rome\u2019s World: The Peutinger Map Reconsidered", 
+            "url": "http://www.cambridge.org/us/talbert/index.html"
+        }, 
+        {
+            "title_full": "User's Guide", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/intro.html"
+        }, 
+        {
+            "title_full": "Complete list by grid square", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/indexgrid.html"
+        }, 
+        {
+            "title_full": "Complete alphabetical list", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/all-alphabetical.html"
+        }, 
+        {
+            "title_full": "Names and Notices in red ink", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/indexred.html"
+        }, 
+        {
+            "title_full": "Complete list by reference number", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/all-byref.html"
+        }, 
+        {
+            "title_full": "Complete alphabetical listing", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-alphabetical.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-A.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-B.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-C.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-D.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-E.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-F.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-G.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-H.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-I.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-L.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-M.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-N.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-O.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-P.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-Q.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-R.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-S.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-T.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-V.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-X.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-Y.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-Z.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/namesnosymbols-fragmentary.html"
+        }, 
+        {
+            "title_full": "Complete alphabetical listing", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-alphabetical.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-A.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-B.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-C.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-D.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-E.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-F.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-G.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-H.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-I.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-L.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-M.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-N.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-O.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-P.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-Q.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-R.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-S.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-T.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-V.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-Y.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-Z.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V Y Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsnamed-fragmentary.html"
+        }, 
+        {
+            "title_full": "Listing by reference number", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolsunnamed-byref.html"
+        }, 
+        {
+            "title_full": "Listing by reference number", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/unnamedillegible-byref.html"
+        }, 
+        {
+            "title_full": "Complete alphabetical listing", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-alphabetical.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-A.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-B.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-C.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-G.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-H.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-I.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-M.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-N.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-O.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-P.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-R.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-S.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-T.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-V.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C G H I M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatednames-fragmentary.html"
+        }, 
+        {
+            "title_full": "Complete alphabetical listing", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatedsymbolsnamed-alphabetical.html"
+        }, 
+        {
+            "title_full": "Listing by reference number", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/isolatedsymbolsunnamed-byref.html"
+        }, 
+        {
+            "title_full": "Complete alphabetical listing", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-alphabetical.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-A.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-B.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-C.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-D.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-E.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-F.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-G.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-H.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-I.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-L.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-M.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-O.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-P.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-R.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-S.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-T.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-V.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-Z.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M O P R S T V Z missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-fragmentary.html"
+        }, 
+        {
+            "title_full": "Listing by reference number", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/islands-byref.html"
+        }, 
+        {
+            "title_full": "Complete alphabetical listing", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/mountains-alphabetical.html"
+        }, 
+        {
+            "title_full": "Listing by reference number", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/mountains-byref.html"
+        }, 
+        {
+            "title_full": "Complete alphabetical listing", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-alphabetical.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-A.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-B.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-C.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-D.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-E.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-F.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-G.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-H.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-I.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-L.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-M.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-N.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-O.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-P.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-Q.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-R.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-S.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-T.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-V.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-X.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N O P Q R S T V X Z", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/peoples-Z.html"
+        }, 
+        {
+            "title_full": "Complete alphabetical listing", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-alphabetical.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-A.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-B.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-C.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-D.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-E.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-F.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-G.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-H.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-I.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-L.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-M.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-N.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-P.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-R.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-S.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-T.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-V.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F G H I L M N P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/regions-fragmentary.html"
+        }, 
+        {
+            "title_full": "Complete alphabetical listing", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-alphabetical.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-A.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-B.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-C.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-E.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-F.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-G.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-H.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-I.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-L.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-M.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-N.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-O.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-P.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-R.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-S.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-T.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-V.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C E F G H I L M N O P R S T V missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-fragmentary.html"
+        }, 
+        {
+            "title_full": "Listing by reference number", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/rivers-byref.html"
+        }, 
+        {
+            "title_full": "Complete alphabetical listing", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/specialfeaturesnotices-alphabetical.html"
+        }, 
+        {
+            "title_full": "Complete alphabetical listing", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-alphabetical.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-A.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-B.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-C.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-D.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-E.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-F.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-H.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-I.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-L.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-M.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-O.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-P.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-R.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-S.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-T.html"
+        }, 
+        {
+            "title_full": "Alphabetical listings by initial letter: A B C D E F H I L M O P R S T missing or illegible", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-fragmentary.html"
+        }, 
+        {
+            "title_full": "Listing by reference number", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/water-byref.html"
+        }, 
+        {
+            "title_full": "Symbol classification", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/symbolclass.html"
+        }, 
+        {
+            "title_full": "Works cited", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/workscited.html"
+        }, 
+        {
+            "title_full": "BAtlas", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-BAtlas.html"
+        }, 
+        {
+            "title_full": "B\u00fchl", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-Buehl.html"
+        }, 
+        {
+            "title_full": "CIL", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-CIL.html"
+        }, 
+        {
+            "title_full": "IsidChar", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-IsidChar.html"
+        }, 
+        {
+            "title_full": "ItAnt", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-ItAnt.html"
+        }, 
+        {
+            "title_full": "ItBurd", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-ItBurd.html"
+        }, 
+        {
+            "title_full": "ItMarit", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-ItMarit.html"
+        }, 
+        {
+            "title_full": "ItMiller", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-ItMiller.html"
+        }, 
+        {
+            "title_full": "Lozovsky 2000", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-Lozovsky2000.html"
+        }, 
+        {
+            "title_full": "NP", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-NP.html"
+        }, 
+        {
+            "title_full": "Podossinov 2002", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-Podossinov2002.html"
+        }, 
+        {
+            "title_full": "RE", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-RE.html"
+        }, 
+        {
+            "title_full": "TIR Condate", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-TIRCondate.html"
+        }, 
+        {
+            "title_full": "TIR Iudaea", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-TIRIudaea.html"
+        }, 
+        {
+            "title_full": "Names and Features not noted in the Barrington Atlas and Directory", 
+            "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-BAtlasOmitted.html"
+        }
+    ], 
+    "title": "Rome\u2019s World: The Peutinger Map Reconsidered", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.cambridge.org/us/talbert/index.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

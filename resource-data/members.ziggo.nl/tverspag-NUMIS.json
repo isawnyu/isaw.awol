@@ -1,0 +1,500 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 17 October 2009. Updated 3 June 2014]. DIGITAL LIBRARY NUMIS.", 
+    "domain": "members.ziggo.nl", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "DIGITAL LIBRARY NUMIS", 
+        "url": "http://members.ziggo.nl/tverspag/NUMIS/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "digital library", 
+        "bibliography", 
+        "library", 
+        "numismatics"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8527529184931008675", 
+            "resource_date": "2014-06-03T11:43:43.243-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:14:00.697613"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-ancient-numismatics.html", 
+            "resource_date": "2014-06-03T11:43:43.243-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:14:00.697628"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8527529184931008675", 
+            "resource_date": "2014-06-03T11:43:43.243-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:14:00.699799"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-ancient-numismatics.html", 
+            "resource_date": "2014-06-03T11:43:43.243-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:14:00.699811"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:14:00.809858"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "tverspag-NUMIS", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "DIGITAL LIBRARY NUMIS", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/"
+        }, 
+        {
+            "title_full": "instructions", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Contents.htm#Info"
+        }, 
+        {
+            "title_full": "Ancient numismatics", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Ancient.htm#Acg"
+        }, 
+        {
+            "title_full": "Handbooks, general works", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Ancient.htm#Acgh"
+        }, 
+        {
+            "title_full": "Old prints (1500-1800)", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Ancient.htm#Acop"
+        }, 
+        {
+            "title_full": "Collections, catalogues", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Ancient.htm#Acgc"
+        }, 
+        {
+            "title_full": "Iconography, inscriptions, art", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Ancient.htm#Acgi"
+        }, 
+        {
+            "title_full": "Forgeries, imitations", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Ancient.htm#Acgf"
+        }, 
+        {
+            "title_full": "Metrology, weights", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Ancient.htm#Acgm"
+        }, 
+        {
+            "title_full": "Technical aspects", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Ancient.htm#Acgta"
+        }, 
+        {
+            "title_full": "Monetary aspects, coin circulation", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Ancient.htm#Acgma"
+        }, 
+        {
+            "title_full": "Greek coins", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Gc"
+        }, 
+        {
+            "title_full": "Handbooks, general works", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agcgw"
+        }, 
+        {
+            "title_full": "Collections, catalogues", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agcc"
+        }, 
+        {
+            "title_full": "Iconography, legends, art", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agci"
+        }, 
+        {
+            "title_full": "Greek Mainland", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agcg"
+        }, 
+        {
+            "title_full": "Athens", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agca3"
+        }, 
+        {
+            "title_full": "Greek Islands, Crete, Cyprus", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Gcgi"
+        }, 
+        {
+            "title_full": "Macedonia, Thrac e", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agcmt"
+        }, 
+        {
+            "title_full": "Pontus, Bithynia, Paphlagonia , Black Sea", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Gcpb"
+        }, 
+        {
+            "title_full": "Balkans, Illyria, Dacia, Moesia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agcbp"
+        }, 
+        {
+            "title_full": "Magna Graecia, Italy", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agci2"
+        }, 
+        {
+            "title_full": "Sicily", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Gcsi"
+        }, 
+        {
+            "title_full": "Spain", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Gcs"
+        }, 
+        {
+            "title_full": "France, Massilia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Gcf"
+        }, 
+        {
+            "title_full": "Asia Minor, Anatolia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agcma"
+        }, 
+        {
+            "title_full": "Mysia, Lydia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Gcml"
+        }, 
+        {
+            "title_full": "Caria, Lycia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Gccl"
+        }, 
+        {
+            "title_full": "Pamphylia, Cilicia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Gcpc"
+        }, 
+        {
+            "title_full": "Seleucids", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agcse"
+        }, 
+        {
+            "title_full": "Persia, Parthia, Sassanids", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agcpps"
+        }, 
+        {
+            "title_full": "Syria", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Gcs2"
+        }, 
+        {
+            "title_full": "Phoenicia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agcne"
+        }, 
+        {
+            "title_full": "Palestine, Jews, Nabataeans", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Gcpj"
+        }, 
+        {
+            "title_full": "Arabia, Mesopotamia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Gca"
+        }, 
+        {
+            "title_full": "Alexandria, Ptolemies, Egypt", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agcap"
+        }, 
+        {
+            "title_full": "Northern Africa", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agcna"
+        }, 
+        {
+            "title_full": "Bactria, India", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agcb"
+        }, 
+        {
+            "title_full": "Technical aspects, coin production", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Gcta"
+        }, 
+        {
+            "title_full": "Monetary aspects, coin circulation", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Greek.htm#Agcms"
+        }, 
+        {
+            "title_full": "Roman coins", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Rc"
+        }, 
+        {
+            "title_full": "Handbooks, general works", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Rcgw"
+        }, 
+        {
+            "title_full": "Collections, catalogues", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arcc"
+        }, 
+        {
+            "title_full": "Iconography, legends, art", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Rci"
+        }, 
+        {
+            "title_full": "Republican period", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arcrp"
+        }, 
+        {
+            "title_full": "Imperial period", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arcip"
+        }, 
+        {
+            "title_full": "Italy, Rome", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arci2"
+        }, 
+        {
+            "title_full": "France, Gallia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arcf"
+        }, 
+        {
+            "title_full": "Iberian Peninsula", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arcs"
+        }, 
+        {
+            "title_full": "Greece, Thrace, Macedonia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Rcg"
+        }, 
+        {
+            "title_full": "Great Britain", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arcgb"
+        }, 
+        {
+            "title_full": "Netherlands", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arclc"
+        }, 
+        {
+            "title_full": "Belgium", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Rcb"
+        }, 
+        {
+            "title_full": "Germany", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arcga"
+        }, 
+        {
+            "title_full": "Switzerland", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Rcs"
+        }, 
+        {
+            "title_full": "Austria, Slovenia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Rcas"
+        }, 
+        {
+            "title_full": "Central Europe, Balkans", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Rcceb"
+        }, 
+        {
+            "title_full": "Eastern Europe", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Rcee"
+        }, 
+        {
+            "title_full": "Asia Minor", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arct"
+        }, 
+        {
+            "title_full": "Levant, Syria, Arabia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arcne"
+        }, 
+        {
+            "title_full": "Asia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arca"
+        }, 
+        {
+            "title_full": "Egypt & Northern Africa", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Rcna"
+        }, 
+        {
+            "title_full": "Medallions, contorniates", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Rcmc"
+        }, 
+        {
+            "title_full": "Coin jewellery", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arccj"
+        }, 
+        {
+            "title_full": "Technology, coin production", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arcta"
+        }, 
+        {
+            "title_full": "Monetary aspects, coin circulation", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Roman.htm#Arcms"
+        }, 
+        {
+            "title_full": "Celtic coins", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Celtic.htm#Cc"
+        }, 
+        {
+            "title_full": "Handbooks, general works", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Celtic.htm#Ccgt"
+        }, 
+        {
+            "title_full": "France, Gallia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Celtic.htm#Ccg"
+        }, 
+        {
+            "title_full": "Netherlands & Belgium", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Celtic.htm#Cclc"
+        }, 
+        {
+            "title_full": "Alps, Balkans Rhineland, Danube", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Celtic.htm#Ccb"
+        }, 
+        {
+            "title_full": "Cisalpina", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Celtic.htm#Ccap"
+        }, 
+        {
+            "title_full": "Celt-Iberia", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Celtic.htm#Cci"
+        }, 
+        {
+            "title_full": "Great Britain, Iron Age", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Celtic.htm#Ccb2"
+        }, 
+        {
+            "title_full": "Central Europe", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Celtic.htm#Ccce"
+        }, 
+        {
+            "title_full": "Technology", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Celtic.htm#Ccta"
+        }, 
+        {
+            "title_full": "Monetary aspects, coin circulation", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Celtic.htm#Ccms"
+        }, 
+        {
+            "title_full": "Handbooks, general works", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Contents.htm#Bcgw"
+        }, 
+        {
+            "title_full": "Catalogues", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Contents.htm#Bcc"
+        }, 
+        {
+            "title_full": "Emperors", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Contents.htm#Bce"
+        }, 
+        {
+            "title_full": "Eastern Europe, Balkans", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Contents.htm#Bcb"
+        }, 
+        {
+            "title_full": "Italy", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Contents.htm#Bci"
+        }, 
+        {
+            "title_full": "Greece", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Contents.htm#Bcg"
+        }, 
+        {
+            "title_full": "Levant, Syria, Northern Africa", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Contents.htm#Bcl"
+        }, 
+        {
+            "title_full": "Techn ology", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Contents.htm#Bcta"
+        }, 
+        {
+            "title_full": "Monetary aspects, coin circulation", 
+            "url": "http://members.ziggo.nl/tverspag/NUMIS/Contents.htm#Bcms"
+        }
+    ], 
+    "title": "DIGITAL LIBRARY NUMIS", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://members.ziggo.nl/tverspag/NUMIS/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

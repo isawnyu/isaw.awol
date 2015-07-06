@@ -1,0 +1,167 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Konkordanzen zu den Inscriptiones Graecae. In den Jahren 2009 und 2010 wurden vom Seminar f\u00fcr Alte Geschichte/Institut f\u00fcr Epigraphik der Westf\u00e4lischen Wilhelms-Universit\u00e4t in Zusammenarbeit mit der Arbeitsstelle Inscriptiones Graecae an der Berlin-Brandenburgischen Akademie der Wissenschaften zwei online abfragbare Konkordanzen erstellt. Die Konkordanzen werden fortlaufend aktualisiert.", 
+    "domain": "www.ig.uni-muenster.de", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Konkordanzen zu den Inscriptiones Graecae", 
+        "url": "http://www.ig.uni-muenster.de/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "epigraphy", 
+        "Greek", 
+        "inscriptions"
+    ], 
+    "languages": [
+        "de"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7816305231725706904", 
+            "resource_date": "2013-06-14T10:10:00.593-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:55.491649"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/inscriptiones-graecae-konkordanz-ig-seg.html", 
+            "resource_date": "2013-06-14T10:10:00.593-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:55.491663"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7816305231725706904", 
+            "resource_date": "2013-06-14T10:10:00.593-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:55.494387"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/inscriptiones-graecae-konkordanz-ig-seg.html", 
+            "resource_date": "2013-06-14T10:10:00.593-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:55.494398"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:55.501114"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "www-ig-uni-muenster-de", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Konkordanzen zu den Inscriptiones Graecae", 
+            "url": "http://www.ig.uni-muenster.de/"
+        }, 
+        {
+            "title_full": "Konkordanz IG - SEG", 
+            "url": "http://www.ig.uni-muenster.de/igseg.dll"
+        }, 
+        {
+            "title_full": "Konkordanz IG - IG", 
+            "url": "http://www.ig.uni-muenster.de/ig_ig.dll"
+        }
+    ], 
+    "title": "Konkordanzen zu den Inscriptiones Graecae", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.ig.uni-muenster.de/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,95 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "e-ISSN: 1591-2221. Papyrologica Lupiensia \u00e8 una pubblicazione del Dipartimento di Filologia Classica e di Scienze Filosofiche dell'Universit\u00e0 di Lecce e del Centro Interdipartimentale di Studi Papirologici.", 
+    "domain": "siba-ese.unisalento.it", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "1591-2221"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "title_full": "Gli Album del Centro di Studi Papirologici dell'Universit\u00e0 degli Studi di Lecce", 
+        "url": "http://siba-ese.unisalento.it/index.php/albstudpapir"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [], 
+    "languages": [
+        "it"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4185019258883098700", 
+            "resource_date": "2013-10-22T19:28:20.719-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:37.517943"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-publications-from.html", 
+            "resource_date": "2013-10-22T19:28:20.719-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:37.517953"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "index-php-plup", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "Papyrologica Lupiensia", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://siba-ese.unisalento.it/index.php/plup", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

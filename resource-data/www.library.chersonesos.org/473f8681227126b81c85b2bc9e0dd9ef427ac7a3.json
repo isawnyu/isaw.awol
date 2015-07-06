@@ -1,0 +1,877 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f \u0418\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0441\u043a\u043e\u0439 \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u041a\u043e\u043c\u0438\u0441\u0441\u0438\u0438 (Proceedings of the Imperial Archaeological Commission).", 
+    "domain": "www.library.chersonesos.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "empires", 
+        "journal", 
+        "open access", 
+        "archaeology", 
+        "imperial"
+    ], 
+    "languages": [
+        "ru"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3418545545776171770", 
+            "resource_date": "2011-03-10T16:16:54.363-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:07:59.723999"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-journal_10.html", 
+            "resource_date": "2011-03-10T16:16:54.363-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:07:59.724015"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "473f8681227126b81c85b2bc9e0dd9ef427ac7a3", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Volume 1 (1901)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=110&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=110&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 2 (1902)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=111&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=111&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 2, Appendix (1902)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=112&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=112&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 3 (1902)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=113&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=113&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 3, Appendix (1902)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=114&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=114&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 4 (1902)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=115&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=115&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 5 (1903)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=116&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=116&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 5, Appendix (1903)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=117&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=117&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 6 (1904)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=118&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=118&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 6, Appendix (1903)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=119&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=119&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 7 (1903)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=120&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=120&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 8 (1903)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=121&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=121&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 9 (1904)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=122&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=122&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 9, Appendix (1904)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=123&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=123&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 10 (1904)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=124&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=124&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 10, Appendix (1904)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=125&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=125&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 11 (1904)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=126&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=126&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 12 (1904)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=127&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=127&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 13 (1906)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=128&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=128&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 14 (1905)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=129&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=129&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 14, Appendix (1905)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=130&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=130&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 15 (1905)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=131&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=131&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 16 (1905)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=132&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=132&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 16, Appendix (1905)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=133&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=133&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 17 (1905)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=134&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=134&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 18 (1906)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=135&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=135&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 18, Appendix (1906)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=136&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=136&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 19 (1906)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=137&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=137&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 19, Appendix (1906)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=138&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=138&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 20 (1906)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=139&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=139&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 21 (1907)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=140&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=140&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 21, Appendix (1907)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=141&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=141&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 22 (1907)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=142&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=142&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 22, Appendix (1907)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=143&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=143&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 23 (1907)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=144&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=144&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 24 (1907)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=145&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=145&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 25 (1907)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=146&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=146&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 26 (1908)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=147&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=147&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 26, Appendix (1908)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=148&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=148&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 27 (1908)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=149&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=149&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 27, Appendix (1908)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=150&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=150&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 28 (1908)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=151&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=151&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 29 (1909)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=152&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=152&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 30 (1909)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=153&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=153&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 31 (1909)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=154&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=154&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 31, Appendix (1909)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=155&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=155&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 32 (1909)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=156&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=156&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 32, Appendix (1909)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=157&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=157&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 33 (1909)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=158&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=158&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 34 (1910)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=159&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=159&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 34, Appendix (1910)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=160&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=160&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 35 (1910)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=161&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=161&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 36 (1910)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=162&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=162&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 37 (1910)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=163&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=163&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 37, Appendix (1910)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=164&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=164&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 38 (1911)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=165&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=165&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 39 (1911)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=166&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=166&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 39, Appendix (1911)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=167&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=167&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 40 (1911)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=168&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=168&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 41 (1911)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=169&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=169&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 42 (1911)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=170&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=170&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 42, Appendix (1911)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=171&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=171&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 43 (1911)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=172&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=172&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 44 (1912)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=173&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=173&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 44, Appendix (1912)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=174&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=174&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 45 (1912)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=175&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=175&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 46 (1912)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=176&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=176&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 46, Appendix (1912)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=177&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=177&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 47 (1913)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=178&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=178&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 48 (1913)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=179&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=179&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 48, Appendix (1913)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=180&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=180&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 49 (1913)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=181&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=181&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 50 (1913)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=182&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=182&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 50, Appendix (1913)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=183&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=183&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 51 (1914)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=184&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=184&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 52 (1914)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=185&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=185&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 52, Appendix (1914)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=186&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=186&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 53 (1914)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=187&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=187&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 54 (1914)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=188&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=188&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 55 (1914)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=189&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=189&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 56 (1914)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=190&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=190&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 56, Appendix (1914)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=191&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=191&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 57 (1915)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=192&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=192&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 57, Appendix (1915)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=193&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=193&ext=djvu"
+        }, 
+        {
+            "title_full": "Value 58 (1915)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=194&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=194&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 58, Appendix (1915)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=195&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=195&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 59 (1915)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=196&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=196&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 59, Appendix (1915)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=197&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=197&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 60 (1916)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=198&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=198&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 61 (1916)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=199&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=199&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 62 (1916)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=200&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=200&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 63 (1917)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=201&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=201&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 63, Appendix (1916)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=202&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=202&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 64 (1917)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=203&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=203&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 64, Appendix (1917)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=204&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=204&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 65 (1918)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=205&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=205&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 66 (1918)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=206&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=206&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 66, Appendix (1918)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=207&section_code=2"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=207&ext=djvu"
+        }
+    ], 
+    "title": "\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f \u0418\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0441\u043a\u043e\u0439 \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u041a\u043e\u043c\u0438\u0441\u0441\u0438\u0438", 
+    "title_alternates": [], 
+    "title_extended": "\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f \u0418\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0441\u043a\u043e\u0439 \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u041a\u043e\u043c\u0438\u0441\u0441\u0438\u0438 (Proceedings of the Imperial Archaeological Commission)", 
+    "type": null, 
+    "url": "http://www.library.chersonesos.org/showsection.php?section_code=2", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

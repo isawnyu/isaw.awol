@@ -1,0 +1,186 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "ATLA Cooperative Digital Resources Initiative. The Cooperative Digital Resources Initiative of the American Theological Library Association and Association of Theological Schools is a repository of digital resources contributed by member libraries. The creation of CDRI was made possible by a generous grant from the Henry Luce Foundation; it is now an ongoing ATLA program. The CDRI database provides access to digital images of woodcuts, photographs, slides, papyri, coins, maps, postcards, manuscripts, lithographs, sermons, shape-note tune books, and various forms of Christian art, architecture, and iconography. Among the collections are: Ancient Near East:.", 
+    "domain": "www.atla.com", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "ATLA Cooperative Digital Resources Initiative", 
+        "url": "http://www.atla.com/digitalresources/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5041700865425371025", 
+            "resource_date": "2009-12-13T09:09:57.463-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:09:56.783672"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/atla-cooperative-digital-resources.html", 
+            "resource_date": "2009-12-13T09:09:57.463-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:09:56.783688"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5041700865425371025", 
+            "resource_date": "2009-12-13T09:09:57.463-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:09:56.786877"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/atla-cooperative-digital-resources.html", 
+            "resource_date": "2009-12-13T09:09:57.463-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:09:56.786888"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:09:56.803651"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "digitalresources", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "ATLA Cooperative Digital Resources Initiative", 
+            "url": "http://www.atla.com/digitalresources/"
+        }, 
+        {
+            "title_full": "Coins from ancient Greek, Roman, and Byzantine periods (Claremont)", 
+            "url": "http://www.atla.com/digitalresources/#claremont"
+        }, 
+        {
+            "title_full": "ETANA - texts for Ancient Near Eastern studies (Vanderbilt)", 
+            "url": "http://www.atla.com/digitalresources/#vanderbilt3"
+        }, 
+        {
+            "title_full": "Images of the Ancient Near East (Southwestern Baptist)", 
+            "url": "http://www.atla.com/digitalresources/#roberts"
+        }, 
+        {
+            "title_full": "Images of the Holy Land (Merrill Collection/ UTS)", 
+            "url": "http://www.atla.com/digitalresources/#UTS"
+        }, 
+        {
+            "title_full": "Morton Collection of Biblical Artifacts (Midwestern Baptist)", 
+            "url": "http://www.atla.com/digitalresources/#midwest"
+        }, 
+        {
+            "title_full": "Oxyrhynchus Papyri (Colgate Rochester Crozier)", 
+            "url": "http://www.atla.com/digitalresources/#ambrose"
+        }, 
+        {
+            "title_full": "Oxyrhynchus Papyri Manuscript Collection (United Theological Seminary)", 
+            "url": "http://www.atla.com/digitalresources/#poxyutsl"
+        }, 
+        {
+            "title_full": "Selected Photographs of Ancient Near Eastern and Mediterranean Sites (Emory)", 
+            "url": "http://www.atla.com/digitalresources/#pittsfour"
+        }
+    ], 
+    "title": "ATLA Cooperative Digital Resources Initiative", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.atla.com/digitalresources/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,170 @@
+{
+    "authors": [
+        "of this book", 
+        "David Schloen", 
+        "Sandra Schloen"
+    ], 
+    "contributors": [], 
+    "description": "OCHRE: An Online Cultural and Historical Research Environment. by J. David Schloen and Sandra R. Schloen. November 2012. ISBN: 978-1-57506-264-8. THIS book describes an \"Online Cultural and Historical Research. Environment\" (OCHRE) in which scholars can record, integrate, analyze, publish, and preserve their data. OCHRE is a multiproject, multi-user database system that provides a comprehensive. framework for diverse kinds of information at all stages of research. It. can be used for initial data acquisition and storage; for data querying. and analysis; for data presentation and publication; and for long-term. archiving and curation of data. The OCHRE system was designed by. the co-authors of this book, David Schloen and Sandra Schloen. The. software for it was written by Sandra Schloen. Although OCHRE was originally designed to facilitate cultural. and historical research, it can be used equally well in other academic. disciplines. It has a highly generic and flexible structure that can. accommodate any observations and conceptual distinctions a scholar. might make. Thus, it allows researchers to retain their own terminologies. while integrating their data with data recorded using quite. different taxonomies.", 
+    "domain": "ochre.uchicago.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "isbn": {
+            "generic": [
+                "978-1-57506-264-8"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "title_full": "OCHRE: An Online Cultural and Historical Research Environment", 
+        "url": "http://ochre.uchicago.edu/sites/ochre.uchicago.edu/files/uploads/OCHRE%20Manual.pdf"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "environment", 
+        "culture", 
+        "history"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8559122200669023580", 
+            "resource_date": "2014-04-14T12:38:46.242-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:14:02.830075"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/ochre-online-cultural-and-historical.html", 
+            "resource_date": "2014-04-14T12:38:46.242-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:14:02.830090"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8559122200669023580", 
+            "resource_date": "2014-04-14T12:38:46.242-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:14:02.835678"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/ochre-online-cultural-and-historical.html", 
+            "resource_date": "2014-04-14T12:38:46.242-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:14:02.835694"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "authors", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:14:02.837224"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "21d1f22223e950e8d1995980d7b4a0aebf209280", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "OCHRE: An Online Cultural and Historical Research Environment", 
+            "url": "http://ochre.uchicago.edu/sites/ochre.uchicago.edu/files/uploads/OCHRE%20Manual.pdf"
+        }
+    ], 
+    "title": "OCHRE: An Online Cultural and Historical Research Environment", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://ochre.uchicago.edu/sites/ochre.uchicago.edu/files/uploads/OCHRE%20Manual.pdf", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

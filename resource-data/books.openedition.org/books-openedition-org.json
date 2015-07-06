@@ -1,0 +1,91 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "La Biblioth\u00e8que nationale de France est un \u00e9diteur public dont le catalogue compte plus de mille titres. Dans le cadre de sa politique de valorisation des collections, la BnF \u00e9dite des catalogues raisonn\u00e9s et des ouvrages scientifiques destin\u00e9s aux chercheurs et aux professionnels des biblioth\u00e8ques. Ces publications de r\u00e9f\u00e9rence sont le reflet de l\u2019excellence scientifique de l\u2019\u00e9tablissement.", 
+    "domain": "books.openedition.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "\u00c9ditions de la Biblioth\u00e8que nationale de France", 
+        "url": "http://books.openedition.org/editionsbnf"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "book"
+    ], 
+    "languages": [
+        "fr"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2443650188443020686", 
+            "resource_date": "2014-10-29T11:00:17.802-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:25.675234"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/10/editions-de-la-bibliotheque-nationale.html", 
+            "resource_date": "2014-10-29T11:00:17.802-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:25.675246"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "books-openedition-org", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "OpenEdition Books", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://books.openedition.org/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

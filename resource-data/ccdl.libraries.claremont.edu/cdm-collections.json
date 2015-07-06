@@ -1,0 +1,185 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted 1/16/09. Updated 27 October 2013]. The Claremont Colleges Digital Library is serving some interesting open access material relating to antiquity:.", 
+    "domain": "ccdl.libraries.claremont.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Claremont Colleges Digital Library", 
+        "url": "http://ccdl.libraries.claremont.edu/cdm/collections"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "digital library", 
+        "library", 
+        "institutional repository"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3844890379588790433", 
+            "resource_date": "2013-10-27T08:48:50.747-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:25.255784"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/01/claremont-colleges-digital-library.html", 
+            "resource_date": "2013-10-27T08:48:50.747-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:25.255800"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3844890379588790433", 
+            "resource_date": "2013-10-27T08:48:50.747-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:25.257703"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/01/claremont-colleges-digital-library.html", 
+            "resource_date": "2013-10-27T08:48:50.747-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:25.257715"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "title_extended", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:08:25.269048"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "cdm-collections", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "The Claremont Colleges Digital Library", 
+            "url": "http://ccdl.libraries.claremont.edu/cdm/collections"
+        }, 
+        {
+            "title_full": "Antiquities of the Institute for Antiquity and Christianity", 
+            "url": "http://ccdl.libraries.claremont.edu/collection.php?alias=aot"
+        }, 
+        {
+            "title_full": "Bulletin of the Institute for Antiquity and Christianity", 
+            "url": "http://ccdl.libraries.claremont.edu/collection.php?alias=bia"
+        }, 
+        {
+            "title_full": "Campi Phlegraei, Observations on the Volcanoes of the Two Sicilies", 
+            "url": "http://ccdl.libraries.claremont.edu/collection.php?alias=cpo"
+        }, 
+        {
+            "title_full": "Claremont Coptic Encyclopedia", 
+            "url": "http://ccdl.libraries.claremont.edu/collection.php?alias=cce"
+        }, 
+        {
+            "title_full": "Nag Hammadi Archive", 
+            "url": "http://ccdl.libraries.claremont.edu/cdm/landingpage/collection/nha"
+        }, 
+        {
+            "title_full": "Sacred Text Conference Archives", 
+            "url": "http://ccdl.libraries.claremont.edu/collection.php?alias=sac"
+        }
+    ], 
+    "title": "The Claremont Colleges Digital Library", 
+    "title_alternates": [], 
+    "title_extended": "The Claremont Colleges Digital Library", 
+    "type": null, 
+    "url": "http://ccdl.libraries.claremont.edu/cdm/collections", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,812 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 21 April 2009. Updated 16 August 2013]. Zeitschrift der Deutschen Morgenl\u00e4ndischen Gesellschaft. Die \u00e4lteste und weltweit bekannteste Ver\u00f6ffentlichung der DMG ist ihre international zitierte Zeitschrift (ZDMG). Der 1. Band erschien 1847 als ein den gesamten deutschen Sprachraum umfassendes Organ der Orientalistik. Unterbrochen wurde das regelm\u00e4\u00dfige Erscheinen der Zeitschrift nur durch zeitbedingte Wechself\u00e4lle der deutschen Geschichte. Von Anfang an nutzten deutsche und ausl\u00e4ndische Gelehrte die Zeitschrift, um Ergebnisse ihrer Forschungen darzulegen.", 
+    "domain": "menadoc.bibliothek.uni-halle.de", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "German", 
+        "journal", 
+        "ZDMG", 
+        "open access"
+    ], 
+    "languages": [
+        "de"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5246021440721746858", 
+            "resource_date": "2013-08-16T16:18:52.763-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:05.704431"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/04/pen-access-to-journals-of-deutsche.html", 
+            "resource_date": "2013-08-16T16:18:52.763-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:05.704447"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "dmg-periodical-titleinfo-2327", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Bd. 1 (1847)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/2454"
+        }, 
+        {
+            "title_full": "Bd. 2 (1848)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/2849"
+        }, 
+        {
+            "title_full": "Bd. 3 (1849)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/3378"
+        }, 
+        {
+            "title_full": "Bd. 4 (1850)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/3895"
+        }, 
+        {
+            "title_full": "Bd. 5 (1851)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/4448"
+        }, 
+        {
+            "title_full": "Bd. 6 (1852)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/5043"
+        }, 
+        {
+            "title_full": "Bd. 7 (1853)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/5658"
+        }, 
+        {
+            "title_full": "Bd. 8 (1854)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/6323"
+        }, 
+        {
+            "title_full": "Bd. 9 (1855)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/7228"
+        }, 
+        {
+            "title_full": "Bd. 10 (1856)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/8243"
+        }, 
+        {
+            "title_full": "Bd. 11 (1857)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/9260"
+        }, 
+        {
+            "title_full": "Bd. 12 (1858)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/10035"
+        }, 
+        {
+            "title_full": "Bd. 13 (1859)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/10828"
+        }, 
+        {
+            "title_full": "Bd. 14 (1860)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/11598"
+        }, 
+        {
+            "title_full": "Bd. 15 (1861)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/12415"
+        }, 
+        {
+            "title_full": "Bd. 16 (1862)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/13279"
+        }, 
+        {
+            "title_full": "Bd. 17 (1863)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/14134"
+        }, 
+        {
+            "title_full": "Bd. 18 (1864)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/14993"
+        }, 
+        {
+            "title_full": "Bd. 19 (1865)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/15886"
+        }, 
+        {
+            "title_full": "Bd. 20 (1866)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/16641"
+        }, 
+        {
+            "title_full": "Bd. 21 (1867)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/17401"
+        }, 
+        {
+            "title_full": "Bd. 22 (1868)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/18141"
+        }, 
+        {
+            "title_full": "Bd. 23 (1869)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/18964"
+        }, 
+        {
+            "title_full": "Bd. 24 (1870)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/19731"
+        }, 
+        {
+            "title_full": "Bd. 25 (1871)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/21542"
+        }, 
+        {
+            "title_full": "Bd. 26 (1872)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/22304"
+        }, 
+        {
+            "title_full": "Bd. 27 (1873)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/23206"
+        }, 
+        {
+            "title_full": "Bd. 28 (1874)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/23969"
+        }, 
+        {
+            "title_full": "Bd. 29 (1875)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/24738"
+        }, 
+        {
+            "title_full": "Bd. 30 (1876)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/25497"
+        }, 
+        {
+            "title_full": "Bd. 31 (1877)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/26376"
+        }, 
+        {
+            "title_full": "Bd. 32 (1878)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/27260"
+        }, 
+        {
+            "title_full": "Bd. 33 (1879)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/28109"
+        }, 
+        {
+            "title_full": "Bd. 34 (1880)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/28912"
+        }, 
+        {
+            "title_full": "Bd. 35 (1881)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/29773"
+        }, 
+        {
+            "title_full": "Bd. 36 (1882)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/30670"
+        }, 
+        {
+            "title_full": "Bd. 37 (1883)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/31521"
+        }, 
+        {
+            "title_full": "Bd. 38 (1884)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/32214"
+        }, 
+        {
+            "title_full": "Bd. 39 (1885)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/32989"
+        }, 
+        {
+            "title_full": "Bd. 40 (1886)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/33794"
+        }, 
+        {
+            "title_full": "Bd. 41 (1887)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/34643"
+        }, 
+        {
+            "title_full": "Bd. 42 (1888)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/35462"
+        }, 
+        {
+            "title_full": "Bd. 43 (1889)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/36231"
+        }, 
+        {
+            "title_full": "Bd. 44 (1890)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/37018"
+        }, 
+        {
+            "title_full": "Bd. 45 (1891)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/37818"
+        }, 
+        {
+            "title_full": "Bd. 46 (1892)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/38603"
+        }, 
+        {
+            "title_full": "Bd. 47 (1893)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/39460"
+        }, 
+        {
+            "title_full": "Bd. 48 (1894)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/40257"
+        }, 
+        {
+            "title_full": "Bd. 49 (1895)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/41038"
+        }, 
+        {
+            "title_full": "Bd. 50 (1896)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/41851"
+        }, 
+        {
+            "title_full": "Bd. 51 (1897)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/42684"
+        }, 
+        {
+            "title_full": "Bd. 52 (1898)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/43477"
+        }, 
+        {
+            "title_full": "Bd. 53 (1899)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/44318"
+        }, 
+        {
+            "title_full": "Bd. 54 (1900)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/45115"
+        }, 
+        {
+            "title_full": "Bd. 55 (1901)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/45872"
+        }, 
+        {
+            "title_full": "Bd. 56 (1902)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/46665"
+        }, 
+        {
+            "title_full": "Bd. 57 (1903)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/49368"
+        }, 
+        {
+            "title_full": "Bd. 58 (1904)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/50297"
+        }, 
+        {
+            "title_full": "Bd. 59 (1905)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/51362"
+        }, 
+        {
+            "title_full": "Bd. 60 (1906)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/52331"
+        }, 
+        {
+            "title_full": "Bd. 61 (1907)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/53288"
+        }, 
+        {
+            "title_full": "Bd. 62 (1908)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/54345"
+        }, 
+        {
+            "title_full": "Bd. 63 (1909)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/55241"
+        }, 
+        {
+            "title_full": "Bd. 64 (1910)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/56191"
+        }, 
+        {
+            "title_full": "Bd. 65 (1911)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/57104"
+        }, 
+        {
+            "title_full": "Bd. 66 (1912)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/58073"
+        }, 
+        {
+            "title_full": "Bd. 67 (1913)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/58962"
+        }, 
+        {
+            "title_full": "Bd. 68 (1914)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/59859"
+        }, 
+        {
+            "title_full": "Bd. 69 (1915)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/60710"
+        }, 
+        {
+            "title_full": "Bd. 70 (1916)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/61359"
+        }, 
+        {
+            "title_full": "Bd. 71 (1917)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/61998"
+        }, 
+        {
+            "title_full": "Bd. 72 (1918)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/93586"
+        }, 
+        {
+            "title_full": "Bd. 73 (1919)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/64547"
+        }, 
+        {
+            "title_full": "Bd. 74 (1920)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/93587"
+        }, 
+        {
+            "title_full": "Bd. 75 (1921)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/65248"
+        }, 
+        {
+            "title_full": "Bd. 76 (1922)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/93588"
+        }, 
+        {
+            "title_full": "Bd. 77 (1923)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/66109"
+        }, 
+        {
+            "title_full": "Bd. 78 (1924)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/93589"
+        }, 
+        {
+            "title_full": "Bd. 79 (1925)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/66780"
+        }, 
+        {
+            "title_full": "Bd. 80 (1926)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/93590"
+        }, 
+        {
+            "title_full": "Bd. 81 (1927)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/67531"
+        }, 
+        {
+            "title_full": "Bd. 82 (1928)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/93591"
+        }, 
+        {
+            "title_full": "Bd. 83 (1929)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/68534"
+        }, 
+        {
+            "title_full": "Bd. 84 (1930)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/93592"
+        }, 
+        {
+            "title_full": "Bd. 85 (1931)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/69279"
+        }, 
+        {
+            "title_full": "Bd. 86 (1933)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/93593"
+        }, 
+        {
+            "title_full": "Bd. 87 (1934)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/70312"
+        }, 
+        {
+            "title_full": "Bd. 88 (1934)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/70881"
+        }, 
+        {
+            "title_full": "Bd. 89 (1935)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/71316"
+        }, 
+        {
+            "title_full": "Bd. 90 (1936)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/71801"
+        }, 
+        {
+            "title_full": "Bd. 91 (1937)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/72620"
+        }, 
+        {
+            "title_full": "Bd. 92 (1938)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/73473"
+        }, 
+        {
+            "title_full": "Bd. 93 (1939)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/74260"
+        }, 
+        {
+            "title_full": "Bd. 94 (1940)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/74701"
+        }, 
+        {
+            "title_full": "Bd. 95 (1941)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/75194"
+        }, 
+        {
+            "title_full": "Bd. 96 (1942)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/75707"
+        }, 
+        {
+            "title_full": "Bd. 97 (1943)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/76372"
+        }, 
+        {
+            "title_full": "Bd. 98 (1944)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/76765"
+        }, 
+        {
+            "title_full": "Bd. 99 (1945-49)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/77222"
+        }, 
+        {
+            "title_full": "Bd. 100 (1950)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/78174"
+        }, 
+        {
+            "title_full": "Generalindex zur Zeitschrift der Deutschen Morgenl\u00e4ndischen Gesellschaft Band 1 - 100", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/77561"
+        }, 
+        {
+            "title_full": "Bd. 101 (1951)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/78905"
+        }, 
+        {
+            "title_full": "Bd. 102 (1952)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/79396"
+        }, 
+        {
+            "title_full": "Bd. 103 (1953)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/79891"
+        }, 
+        {
+            "title_full": "Bd. 104 (1954)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/80426"
+        }, 
+        {
+            "title_full": "Bd. 105 (1955)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/81009"
+        }, 
+        {
+            "title_full": "Bd. 106 (1956)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/81518"
+        }, 
+        {
+            "title_full": "Bd. 107 (1957)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/82041"
+        }, 
+        {
+            "title_full": "Bd. 108 (1958)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/82780"
+        }, 
+        {
+            "title_full": "Bd. 109 (1959)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/83297"
+        }, 
+        {
+            "title_full": "Bd. 110 (1960)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/83818"
+        }, 
+        {
+            "title_full": "Bd. 111 (1961)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/84329"
+        }, 
+        {
+            "title_full": "Bd. 112 (1962)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/84932"
+        }, 
+        {
+            "title_full": "Bd. 113 (1963)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/85439"
+        }, 
+        {
+            "title_full": "Bd. 114 (1964)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/86202"
+        }, 
+        {
+            "title_full": "Bd. 115 (1965)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/120330"
+        }, 
+        {
+            "title_full": "Bd. 116 (1966)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/86709"
+        }, 
+        {
+            "title_full": "Bd. 117 (1967)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/120835"
+        }, 
+        {
+            "title_full": "Bd. 118 (1968)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/121346"
+        }, 
+        {
+            "title_full": "Bd. 119 (1970)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/121891"
+        }, 
+        {
+            "title_full": "Bd. 120 (1970)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/122396"
+        }, 
+        {
+            "title_full": "Bd. 121 (1971)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/88513"
+        }, 
+        {
+            "title_full": "Bd. 122 (1972)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/89028"
+        }, 
+        {
+            "title_full": "Bd. 123 (1973)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/89547"
+        }, 
+        {
+            "title_full": "Bd. 124 (1974)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/90054"
+        }, 
+        {
+            "title_full": "Bd. 125 (1975)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/90571"
+        }, 
+        {
+            "title_full": "Bd. 126 (1976)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/91090"
+        }, 
+        {
+            "title_full": "Bd. 127 (1977)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/91641"
+        }, 
+        {
+            "title_full": "Bd. 128 (1978)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/92172"
+        }, 
+        {
+            "title_full": "Bd. 129 (1979)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/125536"
+        }, 
+        {
+            "title_full": "Bd. 130 (1980)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/126035"
+        }, 
+        {
+            "title_full": "Generalindex zur Zeitschrift der Deutschen Morgenl\u00e4ndischen Gesellschaft Band 101 - 130", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/128902"
+        }, 
+        {
+            "title_full": "Bd. 131 (1981)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/127387"
+        }, 
+        {
+            "title_full": "Bd. 132 (1982)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/127884"
+        }, 
+        {
+            "title_full": "Bd. 133 (1983)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/128393"
+        }, 
+        {
+            "title_full": "Bd. 134 (1984)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/130309"
+        }, 
+        {
+            "title_full": "Bd. 135 (1985)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/130808"
+        }, 
+        {
+            "title_full": "Bd. 136 (1986)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/131305"
+        }, 
+        {
+            "title_full": "Bd. 137 (1987)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/132040"
+        }, 
+        {
+            "title_full": "Bd. 138 (1988)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/132541"
+        }, 
+        {
+            "title_full": "Bd. 139 (1989)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/133059"
+        }, 
+        {
+            "title_full": "Bd. 140 (1990)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/134371"
+        }, 
+        {
+            "title_full": "Bd. 141 (1991)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/135542"
+        }, 
+        {
+            "title_full": "Bd. 142 (1992)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/136078"
+        }, 
+        {
+            "title_full": "Bd. 143 (1993)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/137391"
+        }, 
+        {
+            "title_full": "Bd. 144 (1994)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/137893"
+        }, 
+        {
+            "title_full": "Bd. 145 (1995)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/138981"
+        }, 
+        {
+            "title_full": "Bd. 146 (1996)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/139481"
+        }, 
+        {
+            "title_full": "Bd. 147 (1997)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/140297"
+        }, 
+        {
+            "title_full": "Bd. 148 (1998)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/140901"
+        }, 
+        {
+            "title_full": "Bd. 149 (1999)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/142070"
+        }, 
+        {
+            "title_full": "Bd. 150 (2000)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/142597"
+        }, 
+        {
+            "title_full": "Bd. 151 (2001)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/143379"
+        }, 
+        {
+            "title_full": "Bd. 152 (2002)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/143889"
+        }, 
+        {
+            "title_full": "Bd. 153 (2003)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/144395"
+        }, 
+        {
+            "title_full": "Bd. 154 (2004)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/144945"
+        }, 
+        {
+            "title_full": "Bd. 155 (2005)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/145490"
+        }, 
+        {
+            "title_full": "Bd. 156 (2006)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/883662"
+        }, 
+        {
+            "title_full": "Bd. 157 (2007)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/1135426"
+        }, 
+        {
+            "title_full": "Jahresbericht 1845 - 1846", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/118565"
+        }, 
+        {
+            "title_full": "Jahresbericht 1859 - 1861", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/118994"
+        }, 
+        {
+            "title_full": "Jahresbericht 1876 - 1877", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/119386"
+        }, 
+        {
+            "title_full": "Jahresbericht 1874 - 1875", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/119321"
+        }, 
+        {
+            "title_full": "Jahresbericht 1879", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/119729"
+        }, 
+        {
+            "title_full": "Jahresbericht 1880", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/119926"
+        }, 
+        {
+            "title_full": "Jahresbericht 1881", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/120163"
+        }, 
+        {
+            "title_full": "Supplement I, 1: XVII. Deutscher Orientalistentag (1968)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/87200"
+        }, 
+        {
+            "title_full": "Supplement I, 2: XVII. Deutscher Orientalistentag (1968)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/87623"
+        }, 
+        {
+            "title_full": "Supplement I, 3: XVII. Deutscher Orientalistentag (1968)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/88074"
+        }, 
+        {
+            "title_full": "Supplement II: XVIII. Deutscher Orientalistentag (1972)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/122909"
+        }, 
+        {
+            "title_full": "Supplement III, 1: XIX. Deutscher Orientalistentag (1975)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/123674"
+        }, 
+        {
+            "title_full": "Supplement III, 2: XIX. Deutscher Orientalistentag (1975)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/124571"
+        }, 
+        {
+            "title_full": "Supplement IV: XX. Deutscher Orientalistentag (1977)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/126776"
+        }, 
+        {
+            "title_full": "Supplement V: XXI. Deutscher Orientalistentag (1980)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/129371"
+        }, 
+        {
+            "title_full": "Supplement VI: XXII. Deutscher Orientalistentag (1983)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/129824"
+        }, 
+        {
+            "title_full": "Supplement VII: XXIII. Deutscher Orientalistentag (1985)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/133638"
+        }, 
+        {
+            "title_full": "Supplement VIII: XXIV. Deutscher Orientalistentag (1988)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/134881"
+        }, 
+        {
+            "title_full": "Supplement IX: XXXII. International Congress for Asian and North African Studies (1986)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/136584"
+        }, 
+        {
+            "title_full": "Supplement X: XXV. Deutscher Orientalistentag (1991)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/138396"
+        }, 
+        {
+            "title_full": "Supplement XI: XXVI. Deutscher Orientalistentag (1995)", 
+            "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/141411"
+        }
+    ], 
+    "title": "Zeitschrift der Deutschen Morgenl\u00e4ndischen Gesellschaft", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/titleinfo/2327", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

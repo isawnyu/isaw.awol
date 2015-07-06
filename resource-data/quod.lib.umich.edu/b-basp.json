@@ -1,0 +1,647 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 2 July 2009. Updated 23 March 2015]. The Bulletin of the American Society of Papyrologists. ISSN 0003-1186 (Print). ISSN 1938-6958 (Online). The Bulletin of the American Society of Papyrologists has been the official journal of the American Society of Papyrologists since the publication of Volume 1, issue 1 in 1963 and is the only North American journal devoted to papyrology and related disciplines. This website makes all issues of BASP available electronically, except the two most recent issues. BASP publishes a wide variety of articles and reviews of relevance to papyrology and related disciplines. From text editions to important synthetic articles, BASP has published studies on papyri, ostraca, and inscriptions in Greek, Latin, and Coptic. In the future, BASP will broaden its coverage to include Hieratic, Demotic, Aramaic, and Arabic texts.", 
+    "domain": "quod.lib.umich.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "1938-6958"
+            ], 
+            "generic": [
+                "0003-1186"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "ASP", 
+        "BASP", 
+        "Egypt", 
+        "journal", 
+        "open access", 
+        "papyrology"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7307204612548551227", 
+            "resource_date": "2015-03-23T11:28:35.095-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:03.743098"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/07/open-access-journal-bulletin-of.html", 
+            "resource_date": "2015-03-23T11:28:35.095-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:03.743114"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "b-basp", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Volume 50 (2013)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0050.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 49 (2012)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0049.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 48 (2011)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0048.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 47 (2010)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0047.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 46 (2009)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0046.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 45 (2008)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0045.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 44 (2007)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0044.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 43 (2006)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0043.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 42 Volume 42 Issue 1-4 (2005)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0042?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 42 Issue 1-4 (2005)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0042.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 41 Volume 41 Issue 1-4 (2004)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0041?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 41 Issue 1-4 (2004)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0041.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 40 Volume 40 Issue 1-4 (2003)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0040?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 40 Issue 1-4 (2003)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0040.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 39 Volume 39 Issue 1-4 (2002)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0039?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 39 Issue 1-4 (2002)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0039.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 38 Volume 38 Issue 1-4 (2001)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0038?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 38 Issue 1-4 (2001)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0038.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 37 Volume 37 Issue 1-4 (2000)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0037?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 37 Issue 1-4 (2000)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0037.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 36 Volume 36 Issue 1-4 (1999)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0036?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 36 Issue 1-4 (1999)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0036.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 35 Volume 35 Issue 3-4 (1998) Volume 35 Issue 1-2 (1998)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0035?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 35 Issue 3-4 (1998)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0035.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 35 Issue 1-2 (1998)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0035.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 34 Volume 34 Issue 1-4 (1997)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0034?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 34 Issue 1-4 (1997)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0034.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 33 Volume 33 Issue 1-4 (1996)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0033?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 33 Issue 1-4 (1996)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0033.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 32 Volume 32 Issue 3-4 (1995) Volume 32 Issue 1-2 (1995)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0032?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 32 Issue 3-4 (1995)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0032.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 32 Issue 1-2 (1995)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0032.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 31 Volume 31 Issue 3-4 (1994) Volume 31 Issue 1-2 (1994)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0031?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 31 Issue 3-4 (1994)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0031.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 31 Issue 1-2 (1994)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0031.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 30 Volume 30 Issue 3-4 (1993) Volume 30 Issue 1-2 (1993)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0030?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 30 Issue 3-4 (1993)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0030.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 30 Issue 1-2 (1993)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0030.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 29 Volume 29 Issue 3-4 (1992) Volume 29 Issue 1-2 (1992)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0029?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 29 Issue 3-4 (1992)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0029.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 29 Issue 1-2 (1992)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0029.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 28 Volume 28 Issue 3-4 (1991) Volume 28 Issue 1-2 (1991)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0028?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 28 Issue 3-4 (1991)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0028.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 28 Issue 1-2 (1991)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0028.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 27 Volume 27 Issue 1-4 : Studies in Late Antiquity (1990)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0027?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 27 Issue 1-4 : Studies in Late Antiquity (1990)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0027.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 26 Volume 26 Issue 3-4 : Comparative Approaches to the Social History of Roman Egypt (1989) Volume 26 Issue 1-2 (1989)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0026?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 26 Issue 3-4 : Comparative Approaches to the Social History of Roman Egypt (1989)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0026.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 26 Issue 1-2 (1989)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0026.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 25 Volume 25 Issue 1-4 (1988)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0025?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 25 Issue 1-4 (1988)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0025.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 24 Volume 24 Issue 3-4 (1987) Volume 24 Issue 1-2 (1987)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0024?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 24 Issue 3-4 (1987)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0024.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 24 Issue 1-2 (1987)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0024.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 23 Volume 23 Issue 3-4 (1986) Volume 23 Issue 1-2 (1986)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0023?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 23 Issue 3-4 (1986)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0023.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 23 Issue 1-2 (1986)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0023.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 22 Volume 22 Issue 1-4 : Classical Studies Presented to William Hailey Willis on the Occasion of his Retirement from Duke University (1985)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0022?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 22 Issue 1-4 : Classical Studies Presented to William Hailey Willis on the Occasion of his Retirement from Duke University (1985)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0022.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 21 Volume 21 Issue 1-4 (1984)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0021?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 21 Issue 1-4 (1984)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0021.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 20 Volume 20 Issue 3-4 (1983) Volume 20 Issue 1-2 (1983)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0020?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 20 Issue 3-4 (1983)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0020.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 20 Issue 1-2 (1983)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0020.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 19 Volume 19 Issue 3-4 (1982) Volume 19 Issue 1-2 (1982)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0019?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 19 Issue 3-4 (1982)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0019.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 19 Issue 1-2 (1982)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0019.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 18 Volume 18 Issue 3-4 (1981) Volume 18 Issue 1-2 (1981)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0018?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 18 Issue 3-4 (1981)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0018.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 18 Issue 1-2 (1981)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0018.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 17 Volume 17 Issue 3-4 (1980) Volume 17 Issue 1-2 (1980)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0017?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 17 Issue 3-4 (1980)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0017.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 17 Issue 1-2 (1980)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0017.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 16 Volume 16 Issue 4 (1979) Volume 16 Issue 3 (1979) Volume 16 Issue 1-2 : Studies Presented to Orsamus M. Pearl (1979)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0016?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 16 Issue 4 (1979)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0016.004?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 16 Issue 3 (1979)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0016.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 16 Issue 1-2 : Studies Presented to Orsamus M. Pearl (1979)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0016.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 15 Volume 15 Issue 4 (1978) Volume 15 Issue 3 (1978) Volume 15 Issue 1-2 : Studies Presented to Naphtali Lewis (1978)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0015?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 15 Issue 4 (1978)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0015.004?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 15 Issue 3 (1978)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0015.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 15 Issue 1-2 : Studies Presented to Naphtali Lewis (1978)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0015.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 14 Volume 14 Issue 4 (1977) Volume 14 Issue 3 (1977) Volume 14 Issue 2 (1977) Volume 14 Issue 1 (1977)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0014?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 14 Issue 4 (1977)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0014.004?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 14 Issue 3 (1977)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0014.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 14 Issue 2 (1977)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0014.002?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 14 Issue 1 (1977)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0014.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 13 Volume 13 Issue 4 (1976) Volume 13 Issue 3 (1976) Volume 13 Issue 2 (1976) Volume 13 Issue 1 (1976)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0013?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 13 Issue 4 (1976)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0013.004?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 13 Issue 3 (1976)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0013.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 13 Issue 2 (1976)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0013.002?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 13 Issue 1 (1976)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0013.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 12 Volume 12 Issue 4 (1975) Volume 12 Issue 3 (1975) Volume 12 Issue 2 (1975) Volume 12 Issue 1 (1975)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0012?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 12 Issue 4 (1975)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0012.004?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 12 Issue 3 (1975)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0012.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 12 Issue 2 (1975)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0012.002?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 12 Issue 1 (1975)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0012.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 11 Volume 11 Issue 2-4 (1974) Volume 11 Issue 1 (1974)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0011?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 11 Issue 2-4 (1974)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0011.002?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 11 Issue 1 (1974)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0011.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 10 Volume 10 Issue 1-4 (1973)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0010?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 10 Issue 1-4 (1973)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0010.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 9 Volume 9 Issue 3-4 (1972) Volume 9 Issue 1-2 (October 1972)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0009?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 9 Issue 3-4 (1972)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0009.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 9 Issue 1-2 (October 1972)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0009.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 8 Volume 8 Issue 4 ( December 1971) Volume 8 Issue 2-3 (October 1971) Volume 8 Issue 1 (April 1971)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0008?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 8 Issue 4 ( December 1971)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0008.004?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 8 Issue 2-3 (October 1971)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0008.002?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 8 Issue 1 (April 1971)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0008.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 7 Volume 7 Issue 4 (December 1970) Volume 7 Issue 2-3 (October 1970) Volume 7 Issue 1 (June 1970)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0007?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 7 Issue 4 (December 1970)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0007.004?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 7 Issue 2-3 (October 1970)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0007.002?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 7 Issue 1 (June 1970)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0007.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 6 Volume 6 Issue 3-4 (December 1969) Volume 6 Issue 2 ( July 1969) Volume 6 Issue 1 (April 1969)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0006?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 6 Issue 3-4 (December 1969)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0006.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 6 Issue 2 ( July 1969)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0006.002?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 6 Issue 1 (April 1969)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0006.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 5 Volume 5 Issue 4 (December 1968) Volume 5 Issue 2-3 (October 1968) Volume 5 Issue 1 (March 1968)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0005?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 5 Issue 4 (December 1968)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0005.004?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 5 Issue 2-3 (October 1968)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0005.002?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 5 Issue 1 (March 1968)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0005.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 4 Volume 4 Issue 4 (December 1967) Volume 4 Issue 3 (October 1967) Volume 4 Issue 2 (July 1967) Volume 4 Issue 1 (April 1967)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0004?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 4 Issue 4 (December 1967)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0004.004?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 4 Issue 3 (October 1967)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0004.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 4 Issue 2 (July 1967)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0004.002?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 4 Issue 1 (April 1967)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0004.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 3 Volume 3 Issue 4 (December 1966) Volume 3 Issue 3 (August 1966) Volume 3 Issue 2 (February 1966) Volume 3 Issue 1 (November 1965)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 3 Issue 4 (December 1966)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0003.004?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 3 Issue 3 (August 1966)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0003.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 3 Issue 2 (February 1966)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0003.002?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 3 Issue 1 (November 1965)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0003.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 2 Volume 2 Issue 3 (June 1965) Volume 2 Issue 2 (February 1965) Volume 2 Issue 1 (October 1964)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0002?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 2 Issue 3 (June 1965)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0002.003?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 2 Issue 2 (February 1965)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0002.002?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 2 Issue 1 (October 1964)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0002.001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 1 Volume 1 Issue 1 (1963-4)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0001?rgn=full+text"
+        }, 
+        {
+            "title_full": "Volume 1 Issue 1 (1963-4)", 
+            "url": "http://quod.lib.umich.edu/b/basp/0599796.0001.001?rgn=full+text"
+        }
+    ], 
+    "title": "The Bulletin of the American Society of Papyrologists", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://quod.lib.umich.edu/b/basp/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

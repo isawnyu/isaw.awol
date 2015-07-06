@@ -1,0 +1,164 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Classical Art Research Centre Extensible Database (XDB). You may only use the Classical Art Research Centre databases for academic / research purposes. No part of the database whether image, text or program may be reproduced for any purpose. Use of the database is logged and monitored regularly. The University of Oxford (Classical Art Research Centre) holds copyright on all data presented here. Images have been protected by registration software (Netimage, France) and digital fingerprinting (Datamark, UK and IBM, US). Attempting to reproduce or alter an image in any way is an offence punishable under international law. You may continue to search the Classical Art Research Centre databases without logging in or if you want to preserve your Photograph Album for future sessions you may register and login to your account. Login to your account or Register a new account Please note, you must have cookies enabled on your browser in order for this site to operate correctly. In order to see the images you must also enable JAVA and ensure that any firewall you have allows both ports 80 and 81 through. If you wish to suggest additions or corrections to the database, please contact the Database Director, Dr. T. Mannack. Email: Tel: +44 1865 278084. Classical Art Research Centre is not able to reply to requests for photographs of objects, nor can it give permission for images to be reproduced in any form. Such requests must be directed to the museum or collection owning the object.", 
+    "domain": "www.beazley.ox.ac.uk", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Classical Art Research Centre Extensible Database (XDB)", 
+        "url": "http://www.beazley.ox.ac.uk/XDB/ASP/default.asp"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "art", 
+        "classics", 
+        "data", 
+        "database"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7867759901175429739", 
+            "resource_date": "2012-06-04T19:36:57.658-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:58.747696"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/classical-art-research-centre.html", 
+            "resource_date": "2012-06-04T19:36:57.658-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:58.747712"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7867759901175429739", 
+            "resource_date": "2012-06-04T19:36:57.658-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:58.753245"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/classical-art-research-centre.html", 
+            "resource_date": "2012-06-04T19:36:57.658-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:58.753257"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:58.756175"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "XDB-ASP-default-asp", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Classical Art Research Centre Extensible Database (XDB)", 
+            "url": "http://www.beazley.ox.ac.uk/XDB/ASP/default.asp"
+        }, 
+        {
+            "title_full": "Login to your account or Register a new account", 
+            "url": "https://www.beazley.ox.ac.uk/XDB/ASP/defaultLogin.asp"
+        }
+    ], 
+    "title": "Classical Art Research Centre Extensible Database (XDB)", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.beazley.ox.ac.uk/XDB/ASP/default.asp", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

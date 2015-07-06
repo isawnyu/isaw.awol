@@ -1,0 +1,177 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "HAEMUS: An electronic journal for the history and archaeology of the Balkan peninsula. ISSN: 1857- 8411.", 
+    "domain": "haemus.mk", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1857--8411"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "title_full": "HAEMUS: An electronic journal for the history and archaeology of the Balkan peninsula", 
+        "url": "http://haemus.mk/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "FYROM", 
+        "Macedonia", 
+        "archaeology", 
+        "Balkans", 
+        "open access", 
+        "journal", 
+        "history"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5195264465974389787", 
+            "resource_date": "2014-04-22T12:26:44.084-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:04.732945"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/new-open-access-journal-haemus-call-for.html", 
+            "resource_date": "2014-04-22T12:26:44.084-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:04.732961"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5195264465974389787", 
+            "resource_date": "2014-04-22T12:26:44.084-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:04.736981"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/new-open-access-journal-haemus-call-for.html", 
+            "resource_date": "2014-04-22T12:26:44.084-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:04.736993"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:04.741493"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "haemus-mk", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "HAEMUS: An electronic journal for the history and archaeology of the Balkan peninsula", 
+            "url": "http://haemus.mk/"
+        }, 
+        {
+            "title_full": "HAEMUS journal Vol.1 (2012)", 
+            "url": "http://haemus.mk/haemus-journal-vol-1-2012/"
+        }, 
+        {
+            "title_full": "HAEMS Journal Vol. 3 (2014)", 
+            "url": "http://haemus.mk/haemus-journal-vol-3-2014-call-for-papers/"
+        }
+    ], 
+    "title": "HAEMUS: An electronic journal for the history and archaeology of the Balkan peninsula", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://haemus.mk/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

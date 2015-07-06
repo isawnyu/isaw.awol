@@ -1,0 +1,1082 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "About Roman Emperors. This dataset provides: Linked Data about Roman Emperors. Primary URI for this dataset (permalink): http://www. paregorios. org/resources/roman-emperors/.", 
+    "domain": "www.paregorios.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "About Roman Emperors", 
+        "url": "http://www.paregorios.org/resources/roman-emperors/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Roman", 
+        "data"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8612786438069759480", 
+            "resource_date": "2012-06-24T14:41:45.789-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:14:09.547389"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/linked-data-about-roman-emperors.html", 
+            "resource_date": "2012-06-24T14:41:45.789-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:14:09.547405"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8612786438069759480", 
+            "resource_date": "2012-06-24T14:41:45.789-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:14:09.551408"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/06/linked-data-about-roman-emperors.html", 
+            "resource_date": "2012-06-24T14:41:45.789-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:14:09.551420"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:14:09.843872"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "resources-roman-emperors", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "About Roman Emperors", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/"
+        }, 
+        {
+            "title_full": "Aemilian (Marcus Aemilius Aemilianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-aemilianus"
+        }, 
+        {
+            "title_full": "Alexander III", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-alexander-byzantine-emperor"
+        }, 
+        {
+            "title_full": "Alexander Severus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-alexander-severus"
+        }, 
+        {
+            "title_full": "Alexios I Komnenos", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-alexios-i-komnenos"
+        }, 
+        {
+            "title_full": "Alexios II Komnenos (Alexius II Comnenus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-alexios-ii-komnenos"
+        }, 
+        {
+            "title_full": "Alexios III", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-alexios-iii-angelos"
+        }, 
+        {
+            "title_full": "Alexios IV", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-alexios-iv-angelos"
+        }, 
+        {
+            "title_full": "Alexios V", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-alexios-v-doukas"
+        }, 
+        {
+            "title_full": "Allectus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-allectus"
+        }, 
+        {
+            "title_full": "Anastasios II (Anastasius II)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-anastasios-ii"
+        }, 
+        {
+            "title_full": "Anastasius I (Anastasius)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-anastasius-i-emperor"
+        }, 
+        {
+            "title_full": "Andronikos I Komnenos (Andronicus I Comnenus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-andronikos-i-komnenos"
+        }, 
+        {
+            "title_full": "Andronikos II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-andronikos-ii-palaiologos"
+        }, 
+        {
+            "title_full": "Andronikos III", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-andronikos-iii-palaiologos"
+        }, 
+        {
+            "title_full": "Andronikos IV", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-andronikos-iv-palaiologos"
+        }, 
+        {
+            "title_full": "Andronikos V", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-andronikos-v-palaiologos"
+        }, 
+        {
+            "title_full": "Anthemius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-anthemius"
+        }, 
+        {
+            "title_full": "Antoninus Pius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-antoninus-pius"
+        }, 
+        {
+            "title_full": "Arcadius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-arcadius"
+        }, 
+        {
+            "title_full": "Areobindus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-areobindus-dagalaiphus-areobindus"
+        }, 
+        {
+            "title_full": "Artabasdos", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-artabasdos"
+        }, 
+        {
+            "title_full": "Augustus (Gaius Julius Caesar Octavianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-augustus"
+        }, 
+        {
+            "title_full": "Aurelian (Lucius Domitius Aurelianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-aurelian"
+        }, 
+        {
+            "title_full": "Aureolus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-aureolus"
+        }, 
+        {
+            "title_full": "Avidius Cassius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-avidius-cassius"
+        }, 
+        {
+            "title_full": "Avitus (Eparchius Avitus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-avitus"
+        }, 
+        {
+            "title_full": "Basil I", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-basil-i-the-macedonian"
+        }, 
+        {
+            "title_full": "Basil II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-basil-ii"
+        }, 
+        {
+            "title_full": "Basiliscus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-basiliscus"
+        }, 
+        {
+            "title_full": "Bonosus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-bonosus-usurper"
+        }, 
+        {
+            "title_full": "Caligula (Gaius Caesar Augustus Germanicus, Gaius)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-caligula"
+        }, 
+        {
+            "title_full": "Caracalla (Lucius Septimius Bassianus, Marcus Aurelius Antoninus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-caracalla"
+        }, 
+        {
+            "title_full": "Carausius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-carausius"
+        }, 
+        {
+            "title_full": "Carinus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-carinus"
+        }, 
+        {
+            "title_full": "Carus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-carus"
+        }, 
+        {
+            "title_full": "Claudius (Ti. Claudius Nero Germanicus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-claudius"
+        }, 
+        {
+            "title_full": "Claudius Gothicus (M. Aurelius Claudius, Claudius II)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-claudius-gothicus"
+        }, 
+        {
+            "title_full": "Clodius Albinus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-clodius-albinus"
+        }, 
+        {
+            "title_full": "Comentiolus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-comentiolus-brother-of-phocas"
+        }, 
+        {
+            "title_full": "Commodus (Marcus Aurelius Commodus Antoninus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-commodus"
+        }, 
+        {
+            "title_full": "Constans I (Flavius Julius Constans)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constans"
+        }, 
+        {
+            "title_full": "Constans II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constans-ii"
+        }, 
+        {
+            "title_full": "Constantine I (Flavius Valerius Constantinus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantine-the-great"
+        }, 
+        {
+            "title_full": "Constantine II (Flavius Claudius Constantinus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantine-ii-emperor"
+        }, 
+        {
+            "title_full": "Constantine III", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantine-iii-usurper"
+        }, 
+        {
+            "title_full": "Constantine III", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantine-iii-byzantine-emperor"
+        }, 
+        {
+            "title_full": "Constantine IV", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantine-iv"
+        }, 
+        {
+            "title_full": "Constantine IX", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantine-ix-monomachos"
+        }, 
+        {
+            "title_full": "Constantine V (Constantine V Copronymus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantine-v"
+        }, 
+        {
+            "title_full": "Constantine VI (Constantine Vi)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantine-vi"
+        }, 
+        {
+            "title_full": "Constantine VII", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantine-vii"
+        }, 
+        {
+            "title_full": "Constantine VIII", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantine-viii"
+        }, 
+        {
+            "title_full": "Constantine X Doukas", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantine-x-doukas"
+        }, 
+        {
+            "title_full": "Constantine XI", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantine-xi-palaiologos"
+        }, 
+        {
+            "title_full": "Constantius Chlorus (Constantius I Chlorus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantius-chlorus"
+        }, 
+        {
+            "title_full": "Constantius II (Flavius Julius Constantius)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantius-ii"
+        }, 
+        {
+            "title_full": "Constantius III", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantius-iii"
+        }, 
+        {
+            "title_full": "Contantine (XI)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-constantine-laskaris"
+        }, 
+        {
+            "title_full": "Decius (Trajan Decius, Gaius Messius Quintus Decius)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-decius"
+        }, 
+        {
+            "title_full": "Diadumenian (Diadumenianius)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-diadumenian"
+        }, 
+        {
+            "title_full": "Didius Julianus (Marcus Didius Severus Julianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-didius-julianus"
+        }, 
+        {
+            "title_full": "Diocletian", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-diocletian"
+        }, 
+        {
+            "title_full": "Domitian (Titus Flavius Domitianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-domitian"
+        }, 
+        {
+            "title_full": "Domitianus II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-domitianus-ii"
+        }, 
+        {
+            "title_full": "Domitius Alexander", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-domitius-alexander"
+        }, 
+        {
+            "title_full": "Elagabalus (Marcus Aurelius Antoninus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-elagabalus"
+        }, 
+        {
+            "title_full": "Eleutherius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-eleutherius-exarch"
+        }, 
+        {
+            "title_full": "Eugenius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-eugenius"
+        }, 
+        {
+            "title_full": "Flavius Victor", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-flavius-victor"
+        }, 
+        {
+            "title_full": "Florianus (Florian, Marcus Annius Florianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-florianus"
+        }, 
+        {
+            "title_full": "Galba", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-galba"
+        }, 
+        {
+            "title_full": "Galerius (Caius Galerius Valerius Maximianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-galerius"
+        }, 
+        {
+            "title_full": "Gallienus (P. Licinius Egnatius Gallienus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-gallienus"
+        }, 
+        {
+            "title_full": "Gallus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-trebonianus-gallus"
+        }, 
+        {
+            "title_full": "Geta (Publius Septimius Geta)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-publius-septimius-geta"
+        }, 
+        {
+            "title_full": "Glycerius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-glycerius"
+        }, 
+        {
+            "title_full": "Gordian I", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-gordian-i"
+        }, 
+        {
+            "title_full": "Gordian II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-gordian-ii"
+        }, 
+        {
+            "title_full": "Gordian III", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-gordian-iii"
+        }, 
+        {
+            "title_full": "Gratian (Flavius Gratianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-gratian"
+        }, 
+        {
+            "title_full": "Gregory", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-gregory-the-patrician"
+        }, 
+        {
+            "title_full": "Hadrian", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-hadrian"
+        }, 
+        {
+            "title_full": "Heraclius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-heraclius"
+        }, 
+        {
+            "title_full": "Heraklonas", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-heraklonas"
+        }, 
+        {
+            "title_full": "Herennius Etruscus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-herennius-etruscus"
+        }, 
+        {
+            "title_full": "Honorius (Flavius Honorius)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-honorius-emperor"
+        }, 
+        {
+            "title_full": "Hostilian", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-hostilian"
+        }, 
+        {
+            "title_full": "Hypatius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-hypatius-consul-500"
+        }, 
+        {
+            "title_full": "Ingenuus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-ingenuus"
+        }, 
+        {
+            "title_full": "Irene of Athens", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-irene-of-athens"
+        }, 
+        {
+            "title_full": "Isaac I Komnenos", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-isaac-i-komnenos"
+        }, 
+        {
+            "title_full": "Isaac II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-isaac-ii-angelos"
+        }, 
+        {
+            "title_full": "Joannes", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-joannes"
+        }, 
+        {
+            "title_full": "John Athalarichos", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-john-athalarichos"
+        }, 
+        {
+            "title_full": "John Cottistis", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-john-cottistis"
+        }, 
+        {
+            "title_full": "John I", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-john-i-tzimiskes"
+        }, 
+        {
+            "title_full": "John II Komnenos (John II Comnenus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-john-ii-komnenos"
+        }, 
+        {
+            "title_full": "John III", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-john-iii-doukas-vatatzes"
+        }, 
+        {
+            "title_full": "John IV", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-john-iv-laskaris"
+        }, 
+        {
+            "title_full": "John V", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-john-v-palaiologos"
+        }, 
+        {
+            "title_full": "John VI", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-john-vi-kantakouzenos"
+        }, 
+        {
+            "title_full": "John VII", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-john-vii-palaiologos"
+        }, 
+        {
+            "title_full": "John VIII", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-john-viii-palaiologos"
+        }, 
+        {
+            "title_full": "John of Conza", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-john-of-conza"
+        }, 
+        {
+            "title_full": "Jotapianus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-jotapianus"
+        }, 
+        {
+            "title_full": "Jovian (Flavius Jovianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-jovian-emperor"
+        }, 
+        {
+            "title_full": "Jovinus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-jovinus"
+        }, 
+        {
+            "title_full": "Julian (Julian The Apostate, Flavius Claudius Julianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-julian-the-apostate"
+        }, 
+        {
+            "title_full": "Julianus ben Sabar", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-julianus-ben-sabar"
+        }, 
+        {
+            "title_full": "Julius Nepos", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-julius-nepos"
+        }, 
+        {
+            "title_full": "Julius Saturninus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-julius-saturninus"
+        }, 
+        {
+            "title_full": "Justin I", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-justin-i"
+        }, 
+        {
+            "title_full": "Justin II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-justin-ii"
+        }, 
+        {
+            "title_full": "Justinian I (Justinian)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-justinian-i"
+        }, 
+        {
+            "title_full": "Justinian II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-justinian-ii"
+        }, 
+        {
+            "title_full": "Laelianus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-laelianus"
+        }, 
+        {
+            "title_full": "Leo I", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-leo-i-emperor"
+        }, 
+        {
+            "title_full": "Leo II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-leo-ii-emperor"
+        }, 
+        {
+            "title_full": "Leo III", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-leo-iii-the-isaurian"
+        }, 
+        {
+            "title_full": "Leo IV (Leo Iv)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-leo-iv-the-khazar"
+        }, 
+        {
+            "title_full": "Leo V", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-leo-v-the-armenian"
+        }, 
+        {
+            "title_full": "Leo VI", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-leo-vi-the-wise"
+        }, 
+        {
+            "title_full": "Leontios", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-leontios"
+        }, 
+        {
+            "title_full": "Leontius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-leontius-usurper"
+        }, 
+        {
+            "title_full": "Libius Severus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-libius-severus"
+        }, 
+        {
+            "title_full": "Licinianus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-licinianus"
+        }, 
+        {
+            "title_full": "Licinius (Valerius Licinianus Licinius)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-licinius"
+        }, 
+        {
+            "title_full": "Longinus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-longinus-consul-486"
+        }, 
+        {
+            "title_full": "Lucius Verus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-lucius-verus"
+        }, 
+        {
+            "title_full": "Macrianus Major", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-macrianus-major"
+        }, 
+        {
+            "title_full": "Macrianus Minor", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-macrianus-minor"
+        }, 
+        {
+            "title_full": "Macrinus (Marcus Opellius Macrinus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-macrinus"
+        }, 
+        {
+            "title_full": "Magnentius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-magnentius"
+        }, 
+        {
+            "title_full": "Magnus Maximus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-magnus-maximus"
+        }, 
+        {
+            "title_full": "Majorian (Julius Valerius Maiorianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-majorian"
+        }, 
+        {
+            "title_full": "Manuel I Komnenos (Manuel I Comnenus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-manuel-i-komnenos"
+        }, 
+        {
+            "title_full": "Manuel II (Manuel II Palaiologos)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-manuel-ii-palaiologos"
+        }, 
+        {
+            "title_full": "Marcian", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-marcian"
+        }, 
+        {
+            "title_full": "Marcus Aurelius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-marcus-aurelius"
+        }, 
+        {
+            "title_full": "Marius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-marcus-aurelius-marius"
+        }, 
+        {
+            "title_full": "Matthew", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-matthew-kantakouzenos"
+        }, 
+        {
+            "title_full": "Maurice", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-maurice-emperor"
+        }, 
+        {
+            "title_full": "Maurikios Chartoularios", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-maurikios-chartoularios"
+        }, 
+        {
+            "title_full": "Maxentius (Marcus Aurelius Valerius Maxentius)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-maxentius"
+        }, 
+        {
+            "title_full": "Maximian (Maximianus Herculius)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-maximian"
+        }, 
+        {
+            "title_full": "Maximinus Daia (Caius Valerius Galerius Maximinus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-maximinus-ii"
+        }, 
+        {
+            "title_full": "Maximinus Thrax", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-maximinus-thrax"
+        }, 
+        {
+            "title_full": "Maximus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-maximus-of-hispania"
+        }, 
+        {
+            "title_full": "Mezezius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-mezezius"
+        }, 
+        {
+            "title_full": "Michael I Rangabe", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-michael-i-rangabe"
+        }, 
+        {
+            "title_full": "Michael II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-michael-ii"
+        }, 
+        {
+            "title_full": "Michael III", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-michael-iii"
+        }, 
+        {
+            "title_full": "Michael IV", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-michael-iv-the-paphlagonian"
+        }, 
+        {
+            "title_full": "Michael IX", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-michael-ix-palaiologos"
+        }, 
+        {
+            "title_full": "Michael V", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-michael-v"
+        }, 
+        {
+            "title_full": "Michael VI", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-michael-vi-stratiotikos"
+        }, 
+        {
+            "title_full": "Michael VII Doukas", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-michael-vii-doukas"
+        }, 
+        {
+            "title_full": "Michael VIII", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-michael-viii-palaiologos"
+        }, 
+        {
+            "title_full": "Mussius Aemilianus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-mussius-aemilianus"
+        }, 
+        {
+            "title_full": "Nepotianus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-nepotianus"
+        }, 
+        {
+            "title_full": "Nero", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-nero"
+        }, 
+        {
+            "title_full": "Nerva", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-nerva"
+        }, 
+        {
+            "title_full": "Nikephoros I", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-nikephoros-i"
+        }, 
+        {
+            "title_full": "Nikephoros II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-nikephoros-ii-phokas"
+        }, 
+        {
+            "title_full": "Nikephoros III (Botaneiates)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-nikephoros-iii-botaneiates"
+        }, 
+        {
+            "title_full": "Numerian (Numerianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-numerian"
+        }, 
+        {
+            "title_full": "Olybrius (Ancius Olybrius)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-olybrius"
+        }, 
+        {
+            "title_full": "Olympius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-olympius-exarch"
+        }, 
+        {
+            "title_full": "Otho", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-otho"
+        }, 
+        {
+            "title_full": "Pacatianus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-pacatianus"
+        }, 
+        {
+            "title_full": "Pertinax (Publius Helvius Pertinax)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-pertinax"
+        }, 
+        {
+            "title_full": "Pescennius Niger", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-pescennius-niger"
+        }, 
+        {
+            "title_full": "Petronius Maximus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-petronius-maximus"
+        }, 
+        {
+            "title_full": "Philip the Arab (Marcus Julius Philippus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-philip-the-arab"
+        }, 
+        {
+            "title_full": "Philippikos Bardanes", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-philippikos-bardanes"
+        }, 
+        {
+            "title_full": "Phocas", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-phocas"
+        }, 
+        {
+            "title_full": "Postumus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-postumus"
+        }, 
+        {
+            "title_full": "Priscus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-gaius-julius-priscus"
+        }, 
+        {
+            "title_full": "Priscus Attalus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-priscus-attalus"
+        }, 
+        {
+            "title_full": "Probus (M. Aurelius Probus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-marcus-aurelius-probus"
+        }, 
+        {
+            "title_full": "Procopius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-procopius-usurper"
+        }, 
+        {
+            "title_full": "Proculus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-proculus"
+        }, 
+        {
+            "title_full": "Pupienus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-pupienus-and-balbinus"
+        }, 
+        {
+            "title_full": "Quietus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-quietus"
+        }, 
+        {
+            "title_full": "Quintillus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-quintillus"
+        }, 
+        {
+            "title_full": "Regalianus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-regalianus"
+        }, 
+        {
+            "title_full": "Romanos I", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-romanos-i-lekapenos"
+        }, 
+        {
+            "title_full": "Romanos II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-romanos-ii"
+        }, 
+        {
+            "title_full": "Romanos III", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-romanos-iii-argyros"
+        }, 
+        {
+            "title_full": "Romanos IV (Doukas)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-romanos-iv-diogenes"
+        }, 
+        {
+            "title_full": "Romulus Augustus (Romulus Augustulus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-romulus-augustus"
+        }, 
+        {
+            "title_full": "Sabinianus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-sabinianus"
+        }, 
+        {
+            "title_full": "Saborios", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-saborios"
+        }, 
+        {
+            "title_full": "Saloninus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-saloninus"
+        }, 
+        {
+            "title_full": "Sebastianus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-sebastianus"
+        }, 
+        {
+            "title_full": "Septimius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-septimius-roman-emperor-usurper"
+        }, 
+        {
+            "title_full": "Septimius Severus (Lucius Septimius Severus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-septimius-severus"
+        }, 
+        {
+            "title_full": "Severus II (Flavius Valerius Severus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-flavius-valerius-severus"
+        }, 
+        {
+            "title_full": "Sextus Martinianus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-sextus-martinianus"
+        }, 
+        {
+            "title_full": "Silbannacus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-silbannacus"
+        }, 
+        {
+            "title_full": "Staurakios", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-staurakios"
+        }, 
+        {
+            "title_full": "Stotzas", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-stotzas"
+        }, 
+        {
+            "title_full": "Tacitus (Marcus Claudius Tacitus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-marcus-claudius-tacitus"
+        }, 
+        {
+            "title_full": "Tetricus I", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-tetricus-i"
+        }, 
+        {
+            "title_full": "Theocritus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-theocritus-comes-domesticorum"
+        }, 
+        {
+            "title_full": "Theodora", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-theodora-11th-century"
+        }, 
+        {
+            "title_full": "Theodore I", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-theodore-i-laskaris"
+        }, 
+        {
+            "title_full": "Theodore II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-theodore-ii-laskaris"
+        }, 
+        {
+            "title_full": "Theodoros Pasagnathes", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-theodoros-pasagnathes"
+        }, 
+        {
+            "title_full": "Theodosios III (Theodosius III)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-theodosios-iii"
+        }, 
+        {
+            "title_full": "Theodosius I (Flavius Theodosius)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-theodosius-i"
+        }, 
+        {
+            "title_full": "Theodosius II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-theodosius-ii"
+        }, 
+        {
+            "title_full": "Theophilos", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-theophilos-emperor"
+        }, 
+        {
+            "title_full": "Tiberius (Tiberius Claudius Nero)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-tiberius"
+        }, 
+        {
+            "title_full": "Tiberius II Constantine", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-tiberius-ii-constantine"
+        }, 
+        {
+            "title_full": "Titus (Titus Flavius Vespasianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-titus"
+        }, 
+        {
+            "title_full": "Trajan", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-trajan"
+        }, 
+        {
+            "title_full": "Valens (Flavius Valens)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-valens"
+        }, 
+        {
+            "title_full": "Valentinian I (Flavius Valentinianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-valentinian-i"
+        }, 
+        {
+            "title_full": "Valentinian II", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-valentinian-ii"
+        }, 
+        {
+            "title_full": "Valentinian III", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-valentinian-iii"
+        }, 
+        {
+            "title_full": "Valentinus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-valentinus-usurper"
+        }, 
+        {
+            "title_full": "Valerian (P. Licinius Valerianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-valerian-emperor"
+        }, 
+        {
+            "title_full": "Valerius Valens", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-valerius-valens"
+        }, 
+        {
+            "title_full": "Vespasian (Titus Flavius Vespasianus)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-vespasian"
+        }, 
+        {
+            "title_full": "Vetranio", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-vetranio"
+        }, 
+        {
+            "title_full": "Victorinus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-victorinus"
+        }, 
+        {
+            "title_full": "Vitellius", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-vitellius"
+        }, 
+        {
+            "title_full": "Volusianus", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-volusianus"
+        }, 
+        {
+            "title_full": "Zeno", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-zeno-emperor"
+        }, 
+        {
+            "title_full": "Zoe (Zoe Porphyrogenita)", 
+            "url": "http://www.paregorios.org/resources/roman-emperors/about-zoe-empress"
+        }
+    ], 
+    "title": "About Roman Emperors", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.paregorios.org/resources/roman-emperors/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

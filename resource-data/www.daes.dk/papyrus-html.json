@@ -1,0 +1,235 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 8 June 2010. Updated 6 March 2013]. Papyrus (Dansk \u00c6gyptologisk Selskab). ISSN 0903-4714. Arkiv: 16,1 | 16,2 | 17,1 | 17,2 | 18,1 | 18,2 | 19,1 | 19,2 | 20,1 | 20,2 | 21,1 | 21,2 | 22,1 | 22,2 | 23,1 | 23,2 | 04/01 | 04/02 | 05/1 | 05/2 | 06/1 | 06/2 | 07/1 | 07/2 | 28/1 2008 | 28/2 2008 | 29/1 2009 | 29/2 2009 | 30/1 2010 | 30/2 2010 |. 31/1 2011 | 31/2 2011 | 32/1 2012 | 32/2 2012. Bladreb\u00f8ger af nyere numre i fuld version. \u00c5bner i nyt vindue. Du kan ikke gemme eller printe ud: 05/1 | 05/2 | 06/1 | 06-2 | 07-1 | 07-2 | 28/1 2008 | 28/2 2008 | 29/1 2009. Komplet indeks over artikler. See the full.", 
+    "domain": "www.daes.dk", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0903-4714"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "papyrology", 
+        "Denmark", 
+        "journal", 
+        "open access", 
+        "egyptology"
+    ], 
+    "languages": [
+        "da"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2993448870164253471", 
+            "resource_date": "2013-03-06T06:23:47.346-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:43.636658"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-papyrus.html", 
+            "resource_date": "2013-03-06T06:23:47.346-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:43.636675"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "papyrus-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "16,1", 
+            "url": "http://www.daes.dk/pap/papyrus16-1.htm"
+        }, 
+        {
+            "title_full": "16,2", 
+            "url": "http://www.daes.dk/pap/papyrus16-2.htm"
+        }, 
+        {
+            "title_full": "17,1", 
+            "url": "http://www.daes.dk/pap/papyrus17-1.htm"
+        }, 
+        {
+            "title_full": "17,2", 
+            "url": "http://www.daes.dk/pap/papyrus17-2.htm"
+        }, 
+        {
+            "title_full": "18,1", 
+            "url": "http://www.daes.dk/pap/papyrus18-1.htm"
+        }, 
+        {
+            "title_full": "18,2", 
+            "url": "http://www.daes.dk/pap/papyrus18-2.htm"
+        }, 
+        {
+            "title_full": "19,1", 
+            "url": "http://www.daes.dk/pap/papyrus19-1.htm"
+        }, 
+        {
+            "title_full": "19,2", 
+            "url": "http://www.daes.dk/pap/papyrus19-2.htm"
+        }, 
+        {
+            "title_full": "20,1", 
+            "url": "http://www.daes.dk/pap/papyrus20-1.htm"
+        }, 
+        {
+            "title_full": "20,2", 
+            "url": "http://www.daes.dk/pap/papyrus20-2.htm"
+        }, 
+        {
+            "title_full": "21,1", 
+            "url": "http://www.daes.dk/pap/papyrus21-1.htm"
+        }, 
+        {
+            "title_full": "21,2", 
+            "url": "http://www.daes.dk/pap/papyrus21-2.htm"
+        }, 
+        {
+            "title_full": "22,1", 
+            "url": "http://www.daes.dk/pap/papyrus22-1.htm"
+        }, 
+        {
+            "title_full": "22,2", 
+            "url": "http://www.daes.dk/pap/papyrus22-2.htm"
+        }, 
+        {
+            "title_full": "23,1", 
+            "url": "http://www.daes.dk/pap/papyrus23-1.htm"
+        }, 
+        {
+            "title_full": "23,2", 
+            "url": "http://www.daes.dk/pap/papyrus23-2.htm"
+        }, 
+        {
+            "title_full": "04/01", 
+            "url": "http://www.daes.dk/Papyrus04-1.html"
+        }, 
+        {
+            "title_full": "04/02", 
+            "url": "http://www.daes.dk/Papyrus04-2.html"
+        }, 
+        {
+            "title_full": "05/1", 
+            "url": "http://www.daes.dk/Papyrus05-1.html"
+        }, 
+        {
+            "title_full": "05/2", 
+            "url": "http://www.daes.dk/Papyrus05-2.html"
+        }, 
+        {
+            "title_full": "06/1", 
+            "url": "http://www.daes.dk/Papyrus06-1.html"
+        }, 
+        {
+            "title_full": "06/2", 
+            "url": "http://www.daes.dk/Papyrus06-2.html"
+        }, 
+        {
+            "title_full": "07/1", 
+            "url": "http://www.daes.dk/Papyrus07-1.html"
+        }, 
+        {
+            "title_full": "07/2", 
+            "url": "http://www.daes.dk/Papyrus07-2.html"
+        }, 
+        {
+            "title_full": "28/1 2008", 
+            "url": "http://www.daes.dk/Papyrus08-1.html"
+        }, 
+        {
+            "title_full": "28/2 2008", 
+            "url": "http://www.daes.dk/Papyrus08-2.html"
+        }, 
+        {
+            "title_full": "29/1 2009", 
+            "url": "http://www.daes.dk/Papyrus09-1.html"
+        }, 
+        {
+            "title_full": "29/2 2009", 
+            "url": "http://www.daes.dk/Papyrus09-2.html"
+        }, 
+        {
+            "title_full": "30/1 2010", 
+            "url": "http://www.daes.dk/Papyrus10-1.html"
+        }, 
+        {
+            "title_full": "30/2 2010", 
+            "url": "http://www.daes.dk/Papyrus10-2.html"
+        }, 
+        {
+            "title_full": "31/1 2011", 
+            "url": "http://www.daes.dk/Papyrus11-1.html"
+        }, 
+        {
+            "title_full": "31/2 2011", 
+            "url": "http://www.daes.dk/Papyrus11-2.html"
+        }, 
+        {
+            "title_full": "32/1 2012", 
+            "url": "http://www.daes.dk/Papyrus12-1.html"
+        }, 
+        {
+            "title_full": "32/2 2012", 
+            "url": "http://www.daes.dk/Papyrus12-2.html"
+        }
+    ], 
+    "title": "Papyrus", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.daes.dk/papyrus.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

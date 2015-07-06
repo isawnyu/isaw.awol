@@ -1,0 +1,310 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "(click on the dates).", 
+    "domain": "www.mom.fr", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "DIGIMOM", 
+        "url": "http://www.mom.fr/digimom/index.php"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2135585911765247810", 
+            "resource_date": "2010-12-06T13:27:49.498-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:06.819239"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/new-from-digimom.html", 
+            "resource_date": "2010-12-06T13:27:49.498-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:06.819255"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2135585911765247810", 
+            "resource_date": "2010-12-06T13:27:49.498-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:06.820732"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/new-from-digimom.html", 
+            "resource_date": "2010-12-06T13:27:49.498-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:06.820742"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:06.876210"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "digimom-index-php", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "DIGIMOM", 
+            "url": "http://www.mom.fr/digimom/index.php"
+        }, 
+        {
+            "title_full": "1783", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1152&limit=0"
+        }, 
+        {
+            "title_full": "1783", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1153&limit=0"
+        }, 
+        {
+            "title_full": "1781", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1150&limit=0"
+        }, 
+        {
+            "title_full": "1781", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1151&limit=0"
+        }, 
+        {
+            "title_full": "1891", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1162&limit=0"
+        }, 
+        {
+            "title_full": "1892", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1163&limit=0"
+        }, 
+        {
+            "title_full": "1892", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1164&limit=0"
+        }, 
+        {
+            "title_full": "1893", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1165&limit=0"
+        }, 
+        {
+            "title_full": "1894", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1166&limit=0"
+        }, 
+        {
+            "title_full": "1895", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1167&limit=0"
+        }, 
+        {
+            "title_full": "1896", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1171&limit=0"
+        }, 
+        {
+            "title_full": "1897", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1172&limit=0"
+        }, 
+        {
+            "title_full": "1898", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1173&limit=8"
+        }, 
+        {
+            "title_full": "1899", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1174&limit=8"
+        }, 
+        {
+            "title_full": "1900", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1175&limit=8"
+        }, 
+        {
+            "title_full": "1902", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1177&limit=8"
+        }, 
+        {
+            "title_full": "1902", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1176&limit=8"
+        }, 
+        {
+            "title_full": "1902", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1178&limit=8"
+        }, 
+        {
+            "title_full": "1902", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1179&limit=8"
+        }, 
+        {
+            "title_full": "1902", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1180&limit=8"
+        }, 
+        {
+            "title_full": "1902", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1181&limit=16"
+        }, 
+        {
+            "title_full": "1902", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1182&limit=16"
+        }, 
+        {
+            "title_full": "1902", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1183&limit=16"
+        }, 
+        {
+            "title_full": "1902", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1184&limit=16"
+        }, 
+        {
+            "title_full": "1893", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1191&limit=0"
+        }, 
+        {
+            "title_full": "1890", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1189&limit=0"
+        }, 
+        {
+            "title_full": "1884", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1193&limit=0"
+        }, 
+        {
+            "title_full": "1865", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1168&limit=0"
+        }, 
+        {
+            "title_full": "1865", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1169&limit=0"
+        }, 
+        {
+            "title_full": "An XII [1807]", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1186&limit=0"
+        }, 
+        {
+            "title_full": "An IX [1801]", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1185&limit=0"
+        }, 
+        {
+            "title_full": "1807", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1187&limit=0"
+        }, 
+        {
+            "title_full": "1804", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1159&limit=0"
+        }, 
+        {
+            "title_full": "An 9 [1801]", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1157&limit=0"
+        }, 
+        {
+            "title_full": "An 12 [1807]", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1158&limit=0"
+        }, 
+        {
+            "title_full": "1804", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1161&limit=0"
+        }, 
+        {
+            "title_full": "An 12 [1807]", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1156&limit=0"
+        }, 
+        {
+            "title_full": "An 9 [1801]", 
+            "url": "http://www.mom.fr/digimom/Notice.php?id=1155&limit=8"
+        }, 
+        {
+            "title_full": "La Maison de l\u2019Orient et de la M\u00e9diterran\u00e9e - Biblioth\u00e8que num\u00e9rique - Digimom", 
+            "url": "http://www.mom.fr/-Bibliotheque-numerique-Digimom-.html"
+        }
+    ], 
+    "title": "DIGIMOM", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.mom.fr/digimom/index.php", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

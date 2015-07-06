@@ -1,0 +1,182 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Collatinus: Lemmatiseur et analyseur morphologique de textes latins. Collatinus est une application libre, gratuite et multi-plateforme (Mac, Windows et Debian GNU/Linux), simple \u00e0 installer et facile \u00e0 utiliser. Collatinus est \u00e0 la fois un lemmatiseur et un analyseur morphologique de textes latins: il est capable, si on lui donne une forme d\u00e9clin\u00e9e ou conjugu\u00e9e, de trouver quel mot il faudra chercher dans le dictionnaire pour avoir sa traduction dans une autre langue, ses diff\u00e9rents sens, et toutes les autres donn\u00e9es que fournit habituellement le dictionnaire. En pratique, il est utile surtout au professeur de latin, qui peut ainsi tr\u00e8s rapidement, \u00e0 partir d\u2019un texte hors-manuel, distribuer \u00e0 ses \u00e9l\u00e8ves un texte in\u00e9dit avec son aide lexicale. Les \u00e9l\u00e8ves s\u2019en servent souvent pour lire plus facilement le latin lorsque leurs connaissances lexicales et morphologiques sont encore insuffisantes.", 
+    "domain": "outils.biblissima.fr", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Collatinus: Lemmatiseur et analyseur morphologique de textes latins", 
+        "url": "http://outils.biblissima.fr/collatinus/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Latin", 
+        "France"
+    ], 
+    "languages": [
+        "fr"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9099638168206124073", 
+            "resource_date": "2014-10-10T07:47:36.453-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:15:17.013281"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/10/collatinus-lemmatiseur-et-analyseur.html", 
+            "resource_date": "2014-10-10T07:47:36.453-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:15:17.013297"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9099638168206124073", 
+            "resource_date": "2014-10-10T07:47:36.453-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:15:17.015095"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/10/collatinus-lemmatiseur-et-analyseur.html", 
+            "resource_date": "2014-10-10T07:47:36.453-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:15:17.015106"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:15:17.024069"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "collatinus", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Collatinus: Lemmatiseur et analyseur morphologique de textes latins", 
+            "url": "http://outils.biblissima.fr/collatinus/"
+        }, 
+        {
+            "title_full": "Pr\u00e9sentation", 
+            "url": "http://outils.biblissima.fr/collatinus/#presentation"
+        }, 
+        {
+            "title_full": "Nouveaut\u00e9s", 
+            "url": "http://outils.biblissima.fr/collatinus/#nouveautes"
+        }, 
+        {
+            "title_full": "Captures", 
+            "url": "http://outils.biblissima.fr/collatinus/#captures"
+        }, 
+        {
+            "title_full": "T\u00e9l\u00e9chargements", 
+            "url": "http://outils.biblissima.fr/collatinus/#telechargements"
+        }, 
+        {
+            "title_full": "FAQ", 
+            "url": "http://outils.biblissima.fr/collatinus/#faq"
+        }, 
+        {
+            "title_full": "Cr\u00e9dits", 
+            "url": "http://outils.biblissima.fr/collatinus/#credits"
+        }
+    ], 
+    "title": "Collatinus: Lemmatiseur et analyseur morphologique de textes latins", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://outils.biblissima.fr/collatinus/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

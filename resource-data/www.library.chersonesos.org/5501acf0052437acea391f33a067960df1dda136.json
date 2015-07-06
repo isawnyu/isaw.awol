@@ -1,0 +1,237 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f \u0420\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0430 \u0432 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u043f\u043e\u043b\u0435 - Proceedings of the Russian Archaeological Institute in Constantinople.", 
+    "domain": "www.library.chersonesos.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Russian", 
+        "proceedings", 
+        "journal", 
+        "archaeology", 
+        "open access"
+    ], 
+    "languages": [
+        "ru"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4867500684965599448", 
+            "resource_date": "2011-03-11T12:52:23.240-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:09:32.532086"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-journal_389.html", 
+            "resource_date": "2011-03-11T12:52:23.240-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:09:32.532102"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "5501acf0052437acea391f33a067960df1dda136", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Volume 1 (1896)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=91&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=91&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 2 (1897)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=92&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=92&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 3 (1898)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=93&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=93&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 4 (1899)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=94&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=94&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 5 (1900)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=95&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=95&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 6 (1900)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=96&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=96&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 7 (1902)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=97&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=97&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 8 (1903)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=98&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=98&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 9 (1904)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=99&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=99&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 10. Aboba-Pliska (1905)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=100&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=100&ext=djvu"
+        }, 
+        {
+            "title_full": "Album for Volume 10. Aboba-Pliska (1905)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=108&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=108&ext=djvu"
+        }, 
+        {
+            "title_full": "Album for Volume 11. Kahrie-Djami (1906)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=107&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=107&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 12 (1907)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=102&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=102&ext=djvu"
+        }, 
+        {
+            "title_full": "Album for Volume 12 (1907)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=109&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=109&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 13 (1908)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=103&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=103&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 14 (1909)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=104&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=104&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 15 (1911)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=105&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=105&ext=djvu"
+        }, 
+        {
+            "title_full": "Volume 16 (1912)", 
+            "url": "http://www.library.chersonesos.org/showtome.php?tome_code=106&section_code=6"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.library.chersonesos.org/getfile.php?tome_code=106&ext=djvu"
+        }
+    ], 
+    "title": "\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f \u0420\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0430 \u0432 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u043f\u043e\u043b\u0435", 
+    "title_alternates": [], 
+    "title_extended": "\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f \u0420\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0430 \u0432 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u043f\u043e\u043b\u0435 - Proceedings of the Russian Archaeological Institute in Constantinople", 
+    "type": null, 
+    "url": "http://www.library.chersonesos.org/showsection.php?section_code=6", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

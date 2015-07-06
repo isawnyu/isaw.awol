@@ -1,0 +1,180 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "D\u0100MOS: Database of Mycenaean at Oslo. D\u0100MOS (Database of Mycenaean at Oslo) aims at being an annotated electronic corpus of all the published Mycenaean texts, the earliest (ca. XV-XII B. C. ) written evidence of the Greek language, comprised of inscriptions in the Linear B syllabic script. The Mycenaean Documents Database The Texts in D\u0100MOS Notes and Tablet Bibliography Current Online VersionMycenaean texts are generally administrative documents, dating from ca 1450 to 1150 B. C. , written mostly on clay tablets in a syllabic script that we call Linear B. They have been found within the rests of the Mycenaean palaces both on Crete and mainland Greece. They amount to something less then 6000 documents, although many of them are brief or fragmentary texts. Linear B is a syllabic script not related to the later Greek alphabets. It belongs to a family of writing systems used in the Aegean area in the II and I millennium B. C. , of which only Linear B and the Cypriot syllabary of the I millennium have been satisfactorily deciphered. It is important to remark that although Linear B as a writing system seems to have functioned well as a tool for recording administrative information, it is not in fact a very efficient instrument for rendering the phonetic system of Greek, since it presents many inaccuracies and deficiencies in this regard. This fact, together with the nature of the texts, sometimes makes our interpretation of the texts and of their language quite uncertain. This, in turn, shows well how important the opportunity is, which an annotated electronic corpus offers, of systematically crossing all the information available at the different levels of analysis and within the whole of the extant Mycenaean texts. The language of the documents, being the oldest attestation of an Indo-European language after Hittite and the only attestation of a Greek dialect in the II millennium B. C. , presents several archaic and interesting linguistic features and poses some questions crucial for the history of the Greek language (and for the field of comparative Indo-European linguistics in general), which, especially because of the mentioned limitations of the content of the documents and the shortcomings of the writing system, are still in need of an appropriate, if not definitive, answer.", 
+    "domain": "www2.hf.uio.no", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "D\u0100MOS: Database of Mycenaean at Oslo", 
+        "url": "https://www2.hf.uio.no/damos"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Mycenean", 
+        "Linear B", 
+        "data", 
+        "database"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-54826988465731610", 
+            "resource_date": "2013-02-15T06:19:18.309-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:20.554666"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/coming-soon-damos-database-of-mycenaean.html", 
+            "resource_date": "2013-02-15T06:19:18.309-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:20.554682"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-54826988465731610", 
+            "resource_date": "2013-02-15T06:19:18.309-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:20.556514"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/coming-soon-damos-database-of-mycenaean.html", 
+            "resource_date": "2013-02-15T06:19:18.309-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:20.556525"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:20.565280"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "damos", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "D\u0100MOS: Database of Mycenaean at Oslo", 
+            "url": "https://www2.hf.uio.no/damos"
+        }, 
+        {
+            "title_full": "The Mycenaean Documents", 
+            "url": "https://www2.hf.uio.no/damos/index/about/page/content"
+        }, 
+        {
+            "title_full": "Database", 
+            "url": "https://www2.hf.uio.no/damos/index/about/page/database"
+        }, 
+        {
+            "title_full": "The Texts in D\u0100MOS", 
+            "url": "https://www2.hf.uio.no/damos/index/about/page/texts"
+        }, 
+        {
+            "title_full": "Notes and Tablet Bibliography", 
+            "url": "https://www2.hf.uio.no/damos/index/about/page/notes"
+        }, 
+        {
+            "title_full": "Current Online Version", 
+            "url": "https://www2.hf.uio.no/damos/index/about/page/online"
+        }
+    ], 
+    "title": "D\u0100MOS: Database of Mycenaean at Oslo", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "https://www2.hf.uio.no/damos", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

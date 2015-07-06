@@ -1,0 +1,172 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 11 July 2011. Updated 5 February 2015]. Bibliographie biblique informatis\u00e9e de Lausanne - BiBIL. BiBIL (Bibliographie biblique informatis\u00e9e de Lausanne) est un outil de recherche bibliographique pour les sciences bibliques, une base de donn\u00e9es enti\u00e8rement libre d'acc\u00e8s, trilingue, fran\u00e7ais, anglais, allemand, mise sur pied et g\u00e9r\u00e9e par l'Institut Romand des Sciences Bibliques depuis 1986. Elle est constamment mise \u00e0 jour et repose sur une indexation rapide des p\u00e9riodiques et des nouvelles publications acad\u00e9miques dans le champ des sciences bibliques, ce qui lui a permis de devenir un instrument bibliograhique de r\u00e9f\u00e9rence au plan international. La base propose \u00e9galement lorsqu'ils existent, les r\u00e9sum\u00e9s, recensions et liens DOI des articles r\u00e9f\u00e9renc\u00e9s. En septembre 2013, la base comptait 119'700 notices. Un bulletin est \u00e9galement \u00e9dit\u00e9 annuellement, donnant acc\u00e8s aux titres les plus r\u00e9cents enregistr\u00e9s dans la base de donn\u00e9e. De m\u00eame que dans BiBIL, les titres sont index\u00e9s et pr\u00e9sent\u00e9s selon une grille de classement syst\u00e9matique. En cas de probl\u00e8mes de connexion ou de questions li\u00e9es \u00e0 la recherche, vous pouvez contacter la responsable par e-mail: info@bibil. net ou bibil@unil. ch. Entrez un ou plusieurs termes de recherche dans le champ de texte. Les champs suivants peuvent faire objet d'une recherche:.", 
+    "domain": "www3.unil.ch", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Bibliographie biblique informatis\u00e9e de Lausanne - BiBIL", 
+        "url": "http://www3.unil.ch/bibil/public/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "religion", 
+        "Bible", 
+        "bibliography"
+    ], 
+    "languages": [
+        "fr"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7555298760057990405", 
+            "resource_date": "2015-02-05T11:12:58.259-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:20.762673"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/online-bibliography-bibil.html", 
+            "resource_date": "2015-02-05T11:12:58.259-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:20.762688"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7555298760057990405", 
+            "resource_date": "2015-02-05T11:12:58.259-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:20.767995"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/online-bibliography-bibil.html", 
+            "resource_date": "2015-02-05T11:12:58.259-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:20.768007"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "volume", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:20.777442"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "bibil-public", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Bibliographie biblique informatis\u00e9e de Lausanne - BiBIL", 
+            "url": "http://www3.unil.ch/bibil/public/"
+        }, 
+        {
+            "title_full": "Recherche simple", 
+            "url": "http://www3.unil.ch/bibil/public/indexSimpleSearch"
+        }, 
+        {
+            "title_full": "Recherche avanc\u00e9e", 
+            "url": "http://www3.unil.ch/bibil/public/indexAdvancedSearch"
+        }, 
+        {
+            "title_full": "Recherche th\u00e9saurus", 
+            "url": "http://www3.unil.ch/bibil/public/indexThesaurusSearch"
+        }
+    ], 
+    "title": "Bibliographie biblique informatis\u00e9e de Lausanne - BiBIL", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www3.unil.ch/bibil/public/", 
+    "url_alternates": [], 
+    "volume": "-", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

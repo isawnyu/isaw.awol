@@ -1,0 +1,193 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Stanford Encyclopedia of PhilosophyISSN: 1095-5054. Welcome to the Stanford Encyclopedia of Philosophy (SEP). From its inception, the SEP was designed so that each entry is maintained and kept up-to-date by an expert or group of experts in the field. All entries and substantive updates are refereed by the members of a distinguished Editorial Board before they are made public. Consequently, our dynamic reference work maintains academic standards while evolving and adapting in response to new research. You can cite fixed editions that are created on a quarterly basis and stored in our Archives (every entry contains a link to its complete archival history, identifying the fixed edition the reader should cite). The Table of Contents lists entries that are published or assigned. The Projected Table of Contents also lists entries which are currently unassigned but nevertheless projected.", 
+    "domain": "plato.stanford.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1095-5054"
+            ]
+        }
+    }, 
+    "is_part_of": {
+        "issn": "1095-5054", 
+        "title_full": "Stanford Encyclopedia of Philosophy", 
+        "url": "http://plato.stanford.edu/index.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "philosophy", 
+        "encyclopedia"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4030777067047479527", 
+            "resource_date": "2015-03-29T15:13:01.767-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:31.842912"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/02/stanford-encyclopedia-of-philosophy.html", 
+            "resource_date": "2015-03-29T15:13:01.767-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:31.842928"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4030777067047479527", 
+            "resource_date": "2015-03-29T15:13:01.767-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:31.846148"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/02/stanford-encyclopedia-of-philosophy.html", 
+            "resource_date": "2015-03-29T15:13:01.767-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:31.846160"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:08:31.858315"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "index-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Stanford Encyclopedia of Philosophy", 
+            "url": "http://plato.stanford.edu/index.html"
+        }, 
+        {
+            "title_full": "Editorial Board", 
+            "url": "http://plato.stanford.edu/board.html"
+        }, 
+        {
+            "title_full": "Archives", 
+            "url": "http://plato.stanford.edu/archives/"
+        }, 
+        {
+            "title_full": "Table of Contents", 
+            "url": "http://plato.stanford.edu/contents.html"
+        }, 
+        {
+            "title_full": "Projected Table of Contents", 
+            "url": "http://plato.stanford.edu/projected-contents.html"
+        }, 
+        {
+            "title_full": "What's New", 
+            "url": "http://plato.stanford.edu/new.html"
+        }, 
+        {
+            "title_full": "Random Entry", 
+            "url": "http://plato.stanford.edu/cgi-bin/encyclopedia/random"
+        }, 
+        {
+            "title_full": "Chronological", 
+            "url": "http://plato.stanford.edu/published.html"
+        }
+    ], 
+    "title": "Stanford Encyclopedia of Philosophy", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://plato.stanford.edu/index.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

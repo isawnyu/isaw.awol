@@ -1,0 +1,271 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 16 September 2009. Most recently updated 23 July 2013]. Trismegistos.", 
+    "domain": "www.trismegistos.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Trismegistos", 
+        "url": "http://www.trismegistos.org/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "papyrology", 
+        "open access", 
+        "Trismegistos"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3360883248438106183", 
+            "resource_date": "2013-07-23T09:25:32.205-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:07:57.849463"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-library-trismegistos.html", 
+            "resource_date": "2013-07-23T09:25:32.205-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:07:57.849480"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3360883248438106183", 
+            "resource_date": "2013-07-23T09:25:32.205-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:07:57.851169"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-library-trismegistos.html", 
+            "resource_date": "2013-07-23T09:25:32.205-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:07:57.851180"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:07:57.925282"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "www-trismegistos-org", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Trismegistos", 
+            "url": "http://www.trismegistos.org/"
+        }, 
+        {
+            "title_full": "Trismegistos Texts", 
+            "url": "http://www.trismegistos.org/tm/index.php"
+        }, 
+        {
+            "title_full": "The Collections database, built on the Leuven Homepage of Papyrus Collections, is a set of currently 2530 modern institutional and private collections of texts and their 123,524 inventory numbers. It is searchable both separately and in the Texts database", 
+            "url": "http://www.trismegistos.org/coll/index.php"
+        }, 
+        {
+            "title_full": "The Archives database, built on the Leuven Homepage of Papyrus Archives, is a set of currently 464 collections of texts in antiquity, mainly in Egypt, and the 16,461 texts that are part of these archives. It is searchable separately, leading to the texts themselves", 
+            "url": "http://www.trismegistos.org/arch/index.php"
+        }, 
+        {
+            "title_full": "The People database, building on the Prosopographia Ptolemaica, is a complex set of prosopographical and onomastic databases. It currently contains 458,045 attestations of personal names of non-royal individuals living in Egypt between BC 800 and AD 800, including all languages and scripts and written on any surface", 
+            "url": "http://www.trismegistos.org/ref/index.php"
+        }, 
+        {
+            "title_full": "The Places database, expanding the geographic database of the Fayum project, is a set of currently 14,197 places in (and some outside) Egypt. It contains the currently 113,927 toponyms attested in texts from Egypt (BC 800 - AD 800), but is also linked to the provenance field in Trismegistos Texts", 
+            "url": "http://www.trismegistos.org/geo/index.php"
+        }, 
+        {
+            "title_full": "Finally, because abbreviations are often different in the various disciplines, we have also started creating a Bibliography which resolves many of the short references we use in Trismegistos. The other way round it also wants to facilitate the search for all texts in a specific publication. Its coverage is patchy except for the publications dealing with Demotic and Abnormal Hieratic, where the Demotistische Literatur\u00fcbersicht provides a much higher standard of bibliographic information", 
+            "url": "http://www.trismegistos.org/index_bib.php"
+        }, 
+        {
+            "title_full": "Trismegistos", 
+            "url": "http://www.trismegistos.org/about.php"
+        }, 
+        {
+            "title_full": "Staff", 
+            "url": "http://www.trismegistos.org/staff.php"
+        }, 
+        {
+            "title_full": "Current Coverage", 
+            "url": "http://www.trismegistos.org/about_coverage.php"
+        }, 
+        {
+            "title_full": "Partners", 
+            "url": "http://www.trismegistos.org/about_partners.php"
+        }, 
+        {
+            "title_full": "Languages and scripts", 
+            "url": "http://www.trismegistos.org/about_languages.php"
+        }, 
+        {
+            "title_full": "Stable Identifiers", 
+            "url": "http://www.trismegistos.org/about_identifiers.php"
+        }, 
+        {
+            "title_full": "History", 
+            "url": "http://www.trismegistos.org/about_history.php"
+        }, 
+        {
+            "title_full": "Add a new text", 
+            "url": "http://www.trismegistos.org/tm/add_text/add_text_1.php"
+        }, 
+        {
+            "title_full": "Help us!", 
+            "url": "http://www.trismegistos.org/about_helpus.php"
+        }, 
+        {
+            "title_full": "Trismegistos Online Publications (TOP)", 
+            "url": "http://www.trismegistos.org/top.php"
+        }, 
+        {
+            "title_full": "TOP 1", 
+            "url": "http://www.trismegistos.org/dl.php?id=4"
+        }, 
+        {
+            "title_full": "TOP 2", 
+            "url": "http://www.trismegistos.org/dl.php?id=15"
+        }, 
+        {
+            "title_full": "click here", 
+            "url": "http://www.trismegistos.org/dl.php?id=6"
+        }, 
+        {
+            "title_full": "TOP 3", 
+            "url": "http://www.trismegistos.org/dl.php?id=7"
+        }, 
+        {
+            "title_full": "TOP 4", 
+            "url": "http://www.trismegistos.org/dl.php?id=13"
+        }, 
+        {
+            "title_full": "click here", 
+            "url": "http://www.trismegistos.org/dl.php?id=8"
+        }, 
+        {
+            "title_full": "TOP 5", 
+            "url": "http://www.trismegistos.org/dl.php?id=10"
+        }, 
+        {
+            "title_full": "TOP 6", 
+            "url": "http://www.trismegistos.org/dl.php?id=12"
+        }, 
+        {
+            "title_full": "TOP 7", 
+            "url": "http://www.trismegistos.org/dl.php?id=14"
+        }, 
+        {
+            "title_full": "Click here", 
+            "url": "http://www.trismegistos.org/dl.php?id=11"
+        }, 
+        {
+            "title_full": "Click here", 
+            "url": "http://www.trismegistos.org/dl.php?id=9"
+        }, 
+        {
+            "title_full": "Click here", 
+            "url": "http://www.trismegistos.org/sinai/index.html"
+        }
+    ], 
+    "title": "Trismegistos", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.trismegistos.org/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,104 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Terra Incognita. ISSN: 2294-8252.", 
+    "domain": "www.tireview.be", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "2294-8252"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Belgium", 
+        "journal", 
+        "archaeology", 
+        "open access"
+    ], 
+    "languages": [], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7610133277557299828", 
+            "resource_date": "2015-03-29T15:18:32.480-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:22.227154"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/02/open-access-journal-terra-incognita.html", 
+            "resource_date": "2015-03-29T15:18:32.480-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:22.227168"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "index-php-terra-incognita-index", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Vol 6 (2015): academiejaar 2009-2010", 
+            "url": "http://www.tireview.be/index.php/terra_incognita/issue/view/48"
+        }, 
+        {
+            "title_full": "Vol 5 (2012): academiejaar 2008-2009", 
+            "url": "http://www.tireview.be/index.php/terra_incognita/issue/view/20"
+        }
+    ], 
+    "title": "Terra Incognita", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.tireview.be/index.php/terra_incognita/index", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

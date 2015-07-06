@@ -1,0 +1,91 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "To display concatenated output for more than one entry:Select your relevant entries by using their according checkboxes [in the far left table column] - alternatively, click some free (non-functional) area in the entry row while holding Ctrl pressed. Then use the selection-specific.", 
+    "domain": "bibmas.topoi.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Bibliography of Mesopotamian Astral Science", 
+        "url": "http://bibmas.topoi.org/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "data"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7420228266230708104", 
+            "resource_date": "2014-12-16T20:34:47.309-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:12.209208"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/12/bibliography-of-mesopotamian-astral.html", 
+            "resource_date": "2014-12-16T20:34:47.309-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:12.209219"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "-z", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "To perform an over-all search for relevant expressions in the full data set (all columns plus 'invisible' information): Use the \" Search (complete data set) \" field [in the upper right corner of the whole table]", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://bibmas.topoi.org/#z", 
+    "url_alternates": [], 
+    "volume": "-", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

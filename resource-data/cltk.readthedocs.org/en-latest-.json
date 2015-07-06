@@ -1,0 +1,224 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Classical Language Toolkit. The goals of the Classical Language Toolkit (CLTK) are to:.", 
+    "domain": "cltk.readthedocs.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Classical Language Toolkit", 
+        "url": "http://cltk.readthedocs.org/en/latest/#"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Greek", 
+        "classics", 
+        "Latin", 
+        "language"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6829054760870200743", 
+            "resource_date": "2014-05-17T21:20:10.247-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:45.251653"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/05/classical-language-toolkit.html", 
+            "resource_date": "2014-05-17T21:20:10.247-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:45.251670"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6829054760870200743", 
+            "resource_date": "2014-05-17T21:20:10.247-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:45.253574"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/05/classical-language-toolkit.html", 
+            "resource_date": "2014-05-17T21:20:10.247-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:45.253585"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:11:45.277061"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "en-latest-", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Classical Language Toolkit", 
+            "url": "http://cltk.readthedocs.org/en/latest/#"
+        }, 
+        {
+            "title_full": "About", 
+            "url": "http://cltk.readthedocs.org/en/latest/about.html"
+        }, 
+        {
+            "title_full": "Installation Through Pip Source", 
+            "url": "http://cltk.readthedocs.org/en/latest/installation.html"
+        }, 
+        {
+            "title_full": "Through Pip", 
+            "url": "http://cltk.readthedocs.org/en/latest/installation.html#through-pip"
+        }, 
+        {
+            "title_full": "Source", 
+            "url": "http://cltk.readthedocs.org/en/latest/installation.html#source"
+        }, 
+        {
+            "title_full": "Import Corpora Classical Greek Classical Latin", 
+            "url": "http://cltk.readthedocs.org/en/latest/import_corpora.html"
+        }, 
+        {
+            "title_full": "Classical Greek", 
+            "url": "http://cltk.readthedocs.org/en/latest/import_corpora.html#classical-greek"
+        }, 
+        {
+            "title_full": "Classical Latin", 
+            "url": "http://cltk.readthedocs.org/en/latest/import_corpora.html#classical-latin"
+        }, 
+        {
+            "title_full": "Classical Greek Text Processing", 
+            "url": "http://cltk.readthedocs.org/en/latest/classical_greek.html"
+        }, 
+        {
+            "title_full": "Text Processing", 
+            "url": "http://cltk.readthedocs.org/en/latest/classical_greek.html#text-processing"
+        }, 
+        {
+            "title_full": "Classical Latin POS Tagging Sentence Tokenization Text Processing", 
+            "url": "http://cltk.readthedocs.org/en/latest/classical_latin.html"
+        }, 
+        {
+            "title_full": "POS Tagging", 
+            "url": "http://cltk.readthedocs.org/en/latest/classical_latin.html#pos-tagging"
+        }, 
+        {
+            "title_full": "Sentence Tokenization", 
+            "url": "http://cltk.readthedocs.org/en/latest/classical_latin.html#sentence-tokenization"
+        }, 
+        {
+            "title_full": "Text Processing", 
+            "url": "http://cltk.readthedocs.org/en/latest/classical_latin.html#text-processing"
+        }, 
+        {
+            "title_full": "Index", 
+            "url": "http://cltk.readthedocs.org/en/latest/genindex.html"
+        }, 
+        {
+            "title_full": "Module Index", 
+            "url": "http://cltk.readthedocs.org/en/latest/py-modindex.html"
+        }, 
+        {
+            "title_full": "Search Page", 
+            "url": "http://cltk.readthedocs.org/en/latest/search.html"
+        }
+    ], 
+    "title": "Classical Language Toolkit", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://cltk.readthedocs.org/en/latest/#", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

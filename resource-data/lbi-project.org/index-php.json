@@ -1,0 +1,197 @@
+{
+    "authors": [
+        "ities", 
+        "universities", 
+        "researchers"
+    ], 
+    "contributors": [], 
+    "description": "LBI: Libyco-Berber Inscriptions Online Database. The LBI-project is based on the activities of INSTITUTUM CANARIUM in cooperation with Canary and North-African authorities, universities and researchers. The aim of the LBI-online-database is to present all known Libyco-Berber inscriptions of the Canary Islands and of several regions of Northern Africa, starting with Morocco. For the moment approximately 190 panels and 350 lines of inscription are known and documented on the Canary Islands, most of them on El Hierro, followed by Fuerteventura, Gran Canaria and Lanzarote, only single ones on Tenerife, La Palma and La Gomera. Morocco provides for the moment about 110 rock panels and additionally about 30 steles with Libyco-Berber inscriptions. Information has been broken down into two main types: SITE and INSCRIPTION. SITE includes information about the physical and political location of the site, its type, the number of inscriptions and - if available - photographs of the landscape. INSCRIPTION includes all information about one panel. Each inscription is documented by photograph and drawing and interpreted by epigraphic and linguistic commentaries. A comprehensive listing of the references can be found at REFERENCES. General information about the Libyco-Berber script is presented at SCRIPT, about the different alphabets at ALPHABET. CONCORDANCE should help to avoid misunderstandings in different languages by providing a multilingual list of special terms and definitions. EPIGRAPHIC CONVENTIONS gives a short explanation of some conventions used for the transliteration of the inscriptions. MAPS provide geographical overviews over the sites of a country/region.", 
+    "domain": "lbi-project.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "LBI: Libyco-Berber Inscriptions Online Database", 
+        "url": "http://lbi-project.org/index.php"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "epigraphy", 
+        "inscriptions", 
+        "Libya", 
+        "database", 
+        "Africa", 
+        "Morocco", 
+        "data"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707245032706733265", 
+            "resource_date": "2013-02-03T08:10:57.210-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:51.944525"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/lbi-libyco-berber-inscriptions-online.html", 
+            "resource_date": "2013-02-03T08:10:57.210-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:51.944542"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707245032706733265", 
+            "resource_date": "2013-02-03T08:10:57.210-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:51.949880"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/lbi-libyco-berber-inscriptions-online.html", 
+            "resource_date": "2013-02-03T08:10:57.210-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:51.949893"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "volume", 
+                "authors", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:11:51.985137"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "index-php", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "LBI: Libyco-Berber Inscriptions Online Database", 
+            "url": "http://lbi-project.org/index.php"
+        }, 
+        {
+            "title_full": "Objectives", 
+            "url": "http://lbi-project.org/objectives.php"
+        }, 
+        {
+            "title_full": "LBI-Database", 
+            "url": "http://lbi-project.org/lbi-db.php"
+        }, 
+        {
+            "title_full": "LB-Script", 
+            "url": "http://lbi-project.org/script.php"
+        }, 
+        {
+            "title_full": "LB-Alphabet", 
+            "url": "http://lbi-project.org/alphabet.php"
+        }, 
+        {
+            "title_full": "LB-References", 
+            "url": "http://lbi-project.org/references.php"
+        }, 
+        {
+            "title_full": "Guest Comments", 
+            "url": "http://lbi-project.org/gcomments.php"
+        }, 
+        {
+            "title_full": "Version protocol", 
+            "url": "http://lbi-project.org/vprotocol.php"
+        }
+    ], 
+    "title": "LBI: Libyco-Berber Inscriptions Online Database", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://lbi-project.org/index.php", 
+    "url_alternates": [], 
+    "volume": "-", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

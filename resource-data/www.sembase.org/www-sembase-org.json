@@ -1,0 +1,195 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Sembase: a database project for the study of Semitic roots. In today's world, even people in the same general discipline, but specialized in different areas, may not understand each other's work. Nonlinguists working on Middle East topics, or linguists devoting their time to the study of other language families, may not have been exposed to the Semitic family of languages (or Semitic subfamily of Afro-Asiatic). The Semitic languages all share certain distinctive characteristics. This project is especially dependent on one of them, the consonantal root system. This very brief introduction is intended to enable the nonspecialist to more fully understand Sembase. PROJECTINFO. History. Concept. Design. Applications. OTHERSTUFF. Status. Fonts. Semslave. Contact.", 
+    "domain": "www.sembase.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Sembase: a database project for the study of Semitic roots", 
+        "url": "http://www.sembase.org/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "linguistics", 
+        "semitics", 
+        "database", 
+        "dictionaries", 
+        "project", 
+        "lexicography", 
+        "data"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7515713918073841730", 
+            "resource_date": "2013-03-02T12:39:45.093-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:20.004899"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/sembase-database-project-for-study-of.html", 
+            "resource_date": "2013-03-02T12:39:45.093-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:20.004915"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7515713918073841730", 
+            "resource_date": "2013-03-02T12:39:45.093-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:20.008509"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/03/sembase-database-project-for-study-of.html", 
+            "resource_date": "2013-03-02T12:39:45.093-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:20.008521"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:20.024288"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "www-sembase-org", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Sembase: a database project for the study of Semitic roots", 
+            "url": "http://www.sembase.org/"
+        }, 
+        {
+            "title_full": "History", 
+            "url": "http://www.sembase.org/phistory.html"
+        }, 
+        {
+            "title_full": "Concept", 
+            "url": "http://www.sembase.org/phistory.html#concept"
+        }, 
+        {
+            "title_full": "Design", 
+            "url": "http://www.sembase.org/pdesign.html#design"
+        }, 
+        {
+            "title_full": "Applications", 
+            "url": "http://www.sembase.org/papps.html#application"
+        }, 
+        {
+            "title_full": "Status", 
+            "url": "http://www.sembase.org/#s"
+        }, 
+        {
+            "title_full": "Fonts", 
+            "url": "http://www.sembase.org/papps.html#fonts"
+        }, 
+        {
+            "title_full": "Semslave", 
+            "url": "http://www.sembase.org/papps.html#semslave"
+        }, 
+        {
+            "title_full": "Contact", 
+            "url": "http://www.sembase.org/papps.html#contact"
+        }
+    ], 
+    "title": "Sembase: a database project for the study of Semitic roots", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.sembase.org/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

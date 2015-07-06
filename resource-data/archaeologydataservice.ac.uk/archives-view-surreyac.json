@@ -1,0 +1,384 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Surrey Archaeological Collections, the journal of the.", 
+    "domain": "archaeologydataservice.ac.uk", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "archaeology", 
+        "collection", 
+        "open access"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3106627913510334240", 
+            "resource_date": "2012-02-13T11:32:18.022-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:50.735796"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/10/newly-open-access-journal-surrey.html", 
+            "resource_date": "2012-02-13T11:32:18.022-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:50.735812"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "archives-view-surreyac", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Volume 1 (1858)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=1&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 2 (1864)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=2&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 3 (1865)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=3&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 4 (1869)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=4&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 5 (1871)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=5&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 6 (1874)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=6&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 7 (1880)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=7&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 8 (1883)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=8&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 9 (1888)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=9&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 10 (1891)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=10&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 11 (1892)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=11&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 12 (1895)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=12&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 13 (1897)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=13&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 14 (1899)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=14&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 15 (1900)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=15&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 16 (1901)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=16&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 17 (1902)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=17&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 18 (1903)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=18&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 19 (1906)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=19&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 20 (1907)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=20&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 21 (1908)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=21&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 22 (1909)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=22&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 23 (1910)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=23&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 24 (1911)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=24&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 25 (1912)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=25&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 26 (1913)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=26&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 27 (1914)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=27&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 28 (1915)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=28&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 29 (1916)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=29&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 30 (1917)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=30&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 31 (1918)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=31&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 32 (1919)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=32&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 33 (1920)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=33&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 34 (1921)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=34&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 35 (1924)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=35&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 36 (1925)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=36&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 37 (1927)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=37&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 38 (1930)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=38&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 39 (1931)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=39&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 40 (1932)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=40&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 41 (1933)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=41&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 42 (1934)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=42&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 43 (1935)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=43&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 44 (1936)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=44&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 45 (1937)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=45&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 46 (1938)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=46&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 47 (1941)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=47&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 48 (1943)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=48&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 49 (1946)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=49&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 50 (1949)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=50&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 51 (1950)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=51&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 52 (1952)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=52&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 53 (1954)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=53&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 54 (1955)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=54&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 55 (1957)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=55&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 56 (1959)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=56&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 57 (1960)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=57&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 58 (1961)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=58&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 59 (1962)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=59&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 60 (1963)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=60&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 61 (1964)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=61&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 62 (1965)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=62&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 63 (1966)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=63&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 64 (1967)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=64&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 65 (1968)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=65&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 66 (1969)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=66&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 90 (2003)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=90&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 91 (2004)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=91&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 92 (2005)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=92&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 93 (2007)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=93&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 94 (2008)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=94&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 95 (2010)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=95&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }, 
+        {
+            "title_full": "Volume 96 (2011)", 
+            "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/contents.cfm?vol=96&CFID=62101&CFTOKEN=78BC2B43-E0D7-4D0C-94DAD2912DA73FD9"
+        }
+    ], 
+    "title": "Surrey Archaeological Collections", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://archaeologydataservice.ac.uk/archives/view/surreyac/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

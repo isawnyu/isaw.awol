@@ -1,0 +1,163 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "The Oriental Institute launches its Integrated Database. The Oriental Institute\u2019s Integrated Database Project aims to provide public access to information about the diverse research and object-based collections managed and cared for by the Oriental Institute. As part of the Oriental Institute\u2019s Integrated Database Project, the Research Archives Online Catalog has taken on a new look and feel, added new functionality, and has a new home. We welcome you to check-out the new online catalogue here. The project has been over eight years in the making, and has involved migrating data from the older Collections and Research Archives databases to the new KE EMu (Electronic Museum) database, and creating a \u2018front end\u2019 website portal to access the information. This launch includes both the Research Archives and the majority of the museum objects, not just those in the galleries, in the online database. This is Phase One of a multistage project. We are currently working on transferring the Image database as part of Phase II, which is why you will generally not yet see images of objects on collections searches. Periodic reports on the progress of Phase II will be presented on the OI website.", 
+    "domain": "oi.uchicago.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Integrated Database", 
+        "url": "https://oi.uchicago.edu/idb/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "database", 
+        "data", 
+        "Oriental Institute"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4805300192394284081", 
+            "resource_date": "2013-02-03T18:00:16.019-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:09:19.811264"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/the-oriental-institute-launches-its.html", 
+            "resource_date": "2013-02-03T18:00:16.019-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:09:19.811280"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4805300192394284081", 
+            "resource_date": "2013-02-03T18:00:16.019-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:09:19.818497"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/the-oriental-institute-launches-its.html", 
+            "resource_date": "2013-02-03T18:00:16.019-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:09:19.818508"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:09:19.821551"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "idb", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "The Oriental Institute launches its Integrated Database", 
+            "url": "http://oi.uchicago.edu/news/"
+        }, 
+        {
+            "title_full": "Integrated Database", 
+            "url": "https://oi.uchicago.edu/idb/"
+        }
+    ], 
+    "title": "Integrated Database", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "https://oi.uchicago.edu/idb/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

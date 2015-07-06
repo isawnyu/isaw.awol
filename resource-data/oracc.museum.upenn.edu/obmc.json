@@ -1,0 +1,185 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Old Babylonian Model Contracts. This research project aims to provide editions and translations of all known Old Babylonian Model Contracts. The project is directed by Gabriella Spada. HomeOld Babylonian Model ContractsOld Babylonian SchoolSchool TabletsBibliographyAbout OBMCBrowse OBMC.", 
+    "domain": "oracc.museum.upenn.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Old Babylonian Model Contracts", 
+        "url": "http://oracc.museum.upenn.edu/obmc/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Babylon", 
+        "Mesopotamia", 
+        "cuneiform", 
+        "Iran", 
+        "Old Babylonian"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3930369183777309842", 
+            "resource_date": "2015-03-29T17:20:12.282-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:26.587860"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/03/old-babylonian-model-contracts.html", 
+            "resource_date": "2015-03-29T17:20:12.282-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:26.587877"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3930369183777309842", 
+            "resource_date": "2015-03-29T17:20:12.282-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:26.589508"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/03/old-babylonian-model-contracts.html", 
+            "resource_date": "2015-03-29T17:20:12.282-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:26.589519"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:08:26.598934"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "obmc", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Old Babylonian Model Contracts", 
+            "url": "http://oracc.museum.upenn.edu/obmc/"
+        }, 
+        {
+            "title_full": "Old Babylonian Model Contracts", 
+            "url": "http://oracc.museum.upenn.edu/obmc/corpus/"
+        }, 
+        {
+            "title_full": "Old Babylonian Model Contracts", 
+            "url": "http://oracc.museum.upenn.edu/obmc/oldbabylonianmodelcontracts/index.html"
+        }, 
+        {
+            "title_full": "Old Babylonian School", 
+            "url": "http://oracc.museum.upenn.edu/obmc/oldbabylonianschool/index.html"
+        }, 
+        {
+            "title_full": "School Tablets", 
+            "url": "http://oracc.museum.upenn.edu/obmc/schooltablets/index.html"
+        }, 
+        {
+            "title_full": "Bibliography", 
+            "url": "http://oracc.museum.upenn.edu/obmc/bibliography/index.html"
+        }, 
+        {
+            "title_full": "About OBMC", 
+            "url": "http://oracc.museum.upenn.edu/obmc/aboutobmc/index.html"
+        }
+    ], 
+    "title": "Old Babylonian Model Contracts", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://oracc.museum.upenn.edu/obmc/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

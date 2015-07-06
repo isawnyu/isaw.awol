@@ -1,0 +1,202 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Muzeul Na\u0163ional de Istorie a Rom\u00e2niei.", 
+    "domain": "www.mnir.ro", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Periodice", 
+        "url": "http://www.mnir.ro/ro/Publicatii/Periodice.aspx"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Romania", 
+        "library", 
+        "digital library"
+    ], 
+    "languages": [
+        "ro"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-594967432813277624", 
+            "resource_date": "2011-08-26T09:35:12.748-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:52.963438"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/digital-library-muzeul-national-de.html", 
+            "resource_date": "2011-08-26T09:35:12.748-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:52.963452"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-594967432813277624", 
+            "resource_date": "2011-08-26T09:35:12.748-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:52.964972"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/digital-library-muzeul-national-de.html", 
+            "resource_date": "2011-08-26T09:35:12.748-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:52.964982"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:52.985281"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "ro-Publicatii-Periodice-aspx", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Periodice", 
+            "url": "http://www.mnir.ro/ro/Publicatii/Periodice.aspx"
+        }, 
+        {
+            "title_full": "Muzeul Na\u0163ional", 
+            "url": "http://www.mnir.ro/ro/Publicatii/ItemsPeriodice.aspx?IDPeriodic=1"
+        }, 
+        {
+            "title_full": "Cercet\u0103ri Arheologice", 
+            "url": "http://www.mnir.ro/ro/Publicatii/ItemsPeriodice.aspx?IDPeriodic=2"
+        }, 
+        {
+            "title_full": "Cercet\u0103ri Numismatice", 
+            "url": "http://www.mnir.ro/ro/Publicatii/ItemsPeriodice.aspx?IDPeriodic=3"
+        }, 
+        {
+            "title_full": "Monografii", 
+            "url": "http://www.mnir.ro/ro/Publicatii/Monografii.aspx"
+        }, 
+        {
+            "title_full": "Cri\u015fan Mu\u015fe\u0163eanu \u00een colaborare cu Dan Elefterescu , Ateliere ceramice romane de la Durostorum", 
+            "url": "http://www.mnir.ro/ro/Publicatii/Monografie.aspx?IDMonografie=7"
+        }, 
+        {
+            "title_full": "Teze de Doctorat", 
+            "url": "http://www.mnir.ro/ro/Publicatii/TezeDoctorat.aspx"
+        }, 
+        {
+            "title_full": "Cristina Anton Manea , Structura \u015fi restructurarea marii boierimi din \u0162ara Rom\u00e2neasc\u0103 de la \u00eenceputul secolului al XVI-LEA p\u00e2n\u0103 la mijlocul secolului al XVII-LEA , 2003", 
+            "url": "http://www.mnir.ro/ro/Publicatii/Teza.aspx?IDTeza=7"
+        }, 
+        {
+            "title_full": "Valentin Radu , Exploitation des ressources aquatiques dans les cultures n\u00e9olithiques et chalcolithiques de la Roumanie M\u00e9ridionale , 2003", 
+            "url": "http://www.mnir.ro/ro/Publicatii/Teza.aspx?IDTeza=6"
+        }, 
+        {
+            "title_full": "Paul Cristian Damian , Geto-dacii \u00een configura\u0163ia demografic\u0103 a Daciei Romane , 2002", 
+            "url": "http://www.mnir.ro/ro/Publicatii/Teza.aspx?IDTeza=4"
+        }, 
+        {
+            "title_full": "Eugen S. Teodor , Ceramica din Muntenia, de la sf\u00e2r\u015fitul veacului al V-lea p\u00e2n\u0103 la mijlocul veacului al VII-lea , 2001", 
+            "url": "http://www.mnir.ro/ro/Publicatii/Teza.aspx?IDTeza=5"
+        }, 
+        {
+            "title_full": "Rapoarte", 
+            "url": "http://www.mnir.ro/ro/Publicatii/Rapoarte.aspx"
+        }
+    ], 
+    "title": "Periodice", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.mnir.ro/ro/Publicatii/Periodice.aspx", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

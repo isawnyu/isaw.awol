@@ -1,0 +1,161 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Shared Shelf Commons is a free, open-access library of images. Search and browse collections with tools to zoom, print, export, and share images. Institutions that subscribe to Shared Shelf, a Web-based service for cataloging and managing digital collections, can share their images with the world via the Commons.", 
+    "domain": "www.sscommons.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Shared Shelf Commons", 
+        "url": "http://www.sscommons.org/openlibrary/welcome.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "imagery", 
+        "collection"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6824209354011308762", 
+            "resource_date": "2014-03-04T10:50:49.950-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:45.032155"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/03/shared-shelf-commons-image-collections.html", 
+            "resource_date": "2014-03-04T10:50:49.950-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:45.032179"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6824209354011308762", 
+            "resource_date": "2014-03-04T10:50:49.950-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:45.034436"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/03/shared-shelf-commons-image-collections.html", 
+            "resource_date": "2014-03-04T10:50:49.950-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:45.034448"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:11:45.038139"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "openlibrary-welcome-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Shared Shelf Commons", 
+            "url": "http://www.sscommons.org/openlibrary/welcome.html"
+        }, 
+        {
+            "title_full": "Currently available collections", 
+            "url": "http://www.sscommons.org/openlibrary/welcome.html#2|all|All20Collections"
+        }
+    ], 
+    "title": "Shared Shelf Commons", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.sscommons.org/openlibrary/welcome.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

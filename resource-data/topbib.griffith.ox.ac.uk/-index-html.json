@@ -1,0 +1,200 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "The Digital Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Statues, Reliefs, and Paintings. This is the home for the Digital Topographical Bibliography and presents the new framework for the project. Alongside searchable PDFs of the current print version, vols. 1-7, examples of new data focusing on two case-studies (Tuna el-Gebel and Tell el-Far\u02bfun) have been made available. The third case-study is a revised edition for part of Volume 8 - Objects of Provenance Not Known available here as a XHTML text (as opposed to PDF), and covers the complete section for Royal Statues.", 
+    "domain": "topbib.griffith.ox.ac.uk", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "The Digital Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Statues, Reliefs, and Paintings", 
+        "url": "http://topbib.griffith.ox.ac.uk//index.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "epigraphy", 
+        "ancient", 
+        "bibliography", 
+        "Egyptian", 
+        "Egypt", 
+        "egyptology", 
+        "antiquity", 
+        "archaeology"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9044327473029823632", 
+            "resource_date": "2015-05-26T11:31:18.480-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:15:12.933357"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/07/the-digital-topographical-bibliography.html", 
+            "resource_date": "2015-05-26T11:31:18.480-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:15:12.933372"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9044327473029823632", 
+            "resource_date": "2015-05-26T11:31:18.480-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:15:12.936259"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/07/the-digital-topographical-bibliography.html", 
+            "resource_date": "2015-05-26T11:31:18.480-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:15:12.936271"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:15:12.956863"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "-index-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "The Digital Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Statues, Reliefs, and Paintings", 
+            "url": "http://topbib.griffith.ox.ac.uk//index.html"
+        }, 
+        {
+            "title_full": "searchable PDFs", 
+            "url": "http://topbib.griffith.ox.ac.uk//pdf.html"
+        }, 
+        {
+            "title_full": "Tuna el-Gebel", 
+            "url": "http://topbib.griffith.ox.ac.uk//dtb.html?topbib=409-030"
+        }, 
+        {
+            "title_full": "Tell el-Far\u02bfun", 
+            "url": "http://topbib.griffith.ox.ac.uk//dtb.html?topbib=401-150"
+        }, 
+        {
+            "title_full": "Royal Statues", 
+            "url": "http://topbib.griffith.ox.ac.uk//dtb.html?topbib=800"
+        }, 
+        {
+            "title_full": "browse", 
+            "url": "http://topbib.griffith.ox.ac.uk//dtb.html?topbib=0"
+        }, 
+        {
+            "title_full": "search", 
+            "url": "http://topbib.griffith.ox.ac.uk//dtb.html?topbib=search"
+        }, 
+        {
+            "title_full": "Browse by 'PM' vols. 1 - Theban Necropolis 2 - Theban Temples 3 - Memphis 4 - Lower & Middle Egypt 5 - Upper Egypt. Sites 6 - Upper Egypt. Chief Temples 7 - Nubia, the Deserts Outside Egypt 8 - Objects of Provenance Not Known", 
+            "url": "http://topbib.griffith.ox.ac.uk//dtb.html?topbib=intro#"
+        }, 
+        {
+            "title_full": "Vol. 8 - Royal Statues, New Records", 
+            "url": "http://topbib.griffith.ox.ac.uk//dtb.html?topbib=new"
+        }, 
+        {
+            "title_full": "XML", 
+            "url": "http://topbib.griffith.ox.ac.uk//project.html#tabs-digital-approach"
+        }
+    ], 
+    "title": "The Digital Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Statues, Reliefs, and Paintings", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://topbib.griffith.ox.ac.uk//index.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

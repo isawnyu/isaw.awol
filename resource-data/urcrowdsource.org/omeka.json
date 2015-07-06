@@ -1,0 +1,186 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "UrCrowdsource is asking for public assistance in transcribing thousands of documents related to the excavations of the ancient city of Ur in Mesopotamia. These excavations were conducted under the auspices of the Iraqi Department of Antiquities from 1922-1934 by the joint expedition of the British Museum and the University of Pennsylvania Museum. Right now, we are testing the crowdsourced transcription of the documents. A small subset of the total is available on this site, letters from 1919-1923 and the field notes of Max Mallowan, Leonard Woolley's general archaeological assistant from 1925-1931. Both Woolley and Mallowan were later knighted, and Max met another future knight and mystery writier, Agatha Christie at the excavations of Ur. He married her not long after. With enough participation, more notes and letters will be added. There are 19 volumes of Woolley's notes and many more years of letters and reports, including much more stored currently in the British Museum archives. UrCrowdsource is a part of the Ur Digitization Project funded by the Leon Levy Foundation and conducted by the original excavating museums in Philadelphia and London.", 
+    "domain": "urcrowdsource.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "UrCrowdsource", 
+        "url": "http://urcrowdsource.org/omeka/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Mesopotamia", 
+        "Iraq", 
+        "archaeology"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2734244066054559020", 
+            "resource_date": "2012-09-30T08:13:07.948-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:34.121949"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/urcrowdsource.html", 
+            "resource_date": "2012-09-30T08:13:07.948-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:34.121966"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2734244066054559020", 
+            "resource_date": "2012-09-30T08:13:07.948-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:34.126579"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/urcrowdsource.html", 
+            "resource_date": "2012-09-30T08:13:07.948-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:34.126594"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:34.140224"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "omeka", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "UrCrowdsource", 
+            "url": "http://urcrowdsource.org/omeka/"
+        }, 
+        {
+            "title_full": "Browse Items", 
+            "url": "http://urcrowdsource.org/omeka/items"
+        }, 
+        {
+            "title_full": "Browse Collections", 
+            "url": "http://urcrowdsource.org/omeka/collections"
+        }, 
+        {
+            "title_full": "Scripto", 
+            "url": "http://urcrowdsource.org/omeka/scripto"
+        }, 
+        {
+            "title_full": "About", 
+            "url": "http://urcrowdsource.org/omeka/about"
+        }, 
+        {
+            "title_full": "Sign Up", 
+            "url": "http://urcrowdsource.org/omeka/sign-up"
+        }, 
+        {
+            "title_full": "Transcribe", 
+            "url": "http://urcrowdsource.org/omeka/transcribe"
+        }, 
+        {
+            "title_full": "Transcription Guidelines", 
+            "url": "http://urcrowdsource.org/omeka/guidelines"
+        }
+    ], 
+    "title": "UrCrowdsource", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://urcrowdsource.org/omeka/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

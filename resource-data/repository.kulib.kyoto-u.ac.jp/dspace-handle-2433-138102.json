@@ -1,0 +1,1241 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "T\u014dy\u014d shi kenky\u016b / \u6771\u6d0b\u53f2\u784f\u7a76. ISSN: 0386-9059. [\u6771\u6d0b\u53f2\u784f\u7a76\u6703]. ; T\u014dy\u014dshi Kenky\u016bkai (Japan). Other titles: T\u014dy\u014dshi kenky\u016b = T\u014dy\u014dshi-kenky\u016b = Revue des \u00e9tudes d'histoire de l'Extr\u00eame-Orient = Journal of Oriental researches. KURENAI\u3067\u306f\u96d1\u8a8c\u306e\u767a\u884c\u304b\u30893\u5e74\u7d4c\u904e\u5f8c\u306b\u516c\u958b\u3055\u308c\u307e\u3059\u3002The embargo period is 3 years after publication.", 
+    "domain": "repository.kulib.kyoto-u.ac.jp", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0386-9059"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Japan", 
+        "journal", 
+        "open access"
+    ], 
+    "languages": [
+        "ja"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1543159936280256593", 
+            "resource_date": "2012-11-28T15:53:02.880-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:05:32.313878"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-toyo-shi-kenkyu.html", 
+            "resource_date": "2012-11-28T15:53:02.880-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:05:32.313895"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "dspace-handle-2433-138102", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "68\u5dfb2\u53f7 2009-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/160350"
+        }, 
+        {
+            "title_full": "68\u5dfb1\u53f7 2009-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/157322"
+        }, 
+        {
+            "title_full": "67\u5dfb4\u53f7 2009-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/155561"
+        }, 
+        {
+            "title_full": "67\u5dfb3\u53f7 2008-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152103"
+        }, 
+        {
+            "title_full": "67\u5dfb2\u53f7 2008-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/147170"
+        }, 
+        {
+            "title_full": "67\u5dfb1\u53f7 2008-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145212"
+        }, 
+        {
+            "title_full": "66\u5dfb4\u53f7 2008-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/141869"
+        }, 
+        {
+            "title_full": "66\u5dfb3\u53f7 2007-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138117"
+        }, 
+        {
+            "title_full": "66\u5dfb2\u53f7 2007-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138116"
+        }, 
+        {
+            "title_full": "66\u5dfb1\u53f7 2007-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138115"
+        }, 
+        {
+            "title_full": "65\u5dfb4\u53f7 2007-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138114"
+        }, 
+        {
+            "title_full": "65\u5dfb3\u53f7 2006-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138113"
+        }, 
+        {
+            "title_full": "65\u5dfb2\u53f7 2006-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138112"
+        }, 
+        {
+            "title_full": "65\u5dfb1\u53f7 2006-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138111"
+        }, 
+        {
+            "title_full": "64\u5dfb4\u53f7 2006-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138110"
+        }, 
+        {
+            "title_full": "64\u5dfb3\u53f7 2005-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138109"
+        }, 
+        {
+            "title_full": "64\u5dfb2\u53f7 2005-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138108"
+        }, 
+        {
+            "title_full": "64\u5dfb1\u53f7 2005-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138107"
+        }, 
+        {
+            "title_full": "63\u5dfb4\u53f7 2005-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138106"
+        }, 
+        {
+            "title_full": "63\u5dfb3\u53f7 2004-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138105"
+        }, 
+        {
+            "title_full": "63\u5dfb2\u53f7 2004-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138104"
+        }, 
+        {
+            "title_full": "63\u5dfb1\u53f7 2004-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138103"
+        }, 
+        {
+            "title_full": "62\u5dfb4\u53f7 2004-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154718"
+        }, 
+        {
+            "title_full": "62\u5dfb3\u53f7 2003-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154717"
+        }, 
+        {
+            "title_full": "62\u5dfb2\u53f7 2003-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154716"
+        }, 
+        {
+            "title_full": "62\u5dfb1\u53f7 2003-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154715"
+        }, 
+        {
+            "title_full": "61\u5dfb4\u53f7 2003-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154714"
+        }, 
+        {
+            "title_full": "61\u5dfb3\u53f7 2002-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154713"
+        }, 
+        {
+            "title_full": "61\u5dfb2\u53f7 2002-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154711"
+        }, 
+        {
+            "title_full": "61\u5dfb1\u53f7 2002-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154710"
+        }, 
+        {
+            "title_full": "60\u5dfb4\u53f7 2002-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154709"
+        }, 
+        {
+            "title_full": "60\u5dfb3\u53f7 2001-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154708"
+        }, 
+        {
+            "title_full": "60\u5dfb2\u53f7 2001-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154707"
+        }, 
+        {
+            "title_full": "60\u5dfb1\u53f7 2001-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154706"
+        }, 
+        {
+            "title_full": "59\u5dfb4\u53f7 2001-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154705"
+        }, 
+        {
+            "title_full": "59\u5dfb3\u53f7 2000-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154704"
+        }, 
+        {
+            "title_full": "59\u5dfb2\u53f7 2000-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154703"
+        }, 
+        {
+            "title_full": "59\u5dfb1\u53f7 2000-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154702"
+        }, 
+        {
+            "title_full": "58\u5dfb4\u53f7 2000-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154701"
+        }, 
+        {
+            "title_full": "58\u5dfb3\u53f7 1999-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154700"
+        }, 
+        {
+            "title_full": "58\u5dfb2\u53f7 1999-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154699"
+        }, 
+        {
+            "title_full": "58\u5dfb1\u53f7 1999-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154698"
+        }, 
+        {
+            "title_full": "57\u5dfb4\u53f7 1999-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154697"
+        }, 
+        {
+            "title_full": "57\u5dfb3\u53f7 1998-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154696"
+        }, 
+        {
+            "title_full": "57\u5dfb2\u53f7 1998-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154695"
+        }, 
+        {
+            "title_full": "57\u5dfb1\u53f7 1998-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154694"
+        }, 
+        {
+            "title_full": "56\u5dfb4\u53f7 1998-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154693"
+        }, 
+        {
+            "title_full": "56\u5dfb3\u53f7 1997-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154692"
+        }, 
+        {
+            "title_full": "56\u5dfb2\u53f7 1997-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154691"
+        }, 
+        {
+            "title_full": "56\u5dfb1\u53f7 1997-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154690"
+        }, 
+        {
+            "title_full": "55\u5dfb4\u53f7 1997-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154689"
+        }, 
+        {
+            "title_full": "55\u5dfb3\u53f7 1996-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154688"
+        }, 
+        {
+            "title_full": "55\u5dfb2\u53f7 1996-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154687"
+        }, 
+        {
+            "title_full": "55\u5dfb1\u53f7 1996-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154686"
+        }, 
+        {
+            "title_full": "54\u5dfb4\u53f7 1996-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154097"
+        }, 
+        {
+            "title_full": "54\u5dfb2\u53f7 1995-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154095"
+        }, 
+        {
+            "title_full": "54\u5dfb3\u53f7 1995-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154096"
+        }, 
+        {
+            "title_full": "54\u5dfb1\u53f7 1995-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154094"
+        }, 
+        {
+            "title_full": "53\u5dfb4\u53f7 1995-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154093"
+        }, 
+        {
+            "title_full": "53\u5dfb3\u53f7 1994-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154092"
+        }, 
+        {
+            "title_full": "53\u5dfb2\u53f7 1994-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154091"
+        }, 
+        {
+            "title_full": "53\u5dfb1\u53f7 1994-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154090"
+        }, 
+        {
+            "title_full": "52\u5dfb4\u53f7 1994-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154089"
+        }, 
+        {
+            "title_full": "52\u5dfb3\u53f7 1993-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154088"
+        }, 
+        {
+            "title_full": "52\u5dfb2\u53f7 1993-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154087"
+        }, 
+        {
+            "title_full": "52\u5dfb1\u53f7 1993-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154086"
+        }, 
+        {
+            "title_full": "51\u5dfb4\u53f7 1993-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154085"
+        }, 
+        {
+            "title_full": "51\u5dfb3\u53f7 1992-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154084"
+        }, 
+        {
+            "title_full": "51\u5dfb2\u53f7 1992-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154083"
+        }, 
+        {
+            "title_full": "51\u5dfb1\u53f7 1992-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154082"
+        }, 
+        {
+            "title_full": "50\u5dfb4\u53f7 1992-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154081"
+        }, 
+        {
+            "title_full": "50\u5dfb3\u53f7 1991-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154080"
+        }, 
+        {
+            "title_full": "50\u5dfb2\u53f7 1991-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154079"
+        }, 
+        {
+            "title_full": "50\u5dfb1\u53f7 1991-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154078"
+        }, 
+        {
+            "title_full": "49\u5dfb4\u53f7 1991-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154077"
+        }, 
+        {
+            "title_full": "49\u5dfb3\u53f7 1990-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154076"
+        }, 
+        {
+            "title_full": "49\u5dfb2\u53f7 1990-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154075"
+        }, 
+        {
+            "title_full": "49\u5dfb1\u53f7 1990-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154074"
+        }, 
+        {
+            "title_full": "48\u5dfb4\u53f7 1990-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154073"
+        }, 
+        {
+            "title_full": "48\u5dfb3\u53f7 1989-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154072"
+        }, 
+        {
+            "title_full": "48\u5dfb2\u53f7 1989-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154071"
+        }, 
+        {
+            "title_full": "48\u5dfb1\u53f7 1989-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154070"
+        }, 
+        {
+            "title_full": "47\u5dfb4\u53f7 1989-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154069"
+        }, 
+        {
+            "title_full": "47\u5dfb3\u53f7 1988-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154068"
+        }, 
+        {
+            "title_full": "47\u5dfb2\u53f7 1988-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154067"
+        }, 
+        {
+            "title_full": "47\u5dfb1\u53f7 1988-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154066"
+        }, 
+        {
+            "title_full": "46\u5dfb4\u53f7 1988-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154065"
+        }, 
+        {
+            "title_full": "46\u5dfb3\u53f7 1987-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154064"
+        }, 
+        {
+            "title_full": "46\u5dfb2\u53f7 1987-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154063"
+        }, 
+        {
+            "title_full": "46\u5dfb1\u53f7 1987-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154062"
+        }, 
+        {
+            "title_full": "45\u5dfb4\u53f7 1987-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154061"
+        }, 
+        {
+            "title_full": "45\u5dfb3\u53f7 1986-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154060"
+        }, 
+        {
+            "title_full": "45\u5dfb2\u53f7 1986-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154059"
+        }, 
+        {
+            "title_full": "45\u5dfb1\u53f7 1986-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154058"
+        }, 
+        {
+            "title_full": "44\u5dfb4\u53f7 1986-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154057"
+        }, 
+        {
+            "title_full": "44\u5dfb3\u53f7 1985-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154056"
+        }, 
+        {
+            "title_full": "44\u5dfb2\u53f7 1985-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154055"
+        }, 
+        {
+            "title_full": "44\u5dfb1\u53f7 1985-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/154054"
+        }, 
+        {
+            "title_full": "43\u5dfb4\u53f7 1985-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153459"
+        }, 
+        {
+            "title_full": "43\u5dfb3\u53f7 1984-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153458"
+        }, 
+        {
+            "title_full": "43\u5dfb2\u53f7 1984-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153457"
+        }, 
+        {
+            "title_full": "43\u5dfb1\u53f7 1984-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153456"
+        }, 
+        {
+            "title_full": "42\u5dfb4\u53f7 1984-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153455"
+        }, 
+        {
+            "title_full": "42\u5dfb3\u53f7 1983-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153454"
+        }, 
+        {
+            "title_full": "42\u5dfb2\u53f7 1983-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153453"
+        }, 
+        {
+            "title_full": "42\u5dfb1\u53f7 1983-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153452"
+        }, 
+        {
+            "title_full": "41\u5dfb4\u53f7 1983-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153451"
+        }, 
+        {
+            "title_full": "41\u5dfb3\u53f7 1982-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153450"
+        }, 
+        {
+            "title_full": "41\u5dfb2\u53f7 1982-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153449"
+        }, 
+        {
+            "title_full": "41\u5dfb1\u53f7 1982-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153448"
+        }, 
+        {
+            "title_full": "40\u5dfb4\u53f7 1982-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153447"
+        }, 
+        {
+            "title_full": "40\u5dfb3\u53f7 1981-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153446"
+        }, 
+        {
+            "title_full": "40\u5dfb2\u53f7 1981-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153445"
+        }, 
+        {
+            "title_full": "40\u5dfb1\u53f7 1981-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153444"
+        }, 
+        {
+            "title_full": "39\u5dfb4\u53f7 1981-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153443"
+        }, 
+        {
+            "title_full": "39\u5dfb3\u53f7 1980-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153442"
+        }, 
+        {
+            "title_full": "39\u5dfb2\u53f7 1980-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153441"
+        }, 
+        {
+            "title_full": "39\u5dfb1\u53f7 1980-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153440"
+        }, 
+        {
+            "title_full": "38\u5dfb4\u53f7 1980-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153460"
+        }, 
+        {
+            "title_full": "38\u5dfb3\u53f7 1979-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153439"
+        }, 
+        {
+            "title_full": "38\u5dfb2\u53f7 1979-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153438"
+        }, 
+        {
+            "title_full": "38\u5dfb1\u53f7 1979-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153437"
+        }, 
+        {
+            "title_full": "37\u5dfb4\u53f7 1979-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153436"
+        }, 
+        {
+            "title_full": "37\u5dfb3\u53f7 1978-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153435"
+        }, 
+        {
+            "title_full": "37\u5dfb2\u53f7 1978-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153434"
+        }, 
+        {
+            "title_full": "37\u5dfb1\u53f7 1978-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153433"
+        }, 
+        {
+            "title_full": "36\u5dfb4\u53f7 1978-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153432"
+        }, 
+        {
+            "title_full": "36\u5dfb3\u53f7 1977-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153431"
+        }, 
+        {
+            "title_full": "36\u5dfb2\u53f7 1977-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153430"
+        }, 
+        {
+            "title_full": "36\u5dfb1\u53f7 1977-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153429"
+        }, 
+        {
+            "title_full": "35\u5dfb4\u53f7 1977-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153428"
+        }, 
+        {
+            "title_full": "35\u5dfb3\u53f7 1976-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153427"
+        }, 
+        {
+            "title_full": "35\u5dfb2\u53f7 1976-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153426"
+        }, 
+        {
+            "title_full": "35\u5dfb1\u53f7 1976-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153425"
+        }, 
+        {
+            "title_full": "34\u5dfb4\u53f7 1976-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153424"
+        }, 
+        {
+            "title_full": "34\u5dfb3\u53f7 1975-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153423"
+        }, 
+        {
+            "title_full": "34\u5dfb2\u53f7 1975-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153422"
+        }, 
+        {
+            "title_full": "34\u5dfb1\u53f7 1975-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153421"
+        }, 
+        {
+            "title_full": "33\u5dfb4\u53f7 1975-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153420"
+        }, 
+        {
+            "title_full": "33\u5dfb3\u53f7 1974-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153419"
+        }, 
+        {
+            "title_full": "33\u5dfb2\u53f7 1974-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153418"
+        }, 
+        {
+            "title_full": "33\u5dfb1\u53f7 1974-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153417"
+        }, 
+        {
+            "title_full": "32\u5dfb4\u53f7 1974-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153416"
+        }, 
+        {
+            "title_full": "32\u5dfb3\u53f7 1973-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153415"
+        }, 
+        {
+            "title_full": "32\u5dfb2\u53f7 1973-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153414"
+        }, 
+        {
+            "title_full": "32\u5dfb1\u53f7 1973-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/153413"
+        }, 
+        {
+            "title_full": "31\u5dfb4\u53f7 1973-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152595"
+        }, 
+        {
+            "title_full": "31\u5dfb3\u53f7 1972-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152594"
+        }, 
+        {
+            "title_full": "31\u5dfb2\u53f7 1972-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152593"
+        }, 
+        {
+            "title_full": "31\u5dfb1\u53f7 1972-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152592"
+        }, 
+        {
+            "title_full": "30\u5dfb4\u53f7 1972-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152591"
+        }, 
+        {
+            "title_full": "30\u5dfb2\u30fb3\u53f7 1971-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152590"
+        }, 
+        {
+            "title_full": "30\u5dfb1\u53f7 1971-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152589"
+        }, 
+        {
+            "title_full": "29\u5dfb4\u53f7 1971-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152588"
+        }, 
+        {
+            "title_full": "29\u5dfb2\u30fb3\u53f7 1970-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152587"
+        }, 
+        {
+            "title_full": "29\u5dfb1\u53f7 1970-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152586"
+        }, 
+        {
+            "title_full": "28\u5dfb4\u53f7 1970-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152585"
+        }, 
+        {
+            "title_full": "28\u5dfb2\u30fb3\u53f7 1969-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152584"
+        }, 
+        {
+            "title_full": "28\u5dfb1\u53f7 1969-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152583"
+        }, 
+        {
+            "title_full": "27\u5dfb4\u53f7 1969-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152582"
+        }, 
+        {
+            "title_full": "27\u5dfb3\u53f7 1968-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152581"
+        }, 
+        {
+            "title_full": "27\u5dfb2\u53f7 1968-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152580"
+        }, 
+        {
+            "title_full": "27\u5dfb1\u53f7 1968-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152579"
+        }, 
+        {
+            "title_full": "26\u5dfb4\u53f7 1968-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152578"
+        }, 
+        {
+            "title_full": "26\u5dfb3\u53f7 1967-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138646"
+        }, 
+        {
+            "title_full": "26\u5dfb2\u53f7 1967-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152577"
+        }, 
+        {
+            "title_full": "26\u5dfb1\u53f7 1967-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138645"
+        }, 
+        {
+            "title_full": "25\u5dfb4\u53f7 1967-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152576"
+        }, 
+        {
+            "title_full": "25\u5dfb3\u53f7 1966-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152575"
+        }, 
+        {
+            "title_full": "25\u5dfb2\u53f7 1966-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152574"
+        }, 
+        {
+            "title_full": "25\u5dfb1\u53f7 1966-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152573"
+        }, 
+        {
+            "title_full": "24\u5dfb4\u53f7 1966-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152572"
+        }, 
+        {
+            "title_full": "24\u5dfb3\u53f7 1965-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152571"
+        }, 
+        {
+            "title_full": "24\u5dfb2\u53f7 1965-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152570"
+        }, 
+        {
+            "title_full": "24\u5dfb1\u53f7 1965-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152569"
+        }, 
+        {
+            "title_full": "23\u5dfb4\u53f7 1965-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152568"
+        }, 
+        {
+            "title_full": "23\u5dfb3\u53f7 1964-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152567"
+        }, 
+        {
+            "title_full": "23\u5dfb2\u53f7 1964-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152566"
+        }, 
+        {
+            "title_full": "23\u5dfb1\u53f7 1964-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152565"
+        }, 
+        {
+            "title_full": "22\u5dfb4\u53f7 1964-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152564"
+        }, 
+        {
+            "title_full": "22\u5dfb3\u53f7 1963-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152563"
+        }, 
+        {
+            "title_full": "22\u5dfb2\u53f7 1963-10", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152562"
+        }, 
+        {
+            "title_full": "22\u5dfb1\u53f7 1963-07", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152561"
+        }, 
+        {
+            "title_full": "21\u5dfb4\u53f7 1963-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152560"
+        }, 
+        {
+            "title_full": "21\u5dfb3\u53f7 1962-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152559"
+        }, 
+        {
+            "title_full": "21\u5dfb2\u53f7 1962-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152558"
+        }, 
+        {
+            "title_full": "21\u5dfb1\u53f7 1962-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/152557"
+        }, 
+        {
+            "title_full": "20\u5dfb4\u53f7 1962-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148064"
+        }, 
+        {
+            "title_full": "20\u5dfb3\u53f7 1961-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148063"
+        }, 
+        {
+            "title_full": "20\u5dfb2\u53f7 1961-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148062"
+        }, 
+        {
+            "title_full": "20\u5dfb1\u53f7 1961-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148061"
+        }, 
+        {
+            "title_full": "19\u5dfb4\u53f7 1961-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148060"
+        }, 
+        {
+            "title_full": "19\u5dfb3\u53f7 1960-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148059"
+        }, 
+        {
+            "title_full": "19\u5dfb2\u53f7 1960-10", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148058"
+        }, 
+        {
+            "title_full": "19\u5dfb1\u53f7 1960-07", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148057"
+        }, 
+        {
+            "title_full": "18\u5dfb4\u53f7 1960-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148056"
+        }, 
+        {
+            "title_full": "18\u5dfb3\u53f7 1959-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148055"
+        }, 
+        {
+            "title_full": "18\u5dfb2\u53f7 1959-10", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148054"
+        }, 
+        {
+            "title_full": "18\u5dfb1\u53f7 1959-07", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148053"
+        }, 
+        {
+            "title_full": "17\u5dfb4\u53f7 1959-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148052"
+        }, 
+        {
+            "title_full": "17\u5dfb3\u53f7 1958-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148051"
+        }, 
+        {
+            "title_full": "17\u5dfb2\u53f7 1958-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148050"
+        }, 
+        {
+            "title_full": "17\u5dfb1\u53f7 1958-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148049"
+        }, 
+        {
+            "title_full": "16\u5dfb4\u53f7 1958-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148048"
+        }, 
+        {
+            "title_full": "16\u5dfb3\u53f7 1957-11", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148047"
+        }, 
+        {
+            "title_full": "16\u5dfb2\u53f7 1957-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148046"
+        }, 
+        {
+            "title_full": "16\u5dfb1\u53f7 1957-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/148045"
+        }, 
+        {
+            "title_full": "15\u5dfb4\u53f7 1957-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145564"
+        }, 
+        {
+            "title_full": "15\u5dfb3\u53f7 1957-02", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145563"
+        }, 
+        {
+            "title_full": "15\u5dfb2\u53f7 1956-10", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145562"
+        }, 
+        {
+            "title_full": "15\u5dfb1\u53f7 1956-07", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145561"
+        }, 
+        {
+            "title_full": "14\u5dfb4\u53f7 1956-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138644"
+        }, 
+        {
+            "title_full": "14\u5dfb3\u53f7 1955-11", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138643"
+        }, 
+        {
+            "title_full": "14\u5dfb1\u30fb2\u53f7 1955-07", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138642"
+        }, 
+        {
+            "title_full": "13\u5dfb6\u53f7 1955-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138641"
+        }, 
+        {
+            "title_full": "13\u5dfb5\u53f7 1955-01", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138640"
+        }, 
+        {
+            "title_full": "13\u5dfb4\u53f7 1954-11", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138639"
+        }, 
+        {
+            "title_full": "13\u5dfb3\u53f7 1954-08", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138638"
+        }, 
+        {
+            "title_full": "13\u5dfb1\u30fb2\u53f7 1954-04", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138637"
+        }, 
+        {
+            "title_full": "12\u5dfb6\u53f7 1954-01", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138636"
+        }, 
+        {
+            "title_full": "12\u5dfb5\u53f7 1953-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138635"
+        }, 
+        {
+            "title_full": "12\u5dfb4\u53f7 1953-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138634"
+        }, 
+        {
+            "title_full": "12\u5dfb3\u53f7 1953-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138633"
+        }, 
+        {
+            "title_full": "12\u5dfb2\u53f7 1952-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138632"
+        }, 
+        {
+            "title_full": "12\u5dfb1\u53f7 1952-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138631"
+        }, 
+        {
+            "title_full": "11\u5dfb5\u30fb6\u53f7 1952-07", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138630"
+        }, 
+        {
+            "title_full": "11\u5dfb4\u53f7 1952-02", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138629"
+        }, 
+        {
+            "title_full": "11\u5dfb3\u53f7 1951-10", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138628"
+        }, 
+        {
+            "title_full": "11\u5dfb2\u53f7 1951-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138627"
+        }, 
+        {
+            "title_full": "11\u5dfb1\u53f7 1950-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138626"
+        }, 
+        {
+            "title_full": "10\u5dfb6\u53f7 1950-02", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145559"
+        }, 
+        {
+            "title_full": "10\u5dfb5\u53f7 1949-05", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138625"
+        }, 
+        {
+            "title_full": "10\u5dfb4\u53f7 1949-01", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145558"
+        }, 
+        {
+            "title_full": "10\u5dfb3\u53f7 1948-07", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138624"
+        }, 
+        {
+            "title_full": "10\u5dfb2\u53f7 1948-05", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138623"
+        }, 
+        {
+            "title_full": "10\u5dfb1\u53f7 1947-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145557"
+        }, 
+        {
+            "title_full": "9\u5dfb5\u30fb6\u53f7 1947-08", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145556"
+        }, 
+        {
+            "title_full": "9\u5dfb4\u53f7 1945-11-25", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145555"
+        }, 
+        {
+            "title_full": "9\u5dfb3\u53f7 1945-11", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145554"
+        }, 
+        {
+            "title_full": "9\u5dfb2\u53f7 1944-10", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138622"
+        }, 
+        {
+            "title_full": "9\u5dfb1\u53f7 1944-08", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145553"
+        }, 
+        {
+            "title_full": "8\u5dfb5\u30fb6\u53f7 1944-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145552"
+        }, 
+        {
+            "title_full": "8\u5dfb4\u53f7 1943-11", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145551"
+        }, 
+        {
+            "title_full": "8\u5dfb3\u53f7 1943-08", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138621"
+        }, 
+        {
+            "title_full": "8\u5dfb2\u53f7 1943-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145550"
+        }, 
+        {
+            "title_full": "8\u5dfb1\u53f7 1943-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145549"
+        }, 
+        {
+            "title_full": "7\u5dfb6\u53f7 1942-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138620"
+        }, 
+        {
+            "title_full": "7\u5dfb5\u53f7 1942-10", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138619"
+        }, 
+        {
+            "title_full": "7\u5dfb4\u53f7 1942-08", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145548"
+        }, 
+        {
+            "title_full": "7\u5dfb2\uff653\u53f7 1942-07", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138618"
+        }, 
+        {
+            "title_full": "7\u5dfb1\u53f7 1942-05", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138617"
+        }, 
+        {
+            "title_full": "6\u5dfb6\u53f7 1942-02", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145547"
+        }, 
+        {
+            "title_full": "6\u5dfb5\u53f7 1941-11", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145546"
+        }, 
+        {
+            "title_full": "6\u5dfb4\u53f7 1941-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145545"
+        }, 
+        {
+            "title_full": "6\u5dfb3\u53f7 1941-05", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/147083"
+        }, 
+        {
+            "title_full": "6\u5dfb2\u53f7 1941-04", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145544"
+        }, 
+        {
+            "title_full": "6\u5dfb1\u53f7 1940-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145543"
+        }, 
+        {
+            "title_full": "5\u5dfb6\u53f7 1940-10", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145541"
+        }, 
+        {
+            "title_full": "5\u5dfb5\u53f7 1940-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145540"
+        }, 
+        {
+            "title_full": "5\u5dfb4\u53f7 1940-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145539"
+        }, 
+        {
+            "title_full": "5\u5dfb3\u53f7 1940-04", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145538"
+        }, 
+        {
+            "title_full": "5\u5dfb2\u53f7 1940-01", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145537"
+        }, 
+        {
+            "title_full": "5\u5dfb1\u53f7 1939-10", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145536"
+        }, 
+        {
+            "title_full": "4\u5dfb6\u53f7 1939-08", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145535"
+        }, 
+        {
+            "title_full": "4\u5dfb4\u30fb5\u53f7 1939-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138616"
+        }, 
+        {
+            "title_full": "4\u5dfb3\u53f7 1939-03", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138615"
+        }, 
+        {
+            "title_full": "4\u5dfb2\u53f7 1938-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145534"
+        }, 
+        {
+            "title_full": "4\u5dfb1\u53f7 1938-10", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138614"
+        }, 
+        {
+            "title_full": "3\u5dfb6\u53f7 1938-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/147082"
+        }, 
+        {
+            "title_full": "3\u5dfb5\u53f7 1938-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145532"
+        }, 
+        {
+            "title_full": "3\u5dfb4\u53f7 1938-04", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145531"
+        }, 
+        {
+            "title_full": "3\u5dfb3\u53f7 1938-02", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145530"
+        }, 
+        {
+            "title_full": "3\u5dfb2\u53f7 1937-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145529"
+        }, 
+        {
+            "title_full": "3\u5dfb1\u53f7 1937-10", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145528"
+        }, 
+        {
+            "title_full": "2\u5dfb6\u53f7 1937-09", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138613"
+        }, 
+        {
+            "title_full": "2\u5dfb5\u53f7 1937-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138612"
+        }, 
+        {
+            "title_full": "2\u5dfb4\u53f7 1937-04", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138611"
+        }, 
+        {
+            "title_full": "2\u5dfb3\u53f7 1937-02", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138610"
+        }, 
+        {
+            "title_full": "2\u5dfb2\u53f7 1936-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145527"
+        }, 
+        {
+            "title_full": "2\u5dfb1\u53f7 1936-10", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/145526"
+        }, 
+        {
+            "title_full": "1\u5dfb6\u53f7 1936-08", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138609"
+        }, 
+        {
+            "title_full": "1\u5dfb5\u53f7 1936-06", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138608"
+        }, 
+        {
+            "title_full": "1\u5dfb4\u53f7 1936-04", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138607"
+        }, 
+        {
+            "title_full": "1\u5dfb3\u53f7 1936-02", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/142928"
+        }, 
+        {
+            "title_full": "1\u5dfb2\u53f7 1935-12", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138606"
+        }, 
+        {
+            "title_full": "1\u5dfb1\u53f7 1935-10", 
+            "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138605"
+        }
+    ], 
+    "title": "T\u014dy\u014d shi kenky\u016b / \u6771\u6d0b\u53f2\u784f\u7a76", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138102", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

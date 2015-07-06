@@ -1,0 +1,306 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "The University of Chicago Library EOS (Electronic Open Stacks)Electronic Open Stacks is a small but stable collection of scanned books made available before the existence of such projects as the Internet Archive and Google Books.", 
+    "domain": "www.lib.uchicago.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "The University of Chicago Library EOS (Electronic Open Stacks)", 
+        "url": "http://www.lib.uchicago.edu/eos/html/page.form.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7894297884092053815", 
+            "resource_date": "2012-04-23T13:51:43.165-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:05.325266"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/university-of-chicago-library-eos.html", 
+            "resource_date": "2012-04-23T13:51:43.165-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:05.325283"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7894297884092053815", 
+            "resource_date": "2012-04-23T13:51:43.165-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:05.328277"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/university-of-chicago-library-eos.html", 
+            "resource_date": "2012-04-23T13:51:43.165-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:05.328289"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:13:05.374655"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "eos-html-page-form-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "The University of Chicago Library EOS (Electronic Open Stacks)", 
+            "url": "http://www.lib.uchicago.edu/eos/html/page.form.html"
+        }, 
+        {
+            "title_full": "N5633.N55", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=N5633.N55"
+        }, 
+        {
+            "title_full": "PJ1511.F45A4", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=PJ1511.F45A4"
+        }, 
+        {
+            "title_full": "BM522.21.S37 1735", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=BM522.21.S37_1735"
+        }, 
+        {
+            "title_full": "DS70.B2", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DS70.B2"
+        }, 
+        {
+            "title_full": "Ms 35", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=Ms_35"
+        }, 
+        {
+            "title_full": "PJ3835.B85_cop2", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=PJ3835.B85_cop2"
+        }, 
+        {
+            "title_full": "PJ1135.C45", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=PJ1135.C45"
+        }, 
+        {
+            "title_full": "PJ4075.C76", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=PJ4075.C76"
+        }, 
+        {
+            "title_full": "DS111.A1P28", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DS111.A1P28"
+        }, 
+        {
+            "title_full": "DF261.S68D3", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DF261.S68D3"
+        }, 
+        {
+            "title_full": "BL781.H32", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=BL781.H32"
+        }, 
+        {
+            "title_full": "DT57.I6", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DT57.I6"
+        }, 
+        {
+            "title_full": "Rosenberger 126b-5", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=126b-5"
+        }, 
+        {
+            "title_full": "CC27.D481 vol5", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=CC27.D481_vol5"
+        }, 
+        {
+            "title_full": "DT62.T6L5_vol1_cop1", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DT62.T6L5_vol1_cop1"
+        }, 
+        {
+            "title_full": "DT62.T6L5_vol2_cop1", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DT62.T6L5_vol2_cop1"
+        }, 
+        {
+            "title_full": "DT62.T6L5_vol3_cop1", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DT62.T6L5_vol3_cop1"
+        }, 
+        {
+            "title_full": "DS111.A1P28_vol4_cop1", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DS111.A1P28_vol4_cop1"
+        }, 
+        {
+            "title_full": "DT61.M8", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DT61.M8"
+        }, 
+        {
+            "title_full": "CD5348.N54", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=CD5348.N54"
+        }, 
+        {
+            "title_full": "DT57.E28 vol3,6", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DT57.E28_vol3,6"
+        }, 
+        {
+            "title_full": "DT73.I3P5_cop2", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DT73.I3P5_cop2"
+        }, 
+        {
+            "title_full": "DT73.K3P5_cop1", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DT73.K3P5_cop1"
+        }, 
+        {
+            "title_full": "DG16.P72", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DG16.P72"
+        }, 
+        {
+            "title_full": "Incun1489.M9", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=Incun1489.M9"
+        }, 
+        {
+            "title_full": "NK4623.P2A4 1902", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=NK4623.P2A4_1902"
+        }, 
+        {
+            "title_full": "NK4645.S29", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=NK4645.S29"
+        }, 
+        {
+            "title_full": "PJ1553.A1 1908 cop3", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=PJ1553.A1_1908_cop3"
+        }, 
+        {
+            "title_full": "PJ1553.A1 1908 vol2 cop3", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=PJ1553.A1_1908_vol2_cop3"
+        }, 
+        {
+            "title_full": "DT57.C2_vol59", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DT57.C2_vol59"
+        }, 
+        {
+            "title_full": "Rosenberger 293-175", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=293-175"
+        }, 
+        {
+            "title_full": "PJ3921.T54_vol1_cop1", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=PJ3921.T54_vol1_cop1"
+        }, 
+        {
+            "title_full": "PJ3921.T54_vol2_cop1", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=PJ3921.T54_vol2_cop1"
+        }, 
+        {
+            "title_full": "PJ3711.P2", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=PJ3711.P2"
+        }, 
+        {
+            "title_full": "Z733.C563", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=Z733.C563"
+        }, 
+        {
+            "title_full": "CC27.D481 vol3", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=CC27.D481_vol3"
+        }, 
+        {
+            "title_full": "PA445.E5W6", 
+            "url": "http://www.lib.uchicago.edu/efts/Woodhouse/"
+        }, 
+        {
+            "title_full": "DS111.A1P28_vol3_cop1", 
+            "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DS111.A1P28_vol3_cop1"
+        }
+    ], 
+    "title": "The University of Chicago Library EOS (Electronic Open Stacks)", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.lib.uchicago.edu/eos/html/page.form.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

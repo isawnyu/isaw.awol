@@ -1,0 +1,620 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Ancient Locations:Database of Archaeological Sites. ANCIENT LOCATIONS is my collection of Placemarks of archaeologically interesting locations of the ancient world. The list is continuously updated and expanded to give anyone with an interest in archaeology and history the possibility to look up the coordinates of relevant sites. Locations are included if they existed prior to 476 CE in the Old World (end of the West-Roman Empire) and prior to 1492 CE in the New World (re-discovery of the New World). There are currently 22076 placemark entries in the database. 2428 are shown on Ancient Locations. There are currently 112 overlay and map entries in the database. 41 are shown on Ancient Locations. Those entries not shown are either under review or are not assigned to appear on Ancient Locations. This website has had 129875 visitors since June 6, 2008, which was the day it was set up. The number of database entries increases when placemarks are imported or manually added, and it decreases when duplicates or invalid enties are removed. Revieweing all the placemarks and ascertaining accurate coordinates is a slow process. For the task of managing my Placemarks I have implemented a program, a screeshot of which you can see on the right. Feedback and requests will be appreciated. Feel free to contact me if you need sites coordinates in a specific format or listing. Personally I am interested in ancient history and formerly in the works of Tolkien (but after a clash with the Tolkien Estate over my maps-website that has lessened). On the internet I use the name \"Steven White jr\" (after my late father) so I do not have to use my real name and get spammed more than I do already.", 
+    "domain": "www.ancientlocations.net", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Ancient Locations:Database of Archaeological Sites", 
+        "url": "http://www.ancientlocations.net/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "archaeological site", 
+        "ancient", 
+        "antiquity", 
+        "maps", 
+        "atlas", 
+        "archaeology", 
+        "KMZ", 
+        "geography"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5790621204290600329", 
+            "resource_date": "2014-09-05T16:51:08.584-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:32.159657"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/03/ancient-locationsdatabase-of.html", 
+            "resource_date": "2014-09-05T16:51:08.584-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:32.159675"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5790621204290600329", 
+            "resource_date": "2014-09-05T16:51:08.584-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:32.166263"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/03/ancient-locationsdatabase-of.html", 
+            "resource_date": "2014-09-05T16:51:08.584-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:32.166276"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:32.580963"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "www-ancientlocations-net", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Ancient Locations:Database of Archaeological Sites", 
+            "url": "http://www.ancientlocations.net/"
+        }, 
+        {
+            "title_full": "Zagros, Elam, and Iran", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=1"
+        }, 
+        {
+            "title_full": "Neolithic sites", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=1#sect590"
+        }, 
+        {
+            "title_full": "Mesopotamia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=2"
+        }, 
+        {
+            "title_full": "First Cities", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=2#sect593"
+        }, 
+        {
+            "title_full": "Lower Mesopotamia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=2#sect594"
+        }, 
+        {
+            "title_full": "Neolithic sites", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=2#sect595"
+        }, 
+        {
+            "title_full": "Upper Mesopotamia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=2#sect596"
+        }, 
+        {
+            "title_full": "Egypt", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=3"
+        }, 
+        {
+            "title_full": "Eastern desert", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=3#sect597"
+        }, 
+        {
+            "title_full": "Faiyum", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=3#sect598"
+        }, 
+        {
+            "title_full": "Lower Egypt", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=3#sect601"
+        }, 
+        {
+            "title_full": "Sinai", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=3#sect603"
+        }, 
+        {
+            "title_full": "Upper Egypt", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=3#sect604"
+        }, 
+        {
+            "title_full": "Wawat", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=3#sect605"
+        }, 
+        {
+            "title_full": "Western desert", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=3#sect606"
+        }, 
+        {
+            "title_full": "Sites+Landmarks", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=22"
+        }, 
+        {
+            "title_full": "Artwork", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=22#sect703"
+        }, 
+        {
+            "title_full": "Cemeteries", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=22#sect704"
+        }, 
+        {
+            "title_full": "Fortifications", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=22#sect705"
+        }, 
+        {
+            "title_full": "Mastabas", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=22#sect706"
+        }, 
+        {
+            "title_full": "Palaces", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=22#sect707"
+        }, 
+        {
+            "title_full": "Pyramids", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=22#sect708"
+        }, 
+        {
+            "title_full": "Temples", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=22#sect709"
+        }, 
+        {
+            "title_full": "Tombs", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=22#sect710"
+        }, 
+        {
+            "title_full": "Kush and Aethiopia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=5"
+        }, 
+        {
+            "title_full": "Levant", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=4"
+        }, 
+        {
+            "title_full": "Neolithic sites", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=4#sect607"
+        }, 
+        {
+            "title_full": "Northern Levant", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=4#sect608"
+        }, 
+        {
+            "title_full": "Phoenicia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=4#sect609"
+        }, 
+        {
+            "title_full": "Southern Levant", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=4#sect610"
+        }, 
+        {
+            "title_full": "Anatolia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=6"
+        }, 
+        {
+            "title_full": "Chalcolithic sites", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=6#sect612"
+        }, 
+        {
+            "title_full": "Hittite", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=6#sect614"
+        }, 
+        {
+            "title_full": "Lycian", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=6#sect617"
+        }, 
+        {
+            "title_full": "Neolithic sites", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=6#sect618"
+        }, 
+        {
+            "title_full": "Pisidian", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=6#sect621"
+        }, 
+        {
+            "title_full": "Urutu", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=6#sect625"
+        }, 
+        {
+            "title_full": "Arabia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=7"
+        }, 
+        {
+            "title_full": "Himyarite", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=7#sect626"
+        }, 
+        {
+            "title_full": "Oman", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=7#sect628"
+        }, 
+        {
+            "title_full": "Saudi Arabia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=7#sect629"
+        }, 
+        {
+            "title_full": "Yemen", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=7#sect632"
+        }, 
+        {
+            "title_full": "Aegean", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8"
+        }, 
+        {
+            "title_full": "Achaean", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect633"
+        }, 
+        {
+            "title_full": "Asia Minor", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect636"
+        }, 
+        {
+            "title_full": "Carian", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect637"
+        }, 
+        {
+            "title_full": "Central Greece", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect638"
+        }, 
+        {
+            "title_full": "Crete", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect639"
+        }, 
+        {
+            "title_full": "Cyclades", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect640"
+        }, 
+        {
+            "title_full": "Dorian", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect642"
+        }, 
+        {
+            "title_full": "Greece", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect643"
+        }, 
+        {
+            "title_full": "Ionian", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect646"
+        }, 
+        {
+            "title_full": "Lycian", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect647"
+        }, 
+        {
+            "title_full": "Lydian", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect648"
+        }, 
+        {
+            "title_full": "Minoan", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect651"
+        }, 
+        {
+            "title_full": "Northern Greece", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect652"
+        }, 
+        {
+            "title_full": "Peloponnese", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect653"
+        }, 
+        {
+            "title_full": "Phyrgia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect654"
+        }, 
+        {
+            "title_full": "Turkey", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=8#sect659"
+        }, 
+        {
+            "title_full": "Mediterranean", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=15"
+        }, 
+        {
+            "title_full": "Adriatic", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=15#sect681"
+        }, 
+        {
+            "title_full": "Cyprus", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=15#sect682"
+        }, 
+        {
+            "title_full": "Iberian peninsula", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=15#sect684"
+        }, 
+        {
+            "title_full": "Italia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=15#sect685"
+        }, 
+        {
+            "title_full": "Malta", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=15#sect686"
+        }, 
+        {
+            "title_full": "Northern Africa", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=15#sect687"
+        }, 
+        {
+            "title_full": "Provence", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=15#sect688"
+        }, 
+        {
+            "title_full": "Western islands", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=15#sect689"
+        }, 
+        {
+            "title_full": "Pontus", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=25"
+        }, 
+        {
+            "title_full": "Neolithic sites", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=25#sect722"
+        }, 
+        {
+            "title_full": "Caucasus", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=9"
+        }, 
+        {
+            "title_full": "Africa", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=11"
+        }, 
+        {
+            "title_full": "Asia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=12"
+        }, 
+        {
+            "title_full": "Central Asia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=12#sect677"
+        }, 
+        {
+            "title_full": "Neolithic sites", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=12#sect679"
+        }, 
+        {
+            "title_full": "East Asia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=26"
+        }, 
+        {
+            "title_full": "China", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=26#sect728"
+        }, 
+        {
+            "title_full": "Southeast Asia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=26#sect730"
+        }, 
+        {
+            "title_full": "India", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=10"
+        }, 
+        {
+            "title_full": "Sri Lanka", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=10#sect671"
+        }, 
+        {
+            "title_full": "Australia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=13"
+        }, 
+        {
+            "title_full": "Europe", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=18"
+        }, 
+        {
+            "title_full": "Balkans", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=18#sect690"
+        }, 
+        {
+            "title_full": "British Isles", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=18#sect692"
+        }, 
+        {
+            "title_full": "Central Europe", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=18#sect693"
+        }, 
+        {
+            "title_full": "Eastern Europe", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=18#sect694"
+        }, 
+        {
+            "title_full": "Iberian peninsula", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=18#sect696"
+        }, 
+        {
+            "title_full": "Western Europe", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=18#sect698"
+        }, 
+        {
+            "title_full": "Latin America", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=20"
+        }, 
+        {
+            "title_full": "Caribbean", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=20#sect699"
+        }, 
+        {
+            "title_full": "Mesoamerica", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=20#sect700"
+        }, 
+        {
+            "title_full": "North America", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=20#sect701"
+        }, 
+        {
+            "title_full": "South America", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=20#sect702"
+        }, 
+        {
+            "title_full": "Sites+Landmarks", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=30"
+        }, 
+        {
+            "title_full": "Aztec", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=30#sect738"
+        }, 
+        {
+            "title_full": "Mayan", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=30#sect739"
+        }, 
+        {
+            "title_full": "North America", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=14"
+        }, 
+        {
+            "title_full": "Post-ancient sites", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=24"
+        }, 
+        {
+            "title_full": "China", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=24#sect712"
+        }, 
+        {
+            "title_full": "Early Christianity", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=24#sect713"
+        }, 
+        {
+            "title_full": "India", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=24#sect715"
+        }, 
+        {
+            "title_full": "Medieval sites", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=24#sect716"
+        }, 
+        {
+            "title_full": "Mesopotamia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=24#sect717"
+        }, 
+        {
+            "title_full": "Southeast Asia", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=24#sect718"
+        }, 
+        {
+            "title_full": "Southern Levant", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=24#sect719"
+        }, 
+        {
+            "title_full": "Natural sites", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=27"
+        }, 
+        {
+            "title_full": "Impact sites", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=27#sect732"
+        }, 
+        {
+            "title_full": "Volcanoes", 
+            "url": "http://www.ancientlocations.net/Places.aspx?f=27#sect733"
+        }, 
+        {
+            "title_full": "Sources", 
+            "url": "http://www.ancientlocations.net/Sources.aspx"
+        }, 
+        {
+            "title_full": "Maps", 
+            "url": "http://www.ancientlocations.net/Maps.aspx"
+        }, 
+        {
+            "title_full": "Google Earth KMZ", 
+            "url": "http://www.ancientlocations.net/Export/Download.aspx?x=alkmz"
+        }, 
+        {
+            "title_full": "Recent changes", 
+            "url": "http://www.ancientlocations.net/Places.aspx"
+        }, 
+        {
+            "title_full": "About", 
+            "url": "http://www.ancientlocations.net/About.aspx"
+        }, 
+        {
+            "title_full": "Feedback", 
+            "url": "http://www.ancientlocations.net/Feedback.aspx"
+        }
+    ], 
+    "title": "Ancient Locations:Database of Archaeological Sites", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.ancientlocations.net/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,163 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "]: The Database of Neo-Sumerian Texts (BDTNS) website has been renewed. (http://bdtns. filol. csic. es). Some of the most relevant modifications. are: - The look of the website has changed, and some bugs have been fixed. - 3708 new texts have been added to the catalogue, 653 of them in. transliteration. - Thousands of transliterations have been revised. - 150,000 bibliographical references have been checked. The kind of. edition is now specified, indicating whether it provides handcopy (H), transliteration (T), translation (Ts), or pictures (P) of the text. - A list of abbreviations has been added to the bibliography section. - Transliterations, revision of transliterations, handcopies and. photos are always credited. - A tool for sending suggestions or corrections has been added. Texts from most recent publications (CUSAS 6, Fs. Hrushka) will be. added very soon. All this work has been made with the collaboration of Palmiro Notizia. and Jonatan Ortiz Salas (programmer). Manuel Molina. Centro de Ciencias Humanas y Sociales. CSIC. C/ Albasanz 26-28. 28037 Madrid.", 
+    "domain": "bdtns.filol.csic.es", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "See new texts since former update (July 2010)", 
+        "url": "http://bdtns.filol.csic.es/principal.php?nuevos=SI"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "data", 
+        "database"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8332887475906802033", 
+            "resource_date": "2012-03-31T07:40:20.807-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:25.184190"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/news-from-database-of-neo-sumerian.html", 
+            "resource_date": "2012-03-31T07:40:20.807-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:25.184207"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8332887475906802033", 
+            "resource_date": "2012-03-31T07:40:20.807-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:25.189575"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/news-from-database-of-neo-sumerian.html", 
+            "resource_date": "2012-03-31T07:40:20.807-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:25.189587"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "year", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:13:25.197478"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "66e2536ec386d6de1e018b5639a0c02dba41c9f3", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "See new texts since former update (July 2010)", 
+            "url": "http://bdtns.filol.csic.es/principal.php?nuevos=SI"
+        }, 
+        {
+            "title_full": "The Database of Neo-Sumerian Texts (BDTNS)", 
+            "url": "http://bdtns.filol.csic.es/"
+        }
+    ], 
+    "title": "See new texts since former update (July 2010)", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://bdtns.filol.csic.es/principal.php?nuevos=SI", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": "2010", 
+    "zenon_id": null, 
+    "zotero_id": null
+}

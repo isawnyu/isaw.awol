@@ -1,0 +1,274 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 16 November 2010. Updated most recently 9 January 2014]. Online Critical Pseudepigrapha. The mandate of the Online Critical Pseudepigrapha is to develop and publish electronic editions of the best critical texts of the \"Old Testament\" Pseudepigrapha and related literature. Note that in a few cases it has not yet been feasible to publish the best eclectic text of a given document. In other cases the OCP edition of a document does not yet include all of the textual evidence. Readers should consult the \"text status\" information on the introductory page for each document to determine whether a better or more complete text exists elsewhere. Texts should be cited in scholarly references according to the persistent URL for the OCP site (http://www. purl. org/net/ocp), rather than the address which appears in the address bar of your web browser, as this address may change in future years.", 
+    "domain": "ocp.stfx.ca", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Online Critical Pseudepigrapha", 
+        "url": "http://ocp.stfx.ca/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5682322091095297815", 
+            "resource_date": "2014-01-09T15:18:56.728-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:27.530642"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/pseudepigrapha-online.html", 
+            "resource_date": "2014-01-09T15:18:56.728-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:27.530659"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5682322091095297815", 
+            "resource_date": "2014-01-09T15:18:56.728-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:27.534489"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/11/pseudepigrapha-online.html", 
+            "resource_date": "2014-01-09T15:18:56.728-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:27.534500"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:27.585214"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "ocp-stfx-ca", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Online Critical Pseudepigrapha", 
+            "url": "http://ocp.stfx.ca/"
+        }, 
+        {
+            "title_full": "Contributors", 
+            "url": "http://ocp.stfx.ca/documents/Pages/contributors.html"
+        }, 
+        {
+            "title_full": "2 (Syriac Apocalypse of) Baruch", 
+            "url": "http://ocp.stfx.ca/documents/Pages/2Bar.html"
+        }, 
+        {
+            "title_full": "The Testament of Job", 
+            "url": "http://ocp.stfx.ca/documents/Pages/TJob.html"
+        }, 
+        {
+            "title_full": "1 Enoch (In progress)", 
+            "url": "http://ocp.stfx.ca/documents/Pages/1En.html"
+        }, 
+        {
+            "title_full": "Testament of Adam (In progress)", 
+            "url": "http://ocp.stfx.ca/documents/Pages/TAdam.html"
+        }, 
+        {
+            "title_full": "Testament of Abraham", 
+            "url": "http://ocp.stfx.ca/documents/Pages/TAbr.html"
+        }, 
+        {
+            "title_full": "The Life of Adam and Eve", 
+            "url": "http://ocp.stfx.ca/documents/Pages/Adam.html"
+        }, 
+        {
+            "title_full": "Visions of Amram", 
+            "url": "http://ocp.stfx.ca/documents/Pages/Amram.html"
+        }, 
+        {
+            "title_full": "The Letter of Aristeas", 
+            "url": "http://ocp.stfx.ca/documents/Pages/LetAris.html"
+        }, 
+        {
+            "title_full": "Aristeas the Exegete", 
+            "url": "http://ocp.stfx.ca/documents/Pages/ArisEx.html"
+        }, 
+        {
+            "title_full": "Aristobulus", 
+            "url": "http://ocp.stfx.ca/documents/Pages/Aristob.html"
+        }, 
+        {
+            "title_full": "Artapanus", 
+            "url": "http://ocp.stfx.ca/documents/Pages/Artap.html"
+        }, 
+        {
+            "title_full": "3 (Greek Apocalypse of) Baruch", 
+            "url": "http://ocp.stfx.ca/documents/Pages/3Bar.html"
+        }, 
+        {
+            "title_full": "4 Baruch (Paraleipomena Ieremiou)", 
+            "url": "http://ocp.stfx.ca/documents/Pages/4Bar.html"
+        }, 
+        {
+            "title_full": "Cleodemus Malchus", 
+            "url": "http://ocp.stfx.ca/documents/Pages/ClMal.html"
+        }, 
+        {
+            "title_full": "Eldad and Modad", 
+            "url": "http://ocp.stfx.ca/documents/Pages/ElMod.html"
+        }, 
+        {
+            "title_full": "Eupolemus", 
+            "url": "http://ocp.stfx.ca/documents/Pages/Eup.html"
+        }, 
+        {
+            "title_full": "The Apocryphon of Ezekiel", 
+            "url": "http://ocp.stfx.ca/documents/Pages/ApocrEzek.html"
+        }, 
+        {
+            "title_full": "Ezekiel the Tragedian", 
+            "url": "http://ocp.stfx.ca/documents/Pages/EzekTrag.html"
+        }, 
+        {
+            "title_full": "Vision of Ezra", 
+            "url": "http://ocp.stfx.ca/documents/Pages/Esdl.html"
+        }, 
+        {
+            "title_full": "The History of the Rechabites", 
+            "url": "http://ocp.stfx.ca/documents/Pages/HistRech.html"
+        }, 
+        {
+            "title_full": "Jubilees", 
+            "url": "http://ocp.stfx.ca/documents/Pages/Jub.html"
+        }, 
+        {
+            "title_full": "The Lives of the Prophets", 
+            "url": "http://ocp.stfx.ca/documents/Pages/LivPro.html"
+        }, 
+        {
+            "title_full": "Assumption of Moses (Testament of Moses)", 
+            "url": "http://ocp.stfx.ca/documents/Pages/Mois.html"
+        }, 
+        {
+            "title_full": "3 Maccabees", 
+            "url": "http://ocp.stfx.ca/documents/Pages/3Macc.html"
+        }, 
+        {
+            "title_full": "4 Maccabees", 
+            "url": "http://ocp.stfx.ca/documents/Pages/4Macc.html"
+        }, 
+        {
+            "title_full": "Philo the Epic Poet", 
+            "url": "http://ocp.stfx.ca/documents/Pages/PhEPoet.html"
+        }, 
+        {
+            "title_full": "Pseudo-Eupolemus", 
+            "url": "http://ocp.stfx.ca/documents/Pages/Ps-Eup.html"
+        }, 
+        {
+            "title_full": "Testament of Solomon", 
+            "url": "http://ocp.stfx.ca/documents/Pages/TSol.html"
+        }, 
+        {
+            "title_full": "Theodotus", 
+            "url": "http://ocp.stfx.ca/documents/Pages/Theod.html"
+        }
+    ], 
+    "title": "Online Critical Pseudepigrapha", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://ocp.stfx.ca/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

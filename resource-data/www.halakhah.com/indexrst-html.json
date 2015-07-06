@@ -1,0 +1,629 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Soncino Babylonian Talmud. TRANSLATED INTO ENGLISH WITH NOTES, GLOSSARY AND INDICES UNDER THE EDITORSHIP OF. RABBI DR. I. EPSTEIN.", 
+    "domain": "www.halakhah.com", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Soncino Babylonian Talmud. TRANSLATED INTO ENGLISH", 
+        "url": "http://www.halakhah.com/indexrst.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Talmud", 
+        "translation", 
+        "Babylon"
+    ], 
+    "languages": [], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8196151239304409611", 
+            "resource_date": "2012-01-21T09:28:10.116-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:19.737180"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/online-soncino-babylonian-talmud.html", 
+            "resource_date": "2012-01-21T09:28:10.116-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:19.737196"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8196151239304409611", 
+            "resource_date": "2012-01-21T09:28:10.116-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:19.740536"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/online-soncino-babylonian-talmud.html", 
+            "resource_date": "2012-01-21T09:28:10.116-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:19.740549"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:13:20.033515"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "indexrst-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Soncino Babylonian Talmud. TRANSLATED INTO ENGLISH", 
+            "url": "http://www.halakhah.com/indexrst.html"
+        }, 
+        {
+            "title_full": "01a Brochos 2a-31b", 
+            "url": "http://www.halakhah.com/rst/zeraim/01a%20-%20Brochos%20-%202a-31b.pdf"
+        }, 
+        {
+            "title_full": "01b Brochos 32a-64a", 
+            "url": "http://www.halakhah.com/rst/zeraim/01b%20-%20Brochos%20-%2032a-64a.pdf"
+        }, 
+        {
+            "title_full": "02 Pei'oh", 
+            "url": "http://www.halakhah.com/rst/zeraim/02%20-%20Pei%27oh.pdf"
+        }, 
+        {
+            "title_full": "03 Demai", 
+            "url": "http://www.halakhah.com/rst/zeraim/03%20-%20Demai.pdf"
+        }, 
+        {
+            "title_full": "04 Kilayim", 
+            "url": "http://www.halakhah.com/rst/zeraim/04%20-%20Kilayim.pdf"
+        }, 
+        {
+            "title_full": "05 Shevi'is", 
+            "url": "http://www.halakhah.com/rst/zeraim/05%20-%20Shevi%27is.pdf"
+        }, 
+        {
+            "title_full": "06 Trumos", 
+            "url": "http://www.halakhah.com/rst/zeraim/06%20-%20Trumos.pdf"
+        }, 
+        {
+            "title_full": "07 Ma'aseros", 
+            "url": "http://www.halakhah.com/rst/zeraim/07%20-%20Ma%27aseros.pdf"
+        }, 
+        {
+            "title_full": "08 Ma'aser Sheini", 
+            "url": "http://www.halakhah.com/rst/zeraim/08%20-%20Ma%27aser%20Sheini.pdf"
+        }, 
+        {
+            "title_full": "09 Challoh", 
+            "url": "http://www.halakhah.com/rst/zeraim/09%20-%20Challoh.pdf"
+        }, 
+        {
+            "title_full": "10 Orlah", 
+            "url": "http://www.halakhah.com/rst/zeraim/10%20-%20Orlah.pdf"
+        }, 
+        {
+            "title_full": "11 Bikkurim", 
+            "url": "http://www.halakhah.com/rst/zeraim/11%20-%20Bikkurim.pdf"
+        }, 
+        {
+            "title_full": "12a Shabbos 2a-31b", 
+            "url": "http://www.halakhah.com/rst/moed/12a%20-%20Shabbos%20-%202a-31b.pdf"
+        }, 
+        {
+            "title_full": "12b Shabbos 35a-65b", 
+            "url": "http://www.halakhah.com/rst/moed/12b%20-%20Shabbos%20-%2035a-65b.pdf"
+        }, 
+        {
+            "title_full": "12c Shabbos 66a-100b", 
+            "url": "http://www.halakhah.com/rst/moed/12c%20-%20Shabbos%20-%2066a-100b.pdf"
+        }, 
+        {
+            "title_full": "12d Shabbos 101a-129b", 
+            "url": "http://www.halakhah.com/rst/moed/12d%20-%20Shabbos%20-%20101a-129b.pdf"
+        }, 
+        {
+            "title_full": "12e Shabbos 130a-157b", 
+            "url": "http://www.halakhah.com/rst/moed/12e%20-%20Shabbos%20-%20130a-157b.pdf"
+        }, 
+        {
+            "title_full": "13a Eruvin 2a-26b", 
+            "url": "http://www.halakhah.com/rst/moed/13a%20-%20Eruvin%20-%202a-26b.pdf"
+        }, 
+        {
+            "title_full": "13b Eruvin 27a-52b", 
+            "url": "http://www.halakhah.com/rst/moed/13b%20-%20Eruvin%20-%2027a-52b.pdf"
+        }, 
+        {
+            "title_full": "13c Eruvin 53a-79a", 
+            "url": "http://www.halakhah.com/rst/moed/13c%20-%20Eruvin%20-%2053a-79a.pdf"
+        }, 
+        {
+            "title_full": "13d Eruvin 79b-105b", 
+            "url": "http://www.halakhah.com/rst/moed/13d%20-%20Eruvin%20-%2079b-105b.pdf"
+        }, 
+        {
+            "title_full": "14a Pesochim 2a-32b", 
+            "url": "http://www.halakhah.com/rst/moed/14a%20-%20Pesochim%20-%202a-32b.pdf"
+        }, 
+        {
+            "title_full": "14b Pesochim 33a-60a", 
+            "url": "http://www.halakhah.com/rst/moed/14b%20-%20Pesochim%20-%2033a-60a.pdf"
+        }, 
+        {
+            "title_full": "14c Pesochim 60b-86b", 
+            "url": "http://www.halakhah.com/rst/moed/14c%20-%20Pesochim%20-%2060b-86b.pdf"
+        }, 
+        {
+            "title_full": "14d Pesochim 87a-121b", 
+            "url": "http://www.halakhah.com/rst/moed/14d%20-%20Pesochim%20-%2087a-121b.pdf"
+        }, 
+        {
+            "title_full": "15a Yoma 2a-27b", 
+            "url": "http://www.halakhah.com/rst/moed/15a%20-%20Yoma%20-%202a-27b.pdf"
+        }, 
+        {
+            "title_full": "15b Yoma 28a-61b", 
+            "url": "http://www.halakhah.com/rst/moed/15b%20-%20Yoma%20-%2028a-61b.pdf"
+        }, 
+        {
+            "title_full": "15c Yoma 62a-88a", 
+            "url": "http://www.halakhah.com/rst/moed/15c%20-%20Yoma%20-%2062a-88a.pdf"
+        }, 
+        {
+            "title_full": "16a Succah 2a-29a", 
+            "url": "http://www.halakhah.com/rst/moed/16a%20-%20Succah%20-%202a-29a.pdf"
+        }, 
+        {
+            "title_full": "16b Succah 29b-56b", 
+            "url": "http://www.halakhah.com/rst/moed/16b%20-%20Succah%20-%2029b-56b.pdf"
+        }, 
+        {
+            "title_full": "17 Beitzoh 2a-40b", 
+            "url": "http://www.halakhah.com/rst/moed/17%20-%20Beitzoh%202a-40b.pdf"
+        }, 
+        {
+            "title_full": "18 Rosh Hashanna 2a-35a", 
+            "url": "http://www.halakhah.com/rst/moed/18%20-%20Rosh%20Hashanna%20-%202a-35a.pdf"
+        }, 
+        {
+            "title_full": "19 Ta'anis 2a-31a", 
+            "url": "http://www.halakhah.com/rst/moed/19%20-%20Ta%27anis%20-%202a-31a.pdf"
+        }, 
+        {
+            "title_full": "20 Shekolim", 
+            "url": "http://www.halakhah.com/rst/moed/20%20-%20Shekolim.pdf"
+        }, 
+        {
+            "title_full": "21 Megillah 2a-32a", 
+            "url": "http://www.halakhah.com/rst/moed/21%20-%20Megillah%20-%202a-32a.pdf"
+        }, 
+        {
+            "title_full": "22 Mo'ed Koton 2a-29a", 
+            "url": "http://www.halakhah.com/rst/moed/22%20-%20Mo%27ed%20Koton%20-%202a-29a.pdf"
+        }, 
+        {
+            "title_full": "23 Chagigah 2a-27a", 
+            "url": "http://www.halakhah.com/rst/moed/23%20-%20Chagigah%20-%202a-27a.pdf"
+        }, 
+        {
+            "title_full": "24a Yevomos 2a-19b", 
+            "url": "http://www.halakhah.com/rst/nashim/24a%20-%20Yevomos%20-%202a-19b.pdf"
+        }, 
+        {
+            "title_full": "24b Yevomos 20a-40b", 
+            "url": "http://www.halakhah.com/rst/nashim/24b%20-%20Yevomos%20-%2020a-40b.pdf"
+        }, 
+        {
+            "title_full": "24c Yevomos 41a-63b", 
+            "url": "http://www.halakhah.com/rst/nashim/24c%20-%20Yevomos%20-%2041a-63b.pdf"
+        }, 
+        {
+            "title_full": "24d Yevomos 64a-86b", 
+            "url": "http://www.halakhah.com/rst/nashim/24d%20-%20Yevomos%20-%2064a-86b.pdf"
+        }, 
+        {
+            "title_full": "24e Yevomos 87a-106b", 
+            "url": "http://www.halakhah.com/rst/nashim/24e%20-%20Yevomos%20-%2087a-106b.pdf"
+        }, 
+        {
+            "title_full": "24f Yevomos 107a-122b", 
+            "url": "http://www.halakhah.com/rst/nashim/24f%20-%20Yevomos%20-%20107a-122b.pdf"
+        }, 
+        {
+            "title_full": "25a Kesuvos 2a-28b", 
+            "url": "http://www.halakhah.com/rst/nashim/25a%20-%20Kesuvos%20-%202a-28b.pdf"
+        }, 
+        {
+            "title_full": "25b Kesuvos 29a-54a", 
+            "url": "http://www.halakhah.com/rst/nashim/25b%20-%20Kesuvos%20-%2029a-54a.pdf"
+        }, 
+        {
+            "title_full": "25c Kesuvos 54-77b", 
+            "url": "http://www.halakhah.com/rst/nashim/25c%20-%20Kesuvos%20-%2054-77b.pdf"
+        }, 
+        {
+            "title_full": "25d Kesuvos 78a-112a", 
+            "url": "http://www.halakhah.com/rst/nashim/25d%20-%20Kesuvos%20-%2078a-112a.pdf"
+        }, 
+        {
+            "title_full": "26a Nedorim 2a-45a", 
+            "url": "http://www.halakhah.com/rst/nashim/26a%20-%20Nedorim%20-%202a-45a.pdf"
+        }, 
+        {
+            "title_full": "26b Nedorim 45b-91b", 
+            "url": "http://www.halakhah.com/rst/nashim/26b%20-%20Nedorim%20-%2045b-91b.pdf"
+        }, 
+        {
+            "title_full": "27 Nozir 2a-66b", 
+            "url": "http://www.halakhah.com/rst/nashim/27%20-%20Nozir%20-%202a-66b.pdf"
+        }, 
+        {
+            "title_full": "28 Sotah 2a-49b", 
+            "url": "http://www.halakhah.com/rst/nashim/28%20-%20Sotah%20-%202a-49b.pdf"
+        }, 
+        {
+            "title_full": "29a Gittin 2a-48a", 
+            "url": "http://www.halakhah.com/rst/nashim/29a%20-%20Gittin%20-%202a-48a.pdf"
+        }, 
+        {
+            "title_full": "29b Gittin 48b-90b", 
+            "url": "http://www.halakhah.com/rst/nashim/29b%20-%20Gittin%20-%2048b-90b.pdf"
+        }, 
+        {
+            "title_full": "30a Kiddushin 2a-40b", 
+            "url": "http://www.halakhah.com/rst/nashim/30a%20-%20Kiddushin%202a-40b.pdf"
+        }, 
+        {
+            "title_full": "30b Kiddushin 41a-82b", 
+            "url": "http://www.halakhah.com/rst/nashim/30b%20-%20Kiddushin%2041a-82b.pdf"
+        }, 
+        {
+            "title_full": "31a Baba Kamma 2a-31a", 
+            "url": "http://www.halakhah.com/rst/nezikin/31a%20-%20Baba%20Kamma%20-%202a-31a.pdf"
+        }, 
+        {
+            "title_full": "31b Baba Kamma 31b-62b", 
+            "url": "http://www.halakhah.com/rst/nezikin/31b%20-%20Baba%20Kamma%20-%2031b-62b.pdf"
+        }, 
+        {
+            "title_full": "31c Baba Kamma 62b-93a", 
+            "url": "http://www.halakhah.com/rst/nezikin/31c%20-%20Baba%20Kamma%20-%2062b-93a.pdf"
+        }, 
+        {
+            "title_full": "31d Baba Kamma 93b-119b", 
+            "url": "http://www.halakhah.com/rst/nezikin/31d%20-%20Baba%20Kamma%20-%2093b-119b.pdf"
+        }, 
+        {
+            "title_full": "32a Baba Metziah 2a-28a", 
+            "url": "http://www.halakhah.com/rst/nezikin/32a%20-%20Baba%20Metziah%20-%202a-28a.pdf"
+        }, 
+        {
+            "title_full": "32b Baba Metziah 28b-58a", 
+            "url": "http://www.halakhah.com/rst/nezikin/32b%20-%20Baba%20Metziah%20-%2028b-58a.pdf"
+        }, 
+        {
+            "title_full": "32c Baba Metziah 58b-90b", 
+            "url": "http://www.halakhah.com/rst/nezikin/32c%20-%20Baba%20Metziah%20-%2058b-90b.pdf"
+        }, 
+        {
+            "title_full": "32d Baba Metziah 91a-119a", 
+            "url": "http://www.halakhah.com/rst/nezikin/32d%20-%20Baba%20Metziah%20-%2091a-119a.pdf"
+        }, 
+        {
+            "title_full": "33a Baba Basra 2a-35b", 
+            "url": "http://www.halakhah.com/rst/nezikin/33a%20-%20Baba%20Basra%20-%202a-35b.pdf"
+        }, 
+        {
+            "title_full": "33b Baba Basra 36a-77b", 
+            "url": "http://www.halakhah.com/rst/nezikin/33b%20-%20Baba%20Basra%20-%2036a-77b.pdf"
+        }, 
+        {
+            "title_full": "33c Baba Basra 78a-113a", 
+            "url": "http://www.halakhah.com/rst/nezikin/33c%20-%20Baba%20Basra%20-%2078a-113a.pdf"
+        }, 
+        {
+            "title_full": "33d Baba Basra 113b-145b", 
+            "url": "http://www.halakhah.com/rst/nezikin/33d%20-%20Baba%20Basra%20-%20113b-145b.pdf"
+        }, 
+        {
+            "title_full": "33e Baba Basra 146a-176b", 
+            "url": "http://www.halakhah.com/rst/nezikin/33e%20-%20Baba%20Basra%20-%20146a-176b.pdf"
+        }, 
+        {
+            "title_full": "34a Sanhedrin 2a-25a", 
+            "url": "http://www.halakhah.com/rst/nezikin/34a%20-%20Sanhedrin%20-%202a-25a.pdf"
+        }, 
+        {
+            "title_full": "34b Sanhedrin 25b-45b", 
+            "url": "http://www.halakhah.com/rst/nezikin/34b%20-%20Sanhedrin%20-%2025b-45b.pdf"
+        }, 
+        {
+            "title_full": "34c Sanhedrin 46a-66b", 
+            "url": "http://www.halakhah.com/rst/nezikin/34c%20-%20Sanhedrin%20-%2046a-66b.pdf"
+        }, 
+        {
+            "title_full": "34d Sanhedrin 67a-92b", 
+            "url": "http://www.halakhah.com/rst/nezikin/34d%20-%20Sanhedrin%20-%2067a-92b.pdf"
+        }, 
+        {
+            "title_full": "34e Sanhedrin 93a-113b", 
+            "url": "http://www.halakhah.com/rst/nezikin/34e%20-%20Sanhedrin%20-%2093a-113b.pdf"
+        }, 
+        {
+            "title_full": "35a Avodoh Zoroh 2a-35b", 
+            "url": "http://www.halakhah.com/rst/nezikin/35a%20-%20Avodoh%20Zoroh%20-%202a-35b.pdf"
+        }, 
+        {
+            "title_full": "35b Avodoh Zoroh 36a-76b", 
+            "url": "http://www.halakhah.com/rst/nezikin/35b%20-%20Avodoh%20Zoroh%20-%2036a-76b.pdf"
+        }, 
+        {
+            "title_full": "36 Horiyos", 
+            "url": "http://www.halakhah.com/rst/nezikin/36%20-%20Horiyos.pdf"
+        }, 
+        {
+            "title_full": "37a Shevuos 2a-28b", 
+            "url": "http://www.halakhah.com/rst/nezikin/37a%20-%20Shevuos%20-%202a-28b.pdf"
+        }, 
+        {
+            "title_full": "37b Shevuos 29a-49b", 
+            "url": "http://www.halakhah.com/rst/nezikin/37b%20-%20Shevuos%20-%2029a-49b.pdf"
+        }, 
+        {
+            "title_full": "38 Makkos", 
+            "url": "http://www.halakhah.com/rst/nezikin/38%20-%20Makkos.pdf"
+        }, 
+        {
+            "title_full": "39 Eiduyos", 
+            "url": "http://www.halakhah.com/rst/nezikin/39%20-%20Eiduyos.pdf"
+        }, 
+        {
+            "title_full": "40 Ovos", 
+            "url": "http://www.halakhah.com/rst/nezikin/40%20-%20Ovos.pdf"
+        }, 
+        {
+            "title_full": "41a Zevochim 2a-27b", 
+            "url": "http://www.halakhah.com/rst/kodoshim/41a%20-%20Zevochim%20-%202a-27b.pdf"
+        }, 
+        {
+            "title_full": "41b Zevochim 28a-56b", 
+            "url": "http://www.halakhah.com/rst/kodoshim/41b%20-%20Zevochim%20-%2028a-56b.pdf"
+        }, 
+        {
+            "title_full": "41c Zevochim 57a-91a", 
+            "url": "http://www.halakhah.com/rst/kodoshim/41c%20-%20Zevochim%20-%2057a-91a.pdf"
+        }, 
+        {
+            "title_full": "41d Zevochim 91b-128b", 
+            "url": "http://www.halakhah.com/rst/kodoshim/41d%20-%20Zevochim%20-%2091b-128b.pdf"
+        }, 
+        {
+            "title_full": "42a Menochos 2a-26b", 
+            "url": "http://www.halakhah.com/rst/kodoshim/42a%20-%20Menochos%20-%202a-26b.pdf"
+        }, 
+        {
+            "title_full": "42b Menochos 27a-58b", 
+            "url": "http://www.halakhah.com/rst/kodoshim/42b%20-%20Menochos%20-%2027a-58b.pdf"
+        }, 
+        {
+            "title_full": "42c Menochos 59a-86a", 
+            "url": "http://www.halakhah.com/rst/kodoshim/42c%20-%20Menochos%20-%2059a-86a.pdf"
+        }, 
+        {
+            "title_full": "42d Menochos 86b-110a", 
+            "url": "http://www.halakhah.com/rst/kodoshim/42d%20-%20Menochos%20-%2086b-110a.pdf"
+        }, 
+        {
+            "title_full": "43a Chullin 2a-30b", 
+            "url": "http://www.halakhah.com/rst/kodoshim/43a%20-%20Chullin%20-%202a-30b.pdf"
+        }, 
+        {
+            "title_full": "43b Chullin 31a-60b", 
+            "url": "http://www.halakhah.com/rst/kodoshim/43b%20-%20Chullin%20-%2031a-60b.pdf"
+        }, 
+        {
+            "title_full": "43c Chullin 61a-89a", 
+            "url": "http://www.halakhah.com/rst/kodoshim/43c%20-%20Chullin%20-%2061a-89a.pdf"
+        }, 
+        {
+            "title_full": "43d Chullin 89b-120a", 
+            "url": "http://www.halakhah.com/rst/kodoshim/43d%20-%20Chullin%20-%2089b-120a.pdf"
+        }, 
+        {
+            "title_full": "43e Chullin 120b-142a", 
+            "url": "http://www.halakhah.com/rst/kodoshim/43e%20-%20Chullin%20-%20120b-142a.pdf"
+        }, 
+        {
+            "title_full": "44a Bechoros 2a-31a", 
+            "url": "http://www.halakhah.com/rst/kodoshim/44a%20-%20Bechoros%20-%202a-31a.pdf"
+        }, 
+        {
+            "title_full": "44b Bechoros 31b-61a", 
+            "url": "http://www.halakhah.com/rst/kodoshim/44b%20-%20Bechoros%20-%2031b-61a.pdf"
+        }, 
+        {
+            "title_full": "45 Arachin", 
+            "url": "http://www.halakhah.com/rst/kodoshim/45%20-%20Arachin.pdf"
+        }, 
+        {
+            "title_full": "46 Temurah", 
+            "url": "http://www.halakhah.com/rst/kodoshim/46%20-%20Temurah.pdf"
+        }, 
+        {
+            "title_full": "47 Krisos", 
+            "url": "http://www.halakhah.com/rst/kodoshim/47%20-%20Krisos.pdf"
+        }, 
+        {
+            "title_full": "48 Me'iloh", 
+            "url": "http://www.halakhah.com/rst/kodoshim/48%20-%20Me%27iloh.pdf"
+        }, 
+        {
+            "title_full": "49 Tomid", 
+            "url": "http://www.halakhah.com/rst/kodoshim/49%20-%20Tomid.pdf"
+        }, 
+        {
+            "title_full": "50 Middos", 
+            "url": "http://www.halakhah.com/rst/kodoshim/50%20-%20Middos.pdf"
+        }, 
+        {
+            "title_full": "51 Kinnim", 
+            "url": "http://www.halakhah.com/rst/kodoshim/51%20-%20Kinnim.pdf"
+        }, 
+        {
+            "title_full": "52a Niddoh 2a-23a", 
+            "url": "http://www.halakhah.com/rst/kodoshim/52a%20-%20Niddoh%20-%202a-23a.pdf"
+        }, 
+        {
+            "title_full": "52b Niddoh 23b-48a", 
+            "url": "http://www.halakhah.com/rst/kodoshim/52b%20-%20Niddoh%20-%2023b-48a.pdf"
+        }, 
+        {
+            "title_full": "52c Niddoh 48b-73a", 
+            "url": "http://www.halakhah.com/rst/kodoshim/52c%20-%20Niddoh%20-%2048b-73a.pdf"
+        }, 
+        {
+            "title_full": "53 Keilim", 
+            "url": "http://www.halakhah.com/rst/taharoth/53%20-%20Keilim.pdf"
+        }, 
+        {
+            "title_full": "54 Oholos", 
+            "url": "http://www.halakhah.com/rst/taharoth/54%20-%20Oholos.pdf"
+        }, 
+        {
+            "title_full": "55 Nego'im", 
+            "url": "http://www.halakhah.com/rst/taharoth/55%20-%20Nego%27im.pdf"
+        }, 
+        {
+            "title_full": "56 Poroh", 
+            "url": "http://www.halakhah.com/rst/taharoth/56%20-%20Poroh.pdf"
+        }, 
+        {
+            "title_full": "57 Tohoros", 
+            "url": "http://www.halakhah.com/rst/taharoth/57%20-%20Tohoros.pdf"
+        }, 
+        {
+            "title_full": "58 Mikva'os", 
+            "url": "http://www.halakhah.com/rst/taharoth/58%20-%20Mikva%27os.pdf"
+        }, 
+        {
+            "title_full": "59 Machshirin", 
+            "url": "http://www.halakhah.com/rst/taharoth/59%20-%20Machshirin.pdf"
+        }, 
+        {
+            "title_full": "60 Zavim", 
+            "url": "http://www.halakhah.com/rst/taharoth/60%20-%20Zavim.pdf"
+        }, 
+        {
+            "title_full": "61 Tevul Yom", 
+            "url": "http://www.halakhah.com/rst/taharoth/61%20-%20Tevul%20Yom.pdf"
+        }, 
+        {
+            "title_full": "62 Yodoyim", 
+            "url": "http://www.halakhah.com/rst/taharoth/62%20-%20Yodoyim.pdf"
+        }, 
+        {
+            "title_full": "63 Uktzin", 
+            "url": "http://www.halakhah.com/rst/taharoth/63%20-%20Uktzin.pdf"
+        }, 
+        {
+            "title_full": "FOREWORD, ABBREVIATIONS, GLOSSARY", 
+            "url": "http://www.halakhah.com/rst/00%20-%20Index%20Abbreviations%20Glossary.pdf"
+        }
+    ], 
+    "title": "Soncino Babylonian Talmud. TRANSLATED INTO ENGLISH", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.halakhah.com/indexrst.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

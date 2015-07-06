@@ -1,0 +1,161 @@
+{
+    "authors": [
+        "title", 
+        "subject", 
+        "university"
+    ], 
+    "contributors": [], 
+    "description": "American Doctoral Dissertations, 1933-1955 is a free database providing access to the only comprehensive record of dissertations accepted by American universities during that time period, the print index Doctoral Dissertations Accepted by American Universities. Containing nearly 100,000 citations, American Doctoral Dissertations, 1933-1955, provides full page images of the original print index, and may be searched by author, title, subject and university. The database was created with the generous support of the H. Wilson Foundation and the Congregational Library & Archives in Boston. Doctoral Dissertations Accepted by American Universities was an index complied annually for the National Research Council and The American Council of Learned Societies by the Association of Research Libraries. It was published by the H. Wilson Company.", 
+    "domain": "opendissertations.com", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "American Doctoral Dissertations, 1933-1955", 
+        "url": "http://opendissertations.com/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2525252758748548426", 
+            "resource_date": "2014-10-06T10:56:47.657-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:27.376356"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/10/american-doctoral-dissertations-1933.html", 
+            "resource_date": "2014-10-06T10:56:47.657-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:27.376370"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2525252758748548426", 
+            "resource_date": "2014-10-06T10:56:47.657-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:27.377742"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/10/american-doctoral-dissertations-1933.html", 
+            "resource_date": "2014-10-06T10:56:47.657-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:27.377752"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "year", 
+                "languages", 
+                "description", 
+                "volume", 
+                "authors", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:27.379193"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "opendissertations-com", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "American Doctoral Dissertations, 1933-1955", 
+            "url": "http://opendissertations.com/"
+        }
+    ], 
+    "title": "American Doctoral Dissertations, 1933-1955", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://opendissertations.com/", 
+    "url_alternates": [], 
+    "volume": "1955", 
+    "year": "1933", 
+    "zenon_id": null, 
+    "zotero_id": null
+}

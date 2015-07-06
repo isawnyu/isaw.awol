@@ -1,0 +1,875 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 21 February 2012. Updated 5 February 2015]. Bulletin de Correspondance Hell\u00e9nique (at Pers\u00e9e) [Accessible also at.", 
+    "domain": "www.persee.fr", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Journals at Pers\u00e9e", 
+        "url": "http://www.persee.fr/web/revues/home"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "France", 
+        "open access", 
+        "Greece", 
+        "classics", 
+        "archaeology"
+    ], 
+    "languages": [
+        "fr"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
+            "resource_date": "2015-01-13T18:47:15.944-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:18.359179"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
+            "resource_date": "2015-01-13T18:47:15.944-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:18.359189"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3328278877047329476", 
+            "resource_date": "2015-02-05T11:35:26.760-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:07:54.351861"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/open-access-journal-bulletin-de.html", 
+            "resource_date": "2015-02-05T11:35:26.760-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:07:54.351877"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "title_extended", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:07:55.664273"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "web-revues-home-prescript-revue-bch", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "1877 : [ 1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1877_num_1_1"
+        }, 
+        {
+            "title_full": "1878 : [ 2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1878_num_2_1"
+        }, 
+        {
+            "title_full": "1879 : [ 3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1879_num_3_1"
+        }, 
+        {
+            "title_full": "1880 : [ 4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1880_num_4_1"
+        }, 
+        {
+            "title_full": "1881 : [ 5 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1881_num_5_1"
+        }, 
+        {
+            "title_full": "1882 : [ 6 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1882_num_6_1"
+        }, 
+        {
+            "title_full": "1883 : [ 7 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1883_num_7_1"
+        }, 
+        {
+            "title_full": "1884 : [ 8 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1884_num_8_1"
+        }, 
+        {
+            "title_full": "1885 : [ 9 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1885_num_9_1"
+        }, 
+        {
+            "title_full": "1886 : [ 10 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1886_num_10_1"
+        }, 
+        {
+            "title_full": "1887 : [ 11 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1887_num_11_1"
+        }, 
+        {
+            "title_full": "1888 : [ 12 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1888_num_12_1"
+        }, 
+        {
+            "title_full": "1889 : [ 13 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1889_num_13_1"
+        }, 
+        {
+            "title_full": "1890 : [ 14 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1890_num_14_1"
+        }, 
+        {
+            "title_full": "1891 : [ 15 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1891_num_15_1"
+        }, 
+        {
+            "title_full": "1892 : [ 16 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1892_num_16_1"
+        }, 
+        {
+            "title_full": "1893 : [ 17 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1893_num_17_1"
+        }, 
+        {
+            "title_full": "1894 : [ 18 ] [ Tab ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1894_num_18_1"
+        }, 
+        {
+            "title_full": "1894 : [ 18 ] [ Tab ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1894_tab_2_1"
+        }, 
+        {
+            "title_full": "1895 : [ 19 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1895_num_19_1"
+        }, 
+        {
+            "title_full": "1896 : [ 20 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1896_num_20_1"
+        }, 
+        {
+            "title_full": "1897 : [ 21 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1897_num_21_1"
+        }, 
+        {
+            "title_full": "1898 : [ 22 ] [ Suppl. ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1898_num_22_1"
+        }, 
+        {
+            "title_full": "1898 : [ 22 ] [ Suppl. ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1898_sup_22_1"
+        }, 
+        {
+            "title_full": "1899 : [ 23 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1899_num_23_1"
+        }, 
+        {
+            "title_full": "1900 : [ 24 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1900_num_24_1"
+        }, 
+        {
+            "title_full": "1901 : [ 25 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1901_num_25_1"
+        }, 
+        {
+            "title_full": "1902 : [ 26 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1902_num_26_1"
+        }, 
+        {
+            "title_full": "1903 : [ 27 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1903_num_27_1"
+        }, 
+        {
+            "title_full": "1904 : [ 28 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1904_num_28_1"
+        }, 
+        {
+            "title_full": "1905 : [ 29 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1905_num_29_1"
+        }, 
+        {
+            "title_full": "1906 : [ 30 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1906_num_30_1"
+        }, 
+        {
+            "title_full": "1907 : [ 31 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1907_num_31_1"
+        }, 
+        {
+            "title_full": "1908 : [ 32 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1908_num_32_1"
+        }, 
+        {
+            "title_full": "1909 : [ 33 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1909_num_33_1"
+        }, 
+        {
+            "title_full": "1910 : [ 34 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1910_num_34_1"
+        }, 
+        {
+            "title_full": "1911 : [ 35 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1911_num_35_1"
+        }, 
+        {
+            "title_full": "1912 : [ 36 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1912_num_36_1"
+        }, 
+        {
+            "title_full": "1913 : [ 37 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1913_num_37_1"
+        }, 
+        {
+            "title_full": "1914 : [ 38 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1914_num_38_1"
+        }, 
+        {
+            "title_full": "1915 : [ 39 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1915_num_39_1"
+        }, 
+        {
+            "title_full": "1916 : [ 40 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1916_num_40_1"
+        }, 
+        {
+            "title_full": "1917 : [ 41-43 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1917_num_41_1"
+        }, 
+        {
+            "title_full": "1920 : [ 44 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1920_num_44_1"
+        }, 
+        {
+            "title_full": "1921 : [ 45 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1921_num_45_1"
+        }, 
+        {
+            "title_full": "1922 : [ 46 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1922_num_46_1"
+        }, 
+        {
+            "title_full": "1923 : [ 47 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1923_num_47_1"
+        }, 
+        {
+            "title_full": "1924 : [ 48 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1924_num_48_1"
+        }, 
+        {
+            "title_full": "1925 : [ 49 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1925_num_49_1"
+        }, 
+        {
+            "title_full": "1926 : [ 50 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1926_num_50_1"
+        }, 
+        {
+            "title_full": "1927 : [ 51 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1927_num_51_1"
+        }, 
+        {
+            "title_full": "1928 : [ 52 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1928_num_52_1"
+        }, 
+        {
+            "title_full": "1929 : [ 53 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1929_num_53_1"
+        }, 
+        {
+            "title_full": "1930 : [ 54 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1930_num_54_1"
+        }, 
+        {
+            "title_full": "1931 : [ 55 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1931_num_55_1"
+        }, 
+        {
+            "title_full": "1932 : [ 56 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1932_num_56_1"
+        }, 
+        {
+            "title_full": "1933 : [ 57 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1933_num_57_1"
+        }, 
+        {
+            "title_full": "1934 : [ 58 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1934_num_58_1"
+        }, 
+        {
+            "title_full": "1935 : [ 59 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1935_num_59_1"
+        }, 
+        {
+            "title_full": "1936 : [ 60 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1936_num_60_1"
+        }, 
+        {
+            "title_full": "1937 : [ 61 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1937_num_61_1"
+        }, 
+        {
+            "title_full": "1938 : [ 62 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1938_num_62_1"
+        }, 
+        {
+            "title_full": "1939 : [ 63 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1939_num_63_1"
+        }, 
+        {
+            "title_full": "1940 : [ 64-65 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1940_num_64_1"
+        }, 
+        {
+            "title_full": "1942 : [ 66-67 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1942_num_66_1"
+        }, 
+        {
+            "title_full": "1944 : [ 68-69 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1944_num_68_1"
+        }, 
+        {
+            "title_full": "1946 : [ 70 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1946_num_70_1"
+        }, 
+        {
+            "title_full": "1947 : [ 71-72 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1947_num_71_1"
+        }, 
+        {
+            "title_full": "1948 : [ Suppl. ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1948_sup_71_1"
+        }, 
+        {
+            "title_full": "1949 : [ 73 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1949_num_73_1"
+        }, 
+        {
+            "title_full": "1950 : [ 74 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1950_num_74_1"
+        }, 
+        {
+            "title_full": "1951 : [ 75 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1951_num_75_1"
+        }, 
+        {
+            "title_full": "1952 : [ 76 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1952_num_76_1"
+        }, 
+        {
+            "title_full": "1953 : [ 77 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1953_num_77_1"
+        }, 
+        {
+            "title_full": "1954 : [ 78 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1954_num_78_1"
+        }, 
+        {
+            "title_full": "1955 : [ 79 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1955_num_79_1"
+        }, 
+        {
+            "title_full": "1956 : [ 80 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1956_num_80_1"
+        }, 
+        {
+            "title_full": "1957 : [ 81 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1957_num_81_1"
+        }, 
+        {
+            "title_full": "1958 : [ 82 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1958_num_82_1"
+        }, 
+        {
+            "title_full": "1959 : [ 83-1 ] [ 83-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1959_num_83_1"
+        }, 
+        {
+            "title_full": "1959 : [ 83-1 ] [ 83-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1959_num_83_2"
+        }, 
+        {
+            "title_full": "1960 : [ 84-1 ] [ 84-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1960_num_84_1"
+        }, 
+        {
+            "title_full": "1960 : [ 84-1 ] [ 84-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1960_num_84_2"
+        }, 
+        {
+            "title_full": "1961 : [ 85 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1961_num_85_1"
+        }, 
+        {
+            "title_full": "1962 : [ 86-1 ] [ 86-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1962_num_86_1"
+        }, 
+        {
+            "title_full": "1962 : [ 86-1 ] [ 86-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1962_num_86_2"
+        }, 
+        {
+            "title_full": "1963 : [ 87-1 ] [ 87-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1963_num_87_1"
+        }, 
+        {
+            "title_full": "1963 : [ 87-1 ] [ 87-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1963_num_87_2"
+        }, 
+        {
+            "title_full": "1964 : [ 88-1 ] [ 88-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1964_num_88_1"
+        }, 
+        {
+            "title_full": "1964 : [ 88-1 ] [ 88-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1964_num_88_2"
+        }, 
+        {
+            "title_full": "1965 : [ 89-1 ] [ 89-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1965_num_89_1"
+        }, 
+        {
+            "title_full": "1965 : [ 89-1 ] [ 89-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1965_num_89_2"
+        }, 
+        {
+            "title_full": "1966 : [ 90-1 ] [ 90-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1966_num_90_1"
+        }, 
+        {
+            "title_full": "1966 : [ 90-1 ] [ 90-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1966_num_90_2"
+        }, 
+        {
+            "title_full": "1967 : [ 91-1 ] [ 91-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1967_num_91_1"
+        }, 
+        {
+            "title_full": "1967 : [ 91-1 ] [ 91-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1967_num_91_2"
+        }, 
+        {
+            "title_full": "1968 : [ 92-1 ] [ 92-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1968_num_92_1"
+        }, 
+        {
+            "title_full": "1968 : [ 92-1 ] [ 92-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1968_num_92_2"
+        }, 
+        {
+            "title_full": "1969 : [ 93-1 ] [ 93-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1969_num_93_1"
+        }, 
+        {
+            "title_full": "1969 : [ 93-1 ] [ 93-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1969_num_93_2"
+        }, 
+        {
+            "title_full": "1970 : [ 94-1 ] [ 94-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1970_num_94_1"
+        }, 
+        {
+            "title_full": "1970 : [ 94-1 ] [ 94-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1970_num_94_2"
+        }, 
+        {
+            "title_full": "1971 : [ 95-1 ] [ 95-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1971_num_95_1"
+        }, 
+        {
+            "title_full": "1971 : [ 95-1 ] [ 95-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1971_num_95_2"
+        }, 
+        {
+            "title_full": "1972 : [ 96-1 ] [ 96-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1972_num_96_1"
+        }, 
+        {
+            "title_full": "1972 : [ 96-1 ] [ 96-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1972_num_96_2"
+        }, 
+        {
+            "title_full": "1973 : [ 97-1 ] [ 97-2 ] [ Suppl 1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1973_num_97_1"
+        }, 
+        {
+            "title_full": "1973 : [ 97-1 ] [ 97-2 ] [ Suppl 1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1973_num_97_2"
+        }, 
+        {
+            "title_full": "1973 : [ 97-1 ] [ 97-2 ] [ Suppl 1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0304-2456_1973_sup_1_1"
+        }, 
+        {
+            "title_full": "1974 : [ 98-1 ] [ 98-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1974_num_98_1"
+        }, 
+        {
+            "title_full": "1974 : [ 98-1 ] [ 98-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1974_num_98_2"
+        }, 
+        {
+            "title_full": "1975 : [ 99-1 ] [ 99-2 ] [ Suppl 2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1975_num_99_1"
+        }, 
+        {
+            "title_full": "1975 : [ 99-1 ] [ 99-2 ] [ Suppl 2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1975_num_99_2"
+        }, 
+        {
+            "title_full": "1975 : [ 99-1 ] [ 99-2 ] [ Suppl 2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0304-2456_1975_sup_2_1"
+        }, 
+        {
+            "title_full": "1976 : [ 100-1 ] [ 100-2 ] [ Suppl 3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1976_num_100_1"
+        }, 
+        {
+            "title_full": "1976 : [ 100-1 ] [ 100-2 ] [ Suppl 3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1976_num_100_2"
+        }, 
+        {
+            "title_full": "1976 : [ 100-1 ] [ 100-2 ] [ Suppl 3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0304-2456_1976_sup_3_1"
+        }, 
+        {
+            "title_full": "1977 : [ 101-1 ] [ 101-2 ] [ Suppl 4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1977_num_101_1"
+        }, 
+        {
+            "title_full": "1977 : [ 101-1 ] [ 101-2 ] [ Suppl 4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1977_num_101_2"
+        }, 
+        {
+            "title_full": "1977 : [ 101-1 ] [ 101-2 ] [ Suppl 4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0304-2456_1977_sup_4_1"
+        }, 
+        {
+            "title_full": "1978 : [ 102-1 ] [ 102-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1978_num_102_1"
+        }, 
+        {
+            "title_full": "1978 : [ 102-1 ] [ 102-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1978_num_102_2"
+        }, 
+        {
+            "title_full": "1979 : [ 103-1 ] [ 103-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1979_num_103_1"
+        }, 
+        {
+            "title_full": "1979 : [ 103-1 ] [ 103-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1979_num_103_2"
+        }, 
+        {
+            "title_full": "1980 : [ 104-1 ] [ 104-2 ] [ Suppl 6 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1980_num_104_1"
+        }, 
+        {
+            "title_full": "1980 : [ 104-1 ] [ 104-2 ] [ Suppl 6 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1980_num_104_2"
+        }, 
+        {
+            "title_full": "1980 : [ 104-1 ] [ 104-2 ] [ Suppl 6 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0304-2456_1980_sup_6_1"
+        }, 
+        {
+            "title_full": "1981 : [ 105-1 ] [ 105-2 ] [ Suppl 7 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1981_num_105_1"
+        }, 
+        {
+            "title_full": "1981 : [ 105-1 ] [ 105-2 ] [ Suppl 7 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1981_num_105_2"
+        }, 
+        {
+            "title_full": "1981 : [ 105-1 ] [ 105-2 ] [ Suppl 7 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0304-2456_1981_sup_7_1"
+        }, 
+        {
+            "title_full": "1982 : [ 106-1 ] [ 106-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1982_num_106_1"
+        }, 
+        {
+            "title_full": "1982 : [ 106-1 ] [ 106-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1982_num_106_2"
+        }, 
+        {
+            "title_full": "1983 : [ 107-1 ] [ 107-2 ] [ 8 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1983_num_107_1"
+        }, 
+        {
+            "title_full": "1983 : [ 107-1 ] [ 107-2 ] [ 8 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1983_num_107_2"
+        }, 
+        {
+            "title_full": "1983 : [ 107-1 ] [ 107-2 ] [ 8 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0304-2456_1983_sup_8_1"
+        }, 
+        {
+            "title_full": "1984 : [ 108-1 ] [ 108-2 ] [ Suppl ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1984_num_108_1"
+        }, 
+        {
+            "title_full": "1984 : [ 108-1 ] [ 108-2 ] [ Suppl ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1984_num_108_2"
+        }, 
+        {
+            "title_full": "1984 : [ 108-1 ] [ 108-2 ] [ Suppl ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0304-2456_1984_sup_9_1"
+        }, 
+        {
+            "title_full": "1985 : [ 109-1 ] [ 109-2 ] [ 10 ] [ Suppl 11 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1985_num_109_1"
+        }, 
+        {
+            "title_full": "1985 : [ 109-1 ] [ 109-2 ] [ 10 ] [ Suppl 11 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1985_num_109_2"
+        }, 
+        {
+            "title_full": "1985 : [ 109-1 ] [ 109-2 ] [ 10 ] [ Suppl 11 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0304-2456_1985_sup_10_1"
+        }, 
+        {
+            "title_full": "1985 : [ 109-1 ] [ 109-2 ] [ 10 ] [ Suppl 11 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0304-2456_1985_sup_11_1"
+        }, 
+        {
+            "title_full": "1986 : [ 110-1 ] [ 110-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1986_num_110_1"
+        }, 
+        {
+            "title_full": "1986 : [ 110-1 ] [ 110-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1986_num_110_2"
+        }, 
+        {
+            "title_full": "1987 : [ 111-1 ] [ 111-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1987_num_111_1"
+        }, 
+        {
+            "title_full": "1987 : [ 111-1 ] [ 111-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1987_num_111_2"
+        }, 
+        {
+            "title_full": "1988 : [ 112-1 ] [ 112-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1988_num_112_1"
+        }, 
+        {
+            "title_full": "1988 : [ 112-1 ] [ 112-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1988_num_112_2"
+        }, 
+        {
+            "title_full": "1989 : [ 113-1 ] [ 113-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1989_num_113_1"
+        }, 
+        {
+            "title_full": "1989 : [ 113-1 ] [ 113-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1989_num_113_2"
+        }, 
+        {
+            "title_full": "1990 : [ 114-1 ] [ 114-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1990_num_114_1"
+        }, 
+        {
+            "title_full": "1990 : [ 114-1 ] [ 114-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1990_num_114_2"
+        }, 
+        {
+            "title_full": "1991 : [ 115-1 ] [ 115-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1991_num_115_1"
+        }, 
+        {
+            "title_full": "1991 : [ 115-1 ] [ 115-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1991_num_115_2"
+        }, 
+        {
+            "title_full": "1992 : [ 116-1 ] [ 116-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1992_num_116_1"
+        }, 
+        {
+            "title_full": "1992 : [ 116-1 ] [ 116-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1992_num_116_2"
+        }, 
+        {
+            "title_full": "1993 : [ 117-1 ] [ 117-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1993_num_117_1"
+        }, 
+        {
+            "title_full": "1993 : [ 117-1 ] [ 117-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1993_num_117_2"
+        }, 
+        {
+            "title_full": "1994 : [ 118-1 ] [ 118-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1994_num_118_1"
+        }, 
+        {
+            "title_full": "1994 : [ 118-1 ] [ 118-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1994_num_118_2"
+        }, 
+        {
+            "title_full": "1995 : [ 119-1 ] [ 119-2 ] [ 119-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1995_num_119_1"
+        }, 
+        {
+            "title_full": "1995 : [ 119-1 ] [ 119-2 ] [ 119-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1995_num_119_2"
+        }, 
+        {
+            "title_full": "1995 : [ 119-1 ] [ 119-2 ] [ 119-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1995_num_119_3"
+        }, 
+        {
+            "title_full": "1996 : [ 120-1 ] [ 120-2 ] [ 120-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1996_num_120_1"
+        }, 
+        {
+            "title_full": "1996 : [ 120-1 ] [ 120-2 ] [ 120-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1996_num_120_2"
+        }, 
+        {
+            "title_full": "1996 : [ 120-1 ] [ 120-2 ] [ 120-3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1996_num_120_3"
+        }, 
+        {
+            "title_full": "1997 : [ 121-1 ] [ 121-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1997_num_121_1"
+        }, 
+        {
+            "title_full": "1997 : [ 121-1 ] [ 121-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1997_num_121_2"
+        }, 
+        {
+            "title_full": "1998 : [ 122-1 ] [ 122-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1998_num_122_1"
+        }, 
+        {
+            "title_full": "1998 : [ 122-1 ] [ 122-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1998_num_122_2"
+        }, 
+        {
+            "title_full": "1999 : [ 123-1 ] [ 123-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1999_num_123_1"
+        }, 
+        {
+            "title_full": "1999 : [ 123-1 ] [ 123-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_1999_num_123_2"
+        }, 
+        {
+            "title_full": "2000 : [ 124-1 ] [ 124-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_2000_num_124_1"
+        }, 
+        {
+            "title_full": "2000 : [ 124-1 ] [ 124-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_2000_num_124_2"
+        }, 
+        {
+            "title_full": "2001 : [ 125-1 ] [ 125-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_2001_num_125_1"
+        }, 
+        {
+            "title_full": "2001 : [ 125-1 ] [ 125-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_2001_num_125_2"
+        }, 
+        {
+            "title_full": "2002 : [ 126-1 ] [ 126-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_2002_num_126_1"
+        }, 
+        {
+            "title_full": "2002 : [ 126-1 ] [ 126-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_2002_num_126_2"
+        }, 
+        {
+            "title_full": "2003 : [ 127-1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_2003_num_127_1"
+        }
+    ], 
+    "title": "Bulletin de Correspondance Hell\u00e9nique", 
+    "title_alternates": [], 
+    "title_extended": "Bulletin de Correspondance Hell\u00e9nique (at Pers\u00e9e)", 
+    "type": null, 
+    "url": "http://www.persee.fr/web/revues/home/prescript/revue/bch", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

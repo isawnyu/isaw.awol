@@ -1,0 +1,764 @@
+{
+    "authors": [
+        "Reginald Smith"
+    ], 
+    "contributors": [], 
+    "description": "The Meroitic Newsletter - A Digital Compilation. Compiled by Reginald Smith. Dedicated to all Meroitic Scholars, especially the recently passed Dr. Bruce Trigger. Compiler's Notes. My Papers*NEW* My paper(s) on Meroitic (not affiliated with the Meroitic Newsletter or the Institut de France). Technical Note: This software requires that you have both a web browser and Adobe Acrobat's PDF Reader Installed. If you do not have the reader install it from the web page here. Some users have reported that the links do not always link directly to the article in the PDF but only the first page. This bug is present in some earlier editions of the Adobe Acrobat Reader. I highly recommend you download the latest version (version 8). Indexed by Author.", 
+    "domain": "www.meroiticnewsletter.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Sudan", 
+        "egyptology", 
+        "journal", 
+        "open access", 
+        "Nubia", 
+        "newsletter"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6588102141201936197", 
+            "resource_date": "2013-09-28T07:15:42.796-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:30.597708"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journal-meroitic-newsletter.html", 
+            "resource_date": "2013-09-28T07:15:42.796-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:30.597724"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "www-meroiticnewsletter-org", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Compiler's Notes", 
+            "url": "http://www.meroiticnewsletter.org/notes.htm"
+        }, 
+        {
+            "title_full": "My Papers", 
+            "url": "http://www.meroiticnewsletter.org/papers.htm"
+        }, 
+        {
+            "title_full": "Indexed by Author", 
+            "url": "http://www.meroiticnewsletter.org/author.htm"
+        }, 
+        {
+            "title_full": "Introduction", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews1.pdf#page=2&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Two Notes on Meroitic Grammar", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews1.pdf#page=5&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Pr\u00e9liminaires \u00e0 un R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews1.pdf#page=10&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "A Note on the Particle BE-S", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews2.pdf#page=2&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Pr\u00e9liminaires \u00e0 un R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews2.pdf#page=10&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Pr\u00e9liminaires \u00e0 un R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews3.pdf#page=2&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Die Meroitische Statuengruppe CG 684 im \u00c4gyptischen Museum zu Kairo", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews3.pdf#page=13&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Das Relief Eines Meroitischen K\u00f6nigs aus der Ehem Sammlung M. Rosenberg", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews3.pdf#page=18&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "R\u00e9unions et Congr\u00e8s", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews3.pdf#page=27&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Pr\u00e9liminaires \u00e0 un R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews4.pdf#page=2&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "System de Transcription Analytique des Textes M\u00e9ro\u00eftiques", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews5.pdf#page=3&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Esai de Transcription Analytique des Textes M\u00e9ro\u00eftiques Isoles", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews5.pdf#page=5&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Statistical Study of African Place-Names", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews5.pdf#page=10&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Excavations at Mero\u00eb: New Publication", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews5.pdf#page=18&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Pr\u00e9liminaires \u00e0 un R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM) (REM 1001-1110)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews6.pdf#page=3&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Un Point de Repere Chronologique dans la Periode Tardive du Royaume de Meroe", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews7.pdf#page=2&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Zu Einigen Gefangenendarstellungen mit Kopfbedeckung im Meroitischen Reich", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews7.pdf#page=6&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Notule sur une Possible Contamination de L'Alphabet M\u00e9ro\u00eftique por le Systeme D'Ecriture Libyco-Berb\u00e8re", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews7.pdf#page=11&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Reunions Recentes Consacrees aux Etudes M\u00e9ro\u00eftiques", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews7.pdf#page=13&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Internationale Tagung fur Meroitistische Forschungen 6. bis 12. September 1971 in Berlin", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews7.pdf#page=15&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Un Riordinamento per Documenti di Hintze, Struktur 1963 (Ed. -- Incomplete scan)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews8.pdf#page=2&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "In Memoriam: Andr\u00e9 Heyler 1924-1971", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews9.pdf#page=3&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Bibliography of Andr\u00e9 Heyler", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews9.pdf#page=6&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "A Propos d'Une Comparaison Entre les Ecritures Libyco-Berbere et M\u00e9ro\u00eftique", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews9.pdf#page=8&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "A Propos de L' \"A-Propos\" de M. Galand et Suite de ma \"Notule\" sur l'Ecriture M\u00e9ro\u00eftique", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews9.pdf#page=11&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Eine Meroitische Stadt in Wadai?", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews9.pdf#page=16&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Pr\u00e9liminaires \u00e0 un R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM) (suite 1)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews10.pdf#page=2&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Les Erreurs de L'Engregistrement sur Ordinateur de REM 1001 \u00e0 1110 Reperage Automatique des Erreurs", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews10.pdf#page=11&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Some Considerations on Meroitic Phonology", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews10.pdf#page=16&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Les Raids des Blemmyes sous le Regne de Valens en 373-374", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews10.pdf#page=33&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "A Special Group of Meroitic Property Marks from the 1st to 2nd Centuries A.D", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews10.pdf#page=36&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Meroitisches und Barya-Verb: Versuch Einer Bestimmung der Tempusbildung des Meroitischen", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews11.pdf#page=2&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "L'Amphore de Tubusuctu (Maur\u00e9tanie) det la Datation de Teqerideamani", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews11.pdf#page=18&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Inscriptions M\u00e9ro\u00eftiques dans les Collections Britanniques", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews11.pdf#page=23&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Les Journees Internationales d'Etudes M\u00e9ro\u00eftiques de Berlin-Est 6-12 Septembre 1971", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews11.pdf#page=31&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "La Table Ronde du CNRA Paris, 29 Juin- 1 er Juillet 1972, sur les \"Aspects Semantiques du M\u00e9ro\u00eftique", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews11.pdf#page=33&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "L'Enregistrement des Textes M\u00e9ro\u00eftiques Selon les Procedes de L'Informatique", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews11.pdf#page=35&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Journees Internationales d'Etudes M\u00e9ro\u00eftiques Paris, 6-13 Juillet 1973", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews11.pdf#page=37&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Zur Struktur des Verbalkomplexes in den Schlu\u00dfformeln der Meroitischen Totentexte", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews12.pdf#page=2&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "L'Enregistrement par L'Informatique des Textes M\u00e9ro\u00eftiques: Creation d'un Langage d'Interrogation des Donnees", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews12.pdf#page=23&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "A Text in an Unidentified Language of Seventeenth Century Sinnar", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews12.pdf#page=30&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Three Court Titles from an Ancient Extinct Language of the Northern Sudan", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews12.pdf#page=35&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Liste de Mots M\u00e9ro\u00eftiques Ayant une Signification Connue ou Supposee", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews13.pdf#page=4&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Beginnings of Insight Into the Possible Meanings of Certain Meroitic Personal Names (summary)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews13.pdf#page=22&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "The Kharamdoye Inscription", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews13.pdf#page=32&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Zur Funktion der meroitischen Verbalsuffixe -bhe und -(qe)bes", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews13.pdf#page=58&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Das Suffix -yes als fakultative Morphophonematische Variante des Suffixes -s Meroitischen", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews13.pdf#page=63&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Trois Etudes sur la Structure du M\u00e9ro\u00eftique", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews13.pdf#page=65&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Notes sur La Phonologie du M\u00e9ro\u00eftique", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews13.pdf#page=69&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Mots M\u00e9ro\u00eftiques et Mots Egyptiens", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews13.pdf#page=75&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Remarque au Sujet du Dialecte d'Elephantine", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews13.pdf#page=77&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Arensnuphis und Sebiumeker Bemerkungen zu Zwei in Meroe Verehrten G\u00f6ttern", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews13.pdf#page=79&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Bryan George Haycock 1937-1973", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews14.pdf#page=3&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Zur Statistischen Untersuchung Afrikanischer Orts und Vokernamen aus \u00c4gyptischen Texten", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews14.pdf#page=5&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Meroitische Verwandtschaftsbezeichungen", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews14.pdf#page=21&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Zu Einigen Nominalausdrucken in den Deskriptionsphrasen der Meroitischen Totentexte", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews14.pdf#page=34&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Bemerkungen zur Funktion und Morphemgestalt des Suffigalen Elementes -yos bzw. -os im Meroitischen", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews14.pdf#page=49&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Arensnuphis-Ein Meroitischer Gott?", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews14.pdf#page=53&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Zur Diskussion: Was ist \"Nubologie\"", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews14.pdf#page=57&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Beitrag zu Paul van Moorsel: Was ist \"Nubologie\"?", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews14.pdf#page=58&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Bemerkungen zu Paul Moorsel: Zur Diskussion: Was ist \"Nubologie\"?", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews14.pdf#page=60&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "La Symbolique de la Grenouille \u00e0 Meroe", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews15.pdf#page=3&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "A Propos d'Une Etude sur Apedemak", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews15.pdf#page=8&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "\"Gar Mol!\" A Meroitic Survival in the Court Ritual of Sinnar?", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews15.pdf#page=11&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "The Fate of Alodia", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews15.pdf#page=13&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Table des Mati\u00e8res des no. 1 \u00e0 15 du Bulletin d'Informations M\u00e9ro\u00eftiques/Meroitic Newsletter", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews15.pdf#page=32&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "The Contribution of the Nile Valley's Cultures to the Rising of the Ethiopian Civilization: Elements for an Hypothesis of Work", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews16.pdf#page=4&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Quelques \"Particules\" M\u00e9ro\u00eftiques", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews16.pdf#page=11&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Zu den Pr\u00e4fixen Ye- und Te- im Nominationsteil der Meroitischen Totentexte", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews16.pdf#page=19&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Linguistic Approaches to the Identification of Meroitic", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews16.pdf#page=23&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Pr\u00e9liminaires \u00e0 un R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM) (suite 1)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews16.pdf#page=31&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Informatique et M\u00e9ro\u00eftique I -Travaux en cours", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews16.pdf#page=36&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Sorties Informatiques Disponibles en Decembre 1976", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews17.pdf#page=4&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Informatique et M\u00e9ro\u00eftique II - Am\u00e9liorations de la Codification et de l'Enregistrement du R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews17.pdf#page=5&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Die H\u00e4ufigkeitsverteilung der Deskriptionss\u00e4tze in den Meroitischen Totentexten", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews17.pdf#page=13&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Zur Bedeutung des Titels Pelmos Atolis", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews17.pdf#page=38&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Typologie des Tables d'Offrandes M\u00e9ro\u00eftiques Inscrites", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews17.pdf#page=43&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Inscripciones de la Necropolis Meroitica de Nag Gamus-Masmas", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews18.pdf#page=3&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Pr\u00e9liminaires \u00e0 un R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM) (suite 1)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews18.pdf#page=15&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Chronologische Probleme zur Bauperiode 6 der Grossen Anlage von Musawwarat es Sufra", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews18.pdf#page=19&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "A New Meroitic Royal Name", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews18.pdf#page=28&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Third International Meroitic Conference Toronto, 11-15 Octobre 1977", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews18.pdf#page=31&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Inventory of the late Dr. B.G. Haycock's Papers", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews18.pdf#page=33&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Compte Rendu: \u017dabkar, L.V. Apedemak Lion God of Mero\u00eb. A Study in Egyptian Meroitic Syncretism", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews18.pdf#page=34&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Introduction au R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews19.pdf#page=3&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Le Classement", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews19.pdf#page=5&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Introduction \u00e0 l'Enregistrement des Textes", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews19.pdf#page=7&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Introduction \u00e0 l'Index avec Localisation Topographique", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews19.pdf#page=13&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Introduction au R\u00e9pertoire Descriptif", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews19.pdf#page=15&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Introduction au R\u00e9pertoire Bibliographique des Etudes M\u00e9ro\u00eftiques", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews19.pdf#page=17&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "REM - Index des sites d'Origine des Textes d'apr\u00e8s le R\u00e9pertoire Descriptif", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews19.pdf#page=19&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "REM - Index des Textes M\u00e9ro\u00eftiques por lieu de conservation", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews19.pdf#page=21&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "REM - Index des toponymes", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews19.pdf#page=31&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "REM - Les points cardinaux", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews19.pdf#page=35&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "REM - Index des noms de divinit\u00e9s", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews19.pdf#page=36&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Certain Meroitic Projects, Approaches, and Progress Report", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews20.pdf#page=3&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Comparison Between Scenes in which Deities Oblate on Meroitic & Egyptian Offering-Tables", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews20.pdf#page=6&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "A Contribution to the Function of the Great Enclosure of Mussawwarat", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews20.pdf#page=7&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "La Necropole M\u00e9ro\u00eftique de Kerma: Mission arch\u00e9ologique de l'Universit\u00e9 de Genev\u00e8 au Soudan", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews20.pdf#page=9&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Excavations at the Meroitic Cemetery of Emir Abdallah (Abri, Northern Province, the Sudan) Some Aspects of the Pottery and its Distribution", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews20.pdf#page=13&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Recherches sur la Segmentation Automatique des Anthroponymes M\u00e9ro\u00eftiques", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews20.pdf#page=25&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Meroitische Religion Konsequenz des Afro-Agyptischen Synkretismus", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews20.pdf#page=30&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Les Tombes Napateennes (Sans Mobilies)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews20.pdf#page=31&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Some Meroitic Bronze Vessels", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews20.pdf#page=44&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "A Hitherto Unpublished Meroitic Offering Table in MFA Boston", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews21.pdf#page=4&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "New Light on the Meroitic Problem", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews21.pdf#page=18&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Un Grafito Meroitico Sobre Ceramica de la Necropolis de Emir Abdallah (Sudan)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews21.pdf#page=25&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "La Triade Thebaine dans le Pantheon M\u00e9ro\u00eftique", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews21.pdf#page=27&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Compte Rendu: Haycock, Brian The Problem of the Meroitic Language", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews21.pdf#page=33&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Prospection dans le secteur d'El-Kurru", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews22.pdf#page=2&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Fouille \u00e0 Gereif Est pr\u00e8s de Khartoum (ND-36-B/ll-Q-4)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews22.pdf#page=4&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Pr\u00e9liminaires \u00e0 un R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM) (1)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews22.pdf#page=10&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Dix inscriptions m\u00e9ro\u00eftiques d\u00e9couvertes par I'Egypt Exploration Society en f\u00e9vrier et mars 1980 sur le site de Qasr Ibrim", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews22.pdf#page=14&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Der Vergleich des Meroitischen mit anderen Sprachen", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews22.pdf#page=24&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "An Inscription of a King of Axumites and Himyarites from Mero\u00eb", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews23.pdf#page=2&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Openwork Fringes from Qasr Ibrim", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews23.pdf#page=11&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "A Note on Tokharian and Meroitic", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews23.pdf#page=19&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Les Peintures Rupestres du Djebel Moya-Soudan", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews23.pdf#page=23&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "A Contribution to Post-Meroitic Chronology - The Blemmyes in Lower Nubia", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews24.pdf#page=2&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "The Date of the End of Mero\u00eb", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews24.pdf#page=8&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "The Chronology of the Blemmy Occupation of the Dodekaschoinos", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews24.pdf#page=25&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "The Gebelen Documents", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews24.pdf#page=60&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Avant-Propos", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews25a.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "A New Meroitic Inscription from Qasr Ibrim and a Tentative Reconstruction", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews25b.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Meroitic and Nubian Material in the Archives of the Griffith Institute, Oxford", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews25c.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Sayce's Axumite Inscription from Meroe: Observations on a New Edition", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews25d.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Sayce's Axumite Inscription from Meroe--Again", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews25e.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Un Site en Danger: El Geteina", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews25f.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "\u00c0 propos des tumulus d'EI Hobagi et de Ballana-Qustul", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews25g.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "La fouille du tumulus \u00e0 enceinte el Hobagi III A.M.S. NE-36-017-N-3", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews25h.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Le rang des inhum\u00e9s sous tertre \u00e0 enceinte \u00e0 EI Hobagi", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews25i.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Les restes humains de la n\u00e9cropole de Sedeinga. La tombe IIT14: Approche pluridisciplinaire", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews25j.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Avant-Propos", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews26a.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Pr\u00e9liminaires \u00e0 un R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews26a.pdf#page=6&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Les restes humains de la n\u00e9cropole de Sedeinga. La s\u00e9pulture \"double\" IIT36, \u00e0 inhumation superpos\u00e9e", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews26b.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Meroitic Ceramic Studies I : A Preliminary study of the Meroe West Cemetery", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews26c.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Assimilation et d\u00e9termination en m\u00e9ro\u00eftique : Ie d\u00e9terminant masqu\u00e9 du mot qore \"roi\"", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews26d.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Avant-Propos", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews27a.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Poursuite de la Consitution du R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews27b.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Les Ostraca M\u00e9ro\u00eftiques de Shokan", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews27c.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Notes on the Meroitic \"Epistolary\" Tradition: New Texts from Armina West & Qasr Ibrim", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews27d.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Deux exemples de D\u00e9crets Oraculaires amul\u00e9tiques en m\u00e9ro\u00eftique: les Ostraca REM 1317/1168 et REM 1319 de Shokan", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews27e.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Avant-Propos", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews28.pdf#page=7&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Poursuite de la Constitution du R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews28.pdf#page=9&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Un fragment d'Amphore Inscrite Provenant de M\u00e9ro\u00e9 et conserv\u00e9 \u00e0 Bruxelles (E3652)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews28.pdf#page=17&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "La St\u00e8le M\u00e9ro\u00eftique d'Abratoye (Caire, J.E., no. 90008)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews28.pdf#page=29&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Annexe Rapport sur la D\u00e9couverte de la Stele et de la table d'Offrandes M\u00e9ro\u00eftiques de T\u00f4m\u00e2s", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews28.pdf#page=47&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Quelques inscriptions provenant du Secteur II de la N\u00e9cropole de Sedeinga", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews28.pdf#page=63&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Das Sogenannte \"Meroitische Ostrakon REM 1230\"", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews28.pdf#page=75&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Approche comparative de la pal\u00e9ographie et de la chronologie royale de M\u00e9ro\u00e9", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews28.pdf#page=79&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Avant-Propos", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews29a.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Poursuite de la Consitution du R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews29b.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Les inscriptions m\u00e9ro\u00eftique cursives de Tabo", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews29c.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Une nouvelle st\u00e8le m\u00e9ro\u00eftique provenant du secteur II de la n\u00e9cropole de Sedeinga (IIT169d1)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews29d.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "\"L'Ob\u00e9lisque\" de M\u00e9ro\u00e9", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews29e.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Br\u00e8ves d'actualit\u00e9", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews29f.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Avant-Propos", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews30a.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Nouvelles inscriptions int\u00e9gr\u00e9es au R\u00e9pertoire d'\u00c9pigraphie M\u00e9ro\u00eftique (REM)", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews30b.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Evidence for an Early Nubian Dialect in Meroitic Inscriptions: Phonological and Epigraphic Considerations", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews30c.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Les graffiti archa\u00efques de Doukki Gel et l'apparition de l'\u00e9criture m\u00e9ro\u00eftique", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews30d.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "The Kharamandoye Inscription (MI 94) revisited", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews30e.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "R\u00e9cents progr\u00e8s dans Ie domaine de la philologie m\u00e9ro\u00eftique", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews30f.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Nouvelles polices m\u00e9ro\u00eftiques pour ordinateurs Mac et PC", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews30g.pdf#page=1&zoom=125%280,0%29"
+        }, 
+        {
+            "title_full": "Br\u00e8ves d'actualit\u00e9", 
+            "url": "http://www.meroiticnewsletter.org/MeroNews30h.pdf#page=1&zoom=125%280,0%29"
+        }
+    ], 
+    "title": "Meroitic Newsletter", 
+    "title_alternates": [], 
+    "title_extended": "The Meroitic Newsletter - A Digital Compilation", 
+    "type": null, 
+    "url": "http://www.meroiticnewsletter.org/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

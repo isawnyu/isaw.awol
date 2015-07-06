@@ -1,0 +1,92 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "As an alternative, philological research can start from the interlinear lexical analysis that accompanies each text contained in the database.", 
+    "domain": "kjc-fs-cluster.kjc.uni-heidelberg.de", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Digital Corpus of Sanskrit", 
+        "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "dictionaries", 
+        "history"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2635873555143543323", 
+            "resource_date": "2013-06-30T07:46:47.637-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:30.651647"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/snascrit-corpus-online.html", 
+            "resource_date": "2013-06-30T07:46:47.637-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:30.651657"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "6bc14e599a6cd13c934c8407eb011bd3c2d0f8b0", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "Lexical units can be retrieved from the dictionary via a query interface or a dictionary page. For each lexical unit contained in the corpus, DCS offers the complete set of references and a statistical evaluation based on historical principles. More about the query interface , the dictionary and the detail evaluation of lexical units", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=help_details", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

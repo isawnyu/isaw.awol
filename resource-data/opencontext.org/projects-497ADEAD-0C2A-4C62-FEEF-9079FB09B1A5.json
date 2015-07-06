@@ -1,0 +1,283 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Chogha Mish Fauna. This project uses the publicly available dataset of over 30,000 animal bone specimens from excavations at Chogha Mish, Iran during the 1960s and 1970s. The specimens were identified by Jane Wheeler Pires-Ferreira in the 1960s and though she never analyzed the data or produced a report, her identifications were saved and later transferred to punch cards and then to Excel. This 'orphan' dataset was made available on the web in 2008 by Abbas Alizadeh (University of Chicago) at the time of his publication of Chogha Mish, Volume II. The site of Chogha Mish spans the time period from Archaic through Elamite periods, with also later Achaemenid occupation. These phases subdived further into several subphases, and some of those chronological divisions are also represented in this dataset. Thus the timespan present begins at the mid-seventh millennium and continues into the third millennium B. C. E. In terms of cultural development in the region, these periods are key, spanning the later Neolithc (after the period of caprid and cattle domestication, but possibly during the eras in which pigs and horses were domesticated) through the development of truly settled life, cities, supra-regional trade and even the early empires or state societies of Mesopotamia and Iran. Projects in Open Context.", 
+    "domain": "opencontext.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Open Context Projects and Collections", 
+        "url": "http://opencontext.org/projects/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "data", 
+        "open context"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5915653073672508071", 
+            "resource_date": "2014-08-11T07:50:07.397-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:49.942032"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/open-context-projects-and-collections.html", 
+            "resource_date": "2014-08-11T07:50:07.397-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:49.942042"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8903049139474208425", 
+            "resource_date": "2010-08-30T16:06:25.550-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:14:56.023675"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/08/new-data-at-open-context-chogha-mish.html", 
+            "resource_date": "2010-08-30T16:06:25.550-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:14:56.023692"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:14:56.049414"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8903049139474208425", 
+            "resource_date": "2010-08-30T16:06:25.550-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:14:56.028760"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/08/new-data-at-open-context-chogha-mish.html", 
+            "resource_date": "2010-08-30T16:06:25.550-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:14:56.028772"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:14:56.074153"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "projects-497ADEAD-0C2A-4C62-FEEF-9079FB09B1A5", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Chogha Mish Fauna", 
+            "url": "http://opencontext.org/projects/497ADEAD-0C2A-4C62-FEEF-9079FB09B1A5"
+        }, 
+        {
+            "title_full": "Khirbat al-Mudayna al-Aliya", 
+            "url": "http://opencontext.org/projects/CBB6B9F7-500C-4DDD-71AA-4D5E5B96CDBB"
+        }, 
+        {
+            "title_full": "Dove Mountain Groundstone", 
+            "url": "http://opencontext.org/projects/A3CBADB6-6CD4-4099-9FE2-A33757EAB749"
+        }, 
+        {
+            "title_full": "Bade Museum", 
+            "url": "http://opencontext.org/projects/B4345F6A-F926-4062-144E-3FBC175CC7B6"
+        }, 
+        {
+            "title_full": "San Diego Archaeological Center", 
+            "url": "http://opencontext.org/projects/3FAAA477-5572-4B05-8DC1-CA264FE1FC10"
+        }, 
+        {
+            "title_full": "Presidio of San Francisco", 
+            "url": "http://opencontext.org/projects/C5B4F73B-5EF8-4099-590E-B0275EDBA2A7"
+        }, 
+        {
+            "title_full": "Aegean Archaeomalacology", 
+            "url": "http://opencontext.org/projects/B1DAC335-4DC6-4A57-622E-75BF28BA598D"
+        }, 
+        {
+            "title_full": "Petra Great Temple Excavations", 
+            "url": "http://opencontext.org/projects/A5DDBEA2-B3C8-43F9-8151-33343CBDC857"
+        }, 
+        {
+            "title_full": "Iraq Heritage Program", 
+            "url": "http://opencontext.org/projects/GHF1PRJ0000000025"
+        }, 
+        {
+            "title_full": "Lake Carlos Beach Site, 1992 and 1996", 
+            "url": "http://opencontext.org/projects/MHS1PRJ0000000021"
+        }, 
+        {
+            "title_full": "Corneal Ulceration in South East Asia", 
+            "url": "http://opencontext.org/projects/DTrev1PRJ0000000014"
+        }, 
+        {
+            "title_full": "Harvard Peabody Mus. Zooarchaeology", 
+            "url": "http://opencontext.org/projects/HPeaZooPRJ0000000012"
+        }, 
+        {
+            "title_full": "Hazor: Zooarchaeology", 
+            "url": "http://opencontext.org/projects/HazorZooPRJ0000000010"
+        }, 
+        {
+            "title_full": "Hayonim: Micromorphology", 
+            "url": "http://opencontext.org/projects/GBHayPRJ0000000005"
+        }, 
+        {
+            "title_full": "Geissenklosterle: Micromorphology", 
+            "url": "http://opencontext.org/projects/PGold1PRJ0000000005"
+        }, 
+        {
+            "title_full": "P\u0131narba\u015f\u0131 1994: Animal Bones", 
+            "url": "http://opencontext.org/projects/TESTPRJ0000000004"
+        }, 
+        {
+            "title_full": "Domuztepe Excavations", 
+            "url": "http://opencontext.org/projects/3"
+        }
+    ], 
+    "title": "Chogha Mish Fauna", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://opencontext.org/projects/497ADEAD-0C2A-4C62-FEEF-9079FB09B1A5", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

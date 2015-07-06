@@ -1,0 +1,162 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "3D Petrie Museum. The Petrie Museum of Egyptian Archaeology has one of the largest ancient Egyptian and Sudanese collections in the world, named after pioneering Egyptologist, William Matthew Flinders Petrie. With our 3D viewer, you can virtually handle some of our highlight objects. This is a beta version of our website. It uses WebGL and is best viewed using Microsoft Internet Explorer version 11. x or higher, Google Chrome version 8. x or higher or Mozilla Firefox version 4. x or higher. You can determine the version of your browser by choosing 'Help' at the top of your browser. The models you see here are low resolution for the web. Higher resolution versions are available from the museum.", 
+    "domain": "www.ucl.ac.uk", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "3D Petrie Museum", 
+        "url": "http://www.ucl.ac.uk/3dpetriemuseum"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Egypt", 
+        "egyptology", 
+        "England", 
+        "museums", 
+        "3D"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5189243195651138906", 
+            "resource_date": "2014-05-27T12:05:57.557-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:04.402761"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/05/3d-petrie-museum.html", 
+            "resource_date": "2014-05-27T12:05:57.557-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:04.402777"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5189243195651138906", 
+            "resource_date": "2014-05-27T12:05:57.557-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:04.404143"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/05/3d-petrie-museum.html", 
+            "resource_date": "2014-05-27T12:05:57.557-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:04.404154"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "volume", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:04.405518"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "3dpetriemuseum", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "3D Petrie Museum", 
+            "url": "http://www.ucl.ac.uk/3dpetriemuseum"
+        }
+    ], 
+    "title": "3D Petrie Museum", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.ucl.ac.uk/3dpetriemuseum", 
+    "url_alternates": [], 
+    "volume": "3", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

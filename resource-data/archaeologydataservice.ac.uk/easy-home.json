@@ -1,0 +1,171 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "ADS e-archiving system. The ADS-easy system, developed by the Archaeology Data Service (ADS), allows depositors to upload digital content and associated metadata from archaeological fieldwork and research securely to the ADS, from where it can be added to the growing list of resources within the archive catalogue. ADS- easy allows you to:create and manage projects more effectivelygenerate project metadata as the basis of the resource discovery metadataupload digital data directly into the ADS repositorydevelop a selection and retention policy through adding and removing data according to specific criteriagenerate costing information using the costing calculatorautomate the creation of technical metadataenhance data through the creation of file level metadata which can be created within the interface, or uploaded using a pre-populated templatesubmit your archive to the ADSADS-easy offers significant advantages to depositors over traditional methods of archive creation and submission, allowing for. data management from the outset of a projectimplementation of time efficiency measures for both depositor and archiveflexibility in the creation of the digital archiveinvolvement in selection and retentioncontrol over the costs and economics of depositionsecurity during the submission phaseTo be kept informed on the latest development of ADS-easy follow the dedicated news feed and/or sign up for emails when you register.", 
+    "domain": "archaeologydataservice.ac.uk", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "ADS e-archiving system", 
+        "url": "http://archaeologydataservice.ac.uk/easy/home"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Archaeology Data Service", 
+        "tools"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3513891340421520993", 
+            "resource_date": "2013-09-19T09:28:09.301-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:05.452777"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/ads-e-archiving-system.html", 
+            "resource_date": "2013-09-19T09:28:09.301-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:05.452792"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3513891340421520993", 
+            "resource_date": "2013-09-19T09:28:09.301-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:05.454491"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/09/ads-e-archiving-system.html", 
+            "resource_date": "2013-09-19T09:28:09.301-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:05.454503"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "volume", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:08:05.461522"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "easy-home", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "ADS e-archiving system", 
+            "url": "http://archaeologydataservice.ac.uk/easy/home"
+        }, 
+        {
+            "title_full": "Archaeology Data Service (ADS)", 
+            "url": "http://archaeologydataservice.ac.uk/"
+        }, 
+        {
+            "title_full": "archive catalogue", 
+            "url": "http://archaeologydataservice.ac.uk/archives/"
+        }, 
+        {
+            "title_full": "news feed", 
+            "url": "http://archaeologydataservice.ac.uk/easy/"
+        }
+    ], 
+    "title": "ADS e-archiving system", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://archaeologydataservice.ac.uk/easy/home", 
+    "url_alternates": [], 
+    "volume": "-", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

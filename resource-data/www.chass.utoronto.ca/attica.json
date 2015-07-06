@@ -1,0 +1,173 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Website AtticaWebsite Attica complements and enhances the published volumes of Persons of Ancient Athens. The addenda et corrigenda to the published volumes, which are issued as a supplement to PAA periodically, are regularly updated at this web site. Searches may be made 10,000 names of the ATHENIANS database in beta, gamma, and delta (second half of volume 4, the whole of volume 5, and the first third of volume 6). The possible searches range from selecting every person in a particular deme or of a specified profession to more sophisticated searches, e. g. to find all Athenians who lived between specified years and/or are related to a certain person and/or are attested in a class of document, etc. The results of searches give an up-to-date version of the data in the printed volume (the 'formatted version'), now with transliterated Greek texts. The search form is divided into fields similar to those in the computer database; these do not always correspond exactly to the position in which the information appears in the formatted version. The fields shown in the search form are detailed below, with a summary of the database information from the 'Description of Entries' appearing in each of the printed volumes, together with additional information about the contents of each field to help in the defining of search terms. Access to the printed volumes of PAA is desirable, both for understanding this section and for the formulation of search requests.", 
+    "domain": "www.chass.utoronto.ca", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Website Attica", 
+        "url": "http://www.chass.utoronto.ca/attica/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Attica", 
+        "website", 
+        "ancient", 
+        "Athens", 
+        "antiquity"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8795856949764601303", 
+            "resource_date": "2010-03-13T15:40:59.231-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:14:49.904864"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/03/enhancing-persons-of-ancient-athens.html", 
+            "resource_date": "2010-03-13T15:40:59.231-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:14:49.904879"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8795856949764601303", 
+            "resource_date": "2010-03-13T15:40:59.231-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:14:49.907115"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/03/enhancing-persons-of-ancient-athens.html", 
+            "resource_date": "2010-03-13T15:40:59.231-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:14:49.907126"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:14:49.916043"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "attica", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Website Attica", 
+            "url": "http://www.chass.utoronto.ca/attica/"
+        }, 
+        {
+            "title_full": "addenda et corrigenda", 
+            "url": "http://www.chass.utoronto.ca/attica/update.htm"
+        }, 
+        {
+            "title_full": "Searches", 
+            "url": "http://www.chass.utoronto.ca/attica/qform.htm"
+        }, 
+        {
+            "title_full": "printed volumes of PAA", 
+            "url": "http://www.chass.utoronto.ca/attica/vols.htm"
+        }
+    ], 
+    "title": "Website Attica", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.chass.utoronto.ca/attica/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,101 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Zeitschrift f\u00fcr christliche Arch\u00e4ologie und Kunst.", 
+    "domain": "www.digizeitschriften.de", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "religion", 
+        "journal", 
+        "open access", 
+        "archaeology", 
+        "Christianity"
+    ], 
+    "languages": [
+        "de"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5794016760126717173", 
+            "resource_date": "2012-04-27T06:24:20.569-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:32.779722"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-zeitschrift-fur.html", 
+            "resource_date": "2012-04-27T06:24:20.569-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:32.779736"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "349ade1953ead35955c3b137a9472357e935eb6f", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "1858", 
+            "url": "http://www.digizeitschriften.de/dms/toc/?PPN=urn%3Anbn%3Ade%3Absz%3A16-diglit-36788"
+        }, 
+        {
+            "title_full": "1856", 
+            "url": "http://www.digizeitschriften.de/dms/toc/?PPN=urn%3Anbn%3Ade%3Absz%3A16-diglit-36771"
+        }
+    ], 
+    "title": "Zeitschrift f\u00fcr christliche Arch\u00e4ologie und Kunst", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.digizeitschriften.de/dms/toc/?PPN=urn%3Anbn%3Ade%3Absz%3A16-diglit-36765", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

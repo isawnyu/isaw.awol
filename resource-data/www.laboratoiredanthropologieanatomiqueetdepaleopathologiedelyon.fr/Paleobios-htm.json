@@ -1,0 +1,701 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Paleobios. ISBN: 0294-121X.", 
+    "domain": "www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "isbn": {
+            "generic": [
+                "0294-121x"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "palaeobiology", 
+        "journal", 
+        "open access", 
+        "archaeology", 
+        "France"
+    ], 
+    "languages": [], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5452379163294567338", 
+            "resource_date": "2015-05-28T14:12:45.697-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:17.763996"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-paleobios.html", 
+            "resource_date": "2015-05-28T14:12:45.697-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:17.764011"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "Paleobios-htm", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Travaux et Documents du Centre de Pal\u00e9oanthropologie et de Pal\u00e9opathologie", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Travaux%20et%20Documents.htm"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201983%20A.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1983%20-%20Vol.1,%20n%C2%B0%201-2"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201983%20B.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1983%20-%20Vol.1,%20n%C2%B0%203"
+        }, 
+        {
+            "title_full": "*", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS.htm#*%20Nombre%20d%27exemplaires%20d"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201986%20A.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1986%20-%20Vol.%202,%20n%C2%B0%201"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201986%20B.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1986%20-%20Vol.2,%20n%C2%B0%202-3"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201987%20A.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1987%20-%20Vol.3,%20n%C2%B0%201"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201987%20B.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1987%20-%20Vol.3,%20n%C2%B0%202-3"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201988%20A.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1988%20-%20Vol.4,%20n%C2%B0%201"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201988%20B.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1988%20-%20Vol.%204,%20n%C2%B0%202-3"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201989%20A.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1989%20-%20Vol.%205,%20n%C2%B0%201"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201989%20B.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1989%20-%20Vol.%205,%20n%C2%B0%202-3"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201990%20A.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1990%20-%20Vol.%206,%20n%C2%B0%201"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201990%20B.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1990%20-%20Vol.%206,%20n%C2%B0%202-3"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201991%20A.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1991%20-%20Vol.%207,%20n%C2%B0%201"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201991%20B.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1991%20-%20Vol.%207,%20n%C2%B0%202-3"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201992.pdf"
+        }, 
+        {
+            "title_full": "", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201992%20version%20int%C3%A9grale.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1992%20-%20Vol.8,%20n%C2%B0%201-2"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201993.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1993%20-%20Vol.%209,%20n%C2%B0%201-2"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201994.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1994-%20Vol.%2010,%20n%C2%B0%201-2-3"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201995.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#1995-%20Vol.%2011"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202000.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#2000-%20Vol.%2012"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#2004-%20Vol.%2013"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#Paleobios%202006%20-%20Vol.%2014"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#2007%20-%20Vol.%2015"
+        }, 
+        {
+            "title_full": "int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202011.pdf"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#%202011%20-%20Vol.%2016"
+        }, 
+        {
+            "title_full": "par article", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#2012%20-%20Vol.17"
+        }, 
+        {
+            "title_full": "liste alphab\u00e9tique des titres", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Liste%20alphab%C3%A9tique%20num%C3%A9ros%20de%20Paleobios.htm"
+        }, 
+        {
+            "title_full": "retour liste des num\u00e9ros par ann\u00e9e", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm#2%20-%20Liste%20des%20num%C3%A9ros%20de%20Paleobios%20par%20ann%C3%A9e."
+        }, 
+        {
+            "title_full": "in Worthy Park, Kingsworthy, Hampshire, South England ( Hawkes S.C. et Wells C .), p.3.[ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201983%20Vol%201%20The%20inhumed%20skeletal%20material%20from%20an%20early%20anglo%20saxon%20cemetery.pdf"
+        }, 
+        {
+            "title_full": "Traitement g\u00e9n\u00e9ral des plaies ( Perrot R. ), p.37 . [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201986%20Vol%202%20Le%20traitement%20des%20blessures%20au%20Moyen%20Age%20III%20La%20traumatologie%20cranienne.pdf"
+        }, 
+        {
+            "title_full": "zone of teeth ( literary summary ) ( Kocsis G.S. et Marcsik A. ), p.53.[ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201983%20Vol%201%20Forms%20and%20aetiology%20of%20the%20enamel%20formations%20in%20the%20cervical%20zone%20of%20teeth.pdf"
+        }, 
+        {
+            "title_full": "l ( Caillat M. et Perrot R . ),p.59.[ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201983%20Vol%201%20Anthropometrie%20du%20tibia%20medieval.pdf"
+        }, 
+        {
+            "title_full": "at Schwissel, Kreis Segeberg, North Germany: report about cremations ( Kulh I . ), p.69.[ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201983%20Vol%201%20Anatomical%20variations%20and%20pathological%20changes%20from%20urnfield%20at%20Schwissel.pdf"
+        }, 
+        {
+            "title_full": "du Mus\u00e9um d'Histoire Naturelle de Lyon ( Herzberg G et Perrot R. ), p. 91.[ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201983%20Vol%201%20%20Paleopathologie%20de%2031%20cranes%20egyptiens%20momifies%20du%20Museum%20d%20histoire%20naturelle%20de%20Lyon.pdf"
+        }, 
+        {
+            "title_full": "s actuels et fossiles d'apr\u00e8s les quatre principaux os longs ( Caillat M . ), p. 109.[ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201983%20Vol%201%20%20Proposition%20d%20une%20cle%20de%20determination%20des%20carnivores%20fissipedes%20actuels%20et%20fossiles%20d%20apres%20les%20quatre%20principaux%20os%20longs.pdf"
+        }, 
+        {
+            "title_full": "version int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/ANTHROPAL%20%20EXPLORER%20version%20finale/HTML/HTML/PALEOBIOS%201983%20B.pdf"
+        }, 
+        {
+            "title_full": "from Rancho La Brea, California, USA ( Shermis S.), p. 121.[ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201983%20Vol%201%20%20Healed%20massive%20pelvic%20fracture%20in%20a%20smilodon%20from%20Rancho%20la%20Brea%20California.pdf"
+        }, 
+        {
+            "title_full": "( Caillat M., Gonon P. et Perrot R.), p.127.[ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201983%20Vol%201%20%20Note%20sur%20l%20etude%20mecanique%20comparative%20de%20tibias%20medievaux.pdf"
+        }, 
+        {
+            "title_full": ": Les blessures par fl\u00e8ches ( Perrot R.), p.137.[ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201983%20Vol%201%20Le%20traitement%20des%20blessures%20au%20MA%20I%20Le%20traitement%20des%20plaies.pdf"
+        }, 
+        {
+            "title_full": "pr\u00e9colombien ( Thillaud P.L., Soto-Heim P. et Heim J.L. ), p. 5 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201986%20Vol%202%20%20Maladie%20de%20Recklinghausen%20sur%20un%20cr%C3%A2ne%20pr%C3%A9colombien.pdf"
+        }, 
+        {
+            "title_full": "\u00e0 l'\u00e9tude cr\u00e2niologique ( Perrot R., Pionchon H. et Souchier C. ), p. 9 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201986%20Vol%202%20%20Contribution%20de%20l%20analyse%20d%20images%20%C3%A0%20l%20etude%20craniologique.pdf"
+        }, 
+        {
+            "title_full": "de l'\u00e9glise Saint - Etienne d'Argenton-sur-Creuse ( Cadi P.O.), p.17 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201986%20Vol%202%20%20La%20luxation%20congenitale%20de%20la%20hanche%20dans%20la%20necropole%20medievale%20de%20l%20eglise%20Saint%20Etienne%20d%20Argenton%20sur%20Creuse.pdf"
+        }, 
+        {
+            "title_full": "(Gand, Belgique) ( Janssens P.A. ) , p. 31 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201986%20Vol%202%20Notes%20de%20lecture.pdf"
+        }, 
+        {
+            "title_full": "\u00e0 M\u00e2con (Sa\u00f4ne-et-Loire). Etude anthropologique ( Billard M. ),p. 49 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201986%20Vol%202%20La%20n%C3%A9cropole%20de%20la%20rue%20des%20Cordiers%20%C3%A0%20Macon%20Etude%20anthropologique.pdf"
+        }, 
+        {
+            "title_full": "( mort le 10 Avril 1623 )( Janssens P.A.), p.5 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201987%20Vol%203%20%20Examen%20paleopathologique%20et%20microscopique%20du%20coeur%20de%20Jean%20de%20Gros.pdf"
+        }, 
+        {
+            "title_full": "( Billard M. ), p.13 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201987%20Vol%203%20%20A%20propos%20d%20un%20bloc%20vert%C3%A9bral%20lombaire%20scoliotique.pdf"
+        }, 
+        {
+            "title_full": "( Morin A. ), p.21 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201987%20Vol%203%20%20Histoire%20des%20monstres%20doubles.pdf"
+        }, 
+        {
+            "title_full": "(Doro Garetto T. ), p. 5 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201987%20Vol%203%20%20L%C3%A9sions%20traumatiques%20des%20m%C3%A9di%C3%A9vaux%20de%20la%20vall%C3%A9e%20d%20Aoste.pdf"
+        }, 
+        {
+            "title_full": "du comportement \"magico - religieux\" des n\u00e9olithiques du Proche-Orient ( P\u00e9contal - Lambert A. ), p. 15 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201987%20Vol%203%20%20Approche%20ethnologique%20d%20un%20aspect%20du%20comportement%20magico%20religieux%20des%20n%C3%A9olithiques%20du%20Proche%20Orient.pdf"
+        }, 
+        {
+            "title_full": "( Marcsik A. ), p.29 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201987%20Vol%203%20%20Porotic%20hyperostosis%20from%20prehistoric%20periods.pdf"
+        }, 
+        {
+            "title_full": "de la n\u00e9cropole de la Rue des Cordiers \u00e0 M\u00e2con (Sa\u00f4ne et Loire) (Billard M. ), p. 39 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201987%20Vol%203%20%20Etude%20anthropologiquedes%20s%C3%A9pultures%20par%20incin%C3%A9ration%20de%20la%20n%C3%A9cropole%20de%20la%20rue%20des%20Cordiers%20%C3%A0%20M%C3%A2con.pdf"
+        }, 
+        {
+            "title_full": "of preroman Iron Age at Grosstimmendorf, North Germany (Kulh.I.), p.5 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201988%20Vol%204%20Spot%20check%20analysis%20of%20cremations%20from%20the%20urnfield%20of%20prerorman%20iron%20age.pdf"
+        }, 
+        {
+            "title_full": ": premi\u00e8res conclusions anthropom\u00e9triques (Perrot R. et Pionchon H. ), p. 39 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201988%20Vol%204%20La%20n%C3%A9cropole%20romano%20britannique%20de%20Colchester.pdf"
+        }, 
+        {
+            "title_full": "\u00e0 l'affaire de Glozel ( Janssens P.A. ), p.71 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201988%20Vol%204%20L%20apport%20d%20un%20m%C3%A9decin%20anversois%20le%20Dr%20Tricot%20Royer%20a%20l%20affaire%20de%20Glozel.pdf"
+        }, 
+        {
+            "title_full": "Ain ( Billard M. et Gely B. ), p.101 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201988%20Vol%204%20Decouverte%20d%20ossements%20humains%20a%20Echallon%20Ain.pdf"
+        }, 
+        {
+            "title_full": "at the Blucina locality in southern Moravia ( Czechoslovakia ) in the early Bronze Age ( Smrcka V., Horn V., Salas M. et Loosova J. ), p.5 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201989%20Vol%205%20Porous%20hyperostosis%20and%20signs%20of%20cannibalism%20at%20the%20Blucina%20locality%20in%20southern%20Moravia.pdf"
+        }, 
+        {
+            "title_full": "Odontopathologie ( Soulier D. ), p. 17 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201989%20Vol%205%20La%20necropole%20merovingienne%20du%20logis%20fortifie%20de%20Creuzier%20le%20Vieux.pdf"
+        }, 
+        {
+            "title_full": "de l'abbaye cistercienne de Coxyde, Belgique ( Janssens P.A. ), p.29 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201989%20Vol%205%20Le%20crane%20a%20deformation%20intentionnelle%20de%20l%20abbaye%20cistercienne%20de%20Coxyde%20Belgique.pdf"
+        }, 
+        {
+            "title_full": "et celle des animaux ( Prominska E. ), p.43 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201989%20Vol%205%20%20Differences%20entre%20la%20paleopathologie%20de%20l%20homme%20et%20celle%20des%20animaux.pdf"
+        }, 
+        {
+            "title_full": "porotic hyperostosis ( Marcsik. A. ), p. 55 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201989%20Vol%205%20On%20the%20association%20of%20harris%20lines%20enamel%20hypoplasia%20and%20porotic%20hyperostosis.pdf"
+        }, 
+        {
+            "title_full": "Egyptien ( Fulcheri E. et Grilleto R. ), p.61 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201989%20Vol%205%20Sur%20un%20probable%20calcul%20renal%20date%20de%20l%20ancien%20empire%20egyptien.pdf"
+        }, 
+        {
+            "title_full": "( Janssens P.A. ), p.65 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201989%20Vol%205%20Un%20cas%20de%20syphilis%20osseuse%20du%20squelette%20jambier.pdf"
+        }, 
+        {
+            "title_full": "du VIII\u00e8me si\u00e8cle ( Palfi G.Y. ), p. 69 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201989%20Vol%205%20Etude%20paleopathologique%20des%20tumeurs%20osseuses%20malignes%20du%20VIII%C2%B0%20siecle.pdf"
+        }, 
+        {
+            "title_full": "version int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/ANTHROPAL%20%20EXPLORER%20version%20finale/HTML/HTML/PALEOBIOS%201990%20A.pdf"
+        }, 
+        {
+            "title_full": "( Rabino - Massa E., Reddavid M., Gilli B. et Bellizia L. ), p.5 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201990%20Vol%206%20Analyses%20paleoserologiques%20des%20restes%20anciens%20non%20osseux%20humains.pdf"
+        }, 
+        {
+            "title_full": "( Morin A. ), p. 11 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201990%20Vol%206%20%20Teratologie%20et%20paleopathologie.pdf"
+        }, 
+        {
+            "title_full": "pr\u00e9colombien ( Capecchi V., Rabino - Massa E. et Piccardi M. ), p.21 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201990%20Vol%206%20Un%20cas%20de%20sacro%20ileite%20ankylosante%20chez%20un%20peruvien%20pre%20colombien.pdf"
+        }, 
+        {
+            "title_full": "( morphologique et physiologique ) \u00e0 la vie en altitude ( Perrot R. ), p.25 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201990%20Vol%206%20%20Homo%20sapiens%20alpinus%20et%20son%20adaptation%20specifique.pdf"
+        }, 
+        {
+            "title_full": "9 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201990%20Vol%206%20Tribune%20des%20lecteurs%20a%20propos%20de%20l%20affaire%20de%20Glozel.pdf"
+        }, 
+        {
+            "title_full": "en Egypte ( Dzierzykray - Rogalski T. ), p.31 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201990%20Vol%206%20A%20propos%20de%20la%20momification%20naturelle%20des%20depouilles%20humaines%20en%20Egypte.pdf"
+        }, 
+        {
+            "title_full": "du VII\u00b0 si\u00e8cle en Hongrie ( Palfi G.Y. et Csernus Z. ), p.37 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201990%20Vol%206%20Arthrite%20infectieuse%20ankylosante%20dans%20une%20s%C3%A9rie%20du%20VIII%C2%B0en%20Hongrie.pdf"
+        }, 
+        {
+            "title_full": "Saint - Lambert, Fr\u00e9jus, Var ( B\u00e9rato J., Dutour O. et Williams J. ), p.43 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201990%20Vol%206%20Incinerations%20et%20inhumations%20du%20Haut%20Empire%20Saint%20Lambert%20Frejus%20Var.pdf"
+        }, 
+        {
+            "title_full": "Donn\u00e9es anthropologiques ( Soulier D. ), p.63 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201990%20Vol%206%20La%20necropole%20merovingienne%20du%20logis%20fortifie%20de%20Creuzier%20le%20Vieux%20II%20Donn%C3%A9es%20anthropologiques.pdf"
+        }, 
+        {
+            "title_full": "Donn\u00e9es anatomiques et pal\u00e9opathologiques \u00e0 propos de trois cas observ\u00e9s sur des pieds du IV\u00e8me si\u00e8cle provenant de la n\u00e9cropole de Colchester ( GB ) ( Robin J. et Perrot R. ), p.73 [ texte complet, pdf ].", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201990%20Vol%206%20%20Exostose%20sous%20calcaneenne%20Donnees%20anatomiques%20et%20paleopathologiques.pdf"
+        }, 
+        {
+            "title_full": "( Capecchi.V. ), p.1 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201991%20Vol%207%20OH%2062%20Femme%20singe%20ou%20cas%20de%20paleopathologie.pdf"
+        }, 
+        {
+            "title_full": "humains fossiles nient le processus de gracilisation du squelette ( Capecchi V. et Rabino - Massa E. ), p.5 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201991%20Vol%207%20La%20radiologie%20anthropologique%20et%20la%20densitometrie%20des%20ossements%20humains%20fossiles%20nient%20le%20processus%20de%20gracilisation%20du%20squelette.pdf"
+        }, 
+        {
+            "title_full": "du X\u00e8me si\u00e8cle ( La Roquebrussanne, Var ) (Berato J., Dutour O. et Palfi G.Y. ), p.9 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201991%20Vol%207%20A%20propos%20d%20une%20spondylodiscite%20medievale%20du%20X%C2%B0%20siecle.pdf"
+        }, 
+        {
+            "title_full": "discriminante du sexe \u00e0 partir de fragments diaphysaires de l'hum\u00e9rus ( Karidas N.K. et Perrot R . ), p.19 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201991%20Vol%207%20L%20indice%20deltoidien%20comme%20nouvelle%20methode%20discriminante%20du%20sexe%20a%20partir%20de%20fragments%20diaphysaires%20de%20l%20humerus.pdf"
+        }, 
+        {
+            "title_full": "des r\u00e9sultats d'une \u00e9tude descriptive et fonctionnelle du syst\u00e8me maxillo - dentaire ( Bensoussan J.C, Dessaigne D. et Perrot R. ), p.27 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201991%20Vol%207%20Proposition%20d%20une%20presentation%20iconographique%20des%20resultats%20d%20une%20etude%20descriptive%20et%20fonctionnelle%20du%20systeme%20maxillo%20dentaire.pdf"
+        }, 
+        {
+            "title_full": "( Allier ), XII\u00e8me - post XV\u00b0 si\u00e8cle( Soulier D. ), p.37 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201991%20Vol%207%20Les%20inhumes%20du%20prieure%20de%20Saint%20Germain%20des%20Foss%C3%A9s%20XIIeme%20post%20XV%C2%B0%20siecles.pdf"
+        }, 
+        {
+            "title_full": "sur la base du cr\u00e2ne et sur l'articulation temporo - mandibulaire ( Bensoussan J.C, Dessaigne D. et Perrot R. ), p.49 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201991%20Incidences%20fonctionnelles%20de%20la%20paleopathologie%20maxillo%20dentaire%20sur%20la%20base%20du%20crane%20et%20sur%20l%20articulation%20temporo%20mandibulaire.pdf"
+        }, 
+        {
+            "title_full": "de reconstitution faciale dans l'identification m\u00e9dico - l\u00e9gale (Desbois Cl., Cl. Mallet et R.Perrot) [ texte complet, pdf ], p.1", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%201992%20VOL%208%20%20LA%20METHODE%20DMP%20DE%20RECONSTITUTION%20FACIALE.pdf"
+        }, 
+        {
+            "title_full": "0-52 de \" La Olmeda\"( Pedrosa de la Vega, Province Palencia, Espagne) (Campillo D., Hernandez E., Chimenos E. et Turbon D.), p.23 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201992%20Vol%208%20Etude%20anthropologique%20et%20paleopathologique%20du%20squelette%20medieval%20O%2052%20de%20La%20Olmeda%20Espagne.pdf"
+        }, 
+        {
+            "title_full": "dans l'estimation de l'\u00e2ge du squelette ( Bensoussan J.C., Manfredi Cl. et Perrot R. ), p.33 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201992%20Vol%208%20%20Selle%20turcique%20et%20diagnose%20de%20l%20age%20en%20identification%20medico%20legale.pdf"
+        }, 
+        {
+            "title_full": "de Costebelle (Hy\u00e8res, Var) ( Palfi G.Y., Dutour O. et Berato J. ), p.1 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201993%20Vol%209%20%20Etude%20paleopathologique%20de%20la%20serie%20gallo%20romaine%20de%20Costebelle%20Hyeres%20Var.pdf"
+        }, 
+        {
+            "title_full": "( Bensoussan J.C. et Perrot R. ), p. 29 [ texte complet, pdf ].", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201993%20Vol%209%20%20Proposition%20d%20une%20fiche%20d%20identification%20mandibulo%20mandibulaire.pdf"
+        }, 
+        {
+            "title_full": "dans la caverne s\u00e9pulcrale chalcolithique de l'homme mort \u00e0 Saint-Pierre des Tripies ( Loz\u00e8re ): Approche odonto - stomatologique ( Robert D., Weber J.G. et Weber J. ), p.41 [ texte complet, pdf ].", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201993%20Vol%209%20%20A%20propos%20d%20une%20incisive%20humaine%20trouv%C3%A9e%20dans%20la%20caverne%20sepulcrale%20chalcolithiquen%20de%20l%20Homme%20mort%20a%20Saint%20Pierre%20des%20Tripies%20Lozere%20approche%20odonto%20stomatologique.pdf"
+        }, 
+        {
+            "title_full": "d'apr\u00e8s l'\u00e9tat de synostose du segment S 3 de la suture sagittale ( Soulier D. et Perrot R. ), p.59 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201993%20Vol%209%20Une%20nouvelle%20contribution%20a%20la%20determination%20individuelle%20de%20l%20age%20d%20apres%20l%20etat%20de%20synostose%20du%20segment%20S3%20de%20la%20suture%20sagittale.pdf"
+        }, 
+        {
+            "title_full": "Summary / Ch\u00e2teau-Gaillard (Ain). L'occupation protohistorique sur le site du \"Recourbe\"(Vicherd G), p.1 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201994%20Vol%2010%20Les%20restes%20humains%20de%20la%20necropole%20protohistorique%20du%20Recourbe%20a%20Chateau%20Gaillard%20Ain.pdf"
+        }, 
+        {
+            "title_full": "Analyse anthropologique des squelettes du \"Recourbe\"(Gisclon J.L), p.11[ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201994%20Vol%2010%20%20Anthropologie%20des%20sepultures%20protohistoriques%20du%20Recourbe.pdf"
+        }, 
+        {
+            "title_full": "Les squelettes du \"Recourbe\": insertion dans le contexte anthropologique r\u00e9gional (Simon C), p.45 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201994%20Vol%2010%20Les%20squelettes%20du%20Recourbe%20Chateau%20%20Gaillard%20Insertion%20dans%20le%20contexte%20arch%C3%A9ologique%20r%C3%A9gional.pdf"
+        }, 
+        {
+            "title_full": "Observations pal\u00e9opathologiques sur les squelettes du \"Recourbe\"(Billard M), p.51 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201994%20Vol%2010%20Chateau%20%20Gaillard%20Ain%20gisement%20du%20Recourbe%20Sepultures%20protohistoriques%20Etude%20paleopathologique.pdf"
+        }, 
+        {
+            "title_full": "gallo - romaines et une s\u00e9rie hongroise ( Palfi G.Y., Dutour O, Berato J et Marcsik A. ), p.67 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201994%20Vol%2010%20Paleopathologie%20comparee%20de%20l%20arthrose%20vertebrale%20dans%20plusieurs%20series%20gallo%20romaines%20et%20une%20hongroise.pdf"
+        }, 
+        {
+            "title_full": "d'\u00e9poque post -m\u00e9di\u00e9vale ( Gouhenans, France ) ( Perrot R. et Soulier D. ), p.3 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201995%20Vol%2011%20%20Un%20cas%20d%20ankylose%20traumatique%20de%20l%20articulation%20temporo%20mandibulaire%20d%20epoque%20post%20medievale%20Gouhenans%20France.pdf"
+        }, 
+        {
+            "title_full": "ou d'un changement de corpulence ( Pinault A., Perrot R. et Desbois cl. ), p7 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%201995%20Vol%2011%20%20Evolution%20morphologique%20du%20visage%20au%20cours%20du%20vieillissement%20ou%20d%20un%20changement%20de%20corpulence.pdf"
+        }, 
+        {
+            "title_full": "version int\u00e9grale", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/ANTHROPAL%20%20EXPLORER%20version%20finale/HTML/HTML/PALEOBIOS%202000.pdf"
+        }, 
+        {
+            "title_full": "(GB ) ( Wells C. ), p.4 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%202000%20Vol%2012%20Les%20vestiges%20humains%20de%20l%20abbaye%20de%20Jarrow%20GB%20d%20%C3%A2ge%20saxon%20medieval.pdf"
+        }, 
+        {
+            "title_full": "europ\u00e9ennes d'\u00e9poque m\u00e9di\u00e9vale ( Perrot R. et Besnard A.C. ), p.54 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%202000%20Vol%2012%20Le%20concept%20de%20pathocenose%20teste%20sur%20des%20populations%20europeennes%20d%20epoque%20medievale.pdf"
+        }, 
+        {
+            "title_full": "In memoriam Robert P\u00e9richon : ( Puy de D\u00f4me ) ( Perrot R. et P\u00e9richon R., 1968 ), p.67 [ texte complet, pdf ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%202000%20Vol%2012%20in%20memoriam%20Robert%20Perichon.pdf"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios%202004%20Editorial.htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202004/cribra%20orbitalia/Relationship%20between%20Porotic%20Hyperostosis%20and%20Cribra%20Orbitalia.htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202004/luxation%20cong%C3%A9nitale/Luxation%20cong%C3%A9nitale%20de%20la%20hanche.htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202004/occlusion%20dentaire/Incidence%20de%20l%E2%80%99occlusion%20dentaire.htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202004/r%C3%A9action%20p%C3%A9riost%C3%A9e/Virgin%20europe%20periosteal%20reaction%20prior%20to%20the%2015th%20century%20and%20the%20potential%20influence%20of%20slavery.htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202004/spondylose/la%20spondylolyse%20entit%C3%A9%20m%C3%A9dicale%20et%20pal%C3%A9opathologique.htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202004/tr%C3%A9panation/La%20tr%C3%A9panation%20%C3%A9tude%20de%20cette%20pratique%20chirurgicale%20au%20Moyen%20Age.htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202004/linceul%20Turin/L%27inconnu%20du%20linceul%20de%20Turin%20%20la%20m%C3%A9decine%20l%C3%A9gale%20au%20secours%20des%20historiens..htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202004/Inventaire%20pathologie%20N%C3%A9anderthal/Pathologie%20NEANDERTHAL.htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202006/manuscrit%20KHCHOPALEOBIOS%202006.htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202006/Article%20LUTZ%20%20PERROT%20RIBAUD%20.htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202006/Pr%C3%A9sence%20de%20la%20peste%20version%20finale.htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Note%20sur%20l%27Ours%20des%20cavernes%20et%20la%20pal%C3%A9opathologie%20%28Bernard%20Caillat%29.htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%20EDITORIAL%202007.htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202007/article%20paleobios%202%20ali%20bacha%20rabah.htm"
+        }, 
+        {
+            "title_full": "texte complet, html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202007/biom%C3%A9trie%20et%20oeuvres%20d%27art.htm"
+        }, 
+        {
+            "title_full": "texte complet, pdf", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Etude%20pr%C3%A9liminaire%20individus%20NYONS%202008.pdf"
+        }, 
+        {
+            "title_full": "html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%20EDITORIAL%202011.htm"
+        }, 
+        {
+            "title_full": "de similarit\u00e9 au domaine artistique : le dessin MI 867.3285 de Jean Auguste Dominique Ingres lui a t'il servi d'essai pour sa peinture les Ambassadeurs d'Agamemnon (1801)? (Brice Poreau et Raoul Perrot)[ texte complet : PDF mis en ligne le 26/12/2010 ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202011%20BIOMETRIQUE%20DE%20SIMILARITE%20ET%20INGRES.pdf"
+        }, 
+        {
+            "title_full": "chez les individus immatures [Site de Brugui\u00e8res (Haute-Garonne, 31) VII-XIV\u00e8me si\u00e8cle] (Boris Chrismant)[ texte complet : PDF mis en ligne le 21/01/2011]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202011%20ARTICLE%20CHRISMANT%20LE%20TROISIEME%20TROCHANTER.pdf"
+        }, 
+        {
+            "title_full": "et l'Adoration des Mages de L\u00e9onard de Vinci (fin du XV\u00e8me si\u00e8cle) (Brice Poreau)[ texte complet : PDF mis en ligne le 14/02/2011]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202011%20ARTICLE%20POREAU%20COMPARAISON%20VINCI.pdf"
+        }, 
+        {
+            "title_full": "en milieu rural au XV\u00b0 si\u00e8cle sur un cr\u00e2ne de notaire (Maubec, Is\u00e8re). (Michel Billard)[ texte complet : PDF mis en ligne le 27/03/2011 ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PRATIQUED%27EMBAUMEMENTversion2BILLARDPALEOBIOS2011.pdf"
+        }, 
+        {
+            "title_full": "en pal\u00e9opathologie : \u00e0 propos d\u2019un probable cas de kyste dermo\u00efde orbitaire d\u2019\u00e9poque m\u00e9rovingienne ( M. Billard , O. Fantino & J.-M. Ruban) [ texte complet : PDF mis en ligne le 28/03/2011]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/CONTRIBUTION_LESIONS_TUMORALES_BILLARD_PALEOBIOS_2011.pdf"
+        }, 
+        {
+            "title_full": "par l\u2019art\u00e8re vert\u00e9brale : aspects anatomiques, \u00e0 propos d\u2019une observation ost\u00e9oarch\u00e9ologique (M. Billard & O. Fantino)[ texte complet : PDF mis en ligne le 28/03/2011 ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/EROSIONS_OSSEUSES_DU_RACHIS_CERVICAL_BILLARD_PALEOBIOS_2011.pdf"
+        }, 
+        {
+            "title_full": "d\u2019un cas probable de tuberculose du N\u00e9olithique Moyen d\u2019Auvergne (M. Billard, O. Fantino, F.Blaizot & G.vernet)[ texte complet : PDF mis en ligne le 30/03/2011 ]", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/BILLARD__PALEOBIOS_2011note_de_pal%C3%A9opatho_tuberculose_Brezet%5B1%5D.pdf"
+        }, 
+        {
+            "title_full": "html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202012%20EDITORIAL.htm"
+        }, 
+        {
+            "title_full": "PDF", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/ANTHROPAL%20%20EXPLORER%20version%20finale/HTML/HTML/PALEOBIOS%202012%20EDITORIAL.pdf"
+        }, 
+        {
+            "title_full": "html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202012%20ARTICLE%20ANNIE%20PERRAUD.htm"
+        }, 
+        {
+            "title_full": "PDF", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202012%20ARTICLE%20ANNIE%20PERRAUD.pdf"
+        }, 
+        {
+            "title_full": "html", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202012%20ARTICLE%20RENAUD%20FIGUERES.htm"
+        }, 
+        {
+            "title_full": "PDF", 
+            "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/PALEOBIOS%202012%20ARTICLE%20RENAUD%20FIGUERES.pdf"
+        }
+    ], 
+    "title": "Paleobios", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr/Paleobios.htm", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

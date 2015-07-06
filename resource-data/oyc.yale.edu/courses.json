@@ -1,0 +1,185 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Open Yale Courses. Classics CLCV 205 Introduction to Ancient Greek History Kagan, Donald Fall 2007 History of Art HSAR 252 Roman Architecture Kleiner, Diana E. E. Spring 2009 Religious Studies RLST 145 Introduction to the Old Testament (Hebrew Bible) Hayes, Christine Fall 2006 Religious Studies RLST 152 Introduction to the New Testament History and Literature Martin, Dale B. Spring 2009.", 
+    "domain": "oyc.yale.edu", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Open Yale Courses", 
+        "url": "http://oyc.yale.edu/courses"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Yale"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5052951071444905297", 
+            "resource_date": "2013-12-20T08:59:25.104-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:09:57.147435"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/open-yale-courses.html", 
+            "resource_date": "2013-12-20T08:59:25.104-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:09:57.147450"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5052951071444905297", 
+            "resource_date": "2013-12-20T08:59:25.104-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:09:57.148949"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/open-yale-courses.html", 
+            "resource_date": "2013-12-20T08:59:25.104-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:09:57.148959"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:09:57.158681"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "courses", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Open Yale Courses", 
+            "url": "http://oyc.yale.edu/courses"
+        }, 
+        {
+            "title_full": "Classics", 
+            "url": "http://oyc.yale.edu/classics"
+        }, 
+        {
+            "title_full": "CLCV 205", 
+            "url": "http://oyc.yale.edu/classics/clcv-205"
+        }, 
+        {
+            "title_full": "History of Art", 
+            "url": "http://oyc.yale.edu/history-art"
+        }, 
+        {
+            "title_full": "HSAR 252", 
+            "url": "http://oyc.yale.edu/history-art/hsar-252"
+        }, 
+        {
+            "title_full": "Religious Studies", 
+            "url": "http://oyc.yale.edu/religious-studies"
+        }, 
+        {
+            "title_full": "RLST 145", 
+            "url": "http://oyc.yale.edu/religious-studies/rlst-145"
+        }, 
+        {
+            "title_full": "RLST 152", 
+            "url": "http://oyc.yale.edu/religious-studies/rlst-152"
+        }
+    ], 
+    "title": "Open Yale Courses", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://oyc.yale.edu/courses", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

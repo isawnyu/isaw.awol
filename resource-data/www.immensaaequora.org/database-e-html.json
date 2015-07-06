@@ -1,0 +1,173 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Immensa Aequora Database. ARCHAEOLOGIC AND ARCHAEOMETRIC DATA BANK OF CERAMICS PRODUCED IN ITALYACCESS TO THE DATABASEWhat is it about ?. The database is meant to provide archaeologists - as well as a wider audience - with a reference tool on the topic. It contains archaeological, topographical, chemical and mineralogical data, both published and unpublished, regarding the ceramics produced in Central and Southern Italy on which laboratory analyses have been carried out (so far, the regions under review are: Tuscany, Lazio, Campania and Sicily). A section of the database is entirely devoted to shipwrecks which carried amphorae and ceramics produced in Central and Southern Italy, together with victuals, through the Mediterranean Sea. Database queries may concern the location of production sites (and shipwrecks), the extrapolation of the ceramics produced in a specific site or in an area, the linking up between archaeological data (typological and epigraphic data) and lab-analyses. It is also possible to examine the whole bibliography about production areas and relevant ceramics. How is the database organized ?. The database (realized by CILEA - Milan) can be searched by SITE, SHIPWRECK, POTTERY CLASS/FORM, EPIGRAPHIC DATA, LAB-ANALYSIS, BIBLIOGRAPHY. It has a flexible relational structure for data management in tables and a basic user interface for data entry by means of masks. The large amount of such heterogeneous data requires the creation of a complex architecture for recording and the development of a methodological process for entering the data and querying them. The core of the structure is the object (pottery), which is described according to its physical and morpho-typological features, the find- context (Site table) and its production site, together with graphic and photographic documentation. The other tables contain information about the workshops (Workshop/Handicraft district table) and the kilns (Kiln table) where the objects were made. The object data can be linked up with the ones related to the ceramic fabric (the raw material) and to its features and production techniques (Fabric table). Another possible link is the one to epigraphic data (Stamp table), which can be viewed straight within the mask. As for the pottery finds undergoing laboratory analyses, it is also possible to have access to the results of the chemical (Chemical analyses table) and mineralogical (Mineralogical analyses table) analyses already carried out. To access a preview the \"Site\" tab please click on the following links: (1) e (2). Who is at work ?. The scientific project has first arisen from an idea of G. Olcese. Cilea (Milan) is working on its implementation. The working group in Rome (C. Coletti, G. Olcese, I. Manzini) has systematized the contents.", 
+    "domain": "www.immensaaequora.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Immensa Aequora Database", 
+        "url": "http://www.immensaaequora.org/database_e.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "pottery", 
+        "data", 
+        "ceramics", 
+        "Italy", 
+        "database"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2364350888335105922", 
+            "resource_date": "2013-07-11T16:44:51.503-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:22.545839"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/immensa-aaquora.html", 
+            "resource_date": "2013-07-11T16:44:51.503-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:22.545855"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2364350888335105922", 
+            "resource_date": "2013-07-11T16:44:51.503-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:22.552714"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/immensa-aaquora.html", 
+            "resource_date": "2013-07-11T16:44:51.503-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:22.552727"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:22.565168"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "database-e-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Immensa Aequora Database", 
+            "url": "http://www.immensaaequora.org/database_e.html"
+        }, 
+        {
+            "title_full": "ACCESS TO THE DATABASE", 
+            "url": "http://www.immensaaequora.org/database_link_e.html"
+        }, 
+        {
+            "title_full": "1", 
+            "url": "http://www.immensaaequora.org/bozzagrafica_percorsosito.pdf"
+        }, 
+        {
+            "title_full": "2", 
+            "url": "http://www.immensaaequora.org/sito_cilea_bozza.pdf"
+        }
+    ], 
+    "title": "Immensa Aequora Database", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.immensaaequora.org/database_e.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,210 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "GIS in Archaeology: The Complete Guide.", 
+    "domain": "www.gisinarchaeology.com", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "GIS in Archaeology: The Complete Guide", 
+        "url": "http://www.gisinarchaeology.com/index.php"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "GIS", 
+        "archaeology"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-302463094712134852", 
+            "resource_date": "2012-09-15T19:05:39.081-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:44.652031"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/gis-in-archaeology-complete-guide.html", 
+            "resource_date": "2012-09-15T19:05:39.081-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:44.652046"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-302463094712134852", 
+            "resource_date": "2012-09-15T19:05:39.081-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:44.653710"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/gis-in-archaeology-complete-guide.html", 
+            "resource_date": "2012-09-15T19:05:39.081-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:44.653721"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:44.670995"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "index-php", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "GIS in Archaeology: The Complete Guide", 
+            "url": "http://www.gisinarchaeology.com/index.php"
+        }, 
+        {
+            "title_full": "Books", 
+            "url": "http://www.gisinarchaeology.com/GIS_books.php"
+        }, 
+        {
+            "title_full": "Tools", 
+            "url": "http://www.gisinarchaeology.com/GIS_tools.php"
+        }, 
+        {
+            "title_full": "Resources", 
+            "url": "http://www.gisinarchaeology.com/GIS_resources.php"
+        }, 
+        {
+            "title_full": "About me", 
+            "url": "http://www.gisinarchaeology.com/about.php"
+        }, 
+        {
+            "title_full": "Definitions", 
+            "url": "http://www.gisinarchaeology.com/gis_definitions.php"
+        }, 
+        {
+            "title_full": "History of GIS", 
+            "url": "http://www.gisinarchaeology.com/history_of_gis.php"
+        }, 
+        {
+            "title_full": "Components of GIS", 
+            "url": "http://www.gisinarchaeology.com/components_of_gis.php"
+        }, 
+        {
+            "title_full": "GIS in Archaeology", 
+            "url": "http://www.gisinarchaeology.com/gis_in_archaeology.php"
+        }, 
+        {
+            "title_full": "GIS pitfalls", 
+            "url": "http://www.gisinarchaeology.com/gis_pitfalls.php"
+        }, 
+        {
+            "title_full": "Survey Methodology", 
+            "url": "http://www.gisinarchaeology.com/gis_survey_methodology.php"
+        }, 
+        {
+            "title_full": "Survey Results", 
+            "url": "http://www.gisinarchaeology.com/gis_survey_results.php"
+        }, 
+        {
+            "title_full": "Survey Conclusion", 
+            "url": "http://www.gisinarchaeology.com/gis_survey_conclusion.php"
+        }, 
+        {
+            "title_full": "Bibliography", 
+            "url": "http://www.gisinarchaeology.com/bibliography.php"
+        }
+    ], 
+    "title": "GIS in Archaeology: The Complete Guide", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.gisinarchaeology.com/index.php", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

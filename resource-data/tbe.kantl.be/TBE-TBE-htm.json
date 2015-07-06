@@ -1,0 +1,329 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "TEI By Example offers a series of freely available online tutorials walking individuals through the different stages in marking up a document in TEI (Text Encoding Initiative). Besides a general introduction to text encoding, step-by-step tutorial modules provide example-based introductions to eight different aspects of electronic text markup for the humanities. Each tutorial module is accompanied with a dedicated examples section, illustrating actual TEI encoding practise with real-life examples. The theory of the tutorial modules can be tested in interactive tests and exercises. The tutorial materials are contextualised with a tools section, providing both an annotated overview of state-of-the-art XML encoding technology, and a TBE validator application, allowing you to test your TEI encoding as you type!.", 
+    "domain": "tbe.kantl.be", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "TEI By Example", 
+        "url": "http://tbe.kantl.be/TBE/TBE.htm"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3761539561145560053", 
+            "resource_date": "2010-07-10T17:42:21.548-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:20.089975"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/tei-markup-tutorial.html", 
+            "resource_date": "2010-07-10T17:42:21.548-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:20.089992"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3761539561145560053", 
+            "resource_date": "2010-07-10T17:42:21.548-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:20.094038"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/07/tei-markup-tutorial.html", 
+            "resource_date": "2010-07-10T17:42:21.548-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:20.094051"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "languages", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:08:20.203638"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "TBE-TBE-htm", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "TEI By Example", 
+            "url": "http://tbe.kantl.be/TBE/TBE.htm"
+        }, 
+        {
+            "title_full": "Tutorials \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/TBE.htm?page=module"
+        }, 
+        {
+            "title_full": "Tutorials \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/modules/TBED00v00.htm"
+        }, 
+        {
+            "title_full": "Tutorials \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/modules/TBED01v00.htm"
+        }, 
+        {
+            "title_full": "Tutorials \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/modules/TBED02v00.htm"
+        }, 
+        {
+            "title_full": "Tutorials \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/modules/TBED03v00.htm"
+        }, 
+        {
+            "title_full": "Tutorials \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/modules/TBED04v00.htm"
+        }, 
+        {
+            "title_full": "Tutorials \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/modules/TBED05v00.htm"
+        }, 
+        {
+            "title_full": "Tutorials \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/modules/TBED06v00.htm"
+        }, 
+        {
+            "title_full": "Tutorials \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/modules/TBED07v00.htm"
+        }, 
+        {
+            "title_full": "Tutorials \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/modules/TBED08v00.htm"
+        }, 
+        {
+            "title_full": "Examples \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/TBE.htm?page=example"
+        }, 
+        {
+            "title_full": "Examples \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/examples/TBED00v00.htm"
+        }, 
+        {
+            "title_full": "Examples \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/examples/TBED01v00.htm"
+        }, 
+        {
+            "title_full": "Examples \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/examples/TBED02v00.htm"
+        }, 
+        {
+            "title_full": "Examples \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/examples/TBED03v00.htm"
+        }, 
+        {
+            "title_full": "Examples \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/examples/TBED04v00.htm"
+        }, 
+        {
+            "title_full": "Examples \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/examples/TBED05v00.htm"
+        }, 
+        {
+            "title_full": "Examples \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/examples/TBED06v00.htm"
+        }, 
+        {
+            "title_full": "Examples \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/examples/TBED07v00.htm"
+        }, 
+        {
+            "title_full": "Examples \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/examples/TBED08v00.htm"
+        }, 
+        {
+            "title_full": "Tests \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/TBE.htm?page=test"
+        }, 
+        {
+            "title_full": "Tests \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/tests/TBED00v00.htm"
+        }, 
+        {
+            "title_full": "Tests \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/tests/TBED01v00.htm"
+        }, 
+        {
+            "title_full": "Tests \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/tests/TBED02v00.htm"
+        }, 
+        {
+            "title_full": "Tests \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/tests/TBED03v00.htm"
+        }, 
+        {
+            "title_full": "Tests \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/tests/TBED04v00.htm"
+        }, 
+        {
+            "title_full": "Tests \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/tests/TBED05v00.htm"
+        }, 
+        {
+            "title_full": "Tests \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/tests/TBED06v00.htm"
+        }, 
+        {
+            "title_full": "Tests \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/tests/TBED07v00.htm"
+        }, 
+        {
+            "title_full": "Tests \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/tests/TBED08v00.htm"
+        }, 
+        {
+            "title_full": "Exercises \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/TBE.htm?page=exercise"
+        }, 
+        {
+            "title_full": "Exercises \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/exercises/TBED00v00.htm"
+        }, 
+        {
+            "title_full": "Exercises \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/exercises/TBED01v00.htm"
+        }, 
+        {
+            "title_full": "Exercises \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/exercises/TBED02v00.htm"
+        }, 
+        {
+            "title_full": "Exercises \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/exercises/TBED03v00.htm"
+        }, 
+        {
+            "title_full": "Exercises \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/exercises/TBED04v00.htm"
+        }, 
+        {
+            "title_full": "Exercises \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/exercises/TBED05v00.htm"
+        }, 
+        {
+            "title_full": "Exercises \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/exercises/TBED06v00.htm"
+        }, 
+        {
+            "title_full": "Exercises \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/exercises/TBED07v00.htm"
+        }, 
+        {
+            "title_full": "Exercises \u00bb 0. Introduction to Text Encoding and the TEI 1. Common Structure and Elements 2. The TEI header 3. Prose 4. Poetry 5. Drama 6. Primary Sources 7. Critical Editing 8. Customising TEI, ODD, Roma", 
+            "url": "http://tbe.kantl.be/TBE/exercises/TBED08v00.htm"
+        }, 
+        {
+            "title_full": "Tools \u00bb 1. TEI validator 2. XML toolkit", 
+            "url": "http://tbe.kantl.be/TBE/TBE.htm?page=extra"
+        }, 
+        {
+            "title_full": "Tools \u00bb 1. TEI validator 2. XML toolkit", 
+            "url": "http://tbe.kantl.be/TBE/xquery/TBEvalidator.xq"
+        }, 
+        {
+            "title_full": "Tools \u00bb 1. TEI validator 2. XML toolkit", 
+            "url": "http://tbe.kantl.be/TBE/docs/software.htm"
+        }, 
+        {
+            "title_full": "About", 
+            "url": "http://tbe.kantl.be/TBE/docs/about.htm"
+        }
+    ], 
+    "title": "TEI By Example", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://tbe.kantl.be/TBE/TBE.htm", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

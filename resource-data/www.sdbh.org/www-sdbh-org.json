@@ -1,0 +1,173 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Semantic Dictionary of Biblical Hebrew (SDBH). The Semantic Dictionary of Biblical Hebrew (henceforth SDBH) project is carried out under the auspices of the United Bible Societies. It was launched in the year 2000. Its aim is to build a new dictionary of biblical Hebrew that is based on semantic domains, comparable to Louw and Nida\u2019s Greek-English Lexicon of the New Testament, which was first published in 1989. Preliminary research for this project was carried out by Reinier de Blois which resulted in a dissertation, titled Towards a New Dictionary of Biblical Hebrew Based on Semantic Domains, from which much of the contents of this document has been derived (de Blois 2000). In addition to this a computer tool called Vocabula was developed, that can assist the Hebrew lexicographer in his/her effort to create such a dictionary. Several Hebrew scholars from different parts of the world are contributing to this dictionary. The editor for this project is Dr. Reinier de Blois, assisted by Prof. Dr. Enio R. Mueller. Several sample entries have been published on the web and more will be published as soon as they become available. There is always room for improvement and therefore users are invited to send their comments to the editor. If you want to have a look at the entries that have been published so far click here. Project Organization. Theoretical Framework. Dictionary Sample entries.", 
+    "domain": "www.sdbh.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Semantic Dictionary of Biblical Hebrew (SDBH)", 
+        "url": "http://www.sdbh.org/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "religion", 
+        "bible", 
+        "dictionaries", 
+        "Bible", 
+        "Hebrew"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7273155527591443907", 
+            "resource_date": "2012-09-14T06:20:46.711-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:03.090883"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/semantic-dictionary-of-biblical-hebrew.html", 
+            "resource_date": "2012-09-14T06:20:46.711-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:03.090898"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7273155527591443907", 
+            "resource_date": "2012-09-14T06:20:46.711-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:03.094090"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/semantic-dictionary-of-biblical-hebrew.html", 
+            "resource_date": "2012-09-14T06:20:46.711-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:03.094117"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:03.104571"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "www-sdbh-org", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Semantic Dictionary of Biblical Hebrew (SDBH)", 
+            "url": "http://www.sdbh.org/"
+        }, 
+        {
+            "title_full": "here", 
+            "url": "http://www.sdbh.org/vocabula/index.html"
+        }, 
+        {
+            "title_full": "Organization", 
+            "url": "http://www.sdbh.org/organization/index.html"
+        }, 
+        {
+            "title_full": "Theoretical Framework", 
+            "url": "http://www.sdbh.org/framework/index.html"
+        }
+    ], 
+    "title": "Semantic Dictionary of Biblical Hebrew (SDBH)", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.sdbh.org/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

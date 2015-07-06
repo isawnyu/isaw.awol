@@ -1,0 +1,202 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Corpus Agrimensorum Romanorum. Les volumes du Corpus Agrimensorum Romanorum sont en acc\u00e8s libre au format pdf, apr\u00e8s une barri\u00e8re mobile de deux ans pour les plus r\u00e9cents.", 
+    "domain": "ista.univ-fcomte.fr", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Corpus Agrimensorum Romanorum", 
+        "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Latin", 
+        "France", 
+        "Rome", 
+        "late antiquity", 
+        "open access", 
+        "monograph"
+    ], 
+    "languages": [
+        "fr"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3237646290619190500", 
+            "resource_date": "2015-01-12T07:55:30.268-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:07:44.868940"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-monograph-series-corpus.html", 
+            "resource_date": "2015-01-12T07:55:30.268-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:07:44.868956"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3237646290619190500", 
+            "resource_date": "2015-01-12T07:55:30.268-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:07:44.870572"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-monograph-series-corpus.html", 
+            "resource_date": "2015-01-12T07:55:30.268-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:07:44.870583"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:07:44.887418"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "index-php-ed-src-gromatiques-car", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Corpus Agrimensorum Romanorum", 
+            "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car"
+        }, 
+        {
+            "title_full": "Documents d'arpentage de l'Antiquit\u00e9 tardive", 
+            "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/29-doc-arpentage-antiqtardive"
+        }, 
+        {
+            "title_full": "Arpentage et administration publique \u00e0 la fin de l'Antiquit\u00e9", 
+            "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/420-arp_admpubl"
+        }, 
+        {
+            "title_full": "Corpus Agrimensorum Romanorum VII. Libri Coloniarum", 
+            "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/419-car-vii"
+        }, 
+        {
+            "title_full": "Corpus Agrimensorum Romanorum VI. Agenius, Controverses sur les terres", 
+            "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/418-car-vi"
+        }, 
+        {
+            "title_full": "Isidore de S\u00e9ville. \u00c9tymologies, livre 15 : Les constructions et les terres", 
+            "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/732-isidsev-etymo15"
+        }, 
+        {
+            "title_full": "Corpus Agrimensorum Romanorum V. Hygin, L'\u0152uvre gromatique", 
+            "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/417-car-v"
+        }, 
+        {
+            "title_full": "Corpus Agrimensorum Romanorum IV. 2. Frontin, L'\u0152uvre gromatique", 
+            "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/416-car-iv_2"
+        }, 
+        {
+            "title_full": "Corpus Agrimensorum Romanorum IV. 1. Hygin, L'\u00e9tablissment des limites", 
+            "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/415-car-iv_1"
+        }, 
+        {
+            "title_full": "Corpus Agrimensorum Romanorum II & III. Balbus, La mesure par pieds, et extraits d'Epaphrodite et de Vitrivius Rufus", 
+            "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/414-car-ii_iii"
+        }, 
+        {
+            "title_full": "Corpus Agrimensorum Romanorum I. Siculus Flaccus, Les conditions des terres", 
+            "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/413-car-i"
+        }
+    ], 
+    "title": "Corpus Agrimensorum Romanorum", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

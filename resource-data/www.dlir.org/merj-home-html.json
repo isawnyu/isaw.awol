@@ -1,0 +1,171 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 18 July 2009. Updated 18 June 2013]. Digital Library for International Research, Middle East Research Journals Project. The Middle East Research Journals (MERJ) project, funded by a grant from the Institute of Museum and Library Services (2002-2006), provided digital access to five complete journals held at American Overseas Research Centers in the Middle East in the CAORC consortium. Additional materials created for this project are bibliographic records for 1,900 journals held at seven centers in the Middle East, a searchable index of three research journals, preservation microfilm for five research journals. A searchable article-level index is available for the following titles:.", 
+    "domain": "www.dlir.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Digital Library for International Research, Middle East Research Journals Project", 
+        "url": "http://www.dlir.org/merj-home.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "DLIR", 
+        "library", 
+        "project", 
+        "MERJ", 
+        "Middle East", 
+        "digital library"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7797043047954917581", 
+            "resource_date": "2013-06-18T13:19:47.727-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:54.580005"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/07/open-access-journals-digital-library.html", 
+            "resource_date": "2013-06-18T13:19:47.727-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:54.580020"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7797043047954917581", 
+            "resource_date": "2013-06-18T13:19:47.727-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:54.583349"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/07/open-access-journals-digital-library.html", 
+            "resource_date": "2013-06-18T13:19:47.727-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:54.583360"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:54.587959"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "merj-home-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Digital Library for International Research, Middle East Research Journals Project", 
+            "url": "http://www.dlir.org/merj-home.html"
+        }, 
+        {
+            "title_full": "searchable article-level index", 
+            "url": "http://www.dlir.org/merj-indexed-journals.html?view=simple"
+        }, 
+        {
+            "title_full": "Digital full-text", 
+            "url": "http://www.dlir.org/browse-merj-e-journals.html"
+        }
+    ], 
+    "title": "Digital Library for International Research, Middle East Research Journals Project", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.dlir.org/merj-home.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

@@ -1,0 +1,160 @@
+{
+    "authors": [
+        "s"
+    ], 
+    "contributors": [], 
+    "description": "Trismegistos Authors. A database of Ancient Authors and Works by Trismegistos. This beta version of Trismegistos Authors is the result of work in progress on the Leuven Database of Ancient Books. The Trismegistos Team is currently converting the information on attestations and quotations of ancient authors and their works to a new relational system. Once ready, the user will be able to navigate from authors and works to attestations and quotes, but right now TM has only covered the non-christian part of the manuscripts included in the LDAB, and even that still has to be checked. Checking the existing references and converting the christian material to the same system will probably take until late September, and we therefore urge the LDAB user to continue using the old system, which will remain in function until then. Please also note that this new database of Authors is in the first instance a tool to facilitate navigation in the various sections of Trismegistos: Texts attested in manuscripts dated before AD 800, place names from Egypt in Trismegistos Places, and in the future also some attestations of individuals from Ptolemaic Egypt. This explains some of the lacunae such as e. g. Tacitus.", 
+    "domain": "www.trismegistos.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Trismegistos Authors", 
+        "url": "http://www.trismegistos.org/authors/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Trismegistos"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4071869202831883026", 
+            "resource_date": "2013-07-12T10:49:23.501-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:32.972747"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/new-at-trismegistos.html", 
+            "resource_date": "2013-07-12T10:49:23.501-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:32.972764"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4071869202831883026", 
+            "resource_date": "2013-07-12T10:49:23.501-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:32.977164"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/07/new-at-trismegistos.html", 
+            "resource_date": "2013-07-12T10:49:23.501-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:32.977177"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "authors", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:08:32.978567"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "authors", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Trismegistos Authors", 
+            "url": "http://www.trismegistos.org/authors/"
+        }
+    ], 
+    "title": "Trismegistos Authors", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.trismegistos.org/authors/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

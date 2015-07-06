@@ -1,0 +1,123 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Marq, arqueolog\u00eda y museos. ISSN: 1885-3145.", 
+    "domain": "dialnet.unirioja.es", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "1885-3145"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "open access", 
+        "archaeology", 
+        "Spain", 
+        "archeaology"
+    ], 
+    "languages": [
+        "an"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-353171351403729158", 
+            "resource_date": "2013-01-22T15:22:26.159-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:05.966000"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-marq-arqueologia-y.html", 
+            "resource_date": "2013-01-22T15:22:26.159-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:05.966015"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "d70d24ab2b4a9be9c80369ced1443219c7c2a986", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "2007", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=7340&clave_busqueda=2007"
+        }, 
+        {
+            "title_full": "2", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=7340&clave_busqueda=189020"
+        }, 
+        {
+            "title_full": "2006", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=7340&clave_busqueda=2006"
+        }, 
+        {
+            "title_full": "1", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=7340&clave_busqueda=154607"
+        }, 
+        {
+            "title_full": "2005", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=7340&clave_busqueda=2005"
+        }, 
+        {
+            "title_full": "0", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=7340&clave_busqueda=128759"
+        }
+    ], 
+    "title": "Marq, arqueolog\u00eda y museos", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://dialnet.unirioja.es/servlet/revista?codigo=7340", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

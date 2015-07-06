@@ -1,0 +1,799 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Patrologia Graeca. Jacques Paul Migne. Patrologiae Cursus Completus. Series Graeca.", 
+    "domain": "graeca.patristica.net", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Patrologia Graeca", 
+        "url": "http://graeca.patristica.net/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "patrologia"
+    ], 
+    "languages": [], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7503880283154312419", 
+            "resource_date": "2014-07-03T11:52:01.409-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:18.697290"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/07/patrologia-graeca.html", 
+            "resource_date": "2014-07-03T11:52:01.409-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:18.697306"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7503880283154312419", 
+            "resource_date": "2014-07-03T11:52:01.409-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:18.700354"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/07/patrologia-graeca.html", 
+            "resource_date": "2014-07-03T11:52:01.409-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:18.700369"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:12:18.964668"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "graeca-patristica-net", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Patrologia Graeca", 
+            "url": "http://graeca.patristica.net/"
+        }, 
+        {
+            "title_full": "001", 
+            "url": "http://graeca.patristica.net/#t001"
+        }, 
+        {
+            "title_full": "002", 
+            "url": "http://graeca.patristica.net/#t002"
+        }, 
+        {
+            "title_full": "003", 
+            "url": "http://graeca.patristica.net/#t003"
+        }, 
+        {
+            "title_full": "004", 
+            "url": "http://graeca.patristica.net/#t004"
+        }, 
+        {
+            "title_full": "005", 
+            "url": "http://graeca.patristica.net/#t005"
+        }, 
+        {
+            "title_full": "006", 
+            "url": "http://graeca.patristica.net/#t006"
+        }, 
+        {
+            "title_full": "007", 
+            "url": "http://graeca.patristica.net/#t007-1"
+        }, 
+        {
+            "title_full": "008", 
+            "url": "http://graeca.patristica.net/#t008"
+        }, 
+        {
+            "title_full": "009", 
+            "url": "http://graeca.patristica.net/#t009"
+        }, 
+        {
+            "title_full": "010", 
+            "url": "http://graeca.patristica.net/#t010"
+        }, 
+        {
+            "title_full": "011", 
+            "url": "http://graeca.patristica.net/#t011"
+        }, 
+        {
+            "title_full": "012", 
+            "url": "http://graeca.patristica.net/#t012"
+        }, 
+        {
+            "title_full": "013", 
+            "url": "http://graeca.patristica.net/#t013"
+        }, 
+        {
+            "title_full": "014", 
+            "url": "http://graeca.patristica.net/#t014"
+        }, 
+        {
+            "title_full": "015", 
+            "url": "http://graeca.patristica.net/#t015"
+        }, 
+        {
+            "title_full": "016", 
+            "url": "http://graeca.patristica.net/#t016-1"
+        }, 
+        {
+            "title_full": "017", 
+            "url": "http://graeca.patristica.net/#t017"
+        }, 
+        {
+            "title_full": "018", 
+            "url": "http://graeca.patristica.net/#t018"
+        }, 
+        {
+            "title_full": "019", 
+            "url": "http://graeca.patristica.net/#t019"
+        }, 
+        {
+            "title_full": "020", 
+            "url": "http://graeca.patristica.net/#t020"
+        }, 
+        {
+            "title_full": "021", 
+            "url": "http://graeca.patristica.net/#t021"
+        }, 
+        {
+            "title_full": "022", 
+            "url": "http://graeca.patristica.net/#t022"
+        }, 
+        {
+            "title_full": "023", 
+            "url": "http://graeca.patristica.net/#t023"
+        }, 
+        {
+            "title_full": "024", 
+            "url": "http://graeca.patristica.net/#t024"
+        }, 
+        {
+            "title_full": "025", 
+            "url": "http://graeca.patristica.net/#t025"
+        }, 
+        {
+            "title_full": "026", 
+            "url": "http://graeca.patristica.net/#t026"
+        }, 
+        {
+            "title_full": "027", 
+            "url": "http://graeca.patristica.net/#t027"
+        }, 
+        {
+            "title_full": "028", 
+            "url": "http://graeca.patristica.net/#t028"
+        }, 
+        {
+            "title_full": "029", 
+            "url": "http://graeca.patristica.net/#t029"
+        }, 
+        {
+            "title_full": "030", 
+            "url": "http://graeca.patristica.net/#t030"
+        }, 
+        {
+            "title_full": "031", 
+            "url": "http://graeca.patristica.net/#t031"
+        }, 
+        {
+            "title_full": "032", 
+            "url": "http://graeca.patristica.net/#t032"
+        }, 
+        {
+            "title_full": "033", 
+            "url": "http://graeca.patristica.net/#t033"
+        }, 
+        {
+            "title_full": "034", 
+            "url": "http://graeca.patristica.net/#t034"
+        }, 
+        {
+            "title_full": "035", 
+            "url": "http://graeca.patristica.net/#t035"
+        }, 
+        {
+            "title_full": "036", 
+            "url": "http://graeca.patristica.net/#t036"
+        }, 
+        {
+            "title_full": "037", 
+            "url": "http://graeca.patristica.net/#t037"
+        }, 
+        {
+            "title_full": "038", 
+            "url": "http://graeca.patristica.net/#t038"
+        }, 
+        {
+            "title_full": "039", 
+            "url": "http://graeca.patristica.net/#t039"
+        }, 
+        {
+            "title_full": "040", 
+            "url": "http://graeca.patristica.net/#t040"
+        }, 
+        {
+            "title_full": "041", 
+            "url": "http://graeca.patristica.net/#t041"
+        }, 
+        {
+            "title_full": "042", 
+            "url": "http://graeca.patristica.net/#t042"
+        }, 
+        {
+            "title_full": "043", 
+            "url": "http://graeca.patristica.net/#t043"
+        }, 
+        {
+            "title_full": "044", 
+            "url": "http://graeca.patristica.net/#t044"
+        }, 
+        {
+            "title_full": "045", 
+            "url": "http://graeca.patristica.net/#t045"
+        }, 
+        {
+            "title_full": "046", 
+            "url": "http://graeca.patristica.net/#t046"
+        }, 
+        {
+            "title_full": "047", 
+            "url": "http://graeca.patristica.net/#t047"
+        }, 
+        {
+            "title_full": "048", 
+            "url": "http://graeca.patristica.net/#t048"
+        }, 
+        {
+            "title_full": "049", 
+            "url": "http://graeca.patristica.net/#t049"
+        }, 
+        {
+            "title_full": "050", 
+            "url": "http://graeca.patristica.net/#t050"
+        }, 
+        {
+            "title_full": "051", 
+            "url": "http://graeca.patristica.net/#t051"
+        }, 
+        {
+            "title_full": "052", 
+            "url": "http://graeca.patristica.net/#t052"
+        }, 
+        {
+            "title_full": "053", 
+            "url": "http://graeca.patristica.net/#t053"
+        }, 
+        {
+            "title_full": "054", 
+            "url": "http://graeca.patristica.net/#t054"
+        }, 
+        {
+            "title_full": "055", 
+            "url": "http://graeca.patristica.net/#t055"
+        }, 
+        {
+            "title_full": "056", 
+            "url": "http://graeca.patristica.net/#t056"
+        }, 
+        {
+            "title_full": "057", 
+            "url": "http://graeca.patristica.net/#t057"
+        }, 
+        {
+            "title_full": "058", 
+            "url": "http://graeca.patristica.net/#t058"
+        }, 
+        {
+            "title_full": "059", 
+            "url": "http://graeca.patristica.net/#t059"
+        }, 
+        {
+            "title_full": "060", 
+            "url": "http://graeca.patristica.net/#t060"
+        }, 
+        {
+            "title_full": "061", 
+            "url": "http://graeca.patristica.net/#t061"
+        }, 
+        {
+            "title_full": "062", 
+            "url": "http://graeca.patristica.net/#t062"
+        }, 
+        {
+            "title_full": "063", 
+            "url": "http://graeca.patristica.net/#t063"
+        }, 
+        {
+            "title_full": "064", 
+            "url": "http://graeca.patristica.net/#t064"
+        }, 
+        {
+            "title_full": "065", 
+            "url": "http://graeca.patristica.net/#t065"
+        }, 
+        {
+            "title_full": "066", 
+            "url": "http://graeca.patristica.net/#t066"
+        }, 
+        {
+            "title_full": "067", 
+            "url": "http://graeca.patristica.net/#t067"
+        }, 
+        {
+            "title_full": "068", 
+            "url": "http://graeca.patristica.net/#t068"
+        }, 
+        {
+            "title_full": "069", 
+            "url": "http://graeca.patristica.net/#t069"
+        }, 
+        {
+            "title_full": "070", 
+            "url": "http://graeca.patristica.net/#t070"
+        }, 
+        {
+            "title_full": "071", 
+            "url": "http://graeca.patristica.net/#t071"
+        }, 
+        {
+            "title_full": "072", 
+            "url": "http://graeca.patristica.net/#t072"
+        }, 
+        {
+            "title_full": "073", 
+            "url": "http://graeca.patristica.net/#t073"
+        }, 
+        {
+            "title_full": "074", 
+            "url": "http://graeca.patristica.net/#t074"
+        }, 
+        {
+            "title_full": "075", 
+            "url": "http://graeca.patristica.net/#t075"
+        }, 
+        {
+            "title_full": "076", 
+            "url": "http://graeca.patristica.net/#t076"
+        }, 
+        {
+            "title_full": "077", 
+            "url": "http://graeca.patristica.net/#t077"
+        }, 
+        {
+            "title_full": "078", 
+            "url": "http://graeca.patristica.net/#t078"
+        }, 
+        {
+            "title_full": "079", 
+            "url": "http://graeca.patristica.net/#t079"
+        }, 
+        {
+            "title_full": "080", 
+            "url": "http://graeca.patristica.net/#t080"
+        }, 
+        {
+            "title_full": "081", 
+            "url": "http://graeca.patristica.net/#t081"
+        }, 
+        {
+            "title_full": "082", 
+            "url": "http://graeca.patristica.net/#t082"
+        }, 
+        {
+            "title_full": "083", 
+            "url": "http://graeca.patristica.net/#t083"
+        }, 
+        {
+            "title_full": "084", 
+            "url": "http://graeca.patristica.net/#t084"
+        }, 
+        {
+            "title_full": "085", 
+            "url": "http://graeca.patristica.net/#t085"
+        }, 
+        {
+            "title_full": "086", 
+            "url": "http://graeca.patristica.net/#t086-1"
+        }, 
+        {
+            "title_full": "087", 
+            "url": "http://graeca.patristica.net/#t087-1"
+        }, 
+        {
+            "title_full": "088", 
+            "url": "http://graeca.patristica.net/#t088"
+        }, 
+        {
+            "title_full": "089", 
+            "url": "http://graeca.patristica.net/#t089"
+        }, 
+        {
+            "title_full": "090", 
+            "url": "http://graeca.patristica.net/#t090"
+        }, 
+        {
+            "title_full": "091", 
+            "url": "http://graeca.patristica.net/#t091"
+        }, 
+        {
+            "title_full": "092", 
+            "url": "http://graeca.patristica.net/#t092"
+        }, 
+        {
+            "title_full": "093", 
+            "url": "http://graeca.patristica.net/#t093"
+        }, 
+        {
+            "title_full": "094", 
+            "url": "http://graeca.patristica.net/#t094"
+        }, 
+        {
+            "title_full": "095", 
+            "url": "http://graeca.patristica.net/#t095"
+        }, 
+        {
+            "title_full": "096", 
+            "url": "http://graeca.patristica.net/#t096"
+        }, 
+        {
+            "title_full": "097", 
+            "url": "http://graeca.patristica.net/#t097"
+        }, 
+        {
+            "title_full": "098", 
+            "url": "http://graeca.patristica.net/#t098"
+        }, 
+        {
+            "title_full": "099", 
+            "url": "http://graeca.patristica.net/#t099"
+        }, 
+        {
+            "title_full": "100", 
+            "url": "http://graeca.patristica.net/#t100"
+        }, 
+        {
+            "title_full": "101", 
+            "url": "http://graeca.patristica.net/#t101"
+        }, 
+        {
+            "title_full": "102", 
+            "url": "http://graeca.patristica.net/#t102"
+        }, 
+        {
+            "title_full": "103", 
+            "url": "http://graeca.patristica.net/#t103"
+        }, 
+        {
+            "title_full": "104", 
+            "url": "http://graeca.patristica.net/#t104"
+        }, 
+        {
+            "title_full": "105", 
+            "url": "http://graeca.patristica.net/#t105"
+        }, 
+        {
+            "title_full": "106", 
+            "url": "http://graeca.patristica.net/#t106"
+        }, 
+        {
+            "title_full": "107", 
+            "url": "http://graeca.patristica.net/#t107"
+        }, 
+        {
+            "title_full": "108", 
+            "url": "http://graeca.patristica.net/#t108"
+        }, 
+        {
+            "title_full": "109", 
+            "url": "http://graeca.patristica.net/#t109"
+        }, 
+        {
+            "title_full": "110", 
+            "url": "http://graeca.patristica.net/#t110"
+        }, 
+        {
+            "title_full": "111", 
+            "url": "http://graeca.patristica.net/#t111"
+        }, 
+        {
+            "title_full": "112", 
+            "url": "http://graeca.patristica.net/#t112"
+        }, 
+        {
+            "title_full": "113", 
+            "url": "http://graeca.patristica.net/#t113"
+        }, 
+        {
+            "title_full": "114", 
+            "url": "http://graeca.patristica.net/#t114"
+        }, 
+        {
+            "title_full": "115", 
+            "url": "http://graeca.patristica.net/#t115"
+        }, 
+        {
+            "title_full": "116", 
+            "url": "http://graeca.patristica.net/#t116"
+        }, 
+        {
+            "title_full": "117", 
+            "url": "http://graeca.patristica.net/#t117"
+        }, 
+        {
+            "title_full": "118", 
+            "url": "http://graeca.patristica.net/#t118"
+        }, 
+        {
+            "title_full": "119", 
+            "url": "http://graeca.patristica.net/#t119"
+        }, 
+        {
+            "title_full": "120", 
+            "url": "http://graeca.patristica.net/#t120"
+        }, 
+        {
+            "title_full": "121", 
+            "url": "http://graeca.patristica.net/#t121"
+        }, 
+        {
+            "title_full": "122", 
+            "url": "http://graeca.patristica.net/#t122"
+        }, 
+        {
+            "title_full": "123", 
+            "url": "http://graeca.patristica.net/#t123"
+        }, 
+        {
+            "title_full": "124", 
+            "url": "http://graeca.patristica.net/#t124"
+        }, 
+        {
+            "title_full": "125", 
+            "url": "http://graeca.patristica.net/#t125"
+        }, 
+        {
+            "title_full": "126", 
+            "url": "http://graeca.patristica.net/#t126"
+        }, 
+        {
+            "title_full": "127", 
+            "url": "http://graeca.patristica.net/#t127"
+        }, 
+        {
+            "title_full": "128", 
+            "url": "http://graeca.patristica.net/#t128"
+        }, 
+        {
+            "title_full": "129", 
+            "url": "http://graeca.patristica.net/#t129"
+        }, 
+        {
+            "title_full": "130", 
+            "url": "http://graeca.patristica.net/#t130"
+        }, 
+        {
+            "title_full": "131", 
+            "url": "http://graeca.patristica.net/#t131"
+        }, 
+        {
+            "title_full": "132", 
+            "url": "http://graeca.patristica.net/#t132"
+        }, 
+        {
+            "title_full": "133", 
+            "url": "http://graeca.patristica.net/#t133"
+        }, 
+        {
+            "title_full": "134", 
+            "url": "http://graeca.patristica.net/#t134"
+        }, 
+        {
+            "title_full": "135", 
+            "url": "http://graeca.patristica.net/#t135"
+        }, 
+        {
+            "title_full": "136", 
+            "url": "http://graeca.patristica.net/#t136"
+        }, 
+        {
+            "title_full": "137", 
+            "url": "http://graeca.patristica.net/#t137"
+        }, 
+        {
+            "title_full": "138", 
+            "url": "http://graeca.patristica.net/#t138"
+        }, 
+        {
+            "title_full": "139", 
+            "url": "http://graeca.patristica.net/#t139"
+        }, 
+        {
+            "title_full": "140", 
+            "url": "http://graeca.patristica.net/#t140"
+        }, 
+        {
+            "title_full": "141", 
+            "url": "http://graeca.patristica.net/#t141"
+        }, 
+        {
+            "title_full": "142", 
+            "url": "http://graeca.patristica.net/#t142"
+        }, 
+        {
+            "title_full": "143", 
+            "url": "http://graeca.patristica.net/#t143"
+        }, 
+        {
+            "title_full": "144", 
+            "url": "http://graeca.patristica.net/#t144"
+        }, 
+        {
+            "title_full": "145", 
+            "url": "http://graeca.patristica.net/#t145"
+        }, 
+        {
+            "title_full": "146", 
+            "url": "http://graeca.patristica.net/#t146"
+        }, 
+        {
+            "title_full": "147", 
+            "url": "http://graeca.patristica.net/#t147"
+        }, 
+        {
+            "title_full": "148", 
+            "url": "http://graeca.patristica.net/#t148"
+        }, 
+        {
+            "title_full": "149", 
+            "url": "http://graeca.patristica.net/#t149"
+        }, 
+        {
+            "title_full": "150", 
+            "url": "http://graeca.patristica.net/#t150"
+        }, 
+        {
+            "title_full": "151", 
+            "url": "http://graeca.patristica.net/#t151"
+        }, 
+        {
+            "title_full": "152", 
+            "url": "http://graeca.patristica.net/#t152"
+        }, 
+        {
+            "title_full": "153", 
+            "url": "http://graeca.patristica.net/#t153"
+        }, 
+        {
+            "title_full": "154", 
+            "url": "http://graeca.patristica.net/#t154"
+        }, 
+        {
+            "title_full": "155", 
+            "url": "http://graeca.patristica.net/#t155"
+        }, 
+        {
+            "title_full": "156", 
+            "url": "http://graeca.patristica.net/#t156"
+        }, 
+        {
+            "title_full": "157", 
+            "url": "http://graeca.patristica.net/#t157"
+        }, 
+        {
+            "title_full": "158", 
+            "url": "http://graeca.patristica.net/#t158"
+        }, 
+        {
+            "title_full": "159", 
+            "url": "http://graeca.patristica.net/#t159"
+        }, 
+        {
+            "title_full": "160", 
+            "url": "http://graeca.patristica.net/#t160"
+        }, 
+        {
+            "title_full": "161", 
+            "url": "http://graeca.patristica.net/#t161"
+        }
+    ], 
+    "title": "Patrologia Graeca", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://graeca.patristica.net/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

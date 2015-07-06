@@ -1,0 +1,584 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted 29 June 2011. Updated 14 January 2012]. Bulletin de la Soci\u00e9t\u00e9 d'\u00c9gyptologie, Gen\u00e8ve (BS\u00c9G)ISSN: 0255-6286. Le Bulletin de la Soci\u00e9t\u00e9 d'\u00c9gyptologie, Gen\u00e8ve (BS\u00c9G) (ISSN 0255-6286) est une publication scientifique consacr\u00e9e \u00e0 l'\u00c9gypte ancienne, incluant tous ses aspects (arch\u00e9ologie, religion, histoire, langue, etc. ) de la fin de la pr\u00e9histoire \u00e0 l'\u00e9poque copte. Les pages du Bulletin sont ouvertes \u00e0 tous les chercheurs et toutes les chercheuses qui d\u00e9sirent y publier leurs travaux (pour la pr\u00e9sentation des manuscrits, voir les recommandations aux auteurs). Les articles sont accept\u00e9s en fran\u00e7ais, allemand, italien et anglais. La publication de dessins et de photographies noir/blanc est la bienvenue. Le Bulletin est adress\u00e9 gratuitement aux membres de la Soci\u00e9t\u00e9 d'\u00c9gyptologie; les num\u00e9ros individuels peuvent \u00eatre command\u00e9s aupr\u00e8s de notre secr\u00e9tariat. Tous les articles des BS\u00c9G \u00e9puis\u00e9s (1 \u00e0 8, 11 et 13) sont t\u00e9l\u00e9chargeables au format pdf.", 
+    "domain": "www.segweb.ch", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {
+        "issn": {
+            "generic": [
+                "0255-6286"
+            ]
+        }
+    }, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "languages": [
+        "fr"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7683787952125464179", 
+            "resource_date": "2013-12-18T15:21:15.736-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:12:49.151615"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/06/partially-open-access-journal-bulletin.html", 
+            "resource_date": "2013-12-18T15:21:15.736-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:12:49.151632"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "budes-htm", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/Edito.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/Germo.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/Vycic.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/Gzryb.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/Kasse.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/Hari.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/Chabs.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/Doret.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/2Germ.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/2Kass.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/Schwa.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/3Chap.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/3Goed.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/3Kass.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/3Kuhn.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/3Vych.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/3Bonn.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/3Kas2.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/3Monn.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/3Hari.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Avan.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Vyci.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Chap.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Daum.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Funk.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Germ.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Hari.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Hofm.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Kass.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Kuhn.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Nage.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Petr.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Rati.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Satz.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Verg.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4Wess.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/4West.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/5Gavi.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/5Hari.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/5Kas1.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/5Kas2.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/5Vyci.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/5West.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/5Goyo.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/5Mart.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/5Rati.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/5Rocc.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/5Vall.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/5Fich.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/5Bibl.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/6Gavi.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/6Guar.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/6Hari.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/6Male.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/6Nagu.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/6Pata.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/6Petr.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/6Vyci.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/7Chap.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/7Don1.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/7Don2.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/7Dore.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/7Goed.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/7Hari.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/7Kass.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/7Mart.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/7Nagu.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/7Pata.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/7Rocc.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/7Bibl.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/8Alte.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/8Chap.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/8Germ.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/8Hari.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/8Kass.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/8Pata.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/8Peco.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/8Reev.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/8Rena.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/8Roca.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/8Schl.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/8Vand.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/8Vyci.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/8Fich.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/11Dewa.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/11Fond.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/11Chap.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/11Demb.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/11Gabo.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/11Grim.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/11Nagu.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/11Ogdo.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/11Pata.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/11Stru.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/11Vane.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/11Jans.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/11Bick.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/11Figu.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Hari.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Alte.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Bick.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Chap.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Dore.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Germ.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Goed.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Horn.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Kako.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Kass.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Krau.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Lavi.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Leon.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Mart.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Mott.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Mull.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Pata.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Pern.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Stae.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Stro.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Vand.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Verg.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Vern.pdf"
+        }, 
+        {
+            "title_full": "pdf", 
+            "url": "http://www.segweb.ch/fichpdf/13Vyci.pdf"
+        }
+    ], 
+    "title": "Bulletin de la Soci\u00e9t\u00e9 d'\u00c9gyptologie, Gen\u00e8ve", 
+    "title_alternates": [], 
+    "title_extended": "Bulletin de la Soci\u00e9t\u00e9 d'\u00c9gyptologie, Gen\u00e8ve (BS\u00c9G)", 
+    "type": null, 
+    "url": "http://www.segweb.ch/budes.htm", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

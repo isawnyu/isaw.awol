@@ -1,0 +1,182 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "BODO: Bibel+Orient Datenbank Online. The BIBLE+ORIENT Museum Database is a web based database created for the electronic management of ancient Near Eastern image and object data. The numerous data fields enable not only a precise cataloging of the museum inventory but also systematic searches for purposes of scientific research. Furthermore, the database admits the consultation of digitalized catalogs of the collections, the management of image series (e. g. slide shows), the making available of dynamic e-Learning content and the fast creation of PowerPoint presentations as well as publications. The user has at his disposal images in an unlimited amount of views for each object, each in the following four formats: thumbnail, normal size, PowerPoint format and print resolution. The idea of an internet database allows not only world wide access but also stimulates the cooperation between partners who want to share the data with one another. The database was designed so that image and object data from an unlimited number of institutions and private persons can be managed. Currently, we are working on national, European and global levels to include into our database objects from other iconographically relevant collections as well.", 
+    "domain": "www.bible-orient-museum.ch", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "BODO : Bibel+Orient Datenbank Online", 
+        "url": "http://www.bible-orient-museum.ch/bodo/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "data", 
+        "database"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3143127640145835153", 
+            "resource_date": "2014-12-28T11:29:26.636-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:52.987227"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/12/bodo-bibelorient-datenbank-online.html", 
+            "resource_date": "2014-12-28T11:29:26.636-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:52.987243"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3143127640145835153", 
+            "resource_date": "2014-12-28T11:29:26.636-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:06:52.991849"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/12/bodo-bibelorient-datenbank-online.html", 
+            "resource_date": "2014-12-28T11:29:26.636-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:06:52.991861"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:06:53.004130"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "bodo", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "BODO : Bibel+Orient Datenbank Online", 
+            "url": "http://www.bible-orient-museum.ch/bodo/"
+        }, 
+        {
+            "title_full": "Database", 
+            "url": "http://www.bible-orient-museum.ch/index.php/en/collections/online-database-bodo"
+        }, 
+        {
+            "title_full": "Applications", 
+            "url": "http://www.bible-orient-museum.ch/index.php/en/collections/online-database-bodo/148-verwendungsmoeglichkeiten"
+        }, 
+        {
+            "title_full": "Technical Data", 
+            "url": "http://www.bible-orient-museum.ch/index.php/en/collections/online-database-bodo/144-technische-daten"
+        }, 
+        {
+            "title_full": "Functional Range", 
+            "url": "http://www.bible-orient-museum.ch/index.php/en/collections/online-database-bodo/145-funktionsumfang"
+        }, 
+        {
+            "title_full": "Implementation Status", 
+            "url": "http://www.bible-orient-museum.ch/index.php/en/collections/online-database-bodo/146-implementierungsstatus"
+        }, 
+        {
+            "title_full": "BODO", 
+            "url": "http://www.bible-orient-museum.ch/index.php/en/collections/online-database-bodo/187-bodo"
+        }
+    ], 
+    "title": "BODO : Bibel+Orient Datenbank Online", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.bible-orient-museum.ch/bodo/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

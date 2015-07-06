@@ -1,0 +1,159 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Digitized Diseases. Digitised Diseases is an open access resource featuring human bones which have been digitised using 3D laser scanning, CT and radiography. The resource focuses on a wide range of pathological type specimens from archaeological and historical medical collections, specifically examples of chronic diseases which affect the human skeleton for which many of the physical changes are often not directly observable within clinical practice. Of major interest to many will be high fidelity photo-realistic digital representations of 3D bones that can be viewed, downloaded and manipulated on their computer, tablet or smartphone. Below are a random selection of models to view via our viewer, the viewer runs using webGL, which means that you have to use either Chrome or Firefox, iOS devices and some most android tablets are not capable of displaying our models online. Once the website goes live, the models will be able to be downloaded and viewed via meshlab on tablets/phones and desktops.", 
+    "domain": "www.digitiseddiseases.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Digitized Diseases", 
+        "url": "http://www.digitiseddiseases.org/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "forensic anthropology", 
+        "archaeology", 
+        "archaeological science"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4471375427302492056", 
+            "resource_date": "2013-12-09T11:47:39.992-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:09:00.439397"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/digitized-diseases.html", 
+            "resource_date": "2013-12-09T11:47:39.992-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:09:00.439412"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4471375427302492056", 
+            "resource_date": "2013-12-09T11:47:39.992-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:09:00.440756"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/12/digitized-diseases.html", 
+            "resource_date": "2013-12-09T11:47:39.992-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:09:00.440767"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:09:00.442194"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "www-digitiseddiseases-org", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Digitized Diseases", 
+            "url": "http://www.digitiseddiseases.org/"
+        }
+    ], 
+    "title": "Digitized Diseases", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.digitiseddiseases.org/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

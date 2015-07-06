@@ -1,0 +1,319 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 14 December 2009. Updated 12 January 2012]. BiASA - Periodici Italiani Digitalizzati. L'applicazione dei Periodici Italiani Digitalizzati rende disponibili, per la consultazione in linea, una banca dati di 117 testate, per un totale di 785. 321 immagini, possedute dalla Biblioteca e pubblicate tra il XVIII e i primi decenni del XX secolo. Si tratta di una importante realizzazione che, da un lato, risponde alle esigenze della salvaguardia del materiale e dall'altro, attraverso l'impiego della tecnologia digitale, consente una pi\u00f9 ampia fruizione, grazie alla consultazione da remoto dei testi. BiASA includes 117 titles of which 39 deal more or less directly with Antiquity:.", 
+    "domain": "periodici.librari.beniculturali.it", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "BiASA - Periodici Italiani Digitalizzati", 
+        "url": "http://periodici.librari.beniculturali.it/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "languages": [
+        "it"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3594640992701880014", 
+            "resource_date": "2012-01-12T10:16:03.266-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:09.567866"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/biasa-periodici-italiani-digitalizzati.html", 
+            "resource_date": "2012-01-12T10:16:03.266-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:09.567881"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3594640992701880014", 
+            "resource_date": "2012-01-12T10:16:03.266-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:08:09.571571"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2009/12/biasa-periodici-italiani-digitalizzati.html", 
+            "resource_date": "2012-01-12T10:16:03.266-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:08:09.571582"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "volume", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:08:09.645701"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "periodici-librari-beniculturali-it", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "BiASA - Periodici Italiani Digitalizzati", 
+            "url": "http://periodici.librari.beniculturali.it/"
+        }, 
+        {
+            "title_full": "Africa Italiana (1927-1941)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=36&Start=0"
+        }, 
+        {
+            "title_full": "Annuario della R. scuola archeologica di Atene e delle missioni italiane in Oriente (1914-1931)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=83&Start=0"
+        }, 
+        {
+            "title_full": "Antologia Romana (1774-1797)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=61&Start=0"
+        }, 
+        {
+            "title_full": "Archivio della Societa romana di storia patria (1878-1934)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=25&Start=0"
+        }, 
+        {
+            "title_full": "Archivio storico artistico archeologico e letterario della citt\u00e0 e provincia di Roma (1875-1881)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=81&Start=0"
+        }, 
+        {
+            "title_full": "Atti della Reale Accademia dei Lincei (1873-1877)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=93&Start=0"
+        }, 
+        {
+            "title_full": "Atti della Reale Accademia dei Lincei, Memorie della Classe di Scienze Morali, Storiche e Filologich (1876-1948; 1969-1997)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=14&Start=0"
+        }, 
+        {
+            "title_full": "Atti della Reale Accademia dei Lincei, Rendiconti (1884-1929)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=30&Start=0"
+        }, 
+        {
+            "title_full": "Atti della Reale Accademia di archeologia, lettere e belle arti (1865-1930, LAC.)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=3&Start=0"
+        }, 
+        {
+            "title_full": "Atti della Societ\u00e0 di archeologia e belle arti per la provincia di Torino (1875-1897)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=58&Start=0"
+        }, 
+        {
+            "title_full": "Atti della Societ\u00e0 Piemontese di archeologia e belle arti (1910-1930)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=59&Start=0"
+        }, 
+        {
+            "title_full": "Atti e memorie dell'Istituto italiano di numismatica (1913-1934)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=112&Start=0"
+        }, 
+        {
+            "title_full": "Bollettino della Societa piemontese di archeologia e belle arti (1917-1935, LAC.1935)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=94&Start=0"
+        }, 
+        {
+            "title_full": "Bollettino dell'Associazione archeologica romana (1911-1918;1923-1930, LAC.1923;1926-1927)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=54&Start=0"
+        }, 
+        {
+            "title_full": "Bollettino di filologia classica (1918-1933)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=110&Start=0"
+        }, 
+        {
+            "title_full": "Bullettino archeologico italiano (1861-1862)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=17&Start=0"
+        }, 
+        {
+            "title_full": "Bullettino archeologico napoletano (1842-1860)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=16&Start=0"
+        }, 
+        {
+            "title_full": "Bullettino del Museo dell'impero romano (1930)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=45&Start=0"
+        }, 
+        {
+            "title_full": "Bullettino della Commissione Archeologica Comunale di Roma (1872-1930)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=44&Start=0"
+        }, 
+        {
+            "title_full": "Bullettino dell'Instituto di corrispondenza archeologica (1829-1853;1856-1885)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=49&Start=0"
+        }, 
+        {
+            "title_full": "Bullettino di archeologia cristiana (1863-1894)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=18&Start=0"
+        }, 
+        {
+            "title_full": "Bullettino di numismatica e sfragistica per la storia d'Italia (1882-1887, LAC.1887)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=89&Start=0"
+        }, 
+        {
+            "title_full": "Bullettino di paletnologia italiana (1875-1931)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=15&Start=0"
+        }, 
+        {
+            "title_full": "Cronachetta mensuale di scienze naturali e d'archeologia (1885-1887; 1888-1890; 1891-1893; 1896)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=80&Start=0"
+        }, 
+        {
+            "title_full": "Dissertazioni della Pontificia Accademia romana di archeologia (1821-1921)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=29&Start=0"
+        }, 
+        {
+            "title_full": "Memorie della Reale Accademia di archeologia, lettere e belle arti / Societa reale di Napoli (1911-1919)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=113"
+        }, 
+        {
+            "title_full": "Memorie dell'Accademia di archeologia, lettere e belle arti di Napoli (1911-1919)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=113&Start=0"
+        }, 
+        {
+            "title_full": "Memorie Enciclopediche Romane sulle belle arti, antichit\u00e0 Ec. (1807)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=108&Start=0"
+        }, 
+        {
+            "title_full": "Memorie romane di antichit\u00e0 e di belle arti (1824-1827)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=77&Start=0"
+        }, 
+        {
+            "title_full": "Miscellanea della R. Societ\u00e0 Romana di Storia Patria (1882-1888;1920)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=100&Start=0"
+        }, 
+        {
+            "title_full": "Monumenti antichi (1890-1931)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=48&Start=0"
+        }, 
+        {
+            "title_full": "Museo italiano di antichit\u00e0 classica (1885-1890)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=26&Start=0"
+        }, 
+        {
+            "title_full": "Notiziario archeologico, Ministero delle Colonie (1915-1927)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=57&Start=0"
+        }, 
+        {
+            "title_full": "Notizie degli scavi di antichit\u00e0 (1884-1929)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=31&Start=0"
+        }, 
+        {
+            "title_full": "Nuovo bullettino di archeologia cristiana (1895-1922)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=19&Start=0"
+        }, 
+        {
+            "title_full": "Periodico di numismatica e sfragistica per la storia d'Italia (1868-1874) Rendiconto della Reale Accademia di Archeologia, Lettere e Belle Arti (1862-1864)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=50&Start=0"
+        }, 
+        {
+            "title_full": "Periodico di numismatica e sfragistica per la storia d'Italia (1868-1874) Rendiconto della Reale Accademia di Archeologia, Lettere e Belle Arti (1862-1864)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=118&Start=0"
+        }, 
+        {
+            "title_full": "Rendiconto Delle Tornate E Dei Lavori Dell' Accademia Di Archeologia, Lettere E Belle Arti (1887-1927; 1929-1934)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=92&Start=0"
+        }, 
+        {
+            "title_full": "Rivista di storia antica (1895-1910)", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=84&Start=0"
+        }, 
+        {
+            "title_full": "Studi Romani (1913-1922 (LAC.1922))", 
+            "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=9&Start=0"
+        }
+    ], 
+    "title": "BiASA - Periodici Italiani Digitalizzati", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://periodici.librari.beniculturali.it/", 
+    "url_alternates": [], 
+    "volume": "-", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

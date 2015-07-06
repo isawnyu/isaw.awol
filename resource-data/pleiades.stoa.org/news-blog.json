@@ -1,0 +1,190 @@
+{
+    "authors": [
+        "its developers", 
+        "users This blog is essential reading for contributors", 
+        "editors", 
+        "reviewers", 
+        "staff of partner projects"
+    ], 
+    "contributors": [], 
+    "description": "Pleiades Project Blog. News from the project written by its developers and users This blog is essential reading for contributors, editors, reviewers and staff of partner projects. It's where we'll announce site-wide projects, major maintenance work and new site or dataset features. The RSS feed for this blog is at http://pleiades. stoa. org/news/aggregator/RSS. HomePlacesDownloadsUpdatesDocsBlog.", 
+    "domain": "pleiades.stoa.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Pleiades Project Blog", 
+        "url": "http://pleiades.stoa.org/news/blog"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "blog", 
+        "Pleiades", 
+        "project"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6155643359293318287", 
+            "resource_date": "2011-12-07T15:04:30.306-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:01.431839"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/keeping-up-with-pleiades.html", 
+            "resource_date": "2011-12-07T15:04:30.306-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:01.431855"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6155643359293318287", 
+            "resource_date": "2011-12-07T15:04:30.306-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:11:01.433368"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/keeping-up-with-pleiades.html", 
+            "resource_date": "2011-12-07T15:04:30.306-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:11:01.433380"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "authors", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:11:01.442929"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "news-blog", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Pleiades Project Blog", 
+            "url": "http://pleiades.stoa.org/news/blog"
+        }, 
+        {
+            "title_full": "http://pleiades.stoa.org/news/aggregator/RSS", 
+            "url": "http://pleiades.stoa.org/news/blog/RSS"
+        }, 
+        {
+            "title_full": "Home", 
+            "url": "http://pleiades.stoa.org/home"
+        }, 
+        {
+            "title_full": "Places", 
+            "url": "http://pleiades.stoa.org/places"
+        }, 
+        {
+            "title_full": "Downloads", 
+            "url": "http://pleiades.stoa.org/downloads"
+        }, 
+        {
+            "title_full": "Updates", 
+            "url": "http://pleiades.stoa.org/news"
+        }, 
+        {
+            "title_full": "Docs", 
+            "url": "http://pleiades.stoa.org/docs"
+        }
+    ], 
+    "title": "Pleiades Project Blog", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://pleiades.stoa.org/news/blog", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

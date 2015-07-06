@@ -1,0 +1,158 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Chinese Civilization in Time and Space. In response of the demands of interdisciplinary research applications, this system aims to construct an integrated GIS-based application infrastructure within the spatial extent of China, in the timeframe of Chinese history, and with the contents of Chinese civilization. Although target users are primarily scholars, academic experts, and school teachers, it is also our goal to provide general spatial- and temporal-based applications This, we hope, will establish a feedback mechanism of continuously collecting research and application results to fertilize the contents of this system and elaborate the value of information integration. This system consists of three major components: basic geospatial materials, WebGIS integrated application environment, and thematic information. The fundamental base maps are based on Dr. Tan's \"The Historical Atlas of China\". \"The Historical Atlas of China\" provides users with Chinese historical features, covering Chinese history over the past 2000 years, from the ancient time to Qing dynasty. Furthermore, various historical atlas and remote sensing imagery are persistently geo-referenced and overlaid into the system to broaden the spatial and temporal scope.", 
+    "domain": "ccts.ascc.net", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Chinese Civilization in Time and Space", 
+        "url": "http://ccts.ascc.net/index.php?lang=en"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "Chinese", 
+        "time"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5731995781517440503", 
+            "resource_date": "2011-03-21T13:53:57.626-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:30.430103"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/chinese-civilization-in-time-and-space.html", 
+            "resource_date": "2011-03-21T13:53:57.626-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:30.430120"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5731995781517440503", 
+            "resource_date": "2011-03-21T13:53:57.626-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:30.431628"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/03/chinese-civilization-in-time-and-space.html", 
+            "resource_date": "2011-03-21T13:53:57.626-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:30.431640"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:30.433118"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "9972e8f677cb3394a52aa7d3e845179ec6575a0b", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Chinese Civilization in Time and Space", 
+            "url": "http://ccts.ascc.net/index.php?lang=en"
+        }
+    ], 
+    "title": "Chinese Civilization in Time and Space", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://ccts.ascc.net/index.php?lang=en", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

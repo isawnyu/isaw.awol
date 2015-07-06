@@ -1,0 +1,628 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[Firsts posted in AWOL 3 December 2010. Updated 20 March 2015]. UC Press E-Books Collection, 1982-2004, includes almost 2,000 books from academic presses on a range of topics, including art, science, history, music, religion, and fiction. Access to the entire collection of electronic books is open to all University of California faculty, staff, and students, while more than 700 of the titles are available to the public. Print versions of many of the electronic books can be purchased directly from the publishers. Browse by Subject. Browse Public Titles Open access books in the category Classics, include the following 42 titles:.", 
+    "domain": "publishing.cdlib.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "UC Press E-Books Collection", 
+        "url": "http://publishing.cdlib.org/ucpressebooks/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "collection", 
+        "digital library", 
+        "library"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5258126033649490963", 
+            "resource_date": "2015-03-22T09:11:43.822-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:08.446141"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/uc-press-e-books-collection.html", 
+            "resource_date": "2015-03-22T09:11:43.822-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:08.446156"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5258126033649490963", 
+            "resource_date": "2015-03-22T09:11:43.822-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:08.451879"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2010/12/uc-press-e-books-collection.html", 
+            "resource_date": "2015-03-22T09:11:43.822-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:08.451893"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "volume", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:09.239896"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "ucpressebooks", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "UC Press E-Books Collection", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/"
+        }, 
+        {
+            "title_full": "Browse by Subject", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?facet=subject;rights=Public;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Browse Public Titles", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?browse-title=aa;sort=title;rights=Public;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Archaeology", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Archaeology;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "European History", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=European%20History;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft4000057p"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft4000057p;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Classical Religions", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classical%20Religions;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "Classical History", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classical%20History;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft3d5nb1n1"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft3d5nb1n1;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Ancient History", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Ancient%20History;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft5290060z"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft5290060z;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Classical Politics", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classical%20Politics;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft2p30058m"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft2p30058m;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Religion", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Religion;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft729007zj"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft729007zj;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Literature", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Literature;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "Classical Literature and Language", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classical%20Literature%20and%20Language;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "Literary Theory and Criticism", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Literary%20Theory%20and%20Criticism;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft3d5nb1mh"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft3d5nb1mh;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Comparative Literature", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Comparative%20Literature;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "Poetry", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Poetry;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft3h4nb22c"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft3h4nb22c;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Art and Architecture", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Art%20and%20Architecture;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft0q2n99ng"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft0q2n99ng;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft1f59n77b;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft0m3nb0cs"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft0m3nb0cs;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft40000565"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft40000565;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Christianity", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Christianity;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft0489n6b4"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft0489n6b4;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Philosophy", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Philosophy;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft2199n7gn"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft2199n7gn;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Language and Linguistics", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Language%20and%20Linguistics;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft8v19p2nc"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft8v19p2nc;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "History", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=History;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft1x0nb0dk"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft1x0nb0dk;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Classical Philosophy", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classical%20Philosophy;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft0000035f"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft0000035f;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Cultural Anthropology", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Cultural%20Anthropology;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#kt0m3nc3rb"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/kt0m3nc3rb;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Art History", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Art%20History;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft4r29p0kg"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft4r29p0kg;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Military History", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Military%20History;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft967nb61p"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft967nb61p;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=1;rmode=showDescrip#ft3f59n8b0"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft3f59n8b0;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Economics and Business", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Economics%20and%20Business;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft3s2005h6"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft3s2005h6;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Art", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Art;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft4199n900"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft4199n900;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft1q2nb0x1"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft1q2nb0x1;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Medieval Studies", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Medieval%20Studies;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "Renaissance History", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Renaissance%20History;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft6j49p0qv"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft6j49p0qv;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft88700889"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft88700889;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#kt9x0nc9qg"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/kt9x0nc9qg;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft0z09n7fd;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft0f59n6vv"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft0f59n6vv;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Social and Political Thought", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Social%20and%20Political%20Thought;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft029002rv"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft029002rv;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft3199n81q"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft3199n81q;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft6g50071w"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft6g50071w;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft267nb1f9"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft267nb1f9;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Politics", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Politics;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft109n99zv"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft109n99zv;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft8h4nb53w;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Theatre", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Theatre;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft7489p15r"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft7489p15r;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft1g500491"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft1g500491;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft6k4007sx"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft6k4007sx;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Women's Studies", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Women%27s%20Studies;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft4p3006f9"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft4p3006f9;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Political Theory", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Political%20Theory;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "Intellectual History", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Intellectual%20History;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft767nb497"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft767nb497;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "European Literature", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=European%20Literature;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "Folklore and Mythology", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Folklore%20and%20Mythology;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=21;rmode=showDescrip#ft2m3nb18b"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft2m3nb18b;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Social Theory", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Social%20Theory;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "more", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Classics;subject-ucp-join=exact;rights=Public;sort=title;style=eschol;brand=eschol;startDoc=41;rmode=showDescrip#ft9p300997"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft9p300997;smode=moreLike;style=eschol;brand=eschol"
+        }, 
+        {
+            "title_full": "Literature in Translation", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?subject-ucp=Literature%20in%20Translation;subject-ucp-join=exact;style=eschol;smode=simple;rmode=none;brand=eschol"
+        }, 
+        {
+            "title_full": "Similar Items", 
+            "url": "http://publishing.cdlib.org/ucpressebooks/search?identifier=13030/ft9w1009xv;smode=moreLike;style=eschol;brand=eschol"
+        }
+    ], 
+    "title": "UC Press E-Books Collection", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://publishing.cdlib.org/ucpressebooks/", 
+    "url_alternates": [], 
+    "volume": "-", 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

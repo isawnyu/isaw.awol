@@ -1,0 +1,110 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[14 October 2013: Arch\u00e4ologische Informationen initiates.", 
+    "domain": "archiv.ub.uni-heidelberg.de", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
+    "languages": [
+        "de"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8173056274322160223", 
+            "resource_date": "2013-10-17T06:01:56.483-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:13:18.940741"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-journal-archaologische.html", 
+            "resource_date": "2013-10-17T06:01:56.483-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:13:18.940756"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "ojs-index-php-arch-inf-index", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Bd. 35 (2012): Arch\u00e4ologische Informationen", 
+            "url": "http://archiv.ub.uni-heidelberg.de/ojs/index.php/arch-inf/issue/view/1211"
+        }, 
+        {
+            "title_full": "Bd. 34 (2011): Arch\u00e4ologische Informationen", 
+            "url": "http://archiv.ub.uni-heidelberg.de/ojs/index.php/arch-inf/issue/view/1230"
+        }, 
+        {
+            "title_full": "Bd. 33, Nr. 2 (2010): Arch\u00e4ologische Informationen", 
+            "url": "http://archiv.ub.uni-heidelberg.de/ojs/index.php/arch-inf/issue/view/1232"
+        }, 
+        {
+            "title_full": "Bd. 33, Nr. 1 (2010): Arch\u00e4ologische Informationen", 
+            "url": "http://archiv.ub.uni-heidelberg.de/ojs/index.php/arch-inf/issue/view/1231"
+        }, 
+        {
+            "title_full": "Bd. 32, Nr. 1&2 (2009): Arch\u00e4ologische Informationen", 
+            "url": "http://archiv.ub.uni-heidelberg.de/ojs/index.php/arch-inf/issue/view/1233"
+        }
+    ], 
+    "title": "Arch\u00e4ologische Informationen", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://archiv.ub.uni-heidelberg.de/ojs/index.php/arch-inf/index", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

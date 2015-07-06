@@ -1,0 +1,208 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Database and Dictionary of Greek Loanwords in Coptic (DDGLC). The DDGLC project is hosted by the Egyptological Institute -Georg Steindorff- of the University of Leipzig and funded by the Deutsche Forschungs-gemeinschaft as a long-term project with a projected lifespan ranging through 2024. The DDGLC project seeks to produce a systematic, comprehensive and detailed lexicographical compilation and description of Greek loanwords as attested in the entire Coptic corpus through every dialect, each kind of text, and in pre-Coptic Egyptian. The project will thus eventually record 1500 years of contact-induced language change of the Egyptian-Coptic language. The results of the project shall be made available in an online database and in a printed dictionary. The core tool of the DDGLC project is currently a relational database designed to connect linguistic and extra-linguistic data concerning types and tokens of all identifiable Greek loanwords in Coptic.", 
+    "domain": "www.uni-leipzig.de", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Database and Dictionary of Greek Loanwords in Coptic (DDGLC)", 
+        "url": "http://www.uni-leipzig.de/~ddglc/index.html"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "database", 
+        "egyptology", 
+        "dictionaries", 
+        "Greek", 
+        "lexicography", 
+        "Coptic", 
+        "papyrology", 
+        "data"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5980843970265487750", 
+            "resource_date": "2014-06-10T10:52:28.535-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:54.751106"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/06/database-and-dictionary-of-greek.html", 
+            "resource_date": "2014-06-10T10:52:28.535-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:54.751123"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5980843970265487750", 
+            "resource_date": "2014-06-10T10:52:28.535-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-06T13:10:54.755210"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2014/06/database-and-dictionary-of-greek.html", 
+            "resource_date": "2014-06-10T10:52:28.535-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-06T13:10:54.755223"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-06T13:10:54.793903"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "~ddglc-index-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Database and Dictionary of Greek Loanwords in Coptic (DDGLC)", 
+            "url": "http://www.uni-leipzig.de/~ddglc/index.html"
+        }, 
+        {
+            "title_full": "HOME", 
+            "url": "http://www.uni-leipzig.de/%7Eddglc/index.html"
+        }, 
+        {
+            "title_full": "Project", 
+            "url": "http://www.uni-leipzig.de/%7Eddglc/project.html#start"
+        }, 
+        {
+            "title_full": "Staff", 
+            "url": "http://www.uni-leipzig.de/%7Eddglc/staff.html#start"
+        }, 
+        {
+            "title_full": "Co-operation", 
+            "url": "http://www.uni-leipzig.de/%7Eddglc/coop.html#start"
+        }, 
+        {
+            "title_full": "Activities", 
+            "url": "http://www.uni-leipzig.de/%7Eddglc/activities.html#start"
+        }, 
+        {
+            "title_full": "Contact", 
+            "url": "http://www.uni-leipzig.de/%7Eddglc/contact.html#start"
+        }, 
+        {
+            "title_full": "Resources", 
+            "url": "http://www.uni-leipzig.de/%7Eddglc/docs.html"
+        }, 
+        {
+            "title_full": "Announcements", 
+            "url": "http://www.uni-leipzig.de/%7Eddglc/notice.html"
+        }, 
+        {
+            "title_full": "DDGLC Bibliography", 
+            "url": "http://www.uni-leipzig.de/%7Eddglc/docs.html#biblio"
+        }, 
+        {
+            "title_full": "Gertrud Bauer card index", 
+            "url": "http://www.uni-leipzig.de/%7Eddglc/docs.html#cdgb"
+        }, 
+        {
+            "title_full": "Demonstration Videos DB", 
+            "url": "http://www.uni-leipzig.de/%7Eddglc/docs.html#dbvideos"
+        }
+    ], 
+    "title": "Database and Dictionary of Greek Loanwords in Coptic (DDGLC)", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.uni-leipzig.de/~ddglc/index.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}
