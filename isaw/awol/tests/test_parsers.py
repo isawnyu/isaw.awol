@@ -42,14 +42,13 @@ def test_parsers_init():
     parsers = AwolParsers()
     plist = parsers.parsers
     # trap for untested addition of a parser
-    assert_equals(len(plist.keys()), 6)    
+    assert_equals(len(plist.keys()), 5)    
     # test for known parsers
     assert_true('generic' in plist.keys())
     assert_true('generic-single' in plist.keys())
     assert_true('www.ascsa.edu.gr' in plist.keys())
     assert_true('oi.uchicago.edu' in plist.keys())
     assert_true('othes.univie.ac.at' in plist.keys())
-    assert_true('www.ancientgrains.org' in plist.keys())
 
 @with_setup(setup_function, teardown_function)
 def test_parsers_get_domains():
@@ -94,6 +93,7 @@ def test_parsers_generic_external_biblio():
     assert_equals(r.identifiers, {'uri': ['http://www.numismaticadellostato.it/web/pns/notiziario']})
     assert_equals(r.title, u'Notiziario del Portale Numismatico dello Stato')
     assert_equals(sorted(r.keywords), sorted([u'journal', u'Italy', u'open access', u'numismatics']))
+    assert_equals(r.provenance[0]['resource_date'], '2015-02-03T17:54:05.0')
 
 @with_setup(setup_function, teardown_function)
 def test_parsers_persee():
@@ -143,9 +143,9 @@ def test_parsers_ascsa():
     r = resources[0]
     assert_equals(r.title, u'ákoue News')
     assert_equals(r.url, 'http://www.ascsa.edu.gr/index.php/publications/newsletter/')
-    assert_equals(r.description, u"\xe1koue News. The School's newsletter, \xe1koue, has become a new, shorter print publication as we transition an increasing number of news articles and stories to the School website. Often there will be links to additional photos or news in the web edition that we haven't room to place in the print edition. Also supplemental articles that did not make it into print will be placed on the.")
+    assert_equals(r.description, u"\xe1koue News. The School's newsletter, \xe1koue, has become a new, shorter print publication as we transition an increasing number of news articles and stories to the School website. Often there will be links to additional photos or news in the web edition that we haven't room to place in the print edition. Also supplemental articles that did not make it into print will be placed on the newsletter's home page here. The last issue of \xe1koue had asked for subscribers to notify us of their delivery preference--print or web edition. If you have do wish to have a print edition mailed to you, please contact us. See.")
     assert_equals(r.domain, 'www.ascsa.edu.gr')
-    assert_equals(r.keywords, [u'ASCSA'])
+    assert_equals(r.keywords, [u'American School of Classical Studies at Athens', u'ASCSA'])
     #assert_equals(len(r.subordinate_resources), 0)
 
 @with_setup(setup_function, teardown_function)
@@ -170,7 +170,7 @@ def test_parsers_oi():
     parsers = AwolParsers()
     resources = parsers.parse(a)
     r = resources[0]
-    assert_equals(r.description, u"A Call to Protect Egyptian Antiquities, Cultural Heritage and Tourism Economy. We, the undersigned, strongly urge immediate action to protect Egyptian antiquities, important sites, and cultural heritage. In so doing, significant archaeological artifacts and irreplaceable historic objects will be preserved. Importantly, such protection will help the Egyptian economy in the wake of political revolution. Such an initiative will also help stem illicit international crime organizations that have links to money laundering, human trafficking and the drug trade. Whereas, Egyptian antiquities and sites are among the most historically significant and important in the world, Whereas, Egypt has numerous museums and historical sites, some of which are victims of ongoing looting, including recent reports that artifacts originally from Tutankhamen\u2019s tomb have been stolen, Whereas, more than 50 ancient Egyptian artifacts have been reported stolen from the Cairo Museum alone, Whereas, UNESCO has called for international mobilization to block cultural artifacts stolen from Egypt, Whereas, the tourism industry in Egypt is closely tied to cultural expeditions, employs one in eight Egyptians, accounts for some $11 billion in revenue for the Egyptian economy, and is the one of the largest sectors of the Egyptian economy.")
+    assert_equals(r.description, u"A Call to Protect Egyptian Antiquities, Cultural Heritage and Tourism Economy. We, the undersigned, strongly urge immediate action to protect Egyptian antiquities, important sites, and cultural heritage. In so doing, significant archaeological artifacts and irreplaceable historic objects will be preserved. Importantly, such protection will help the Egyptian economy in the wake of political revolution. Such an initiative will also help stem illicit international crime organizations that have links to money laundering, human trafficking and the drug trade. Whereas, Egyptian antiquities and sites are among the most historically significant and important in the world, Whereas, Egypt has numerous museums and historical sites, some of which are victims of ongoing looting, including recent reports that artifacts originally from Tutankhamen\u2019s tomb have been stolen, Whereas, more than 50 ancient Egyptian artifacts have been reported stolen from the Cairo Museum alone, Whereas, UNESCO has called for international mobilization to block cultural artifacts stolen from Egypt, Whereas, the tourism industry in Egypt is closely tied to cultural expeditions, employs one in eight Egyptians, accounts for some $11 billion in revenue for the Egyptian economy, and is the one of the largest sectors of the Egyptian economy. Read the rest here.")
 
 @with_setup(setup_function, teardown_function)
 def test_parsers_issue56():
@@ -278,4 +278,23 @@ def test_parsers_when_rome_attacks():
     assert_equals(sorted([r.year for r in resources[1:]]), [None, u'1888', u'1889', u'1890', u'1891', u'1892', u'1893', u'1895', u'1896', u'1897', u'1898', u'1899', u'1900'])
     assert_equals(sorted(list(set([r.volume for r in resources[1:]]))), [None, u'10', u'11', u'12', u'13', u'14', u'15', u'3', u'4', u'5', u'6', u'7', u'8'])
 
+@with_setup(setup_function, teardown_function)
+def test_parsers_umcj():
+    file_name = os.path.join(PATH_TEST_DATA, 'post-umcj.xml')
+    a = AwolArticle(atom_file_name=file_name)
+    parsers = AwolParsers()
+    resources = parsers.parse(a)
+    assert_equals(len(resources), 11)
+    rtop = resources[0]
+    assert_equals(rtop.title, u'University Museums and Collections Journal')
+    assert_equals(rtop.url, 'http://edoc.hu-berlin.de/browsing/umacj/index.php')
+    assert_equals(len(rtop.subordinate_resources), 10)
+    assert_equals(sorted(list(set([r.year for r in resources[1:]]))), [u'2001', u'2002', u'2003', u'2004', u'2005', u'2006', u'2008', u'2009', u'2010', u'2011'])
+    assert_equals(sorted(list(set([r.volume for r in resources[1:]]))), [None, u'1', u'2', u'3', u'4'])
 
+@with_setup(setup_function, teardown_function)
+def test_parsers_umcj():
+    file_name = os.path.join(PATH_TEST_DATA, 'post-waseda.xml')
+    a = AwolArticle(atom_file_name=file_name)
+    parsers = AwolParsers()
+    resources = parsers.parse(a)

@@ -33,7 +33,7 @@ def test_resource_init():
     assert_is_instance(r.subordinate_resources, list)
     assert_is_instance(r.identifiers, dict)
     assert_is_instance(r.keywords, list)
-    assert_is_instance(r.language, list)
+    assert_is_instance(r.languages, list)
     assert_is_instance(r.provenance, list)
     assert_is_instance(r.related_resources, list)
     assert_is_none(r.title)
@@ -68,7 +68,7 @@ def test_json_dumps():
     r.url = unicode("http://www.unimc.it/riviste/index.php/cap-cult/index")
     r.zotero_id = None 
     js = r.json_dumps()
-    assert_equals(js, '{"subordinate_resources": [], "domain": "www.unimc.it", "provenance": [], "description": "Il capitale culturale (ISSN: 2039-2362) \\\\u00e8 la rivista del Dipartimento di Beni Culturali dell\\\\u2019Universit\\\\u00e0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\\\\u2019arte) unite dal comune obiettivo della implementazione di attivit\\\\u00e0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.", "language": ["it", 1.0], "title": "Il capitale culturale", "url": "http://www.unimc.it/riviste/index.php/cap-cult/index", "identifiers": {"issn": "2039-2362"}, "related_resources": [], "zotero_id": null, "keywords": ["antiquity", "archaeology", "art", "cultural heritage", "culture", "heritage", "history", "journal", "law", "museums", "open access"], "history": []}')
+    assert_equals(js, '{"subordinate_resources": [], "domain": "www.unimc.it", "contributors": [], "title_alternates": [], "frequency": null, "year": null, "keywords": ["antiquity", "archaeology", "art", "cultural heritage", "culture", "heritage", "history", "journal", "law", "museums", "open access"], "url_alternates": [], "form": null, "title": "Il capitale culturale", "provenance": [], "editors": [], "languages": [], "zenon_id": null, "issue": null, "start_date": null, "publishers": [], "related_resources": [], "description": "Il capitale culturale (ISSN: 2039-2362) \\\\u00e8 la rivista del Dipartimento di Beni Culturali dell\\\\u2019Universit\\\\u00e0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\\\\u2019arte) unite dal comune obiettivo della implementazione di attivit\\\\u00e0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.", "end_date": null, "title_extended": null, "volume": null, "language": ["it", 1.0], "issuance": null, "extent": null, "authors": [], "is_part_of": null, "places": [], "url": "http://www.unimc.it/riviste/index.php/cap-cult/index", "type": null, "identifiers": {"issn": "2039-2362"}, "issued_dates": null, "zotero_id": null, "responsibility": []}')
 
 @with_setup(setup_function, teardown_function)
 def test_json_load():

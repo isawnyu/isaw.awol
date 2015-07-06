@@ -4,7 +4,6 @@
 
 import logging
 import os
-import re
 
 from nose import with_setup
 from nose.tools import *

@@ -75,7 +75,7 @@ class Parser(AwolDomainParser):
                     'languages': self._get_language(clean_string(a.get_text())),
                     'title': clean_string(a.get_text()),
                     'url': a.get('href'),
-                    'year': clean_string(person.next_sibling),
+                    'year': clean_string(unicode(person.next_sibling)),
                 }
                 resource = self._make_resource(**params)
 

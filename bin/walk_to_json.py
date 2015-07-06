@@ -14,7 +14,7 @@ import json
 import logging
 import os
 import pprint
-import re
+import regex as re
 import sys
 import traceback
 
@@ -22,8 +22,8 @@ from pyzotero import zotero
 from isaw.awol import awol_article, resource
 from isaw.awol.parse.awol_parsers import AwolParsers
 
-RX_URLFLAT = re.compile(u'[=+\?\{\}\{\}\(\)\\\-_&%#/,\.;:]+')
-RX_DEDUPEH = re.compile(u'[-]+')
+RX_URLFLAT = re.compile(r'[=+\?\{\}\{\}\(\)\\\-_&%#/,\.;:]+')
+RX_DEDUPEH = re.compile(r'[-]+')
 DEFAULTLOGLEVEL = logging.WARNING
 
 def arglogger(func):
@@ -56,10 +56,9 @@ def main (args):
         for file_name in file_list:
             if 'post-' in file_name and file_name[-4:] == '.xml':
                 walk_count = walk_count + 1
-                if args.progress and walk_count % 100 == 1:
-                    logger.info('\n*****************************\nPERCENT COMPLETE: {0:.0f}\n'.format(float(walk_count)/4261.0*100.0))
+                if args.progress and walk_count % 50 == 1:
+                    print('\n*****************************\nPERCENT COMPLETE: {0:.0f}\n'.format(float(walk_count)/4261.0*100.0))
                 logger.info('\n=========================================================================================\nARTICLE:\n')
-                logger.debug('handling {0}'.format(file_name))
                 target = os.path.join(dir_name, file_name)
                 try:
                     a = awol_article.AwolArticle(atom_file_name=target)
@@ -80,16 +79,13 @@ def main (args):
                             length = len(resources)
                         except TypeError:
                             length = 0
-                            logger.warning('found {0} resources in {1}'.format(length, file_name))
                         if length > 0:
-                            logger.debug('preparing to save {0} resources'.format(length))
                             for i,r in enumerate(resources):
                                 logger.info(u'\n-----------------------------------------------------------------------------------------\nRESOURCE\n')
-                                logger.info(u'preparing to save resource for {0}'.format(r.url))
-                                logger.debug(u'domain: {0}'.format(r.domain))
+                                logger.info(u'url: {0}'.format(r.url))
                                 logger.info(u'title: {0}'.format(r.title))
-                                this_dir = os.path.join(dest_dir, r.domain)
-                                logger.debug('saving output to subdirectory: {0}'.format(this_dir))
+                                domain = r.domain
+                                this_dir = os.path.join(dest_dir, domain)
                                 try:
                                     os.makedirs(this_dir)
                                 except OSError as exc:
@@ -97,46 +93,46 @@ def main (args):
                                         pass
                                     else: raise
                                 try:
-                                    domain_index = index[r.domain]
+                                    domain_index = index[domain]
                                 except KeyError:
-                                    domain_index = index[r.domain] = {}
-                                resource_key = RX_DEDUPEH.sub(u'-', RX_URLFLAT.sub(u'-', r.url.split(r.domain)[-1][1:]).lower()).strip(u'-')
-                                if resource_key == u'':
-                                    resource_key = r.domain.replace(u'.', u'-')
-                                elif len(resource_key) > 200:
-                                    if u'?' in r.url:
-                                        m = hashlib.sha1()
-                                        m.update(r.url)
-                                        resource_key = unicode(m.hexdigest())
-                                    else:
-                                        resource_keylets = resource_key.split(u'-')
-                                        resource_key = u''
-                                        for i,keylet in enumerate(resource_keylets):
-                                            if len(resource_key) + len(keylet) > 200:
-                                                break
-                                            resource_key = u'-'.join((resource_key, keylet))
-                                logger.debug(resource_key)
-                                resource_key = resource_key.encode('utf-8')
+                                    domain_index = index[domain] = {}
+                                stub = r.url.split(domain)[-1][1:].encode('utf-8')
+                                if stub == '' or stub == '/':
+                                    stub = domain.encode('utf-8').replace('.', '-')
+                                if stub[-1] == '/':
+                                    stub = stub[:-1]
+                                if len(stub) > 80 or '?' in stub or '&' in stub or '%' in stub or ' ' in stub:
+                                    m = hashlib.sha1()
+                                    m.update(stub)
+                                    resource_key = m.hexdigest()
+                                else:
+                                    resource_key = RX_DEDUPEH.sub('-', RX_URLFLAT.sub('-', stub))
                                 filename = '.'.join((resource_key, 'json'))
-                                this_path = os.path.join(this_dir, filename)                                
-                                if resource_key in domain_index.keys():
+                                this_path = os.path.join(this_dir, filename)
+                                try:
+                                    domain_resources = domain_index[resource_key]
+                                except KeyError:
+                                    pass
+                                else:                    
                                     # collision! load earlier version from disk and merge
                                     logger.warning('collision in {0}: {1}/{2}'.format(a.url, r.domain, resource_key))
-                                    #print('current:\n')
-                                    #print(unicode(r))
                                     r_earlier = resource.Resource()
                                     r_earlier.json_load(this_path)
-                                    #print('earlier:\n')
-                                    #print(unicode(r_earlier))
-                                    r_merged = resource.merge(r_earlier, r)
-                                    #print('merged:\n')
-                                    #print(unicode(r_merged))
-                                    #raise Exception
+                                    try:
+                                        r_merged = resource.merge(r_earlier, r)
+                                    except ValueError, e:
+                                        logger.error(unicode(e) + u' while trying to merge; saving separately')
+                                        m = hashlib.sha1()
+                                        m.update(r.url)
+                                        resource_key = m.hexdigest()
+                                        filename = '.'.join((resource_key, 'json'))
+                                        this_path = os.path.join(this_dir, filename)
+                                    else:
+                                        r = r_merged
                                     del r_earlier
-                                    r = r_merged
                                 r.resource_key = resource_key
                                 r.json_dump(this_path, formatted=True)
-                                logger.info(u'wrote resource to {0}'.format(this_path))
+                                logger.info(u'filename: {0}'.format(this_path))
                                 try:
                                     resource_title = r.extended_title
                                 except AttributeError:
@@ -177,7 +173,7 @@ def main (args):
             dash = dash+'-'
             i = i+1
         logger.info(dash)
-        logger.info('sorting resource list for domain {0}'.format(domain))
+        logger.info(u'sorting resource list for domain {0}'.format(domain))
         resource_list = sorted(index[domain].keys())
         logger.info('{0} unique resources in this domain'.format(len(resource_list)))
         resource_count = resource_count + len(resource_list)

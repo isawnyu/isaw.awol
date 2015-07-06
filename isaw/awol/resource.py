@@ -74,8 +74,6 @@ class Resource:
     def json_dump(self, filename, formatted=False):
         """Dump resource as JSON to a file."""
         dump = self.__dict__.copy()
-        #dump['related_resources'] = [r.copy() for r in self.related_resources]
-        #dump['subordinate_resources'] = [r.copy() for r in self.subordinate_resources]
         with open(filename, 'w') as f:
             if formatted:
                 try:
@@ -95,20 +93,6 @@ class Resource:
         """Parse resource from a json file."""
         with open(filename, 'r') as f:
             self.__dict__ = json.load(f)
-        #related = []
-        #for d in self.related_resources:
-        #    r = Resource()
-        #    for k,v in d.items():
-        #        setattr(r, k, v)
-        #    related.append(r)
-        #self.related_resources = related
-        #subordinate = []
-        #for d in self.subordinate_resources:
-        #    r = Resource()
-        #    for k,v in d.items():
-        #        setattr(r, k, v)
-        #    related.append(r)
-        #self.subordinate_resources = subordinate
 
     def package(self):
         """Return a summary package of resource information."""
@@ -187,12 +171,11 @@ class Resource:
                 d['fields'] = fields
             else:
                 d['fields'] = list(fields)
-
         self.provenance.append(d)
 
     def __str__(self):
-        
         return pprint.pformat(self.__dict__, indent=4, width=120)
+
 
 def merge(r1, r2):
     """Merge two resources into oneness."""
@@ -204,7 +187,6 @@ def merge(r1, r2):
     all_keys = list(set(k1 + k2))
     domain = r1.domain
     for k in all_keys:
-        #logger.debug("merging k={0}".format(k))
         modified = False
         v3 = None
         try:
@@ -218,7 +200,6 @@ def merge(r1, r2):
 
         if k in ['url',]:
             if v1 != v2:
-                #logger.warning(u'url mismatch in merge: {0} vs. {1}'.format(v1, v2))
                 if v1.startswith(v2):
                     v3 = v2
                     r3.__dict__['url_alternates'].append(v1)
@@ -226,7 +207,12 @@ def merge(r1, r2):
                     v3 = v1
                     r3.__dict__['url_alternates'].append(v2)
                 else:
-                    raise Exception(u'could not reconcile url mismatch in merge: {1} vs. {2}'.format(k, v1, v2))
+                    protocol1, path1 = v1.split('://')
+                    protocol2, path2 = v2.split('://')
+                    if path1 == path2 and (protocol1 == 'https' or protocol2 == 'https'):
+                        v3 = 'https://' + path1
+                    else:
+                        raise ValueError(u'could not reconcile url mismatch in merge: {1} vs. {2}'.format(k, v1, v2))
             else:
                 v3 = v1
         else:
@@ -263,14 +249,7 @@ def merge(r1, r2):
                 elif v1 is not None and v2 is None:
                     v3 = v1
                 else:
-                    print('\n\n\n#####\nkey: {0}'.format(k))
-                    print('##########\nv1:')
-                    print(unicode(v1))
-                    print(r1.__str__())
-                    print('##########\nv2:')
-                    print(unicode(v2))
-                    print(r2.__str__())
-                    raise Exception(u'cannot merge two resources in which the {0} field differs: "{1}" vs. "{2}"'.format(k, v1, v2))
+                    raise ValueError(u'cannot merge two resources in which the {0} field differs: "{1}" vs. "{2}"'.format(k, v1, v2))
             elif k == 'languages':
                 if len(v1) == 0 and len(v2) > 0:
                     v3 = copy.deepcopy(v2)
@@ -307,25 +286,30 @@ def merge(r1, r2):
                                 v3[idfam].extend(thisval2)
                             v3[idfam] = list(set(v3[idfam]))
                         elif type(thisval1) == dict or type(thisval2) == dict:
-                            v3[idfam] = {}
-                            idtypes = list(set(thisval1.keys() + thisval2.keys()))
-                            for idtype in idtypes:
-                                thissubval1 = None
-                                thissubval2 = None
-                                try:
-                                    thissubval1 = v1[idfam][idtype]
-                                except KeyError:
-                                    pass
-                                try:
-                                    thissubval2 = v2[idfam][idtype]
-                                except KeyError:
-                                    pass
-                                v3[idfam][idtype] = []
-                                if thissubval1 is not None:
-                                    v3[idfam][idtype].extend(thissubval1)
-                                if thissubval2 is not None:
-                                    v3[idfam][idtype].extend(thissubval2)
-                                v3[idfam][idtype] = list(set(v3[idfam][idtype]))
+                            if thisval1 is None and thisval2 is not None:
+                                v3 = copy.deepcopy(v2)
+                            elif thisval1 is not None and thisval2 is None:
+                                v3 = copy.deepcopy(v1)
+                            else:
+                                v3[idfam] = {}
+                                idtypes = list(set(thisval1.keys() + thisval2.keys()))
+                                for idtype in idtypes:
+                                    thissubval1 = None
+                                    thissubval2 = None
+                                    try:
+                                        thissubval1 = v1[idfam][idtype]
+                                    except KeyError:
+                                        pass
+                                    try:
+                                        thissubval2 = v2[idfam][idtype]
+                                    except KeyError:
+                                        pass
+                                    v3[idfam][idtype] = []
+                                    if thissubval1 is not None:
+                                        v3[idfam][idtype].extend(thissubval1)
+                                    if thissubval2 is not None:
+                                        v3[idfam][idtype].extend(thissubval2)
+                                    v3[idfam][idtype] = list(set(v3[idfam][idtype]))
                 else:
                     v3 = {}
 

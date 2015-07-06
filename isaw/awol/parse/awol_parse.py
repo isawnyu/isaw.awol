@@ -11,7 +11,8 @@ This module defines the following classes:
 from copy import copy, deepcopy
 import logging
 import pkg_resources
-import re
+import pprint
+import regex as re
 import requests
 import sys
 
@@ -29,6 +30,7 @@ from isaw.awol.tools import mods
 DOMAINS_IGNORE = [
     'draft.blogger.com',
     'bobcat.library.nyu.edu',
+    'www.addthis.com',
     'cientworldonline.blogspot.com' # that there's a typo in a link somewhere in the blog
 ]
 DOMAINS_SELF = [
@@ -44,7 +46,8 @@ BIBLIO_SOURCES = {
             'mods': 'http://www.loc.gov/mods/v3'
         },
         'payload_xpath': '//rdf:Description[1]/mods:mods[1]',
-        'payload_type': 'application/mods+xml'
+        'payload_type': 'application/mods+xml',
+        'date_fixer': re.compile(ur'^(?P<year>\d{4})(?P<month>\d{2})(?P<day>\d{2})(?P<hour>\d{2})(?P<minute>\d{2})(?P<second>[\d\.]+)$')
     }
 }
 DOMAINS_BIBLIOGRAPHIC = BIBLIO_SOURCES.keys()
@@ -175,6 +178,12 @@ RX_ANALYTIC_TITLES = [
         'volume': 2,
         'year': 1
     },
+    # vol slash year (e.g. University Museums and Collections Journal 4/2011)
+    {
+        'rx': re.compile(r'^[^\d]*(\d+)\/(\d{4})[^\d]*$', re.IGNORECASE),
+        'volume': 1,
+        'year': 2,
+    },
     # year, then volume
     {
         'rx': re.compile(r'^[^\d]*(\d{4})\W*([\d\-]+)[^\d]*$', re.IGNORECASE),
@@ -186,6 +195,11 @@ RX_ANALYTIC_TITLES = [
         'rx': re.compile(r'^[^\d]*([\d\-]{1-4})\W*(\d{4})[^\d]*$', re.IGNORECASE),
         'volume': 1,
         'year': 2
+    },
+    # year only
+    {
+        'rx': re.compile(r'^[^\d]*(\d{4})[^\d]*$', re.IGNORECASE),
+        'year': 1,
     },
     # volume only
     {
@@ -225,25 +239,19 @@ class AwolBaseParser:
             urls = list(set(urls))
             domains = [domain_from_url(url) for url in urls]
             domains = list(set(domains))
-            #logger.debug(u'domain set: \n   {0}'.format(u'\n   '.join(domains)))
             domains = [domain for domain in domains if domain not in self.skip_domains]
-            #logger.debug(u'domain after skips: \n   {0}'.format(u'\n   '.join(domains)))
             if len(domains) > 1:
                 domains = [domain for domain in domains if domain not in self.bibliographic_domains]
             c['domains'] = domains
-        #logger.debug(u'get_domains got: \n   {0}'.format(u'\n   '.join(c['domains'])))
         return c['domains']
 
     def parse(self, article):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
-        logger.debug(u'parsing {0}'.format(article.url))
         self.reset(article.soup)
         resources = self._get_resources(article)
         return resources
 
     def reset(self, content_soup=None):
-        #logger = logging.getLogger(sys._getframe().f_code.co_name)
-        #logger.debug("******* reset!")
         self.content = {}
         c = self.content
         if content_soup is not None:
@@ -257,29 +265,20 @@ class AwolBaseParser:
 
     # private methods
     def _consider_anchor(self, a):
-        #logger = logging.getLogger(sys._getframe().f_code.co_name)
-        #logger.debug('skip urls: {0}'.format(', '.join(self.skip_urls)))
         url = a.get('href')
         if url is not None:
-            #logger.debug('filtering: {0}'.format(url))
             text = a.get_text()
             if len(text) > 0:
-                #logger.debug(u'text of a is: {0}'.format(text))
                 domain = domain_from_url(url)
-                #logger.debug('domain is: {0}'.format(domain))
                 if (domain in self.skip_domains
                 or url in self.skip_urls
                 or text in self.skip_text):
-                    #logger.debug('skipping!')
                     pass
                 else:
-                    #logger.debug('keeping!')
                     return True
             else:
-                #logger.debug('omitting: no text')
                 pass
         else:
-            #logger.debug('omitting: no url')
             pass
         return False
 
@@ -288,6 +287,7 @@ class AwolBaseParser:
         return filtered
 
     def _get_anchor_ancestor_for_title(self, anchor):
+
         a = anchor
         url = a.get('href')
         parent = a.find_parent('li')
@@ -299,21 +299,6 @@ class AwolBaseParser:
             while parent is not None and len([a for a in parent.find_all('a') if a.get('href') != url]) > 0:
                 prevous_parent = parent
                 parent = parent.parent
-            #parents = a.find_parents('span')
-            #i = 0
-            #while i < len(parents):
-            #    if len(parents[i].find_all('a')) > 1:
-            #        break
-            #    i = i+1
-            #i = i - 1
-            #if i > -1:
-            #    anchor_ancestor = parents[i]
-            #else:
-            #    parents = a.find_parents('p')
-            #    if len(parents) > 0 and len(parents[0].find_all('a')) == 1:
-            #        anchor_ancestor = parents[0]
-            #    else:
-            #        anchor_ancestor = a
             if previous_parent.name == 'body':
                 anchor_ancestor = anchor
             else:
@@ -321,47 +306,39 @@ class AwolBaseParser:
         return anchor_ancestor
 
     def _get_anchors(self):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
         c = self.content
         if c['anchors'] is not None:
-            #logger.debug('already have anchors')
             return c['anchors']
         soup = c['soup']
-        #logger.debug(u'finding anchors in: {0}'.format(unicode(soup))) 
         raw_anchors = [a for a in soup.find_all('a') if a.find_previous('a', href=a.get('href')) is None]
-        #logger.debug('raw anchors: {0}'.format(', '.join([a.get('href') for a in raw_anchors])))
         anchors = self._filter_anchors(raw_anchors)
         c['anchors'] = anchors
         return anchors
 
-    def _get_description(self, context=None):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
+    def _get_description(self, context=None, title=u''):
         if context is None:
             c = self.content
             soup = c['soup']
             first_node = soup.body.contents[0]
-            #logger.debug(u'context:\n\n{0}\n\n'.format(soup.prettify()))
             skip_first_anchor = True
         else:
             first_node = context
-            #logger.debug('special context!!')
             skip_first_anchor = False
 
-        stop_tags = ['a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'div', 'ol', 'li', 'table']
-
         def digdigdig(this_node, first_node, stop_tags, skip_first_anchor, previous_urls):
-            logger = logging.getLogger(sys._getframe().f_code.co_name)
-
             node_type = type(this_node)
             node_name = this_node.name
             try:
                 node_url = this_node.get('href')
             except AttributeError:
                 node_url = ''
-            #logger.debug('dig (nodetype: {nodetype}, name: {name}, url: {url})'.format(
-            #    nodetype=node_type, name=node_name, url=node_url))
+            if node_url is None:
+                node_url = ''
+            if '/' in node_url:
+                chunks = node_url.split('/')
+                if chunks[-1] in ['index.html', 'index.php', '', None]:
+                    node_url = '/'.join(chunks[:-1])
             results = []
-
             if (
                 this_node != first_node 
                 and node_name in stop_tags 
@@ -384,16 +361,21 @@ class AwolBaseParser:
                         )
                     )
                 ):
-                if node_name == 'a':
-                    previous_urls.append(node_url)
                 return (True, results)
-
             if node_name == 'a':
-                previous_urls.append(this_node.get('href'))
-            if node_name == 'br':
+                previous_urls.append(node_url)
+            try:
+                previous_text = normalize_space(this_node.previous_sibling.get_text())
+            except AttributeError:
+                previous_text = u''
+            try:
+                previous_last = previous_text[-1]
+            except IndexError:
+                previous_last = previous_text
+            if node_name == 'br' and previous_last != u'.':
                 results.append(u'. ')
             if node_type == NavigableString:
-                results.append(purify_html(unicode(this_node)))
+                results.append(unicode(this_node))
             else:
                 try:
                     descendants = this_node.descendants
@@ -408,23 +390,67 @@ class AwolBaseParser:
                                 return (stop, results)
             return (False, results)
 
-        previous_urls = []
-        stop, desc_lines = digdigdig(first_node, first_node, stop_tags, False, previous_urls)
-        node = first_node.next_sibling
-        while not stop and node is not None and node.name not in stop_tags:
-            stop, results = digdigdig(node, first_node, stop_tags, False, previous_urls)
-            desc_lines.extend(results)
-            node = node.next_sibling
-
-        if len(desc_lines) == 0:
+        def skiptomalou(first_node, stop_tags, skip_first_anchor):
             previous_urls = []
-            stop, desc_lines = digdigdig(first_node, first_node, stop_tags, True, previous_urls)
-            node = first_node.next_sibling
-            while not stop and node is not None and node.name not in stop_tags:
-                stop, results = digdigdig(node, first_node, stop_tags, True, previous_urls)
-                desc_lines.extend(results)
+            stop, desc_lines = digdigdig(first_node, first_node, stop_tags, skip_first_anchor, previous_urls)
+            node = first_node
+            while True:
+                previous_node = node
                 node = node.next_sibling
+                if node is None:
+                    break
+                try:
+                    node_name = node.name
+                except AttributeError:
+                    node_name = type(node)
+                try:
+                    node_url = node.get('href')
+                except AttributeError:
+                    node_url = '' 
+                if node_url is None:
+                    node_url = ''
+                if '/' in node_url:
+                    chunks = node_url.split('/')
+                    if chunks[-1] in ['index.html', 'index.php', '', None]:
+                        node_url = '/'.join(chunks[:-1])                   
+                if (
+                    node_name in stop_tags 
+                    and (
+                        node_name != 'a'
+                        or (
+                            'a' in stop_tags 
+                            and node_name == 'a'
+                            and (
+                                    (
+                                    not(skip_first_anchor)
+                                    and len(previous_urls) == 0                                    
+                                    )
+                                or (
+                                    skip_first_anchor
+                                    and len(previous_urls) > 0
+                                    and node_url != previous_urls[-1]
+                                    )
+                                )
+                            )
+                        )
+                    ):
+                    break
+                if node_name == 'a':
+                    previous_urls.append(node_url)
+                stop, results = digdigdig(node, first_node, stop_tags, skip_first_anchor, previous_urls)
+                desc_lines.extend(results)
+                if stop:
+                    break
+            return desc_lines
 
+        stop_tags = ['a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'div', 'ol', 'ul', 'dl', 'dt', 'li', 'table']
+        desc_lines = skiptomalou(first_node, stop_tags, skip_first_anchor)
+
+        stop_tags = ['a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']
+        if len(desc_lines) == 0:
+            desc_lines = skiptomalou(first_node, stop_tags, False)
+        elif ukey(desc_lines) == ukey(title):
+            desc_lines = skiptomalou(first_node, stop_tags, skip_first_anchor)
         if len(desc_lines) == 0:
             desc_text = None
         else:
@@ -472,25 +498,18 @@ class AwolBaseParser:
         return (anchor, a, url, domain)
 
     def _get_primary_anchor(self):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
         anchors = self._get_anchors()
-        #logger.debug("anchors before primary: {0}".format(', '.join([a.get('href') for a in anchors])))
         try:
             a = self._get_anchors()[0]
         except IndexError:
             msg = 'failed to parse primary anchor from {0}'.format(self.content['soup'])
-            raise IndexError(msg)
-        #logger.debug('primary anchor is {0}'.format(a.get('href')))
+            raise RuntimeError(msg)
         return a        
 
     def _get_primary_resource(self, article):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-
-        #logger.debug('getting primary resource from {0}'.format(article.id))
         # title
         a = self._get_primary_anchor()
         a_title = clean_string(a.get_text())  
-        #logger.debug(u'found a_title: "{0}"'.format(a_title))
         titles = self._reconcile_titles(a_title, article.title)
         try:
             title = titles[0]
@@ -503,11 +522,9 @@ class AwolBaseParser:
             title_extended = None
 
         # description
-        desc_text = self._get_description()
+        desc_text = self._get_description(title=title)
         if desc_text is None:
-            logger.warning(article.soup.prettify())
-            raise Exception
-
+            desc_text = title
 
         # parse authors
         authors = self._parse_authors(desc_text)
@@ -544,7 +561,6 @@ class AwolBaseParser:
         # provenance
         self._set_provenance(resource, article)
 
-        #logger.debug(u'returning resource: "{0}"'.format(unicode(resource)))
         return resource
 
     def _get_related_resources(self):
@@ -557,19 +573,8 @@ class AwolBaseParser:
             title = clean_string(title_context.get_text())
 
             # description
-            #html = u' {0}\n'.format(unicode(title_context))
             next_node = title_context.next_element
-            #while True:
-            #    html = html + u' {0}\n'.format(unicode(next_node))
-            #    if next_node.name in ['blockquote', 'hr', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'ul', 'p', 'div', 'ol']:
-            #        break
-            #    next_node = next_node.next_element
-            #    if next_node is None:
-            #        break
-            #html = u'<div>\n' + html + u'\n</div>'
-            #this_soup = BeautifulSoup(html)
-            #desc_text = self._get_description(this_soup)
-            desc_text = self._get_description(next_node)
+            desc_text = self._get_description(next_node, title=title)
 
             # parse identifiers
             identifiers = self._parse_identifiers(desc_text)
@@ -599,12 +604,53 @@ class AwolBaseParser:
             resources.append(resource)
         return resources
 
-    def _get_resources(self, article):
+    def _nodesplain(self, node, gloss=u'', include_source=False):
+        """Provide copious information about this XML node."""
         logger = logging.getLogger(sys._getframe().f_code.co_name)
+        template = u"""
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    >>> NODESPLANATION <<<
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    type: {node_type}
+    name: {name}
+    xpath: /{xpath}
+    attributes: {attributes}
+    text: {text}
+    gloss: {gloss}
+    source: {source}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        """
 
-        logger.debug(u'getting resources from {0}: {1}'.format(article.id, article.title))
+        name = node.name
+        try:
+            text = normalize_space(u' '.join([string for string in node.stripped_strings]))
+        except AttributeError:
+            text = u'None'
+        try:
+            attributes = pprint.pformat(node.attrs)
+        except AttributeError:
+            attributes = u'None'
+        count = str(1+len([t for t in node.previous_siblings if t.name == name]))
+        path = ['{name}[{count}]'.format(name=name, count=count)]
+        for parent in node.parents:
+            if type(parent) != NavigableString:
+                parent_name = parent.name
+                count = str(1+len([t for t in parent.previous_siblings if t.name == parent_name]))
+            path = ['{name}[{count}]'.format(name=parent_name, count=count)] + path
+        root = [p for p in node.parents][1]
+        params = {
+            'node_type': type(node),
+            'name': name,
+            'xpath': '/'.join(path),
+            'attributes': attributes,
+            'text': text,
+            'gloss': gloss,
+            'source': root.prettify() if include_source else u''
+        }
+        return template.format(**params)
+
+    def _get_resources(self, article):
         if allow_by_title(article.title):
-            logger.debug(u'allowed by title')
             primary_resource = self._get_primary_resource(article)
             parent = primary_resource.package()
             if len(primary_resource.identifiers.keys()) > 0:
@@ -630,7 +676,6 @@ class AwolBaseParser:
 
             return [primary_resource,] + subs + rels
         else:
-            logger.warning(u"omitted by title: {0}".format(article.title))
             return None
 
     def _get_resource_from_article(self, article, anchor, context=None):
@@ -649,17 +694,16 @@ class AwolBaseParser:
             title_extended = None
 
         # description
-        desc_text = self._get_description(context)
+        desc_text = self._get_description(context, title=title)
         if desc_text is None:
-            logger.warning(article.soup.prettify())
-            raise Exception('failed to parse description')
+            logger.warning(u'could not extract primary resource description from {0}; using title'.format(article.url))
+            desc_text = title
 
         # parse authors
         authors = self._parse_authors(desc_text)
 
         # parse identifiers
         identifiers = self._parse_identifiers(desc_text)
-        #logger.debug(u'identifiers: {0}'.format(repr(identifiers)))
 
         # language
         language = self._get_language(title, title_extended, desc_text)
@@ -690,7 +734,6 @@ class AwolBaseParser:
         # provenance
         self._set_provenance(resource, article)
 
-        #logger.debug(u'returning resource: "{0}"'.format(unicode(resource)))
         return resource        
 
     def _get_resource_from_external_biblio(self, url):
@@ -734,10 +777,6 @@ class AwolBaseParser:
                         raise NotImplementedError(u'parsing payload of type {payloadtype} '
                             + 'is not supported'.format(
                                 payloadtype=payload_type))
-                    logger.info(u'successfully parsed bibliographic data from ' +
-                        '{bibliourl} about {title}'.format(
-                            bibliourl=biblio_url,
-                            title=biblio_data['title'][0]))
                     params = {}
                     for k in [k for k in biblio_data.keys() if k not in ['record_change_date', 'record_creation_date', 'name']]:
                         if k == 'uri':
@@ -761,6 +800,18 @@ class AwolBaseParser:
                         updated = biblio_data['record_change_date'][0]
                     except KeyError:
                         updated = biblio_data['record_creation_date'][0]
+                    try:
+                        rx = biblio_howto['date_fixer']
+                    except KeyError:
+                        pass
+                    else:
+                        m = rx.match(updated)
+                        if m:
+                            d = {}
+                            for k in ['year', 'month', 'day', 'hour', 'minute', 'second']:
+                                d[k] = m.group(k)
+                            logger.debug(d)
+                            updated = '{year}-{month}-{day}T{hour}:{minute}:{second}'.format(**d)
                     resource_fields = sorted([k for k in params.keys() if '_' != k[0]])
                     top_resource.set_provenance(biblio_url, 'citesAsDataSource', updated, resource_fields)
                     if domain == 'zenon.dainst.org':
@@ -785,17 +836,10 @@ class AwolBaseParser:
 
         parent_domain = domain_from_url(parent_package['url'])
         anchors = [a for a in anchors if parent_domain in a.get('href')]
-        #logger.debug(u'anchors: {0}'.format(repr([a.get('href') for a in anchors])))
 
         for a in anchors:
-            #logger.debug(u'subordinate anchor: {0}'.format(a.get('href')))
             # title
             title_context = self._get_anchor_ancestor_for_title(a)
-            #tc_type = type(title_context)
-            #tc_name = title_context.name
-            #tc_code = title_context.prettify()
-            #logger.debug(u'title_context (type: {tc_type}, name: {tc_name})'.format(tc_type=tc_type, tc_name=tc_name))
-            #logger.debug(tc_code)
             title = clean_string(title_context.get_text(u' '))
 
             # try to extract volume and year
@@ -825,7 +869,7 @@ class AwolBaseParser:
 
             # description
             next_node = title_context.next_sibling
-            desc_text = self._get_description(next_node)
+            desc_text = self._get_description(next_node, title=title)
 
             # parse identifiers
             identifiers = self._parse_identifiers(desc_text)
@@ -961,16 +1005,12 @@ class AwolBaseParser:
             elif tag.lower() in TITLE_SUBSTRING_TAGS.keys():
                 pass
             elif tag != tag.lower():
-                print tag
-                raise Exception
+                raise ValueError(u'keyword "{0}" lacks an appropriate entry in awol_title_strings.csv'.format(tag))
         return list(set(keywords))
 
     def _make_resource(self, **kwargs):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
         r = Resource()
-
         for k,v in kwargs.items():
-            #logger.debug(u'_make_resource_processing {0}={1}'.format(k, v))
             if v is not None:
 
                 if type(v) == list:
@@ -1011,11 +1051,7 @@ class AwolBaseParser:
                             value_new[kk] = value[kk]
                         setattr(r, k, value_new)
                     else:
-                        logger.debug(u'k={0}'.format(k))
-                        logger.debug(value)
-                        logger.debug(u'type(curv)= {0}'.format(type(curv)))
-                        logger.debug(u'type(value)= {0}'.format(type(value)))
-                        raise Exception('bother')
+                        raise RuntimeError('undefined error in _make_resource()')
 
         return r
 
@@ -1059,7 +1095,6 @@ class AwolBaseParser:
                     if m is not None:
                         if len(m.groups()) == 1:
                             return m.groups()[0]
-            logger.error("failed to match {0} in {1}".format(k, text))
             raise Exception
 
         for k in RX_IDENTIFIERS.keys():
@@ -1068,17 +1103,15 @@ class AwolBaseParser:
                     identifiers[k] = {}
                 for kk in ['electronic', 'generic']:
                     candidates = get_candidates(k, kk, text)
-                    #logger.debug('candidates({0},{1}) {2})'.format(k, kk, candidates))
                     if len(candidates) > 0:
                         identifiers[k][kk] = []
                         for candidate in candidates:
                             extraction = extract(k, candidate)
-                            #logger.debug('extraction({0},{1}) {2})'.format(k, kk, extraction))
                             identifiers[k][kk].append(extraction)
                         if len(identifiers[k][kk]) > 1:
                             identifiers[k][kk] = list(set(identifiers[k][kk]))
                 if len(identifiers[k].keys()) == 0:
-                    logger.warning(u'failed to match valid issn in {0}'.format(text))
+                    logger.error(u'expected but failed to match valid issn in {0}'.format(text))
                 # regularize presentation form and deduplicate issns
                 if k == 'issn':
                     try:
@@ -1095,7 +1128,6 @@ class AwolBaseParser:
                                 identifiers[k]['generic'].remove(ident)
                         if len(identifiers[k]['generic']) == 0:
                             del identifiers[k]['generic']
-        #logger.debug("identifiers: {0}".format(identifiers))
         return identifiers
 
     def _parse_peeps(self, rx_list, content_text):

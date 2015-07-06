@@ -42,6 +42,8 @@ class Parser(AwolBaseParser):
             logger.warning(msg)
             return resources
 
+        #logger.debug(self._nodesplain(a, 'first valid url'))
+
         # if it points to an external bibliographic resource, try to retrieve and parse it
         bib_resource = None
         try:
@@ -82,6 +84,7 @@ class Parser(AwolBaseParser):
                     self._set_provenance(bib_resource, article, fields)
         if bib_resource is None or bib_resource.url == url:
             try:
+                #logger.debug(self._nodesplain(a, 'calling _get_resource_from_article'))
                 post_resource = self._get_resource_from_article(article, a)
             except IndexError, e:
                 logger.error(unicode(e) + u' while handling {0} from {1}'.format(url, article.url))
@@ -106,6 +109,8 @@ class Parser(AwolBaseParser):
             top_resource = bib_resource
 
         # parse subordinate and related resources
+        #if top_resource.url == 'http://retro.seals.ch/digbib/vollist?UID=caf-002':
+        #    raise Exception
         subordinates = self._get_subordinate_resources(article, top_resource.package(), start_anchor=a)
         top_resource.subordinate_resources = [sub.package() for sub in subordinates]
 
