@@ -4,12 +4,11 @@
 
 import logging
 import os
-import re
 
 from nose import with_setup
 from nose.tools import *
 
-from isaw.awol import awol_article
+from isaw.awol.awol_article import *
 
 PATH_TEST = os.path.dirname(os.path.abspath(__file__))
 PATH_TEST_DATA = os.path.join(PATH_TEST, 'data')
@@ -32,28 +31,21 @@ def test_awol_article_init():
     """Ensure class parse method gets all desired fields."""
 
     file_name = os.path.join(PATH_TEST_DATA, 'post-capitale-culturale.xml')
-    a = awol_article.AwolArticle(atom_file_name=file_name)
-    a.parse_atom_resources()
-    assert_equals(len(a.resources), 1)    
-    r = a.resources[0]
-    assert_equals(r.description, u'Il capitale culturale (ISSN: 2039-2362) \xe8 la rivista del Dipartimento di Beni Culturali dell\u2019Universit\xe0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\u2019arte) unite dal comune obiettivo della implementazione di attivit\xe0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.')
-    assert_equals(len(r.identifiers), 1)
-    assert_equals(r.identifiers['issn'], u'2039-2362')
-    assert_equals(r.domain, 'www.unimc.it')
-    assert_is_instance(r.subordinate_resources, list)
-    assert_is_instance(r.keywords, list)
-    assert_equals(r.keywords, [u'antiquity', u'archaeology', u'art', u'cultural heritage', u'culture', u'heritage', u'history', u'journal', u'law', u'museums', u'open access'])
-    assert_equals(r.language, ('it', 1.0))
-    assert_is_instance(r.related_resources, list)
-    assert_equals(r.title, 'Il capitale culturale')
-    assert_equals(r.url, 'http://www.unimc.it/riviste/index.php/cap-cult/index')
-
+    a = AwolArticle(atom_file_name=file_name)
 
 def test_match_domain_in_url():
     """Ensure regular expression to match domain string in URL works."""
 
     domain = 'isaw.nyu.edu'
     url = 'http://isaw.nyu.edu/news/'
-    rx = awol_article.RX_MATCH_DOMAIN
+    rx = RX_MATCH_DOMAIN
     m = rx.match(url)
     assert_equals(m.group(1), domain)
+
+def test_xml():
+    """Ensure we can load and parse problematic XML."""
+
+    file_name = os.path.join(PATH_TEST_DATA, 'post-doaks-online.xml')
+    a = AwolArticle(atom_file_name=file_name)
+    del a
+

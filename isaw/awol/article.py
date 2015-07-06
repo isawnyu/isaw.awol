@@ -10,17 +10,21 @@ This module defines the following classes:
 
 import logging
 import os
-import pprint
-import re
 import sys
 import unicodedata
 
-from bs4 import BeautifulSoup, UnicodeDammit
+from bs4 import BeautifulSoup
 from lxml import etree as exml
 from lxml.etree import XMLSyntaxError as XMLSyntaxError
 
 from isaw.awol.normalize_space import normalize_space
-from isaw.awol.clean_string import purify_html
+from isaw.awol.clean_string import purify_text, purify_html
+from isaw.awol.tools import urls
+
+XML_PARSER = exml.XMLParser(recover=False)
+XML_PARSER_LENIENT = exml.XMLParser(recover=True)
+XSL_CLEANUP_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'cleanup.xsl')
+XSL_CLEANUP = exml.parse(XSL_CLEANUP_PATH)
 
 class Article():
     """Manipulate and extract data from a blog post."""
@@ -88,7 +92,7 @@ class Article():
         # title of blog post should be same as title of atom entry
         raw_title = unicode(root.find('{http://www.w3.org/2005/Atom}title').text)
         try:
-            self.title = purify_html(normalize_space(unicodedata.normalize('NFC', raw_title)))
+            self.title = purify_text(normalize_space(unicodedata.normalize('NFC', raw_title)))
         except TypeError:
             msg = 'could not extract blog post title for article with id: "{0}"'.format(self.id)
             raise RuntimeWarning(msg)
@@ -105,30 +109,53 @@ class Article():
             raise RuntimeError(msg)
         else:
             try:
-                self.url = normalize_space(unicodedata.normalize('NFC', raw_url))
+                raw_url = normalize_space(unicodedata.normalize('NFC', raw_url))
             except TypeError:
-                msg = 'could not extract blog post URL for article with id: "{0}"'.format(self.id)
+                msg = 'could not normalize blog post URL for article with id: "{0}"'.format(self.id)
                 raise RuntimeError(msg)
+            else:
+                if urls.valid(raw_url):
+                    self.url = raw_url
+                else:
+                    msg = 'invalid blog post URL ({0}) for article with id: "{1}"'.format(raw_url, self.id)
+                    raise RuntimeError(msg)
 
         # capture categories as vocabulary terms
-        self.categories = [{'vocabulary' : c.get('scheme'), 'term' : c.get('term')} for c in root.findall('{http://www.w3.org/2005/Atom}category')]
+        self.categories = [{'vocabulary' : c.get('scheme'), 'term' : normalize_space(unicodedata.normalize('NFC', unicode(c.get('term'))))} for c in root.findall('{http://www.w3.org/2005/Atom}category')]
         
         # extract content, normalize, and parse as HTML for later use
-        raw_content = unicode(root.find('{http://www.w3.org/2005/Atom}content').text)
-        content = normalize_space(unicodedata.normalize('NFC', raw_content))
-        content = purify_html(content)
+        raw_content = root.find('{http://www.w3.org/2005/Atom}content').text
+        soup = BeautifulSoup(raw_content)   # mainly to convert character entities to unicode
+        soup_content = unicode(soup)
+        del soup
+        content = unicodedata.normalize('NFC', soup_content)
+        del soup_content
+        content = normalize_space(content)
+        content = purify_html(content)  # get rid of all manner of evil, stupid stuff
         self.content = content
-        soup = BeautifulSoup(content)
         try:
-            html = exml.fromstring(str(soup))
+            html = exml.fromstring(content, XML_PARSER)
         except XMLSyntaxError:
-            msg = 'XMLSyntaxError while trying to parse content of {0}'.format(atom_file_name)
-            raise ValueError(msg)
+            msg = 'XMLSyntaxError while trying to parse content of {0}; trying html5lib parser with BeautifulSoup and then lxml parser with recover=True'.format(atom_file_name)
+            logger.warning(msg)
+            soup = BeautifulSoup(raw_content, 'html5lib')
+            soup_content = unicode(soup)
+            del soup
+            content = unicodedata.normalize('NFC', soup_content)
+            del soup_content
+            content = normalize_space(content)
+            content = purify_html(content)
+            self.content = content
+            try:
+                html = exml.fromstring(content, XML_PARSER_LENIENT)
+            except XMLSyntaxError:
+                msg = 'XMLSyntaxError while trying to re-parse content of {0} using html5lib parser with BeautifulSoup'.format(atom_file_name)
+                logger.error(msg)
+                logger.error(content)
+                sys.exit(-1000)
 
         #logger.debug('normalized html:\n\n' + exml.tostring(html, pretty_print=True))
-        xsl_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'cleanup.xsl')
-        xsl = exml.parse(xsl_path)
-        transform = exml.XSLT(xsl)
+        transform = exml.XSLT(XSL_CLEANUP)
         clean_html = transform(html)
         #logger.debug('cleaned html:\n\n' + exml.tostring(clean_html, pretty_print=True))
         self.soup = BeautifulSoup(exml.tostring(clean_html))

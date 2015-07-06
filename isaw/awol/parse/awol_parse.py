@@ -8,29 +8,58 @@ This module defines the following classes:
  * AwolParser: parse AWOL blog post content for resources
 """
 
-from copy import copy
+from copy import copy, deepcopy
 import logging
 import pkg_resources
-import re
+import pprint
+import regex as re
+import requests
 import sys
 
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString
 import langid
+from lxml import etree
 import unicodecsv
 
 from isaw.awol.clean_string import *
 from isaw.awol.normalize_space import normalize_space
 from isaw.awol.resource import Resource
+from isaw.awol.tools import mods
 
 DOMAINS_IGNORE = [
     'draft.blogger.com',
     'bobcat.library.nyu.edu',
+    'www.addthis.com',
     'cientworldonline.blogspot.com' # that there's a typo in a link somewhere in the blog
 ]
 DOMAINS_SELF = [
     'ancientworldonline.blogspot.com',
 ]
+BIBLIO_SOURCES = {
+    'zenon.dainst.org': {
+        'url_pattern': re.compile(u'^https?:\/\/zenon.dainst.org/Record/\d+\/?$'),
+        'url_append': '/RDF',
+        'type': 'application/rdf+xml',
+        'namespaces' : {
+            'rdf': 'http://www.w3.org/1999/02/22-rdf-syntax-ns#',
+            'mods': 'http://www.loc.gov/mods/v3'
+        },
+        'payload_xpath': '//rdf:Description[1]/mods:mods[1]',
+        'payload_type': 'application/mods+xml',
+        'date_fixer': re.compile(ur'^(?P<year>\d{4})(?P<month>\d{2})(?P<day>\d{2})(?P<hour>\d{2})(?P<minute>\d{2})(?P<second>[\d\.]+)$')
+    }
+}
+DOMAINS_BIBLIOGRAPHIC = BIBLIO_SOURCES.keys()
+MODS2RESOURCES = {
+    'publisher':'publishers',
+    'language':'languages',
+    'statement_of_responsibility':'responsibility',
+    'place':'places',
+    'issued_date':'issued_dates',
+    'uri':'identifiers'
+
+}
 ANCHOR_TEXT_IGNORE = [
     u'contact us',
 ]
@@ -83,9 +112,9 @@ def allow_by_title(title):
 RX_IDENTIFIERS = {
     'issn': {
         'electronic': [
-            re.compile(r'(e-|e)(issn[\s:]*[\dX\-]{4}[\-\s]+[\dX]{4})', re.IGNORECASE),
-            re.compile(r'(electronic|online|on-line|digital)([\s:]*issn[^\d]*[\dX]{4}[\-\s]+[\dX]{4})', re.IGNORECASE),
-            re.compile(r'(issn[\s\(]*)(electrónico|électronique|online|on-line|digital)([^\d]*[\dX]{4}[\-\s]+[\dX]{4})', re.IGNORECASE),
+            re.compile(r'(e-|e)(issn[\s:\-]*[\dX\-]{4}[\-\s]+[\dX]{4})', re.IGNORECASE),
+            re.compile(r'(electronic|online|on-line|digital|internet)([\s:]*issn[^\d]*[\dX]{4}[\-\s]+[\dX]{4})', re.IGNORECASE),
+            re.compile(r'(issn[\s\(\-]*)(electrónico|électronique|online|on-line|digital|internet)([^\d]*[\dX]{4}[\-\s]+[\dX]{4})', re.IGNORECASE),
             re.compile(r'(issn[^\d]*[\dX]{4}[\-\s]+[\dX]{4}[\s\(]*)(electrónico|électronique|online|on-line|digital)', re.IGNORECASE),
         ],
         'generic': [
@@ -111,6 +140,14 @@ RX_IDENTIFIERS = {
         }
     }
 }
+
+RX_AUTHORS = [
+    re.compile(r'(compiled by |assembled by |created by |written by |authors?):?\s*([^\.]+)', re.IGNORECASE)
+]
+RX_EDITORS = [
+    re.compile(r'(edited by |editors?):?\s*([^\.]+)', re.IGNORECASE)
+]
+
 LANGID_THRESHOLD = 0.98
 title_strings_csv = pkg_resources.resource_stream('isaw.awol', 'awol_title_strings.csv')
 dreader = unicodecsv.DictReader(
@@ -128,6 +165,25 @@ del dreader
 TITLE_SUBSTRING_TERMS = {k:v for (k,v) in TITLE_SUBSTRING_TAGS.iteritems() if ' ' not in k}
 TITLE_SUBSTRING_PHRASES = {k:v for (k,v) in TITLE_SUBSTRING_TAGS.iteritems() if k not in TITLE_SUBSTRING_TERMS.keys()}
 RX_ANALYTIC_TITLES = [
+    # volume, issue, year (e.g. Bd. 52, Nr. 1 (2005))
+    {
+        'rx': re.compile(r'^Bd\.\s+(\d+),?\s+Nr\.\s+(\d+)\s+\(?(\d{4})\)?$', re.IGNORECASE),
+        'volume': 1,
+        'issue': 2,
+        'year': 3
+    },
+    # year, blah blah blah, then volume (e.g. u'1888 Mitteilungen des Deutschen Arch\xe4ologischen Instituts / R\xf6mische Abteilung Band 3')
+    {
+        'rx': re.compile(r'^(\d{4})[^\d]+Band (\d+)$', re.IGNORECASE),
+        'volume': 2,
+        'year': 1
+    },
+    # vol slash year (e.g. University Museums and Collections Journal 4/2011)
+    {
+        'rx': re.compile(r'^[^\d]*(\d+)\/(\d{4})[^\d]*$', re.IGNORECASE),
+        'volume': 1,
+        'year': 2,
+    },
     # year, then volume
     {
         'rx': re.compile(r'^[^\d]*(\d{4})\W*([\d\-]+)[^\d]*$', re.IGNORECASE),
@@ -140,26 +196,37 @@ RX_ANALYTIC_TITLES = [
         'volume': 1,
         'year': 2
     },
+    # year only
+    {
+        'rx': re.compile(r'^[^\d]*(\d{4})[^\d]*$', re.IGNORECASE),
+        'year': 1,
+    },
     # volume only
     {
         'rx': re.compile(r'^[^\d]*([\d\-]+)[^\d]*$', re.IGNORECASE),
         'volume': 1,
     },
 
+
 ]
 RX_PUNCT_FIX = re.compile(r'\s+([\.,:;]{1})')
 RX_PUNCT_DEDUPE = re.compile(r'([\.,:;]{1})([\.,:;]{1})')
+
 def domain_from_url(url):
     return url.replace('http://', '').replace('https://', '').split('/')[0]
 
 class AwolBaseParser:
     """Superclass: Extract data from an AWOL blog post."""
 
+    # constructor
     def __init__(self):
         self.reset()
 
+    # public methods
     def get_domains(self, content_soup=None):
         """Determine domains of resources linked in content."""
+
+        #logger = logging.getLogger(sys._getframe().f_code.co_name)
 
         if content_soup is not None:
             self.reset(content_soup)
@@ -173,73 +240,328 @@ class AwolBaseParser:
             domains = [domain_from_url(url) for url in urls]
             domains = list(set(domains))
             domains = [domain for domain in domains if domain not in self.skip_domains]
+            if len(domains) > 1:
+                domains = [domain for domain in domains if domain not in self.bibliographic_domains]
             c['domains'] = domains
         return c['domains']
 
     def parse(self, article):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
-        #logger.debug('parsing {0}'.format(article.id))
-        c = self.content
         self.reset(article.soup)
         resources = self._get_resources(article)
         return resources
 
-    def _get_resources(self, article):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
+    def reset(self, content_soup=None):
+        self.content = {}
+        c = self.content
+        if content_soup is not None:
+            c['soup'] = content_soup
+        c['anchors'] = None
+        c['domains'] = None
+        self.skip_domains = copy(DOMAINS_IGNORE) + copy(DOMAINS_SELF)
+        self.bibliographic_domains = copy(DOMAINS_BIBLIOGRAPHIC)
+        self.skip_text = copy(ANCHOR_TEXT_IGNORE)
+        self.skip_urls = copy(ANCHOR_URLS_IGNORE)
 
-        logger.debug(u'getting resources from {0}: {1}'.format(article.id, article.title))
-        if allow_by_title(article.title):
-            logger.debug(u'allowed by title')
-            primary_resource = self._get_primary_resource(article)
-            primary_resource.subordinate_resources = self._get_subordinate_resources(article)
-            for sr in primary_resource.subordinate_resources:
-                parent = {
-                    'title': primary_resource.title,
-                    'url': primary_resource.url
-                }
-                if len(primary_resource.identifiers.keys()) > 0:
-                    try:
-                        parent['issn'] = primary_resource.identifiers['issn']['electronic'][0]
-                    except KeyError:
-                        try:
-                            parent['issn'] = primary_resource.identifiers['issn']['generic'][0]
-                        except KeyError:
-                            try:
-                                parent['isbn'] = primary_resource.identifiers['isbn'][0]
-                            except KeyError:
-                                pass                            
-                sr.is_part_of = parent
-                #logger.debug(sr)
-            primary_resource.related_resources = self._get_related_resources()
-            #logger.debug(u'got: "{0}"'.format(unicode(primary_resource)))
-            foo = [primary_resource,] + primary_resource.subordinate_resources + primary_resource.related_resources
-            return foo
+    # private methods
+    def _consider_anchor(self, a):
+        url = a.get('href')
+        if url is not None:
+            text = a.get_text()
+            if len(text) > 0:
+                domain = domain_from_url(url)
+                if (domain in self.skip_domains
+                or url in self.skip_urls
+                or text in self.skip_text):
+                    pass
+                else:
+                    return True
+            else:
+                pass
         else:
-            logger.warning(u"omitted by title: {0}".format(article.title))
-            return None
+            pass
+        return False
+
+    def _filter_anchors(self, anchors):
+        filtered = [a for a in anchors if self._consider_anchor(a)]
+        return filtered
 
     def _get_anchor_ancestor_for_title(self, anchor):
+
         a = anchor
-        parents = a.find_parents('li')
-        if len(parents) > 0 and len(parents[0].find_all('a')) == 1:
-            anchor_ancestor = parents[0]
+        url = a.get('href')
+        parent = a.find_parent('li')
+        if parent is not None:
+            anchor_ancestor = parent
         else:
-            parents = a.find_parents('span')
-            i = 0
-            while i < len(parents):
-                if len(parents[i].find_all('a')) > 1:
-                    break
-                i = i+1
-            i = i - 1
-            if i > -1:
-                anchor_ancestor = parents[i]
+            previous_parent = a
+            parent = a.parent
+            while parent is not None and len([a for a in parent.find_all('a') if a.get('href') != url]) > 0:
+                prevous_parent = parent
+                parent = parent.parent
+            if previous_parent.name == 'body':
+                anchor_ancestor = anchor
             else:
-                parents = a.find_parents('p')
-                if len(parents) > 0 and len(parents[0].find_all('a')) == 1:
-                    anchor_ancestor = parents[0]
-                else:
-                    anchor_ancestor = a
+                anchor_ancestor = previous_parent
         return anchor_ancestor
+
+    def _get_anchors(self):
+        c = self.content
+        if c['anchors'] is not None:
+            return c['anchors']
+        soup = c['soup']
+        raw_anchors = [a for a in soup.find_all('a') if a.find_previous('a', href=a.get('href')) is None]
+        anchors = self._filter_anchors(raw_anchors)
+        c['anchors'] = anchors
+        return anchors
+
+    def _get_description(self, context=None, title=u''):
+        if context is None:
+            c = self.content
+            soup = c['soup']
+            first_node = soup.body.contents[0]
+            skip_first_anchor = True
+        else:
+            first_node = context
+            skip_first_anchor = False
+
+        def digdigdig(this_node, first_node, stop_tags, skip_first_anchor, previous_urls):
+            node_type = type(this_node)
+            node_name = this_node.name
+            try:
+                node_url = this_node.get('href')
+            except AttributeError:
+                node_url = ''
+            if node_url is None:
+                node_url = ''
+            if '/' in node_url:
+                chunks = node_url.split('/')
+                if chunks[-1] in ['index.html', 'index.php', '', None]:
+                    node_url = '/'.join(chunks[:-1])
+            results = []
+            if (
+                this_node != first_node 
+                and node_name in stop_tags 
+                and (
+                    node_name != 'a'
+                    or (
+                        'a' in stop_tags 
+                        and node_name == 'a'
+                        and (
+                                (
+                                skip_first_anchor
+                                and len(previous_urls) == 0                                    
+                                )
+                            or (
+                                not(skip_first_anchor)
+                                and len(previous_urls) > 0
+                                and node_url != previous_urls[-1]
+                                )
+                            )
+                        )
+                    )
+                ):
+                return (True, results)
+            if node_name == 'a':
+                previous_urls.append(node_url)
+            try:
+                previous_text = normalize_space(this_node.previous_sibling.get_text())
+            except AttributeError:
+                previous_text = u''
+            try:
+                previous_last = previous_text[-1]
+            except IndexError:
+                previous_last = previous_text
+            if node_name == 'br' and previous_last != u'.':
+                results.append(u'. ')
+            if node_type == NavigableString:
+                results.append(unicode(this_node))
+            else:
+                try:
+                    descendants = this_node.descendants
+                except AttributeError:
+                    pass
+                else:
+                    if descendants is not None:
+                        for child in this_node.children:
+                            stop, child_results = digdigdig(child, first_node, stop_tags, skip_first_anchor, previous_urls)
+                            results.extend(child_results)
+                            if stop:
+                                return (stop, results)
+            return (False, results)
+
+        def skiptomalou(first_node, stop_tags, skip_first_anchor):
+            previous_urls = []
+            stop, desc_lines = digdigdig(first_node, first_node, stop_tags, skip_first_anchor, previous_urls)
+            node = first_node
+            while True:
+                previous_node = node
+                node = node.next_sibling
+                if node is None:
+                    break
+                try:
+                    node_name = node.name
+                except AttributeError:
+                    node_name = type(node)
+                try:
+                    node_url = node.get('href')
+                except AttributeError:
+                    node_url = '' 
+                if node_url is None:
+                    node_url = ''
+                if '/' in node_url:
+                    chunks = node_url.split('/')
+                    if chunks[-1] in ['index.html', 'index.php', '', None]:
+                        node_url = '/'.join(chunks[:-1])                   
+                if (
+                    node_name in stop_tags 
+                    and (
+                        node_name != 'a'
+                        or (
+                            'a' in stop_tags 
+                            and node_name == 'a'
+                            and (
+                                    (
+                                    not(skip_first_anchor)
+                                    and len(previous_urls) == 0                                    
+                                    )
+                                or (
+                                    skip_first_anchor
+                                    and len(previous_urls) > 0
+                                    and node_url != previous_urls[-1]
+                                    )
+                                )
+                            )
+                        )
+                    ):
+                    break
+                if node_name == 'a':
+                    previous_urls.append(node_url)
+                stop, results = digdigdig(node, first_node, stop_tags, skip_first_anchor, previous_urls)
+                desc_lines.extend(results)
+                if stop:
+                    break
+            return desc_lines
+
+        stop_tags = ['a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'div', 'ol', 'ul', 'dl', 'dt', 'li', 'table']
+        desc_lines = skiptomalou(first_node, stop_tags, skip_first_anchor)
+
+        stop_tags = ['a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']
+        if len(desc_lines) == 0:
+            desc_lines = skiptomalou(first_node, stop_tags, False)
+        elif ukey(desc_lines) == ukey(title):
+            desc_lines = skiptomalou(first_node, stop_tags, skip_first_anchor)
+        if len(desc_lines) == 0:
+            desc_text = None
+        else:
+            desc_text = deduplicate_lines(u'\n'.join(desc_lines))
+            desc_text = u''.join(desc_lines)
+            if len(desc_text) == 0:
+                desc_text = None
+            else:
+                desc_text = desc_text.replace(u'%IMAGEREPLACED%', u'').strip()
+                desc_text = RX_PUNCT_FIX.sub(r'\1', desc_text)
+                desc_text = deduplicate_sentences(desc_text)
+                desc_text = RX_PUNCT_DEDUPE.sub(r'\1', desc_text)
+                desc_text = normalize_space(desc_text)
+                if len(desc_text) == 0:
+                    desc_text = None
+                elif desc_text[-1] != u'.':
+                    desc_text += u'.'
+
+        return desc_text   
+
+    def _get_language(self, *args):
+        chunks = [chunk for chunk in args if chunk is not None]
+        s = u' '.join((tuple(chunks)))
+        s = normalize_space(s)
+        if s != u'':
+            language = langid.classify(s)
+            if language[1] >= LANGID_THRESHOLD:
+                return language[0]
+        return None
+
+    def _get_next_valid_url(self, anchor):
+        a = anchor
+        while a is not None:
+            try:
+                url = a.get('href')
+            except AttributeError:
+                url = None
+            else:
+                domain = domain_from_url(url)
+                if domain not in self.skip_domains:
+                    break
+            a = a.find_next(a)
+        if a is None:
+            raise ValueError(u'could not find valid self-or-subsequent resource anchor')
+        return (anchor, a, url, domain)
+
+    def _get_primary_anchor(self):
+        anchors = self._get_anchors()
+        try:
+            a = self._get_anchors()[0]
+        except IndexError:
+            msg = 'failed to parse primary anchor from {0}'.format(self.content['soup'])
+            raise RuntimeError(msg)
+        return a        
+
+    def _get_primary_resource(self, article):
+        # title
+        a = self._get_primary_anchor()
+        a_title = clean_string(a.get_text())  
+        titles = self._reconcile_titles(a_title, article.title)
+        try:
+            title = titles[0]
+        except IndexError:
+            msg = 'could not extract resource title'
+            raise IndexError(msg)
+        try:
+            title_extended = titles[1]
+        except IndexError:
+            title_extended = None
+
+        # description
+        desc_text = self._get_description(title=title)
+        if desc_text is None:
+            desc_text = title
+
+        # parse authors
+        authors = self._parse_authors(desc_text)
+
+        # parse identifiers
+        identifiers = self._parse_identifiers(desc_text)
+
+        # language
+        language = self._get_language(title, title_extended, desc_text)
+
+        # determine keywords
+        keywords = self._parse_keywords(article.title, titles[-1], article.categories)
+
+        # create and populate the resource object
+        params = {
+            'url': a.get('href'),
+            'domain': a.get('href').replace('http://', '').replace('https://', '').split('/')[0],
+            'title': title
+        }
+        if desc_text is not None:
+            params['description'] = desc_text
+        if len(authors) > 0:
+            params['authors'] = authors
+        if len(identifiers.keys()) > 0:
+            params['identifiers'] = identifiers
+        if title_extended is not None:
+            params['title_extended'] = title_extended
+        if language is not None:
+            params['languages'] = language
+        if len(keywords) > 0:
+            params['keywords'] = keywords
+        resource = self._make_resource(**params)
+
+        # provenance
+        self._set_provenance(resource, article)
+
+        return resource
 
     def _get_related_resources(self):
         resources = []
@@ -251,18 +573,8 @@ class AwolBaseParser:
             title = clean_string(title_context.get_text())
 
             # description
-            html = u' {0}\n'.format(unicode(title_context))
             next_node = title_context.next_element
-            while True:
-                html = html + u' {0}\n'.format(unicode(next_node))
-                if next_node.name in ['blockquote', 'hr', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'ul', 'p', 'div', 'ol']:
-                    break
-                next_node = next_node.next_element
-                if next_node is None:
-                    break
-            html = u'<div>\n' + html + u'\n</div>'
-            this_soup = BeautifulSoup(html)
-            desc_text = self._get_description(this_soup)
+            desc_text = self._get_description(next_node, title=title)
 
             # parse identifiers
             identifiers = self._parse_identifiers(desc_text)
@@ -285,43 +597,257 @@ class AwolBaseParser:
             if len(identifiers.keys()) > 0:
                 params['identifiers'] = identifiers
             if language is not None:
-                params['language'] = language
+                params['languages'] = language
             if len(keywords) > 0:
                 params['keywords'] = keywords
             resource = self._make_resource(**params)
             resources.append(resource)
         return resources
 
-    def _grok_analytic_title(self, title):
+    def _nodesplain(self, node, gloss=u'', include_source=False):
+        """Provide copious information about this XML node."""
         logger = logging.getLogger(sys._getframe().f_code.co_name)
-        for g in RX_ANALYTIC_TITLES:
-            m = g['rx'].match(title)
-            if m is not None:
-                break
-        if m is not None:
-            
-            if 'year' not in g.keys():
-                return (m.group(g['volume']), None)
-            elif 'volume' not in g.keys():
-                return (None, m.group(g['year']))
-            else:
-                return (m.group(g['volume'], g['year']))
+        template = u"""
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    >>> NODESPLANATION <<<
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    type: {node_type}
+    name: {name}
+    xpath: /{xpath}
+    attributes: {attributes}
+    text: {text}
+    gloss: {gloss}
+    source: {source}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        """
 
-    def _get_subordinate_resources(self, article):
+        name = node.name
+        try:
+            text = normalize_space(u' '.join([string for string in node.stripped_strings]))
+        except AttributeError:
+            text = u'None'
+        try:
+            attributes = pprint.pformat(node.attrs)
+        except AttributeError:
+            attributes = u'None'
+        count = str(1+len([t for t in node.previous_siblings if t.name == name]))
+        path = ['{name}[{count}]'.format(name=name, count=count)]
+        for parent in node.parents:
+            if type(parent) != NavigableString:
+                parent_name = parent.name
+                count = str(1+len([t for t in parent.previous_siblings if t.name == parent_name]))
+            path = ['{name}[{count}]'.format(name=parent_name, count=count)] + path
+        root = [p for p in node.parents][1]
+        params = {
+            'node_type': type(node),
+            'name': name,
+            'xpath': '/'.join(path),
+            'attributes': attributes,
+            'text': text,
+            'gloss': gloss,
+            'source': root.prettify() if include_source else u''
+        }
+        return template.format(**params)
+
+    def _get_resources(self, article):
+        if allow_by_title(article.title):
+            primary_resource = self._get_primary_resource(article)
+            parent = primary_resource.package()
+            if len(primary_resource.identifiers.keys()) > 0:
+                try:
+                    parent['issn'] = primary_resource.identifiers['issn']['electronic'][0]
+                except KeyError:
+                    try:
+                        parent['issn'] = primary_resource.identifiers['issn']['generic'][0]
+                    except KeyError:
+                        try:
+                            parent['isbn'] = primary_resource.identifiers['isbn'][0]
+                        except KeyError:
+                            pass           
+
+            subs = self._get_subordinate_resources(article, primary_resource.package())                 
+            for sr in subs:
+                sr.is_part_of = parent
+                primary_resource.subordinate_resources.append(sr.package())
+
+            rels = self._get_related_resources()
+            for rr in rels:
+                primary_resource.related_resources(append(rr.package()))
+
+            return [primary_resource,] + subs + rels
+        else:
+            return None
+
+    def _get_resource_from_article(self, article, anchor, context=None):
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+        # titles
+        anchor_title = clean_string(anchor.get_text())
+        titles = self._reconcile_titles(anchor_title, article.title)
+        try:
+            title = titles[0]
+        except IndexError:
+            msg = 'could not extract resource title'
+            raise IndexError(msg)
+        try:
+            title_extended = titles[1]
+        except IndexError:
+            title_extended = None
+
+        # description
+        desc_text = self._get_description(context, title=title)
+        if desc_text is None:
+            logger.warning(u'could not extract primary resource description from {0}; using title'.format(article.url))
+            desc_text = title
+
+        # parse authors
+        authors = self._parse_authors(desc_text)
+
+        # parse identifiers
+        identifiers = self._parse_identifiers(desc_text)
+
+        # language
+        language = self._get_language(title, title_extended, desc_text)
+
+        # determine keywords
+        keywords = self._parse_keywords(article.title, titles[-1], article.categories)
+
+        # create and populate the resource object
+        params = {
+            'url': anchor.get('href'),
+            'domain': domain_from_url(anchor.get('href')),
+            'title': title
+        }
+        if desc_text is not None:
+            params['description'] = desc_text
+        if len(identifiers.keys()) > 0:
+            params['identifiers'] = identifiers
+        if len(authors) > 0:
+            params['authors'] = authors            
+        if title_extended is not None:
+            params['title_extended'] = title_extended
+        if language is not None:
+            params['languages'] = language
+        if len(keywords) > 0:
+            params['keywords'] = keywords
+        resource = self._make_resource(**params)
+
+        # provenance
+        self._set_provenance(resource, article)
+
+        return resource        
+
+    def _get_resource_from_external_biblio(self, url):
+        """Attempt to get third-party structured bibliographic data."""
+
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+        domain = domain_from_url(url)
+
+        try:
+            biblio_howto = BIBLIO_SOURCES[domain]
+        except KeyError:
+            msg = u'parsing structured bibliographic data from {0} is not supported.'.format(domain)
+            raise NotImplementedError(msg)
+        else:
+            m = biblio_howto['url_pattern'].match(url)
+            if m:
+                biblio_url = url + biblio_howto['url_append']
+                biblio_req = requests.get(biblio_url)
+                if biblio_req.status_code == 200:
+                    actual_type = biblio_req.headers['content-type']
+                    if actual_type != biblio_howto['type']:
+                        raise IOError('got {actualtype} from {biblurl} when '
+                            + '{soughttype} was expected'.format(
+                                actualtype=actual_type,
+                                biblurl=biblio_url,
+                                soughttype=biblio_howto['type']))
+                    elif actual_type == 'application/rdf+xml':
+                        root = etree.fromstring(biblio_req.content)
+                        payload_element = root.xpath(
+                            biblio_howto['payload_xpath'], 
+                            namespaces=biblio_howto['namespaces'])[0]
+                        payload = etree.tostring(payload_element, encoding='unicode')
+                    else:
+                        raise IOError(u'parsing content of type {actualtype} '
+                            + 'is not supported'.format(
+                                actualtype=actual_type))
+                    payload_type = biblio_howto['payload_type']
+                    if payload_type == 'application/mods+xml':
+                        biblio_data = mods.extract(payload)
+                    else:
+                        raise NotImplementedError(u'parsing payload of type {payloadtype} '
+                            + 'is not supported'.format(
+                                payloadtype=payload_type))
+                    params = {}
+                    for k in [k for k in biblio_data.keys() if k not in ['record_change_date', 'record_creation_date', 'name']]:
+                        if k == 'uri':
+                            value = (k, biblio_data[k])
+                        elif k == 'language':
+                            value = [lang[0] for lang in biblio_data[k]]
+                        elif k == 'url':
+                            value = biblio_data[k][0]
+                            if len(biblio_data[k]) > 1:
+                                raise Exception
+                        else:
+                            value = biblio_data[k]
+                        try:
+                            rk = MODS2RESOURCES[k]
+                        except KeyError:
+                            rk = k
+                        params[rk] = value
+                    params['domain'] = domain_from_url(biblio_data['url'][0])
+                    top_resource = self._make_resource(**params)
+                    try:
+                        updated = biblio_data['record_change_date'][0]
+                    except KeyError:
+                        updated = biblio_data['record_creation_date'][0]
+                    try:
+                        rx = biblio_howto['date_fixer']
+                    except KeyError:
+                        pass
+                    else:
+                        m = rx.match(updated)
+                        if m:
+                            d = {}
+                            for k in ['year', 'month', 'day', 'hour', 'minute', 'second']:
+                                d[k] = m.group(k)
+                            logger.debug(d)
+                            updated = '{year}-{month}-{day}T{hour}:{minute}:{second}'.format(**d)
+                    resource_fields = sorted([k for k in params.keys() if '_' != k[0]])
+                    top_resource.set_provenance(biblio_url, 'citesAsDataSource', updated, resource_fields)
+                    if domain == 'zenon.dainst.org':
+                        top_resource.zenon_id = url.split(u'/')[-1]
+                else:
+                    raise IOError("unsuccessfull attempt (status code {0}) " +
+                        "to get bibliograhic data from {1}".format(
+                            biblio_req.status_code, biblio_url))
+            return top_resource
+    
+    def _get_subordinate_resources(self, article, parent_package, start_anchor=None):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
         resources = []
-        anchors = self._get_anchors()[1:]
+        anchors = self._get_anchors()
+        index = 0
+        if start_anchor is not None:
+            for i,a in enumerate(anchors):
+                if a == start_anchor:
+                    index = i
+                    break
+            anchors = [a for a in anchors[index:]]
+
+        parent_domain = domain_from_url(parent_package['url'])
+        anchors = [a for a in anchors if parent_domain in a.get('href')]
+
         for a in anchors:
             # title
             title_context = self._get_anchor_ancestor_for_title(a)
-            title = clean_string(title_context.get_text())
+            title = clean_string(title_context.get_text(u' '))
 
             # try to extract volume and year
             try:
-                volume, year = self._grok_analytic_title(title)
+                volume, issue, year = self._grok_analytic_title(title)
             except TypeError:
-                volume = year = None
-            if volume is not None and year is None:
+                volume = year = issue = None
+            if volume is not None and year is None and issue is not None:
                 # sometimes more than one volume falls in a single list item b/c same year or parts
                 try:
                     parent_li = a.find_parents('li')[0]
@@ -342,18 +868,8 @@ class AwolBaseParser:
                                 year = cooked
 
             # description
-            html = u' {0}\n'.format(unicode(title_context))
-            next_node = title_context.next_element
-            while True:
-                html = html + u' {0}\n'.format(unicode(next_node))
-                if next_node.name in ['blockquote', 'hr', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'ul', 'p', 'div', 'ol']:
-                    break
-                next_node = next_node.next_element
-                if next_node is None:
-                    break
-            html = u'<div>\n' + html + u'\n</div>'
-            this_soup = BeautifulSoup(html)
-            desc_text = self._get_description(this_soup)
+            next_node = title_context.next_sibling
+            desc_text = self._get_description(next_node, title=title)
 
             # parse identifiers
             identifiers = self._parse_identifiers(desc_text)
@@ -365,24 +881,26 @@ class AwolBaseParser:
             keywords = self._parse_keywords(resource_title=title, resource_text=desc_text)
 
             # create and populate the resource object
-            r = Resource()
             params = {
                 'url': a.get('href'),
                 'domain': a.get('href').replace('http://', '').replace('https://', '').split('/')[0],
-                'title': title
+                'title': title,
+                'is_part_of': parent_package
             }
             if desc_text is not None:
                 params['description'] = desc_text
             if len(identifiers.keys()) > 0:
                 params['identifiers'] = identifiers
             if language is not None:
-                params['language'] = language
+                params['languages'] = language
             if len(keywords) > 0:
                 params['keywords'] = keywords
             if volume is not None:
                 params['volume'] = volume
             if year is not None:
                 params['year'] = year
+            if issue is not None:
+                params['issue'] = issue
             resource = self._make_resource(**params)
 
             self._set_provenance(resource, article)
@@ -390,218 +908,42 @@ class AwolBaseParser:
             resources.append(resource)
         return resources
 
-    def _get_description(self, soup):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-        desc_nodes = soup.body.div.contents
-        desc_lines = []
-        for desc_node in desc_nodes:
-            #logger.debug(u'desc_node: \n    {0}'.format(unicode(desc_node)))
-            if type(desc_node) == NavigableString:
-                line = unicode(desc_node)
-                #logger.debug(u'  appending (A): "{0}"'.format(line))
-                desc_lines.append(line)
-            elif desc_node.name == 'br':
-                desc_lines[-1] += u'.'
-                #logger.debug(u'  backslapping fullstop for br (A)')
-            else:
-                anchors = self._filter_anchors(desc_node.find_all('a'))
-                #logger.debug('anchor length: {0}'.format(len(anchors)))
-                if len(anchors) > 1:
-                    for this_node in desc_node.contents:
-                        if this_node == anchors[1]:
-                            break
-                        if type(this_node) == NavigableString:
-                            line = unicode(this_node)
-                            #logger.debug(u'  appending (B): "{0}"'.format(line))
-                            desc_lines.append(line)
-                        elif desc_node.name == 'br':
-                            desc_lines[-1].append(u'.')
-                            #logger.debug(u'backslapping fullstop for br (B)')
-                        else:
-                            lines = this_node.get_text('\n').split('\n')
-                            #logger.debug(u'  extending with: {0}'.format(lines))
-                            desc_lines.extend(lines)
-                    break
-                else:
-                    try:
-                        desc_lines.extend(desc_node.get_text('\n').split('\n'))
-                    except AttributeError:
-                        pass
-                    else:
-                        lines = desc_node.get_text('\n').split('\n')
-                        #logger.debug(u'  extended with: {0}'.format(lines))
-        #logger.debug('desc_lines follows')
-        #for line in desc_lines:
-            #logger.debug(u'   {0}'.format(line))
-        if len(desc_lines) == 0:
-            desc_text = None
-        else:
-            #logger.debug(u'before dedupe: {0}'.format(u'\n'.join(desc_lines)))
-            desc_text = deduplicate_lines(u'\n'.join(desc_lines))
-            if len(desc_text) == 0:
-                desc_text = None
-            else:
-                desc_text = desc_text.replace(u'%IMAGEREPLACED%', u'').strip()
-                desc_text = RX_PUNCT_FIX.sub(r'\1', desc_text)
-                #logger.debug(u'before sentence dedupe: {0}'.format(desc_text))
-                desc_text = deduplicate_sentences(desc_text)
-                #logger.debug(u'after sentence dedupe: {0}'.format(desc_text))
-                desc_text = RX_PUNCT_DEDUPE.sub(r'\1', desc_text)
-                if len(desc_text) == 0:
-                    desc_text = None
-                elif desc_text[-1] != u'.':
-                    desc_text += u'.'
-
-        #logger.debug(u"desc_text: {0}".format(desc_text))
-
-        return desc_text        
-
-    def _get_language(self, *args):
-        chunks = [chunk for chunk in args if chunk is not None]
-        s = u' '.join((tuple(chunks)))
-        s = normalize_space(s)
-        if s != u'':
-            language = langid.classify(s)
-            if language[1] >= LANGID_THRESHOLD:
-                return language
-        return None
-
-    def _get_description_html(self):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
+    def _get_unique_urls(self):
         c = self.content
-        soup = c['soup']
-        first_node = soup.body.contents[0]
-        #logger.debug(unicode(first_node))
-        last_node = None
-        for tag_name in ['blockquote',]:
-            for node in first_node.find_all_next(tag_name):
-                if len(node.get_text().strip()) > 0:
-                    last_node = node
-                    break
-            if last_node is not None:
-                break
-        if last_node is None:
-            first_anchor = first_node.find_next('a')
-            if first_anchor is not None:
-                if not self._consider_anchor(first_anchor):
-                    node = first_anchor.next_element
-                else:
-                    node = first_anchor.find_next('a')
-                    if node is not None:
-                        node = node.next_element 
-                if node is None:
-                    node = first_anchor
-                while node.next_element is not None:
-                    if node.name in ['hr', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'ul', 'ol', 'p']:
-                        break
-                    else:
-                        node = node.next_element
-                last_node = node
-            else:
-                last_node = first_node
+        if c['unique_urls'] is not None:
+            return c['unique_urls']
+        else:
+            anchors = self._get_anchors()
+        urls = [a.get('href') for a in anchors if a.get('href') is not None]
+        unique_urls = list(set(urls))
+        c['unique_urls'] = unique_urls
+        return unique_urls
 
-        html = u' {0}.\n'.format(unicode(first_node))
-        next_node = first_node.next_element
-        while next_node != last_node:
-            html = html + u'\n{0}'.format(unicode(next_node))
+    def _grok_analytic_title(self, title):
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+        for g in RX_ANALYTIC_TITLES:
+            m = g['rx'].match(title)
+            if m is not None:
+                break
+        if m is not None:
             try:
-                next_node = next_node.next_element
-            except AttributeError:
-                break
-        html = html + u' {0}\n'.format(unicode(next_node)) 
-        html = u'<div>\n' + html + u'\n</div>'
-        #logger.debug('description html follows')
-        #for hh in html.split(u'\n'):
-            #logger.debug(u'   {0}'.format(hh))
-        #logger.debug(u'description html:\n{0}'.format(html))
-        return html
+                volume = m.group(g['volume'])
+            except KeyError:
+                volume = None
+            try:
+                issue = m.group(g['issue'])
+            except KeyError:
+                issue = None
+            try:
+                year = m.group(g['year'])
+            except KeyError:
+                year = None
+            return (volume, issue, year)            
 
-    def _get_primary_anchor(self):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-        anchors = self._get_anchors()
-        #logger.debug("anchors before primary: {0}".format(', '.join([a.get('href') for a in anchors])))
-        try:
-            a = self._get_anchors()[0]
-        except IndexError:
-            msg = 'failed to parse primary anchor from {0}'.format(self.content['soup'])
-            raise IndexError(msg)
-        #logger.debug('primary anchor is {0}'.format(a.get('href')))
-        return a        
-
-    def _get_primary_resource(self, article):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-
-        #logger.debug('getting primary resource from {0}'.format(article.id))
-        # title
-        a = self._get_primary_anchor()
-        a_title = clean_string(a.get_text())  
-        #logger.debug(u'found a_title: "{0}"'.format(a_title))
-        titles = self._reconcile_titles(a_title, article.title)
-        try:
-            title = titles[0]
-        except IndexError:
-            msg = 'could not extract resource title'
-            raise IndexError(msg)
-        try:
-            title_extended = titles[1]
-        except IndexError:
-            title_extended = None
-
-        # description
-        html = self._get_description_html()
-        this_soup = BeautifulSoup(html)
-        #logger.debug(u'description soup: \n\n{0}'.format(unicode(this_soup)))
-        #logger.debug(u'description text: \n\n{0}'.format(this_soup.get_text()))
-        desc_text = self._get_description(this_soup)
-        #logger.debug(u'got desc_text: \n\n{0}'.format(desc_text))
-
-        # parse identifiers
-        identifiers = self._parse_identifiers(desc_text)
-
-        # language
-        language = self._get_language(title, title_extended, desc_text)
-
-        # determine keywords
-        keywords = self._parse_keywords(article.title, titles[-1], article.categories)
-
-        # create and populate the resource object
-        r = Resource()
-        params = {
-            'url': a.get('href'),
-            'domain': a.get('href').replace('http://', '').replace('https://', '').split('/')[0],
-            'title': title
-        }
-        if desc_text is not None:
-            params['description'] = desc_text
-        if len(identifiers.keys()) > 0:
-            params['identifiers'] = identifiers
-        if title_extended is not None:
-            params['title_extended'] = title_extended
-        if language is not None:
-            params['language'] = language
-        if len(keywords) > 0:
-            params['keywords'] = keywords
-        resource = self._make_resource(**params)
-
-        # provenance
-        self._set_provenance(resource, article)
-
-        #logger.debug(u'returning resource: "{0}"'.format(unicode(resource)))
-        return resource
-
-    def _set_provenance(self, resource, article):
-        updated = article.root.xpath("//*[local-name()='updated']")[0].text.strip()   
-        resource_fields = sorted([k for k in resource.__dict__.keys() if '_' != k[0]])
-        resource.set_provenance(article.id, 'citesAsDataSource', updated, resource_fields)
-        resource.set_provenance(article.url, 'citesAsMetadataDocument', updated)        
-
-    def _parse_keywords(self, post_title=None, resource_title=None, post_categories=[], resource_text=None):
-        """Infer and normalize resource tags."""
-
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-
+    # keyword methods
+    def _mine_keywords(self, *args):
         tags = []
-        for s in (post_title, resource_title, resource_text):
+        for s in args:
             if s is not None:
                 lower_s = s.lower()
                 # mine for terms (i.e., single-word keys)
@@ -612,16 +954,27 @@ class AwolBaseParser:
                         tags.append(tag)
                 if u'open' in lower_list and u'access' in lower_list:
                     if u'partial' in lower_list:
-                        tags.append(u'mixed access')
+                        if u'partial open access' in lower_s:
+                            tags.append(u'mixed access')
                     else:
-                        tags.append(u'open access')
+                        if u'open access' in lower_s:
+                            tags.append(u'open access')
                 if 'series' in lower_list and 'lecture' not in lower_list:
                     tags.append(u'series')
                 # mine for phrases
                 for k in TITLE_SUBSTRING_PHRASES.keys():
                     if k in lower_s:
                         tag = TITLE_SUBSTRING_PHRASES[k]
-                        tags.append(tag)
+                        tags.append(tag)  
+        return tags
+
+    def _parse_keywords(self, post_title=None, resource_title=None, post_categories=[], resource_text=None):
+        """Infer and normalize resource tags."""
+
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+
+        # mine keywords from content
+        tags = self._mine_keywords(post_title, resource_title)
 
         # convert post categories to tags
         for c in post_categories:    
@@ -629,26 +982,20 @@ class AwolBaseParser:
             if 'kind#post' not in tag:
                 if tag in TITLE_SUBSTRING_TAGS.keys():
                     tag = TITLE_SUBSTRING_TAGS[tag]
-                elif c['term'] == u'Boğazköy':
-                    tag = u'Boğazköy'
-                elif c['term'] == u'Subsistenz und Umwelt im frühen Vorderasien':
-                    tag = u'Subsistenz und Umwelt im frühen Vorderasien'
                 else:
-                    logger.error(u'unexpected category tag: {0}'.format(c['term']))
+                    logger.error(u'unexpected category tag "{0}" in post with title "{1}"'.format(c['term'], post_title))
                     raise Exception
                 tags.append(tag)
+        return self._clean_keywords(tags)
 
-
-        # consolidate and normalize tags
-        tags = list(set(tags))
+    def _clean_keywords(self, raw_tags):
+        tags = list(set(raw_tags))
         keywords = []
         for tag in tags:
             if tag == u'':
                 pass
             elif u',' in tag:
                 keywords.extend(tag.split(u','))
-            #elif u'BoğAzköY' == tag:
-            #    keywords.append(u'Boğazköy')
             else:
                 keywords.append(tag)
         keywords = sorted([normalize_space(kw) for kw in list(set(keywords))], key=lambda s: s.lower())
@@ -658,37 +1005,61 @@ class AwolBaseParser:
             elif tag.lower() in TITLE_SUBSTRING_TAGS.keys():
                 pass
             elif tag != tag.lower():
-                print tag
-                raise Exception
-
+                raise ValueError(u'keyword "{0}" lacks an appropriate entry in awol_title_strings.csv'.format(tag))
         return list(set(keywords))
-
-    def _reconcile_titles(self, anchor_title=None, article_title=None):
-
-        if anchor_title is None and article_title is None:
-            return None
-        if anchor_title is None:
-            return (check_colon(article_title),)
-        if article_title is None:
-            return (check_colon,)
-        anchor_lower = anchor_title.lower()
-        article_lower = article_title.lower()
-        if anchor_lower == article_lower:
-            return (article_title,)
-        clean_article_title = check_colon(article_title)
-        clean_article_lower = clean_article_title.lower()
-        if clean_article_lower == anchor_lower:
-            return (anchor_title,)
-        elif clean_article_lower in anchor_lower:
-            return (clean_article_title, anchor_title)
-        else:
-            return (anchor_title,)
 
     def _make_resource(self, **kwargs):
         r = Resource()
         for k,v in kwargs.items():
-            setattr(r, k, v)
+            if v is not None:
+
+                if type(v) == list:
+                    value = v
+                elif type(v) in [unicode, str]:
+                    if k == 'url':
+                        value = v
+                    else:
+                        value = [v, ]
+                elif type(v) == tuple:
+                    value = v
+                elif type(v) == dict:
+                    value = v
+                else:
+                    value = list(v) 
+                try:
+                    curv = getattr(r, k)
+                except AttributeError:
+                    raise AttributeError(u'{k} is not a valid attribute for a resource'.format(k=k))
+                else:
+                    if curv == None and type(value) in [unicode, str, dict]:
+                        setattr(r, k, value)
+                    elif curv == None:
+                        setattr(r, k, value[0])
+                        if len(value) > 1:
+                            raise Exception('rats')
+                    elif type(curv) == list:
+                        value_new = deepcopy(curv)
+                        value_new.extend(value)
+                        setattr(r, k, value_new)
+                    elif type(curv) == dict and type(value) == tuple:
+                        value_new = deepcopy(curv)
+                        value_new[value[0]] = value[1]
+                        setattr(r, k, value_new)
+                    elif type(curv) == dict and type(value) == dict:
+                        value_new = deepcopy(curv)
+                        for kk in value.keys():
+                            value_new[kk] = value[kk]
+                        setattr(r, k, value_new)
+                    else:
+                        raise RuntimeError('undefined error in _make_resource()')
+
         return r
+
+    def _parse_authors(self, content_text):
+        return self._parse_peeps(RX_AUTHORS, content_text)
+
+    def _parse_editors(self, content_text):
+        return self._parse_peeps(RX_EDITORS, content_text)
 
     def _parse_identifiers(self, content_text):
         """Parse identifying strings of interest from an AWOL blog post."""
@@ -724,7 +1095,6 @@ class AwolBaseParser:
                     if m is not None:
                         if len(m.groups()) == 1:
                             return m.groups()[0]
-            logger.error("failed to match {0} in {1}".format(k, text))
             raise Exception
 
         for k in RX_IDENTIFIERS.keys():
@@ -733,17 +1103,15 @@ class AwolBaseParser:
                     identifiers[k] = {}
                 for kk in ['electronic', 'generic']:
                     candidates = get_candidates(k, kk, text)
-                    #logger.debug('candidates({0},{1}) {2})'.format(k, kk, candidates))
                     if len(candidates) > 0:
                         identifiers[k][kk] = []
                         for candidate in candidates:
                             extraction = extract(k, candidate)
-                            #logger.debug('extraction({0},{1}) {2})'.format(k, kk, extraction))
                             identifiers[k][kk].append(extraction)
                         if len(identifiers[k][kk]) > 1:
                             identifiers[k][kk] = list(set(identifiers[k][kk]))
                 if len(identifiers[k].keys()) == 0:
-                    logger.warning(u'failed to match valid issn in {0}'.format(text))
+                    logger.error(u'expected but failed to match valid issn in {0}'.format(text))
                 # regularize presentation form and deduplicate issns
                 if k == 'issn':
                     try:
@@ -760,79 +1128,57 @@ class AwolBaseParser:
                                 identifiers[k]['generic'].remove(ident)
                         if len(identifiers[k]['generic']) == 0:
                             del identifiers[k]['generic']
-        #logger.debug("identifiers: {0}".format(identifiers))
         return identifiers
 
-    def _get_unique_urls(self):
-        c = self.content
-        if c['unique_urls'] is not None:
-            return c['unique_urls']
-        else:
-            anchors = self._get_anchors()
-        urls = [a.get('href') for a in anchors if a.get('href') is not None]
-        unique_urls = list(set(urls))
-        c['unique_urls'] = unique_urls
-        return unique_urls
+    def _parse_peeps(self, rx_list, content_text):
 
-    def _consider_anchor(self, a):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-        #logger.debug('skip urls: {0}'.format(', '.join(self.skip_urls)))
-        url = a.get('href')
-        if url is not None:
-            #logger.debug('filtering: {0}'.format(url))
-            text = a.get_text()
-            if len(text) > 0:
-                #logger.debug(u'text of a is: {0}'.format(text))
-                domain = domain_from_url(url)
-                #logger.debug('domain is: {0}'.format(domain))
-                if (domain in self.skip_domains
-                or url in self.skip_urls
-                or text in self.skip_text):
-                    #logger.debug('skipping!')
-                    pass
-                else:
-                    #logger.debug('keeping!')
-                    return True
+        cooked = []
+        raw = u''
+        for rx in rx_list:
+            m = rx.search(content_text)
+            if m:
+                raw = m.groups()[-1]
+                break
+        if len(raw) > 0:
+            if u',' in raw:
+                cracked = raw.split(u',')
             else:
-                #logger.debug('omitting: no text')
-                pass
+                cracked = [raw,]
+            for chunk in cracked:
+                if u' and ' in chunk:
+                    cooked.extend(chunk.split(u' and '))
+                else:
+                    cooked.append(chunk)
+            cooked = [normalize_space(peep) for peep in cooked if len(normalize_space(peep)) > 0]
+        return cooked
+
+    def _reconcile_titles(self, anchor_title=None, article_title=None):
+
+        if anchor_title is None and article_title is None:
+            return None
+        if anchor_title is None:
+            return (check_colon(article_title),)
+        if article_title is None:
+            return (check_colon,)
+        anchor_lower = anchor_title.lower()
+        article_lower = article_title.lower()
+        if anchor_lower == article_lower:
+            return (article_title,)
+        clean_article_title = check_colon(article_title)
+        clean_article_lower = clean_article_title.lower()
+        if clean_article_lower == anchor_lower:
+            return (anchor_title,)
+        elif clean_article_lower in anchor_lower:
+            return (clean_article_title, anchor_title)
         else:
-            #logger.debug('omitting: no url')
-            pass
-        return False
+            return (anchor_title,)
 
-    def _filter_anchors(self, anchors):
-        filtered = [a for a in anchors if self._consider_anchor(a)]
-        return filtered
+    def _set_provenance(self, resource, article, fields=None):
+        updated = article.root.xpath("//*[local-name()='updated']")[0].text.strip()  
+        if fields is None: 
+            resource_fields = sorted([k for k in resource.__dict__.keys() if '_' != k[0]])
+        else:
+            resource_fields = fields
+        resource.set_provenance(article.id, 'citesAsDataSource', updated, resource_fields)
+        resource.set_provenance(article.url, 'citesAsMetadataDocument', updated)        
 
-    def _get_anchors(self):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-        c = self.content
-        if c['anchors'] is not None:
-            #logger.debug('already have anchors')
-            return c['anchors']
-        soup = c['soup']
-        #logger.debug(u'finding anchors in: {0}'.format(unicode(soup))) 
-        raw_anchors = [a for a in soup.find_all('a')]
-        #logger.debug('raw anchors: {0}'.format(', '.join([a.get('href') for a in raw_anchors])))
-        anchors = self._filter_anchors(raw_anchors)
-        c['anchors'] = anchors
-        return anchors
-
-    def reset(self, content_soup=None):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
-        self.content = {}
-        c = self.content
-        if content_soup is not None:
-            c['soup'] = content_soup
-        c['anchors'] = None
-        c['domains'] = None
-        self.skip_domains = copy(DOMAINS_IGNORE) + copy(DOMAINS_SELF)
-        self.skip_text = copy(ANCHOR_TEXT_IGNORE)
-        self.skip_urls = copy(ANCHOR_URLS_IGNORE)
-
-
-
-
-
-        

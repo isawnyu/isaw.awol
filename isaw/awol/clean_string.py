@@ -5,13 +5,15 @@ Normalize space in a string.
 """
 
 import logging
-import re
+import regex as re
 import sys
 
 from isaw.awol.normalize_space import normalize_space
 
 RX_CANARY = re.compile(r'[\.,:!\"“„\;\-\s\']+', re.IGNORECASE)
 RX_DASHES = re.compile(u'['
+    + u'\u002d' # hyphen-minus
+    + u'\u00ad' # soft hyphen
     + u'\u2010' # hyphen
     + u'\u2011' # non-breaking hyphen
     + u'\u2012' # figure dash
@@ -20,7 +22,26 @@ RX_DASHES = re.compile(u'['
     + u'\u2015' # quotation dash
     + u'\u2e3a' # two-em dash
     + u'\u2e3b' # three-em dash
-    + u']+')
+    + u'\u207b' # superscript hyphen-minus
+    + u'\u208b' # subscript hyphen-minus
+    + u'\ufe63' # small hyphen-minus
+    + u'\uff0d' # fullwidth hyphen-minus
+        + u']')
+REPLACEMENTS_UNICODE = [
+    (u'\u00a0', u' '),      # non-breaking space
+    (u'N\xb0', u'No.'),     # use of degree sign as superscript "o" in volume numbers
+    (u'\u2026', u'...'),    # ellipsis
+    (u'\u201c', u'"'),      # left double-quote
+    (u'\u201d', u'"'),      # right double-quote
+]
+REPLACEMENTS_HTML = [
+    (u'<o:p>', u'<p>'),
+    (u'</o:p>', u'</p>'),
+]
+RX_EXPR = re.compile(ur'expr:[^\s=]+=\"[^\"]*\"\s+')   # blogger expr 'namespace' abomination
+RX_SCRIPT = re.compile(ur'<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>')   # evil scripts
+#RX_EMPTY_TAGS = re.compile(ur'<[^\/>][^>]*><\/[^>]+>')
+RX_PUNCTSTRIP = re.compile(ur'\p{P}+')
 
 def clean_string(raw):
     prepped = normalize_space(raw)
@@ -30,7 +51,8 @@ def clean_string(raw):
     if len(chopped) > 2:
         cooked = u'.'.join(tuple(chopped[:2]))
         i = 2
-        while i < len(chopped) and len(cooked) < 40:
+        #while i < len(chopped) and len(cooked) < 40: why truncation?
+        while i < len(chopped):
             cooked = cooked + u'.' + chopped[i]
             i = i + 1
     else:
@@ -104,7 +126,7 @@ def deduplicate_sentences(raws):
     return u'. '.join(good_sentences)
 
 def deduplicate_lines(raws):
-    logger = logging.getLogger(sys._getframe().f_code.co_name)
+    #logger = logging.getLogger(sys._getframe().f_code.co_name)
     #logger.debug('\n\ndeduplicating!')
     prev_line = u''
     good_lines = []
@@ -144,9 +166,62 @@ def deduplicate_lines(raws):
         #logger.debug(u'   {0}'.format(line))
     return normalize_space(u' '.join(good_lines))
 
-def purify_html(raw):
+def purify_text(raw):
     """Out vile jelly!"""
-    cooked = RX_DASHES.sub(u'-', raw)   # regularize dashes and hyphens
-    cooked = cooked.replace(u'\u00a0', u' ')    # non-breaking space delenda est
-    cooked = cooked.replace(u'N\xb0', u'No.')   # extirpate use of degree sign as superscript "o" in volume numbers
+
+    raw_type = type(raw)
+    if raw_type == unicode:
+        cooked = raw
+    elif raw_type == str:
+        cooked = unicode(raw)
+    else:
+        raise TypeError(u'purify_text does not support arguments of type {0}'.format(raw_type))
+    cooked = RX_DASHES.sub(u'-', cooked)       # regularize dashes and hyphens
+    for replace in REPLACEMENTS_UNICODE:
+        cooked = cooked.replace(replace[0], replace[1])
+    return cooked
+
+def purify_html(raw):
+    """Out vile jam!"""
+    
+    logger = logging.getLogger(sys._getframe().f_code.co_name)
+    raw_type = type(raw)
+    if raw_type == unicode:
+        cooked = raw
+    elif raw_type == str:
+        cooked = unicode(raw)
+    else:
+        raise TypeError(u'purify_html does not support arguments of type {0}'.format(raw_type))
+    cooked = purify_text(cooked)
+    for replace in REPLACEMENTS_HTML:
+        cooked = cooked.replace(replace[0], replace[1])
+    if u'expr:' in raw:
+        cooked = RX_EXPR.sub(u'', cooked)
+        if u'expr:' in cooked:
+            logger.error("THE EXPR IS STILL HERE!")
+            logger.error(cooked)
+            exit(-100)
+    if u'<script' in raw:
+        cooked = RX_SCRIPT.sub(u'', cooked)
+        if u'<script' in cooked:
+            logger.error("THE SCRIPT IS STILL HERE!")
+            logger.error(cooked)
+            exit(-100)
+    return cooked
+
+def ukey(raw):
+    raw_type = type(raw)
+    if raw_type == list:
+        uraw = u' '.join([unicode(chunk) for chunk in raw])
+    elif raw_type == str:
+        uraw = unicode(raw)
+    elif raw_type == unicode:
+        uraw = raw
+    else:
+        raise TypeError(u'ukey does not support arguments of type {0}'.format(raw_type))
+    cooked = normalize_space(uraw)
+    cooked = RX_PUNCTSTRIP.sub(u'', cooked)
+    cooked = cooked.lower().split()
+    cooked = list(set(cooked))
+    cooked = u''.join(cooked)
     return cooked

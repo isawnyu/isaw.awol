@@ -11,6 +11,16 @@
         <xsl:apply-templates/>
     </xsl:template>
     
+    <xsl:template match="*[local-name()='span' and count(*) = 0 and normalize-space()='']"/>
+    <xsl:template match="*[local-name()='div' and count(*) = 0 and normalize-space()='']"/>
+    <xsl:template match="*[local-name()='table' and count(*) = 0 and normalize-space()='']"/>
+    <xsl:template match="*[local-name()='tr' and count(*) = 0 and normalize-space()='']"/>
+    <xsl:template match="*[local-name()='td' and count(*) = 0 and normalize-space()='']"/>
+    <xsl:template match="*[local-name()='a' and count(*) = 0 and normalize-space()='']"/>
+    <xsl:template match="*[local-name()='a' and contains(@href, 'draft.blogger.com')]"/>
+    <xsl:template match="*[local-name()='a' and @class='libx-autolink']">
+        <xsl:apply-templates/>
+    </xsl:template>
     <xsl:template match="*[local-name()='span' and count(./@*) = 0]">
         <xsl:apply-templates/>
     </xsl:template>
@@ -35,16 +45,14 @@
         <xsl:text>.</xsl:text>
     </xsl:template>
     <xsl:template match="*[local-name()='br' and count(../*) = 1]"/>
-    <xsl:template match="*[local-name()='a'  and not(@href)]"/>       
+    <xsl:template match="*[local-name()='a'  and not(@href)]"/>
+    <xsl:template match="*[local-name()='a'  and @href='']"/>
+    <xsl:template match="*[local-name()='a'  and @href='#']"/>
     <xsl:template match="*[local-name()='a' and contains(@href, 'javascript')]"/>
     <xsl:template match="*[local-name()='a' and contains(@href, 'mailto')]"/>
+    <xsl:template match="*[local-name()='a' and starts-with(@href, 'data:image')]"/>
     
     <xsl:template match="*[local-name()='img' and not(ancestor::*[local-name()='a'])]"/>
-    <xsl:template match="*[local-name()='a' and count(*[local-name()='img']) &gt; 0]">
-        <xsl:call-template name="copier">
-            <xsl:with-param name="replace">%IMAGEREPLACED%</xsl:with-param>
-        </xsl:call-template>
-    </xsl:template>
     <xsl:template match="*[local-name()='script']"/>
     
     <xsl:template match="*">

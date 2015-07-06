@@ -47,18 +47,29 @@ class AwolParsers():
         self.content_soup = article.soup
         domains = self.get_domains()
         length = len(domains)
-        if length > 2:
-            raise NotImplementedError('awol_parsers cannot yet handle multiple domains in a single article: {0}'.format(domains))
-        elif length == 0:
+        logger.debug(
+            u'\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nparsing '
+            + article.url
+            + u'\n')
+        logger.debug(u'domains: {0}'.format(repr(domains)))
+        if length == 0:
             raise NotImplementedError('awol_parsers does not know what to do with no domains in article: {0}'.format(article.id))
-        elif length == 1 or 'www.oxbowbooks.com' in domains:
-            try:
-                parser = self.parsers[domains[0]]
-                #logger.debug('using specialized parser for domain: {0}'.format(parser.domain))
-                return parser.parse(article)
-            except KeyError:
-                #logger.debug('using generic parser')
-                return self.parsers['generic'].parse(article)
+        else:
+            tlow = article.title.lower()
+            if u'journal:' in tlow:
+                parser = self.parsers['generic-single']
+            elif length == 1:
+                try:
+                    parser = self.parsers[domains[0]]
+                except KeyError:
+                    if domains[0] in ['www.egyptpro.sci.waseda.ac.jp',]:
+                        parser = self.parsers['generic-single']
+                    else:
+                        parser = self.parsers['generic']
+            else:
+                raise NotImplementedError(u'awol_parsers does not know what to do with multiple domains in article: {0}\n    {1}'.format(article.id, u'\n    '.join(domains)))
+            logger.info('using "{0}" parser'.format(parser.domain))
+            return parser.parse(article)
 
 
     def reset(self):
