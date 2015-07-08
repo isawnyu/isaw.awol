@@ -495,7 +495,7 @@ class AwolBaseParser:
                     domain = domain_from_url(url)
                     if domain not in self.skip_domains:
                         break
-            a = a.find_next(a)
+            a = a.find_next('a')
         if a is None:
             raise ValueError(u'could not find valid self-or-subsequent resource anchor')
         return (anchor, a, url, domain)
