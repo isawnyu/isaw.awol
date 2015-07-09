@@ -298,3 +298,24 @@ def test_parsers_umcj():
     a = AwolArticle(atom_file_name=file_name)
     parsers = AwolParsers()
     resources = parsers.parse(a)
+
+@with_setup(setup_function, teardown_function)
+def test_parsers_goofy_initial_links():
+    """Some files have initial links with no text content, just a br or something"""
+    file_name = os.path.join(PATH_TEST_DATA, 'post-gouden-hoorn.xml') # <a><br></a>
+    a = AwolArticle(atom_file_name=file_name)
+    parsers = AwolParsers()
+    resources = parsers.parse(a)
+    r = resources[0]
+    assert_equals(r.title, u'Gouden hoorn: tijdschrift over Byzantium = Golden horn: journal of Byzantium')
+    del r
+    del parsers
+    del a
+    file_name = os.path.join(PATH_TEST_DATA, 'post-filologia-neotestamentaria.xml') # <a><span></span></a>
+    a = AwolArticle(atom_file_name=file_name)
+    parsers = AwolParsers()
+    resources = parsers.parse(a)
+    r = resources[0]
+    assert_equals(r.title, u'Filología Neotestamentaria')
+
+

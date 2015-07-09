@@ -482,17 +482,20 @@ class AwolBaseParser:
         return None
 
     def _get_next_valid_url(self, anchor):
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
         a = anchor
         while a is not None:
-            try:
-                url = a.get('href')
-            except AttributeError:
-                url = None
-            else:
-                domain = domain_from_url(url)
-                if domain not in self.skip_domains:
-                    break
-            a = a.find_next(a)
+            logger.debug(u'anchor text: {0}'.format(repr(a.get_text())))
+            if a.get_text() != u'':
+                try:
+                    url = a.get('href')
+                except AttributeError:
+                    url = None
+                else:
+                    domain = domain_from_url(url)
+                    if domain not in self.skip_domains:
+                        break
+            a = a.find_next('a')
         if a is None:
             raise ValueError(u'could not find valid self-or-subsequent resource anchor')
         return (anchor, a, url, domain)
