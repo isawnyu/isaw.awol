@@ -1,0 +1,377 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Have you taken the.", 
+    "domain": "cj.camws.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "book reviews", 
+        "journal", 
+        "classics", 
+        "CJ Online", 
+        "open access"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6723451143308628545", 
+            "resource_date": "2015-03-07T11:26:38.684-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:13:27.660920"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/03/open-access-journal-classical-journal.html", 
+            "resource_date": "2015-03-07T11:26:38.684-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:13:27.660939"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "all-cj-reviews", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "here", 
+            "url": "http://cj.camws.org/abstracts.php"
+        }, 
+        {
+            "title_full": "Forum articles", 
+            "url": "http://cj.camws.org/forum.php"
+        }, 
+        {
+            "title_full": "reviews", 
+            "url": "http://cj.camws.org/reviews.php"
+        }, 
+        {
+            "title_full": "Egypt, Greece, & Rome: Civilizations of the Ancient Mediterranean, Third Edition", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.03.02%20Weaver%20on%20Freeman.pdf"
+        }, 
+        {
+            "title_full": "Digital Loeb Classical Library", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.03.01%20Dik%20on%20LCL.pdf"
+        }, 
+        {
+            "title_full": "Sophocles: Philoctetes", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.02.13%20Keith%20on%20Meineck%20and%20Woodruff.pdf"
+        }, 
+        {
+            "title_full": "Scribes and Scholars: A Guide to the Transmission of Greek and Latin Literature", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.02.12%20Ronnick%20on%20Reynolds.pdf"
+        }, 
+        {
+            "title_full": "The Pregnant Male as Myth and Metaphor in Classical Greek Literature", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.02.11%20Joseph%20on%20Leitao.pdf"
+        }, 
+        {
+            "title_full": "A Companion to Plutarch", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.02.10%20Hogan%20on%20Beck.pdf"
+        }, 
+        {
+            "title_full": "Shaggy Crowns: Ennius\u2019 Annales and Virgil\u2019s Aeneid", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.02.09%20Elliott%20on%20Goldschmidt.pdf"
+        }, 
+        {
+            "title_full": "Seneca\u2019s Tragedies and the Aesthetics of Pantomime", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.02.08%20Kohn%20on%20Zanobi.pdf"
+        }, 
+        {
+            "title_full": "Saint Augustine of Hippo: An Intellectual Biography", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.02.07%20Thurow%20on%20Hollingworth.pdf"
+        }, 
+        {
+            "title_full": "Greek to Latin: Frameworks and Contexts for Intertextuality", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.02.06%20Augoustakis%20on%20Hutchinson.pdf"
+        }, 
+        {
+            "title_full": "The Poems of Gaius Valerius Catullus", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.02.05%20Nagle%20on%20Bienvenu.pdf"
+        }, 
+        {
+            "title_full": "The Poems of Gaius Valerius Catullus", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.02.05%20Nagle%20on%20Bienvenu_0.pdf"
+        }, 
+        {
+            "title_full": "Myth and Tragedies in their Ancient Greek Contexts", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.02.04%20Salowey%20on%20Buxton.pdf"
+        }, 
+        {
+            "title_full": "Helen of Troy: Beauty Myth, Devastation", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.02.03%20Duffy%20on%20Blondell.pdf"
+        }, 
+        {
+            "title_full": "Designing for Luxury on the Bay of Naples: Villas and Landscapes (c.100 BCE-79 CE)", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.02.02%20Miliaresis%20on%20Zarmakoupi.pdf"
+        }, 
+        {
+            "title_full": "Speech Presentation in Homeric Epic", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.02.01%20Zekas%20on%20Beck.pdf"
+        }, 
+        {
+            "title_full": "Homer: The Iliad: Translation, Introduction and Notes", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.01.12%20Williams%20on%20Powell.pdf"
+        }, 
+        {
+            "title_full": "Classics in the Modern World: A \u2018Democratic Turn\u2019?", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.01.11%20Torlone%20on%20Hardwick%20and%20Harrison.pdf"
+        }, 
+        {
+            "title_full": "Piecing Together the Fragments: Translating Classical Verse, Creating Contemporary Poetry", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.01.10%20Wyman%20on%20Balmer.pdf"
+        }, 
+        {
+            "title_full": "Sport and Democracy in the Ancient and Modern Worlds", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.01.09%20Morison%20on%20Christesen.pdf"
+        }, 
+        {
+            "title_full": "Dialoguing in Late Antiquity", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.01.08%20Burt%20on%20Cameron.pdf"
+        }, 
+        {
+            "title_full": "Homeric Speech and the Origins of Rhetoric", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.01.07%20Pedrick%20on%20Knudsen.pdf"
+        }, 
+        {
+            "title_full": "A Companion to Persius and Juvenal", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.01.06%20Walker%20on%20Braund%20and%20Osgood.pdf"
+        }, 
+        {
+            "title_full": "Syrian Identity in the Greco-Roman World", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.01.05%20Ward%20on%20Andrade.pdf"
+        }, 
+        {
+            "title_full": "The Invention of Peter: Apostolic Discourse and Papal Authority in Late Antiquity", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.01.04%20Hutchinson%20on%20Demacopoulos.pdf"
+        }, 
+        {
+            "title_full": "A Companion to Greek Art", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.01.03%20Seaman%20on%20Smith%20and%20Plantzos.pdf"
+        }, 
+        {
+            "title_full": "Dionysus Resurrected: Performances of Euripides\u2019 The Bacchae in a Globalizing World", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.01.02%20Perris%20on%20Fischer-Lichte_0.pdf"
+        }, 
+        {
+            "title_full": "God, Space, & City in the Roman Imagination", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2015.01.01%20Sienkewicz%20on%20Jenkyns.pdf"
+        }, 
+        {
+            "title_full": "The Ancient Dancer in the Modern World: Responses to Greek and Roman Dance", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.12.11%20Ledbetter%20on%20Macintosh.pdf"
+        }, 
+        {
+            "title_full": "Science Before Socrates: Parmenides, Anaxagoras, and the New Astronomy", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.12.10%20Sideron%20Graham.pdf"
+        }, 
+        {
+            "title_full": "The Divination of Caesar and Augustus: Precedents, Consequence, Implications", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.12.09%20Johnston%20on%20Koortbojian.pdf"
+        }, 
+        {
+            "title_full": "Greek Comedy and the Discourse of Genres", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.12.08%20Rothwell%20on%20Bakola%20et%20al..pdf"
+        }, 
+        {
+            "title_full": "Rome's Economic Revolution", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.12.07%20Carbone%20on%20Kay.pdf"
+        }, 
+        {
+            "title_full": "A Companion to Sport and Spectacle in Greek and Roman Antiquity", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.12.06%20Brodersen%20on%20Christesen%20and%20Kyle.pdf"
+        }, 
+        {
+            "title_full": "Tacitus, Annals, 15.20-23, 33-45", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.12.05%20Stipanovic%20on%20Owen%20and%20Gildenhard.pdf"
+        }, 
+        {
+            "title_full": "Ovid and Hesiod: The Metamorphosis of the Catalogue of Women", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.12.04%20Johnson%20on%20Ziogas.pdf"
+        }, 
+        {
+            "title_full": "Ovid\u2019s Revisions: The Editor as Author", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.12.03%20Huskey%20on%20Martelli.pdf"
+        }, 
+        {
+            "title_full": "Wiley\u2019s Real Latin: Learning Latin from the Source", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.12.02%20Colakis%20on%20Maltby%20and%20Belcher.pdf"
+        }, 
+        {
+            "title_full": "Ethics, Identity and Community in Later Roman Declamation", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.12.01%20Balbo%20on%20Bernstein.pdf"
+        }, 
+        {
+            "title_full": "Egypt and the Limits of Hellenism", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.11.13%20Abraham%20on%20Moyer.pdf"
+        }, 
+        {
+            "title_full": "Inscriptions and their Uses in Greek and Latin Literature", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.11.12%20Winters%20on%20Liddel%20and%20Low.pdf"
+        }, 
+        {
+            "title_full": "Toni Morrison and the Classical Tradition: Transforming American Culture", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.11.11%20Freiert%20on%20Roynon.pdf"
+        }, 
+        {
+            "title_full": "Individuals and Society in Mycenaean Pylos", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.11.10%20Pierini%20on%20Nakassis.pdf"
+        }, 
+        {
+            "title_full": "Aeschylus\u2019s Suppliant Women: The Tragedy of Immigration", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.11.09%20Stavrinou%20on%20Bakewell.pdf"
+        }, 
+        {
+            "title_full": "Augustan Poetry and the Roman Republic", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.11.08%20Zanker%20on%20Farrell%20and%20Nelis.pdf"
+        }, 
+        {
+            "title_full": "Cicero on Politics and the Limits of Reason: The Republic and Laws", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.11.07%20McConnell%20on%20Atkins.pdf"
+        }, 
+        {
+            "title_full": "Galen: Three Treatises: An Intermediate Greek Reader", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.11.06%20Cirillo%20on%20Hayes%20and%20Nimis.pdf"
+        }, 
+        {
+            "title_full": "Music in Roman Comedy", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.11.05%20Petrides%20on%20Moore.pdf"
+        }, 
+        {
+            "title_full": "A Classical Greek Reader", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014.11.04%20Lake%20on%20Riley.pdf"
+        }, 
+        {
+            "title_full": "The Door Ajar: False Closure in Greek and Roman Literature and Art", 
+            "url": "http://cj.camws.org/sites/default/files/reviews/2014%2011%2003%20Myers%20on%20Grewing%20et%20al.pdf"
+        }, 
+        {
+            "title_full": "2", 
+            "url": "http://cj.camws.org/all-cj-reviews?page=1"
+        }, 
+        {
+            "title_full": "3", 
+            "url": "http://cj.camws.org/all-cj-reviews?page=2"
+        }, 
+        {
+            "title_full": "4", 
+            "url": "http://cj.camws.org/all-cj-reviews?page=3"
+        }, 
+        {
+            "title_full": "January 2012", 
+            "url": "http://cj.camws.org/files/Books%20Received%20-%20January%202012.pdf"
+        }, 
+        {
+            "title_full": "February 2012", 
+            "url": "http://cj.camws.org/files/Books%20Received%20-%20February%202012.pdf"
+        }, 
+        {
+            "title_full": "March 2012", 
+            "url": "http://cj.camws.org/files/Books%20Received%20-%20March%202012.pdf"
+        }, 
+        {
+            "title_full": "April 2012", 
+            "url": "http://cj.camws.org/files/Books%20Received%20-%20April%202012.pdf"
+        }, 
+        {
+            "title_full": "May-June 2012", 
+            "url": "http://cj.camws.org/files/Books%20Received%20-%20May-June,%202012.pdf"
+        }, 
+        {
+            "title_full": "July-August 2012", 
+            "url": "http://cj.camws.org/files/Books%20Received%20-%20July-August%202012.pdf"
+        }, 
+        {
+            "title_full": "AUTHOR INDEX 2007-2010", 
+            "url": "http://cj.camws.org/reviewsbyauthor.php"
+        }, 
+        {
+            "title_full": "REVIEWER INDEX 2007-2010", 
+            "url": "http://cj.camws.org/reviewsbyreviewer.php"
+        }, 
+        {
+            "title_full": "2007 Book Reviews Archive", 
+            "url": "http://cj.camws.org/reviews2007.php"
+        }, 
+        {
+            "title_full": "2008 Book Reviews Archive", 
+            "url": "http://cj.camws.org/reviews2008.php"
+        }, 
+        {
+            "title_full": "2009 Book Reviews Archive", 
+            "url": "http://cj.camws.org/reviews2009.php"
+        }, 
+        {
+            "title_full": "2010 Book Reviews Archive", 
+            "url": "http://cj.camws.org/reviews2010.php"
+        }, 
+        {
+            "title_full": "2011 Book Reviews Archive", 
+            "url": "http://cj.camws.org/reviews2011.php"
+        }, 
+        {
+            "title_full": "2012 Book Reviews Archive", 
+            "url": "http://cj.camws.org/reviews2012.php"
+        }, 
+        {
+            "title_full": "2013 Book Reviews Archive", 
+            "url": "http://cj.camws.org/reviews2013.php"
+        }
+    ], 
+    "title": "The Classical Journal Reviews", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://cj.camws.org/all-cj-reviews", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

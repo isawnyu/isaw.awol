@@ -1,23 +1,17 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ISSN 1540-8760.", 
+    "description": "The CDLJ seeks substantive contributions dealing with the major themes of the Cuneiform Digital Library Initiative, that is, with text analyses of 4th and 3rd millennium documents (incorporating text, photographs, data, drawings, interpretations), early language, writing, paleography, administrative history, mathematics, metrology, and the technology of modern cuneiform editing. Articles in the CDLB are shorter contributions of two to five pages that deal with specific topics, collations, etc. , and do not attempt to offer synthetic treatments of complex subjects. The CDLN assumes the role of a bulletin board for the quick publication and internet distribution of short notices of at most one page.", 
     "domain": "cdli.ucla.edu", 
     "editors": [], 
     "end_date": null, 
     "extent": null, 
     "form": null, 
     "frequency": null, 
-    "identifiers": {
-        "issn": {
-            "generic": [
-                "1540-8760"
-            ]
-        }
-    }, 
+    "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Two Early Dynastic Capacity Standards", 
-        "url": "http://cdli.ucla.edu/pubs/cdln/archives/000018.html"
+        "title_full": "Cuneiform Digital Library Notes (CDLN)", 
+        "url": "http://cdli.ucla.edu/pubs/cdln/php/index.php"
     }, 
     "issuance": null, 
     "issue": null, 
@@ -25,8 +19,8 @@
     "keywords": [
         "journal", 
         "cuneiform", 
-        "digital library", 
-        "library"
+        "library", 
+        "digital library"
     ], 
     "languages": [
         "en"
@@ -69,90 +63,29 @@
                 "zenon_id", 
                 "zotero_id"
             ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-431515368854888118", 
-            "resource_date": "2011-10-02T09:13:15.044-04:00", 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-500608700154864729", 
+            "resource_date": "2014-10-22T14:40:48.968-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:08:57.827505"
+            "when": "2015-07-11T20:11:37.388431"
         }, 
         {
-            "resource": "http://ancientworldonline.blogspot.com/2011/10/cdli-news.html", 
-            "resource_date": "2011-10-02T09:13:15.044-04:00", 
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-cuneiform-digital.html", 
+            "resource_date": "2014-10-22T14:40:48.968-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:08:57.827515"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7965296273554809948", 
-            "resource_date": "2009-08-31T17:30:01.406-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:13:10.402731"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journals-cuneiform-digital.html", 
-            "resource_date": "2009-08-31T17:30:01.406-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:13:10.402743"
-        }, 
-        {
-            "fields": [
-                "resource_key", 
-                "keywords", 
-                "title", 
-                "languages", 
-                "description", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:13:10.518932"
+            "when": "2015-07-11T20:11:37.388444"
         }
     ], 
     "publishers": [], 
     "related_resources": [], 
-    "resource_key": "pubs-cdlb-html", 
+    "resource_key": "Pubs-cdlb-html", 
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Cuneiform Digital Library Bulletin (CDLB)", 
+    "title": "Cuneiform Digital Library Bulletin", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 
-    "url": "http://cdli.ucla.edu/pubs/cdlb.html", 
+    "url": "http://cdli.ucla.edu/Pubs/cdlb.html", 
     "url_alternates": [], 
     "volume": null, 
     "year": null, 

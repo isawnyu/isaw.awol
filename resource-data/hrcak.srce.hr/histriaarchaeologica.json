@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ISSN:0350-6320.", 
+    "description": "ISSN: 0350-6320. \u010casopis Histria archaeologica izlazi periodi\u010dno od 1970. godine. Nastao je kao potreba objavljivanja arheolo\u0161kih i muzeolo\u0161kih rezultata u jednom specijaliziranom \u010dasopisu. \u010clanci su tematski vezani za arheologiju i umjetnost s istarsko - kvarnerskog podru\u010dja. Dostupnost brojeva: vol. 1 (1970) - vol. 34 (2005) vidi na Url: http://ami. arhivpro. hr. The journal Histria archaeologica has been published periodically since 1970. It emerged from the need to publish archeological and museological results in one specialized journal. The articles are thematically related to archeology and art of the Istrian and Kvarner region.", 
     "domain": "hrcak.srce.hr", 
     "editors": [], 
     "end_date": null, 
@@ -16,19 +16,130 @@
         }
     }, 
     "is_part_of": {
-        "issn": "1334-4676", 
-        "title_full": "Hrcak: Portal of scientific journals of Croatia", 
-        "url": "http://hrcak.srce.hr/"
+        "title_full": "Histria Archaeologica", 
+        "url": "http://hrcak.srce.hr/histriaarchaeologica"
     }, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
     "keywords": [
-        "archaeology"
+        "journal", 
+        "archaeology", 
+        "open access"
     ], 
-    "languages": [], 
+    "languages": [
+        "en"
+    ], 
     "places": [], 
     "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3366370568278026146", 
+            "resource_date": "2012-01-29T07:45:43.894-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:09:20.940493"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-histria.html", 
+            "resource_date": "2012-01-29T07:45:43.894-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:09:20.940510"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3366370568278026146", 
+            "resource_date": "2012-01-29T07:45:43.894-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:09:20.944516"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-histria.html", 
+            "resource_date": "2012-01-29T07:45:43.894-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:09:20.944528"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:09:20.946401"
+        }, 
         {
             "fields": [
                 "authors", 
@@ -68,13 +179,28 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:09:54.646332"
+            "when": "2015-07-11T20:11:35.769340"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/croatian-open-access-archaeology.html", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:09:54.646343"
+            "when": "2015-07-11T20:11:35.769355"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:11:35.837238"
         }
     ], 
     "publishers": [], 
@@ -82,7 +208,12 @@
     "resource_key": "histriaarchaeologica", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "title_full": "Histria Archaeologica", 
+            "url": "http://hrcak.srce.hr/histriaarchaeologica"
+        }
+    ], 
     "title": "Histria archaeologica", 
     "title_alternates": [], 
     "title_extended": null, 

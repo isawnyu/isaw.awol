@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ISSN:0473-0992.", 
+    "description": "[First posted in AWOL 10 August 2010. Updated 17 January 2012].", 
     "domain": "hrcak.srce.hr", 
     "editors": [], 
     "end_date": null, 
@@ -24,10 +24,13 @@
     "issue": null, 
     "issued_dates": null, 
     "keywords": [
-        "archaeology"
+        "journal", 
+        "archaeology", 
+        "open access"
     ], 
     "languages": [
-        "en"
+        "en", 
+        "sl"
     ], 
     "places": [], 
     "provenance": [
@@ -70,13 +73,137 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:09:54.663724"
+            "when": "2015-07-11T20:11:35.794051"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/croatian-open-access-archaeology.html", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:09:54.663736"
+            "when": "2015-07-11T20:11:35.794066"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6842039897589014782", 
+            "resource_date": "2012-09-14T05:54:47.148-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:13:35.931345"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-opvscvla.html", 
+            "resource_date": "2012-09-14T05:54:47.148-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:13:35.931361"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:13:36.058378"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6842039897589014782", 
+            "resource_date": "2012-09-14T05:54:47.148-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:13:36.018611"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-opvscvla.html", 
+            "resource_date": "2012-09-14T05:54:47.148-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:13:36.018626"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:13:36.064477"
         }
     ], 
     "publishers": [], 
@@ -84,7 +211,144 @@
     "resource_key": "opuscula", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "title_full": "Opvscvla Archaeologica Radovi Arheolo\u0161kog zavoda", 
+            "url": "http://hrcak.srce.hr/opuscula"
+        }, 
+        {
+            "title_full": "Vol. 35 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6085"
+        }, 
+        {
+            "title_full": "Vol. 34 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4998"
+        }, 
+        {
+            "title_full": "Vol. 33 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4814"
+        }, 
+        {
+            "title_full": "Vol. 32 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3148"
+        }, 
+        {
+            "title_full": "Vol. 31 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2394"
+        }, 
+        {
+            "title_full": "Vol. 30 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1983"
+        }, 
+        {
+            "title_full": "Vol. 29 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=623"
+        }, 
+        {
+            "title_full": "Vol. 28 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=622"
+        }, 
+        {
+            "title_full": "Vol. 27 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=585"
+        }, 
+        {
+            "title_full": "Vol. 26 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=582"
+        }, 
+        {
+            "title_full": "Vol. 25 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=581"
+        }, 
+        {
+            "title_full": "Vol. 23-24 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=579"
+        }, 
+        {
+            "title_full": "Vol. 22 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=578"
+        }, 
+        {
+            "title_full": "Vol. 21 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=577"
+        }, 
+        {
+            "title_full": "Vol. 20 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=576"
+        }, 
+        {
+            "title_full": "Vol. 19 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=575"
+        }, 
+        {
+            "title_full": "Vol. 18 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=574"
+        }, 
+        {
+            "title_full": "Vol. 17 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=573"
+        }, 
+        {
+            "title_full": "Vol. 16 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=572"
+        }, 
+        {
+            "title_full": "Vol. 15 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=571"
+        }, 
+        {
+            "title_full": "Vol. 14 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=570"
+        }, 
+        {
+            "title_full": "Vol. 13 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=569"
+        }, 
+        {
+            "title_full": "Vol. 11-12 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=568"
+        }, 
+        {
+            "title_full": "Vol. 10 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=567"
+        }, 
+        {
+            "title_full": "Vol. 9 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=566"
+        }, 
+        {
+            "title_full": "Vol. 8 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=565"
+        }, 
+        {
+            "title_full": "Vol. 7 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=564"
+        }, 
+        {
+            "title_full": "Vol. 6 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=563"
+        }, 
+        {
+            "title_full": "Vol. 5 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=562"
+        }, 
+        {
+            "title_full": "Vol. 4 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=561"
+        }, 
+        {
+            "title_full": "Vol. 3 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=560"
+        }, 
+        {
+            "title_full": "Vol. 2 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=542"
+        }, 
+        {
+            "title_full": "Vol. 1 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=541"
+        }
+    ], 
     "title": "Opuscula Archaeologica Papers of the Department of Archaeology", 
     "title_alternates": [], 
     "title_extended": null, 

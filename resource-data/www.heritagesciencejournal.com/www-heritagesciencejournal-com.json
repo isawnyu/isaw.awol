@@ -15,10 +15,7 @@
             ]
         }
     }, 
-    "is_part_of": {
-        "title_full": "Heritage Science", 
-        "url": "http://www.heritagesciencejournal.com/"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -76,74 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4076901833376446845", 
             "resource_date": "2014-11-08T11:41:51.576-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:08:33.207415"
+            "when": "2015-07-11T20:09:58.708728"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/new-open-access-journal-heritage-science.html", 
             "resource_date": "2014-11-08T11:41:51.576-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:08:33.207430"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4076901833376446845", 
-            "resource_date": "2014-11-08T11:41:51.576-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:08:33.262786"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/04/new-open-access-journal-heritage-science.html", 
-            "resource_date": "2014-11-08T11:41:51.576-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:08:33.262801"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:08:33.328106"
+            "when": "2015-07-11T20:09:58.708746"
         }
     ], 
     "publishers": [], 
@@ -152,10 +88,6 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [
-        {
-            "title_full": "Heritage Science", 
-            "url": "http://www.heritagesciencejournal.com/"
-        }, 
         {
             "title_full": "Fine particulate matter in indoor cultural heritage: a literature review", 
             "url": "http://www.heritagesciencejournal.com/content/1/1/8"

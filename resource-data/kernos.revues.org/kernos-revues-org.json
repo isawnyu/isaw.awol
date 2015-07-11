@@ -15,22 +15,19 @@
             ]
         }
     }, 
-    "is_part_of": {
-        "title_full": "Kernos - Revue internationale et pluridisciplinaire de religion grecque antique", 
-        "url": "http://kernos.revues.org/"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
     "keywords": [
+        "antiquity", 
         "ancient", 
-        "classics", 
         "journal", 
         "France", 
         "religion", 
         "open access", 
         "Greece", 
-        "antiquity"
+        "classics"
     ], 
     "languages": [
         "fr"
@@ -76,75 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3633555356732043428", 
             "resource_date": "2015-01-27T06:18:23.860-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:08:13.647159"
+            "when": "2015-07-11T20:09:37.824471"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-coming-soon-kernos.html", 
             "resource_date": "2015-01-27T06:18:23.860-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:08:13.647174"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3633555356732043428", 
-            "resource_date": "2015-01-27T06:18:23.860-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:08:13.683943"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-coming-soon-kernos.html", 
-            "resource_date": "2015-01-27T06:18:23.860-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:08:13.683955"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "volume", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:08:13.719274"
+            "when": "2015-07-11T20:09:37.824488"
         }
     ], 
     "publishers": [], 
@@ -153,10 +88,6 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [
-        {
-            "title_full": "Kernos - Revue internationale et pluridisciplinaire de religion grecque antique", 
-            "url": "http://kernos.revues.org/"
-        }, 
         {
             "title_full": "Auteurs", 
             "url": "http://kernos.revues.org/33"
@@ -272,7 +203,7 @@
     "type": null, 
     "url": "http://kernos.revues.org/", 
     "url_alternates": [], 
-    "volume": "-", 
+    "volume": null, 
     "year": null, 
     "zenon_id": null, 
     "zotero_id": null

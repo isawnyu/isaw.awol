@@ -15,10 +15,7 @@
             ]
         }
     }, 
-    "is_part_of": {
-        "title_full": "Zograf", 
-        "url": "http://www.doiserbia.nb.rs/journal.aspx?issn=0350-1361"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -73,74 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2519168584340367379", 
             "resource_date": "2014-12-26T08:57:48.497-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:06:27.116266"
+            "when": "2015-07-11T20:07:39.085973"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-zograf.html", 
             "resource_date": "2014-12-26T08:57:48.497-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:06:27.116283"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2519168584340367379", 
-            "resource_date": "2014-12-26T08:57:48.497-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:06:27.123305"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-zograf.html", 
-            "resource_date": "2014-12-26T08:57:48.497-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:06:27.123316"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:06:27.141990"
+            "when": "2015-07-11T20:07:39.085991"
         }
     ], 
     "publishers": [], 
@@ -149,10 +85,6 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [
-        {
-            "title_full": "Zograf", 
-            "url": "http://www.doiserbia.nb.rs/journal.aspx?issn=0350-1361"
-        }, 
         {
             "title_full": "Issue 36", 
             "url": "http://www.doiserbia.nb.rs/issue.aspx?issueid=1977"

@@ -12,10 +12,7 @@
     "form": null, 
     "frequency": null, 
     "identifiers": {}, 
-    "is_part_of": {
-        "title_full": "News in Conservation", 
-        "url": "https://www.iiconservation.org/publications/nic"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -70,74 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4824499704354562875", 
             "resource_date": "2013-04-11T14:38:34.523-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:09:28.395063"
+            "when": "2015-07-11T20:11:04.846218"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/open-access-journal-news-in-conservation.html", 
             "resource_date": "2013-04-11T14:38:34.523-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:09:28.395078"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4824499704354562875", 
-            "resource_date": "2013-04-11T14:38:34.523-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:09:28.826446"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/04/open-access-journal-news-in-conservation.html", 
-            "resource_date": "2013-04-11T14:38:34.523-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:09:28.826461"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "authors", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:09:28.930504"
+            "when": "2015-07-11T20:11:04.846235"
         }
     ], 
     "publishers": [], 
@@ -146,10 +82,6 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [
-        {
-            "title_full": "News in Conservation", 
-            "url": "https://www.iiconservation.org/publications/nic"
-        }, 
         {
             "title_full": "Download", 
             "url": "https://www.iiconservation.org/system/files/publications/journal/2013/b2013_1.pdf"

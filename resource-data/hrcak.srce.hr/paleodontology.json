@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "e-ISSN:1846-6273.", 
+    "description": "[First posted in AWOL 10 August 2010. Updated 13 October 2011].", 
     "domain": "hrcak.srce.hr", 
     "editors": [], 
     "end_date": null, 
@@ -24,7 +24,8 @@
     "issue": null, 
     "issued_dates": null, 
     "keywords": [
-        "journal"
+        "journal", 
+        "open access"
     ], 
     "languages": [
         "en"
@@ -67,16 +68,77 @@
                 "zenon_id", 
                 "zotero_id"
             ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4638267331575491393", 
+            "resource_date": "2011-12-30T16:44:36.587-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:10:40.822767"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-bulletin-of.html", 
+            "resource_date": "2011-12-30T16:44:36.587-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:10:40.822784"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:09:54.634522"
+            "when": "2015-07-11T20:11:35.752203"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/croatian-open-access-archaeology.html", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:09:54.634533"
+            "when": "2015-07-11T20:11:35.752218"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:11:35.831034"
         }
     ], 
     "publishers": [], 
@@ -84,7 +146,48 @@
     "resource_key": "paleodontology", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "title_full": "Vol. 5 No. 2", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6058"
+        }, 
+        {
+            "title_full": "Vol. 5 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=5565"
+        }, 
+        {
+            "title_full": "Vol. 4 No. 2", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=5014"
+        }, 
+        {
+            "title_full": "Vol. 4 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4339"
+        }, 
+        {
+            "title_full": "Vol. 3 No. 2", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3757"
+        }, 
+        {
+            "title_full": "Vol. 3 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3227"
+        }, 
+        {
+            "title_full": "Vol. 2 No. 2", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2751"
+        }, 
+        {
+            "title_full": "Vol. 2 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2750"
+        }, 
+        {
+            "title_full": "Vol. 1 No. 2", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2749"
+        }, 
+        {
+            "title_full": "Vol. 1 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2748"
+        }
+    ], 
     "title": "Bulletin of the International Association for Paleodontology", 
     "title_alternates": [], 
     "title_extended": null, 

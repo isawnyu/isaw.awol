@@ -11,10 +11,7 @@
     "form": null, 
     "frequency": null, 
     "identifiers": {}, 
-    "is_part_of": {
-        "title_full": "Textual Transmission eJournal", 
-        "url": "http://www.ssrn.com/update/crn/crn_textual-transmission.html"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -66,75 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3084893950572710230", 
             "resource_date": "2014-10-28T11:43:20.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:06:49.468039"
+            "when": "2015-07-11T20:08:05.622952"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/open-access-journal-textual.html", 
             "resource_date": "2014-10-28T11:43:20.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:06:49.468055"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3084893950572710230", 
-            "resource_date": "2014-10-28T11:43:20.617-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:06:49.514853"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2014/10/open-access-journal-textual.html", 
-            "resource_date": "2014-10-28T11:43:20.617-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:06:49.514866"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "authors", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:06:49.516232"
+            "when": "2015-07-11T20:08:05.622969"
         }
     ], 
     "publishers": [], 
@@ -142,12 +77,7 @@
     "resource_key": "update-crn-crn-textual-transmission-html", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [
-        {
-            "title_full": "Textual Transmission eJournal", 
-            "url": "http://www.ssrn.com/update/crn/crn_textual-transmission.html"
-        }
-    ], 
+    "subordinate_resources": [], 
     "title": "Textual Transmission eJournal", 
     "title_alternates": [], 
     "title_extended": null, 

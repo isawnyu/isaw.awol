@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "See the full.", 
+    "description": "[First posted in AWOL 9 November 2009. Updated 8 September 2014].", 
     "domain": "www.mcgill.ca", 
     "editors": [], 
     "end_date": null, 
@@ -17,8 +17,11 @@
     "issue": null, 
     "issued_dates": null, 
     "keywords": [
+        "Canada", 
         "journal", 
-        "classics"
+        "classics", 
+        "student journal", 
+        "open access"
     ], 
     "languages": [
         "en"
@@ -64,13 +67,74 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7265513926418568980", 
             "resource_date": "2013-09-15T08:48:19.092-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:12:02.745719"
+            "when": "2015-07-11T20:13:53.177048"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-classical-studies.html", 
             "resource_date": "2013-09-15T08:48:19.092-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:12:02.745733"
+            "when": "2015-07-11T20:13:53.177065"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9217204059203284342", 
+            "resource_date": "2014-09-08T16:17:50.568-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:17:24.372018"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-hirundo-mcgill.html", 
+            "resource_date": "2014-09-08T16:17:50.568-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:17:24.372034"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:17:24.398667"
         }
     ], 
     "publishers": [], 
@@ -78,7 +142,56 @@
     "resource_key": "classics-hirundo", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "title_full": "Volume I (2001)", 
+            "url": "http://www.mcgill.ca/classics/hirundo/volume01"
+        }, 
+        {
+            "title_full": "Volume II (2002)", 
+            "url": "http://www.mcgill.ca/classics/hirundo/volume02"
+        }, 
+        {
+            "title_full": "Volume III (2004)", 
+            "url": "http://www.mcgill.ca/classics/hirundo/volume03"
+        }, 
+        {
+            "title_full": "Volume IV (2005-06)", 
+            "url": "http://www.mcgill.ca/classics/hirundo/volume04"
+        }, 
+        {
+            "title_full": "Volume V (2006-07)", 
+            "url": "http://www.mcgill.ca/classics/hirundo/volume05"
+        }, 
+        {
+            "title_full": "Volume VI (2007-08)", 
+            "url": "http://www.mcgill.ca/classics/hirundo/volume06"
+        }, 
+        {
+            "title_full": "Volume VII (2008-09)", 
+            "url": "http://www.mcgill.ca/classics/hirundo/volume07"
+        }, 
+        {
+            "title_full": "Volume VIII (2009-10)", 
+            "url": "http://www.mcgill.ca/classics/hirundo/volume08"
+        }, 
+        {
+            "title_full": "Volume IX (2010-11)", 
+            "url": "http://www.mcgill.ca/classics/hirundo/volume-ix-2010-11"
+        }, 
+        {
+            "title_full": "Volume X (2011-12)", 
+            "url": "http://www.mcgill.ca/classics/hirundo/volume-x-2011-12"
+        }, 
+        {
+            "title_full": "Volume XI (2012-13)", 
+            "url": "http://www.mcgill.ca/classics/hirundo/volume-xi-2012-13"
+        }, 
+        {
+            "title_full": "Volume XII (2013-14)", 
+            "url": "http://www.mcgill.ca/classics/hirundo/volume-xii-2013-14"
+        }
+    ], 
     "title": "Hirundo, the McGill Journal of Classical Studies", 
     "title_alternates": [], 
     "title_extended": null, 

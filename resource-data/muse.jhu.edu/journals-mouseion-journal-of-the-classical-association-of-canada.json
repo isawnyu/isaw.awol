@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Syllecta Classica (Vol. 20 (2009) through current issue).", 
+    "description": "[First posted in AWOL 5 November 2009. Updated 26 March 2015. Mouseion is now.", 
     "domain": "muse.jhu.edu", 
     "editors": [], 
     "end_date": null, 
@@ -18,8 +18,10 @@
     "issued_dates": null, 
     "keywords": [
         "Canada", 
+        "project", 
         "journal", 
-        "classics"
+        "classics", 
+        "open access"
     ], 
     "languages": [
         "en"
@@ -65,13 +67,74 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5070101992196523291", 
             "resource_date": "2013-05-13T13:39:17.989-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:09:59.751498"
+            "when": "2015-07-11T20:11:41.422875"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/ancient-world-in-project-muse.html", 
             "resource_date": "2013-05-13T13:39:17.989-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:09:59.751509"
+            "when": "2015-07-11T20:11:41.422887"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6457637074744169272", 
+            "resource_date": "2015-03-26T11:18:15.730-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:13:04.852327"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-journal-mousaion.html", 
+            "resource_date": "2015-03-26T11:18:15.730-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:13:04.852343"
+        }, 
+        {
+            "fields": [
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:13:04.854337"
         }
     ], 
     "publishers": [], 
@@ -84,8 +147,10 @@
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 
-    "url": "http://muse.jhu.edu/journals/mouseion_journal_of_the_classical_association_of_canada/", 
-    "url_alternates": [], 
+    "url": "http://muse.jhu.edu/journals/mouseion_journal_of_the_classical_association_of_canada", 
+    "url_alternates": [
+        "http://muse.jhu.edu/journals/mouseion_journal_of_the_classical_association_of_canada/"
+    ], 
     "volume": null, 
     "year": null, 
     "zenon_id": null, 

@@ -9,19 +9,16 @@
     "form": null, 
     "frequency": null, 
     "identifiers": {}, 
-    "is_part_of": {
-        "title_full": "Etruscan News", 
-        "url": "http://ancientstudies.fas.nyu.edu/page/etruscan"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
     "keywords": [
-        "journal", 
-        "Etruscans", 
-        "Italy", 
         "open access", 
-        "archaeology"
+        "journal", 
+        "Italy", 
+        "archaeology", 
+        "Etruscans"
     ], 
     "languages": [
         "en"
@@ -67,74 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3385377136117918415", 
             "resource_date": "2015-01-19T13:26:34.767-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:07:58.641605"
+            "when": "2015-07-11T20:09:21.407037"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/changes-etruscan-news.html", 
             "resource_date": "2015-01-19T13:26:34.767-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:07:58.641621"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3385377136117918415", 
-            "resource_date": "2015-01-19T13:26:34.767-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:07:58.657535"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2009/12/changes-etruscan-news.html", 
-            "resource_date": "2015-01-19T13:26:34.767-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:07:58.657546"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:07:58.683221"
+            "when": "2015-07-11T20:09:21.407053"
         }
     ], 
     "publishers": [], 
@@ -143,10 +79,6 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [
-        {
-            "title_full": "Etruscan News", 
-            "url": "http://ancientstudies.fas.nyu.edu/page/etruscan"
-        }, 
         {
             "title_full": "Winter 2014", 
             "url": "http://ancientstudies.fas.nyu.edu/docs/CP/963/EtruscanNewsVol16.pdf"

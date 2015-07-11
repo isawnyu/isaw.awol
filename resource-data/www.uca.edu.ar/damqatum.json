@@ -9,18 +9,15 @@
     "form": null, 
     "frequency": null, 
     "identifiers": {}, 
-    "is_part_of": {
-        "title_full": "Damqatum: THE CEHAO NEWSLETTER/ EL BOLET\u00cdN DE NOTICIAS DEL CEHAO", 
-        "url": "http://www.uca.edu.ar/damqatum"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
     "keywords": [
         "Argentina", 
-        "open access", 
+        "Spanish", 
         "journal", 
-        "Spanish"
+        "open access"
     ], 
     "languages": [
         "es"
@@ -66,74 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1159558787763934508", 
             "resource_date": "2015-07-01T10:46:31.059-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:05:10.754984"
+            "when": "2015-07-11T20:06:13.452446"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-damqatum-cehao.html", 
             "resource_date": "2015-07-01T10:46:31.059-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:05:10.755000"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1159558787763934508", 
-            "resource_date": "2015-07-01T10:46:31.059-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:05:10.897409"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-damqatum-cehao.html", 
-            "resource_date": "2015-07-01T10:46:31.059-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:05:10.897424"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:05:10.900132"
+            "when": "2015-07-11T20:06:13.452462"
         }
     ], 
     "publishers": [], 
@@ -141,12 +77,7 @@
     "resource_key": "damqatum", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [
-        {
-            "title_full": "Damqatum: THE CEHAO NEWSLETTER/ EL BOLET\u00cdN DE NOTICIAS DEL CEHAO", 
-            "url": "http://www.uca.edu.ar/damqatum"
-        }
-    ], 
+    "subordinate_resources": [], 
     "title": "Damqatum: THE CEHAO NEWSLETTER/ EL BOLET\u00cdN DE NOTICIAS DEL CEHAO", 
     "title_alternates": [], 
     "title_extended": null, 

@@ -15,10 +15,7 @@
             ]
         }
     }, 
-    "is_part_of": {
-        "title_full": "ReDIVA: Revista Doctoranzilor \u00een Istorie Veche \u015fi Arheologie - The Postgraduate Journal of Ancient History and Archaeology", 
-        "url": "http://rediva.ro/"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -76,75 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8597554781167989807", 
             "resource_date": "2013-12-02T15:45:35.177-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:14:06.427181"
+            "when": "2015-07-11T20:16:03.962407"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/new-open-access-journal-rediva-revista.html", 
             "resource_date": "2013-12-02T15:45:35.177-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:14:06.427196"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8597554781167989807", 
-            "resource_date": "2013-12-02T15:45:35.177-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:14:06.434955"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/12/new-open-access-journal-rediva-revista.html", 
-            "resource_date": "2013-12-02T15:45:35.177-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:14:06.434968"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "volume", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:14:06.452956"
+            "when": "2015-07-11T20:16:03.962423"
         }
     ], 
     "publishers": [], 
@@ -153,10 +88,6 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [
-        {
-            "title_full": "ReDIVA: Revista Doctoranzilor \u00een Istorie Veche \u015fi Arheologie - The Postgraduate Journal of Ancient History and Archaeology", 
-            "url": "http://rediva.ro/"
-        }, 
         {
             "title_full": "Alexandru Berzovan, Some remarks on the Dacian silver hoard found at Gura V\u0103ii (Ple\u0219cu\u021ba town, Arad County)", 
             "url": "http://rediva.ro/wp-content/uploads/2013/12/Berzovan_ReDIVA_I_2013.pdf"
@@ -192,7 +123,7 @@
     "type": null, 
     "url": "http://rediva.ro/", 
     "url_alternates": [], 
-    "volume": "-", 
+    "volume": null, 
     "year": null, 
     "zenon_id": null, 
     "zotero_id": null

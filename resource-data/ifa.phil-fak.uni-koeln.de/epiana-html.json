@@ -1,0 +1,695 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL 2 November 2009. Updated 1 March 2013].", 
+    "domain": "ifa.phil-fak.uni-koeln.de", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "epigraphy", 
+        "Anatolia", 
+        "Latin", 
+        "Turkey", 
+        "journal", 
+        "Greek", 
+        "open access"
+    ], 
+    "languages": [
+        "de"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6615839450005300841", 
+            "resource_date": "2013-03-01T14:11:40.849-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:13:24.402361"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/partially-open-access-journal.html", 
+            "resource_date": "2013-03-01T14:11:40.849-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:13:24.402377"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "epiana-html", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Die Herausgeber", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/hrsg.html"
+        }, 
+        {
+            "title_full": "Index aller B\u00e4nde", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/EA_index1-44.pdf"
+        }, 
+        {
+            "title_full": "Inhalt des aktuellen Bandes", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/inhalt_44.pdf"
+        }, 
+        {
+            "title_full": "Downloads", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/downloads2.html"
+        }, 
+        {
+            "title_full": "Impressum", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/impressum.html"
+        }, 
+        {
+            "title_full": "001: Hammerstaedt, J. - Smith, M. F., Diogenes of Oinoanda: The Discoveries of 2009", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042001.pdf"
+        }, 
+        {
+            "title_full": "039: Malay, H. - Ricl, M., Two New Hellenistic Decrees from Aigai in Aiolis", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042039.pdf"
+        }, 
+        {
+            "title_full": "061: Fabiani, R., Eupolemos Potalou o Eupolemos Simalou? Un nuovo documento da Iasos", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042061.pdf"
+        }, 
+        {
+            "title_full": "078: Akat, S., A New Ephebic List from Iasos", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042078.pdf"
+        }, 
+        {
+            "title_full": "081: Tanr\u0131ver, C., Three New Inscriptions from Tripolis", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042081.pdf"
+        }, 
+        {
+            "title_full": "087: Ak\u0131nc\u0131 \u00d6zt\u00fcrk, E. - Tanr\u0131ver, C., Some New Finds from the Sanctuary of Apollon Lairbenos", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042087.pdf"
+        }, 
+        {
+            "title_full": "099: Kele\u015f, V. - Ful, \u015e. D., An Inscribed ampulla from Parion", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042099.pdf"
+        }, 
+        {
+            "title_full": "101: Ful, \u015e. D., A Dedication to Isis and Sarapis", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042101.pdf"
+        }, 
+        {
+            "title_full": "103: Bruns-\u00d6zgan, Chr., Eine feine Familie: Theopompos von Knidos und seine Nachkommen", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042103.pdf"
+        }, 
+        {
+            "title_full": "135: Staab, G., Epigramm auf eine Nemesisweihung und Sonnenuhr aus Oinoanda", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042135.pdf"
+        }, 
+        {
+            "title_full": "143: Jones, C. P., Christianity at Apollonia of Pisidia?", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042143.pdf"
+        }, 
+        {
+            "title_full": "145: Jones, C. P., New Late Antique Epigrams from Stratonicea in Caria", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042145.pdf"
+        }, 
+        {
+            "title_full": "152: Bowersock, G. W., A New Funerary Epigram from Laodicea ad Lycum", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042152.pdf"
+        }, 
+        {
+            "title_full": "157: Vuj\u010di\u0107, N., Greek Popular Assemblies in the Imperial Period and ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042157.pdf"
+        }, 
+        {
+            "title_full": "170: Psoma, S., Monetary Terminology in Pre-Roman Asia Minor", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/042170.pdf"
+        }, 
+        {
+            "title_full": "001: Hammerstaedt, J. - Smith, M. F., Diogenes of Oinoanda: The Discoveries of 2008", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/041001.pdf"
+        }, 
+        {
+            "title_full": "039: Isager, S. - Karlsson, L., A New Inscription from Labraunda ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/041039.pdf"
+        }, 
+        {
+            "title_full": "053: \u015eahin, M. \u00c7., Recent Excavations at Stratonikeia and ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/041053.pdf"
+        }, 
+        {
+            "title_full": "082: \u015eahin, M. \u00c7., Two Lists of Priests from Koraia, a Phyle of Stratonikeia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/041082.pdf"
+        }, 
+        {
+            "title_full": "086: \u015eahin, M. \u00c7., Number \"Nine\" in an Inscription from Aksaray", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/041086.pdf"
+        }, 
+        {
+            "title_full": "087: Ertu\u011frul, F., Some New Inscriptions from Tralleis and Aphrodisias", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/041087.pdf"
+        }, 
+        {
+            "title_full": "091: Ak\u0131nc\u0131 \u00d6zt\u00fcrk, E. - Tanr\u0131ver, C., New Katagraphai and Dedications from the Sanctuary ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/041091.pdf"
+        }, 
+        {
+            "title_full": "113: Sayar, M. H. - \u015eahin, H., Zeus Kodopas. Eine neue Epiklese des Zeus ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/041113.pdf"
+        }, 
+        {
+            "title_full": "125: French, D. H., Notes on Cappadocian Milestones: The Caesaria-Melitene Road", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/041125.pdf"
+        }, 
+        {
+            "title_full": "135: Boybeyi, S. - Probst, P., Ein neuer Meilenstein aus Keklikoluk (Kappadokien)", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/041135.pdf"
+        }, 
+        {
+            "title_full": "139: Probst, P., Anmerkungen zu den Inschriften von Ikonion", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/041139.pdf"
+        }, 
+        {
+            "title_full": "141: McKechnie, P. R., Apollonia: An Early Testimony for Christianity in Anatolia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/041141.pdf"
+        }, 
+        {
+            "title_full": "147: Christof, E., Anikonische Grabmarker in Kleinasien: die sog. \u201ePhallossteine\"", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/041147.pdf"
+        }, 
+        {
+            "title_full": "174: Daubner, F., Der pergamenische Monatsname Eumeneios", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/041174.pdf"
+        }, 
+        {
+            "title_full": "001: Smith, M. F. - Hammerstaedt, J., The Inscription of Diogenes of Oinoanda. ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040001.pdf"
+        }, 
+        {
+            "title_full": "013: Malay, H., Kallipatrai, a chorion in Aiolis", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040013.pdf"
+        }, 
+        {
+            "title_full": "016 Akkan, Y. - Malay, H., The Village Tar(i)gye ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040016.pdf"
+        }, 
+        {
+            "title_full": "023: Ricl, M. - Malay, H., Two New Public Inscriptions from Herakleia Salbake", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040023.pdf"
+        }, 
+        {
+            "title_full": "029: Ricl, M. - Akat, S., A New Honorary Inscription for Cn. Vergilius Capito from Miletos", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040029.pdf"
+        }, 
+        {
+            "title_full": "033: Ayda\u015f, M., Two New Inscriptions from Stratonikeia in Caria", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040033.pdf"
+        }, 
+        {
+            "title_full": "035: \u015eahin, H., Eine neue Weihinschrift f\u00fcr Zeus Epikarpios aus dem Mittleren ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040035.pdf"
+        }, 
+        {
+            "title_full": "041: Bl\u00fcmel, W., Neue Inschriften aus Karien III", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040041.pdf"
+        }, 
+        {
+            "title_full": "049: Ra\u00dfelnberg, A. L., Ehren f\u00fcr einen [ ] Cosconius M. f", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040049.pdf"
+        }, 
+        {
+            "title_full": "052: Ra\u00dfelnberg, A. L., Ehrung f\u00fcr einen Q. Mucius Scaevola in Nysa", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040052.pdf"
+        }, 
+        {
+            "title_full": "055: Ma, J., Dating the New Decree of the Confederation of Athena Ilias", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040055.pdf"
+        }, 
+        {
+            "title_full": "058: Hahnemann, C., Zum Verbleib der Grabstele SEG 19, 728 (Demirkap\u0131)", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040058.pdf"
+        }, 
+        {
+            "title_full": "059: Catling, R. W. V. - Kanavou, N., Hermesianax the Olympic Victor ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040059.pdf"
+        }, 
+        {
+            "title_full": "067: French, D. H., Inscriptions from Cappadocia II. Museums of Aksaray ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040067.pdf"
+        }, 
+        {
+            "title_full": "109: Cadwallader, A. H., Two New Inscriptions, a Correction and a Confirmed Sighting ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040109.pdf"
+        }, 
+        {
+            "title_full": "119: de Hoz, M. P., A Phrygian Funerary Stele in an Antique Shop in Seville (Spain)", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040119.pdf"
+        }, 
+        {
+            "title_full": "125: Saba, S., Temporary and Permanent Housing for New Citizens", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040125.pdf"
+        }, 
+        {
+            "title_full": "135: Hirschmann, V., Zwischen Menschen und G\u00f6ttern. Die kleinasiatischen Engel", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040135.pdf"
+        }, 
+        {
+            "title_full": "147: Destephen, S., La fronti\u00e8re orientale de la province d\u2019Asie: le dossier de Takina", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/040147.pdf"
+        }, 
+        {
+            "title_full": "001: Hammerstaedt, J., Zum Text der epikureischen Inschrift des Diogenes von Oinoanda", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/039001_Hammerstaedt_Zum_text_der_epikureischen_Inschrift_des_Diogenes_von_Oinoanda.pdf"
+        }, 
+        {
+            "title_full": "049: Malay, H. - Ricl, M., Some Funerary Inscriptions from Lydia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/039049_Malay_Ricl_Some_Funerary_Inscriptions_from_Lydia.pdf"
+        }, 
+        {
+            "title_full": "084: Malay, H. - Ricl, M., A New Dedication from the Katakekaumene", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/039084_Malay_Ricl_A_New_Dedication_from_the_Katakekaumene.pdf"
+        }, 
+        {
+            "title_full": "087: Malay, H., Some Inscriptions from Lydia up for Auction", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/039087_Malay_Some_Inscriptions_from_Lydia_up_for_Auction.pdf"
+        }, 
+        {
+            "title_full": "100: Malay, H., New Inscriptions from Philadelphia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/039100_Malay_New_Inscriptions_from_Philadelphia.pdf"
+        }, 
+        {
+            "title_full": "103: Malay, H., Three Dedications to Zeus Keraunios", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/039103_Malay_Three_Dedications_to_Zeus_Kerausios.pdf"
+        }, 
+        {
+            "title_full": "105: Ayda\u015f, M., Gladiatorial Inscriptions from Stratonikeia in Caria", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/039105_Aydas_Gladiatorial_Inscriptions_from_Stratonikeia_in_Caria.pdf"
+        }, 
+        {
+            "title_full": "111: Ayda\u015f, M., Three Inscriptions from Stratonikeia in Caria", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/039111_Aydas_Three_Inscriptions_from_Stratonikeia_in_Caria.pdf"
+        }, 
+        {
+            "title_full": "113: Ayta\u00e7lar, P. \u00d6. - Ak\u0131nc\u0131, E., A List of Female Names from Laodicea on the Lycos", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/039113_Aytaclar_Akinci_A_List_of_Female_names_from_Laodicea_on_the_Lycos.pdf"
+        }, 
+        {
+            "title_full": "117: \u015eahin, H., Eine neue Grabinschrift aus Seleukeia ad Calycadnum", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/039117_Sahin_Eine_neue_Grabinschrift_aus_Seleukeia_ad_Calycadnum.pdf"
+        }, 
+        {
+            "title_full": "121: Corsten, Th., Prosopographische und onomastische Notizen II", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/039121_Corsten_Prosopographische_und_onomastische_Notizen_II.pdf"
+        }, 
+        {
+            "title_full": "133: Santangelo, F., Magnesia sul Meandro alla vigilia della prima guerra mitridatica", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/039133_Santangelo_Magnesia_sul_Meandro_alla_vigilia_della_prma_guerra_mitridatica.pdf"
+        }, 
+        {
+            "title_full": "139: Petropoulou, M.-Z., A Seleucid Settlement on Failaka", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/039139_Petropoulou_Seleucid_Settlement_on_Failaka.pdf"
+        }, 
+        {
+            "title_full": "001: Carbon, J.-M., \u0394\u03ac\u03c1\u03c1\u03c9\u03bd and \u03b4\u03b1\u03af\u03bc\u03c9\u03bd: A New Inscription from Mylasa", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038001_Carbon_Darron_and_daimon_A_New_Inscription_from_Mylasa.pdf"
+        }, 
+        {
+            "title_full": "007: Bl\u00fcmel, W. - K\u0131z\u0131l, A., Die Grabanlage des Moschion in Mylasa", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038007_Bluemel_Kizil_Die_Grabanlage_des_Moschion_in_Mylasa.pdf"
+        }, 
+        {
+            "title_full": "009: \u015eahin, M. \u00c7., A Hellenistic List of Donors from Stratonikeia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038009_Sahin_A_Hellenistic_List_of_Donors_from_Stratonikeia.pdf"
+        }, 
+        {
+            "title_full": "013: \u015eahin, M. \u00c7., The So-Called \u03ba\u03c1\u03ae\u03bd\u03b7 \u03a0\u03b1\u03c1\u03b8\u03b5\u03bd\u03b9\u03ba\u03ae at Stratonikeia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038013_Sahin_The_So-Calles_krene_Parthenike_at_Stratonikeia.pdf"
+        }, 
+        {
+            "title_full": "015: \u00d6zhan, T., New Inscriptions from the Museum Depot at Stratonikeia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038015_OEzhan_New_Inscriptions_from_the_Museum_depot_at_Stratonikeia.pdf"
+        }, 
+        {
+            "title_full": "021: Petzl, G., Neue Inschriften aus Lydien (V)", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038021_Petzl_Neue_Inschriften_aus_Lydien__V_.pdf"
+        }, 
+        {
+            "title_full": "035: Petzl, G., Minima Pataraea", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038035_Petzl_Minima_Pataraea.pdf"
+        }, 
+        {
+            "title_full": "037: Malay, H. - Petzl, G., Aschenkisten aus Lydien", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038037_Malay_Petzl_Aschenkisten_aus_Lydien.pdf"
+        }, 
+        {
+            "title_full": "042: Malay, H., \u03a6\u03b9\u03bb\u03ac\u03bd\u03c0\u03b5\u03bb\u03bf\u03b9 in Phrygia and Lydia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038042_Malay_Philanpeloi_in_Phrygia_and_Lydia.pdf"
+        }, 
+        {
+            "title_full": "045: Ricl, M. - Malay, H., \u1f0c\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9 \u03b8\u03c1\u03b5\u03c0\u03c4\u03b9\u03ba\u03bf\u03af in a New Inscription from Hypaipa", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038045_Ricl_Malay_Anthropoi_threptikoi_in_a_New_Inscription_from_Hypaipa.pdf"
+        }, 
+        {
+            "title_full": "053: Akat, S., Three Inscriptions from Miletos", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038053_Akat_Three_Inscriptions_from_Miletos.pdf"
+        }, 
+        {
+            "title_full": "055: Ayta\u00e7lar, P. \u00d6., Some Fragmentary Inscriptions from Lydia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038055_Aytaclar_Some_Fragmentary_Inscriptions_from_Lydia.pdf"
+        }, 
+        {
+            "title_full": "057: Polat, G., War der persische Satrap Autophradates von Sardeis . .", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038057_Polat_War_der_persiche_Satrap_Autophradates_von_Sardeis.pdf"
+        }, 
+        {
+            "title_full": "073: \u015eahin, H., Eine neue Inschrift aus dem Mittleren Rauhen Kilikien", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038073_Sahin_Eine_neue_Inschrift_aus_dem_Mittleren_Rauhen_Kilikien.pdf"
+        }, 
+        {
+            "title_full": "075: Thonemann, P. J. - Ertu\u011frul, F., The Carminii of Attouda", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038075_Thonemann_Ertugrul_The_Carminii_of_Attouda.pdf"
+        }, 
+        {
+            "title_full": "087: Kobes, J., Eine unver\u00f6ffentlichte Grabinschrift aus Kleinasien", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038087_Kobes_Eine_unveroeffentlichte_Grabinschrift_aus_Kleinasien.pdf"
+        }, 
+        {
+            "title_full": "093: Habicht, Chr., Notes on Inscriptions from Cyzicus", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038093_Habicht_Notes_on_Inscriptions_from_Cyzicus.pdf"
+        }, 
+        {
+            "title_full": "101: Canali de Rossi, F., Flacco, Minucio Termo e il koin\u00f2n dei Greci d\u2019Asia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038101_Canali_de_Rossi_Flacco_Minucio_Termo_e_il_koinon_dei_Greci_D_Asia.pdf"
+        }, 
+        {
+            "title_full": "109: Rigsby, K., Agathopolis and Doulopolis", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038109_Rigsby_Agathopolis_and_Doulopolis.pdf"
+        }, 
+        {
+            "title_full": "116: Labarre, G., L\u2019\u00e9pitaphe de l\u2019archiviste Dionysios", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038116_Labarre_L_epitaphe_de_l_archiviste_Dionysios.pdf"
+        }, 
+        {
+            "title_full": "125: Ruscu, L., Two Pontic Notes", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038125_Ruscu_Two_Pontic_Notes.pdf"
+        }, 
+        {
+            "title_full": "131: Glew, D., Nicomedes\u2019 Name", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038131_Glew_Nicomedes__Name.pdf"
+        }, 
+        {
+            "title_full": "140: Gatsioufa, P., Neue Lesungen zu Inschriften von Pessinus", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038140_Gatsioufa_Neue_Lesungen_zu_Inschriften_von_Pessinus.pdf"
+        }, 
+        {
+            "title_full": "143: \u0141ajtar, A., A Weight from Smyrna(?) at the National Museum in Warsaw", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038143_Laijtar_Weight_from_Smyrna__at_the_National_Museum_in_Warsaw.pdf"
+        }, 
+        {
+            "title_full": "145: Heilen, St., Zur Deutung und Datierung des \u201aL\u00f6wenhoroskops\u2018 auf dem Nemrut Da\u01e7\u0131", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038145_Heilen_Zur_Deutung_und_Datierung_des_Loewnhoroskops_auf_dem_Nemrut_Dagi.pdf"
+        }, 
+        {
+            "title_full": "159: Ehling, K., Ein reitender Telesphoros", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/038159_Ehling_Ein_Reitenden_Telesphoros.pdf"
+        }, 
+        {
+            "title_full": "001: Bl\u00fcmel, W., Neue Inschriften aus Karien II: Mylasa und Umgebung", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037001_Bluemel_Neue_Inschriften_aus_Karien_II_Mylasa_und_Umgebung.pdf"
+        }, 
+        {
+            "title_full": "043: Rumscheid, F., Inschriften aus Milas im Museum Bodrum", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037043_Rumscheid_Inschriften_aus_Milas_im_Museum_Bodrum.pdf"
+        }, 
+        {
+            "title_full": "062: Malay, H., A Funerary Inscription from Mylasa", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037062_Malay_A_Funerary_Inscription_from_Mylasa.pdf"
+        }, 
+        {
+            "title_full": "063: Manganaro, G., Doveri dello stratego nella Kyme eolica ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037063_Manganaro_Doveri_dello_stratego_nella_Kyme_eolica.pdf"
+        }, 
+        {
+            "title_full": "069: Giovannini, A., Le trait\u00e9 entre Iasos et Ptol\u00e9m\u00e9e Ier (IK 28,1, 2-3) . .", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037069_Giovannini_Le_traite_entre_lasos_et_Ptolemee_ler__IK_28__1__2-3_.pdf"
+        }, 
+        {
+            "title_full": "088: Lemaire, A., Nouvelle inscription aram\u00e9enne de Cilicie orientale: Aigeai", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037088_Nouvelle_inscriptions_arameene_de_Cilicie_orientale_Aigeai.pdf"
+        }, 
+        {
+            "title_full": "091: Habicht, Chr., Ein neuer Gymnasiarch am Fest der Athena Ilias", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037091_Habicht_Ein_neuer_Gymnasiarch_am_Fest_der_Athena_Ilias.pdf"
+        }, 
+        {
+            "title_full": "095: Jones, C. P., A Roman Will in Cappadocia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037095_Jones_A_Roman_Will_in_Cappadocia.pdf"
+        }, 
+        {
+            "title_full": "101: Walser, A. V., \u0398\u03c5\u03b3\u03b1\u03c4\u03c1\u03bf\u03b8\u03b5\u03c3\u03af\u03b1 - Ein neues Zeugnis aus Kaunos ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037101_Walser_Thygatrothesia-Ein_neues_Zeugnis_aus_Kaunos_fuer_die_Adoption_von_Frauen.pdf"
+        }, 
+        {
+            "title_full": "107: Corsten, Th., Zu Inschriften aus Kleinasien", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037107_Corsten_Zu_Inschriften_aus_Kleinasien.pdf"
+        }, 
+        {
+            "title_full": "115: Erkelenz, D., 1 + 1 = 3 ? \u00dcberlegungen zur Neuinterpretation der Inschriften ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037115_Erkelenz_UEberlegungen_zur_Neuinterpretation_der_Inschriften_von_Ephesos_501_und_647.pdf"
+        }, 
+        {
+            "title_full": "121: Ayda\u015f, M., New Inscriptions from Asia Minor", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037121_Aydas_New_Inscriptions_from_Asia_Minor.pdf"
+        }, 
+        {
+            "title_full": "126: Labarre, G., Les Menagyrtes", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037126_Labarre_Les_Menagyrtes.pdf"
+        }, 
+        {
+            "title_full": "129: Strasser, J.-Y., L\u2019empereur \u03b8\u03b5\u1fd6\u03bf\u03c2 et une inscription de Laodic\u00e9e du Lykos", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037129_Strasser_L_empereur_theios_et_une_inscription_de_Laodicee_du_Lykos.pdf"
+        }, 
+        {
+            "title_full": "144: Thonemann, P. J., Polemo, Son of Polemo (Dio, 59.12.2)", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037144_Thonemann_Polemo__Son_of_Polemo__Dio__59_12__2_.pdf"
+        }, 
+        {
+            "title_full": "151: Poirier, J., The Montanist Nature of the Nanas Inscription (Steinepigramme 16/41/15)", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037151_Poirier_The_Montanist_Nature_of_the_Nanas_Inscription__Steinepigramme_16-41-15_.pdf"
+        }, 
+        {
+            "title_full": "160: Hirschmann, V., \u201eNach Art der Engel\" - Die phrygische Prophetin Nanas", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037160_Hirschmann_Nach_Art_der_Engel_Die_phrygische_Prophetin_Nanas.pdf"
+        }, 
+        {
+            "title_full": "169: Lampe, P. - Tabbernee, W., Das Reskript von Septimius Severus und Caracalla . .", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037169_Lampe_Tabbernee_Das_Reskript_von_Septimius_Severus_und_Caracalla.pdf"
+        }, 
+        {
+            "title_full": "179: Malay, H., Dedication of a Herm to Zeus Ariou", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037179_Malay_A_Dedication_of_a_Herm_to_Zeus_Ariou.pdf"
+        }, 
+        {
+            "title_full": "181: Malay, H., A Dedicatory Statuette of a Mother Goddess", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037181_Malay_A_Dedicatory_Statuette_of_a_Mother_Goddess.pdf"
+        }, 
+        {
+            "title_full": "183: Malay, H. - Sayar, M. H., A New Confession to Zeus \"from Twin Oaks\"", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037183_Malay_Sayar_A_New_Confession_to_Zeus_from_Twin_Oaks.pdf"
+        }, 
+        {
+            "title_full": "185: Beden, H. - Malay, H., The Latorenoi in the Cayster Valley", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037185_Beden_Malay_The_Latorenoi_in_the_Cayster_Valley.pdf"
+        }, 
+        {
+            "title_full": "187: Ayta\u00e7lar, P. \u00d6., Funerary Inscriptions from Northeast Lydia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037187_Aytaclar_Funerary_Inscriptions_from_Northeast_Lydia.pdf"
+        }, 
+        {
+            "title_full": "189: Delemen, \u0130., A Grave Stele from Barbaros on the Propontis", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/037189_Delemen_A_Grave_Stele_from_Barbaros_on_the_Propontis.pdf"
+        }, 
+        {
+            "title_full": "001: Herrmann, P. - Malay, H., Statue Bases of the Mid Third Century A.D. from Smyrna", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036001.pdf"
+        }, 
+        {
+            "title_full": "013: Malay, H., A Praise on Men Artemidorou Axiottenos", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036013.pdf"
+        }, 
+        {
+            "title_full": "019: Malay, H. - Petzl, G., Posthumous Decree for Philomelos, Son of Ophelas . .", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036019.pdf"
+        }, 
+        {
+            "title_full": "024: Petzl, G. - Tanr\u0131ver, C., Grabgedicht f\u00fcr eine geliebte Stiefmutter", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036024.pdf"
+        }, 
+        {
+            "title_full": "029: Tanr\u0131ver, C., A Dedication to Hosios (-on) and Dikaios (-on) from Phrygia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036029.pdf"
+        }, 
+        {
+            "title_full": "033: Hauken, T. - Tanr\u0131ver, C. - Akb\u0131y\u0131ko\u011flu, K., A New Inscription from Phrygia . .", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036033.pdf"
+        }, 
+        {
+            "title_full": "045: \u0141ajtar, A. - Petzl, G., Eine lydische Familie aus der ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036045.pdf"
+        }, 
+        {
+            "title_full": "051: \u0141ajtar, A., Varia epigraphica", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036051.pdf"
+        }, 
+        {
+            "title_full": "055: Held, W., Neue und revidierte Inschriften aus Loryma und der karischen Chersones", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036055.pdf"
+        }, 
+        {
+            "title_full": "087: Thonemann, P. J., Notes on Inscriptions from Konya", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036087.pdf"
+        }, 
+        {
+            "title_full": "095: Thonemann, P. J., Hellenistic Inscriptions from Lydia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036095.pdf"
+        }, 
+        {
+            "title_full": "109: \u00d6zhan, T. - Tombul, M., A New Hellenistic Decree of \u03c4\u1f78 \u03ba\u03bf\u03b9\u03bd\u1f78\u03bd \u03c4\u1ff6\u03bd \u03c0\u03cc\u03bb\u03b5\u03c9\u03bd from Ilion", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036109.pdf"
+        }, 
+        {
+            "title_full": "115: Kolb, A., \u0394\u03b5\u03ba\u03ac\u03bd\u03b9\u03bf\u03bd - ein Hapax legomenon", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036115.pdf"
+        }, 
+        {
+            "title_full": "121: Tietz, W., Lissai und Kaunos - Eine neue Grabinschrift ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036121.pdf"
+        }, 
+        {
+            "title_full": "127: Leadbetter, B., Diocletian and the Purple Mile of Aperlae", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036127.pdf"
+        }, 
+        {
+            "title_full": "137: Hirschmann, V., Der Schatten der Unsterblichkeit. Der Priester und Prophet Epitynchanos", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036137.pdf"
+        }, 
+        {
+            "title_full": "153: \u015eahin, H., Neue Vorschl\u00e4ge zur Lesung von mittelkilikischen Inschriften I", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/036153.pdf"
+        }, 
+        {
+            "title_full": "001: \u015eahin, M. \u00c7., A Hellenistic Decree of the Chrysaoric Confederation from Lagina", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035001.pdf"
+        }, 
+        {
+            "title_full": "009: van Bremen, R., Ptolemy at Panamara", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035009.pdf"
+        }, 
+        {
+            "title_full": "015: van Bremen, R., Notes on Some New Inscriptions from Lagina", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035015.pdf"
+        }, 
+        {
+            "title_full": "021: Girone, M., Una particolare offerta di chiome", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035021.pdf"
+        }, 
+        {
+            "title_full": "043: Ma, J., RC 38 (Seleukid Letter to Amyzon) Again", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035043.pdf"
+        }, 
+        {
+            "title_full": "046: Tanr\u0131ver, C. - Y\u0131lmaz, M., A Dedication to Augustus", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035046.pdf"
+        }, 
+        {
+            "title_full": "047: Bl\u00fcmel, W., Inschriften der Kaz\u0131kl\u0131-Halbinsel", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035047.pdf"
+        }, 
+        {
+            "title_full": "055: Meyer, G., Deux \u00e9pitaphes des r\u00e9gions \u00e9oliennes", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035055.pdf"
+        }, 
+        {
+            "title_full": "059: Appel, W., Zwei Inschriften aus dem Arch\u00e4ologischen Museum in Odessa ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035059.pdf"
+        }, 
+        {
+            "title_full": "063: Strasser, J.-Y., Inscriptions agonistiques de Sid\u00e9", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035063.pdf"
+        }, 
+        {
+            "title_full": "077: Ricl, M., Society and Economy of Rural Sanctuaries in Roman Lydia and Phrygia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035077.pdf"
+        }, 
+        {
+            "title_full": "102: Ricl, M., Varia epigraphica", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035102.pdf"
+        }, 
+        {
+            "title_full": "113: Corsten, Th., Prosopographische und onomastische Notizen", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035113.pdf"
+        }, 
+        {
+            "title_full": "123: \u0141ajtar, A., Zu einer christlichen Mosaikinschrift aus Ostlykien", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035123.pdf"
+        }, 
+        {
+            "title_full": "125: Hein, I., A Rediscovered Ancient Egyptian Offering Stand at \u0130zmir", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035125.pdf"
+        }, 
+        {
+            "title_full": "141: Katsari, C., Opramoas and the Importation of Bronze Coins in Roman Lycia", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035141.pdf"
+        }, 
+        {
+            "title_full": "147: \u00c7evik, N. - \u0130plik\u00e7io\u011flu, B., Epigraphische Mitteilungen aus Antalya X ..", 
+            "url": "http://ifa.phil-fak.uni-koeln.de/fileadmin/IfA/EpiAna_pdfs/035147.pdf"
+        }
+    ], 
+    "title": "Epigraphica Anatolica", 
+    "title_alternates": [], 
+    "title_extended": "Epigraphica Anatolica: Zeitschrift f\u00fcr Epigraphik und historische Geographie Anatoliens", 
+    "type": null, 
+    "url": "http://ifa.phil-fak.uni-koeln.de/epiana.html", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

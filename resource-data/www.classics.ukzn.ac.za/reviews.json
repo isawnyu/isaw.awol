@@ -15,10 +15,7 @@
             ]
         }
     }, 
-    "is_part_of": {
-        "title_full": "Scholia Reviews", 
-        "url": "http://www.classics.ukzn.ac.za/reviews/"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -73,74 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6223546782931951410", 
             "resource_date": "2013-03-29T10:21:33.501-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:11:07.621497"
+            "when": "2015-07-11T20:12:53.833694"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/open-access-journal-scholia-reviews.html", 
             "resource_date": "2013-03-29T10:21:33.501-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:11:07.621518"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6223546782931951410", 
-            "resource_date": "2013-03-29T10:21:33.501-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:11:07.647408"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/03/open-access-journal-scholia-reviews.html", 
-            "resource_date": "2013-03-29T10:21:33.501-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:11:07.647425"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:11:07.680866"
+            "when": "2015-07-11T20:12:53.833713"
         }
     ], 
     "publishers": [], 
@@ -149,10 +85,6 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [
-        {
-            "title_full": "Scholia Reviews", 
-            "url": "http://www.classics.ukzn.ac.za/reviews/"
-        }, 
         {
             "title_full": "", 
             "url": "http://www.classics.ukzn.ac.za/reviews/2004.htm"

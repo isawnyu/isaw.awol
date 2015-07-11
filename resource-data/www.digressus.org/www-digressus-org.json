@@ -1,0 +1,357 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "[First posted in AWOL.", 
+    "domain": "www.digressus.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "book reviews", 
+        "journal", 
+        "classics", 
+        "England", 
+        "open access"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1503590235633057344", 
+            "resource_date": "2014-09-16T11:25:11.202-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:06:38.562261"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-digressus.html", 
+            "resource_date": "2014-09-16T11:25:11.202-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:06:38.562278"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "www-digressus-org", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "submissions", 
+            "url": "http://www.digressus.org/submissions.html"
+        }, 
+        {
+            "title_full": "conferences", 
+            "url": "http://www.digressus.org/conferences.html"
+        }, 
+        {
+            "title_full": "14.1-8", 
+            "url": "http://www.digressus.org/reviews/2014pp1-8-rev-day-on-butler-purves.pdf"
+        }, 
+        {
+            "title_full": "14.9-20", 
+            "url": "http://www.digressus.org/reviews/2014pp9-20-rev-lauriola-on-corrigan.pdf"
+        }, 
+        {
+            "title_full": "14.21-27", 
+            "url": "http://www.digressus.org/reviews/2014pp21-27-rev-coderch-on-mondi-corrigan.pdf"
+        }, 
+        {
+            "title_full": "13.1-6", 
+            "url": "http://www.digressus.org/reviews/2013pp01-06-rev-broder.pdf"
+        }, 
+        {
+            "title_full": "13.7-11", 
+            "url": "http://www.digressus.org/reviews/2013pp07-11-rev-baracat-english.pdf"
+        }, 
+        {
+            "title_full": "13.12-16", 
+            "url": "http://www.digressus.org/reviews/2013pp12-16-rev-baracat-portuguese.pdf"
+        }, 
+        {
+            "title_full": "13.17-23", 
+            "url": "http://www.digressus.org/reviews/2013pp17-23-rev-laurence-stromberg.pdf"
+        }, 
+        {
+            "title_full": "13.24-28", 
+            "url": "http://www.digressus.org/reviews/2013pp24-28-rev-mulroy-by-rehm.pdf"
+        }, 
+        {
+            "title_full": "13.29-31", 
+            "url": "http://www.digressus.org/reviews/2013pp29-31-rev-wallis-by-brown.pdf"
+        }, 
+        {
+            "title_full": "13.32-36", 
+            "url": "http://www.digressus.org/reviews/2013pp32-36-rev-barnes-bevan-by-quiroga.pdf"
+        }, 
+        {
+            "title_full": "12.1-4", 
+            "url": "http://www.digressus.org/reviews/rev2012pp1-4-rev-andreau-descat.pdf"
+        }, 
+        {
+            "title_full": "12.5-11", 
+            "url": "http://www.digressus.org/reviews/rev2012pp5-11-rev-lauritsen.pdf"
+        }, 
+        {
+            "title_full": "12.12-20", 
+            "url": "http://www.digressus.org/reviews/rev2012pp12-20-resp-lauritsen.pdf"
+        }, 
+        {
+            "title_full": "12.21", 
+            "url": "http://www.digressus.org/reviews/rev2012pp21-err-lauritsen.pdf"
+        }, 
+        {
+            "title_full": "12.22-41", 
+            "url": "http://www.digressus.org/articles/2012pp22-41-art-pereira.pdf"
+        }, 
+        {
+            "title_full": "12.42-47", 
+            "url": "http://www.digressus.org/reviews/rev2012pp42-47-nevett.pdf"
+        }, 
+        {
+            "title_full": "12.48-55", 
+            "url": "http://www.digressus.org/reviews/rev2012pp48-55-martins-english.pdf"
+        }, 
+        {
+            "title_full": "12.56-63", 
+            "url": "http://www.digressus.org/reviews/rev2012pp56-63-martins-portuguese.pdf"
+        }, 
+        {
+            "title_full": "12.64-71", 
+            "url": "http://www.digressus.org/reviews/rev2012pp64-71-cornelli.pdf"
+        }, 
+        {
+            "title_full": "12.72-76", 
+            "url": "http://www.digressus.org/reviews/rev2012pp72-76-schaps.pdf"
+        }, 
+        {
+            "title_full": "12.77-82", 
+            "url": "http://www.digressus.org/reviews/rev2012pp77-82-freeman.pdf"
+        }, 
+        {
+            "title_full": "12.83-89", 
+            "url": "http://www.digressus.org/reviews/rev2012pp83-89-rev-schrufer-kolb.pdf"
+        }, 
+        {
+            "title_full": "12.90-97", 
+            "url": "http://www.digressus.org/reviews/rev2012pp90-97-rev-kouremenos.pdf"
+        }, 
+        {
+            "title_full": "1-30", 
+            "url": "http://www.digressus.org/articles/2011pp1-30-art-schmitz.pdf"
+        }, 
+        {
+            "title_full": "31-35", 
+            "url": "http://www.digressus.org/reviews/2011pp31-35-rev-christianaki.pdf"
+        }, 
+        {
+            "title_full": "36-38", 
+            "url": "http://www.digressus.org/reviews/2011pp36-38-rev-ziogas.pdf"
+        }, 
+        {
+            "title_full": "39-41", 
+            "url": "http://www.digressus.org/reviews/2011pp39-41-dahlinger.pdf"
+        }, 
+        {
+            "title_full": "42-50", 
+            "url": "http://www.digressus.org/reviews/2011pp42-50-rev-fletcher.pdf"
+        }, 
+        {
+            "title_full": "51-73", 
+            "url": "http://www.digressus.org/articles/2011pp51-73-art-kelly.pdf"
+        }, 
+        {
+            "title_full": "74-152", 
+            "url": "http://www.digressus.org/articles/2011pp74-152-art-manuello.pdf"
+        }, 
+        {
+            "title_full": "1-42", 
+            "url": "http://www.digressus.org/articles/2010pp01-42-art-papadodima.pdf"
+        }, 
+        {
+            "title_full": "43-49", 
+            "url": "http://www.digressus.org/reviews/2010pp43-49-rev-buttrey.pdf"
+        }, 
+        {
+            "title_full": "50-96", 
+            "url": "http://www.digressus.org/articles/2010pp50-96-art-pereira.pdf"
+        }, 
+        {
+            "title_full": "33-38", 
+            "url": "http://www.digressus.org/reviews/2008pp33-38-rev-roselaar.pdf"
+        }, 
+        {
+            "title_full": "1-32", 
+            "url": "http://www.digressus.org/articles/2008pp1-32-art-dehaas.pdf"
+        }, 
+        {
+            "title_full": "1-7", 
+            "url": "http://www.digressus.org/reviews/2007pp01-07-rev-tipton.pdf"
+        }, 
+        {
+            "title_full": "8-13", 
+            "url": "http://www.digressus.org/reviews/2007pp08-13-rev-vaiou.pdf"
+        }, 
+        {
+            "title_full": "14-18", 
+            "url": "http://www.digressus.org/reviews/2007pp14-18-rev-hunt.pdf"
+        }, 
+        {
+            "title_full": "1-5", 
+            "url": "http://www.digressus.org/reviews/2006pp01-05-rev-knorr.pdf"
+        }, 
+        {
+            "title_full": "6-9", 
+            "url": "http://www.digressus.org/reviews/2006pp06-09-rev-jenkins.pdf"
+        }, 
+        {
+            "title_full": "10-14", 
+            "url": "http://www.digressus.org/reviews/2006pp10-14-rev-lopez.pdf"
+        }, 
+        {
+            "title_full": "15-19", 
+            "url": "http://www.digressus.org/reviews/2006pp15-19-rev-lopez.pdf"
+        }, 
+        {
+            "title_full": "1-4", 
+            "url": "http://www.digressus.org/reviews/2005pp01-04-rev-chiappiniello.pdf"
+        }, 
+        {
+            "title_full": "1-14", 
+            "url": "http://www.digressus.org/articles/2004pp01-14-art-wheeler.pdf"
+        }, 
+        {
+            "title_full": "5-6", 
+            "url": "http://www.digressus.org/articles/romanizationpp005-006-merryweather-prag.pdf"
+        }, 
+        {
+            "title_full": "7-34", 
+            "url": "http://www.digressus.org/articles/romanizationpp007-034-crawleyquinn.pdf"
+        }, 
+        {
+            "title_full": "35-45", 
+            "url": "http://www.digressus.org/articles/romanizationpp035-045-roth.pdf"
+        }, 
+        {
+            "title_full": "46-59", 
+            "url": "http://www.digressus.org/articles/romanizationpp046-059-berrendonner.pdf"
+        }, 
+        {
+            "title_full": "60-85", 
+            "url": "http://www.digressus.org/articles/romanizationpp060-085-burns.pdf"
+        }, 
+        {
+            "title_full": "86-98", 
+            "url": "http://www.digressus.org/articles/romanizationpp086-098-raja.pdf"
+        }, 
+        {
+            "title_full": "99-110", 
+            "url": "http://www.digressus.org/articles/romanizationpp099-110-franklin.pdf"
+        }, 
+        {
+            "title_full": "111-119", 
+            "url": "http://www.digressus.org/articles/romanizationpp111-119-hingley.pdf"
+        }, 
+        {
+            "title_full": "Download entire volume", 
+            "url": "http://www.digressus.org/articles/romanization.pdf"
+        }, 
+        {
+            "title_full": "1-4", 
+            "url": "http://www.digressus.org/reviews/2003pp01-04-rev-wheeler.pdf"
+        }, 
+        {
+            "title_full": "5-10", 
+            "url": "http://www.digressus.org/reviews/2003pp05-10-rev-roth.pdf"
+        }, 
+        {
+            "title_full": "1-3", 
+            "url": "http://www.digressus.org/reviews/2002pp01-03-rev-wheeler.pdf"
+        }, 
+        {
+            "title_full": "4-7", 
+            "url": "http://www.digressus.org/reviews/2002pp04-07-rev-rhoby.pdf"
+        }, 
+        {
+            "title_full": "8-10", 
+            "url": "http://www.digressus.org/articles/2002pp08-10-art-merryweather-prag.pdf"
+        }, 
+        {
+            "title_full": "1-3", 
+            "url": "http://www.digressus.org/reviews/2001pp01-03-rev-thorne.pdf"
+        }, 
+        {
+            "title_full": "4-7", 
+            "url": "http://www.digressus.org/reviews/2001pp04-07-rev-goodman.pdf"
+        }, 
+        {
+            "title_full": "8-28", 
+            "url": "http://www.digressus.org/articles/2001pp08-28-art-luschnig.pdf"
+        }, 
+        {
+            "title_full": "29-30", 
+            "url": "http://www.digressus.org/reviews/2001pp29-30-rev-sommerstein.pdf"
+        }, 
+        {
+            "title_full": "About us", 
+            "url": "http://www.digressus.org/aboutus.html"
+        }, 
+        {
+            "title_full": "Links", 
+            "url": "http://www.digressus.org/links.html"
+        }
+    ], 
+    "title": "Digressus", 
+    "title_alternates": [], 
+    "title_extended": "Digressus: The Internet Journal for the Classical World", 
+    "type": null, 
+    "url": "http://www.digressus.org/", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

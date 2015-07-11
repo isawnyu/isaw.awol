@@ -15,10 +15,7 @@
             ]
         }
     }, 
-    "is_part_of": {
-        "title_full": "Paleopatolog\u00eda", 
-        "url": "http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?bibid=AAAAA&colors=1&lang=en&jour_id=97990"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -73,74 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6960610558563947684", 
             "resource_date": "2012-05-23T09:24:34.051-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:11:48.207565"
+            "when": "2015-07-11T20:13:38.121529"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-paleopatolog.html", 
             "resource_date": "2012-05-23T09:24:34.051-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:11:48.207581"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6960610558563947684", 
-            "resource_date": "2012-05-23T09:24:34.051-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:11:48.229754"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-paleopatolog.html", 
-            "resource_date": "2012-05-23T09:24:34.051-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:11:48.229766"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:11:48.231226"
+            "when": "2015-07-11T20:13:38.121546"
         }
     ], 
     "publishers": [], 
@@ -148,12 +84,7 @@
     "resource_key": "43a3c76a26cf2a383bc6634c28cb1671dfa11bfa", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [
-        {
-            "title_full": "Paleopatolog\u00eda", 
-            "url": "http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?bibid=AAAAA&colors=1&lang=en&jour_id=97990"
-        }
-    ], 
+    "subordinate_resources": [], 
     "title": "Paleopatolog\u00eda", 
     "title_alternates": [], 
     "title_extended": null, 

@@ -15,10 +15,7 @@
             ]
         }
     }, 
-    "is_part_of": {
-        "title_full": "Histoire de la m\u00e9decine en Egypte ancienne", 
-        "url": "http://medecineegypte.canalblog.com/"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -76,74 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6074910615786392128", 
             "resource_date": "2014-06-24T06:54:37.518-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:10:58.713464"
+            "when": "2015-07-11T20:12:44.296716"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/open-access-journal-histoire-de-la.html", 
             "resource_date": "2014-06-24T06:54:37.518-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:10:58.713477"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6074910615786392128", 
-            "resource_date": "2014-06-24T06:54:37.518-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:10:58.739339"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2014/06/open-access-journal-histoire-de-la.html", 
-            "resource_date": "2014-06-24T06:54:37.518-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:10:58.739356"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:10:58.763875"
+            "when": "2015-07-11T20:12:44.296733"
         }
     ], 
     "publishers": [], 
@@ -152,10 +88,6 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [
-        {
-            "title_full": "Histoire de la m\u00e9decine en Egypte ancienne", 
-            "url": "http://medecineegypte.canalblog.com/"
-        }, 
         {
             "title_full": "M\u00e9decine", 
             "url": "http://medecineegypte.canalblog.com/#"

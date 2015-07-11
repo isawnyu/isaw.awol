@@ -1,0 +1,99 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": "Have you taken the AWOL User Survey?.", 
+    "domain": "www.metmuseum.org", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": null, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "art history", 
+        "ancient", 
+        "art", 
+        "journal", 
+        "antiquity", 
+        "museums", 
+        "open access"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5089216408729597488", 
+            "resource_date": "2015-03-01T17:00:38.833-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:11:41.826016"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2015/03/open-access-journal-metropolitan-museum.html", 
+            "resource_date": "2015-03-01T17:00:38.833-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:11:41.826032"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "f3d6e93cc69782c8f98f021e3f0dccbc344dc80c", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [
+        {
+            "title_full": "Metropolitan Museum Journal", 
+            "url": "http://www.metmuseum.org/research/metpublications/search-publication-results?searchType=C&Tag=&title=&author=&pt=%7BAA2EA5AF-D293-44E9-B972-579457F115AB%7D&tc=0&dept=0&fmt=0"
+        }
+    ], 
+    "title": "Metropolitan Museum Journal", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://www.metmuseum.org/research/metpublications/search-publication-results?searchType=C&Tag=&title=&author=&pt={AA2EA5AF-D293-44E9-B972-579457F115AB}&tc=0&dept=0&fmt=readonline", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

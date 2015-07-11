@@ -25,11 +25,11 @@
     "issued_dates": null, 
     "keywords": [
         "ancient", 
-        "archeaology", 
         "journal", 
         "antiquity", 
         "prehistory", 
-        "open access"
+        "open access", 
+        "archaeology"
     ], 
     "languages": [
         "es"
@@ -75,13 +75,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8214559682146973850", 
             "resource_date": "2009-09-20T15:33:38.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:13:20.612630"
+            "when": "2015-07-11T20:15:16.837433"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html", 
             "resource_date": "2009-09-20T15:33:38.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:13:20.612646"
+            "when": "2015-07-11T20:15:16.837449"
         }, 
         {
             "fields": [
@@ -122,13 +122,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8214559682146973850", 
             "resource_date": "2009-09-20T15:33:38.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:13:20.614557"
+            "when": "2015-07-11T20:15:16.839354"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html", 
             "resource_date": "2009-09-20T15:33:38.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:13:20.614569"
+            "when": "2015-07-11T20:15:16.839366"
         }, 
         {
             "fields": [
@@ -142,7 +142,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:13:20.648151"
+            "when": "2015-07-11T20:15:16.872129"
         }
     ], 
     "publishers": [], 

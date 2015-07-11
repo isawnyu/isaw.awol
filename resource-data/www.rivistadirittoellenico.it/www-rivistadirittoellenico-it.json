@@ -9,10 +9,7 @@
     "form": null, 
     "frequency": null, 
     "identifiers": {}, 
-    "is_part_of": {
-        "title_full": "Rivista di Diritto Ellenico", 
-        "url": "http://www.rivistadirittoellenico.it/"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -69,77 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9063071208431471245", 
             "resource_date": "2014-04-25T17:38:55.296-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:15:16.114819"
+            "when": "2015-07-11T20:17:18.617117"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/07/new-open-access-journal-rivista-di.html", 
             "resource_date": "2014-04-25T17:38:55.296-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:15:16.114833"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9063071208431471245", 
-            "resource_date": "2014-04-25T17:38:55.296-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:15:16.119598"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/07/new-open-access-journal-rivista-di.html", 
-            "resource_date": "2014-04-25T17:38:55.296-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:15:16.119608"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "title", 
-                "languages", 
-                "description", 
-                "title_extended", 
-                "volume", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:15:16.123326"
+            "when": "2015-07-11T20:17:18.617131"
         }
     ], 
     "publishers": [], 
@@ -149,10 +82,6 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Rivista di Diritto Ellenico - Review of Hellenic Law", 
-            "url": "http://www.rivistadirittoellenico.it/"
-        }, 
-        {
             "title_full": "Rara 2011", 
             "url": "http://www.rivistadirittoellenico.it/rara-2011.html"
         }, 
@@ -161,13 +90,13 @@
             "url": "http://www.rivistadirittoellenico.it/rara-2012.html"
         }
     ], 
-    "title": "Rivista di Diritto Ellenico - Review of Hellenic Law", 
+    "title": "Rivista di Diritto Ellenico", 
     "title_alternates": [], 
     "title_extended": "Rivista di Diritto Ellenico - Review of Hellenic Law", 
     "type": null, 
     "url": "http://www.rivistadirittoellenico.it/", 
     "url_alternates": [], 
-    "volume": "-", 
+    "volume": null, 
     "year": null, 
     "zenon_id": null, 
     "zotero_id": null

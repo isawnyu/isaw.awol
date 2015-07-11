@@ -9,10 +9,7 @@
     "form": null, 
     "frequency": null, 
     "identifiers": {}, 
-    "is_part_of": {
-        "title_full": "Acad\u00e9mie des Inscriptions et Belles-Lettres: Lettre d\u2019information", 
-        "url": "http://www.aibl.fr/Lettre-d-information"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -66,75 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7197452621386685421", 
             "resource_date": "2012-05-30T07:21:32.831-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:11:59.307086"
+            "when": "2015-07-11T20:13:49.613499"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/open-access-journal-academie-des.html", 
             "resource_date": "2012-05-30T07:21:32.831-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:11:59.307103"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7197452621386685421", 
-            "resource_date": "2012-05-30T07:21:32.831-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:11:59.321736"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2011/11/open-access-journal-academie-des.html", 
-            "resource_date": "2012-05-30T07:21:32.831-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:11:59.321753"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "volume", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:11:59.339226"
+            "when": "2015-07-11T20:13:49.613515"
         }
     ], 
     "publishers": [], 
@@ -143,10 +78,6 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [
-        {
-            "title_full": "Acad\u00e9mie des Inscriptions et Belles-Lettres: Lettre d\u2019information", 
-            "url": "http://www.aibl.fr/Lettre-d-information"
-        }, 
         {
             "title_full": "LI AIBL 2011", 
             "url": "http://www.aibl.fr/lettre-d-information/li-aibl-2011/"
@@ -174,7 +105,7 @@
     "type": null, 
     "url": "http://www.aibl.fr/Lettre-d-information", 
     "url_alternates": [], 
-    "volume": "-", 
+    "volume": null, 
     "year": null, 
     "zenon_id": null, 
     "zotero_id": null

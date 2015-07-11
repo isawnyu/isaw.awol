@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "British School of Archaeology in Iraq Newsletter", 
+        "title_full": "British Institute for the Study of Iraq Newsletter", 
         "url": "http://www.bisi.ac.uk/content/newsletter"
     }, 
     "issuance": null, 
@@ -58,16 +58,75 @@
                 "zenon_id", 
                 "zotero_id"
             ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5279223178472578519", 
+            "resource_date": "2014-04-20T10:26:02.565-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:11:52.106850"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-british-institute.html", 
+            "resource_date": "2014-04-20T10:26:02.565-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:11:52.106862"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9194021034411308773", 
             "resource_date": "2015-06-10T11:43:42.542-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:15:20.303213"
+            "when": "2015-07-11T20:17:22.958097"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-jopurnal-british-school-of.html", 
             "resource_date": "2015-06-10T11:43:42.542-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:15:20.303224"
+            "when": "2015-07-11T20:17:22.958109"
+        }, 
+        {
+            "fields": [
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:17:22.989548"
         }
     ], 
     "publishers": [], 

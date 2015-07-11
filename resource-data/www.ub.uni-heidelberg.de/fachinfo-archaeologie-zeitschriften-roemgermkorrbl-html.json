@@ -9,10 +9,7 @@
     "form": null, 
     "frequency": null, 
     "identifiers": {}, 
-    "is_part_of": {
-        "title_full": "R\u00f6misch-germanisches Korrespondenzblatt: Nachrichten f\u00fcr r\u00f6misch-germanische Altertumsforschung", 
-        "url": "http://www.ub.uni-heidelberg.de/fachinfo/archaeologie/zeitschriften/roemgermkorrbl.html"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -67,75 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3679806943990780202", 
             "resource_date": "2015-02-16T12:48:12.280-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:08:15.638247"
+            "when": "2015-07-11T20:09:39.838465"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/open-access-journal-romisch.html", 
             "resource_date": "2015-02-16T12:48:12.280-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:08:15.638262"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3679806943990780202", 
-            "resource_date": "2015-02-16T12:48:12.280-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:08:15.642944"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2015/02/open-access-journal-romisch.html", 
-            "resource_date": "2015-02-16T12:48:12.280-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:08:15.642955"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "volume", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:08:15.644357"
+            "when": "2015-07-11T20:09:39.838481"
         }
     ], 
     "publishers": [], 
@@ -143,19 +78,14 @@
     "resource_key": "fachinfo-archaeologie-zeitschriften-roemgermkorrbl-html", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [
-        {
-            "title_full": "R\u00f6misch-germanisches Korrespondenzblatt: Nachrichten f\u00fcr r\u00f6misch-germanische Altertumsforschung", 
-            "url": "http://www.ub.uni-heidelberg.de/fachinfo/archaeologie/zeitschriften/roemgermkorrbl.html"
-        }
-    ], 
+    "subordinate_resources": [], 
     "title": "R\u00f6misch-germanisches Korrespondenzblatt: Nachrichten f\u00fcr r\u00f6misch-germanische Altertumsforschung", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 
     "url": "http://www.ub.uni-heidelberg.de/fachinfo/archaeologie/zeitschriften/roemgermkorrbl.html", 
     "url_alternates": [], 
-    "volume": "-", 
+    "volume": null, 
     "year": null, 
     "zenon_id": null, 
     "zotero_id": null

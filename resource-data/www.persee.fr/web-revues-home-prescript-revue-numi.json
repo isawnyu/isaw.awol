@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Syria. Arch\u00e9ologie, Art et histoire.", 
+    "description": "[First posted in AWOL 16 October 2010. Updated 6 October 2014.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -17,10 +17,13 @@
     "issue": null, 
     "issued_dates": null, 
     "keywords": [
-        "journal"
+        "journal", 
+        "open access", 
+        "numismatics"
     ], 
     "languages": [
-        "fr"
+        "fr", 
+        "en"
     ], 
     "places": [], 
     "provenance": [
@@ -63,13 +66,74 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:06:18.400685"
+            "when": "2015-07-11T20:07:28.730265"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:06:18.400696"
+            "when": "2015-07-11T20:07:28.730286"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2809080792372293247", 
+            "resource_date": "2014-10-07T11:55:31.017-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:07:49.555009"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revue-numismatique.html", 
+            "resource_date": "2014-10-07T11:55:31.017-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:07:49.555027"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:07:49.780240"
         }
     ], 
     "publishers": [], 
@@ -77,7 +141,224 @@
     "resource_key": "web-revues-home-prescript-revue-numi", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "title_full": "1958 : [ 1 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1958_num_6_1"
+        }, 
+        {
+            "title_full": "1959 : [ 2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1959_num_6_2"
+        }, 
+        {
+            "title_full": "1961 : [ 3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1961_num_6_3"
+        }, 
+        {
+            "title_full": "1962 : [ 4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1962_num_6_4"
+        }, 
+        {
+            "title_full": "1963 : [ 5 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1963_num_6_5"
+        }, 
+        {
+            "title_full": "1964 : [ 6 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1964_num_6_6"
+        }, 
+        {
+            "title_full": "1965 : [ 7 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1965_num_6_7"
+        }, 
+        {
+            "title_full": "1966 : [ 8 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1966_num_6_8"
+        }, 
+        {
+            "title_full": "1967 : [ 9 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1967_num_6_9"
+        }, 
+        {
+            "title_full": "1968 : [ 10 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1968_num_6_10"
+        }, 
+        {
+            "title_full": "1969 : [ 11 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1969_num_6_11"
+        }, 
+        {
+            "title_full": "1970 : [ 12 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1970_num_6_12"
+        }, 
+        {
+            "title_full": "1971 : [ 13 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1971_num_6_13"
+        }, 
+        {
+            "title_full": "1972 : [ 14 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1972_num_6_14"
+        }, 
+        {
+            "title_full": "1973 : [ 15 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1973_num_6_15"
+        }, 
+        {
+            "title_full": "1974 : [ 16 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1974_num_6_16"
+        }, 
+        {
+            "title_full": "1975 : [ 17 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1975_num_6_17"
+        }, 
+        {
+            "title_full": "1976 : [ 18 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1976_num_6_18"
+        }, 
+        {
+            "title_full": "1977 : [ 19 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1977_num_6_19"
+        }, 
+        {
+            "title_full": "1978 : [ 20 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1978_num_6_20"
+        }, 
+        {
+            "title_full": "1979 : [ 21 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1979_num_6_21"
+        }, 
+        {
+            "title_full": "1980 : [ 22 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1980_num_6_22"
+        }, 
+        {
+            "title_full": "1981 : [ 23 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1981_num_6_23"
+        }, 
+        {
+            "title_full": "1982 : [ 24 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1982_num_6_24"
+        }, 
+        {
+            "title_full": "1983 : [ 25 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1983_num_6_25"
+        }, 
+        {
+            "title_full": "1984 : [ 26 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1984_num_6_26"
+        }, 
+        {
+            "title_full": "1985 : [ 27 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1985_num_6_27"
+        }, 
+        {
+            "title_full": "1986 : [ 28 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1986_num_6_28"
+        }, 
+        {
+            "title_full": "1987 : [ 29 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1987_num_6_29"
+        }, 
+        {
+            "title_full": "1988 : [ 30 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1988_num_6_30"
+        }, 
+        {
+            "title_full": "1989 : [ 31 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1989_num_6_31"
+        }, 
+        {
+            "title_full": "1990 : [ 32 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1990_num_6_32"
+        }, 
+        {
+            "title_full": "1991 : [ 33 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1991_num_6_33"
+        }, 
+        {
+            "title_full": "1992 : [ 34 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1992_num_6_34"
+        }, 
+        {
+            "title_full": "1993 : [ 35 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1993_num_6_35"
+        }, 
+        {
+            "title_full": "1994 : [ 36 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1994_num_6_36"
+        }, 
+        {
+            "title_full": "1995 : [ 150 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1995_num_6_150"
+        }, 
+        {
+            "title_full": "1996 : [ 151 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1996_num_6_151"
+        }, 
+        {
+            "title_full": "1997 : [ 152 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1997_num_6_152"
+        }, 
+        {
+            "title_full": "1998 : [ 153 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1998_num_6_153"
+        }, 
+        {
+            "title_full": "1999 : [ 154 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_1999_num_6_154"
+        }, 
+        {
+            "title_full": "2000 : [ 155 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2000_num_6_155"
+        }, 
+        {
+            "title_full": "2001 : [ 156 ] [ 157 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2001_num_6_156"
+        }, 
+        {
+            "title_full": "2001 : [ 156 ] [ 157 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2001_num_6_157"
+        }, 
+        {
+            "title_full": "2002 : [ 158 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2002_num_6_158"
+        }, 
+        {
+            "title_full": "2003 : [ 159 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2003_num_6_159"
+        }, 
+        {
+            "title_full": "2004 : [ 160 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2004_num_6_160"
+        }, 
+        {
+            "title_full": "2005 : [ 161 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2005_num_6_161"
+        }, 
+        {
+            "title_full": "2006 : [ 162 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2006_num_6_162"
+        }, 
+        {
+            "title_full": "2007 : [ 163 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2007_num_6_163"
+        }, 
+        {
+            "title_full": "2008 : [ 164 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2008_num_6_164"
+        }, 
+        {
+            "title_full": "2009 : [ 165 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2009_num_6_165"
+        }, 
+        {
+            "title_full": "2010 : [ 166 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2010_num_6_166"
+        }, 
+        {
+            "title_full": "2011 : [ 167 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/numi_0484-8942_2011_num_6_167"
+        }
+    ], 
     "title": "Revue Numismatique", 
     "title_alternates": [], 
     "title_extended": null, 

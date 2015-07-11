@@ -28,9 +28,9 @@
         "ancient", 
         "science", 
         "journal", 
-        "open access", 
+        "ancient science", 
         "history", 
-        "ancient science"
+        "open access"
     ], 
     "languages": [
         "en"
@@ -73,16 +73,77 @@
                 "zenon_id", 
                 "zotero_id"
             ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4579968027525566573", 
+            "resource_date": "2014-08-30T08:27:28.641-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:10:31.318247"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/09/open-access-journal-dio-international.html", 
+            "resource_date": "2014-08-30T08:27:28.641-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:10:31.318264"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6126354719826936192", 
             "resource_date": "2013-12-04T06:48:42.252-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:10:59.780290"
+            "when": "2015-07-11T20:12:45.528912"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-journal-dio-international.html", 
             "resource_date": "2013-12-04T06:48:42.252-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:10:59.780304"
+            "when": "2015-07-11T20:12:45.528929"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "authors", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:12:45.661071"
         }
     ], 
     "publishers": [], 
@@ -91,6 +152,110 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [
+        {
+            "title_full": "Publisher & journal cited (1996 May 9) in New York Times frontpage story on his discovery of data blowing open the famous 70-year Richard Byrd North Pole controversy. [Featured in DIO 10 [2000], co-published with the University of Cambridge.]", 
+            "url": "http://www.dioi.org/vols/wa0.pdf"
+        }, 
+        {
+            "title_full": "DIO 9.1", 
+            "url": "http://www.dioi.org/vols/w91.pdf"
+        }, 
+        {
+            "title_full": "DIO 16", 
+            "url": "http://www.dioi.org/vols/wg0.pdf"
+        }, 
+        {
+            "title_full": "DIO 15", 
+            "url": "http://www.dioi.org/vols/wf0.pdf"
+        }, 
+        {
+            "title_full": "DIO 14", 
+            "url": "http://www.dioi.org/vols/we0.pdf"
+        }, 
+        {
+            "title_full": "DIO 13.2-3", 
+            "url": "http://www.dioi.org/vols/dio13v2-3.pdf"
+        }, 
+        {
+            "title_full": "DIO 13.1", 
+            "url": "http://www.dioi.org/vols/wd1.pdf"
+        }, 
+        {
+            "title_full": "DIO 12", 
+            "url": "http://www.dioi.org/vols/wc0.pdf"
+        }, 
+        {
+            "title_full": "DIO 11.3", 
+            "url": "http://www.dioi.org/vols/wb3.pdf"
+        }, 
+        {
+            "title_full": "DIO 11.2", 
+            "url": "http://www.dioi.org/vols/wb2.pdf"
+        }, 
+        {
+            "title_full": "DIO 11.1", 
+            "url": "http://www.dioi.org/vols/wb1.pdf"
+        }, 
+        {
+            "title_full": "DIO 9.2-3", 
+            "url": "http://www.dioi.org/vols/w93.pdf"
+        }, 
+        {
+            "title_full": "DIO 8", 
+            "url": "http://www.dioi.org/vols/w80.pdf"
+        }, 
+        {
+            "title_full": "DIO 7.2-3", 
+            "url": "http://www.dioi.org/vols/w73.pdf"
+        }, 
+        {
+            "title_full": "DIO 7.1", 
+            "url": "http://www.dioi.org/vols/w71.pdf"
+        }, 
+        {
+            "title_full": "DIO 6", 
+            "url": "http://www.dioi.org/vols/w60.pdf"
+        }, 
+        {
+            "title_full": "DIO 5", 
+            "url": "http://www.dioi.org/vols/w50.pdf"
+        }, 
+        {
+            "title_full": "DIO 4.3", 
+            "url": "http://www.dioi.org/vols/w43.pdf"
+        }, 
+        {
+            "title_full": "DIO 4.2", 
+            "url": "http://www.dioi.org/vols/w42.pdf"
+        }, 
+        {
+            "title_full": "DIO 4.1", 
+            "url": "http://www.dioi.org/vols/w41.pdf"
+        }, 
+        {
+            "title_full": "DIO 3", 
+            "url": "http://www.dioi.org/vols/w30.pdf"
+        }, 
+        {
+            "title_full": "DIO 2.3", 
+            "url": "http://www.dioi.org/vols/w23.pdf"
+        }, 
+        {
+            "title_full": "DIO 2.2", 
+            "url": "http://www.dioi.org/vols/w22.pdf"
+        }, 
+        {
+            "title_full": "DIO 2.1", 
+            "url": "http://www.dioi.org/vols/w21.pdf"
+        }, 
+        {
+            "title_full": "DIO 1.2-3", 
+            "url": "http://www.dioi.org/vols/w13.pdf"
+        }, 
+        {
+            "title_full": "DIO 1.1", 
+            "url": "http://www.dioi.org/vols/w11.pdf"
+        }, 
         {
             "title_full": "Publisher & journal cited (1996 May 9) in New York Times frontpage story on his discovery of data blowing open the famous 70-year Richard Byrd North Pole controversy. [Featured in DIO 10 [2000], co-published with the University of Cambridge.]", 
             "url": "http://www.dioi.org/vols/wa0.pdf"

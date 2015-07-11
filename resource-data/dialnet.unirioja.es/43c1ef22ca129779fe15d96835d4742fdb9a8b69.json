@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ISSN: 0214-4999.", 
+    "description": "[First posted in AWOL 20 September 2009. Updated 2 September 2012].", 
     "domain": "dialnet.unirioja.es", 
     "editors": [], 
     "end_date": null, 
@@ -25,7 +25,9 @@
     "issued_dates": null, 
     "keywords": [
         "journal", 
-        "archeaology"
+        "archaeology", 
+        "Spain", 
+        "open access"
     ], 
     "languages": [
         "es"
@@ -68,16 +70,77 @@
                 "zenon_id", 
                 "zotero_id"
             ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6251838140725817873", 
+            "resource_date": "2013-01-22T15:06:05.099-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:12:54.479366"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-journal-bolskan-revista-de.html", 
+            "resource_date": "2013-01-22T15:06:05.099-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:12:54.479385"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8214559682146973850", 
             "resource_date": "2009-09-20T15:33:38.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:13:20.622011"
+            "when": "2015-07-11T20:15:16.846392"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html", 
             "resource_date": "2009-09-20T15:33:38.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:13:20.622021"
+            "when": "2015-07-11T20:15:16.846404"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:15:16.875725"
         }
     ], 
     "publishers": [], 
@@ -85,7 +148,180 @@
     "resource_key": "43c1ef22ca129779fe15d96835d4742fdb9a8b69", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "title_full": "2006-2008", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=2006"
+        }, 
+        {
+            "title_full": "23", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=231625"
+        }, 
+        {
+            "title_full": "2005", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=2005"
+        }, 
+        {
+            "title_full": "22", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=162529"
+        }, 
+        {
+            "title_full": "2004", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=2004"
+        }, 
+        {
+            "title_full": "21", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=135946"
+        }, 
+        {
+            "title_full": "2003", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=2003"
+        }, 
+        {
+            "title_full": "20", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=127286"
+        }, 
+        {
+            "title_full": "2002", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=2002"
+        }, 
+        {
+            "title_full": "19", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=127196"
+        }, 
+        {
+            "title_full": "2001", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=2001"
+        }, 
+        {
+            "title_full": "18", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=113418"
+        }, 
+        {
+            "title_full": "2000", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=2000"
+        }, 
+        {
+            "title_full": "17", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=87651"
+        }, 
+        {
+            "title_full": "1999", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1999"
+        }, 
+        {
+            "title_full": "16", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=54834"
+        }, 
+        {
+            "title_full": "1998", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1998"
+        }, 
+        {
+            "title_full": "15", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12058"
+        }, 
+        {
+            "title_full": "1997", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1997"
+        }, 
+        {
+            "title_full": "14", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12057"
+        }, 
+        {
+            "title_full": "1996", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1996"
+        }, 
+        {
+            "title_full": "13", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12056"
+        }, 
+        {
+            "title_full": "1995", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1995"
+        }, 
+        {
+            "title_full": "12", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12055"
+        }, 
+        {
+            "title_full": "1994", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1994"
+        }, 
+        {
+            "title_full": "11", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12054"
+        }, 
+        {
+            "title_full": "1993", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1993"
+        }, 
+        {
+            "title_full": "10", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12053"
+        }, 
+        {
+            "title_full": "1992", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1992"
+        }, 
+        {
+            "title_full": "9", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12052"
+        }, 
+        {
+            "title_full": "1991", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1991"
+        }, 
+        {
+            "title_full": "8", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12051"
+        }, 
+        {
+            "title_full": "1990", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1990"
+        }, 
+        {
+            "title_full": "7", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12050"
+        }, 
+        {
+            "title_full": "1989", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1989"
+        }, 
+        {
+            "title_full": "6", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12049"
+        }, 
+        {
+            "title_full": "1988", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1988"
+        }, 
+        {
+            "title_full": "5", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12048"
+        }, 
+        {
+            "title_full": "1987", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1987"
+        }, 
+        {
+            "title_full": "4", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12047"
+        }, 
+        {
+            "title_full": "1986", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1986"
+        }, 
+        {
+            "title_full": "3", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=231&clave_busqueda=12046"
+        }, 
+        {
+            "title_full": "1985", 
+            "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&revista_busqueda=231&clave_busqueda=1985"
+        }
+    ], 
     "title": "Bolskan: Revista de arqueolog\u00eda del Instituto de Estudios Altoaragoneses", 
     "title_alternates": [], 
     "title_extended": null, 

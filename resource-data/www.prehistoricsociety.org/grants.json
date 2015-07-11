@@ -10,8 +10,8 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "PAST: Newsletter of the Prehistoric Society", 
-        "url": "http://www.prehistoricsociety.org/publications/past/"
+        "title_full": "The Prehistoric Society: Book Reviews", 
+        "url": "http://www.prehistoricsociety.org/publications/reviews/"
     }, 
     "issuance": null, 
     "issue": null, 
@@ -58,16 +58,74 @@
                 "zenon_id", 
                 "zotero_id"
             ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4309718709232815652", 
+            "resource_date": "2012-02-15T15:48:13.441-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:10:24.905250"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/02/open-access-journal-prehistoric-society.html", 
+            "resource_date": "2012-02-15T15:48:13.441-05:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:10:24.905263"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6986261175638467240", 
             "resource_date": "2012-08-04T07:49:58.465-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:11:49.393869"
+            "when": "2015-07-11T20:13:39.329350"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-past-newsletter-of.html", 
             "resource_date": "2012-08-04T07:49:58.465-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:11:49.393880"
+            "when": "2015-07-11T20:13:39.329363"
+        }, 
+        {
+            "fields": [
+                "resource_key", 
+                "languages", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:13:39.384927"
         }
     ], 
     "publishers": [], 

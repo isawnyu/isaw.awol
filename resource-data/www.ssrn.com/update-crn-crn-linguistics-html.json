@@ -9,10 +9,7 @@
     "form": null, 
     "frequency": null, 
     "identifiers": {}, 
-    "is_part_of": {
-        "title_full": "Ancient Greek & Roman Linguistics eJournal", 
-        "url": "http://www.ssrn.com/update/crn/crn_linguistics.html"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -68,74 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2134808044936157978", 
             "resource_date": "2014-10-28T11:27:24.027-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:06:06.645216"
+            "when": "2015-07-11T20:07:16.538628"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/open-access-journal-ancient-greek-roman_28.html", 
             "resource_date": "2014-10-28T11:27:24.027-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:06:06.645232"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2134808044936157978", 
-            "resource_date": "2014-10-28T11:27:24.027-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:06:06.696401"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2014/10/open-access-journal-ancient-greek-roman_28.html", 
-            "resource_date": "2014-10-28T11:27:24.027-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:06:06.696416"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:06:06.697890"
+            "when": "2015-07-11T20:07:16.538644"
         }
     ], 
     "publishers": [], 
@@ -143,12 +79,7 @@
     "resource_key": "update-crn-crn-linguistics-html", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [
-        {
-            "title_full": "Ancient Greek & Roman Linguistics eJournal", 
-            "url": "http://www.ssrn.com/update/crn/crn_linguistics.html"
-        }
-    ], 
+    "subordinate_resources": [], 
     "title": "Ancient Greek & Roman Linguistics eJournal", 
     "title_alternates": [], 
     "title_extended": null, 

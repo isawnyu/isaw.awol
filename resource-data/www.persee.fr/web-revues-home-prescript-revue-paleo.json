@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Quaternaire.", 
+    "description": "[First posted in AWOL 9 March 2011. Updated 11 July 2013].", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -16,8 +16,15 @@
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
-    "keywords": [], 
-    "languages": [], 
+    "keywords": [
+        "journal", 
+        "prehistory", 
+        "archaeology", 
+        "open access"
+    ], 
+    "languages": [
+        "en"
+    ], 
     "places": [], 
     "provenance": [
         {
@@ -59,13 +66,74 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:06:18.387994"
+            "when": "2015-07-11T20:07:28.707168"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:06:18.388004"
+            "when": "2015-07-11T20:07:28.707180"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2883078622035089529", 
+            "resource_date": "2013-07-11T07:30:34.475-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:07:51.790647"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-juournal-paleorient.html", 
+            "resource_date": "2013-07-11T07:30:34.475-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:07:51.790664"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:07:52.267722"
         }
     ], 
     "publishers": [], 
@@ -73,7 +141,264 @@
     "resource_key": "web-revues-home-prescript-revue-paleo", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "title_full": "1973 : [ 1-1 ] [ 1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1973_num_1_1"
+        }, 
+        {
+            "title_full": "1973 : [ 1-1 ] [ 1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1973_num_1_2"
+        }, 
+        {
+            "title_full": "1974 : [ 2-1 ] [ 2-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1974_num_2_1"
+        }, 
+        {
+            "title_full": "1974 : [ 2-1 ] [ 2-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1974_num_2_2"
+        }, 
+        {
+            "title_full": "1975 : [ 3 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1975_num_3_1"
+        }, 
+        {
+            "title_full": "1978 : [ 4 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1978_num_4_1"
+        }, 
+        {
+            "title_full": "1979 : [ 5 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1979_num_5_1"
+        }, 
+        {
+            "title_full": "1980 : [ 6 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1980_num_6_1"
+        }, 
+        {
+            "title_full": "1981 : [ 7-1 ] [ 7-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1981_num_7_1"
+        }, 
+        {
+            "title_full": "1981 : [ 7-1 ] [ 7-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1981_num_7_2"
+        }, 
+        {
+            "title_full": "1982 : [ 8-1 ] [ 8-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1982_num_8_1"
+        }, 
+        {
+            "title_full": "1982 : [ 8-1 ] [ 8-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1982_num_8_2"
+        }, 
+        {
+            "title_full": "1983 : [ 9-1 ] [ 9-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1983_num_9_1"
+        }, 
+        {
+            "title_full": "1983 : [ 9-1 ] [ 9-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1983_num_9_2"
+        }, 
+        {
+            "title_full": "1984 : [ 10-1 ] [ 10-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1984_num_10_1"
+        }, 
+        {
+            "title_full": "1984 : [ 10-1 ] [ 10-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1984_num_10_2"
+        }, 
+        {
+            "title_full": "1985 : [ 11-1 ] [ 11-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1985_num_11_1"
+        }, 
+        {
+            "title_full": "1985 : [ 11-1 ] [ 11-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1985_num_11_2"
+        }, 
+        {
+            "title_full": "1986 : [ 12-1 ] [ 12-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1986_num_12_1"
+        }, 
+        {
+            "title_full": "1986 : [ 12-1 ] [ 12-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1986_num_12_2"
+        }, 
+        {
+            "title_full": "1987 : [ 13-1 ] [ 13-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1987_num_13_1"
+        }, 
+        {
+            "title_full": "1987 : [ 13-1 ] [ 13-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1987_num_13_2"
+        }, 
+        {
+            "title_full": "1988 : [ 14-1 ] [ 14-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1988_num_14_1"
+        }, 
+        {
+            "title_full": "1988 : [ 14-1 ] [ 14-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1988_num_14_2"
+        }, 
+        {
+            "title_full": "1989 : [ 15-1 ] [ 15-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1989_num_15_1"
+        }, 
+        {
+            "title_full": "1989 : [ 15-1 ] [ 15-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1989_num_15_2"
+        }, 
+        {
+            "title_full": "1990 : [ 16-1 ] [ 16-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1990_num_16_1"
+        }, 
+        {
+            "title_full": "1990 : [ 16-1 ] [ 16-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1990_num_16_2"
+        }, 
+        {
+            "title_full": "1991 : [ 17-1 ] [ 17-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1991_num_17_1"
+        }, 
+        {
+            "title_full": "1991 : [ 17-1 ] [ 17-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1991_num_17_2"
+        }, 
+        {
+            "title_full": "1992 : [ 18-1 ] [ 18-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1992_num_18_1"
+        }, 
+        {
+            "title_full": "1992 : [ 18-1 ] [ 18-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1992_num_18_2"
+        }, 
+        {
+            "title_full": "1993 : [ 19-1 ] [ 19-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1993_num_19_1"
+        }, 
+        {
+            "title_full": "1993 : [ 19-1 ] [ 19-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1993_num_19_2"
+        }, 
+        {
+            "title_full": "1994 : [ 20-1 ] [ 20-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1994_num_20_1"
+        }, 
+        {
+            "title_full": "1994 : [ 20-1 ] [ 20-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1994_num_20_2"
+        }, 
+        {
+            "title_full": "1995 : [ 21-1 ] [ 21-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1995_num_21_1"
+        }, 
+        {
+            "title_full": "1995 : [ 21-1 ] [ 21-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1995_num_21_2"
+        }, 
+        {
+            "title_full": "1996 : [ 22-1 ] [ 22-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1996_num_22_1"
+        }, 
+        {
+            "title_full": "1996 : [ 22-1 ] [ 22-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1996_num_22_2"
+        }, 
+        {
+            "title_full": "1997 : [ 23-1 ] [ 23-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1997_num_23_1"
+        }, 
+        {
+            "title_full": "1997 : [ 23-1 ] [ 23-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1997_num_23_2"
+        }, 
+        {
+            "title_full": "1998 : [ 24-1 ] [ 24-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1998_num_24_1"
+        }, 
+        {
+            "title_full": "1998 : [ 24-1 ] [ 24-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1998_num_24_2"
+        }, 
+        {
+            "title_full": "1999 : [ 25-1 ] [ 25-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1999_num_25_1"
+        }, 
+        {
+            "title_full": "1999 : [ 25-1 ] [ 25-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_1999_num_25_2"
+        }, 
+        {
+            "title_full": "2000 : [ 26-1 ] [ 26-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2000_num_26_1"
+        }, 
+        {
+            "title_full": "2000 : [ 26-1 ] [ 26-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2000_num_26_2"
+        }, 
+        {
+            "title_full": "2001 : [ 27-1 ] [ 27-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2001_num_27_1"
+        }, 
+        {
+            "title_full": "2001 : [ 27-1 ] [ 27-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2001_num_27_2"
+        }, 
+        {
+            "title_full": "2002 : [ 28-1 ] [ 28-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2002_num_28_1"
+        }, 
+        {
+            "title_full": "2002 : [ 28-1 ] [ 28-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2002_num_28_2"
+        }, 
+        {
+            "title_full": "2003 : [ 29-1 ] [ 29-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2003_num_29_1"
+        }, 
+        {
+            "title_full": "2003 : [ 29-1 ] [ 29-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2003_num_29_2"
+        }, 
+        {
+            "title_full": "2004 : [ 30-1 ] [ 30-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2004_num_30_1"
+        }, 
+        {
+            "title_full": "2004 : [ 30-1 ] [ 30-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2004_num_30_2"
+        }, 
+        {
+            "title_full": "2005 : [ 31-1 ] [ 31-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2005_num_31_1"
+        }, 
+        {
+            "title_full": "2005 : [ 31-1 ] [ 31-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2005_num_31_2"
+        }, 
+        {
+            "title_full": "2006 : [ 32-1 ] [ 32-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2006_num_32_1"
+        }, 
+        {
+            "title_full": "2006 : [ 32-1 ] [ 32-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2006_num_32_2"
+        }, 
+        {
+            "title_full": "2007 : [ 33-1 ] [ 33-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2007_num_33_1"
+        }, 
+        {
+            "title_full": "2007 : [ 33-1 ] [ 33-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2007_num_33_2"
+        }, 
+        {
+            "title_full": "2008 : [ 34-1 ] [ 34-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2008_num_34_1"
+        }, 
+        {
+            "title_full": "2008 : [ 34-1 ] [ 34-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/paleo_0153-9345_2008_num_34_2"
+        }
+    ], 
     "title": "Pal\u00e9orient", 
     "title_alternates": [], 
     "title_extended": null, 

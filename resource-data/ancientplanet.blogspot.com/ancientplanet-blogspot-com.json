@@ -9,10 +9,7 @@
     "form": null, 
     "frequency": null, 
     "identifiers": {}, 
-    "is_part_of": {
-        "title_full": "AncientPlanet", 
-        "url": "http://ancientplanet.blogspot.com/"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -64,74 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1091523939067634146", 
             "resource_date": "2013-03-28T20:42:29.680-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:05:04.956484"
+            "when": "2015-07-11T20:06:07.396504"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-ancientplanet.html", 
             "resource_date": "2013-03-28T20:42:29.680-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:05:04.956499"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1091523939067634146", 
-            "resource_date": "2013-03-28T20:42:29.680-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:05:04.964694"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-ancientplanet.html", 
-            "resource_date": "2013-03-28T20:42:29.680-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:05:04.964706"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:05:04.966066"
+            "when": "2015-07-11T20:06:07.396524"
         }
     ], 
     "publishers": [], 
@@ -139,12 +75,7 @@
     "resource_key": "ancientplanet-blogspot-com", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [
-        {
-            "title_full": "AncientPlanet", 
-            "url": "http://ancientplanet.blogspot.com/"
-        }
-    ], 
+    "subordinate_resources": [], 
     "title": "AncientPlanet", 
     "title_alternates": [], 
     "title_extended": null, 

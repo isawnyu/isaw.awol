@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ISSN:0350-7165.", 
+    "description": "[First posted in AWOL 10 August 2010. Updated 19 September 2014].", 
     "domain": "hrcak.srce.hr", 
     "editors": [], 
     "end_date": null, 
@@ -24,10 +24,12 @@
     "issue": null, 
     "issued_dates": null, 
     "keywords": [
-        "museums", 
+        "Zagreb", 
         "journal", 
-        "archaeology", 
-        "Zagreb"
+        "museums", 
+        "Croatia", 
+        "open access", 
+        "archaeology"
     ], 
     "languages": [
         "en"
@@ -73,13 +75,75 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:09:54.658341"
+            "when": "2015-07-11T20:11:35.785678"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/croatian-open-access-archaeology.html", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:09:54.658352"
+            "when": "2015-07-11T20:11:35.785698"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9222293135690947661", 
+            "resource_date": "2014-09-19T10:10:58.852-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:17:24.524758"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-jpurnal-vjesnik-arheoloskog.html", 
+            "resource_date": "2014-09-19T10:10:58.852-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:17:24.524776"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:17:25.029449"
         }
     ], 
     "publishers": [], 
@@ -87,8 +151,297 @@
     "resource_key": "vjesnik-amz", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [], 
-    "title": "Journal of the Zagreb Archaeological Museum", 
+    "subordinate_resources": [
+        {
+            "title_full": "Vol. 46 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=9613"
+        }, 
+        {
+            "title_full": "Vol. 45 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=8294"
+        }, 
+        {
+            "title_full": "Vol. 44 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6841"
+        }, 
+        {
+            "title_full": "Vol. 43 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=6006"
+        }, 
+        {
+            "title_full": "Vol. 42 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=5062"
+        }, 
+        {
+            "title_full": "Vol. 41 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3784"
+        }, 
+        {
+            "title_full": "Vol. 40 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2511"
+        }, 
+        {
+            "title_full": "Vol. 39 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1708"
+        }, 
+        {
+            "title_full": "Vol. 38 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1710"
+        }, 
+        {
+            "title_full": "Vol. 37 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1711"
+        }, 
+        {
+            "title_full": "Vol. 36 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2286"
+        }, 
+        {
+            "title_full": "Vol. 35 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2285"
+        }, 
+        {
+            "title_full": "Vol. 34 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2274"
+        }, 
+        {
+            "title_full": "Vol. 32-33 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2270"
+        }, 
+        {
+            "title_full": "Vol. 30-31 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2287"
+        }, 
+        {
+            "title_full": "Vol. 28-29 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2284"
+        }, 
+        {
+            "title_full": "Vol. 26-27 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2386"
+        }, 
+        {
+            "title_full": "Vol. 24-25 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2385"
+        }, 
+        {
+            "title_full": "Vol. 23 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2384"
+        }, 
+        {
+            "title_full": "Vol. 22 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2545"
+        }, 
+        {
+            "title_full": "Vol. 21 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2544"
+        }, 
+        {
+            "title_full": "Vol. 20 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2420"
+        }, 
+        {
+            "title_full": "Vol. 19 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2409"
+        }, 
+        {
+            "title_full": "Vol. 18 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2268"
+        }, 
+        {
+            "title_full": "Vol. 16-17 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2377"
+        }, 
+        {
+            "title_full": "Vol. 15 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2267"
+        }, 
+        {
+            "title_full": "Vol. 14 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2097"
+        }, 
+        {
+            "title_full": "Vol. 12-13 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2266"
+        }, 
+        {
+            "title_full": "Vol. 10-11 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2095"
+        }, 
+        {
+            "title_full": "Vol. 9 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2068"
+        }, 
+        {
+            "title_full": "Vol. 8 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2067"
+        }, 
+        {
+            "title_full": "Vol. 6-7 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2065"
+        }, 
+        {
+            "title_full": "Vol. 5 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2265"
+        }, 
+        {
+            "title_full": "Vol. 4 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1875"
+        }, 
+        {
+            "title_full": "Vol. 3 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2064"
+        }, 
+        {
+            "title_full": "Vol. 2 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1965"
+        }, 
+        {
+            "title_full": "Vol. 1 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1843"
+        }, 
+        {
+            "title_full": "Vol. 24-25 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=8309"
+        }, 
+        {
+            "title_full": "Vol. 22-23 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4049"
+        }, 
+        {
+            "title_full": "Vol. 17 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4044"
+        }, 
+        {
+            "title_full": "Vol. 16 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4041"
+        }, 
+        {
+            "title_full": "Vol. 15 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4034"
+        }, 
+        {
+            "title_full": "Vol. 14 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4033"
+        }, 
+        {
+            "title_full": "Vol. 13 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4030"
+        }, 
+        {
+            "title_full": "Vol. 12 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4026"
+        }, 
+        {
+            "title_full": "Vol. 11 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4025"
+        }, 
+        {
+            "title_full": "Vol. 10 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4024"
+        }, 
+        {
+            "title_full": "Vol. 9 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4022"
+        }, 
+        {
+            "title_full": "Vol. 8 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4020"
+        }, 
+        {
+            "title_full": "Vol. 7 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4019"
+        }, 
+        {
+            "title_full": "Vol. 6 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4017"
+        }, 
+        {
+            "title_full": "Vol. 5 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4016"
+        }, 
+        {
+            "title_full": "Vol. 4 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4010"
+        }, 
+        {
+            "title_full": "Vol. 3 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4007"
+        }, 
+        {
+            "title_full": "Vol. 2 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4003"
+        }, 
+        {
+            "title_full": "Vol. 1 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4001"
+        }, 
+        {
+            "title_full": "Vol. 14 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3966"
+        }, 
+        {
+            "title_full": "Vol. 13 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3967"
+        }, 
+        {
+            "title_full": "Vol. 12 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3968"
+        }, 
+        {
+            "title_full": "Vol. 11 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3982"
+        }, 
+        {
+            "title_full": "Vol. 10 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3980"
+        }, 
+        {
+            "title_full": "Vol. 9 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3978"
+        }, 
+        {
+            "title_full": "Vol. 8 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3976"
+        }, 
+        {
+            "title_full": "Vol. 7 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3972"
+        }, 
+        {
+            "title_full": "Vol. 6 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3971"
+        }, 
+        {
+            "title_full": "Vol. 5 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3969"
+        }, 
+        {
+            "title_full": "Vol. 4 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3996"
+        }, 
+        {
+            "title_full": "Vol. 3 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3995"
+        }, 
+        {
+            "title_full": "Vol. 2 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3993"
+        }, 
+        {
+            "title_full": "Vol. 1 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3845"
+        }, 
+        {
+            "title_full": "Vol. 2 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4051"
+        }, 
+        {
+            "title_full": "Vol. 1 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4050"
+        }
+    ], 
+    "title": "Vjesnik Arheolo\u0161kog muzeja u Zagrebu - Journal of the Zagreb Archaeological Museum", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

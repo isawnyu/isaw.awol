@@ -15,10 +15,7 @@
     "form": null, 
     "frequency": null, 
     "identifiers": {}, 
-    "is_part_of": {
-        "title_full": "Student Journal for New Testament Studies", 
-        "url": "http://www.sjnts.net/"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -74,75 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-344362870706586148", 
             "resource_date": "2012-09-02T16:29:17.407-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:08:01.871223"
+            "when": "2015-07-11T20:09:24.951754"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/07/new-open-access-journal-student-journal.html", 
             "resource_date": "2012-09-02T16:29:17.407-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:08:01.871238"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-344362870706586148", 
-            "resource_date": "2012-09-02T16:29:17.407-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:08:01.875433"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/07/new-open-access-journal-student-journal.html", 
-            "resource_date": "2012-09-02T16:29:17.407-04:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:08:01.875443"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "authors", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:08:01.881827"
+            "when": "2015-07-11T20:09:24.951779"
         }
     ], 
     "publishers": [], 
@@ -151,10 +86,6 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [
-        {
-            "title_full": "Student Journal for New Testament Studies", 
-            "url": "http://www.sjnts.net/"
-        }, 
         {
             "title_full": "The Didache as a Textual Witness: The Status Quaestionis", 
             "url": "http://www.sjnts.net/uploads/Mailk.pdf"

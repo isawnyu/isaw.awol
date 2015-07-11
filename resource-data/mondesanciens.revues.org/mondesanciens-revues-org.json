@@ -20,10 +20,7 @@
             ]
         }
     }, 
-    "is_part_of": {
-        "title_full": "Cahiers \u00abMondes Anciens\u00bb", 
-        "url": "http://mondesanciens.revues.org/"
-    }, 
+    "is_part_of": null, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
@@ -77,75 +74,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8129117087435468229", 
             "resource_date": "2014-11-13T08:48:46.773-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:13:17.300396"
+            "when": "2015-07-11T20:15:13.417648"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/new-open-access-journal-cahiers-mondes.html", 
             "resource_date": "2014-11-13T08:48:46.773-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:13:17.300412"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8129117087435468229", 
-            "resource_date": "2014-11-13T08:48:46.773-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:13:17.309313"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2010/02/new-open-access-journal-cahiers-mondes.html", 
-            "resource_date": "2014-11-13T08:48:46.773-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:13:17.309325"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "authors", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:13:17.324270"
+            "when": "2015-07-11T20:15:13.417665"
         }
     ], 
     "publishers": [], 
@@ -154,10 +89,6 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [
-        {
-            "title_full": "Cahiers \u00abMondes Anciens\u00bb", 
-            "url": "http://mondesanciens.revues.org/"
-        }, 
         {
             "title_full": "5 | 2014 . Maudire et mal dire : paroles mena\u00e7antes en Gr\u00e8ce ancienne", 
             "url": "http://mondesanciens.revues.org/1109"

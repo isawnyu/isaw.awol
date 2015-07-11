@@ -16,8 +16,8 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Bulletin de l'Association Guillaum Bud\u00e9", 
-        "url": "http://www.persee.fr/web/revues/home/prescript/revue/bude"
+        "title_full": "Journals at Pers\u00e9e", 
+        "url": "http://www.persee.fr/web/revues/home"
     }, 
     "issuance": null, 
     "issue": null, 
@@ -72,74 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1582488232425081359", 
             "resource_date": "2015-02-18T06:52:20.714-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:05:39.341753"
+            "when": "2015-07-11T20:06:48.105063"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html", 
             "resource_date": "2015-02-18T06:52:20.714-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:05:39.341768"
-        }, 
-        {
-            "fields": [
-                "authors", 
-                "contributors", 
-                "description", 
-                "domain", 
-                "editors", 
-                "end_date", 
-                "extent", 
-                "form", 
-                "frequency", 
-                "identifiers", 
-                "is_part_of", 
-                "issuance", 
-                "issue", 
-                "issued_dates", 
-                "keywords", 
-                "languages", 
-                "places", 
-                "provenance", 
-                "publishers", 
-                "related_resources", 
-                "responsibility", 
-                "start_date", 
-                "subordinate_resources", 
-                "title", 
-                "title_alternates", 
-                "title_extended", 
-                "type", 
-                "url", 
-                "url_alternates", 
-                "volume", 
-                "year", 
-                "zenon_id", 
-                "zotero_id"
-            ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1582488232425081359", 
-            "resource_date": "2015-02-18T06:52:20.714-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:05:40.359837"
-        }, 
-        {
-            "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html", 
-            "resource_date": "2015-02-18T06:52:20.714-05:00", 
-            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:05:40.359852"
-        }, 
-        {
-            "fields": [
-                "subordinate_resources", 
-                "resource_key", 
-                "keywords", 
-                "languages", 
-                "description", 
-                "is_part_of", 
-                "identifiers"
-            ], 
-            "resource": "http://purl.org/net/wf-motifs#Combine", 
-            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:05:40.760115"
+            "when": "2015-07-11T20:06:48.105077"
         }, 
         {
             "fields": [
@@ -180,13 +119,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:06:18.362267"
+            "when": "2015-07-11T20:07:28.666145"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:06:18.362278"
+            "when": "2015-07-11T20:07:28.666161"
         }, 
         {
             "fields": [
@@ -201,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:06:18.435508"
+            "when": "2015-07-11T20:07:28.788911"
         }
     ], 
     "publishers": [], 
@@ -210,10 +149,6 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [
-        {
-            "title_full": "Bulletin de l'Association Guillaum Bud\u00e9", 
-            "url": "http://www.persee.fr/web/revues/home/prescript/revue/bude"
-        }, 
         {
             "title_full": "1928 : [ 1 ]", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_1928_num_18_1"

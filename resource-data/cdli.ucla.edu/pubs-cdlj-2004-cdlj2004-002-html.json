@@ -10,14 +10,18 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Cuneiform Digital Library Initiative", 
-        "url": "http://cdli.ucla.edu/"
+        "title_full": "Cuneiform Digital Library Journal", 
+        "url": "http://cdli.ucla.edu/pubs/cdlj.html"
     }, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
-    "keywords": [], 
-    "languages": [], 
+    "keywords": [
+        "calendar"
+    ], 
+    "languages": [
+        "en"
+    ], 
     "places": [], 
     "provenance": [
         {
@@ -56,16 +60,16 @@
                 "zenon_id", 
                 "zotero_id"
             ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7965296273554809948", 
-            "resource_date": "2009-08-31T17:30:01.406-04:00", 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1255118897098244446", 
+            "resource_date": "2013-05-21T11:58:53.309-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:13:10.363721"
+            "when": "2015-07-11T20:06:16.426557"
         }, 
         {
-            "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journals-cuneiform-digital.html", 
-            "resource_date": "2009-08-31T17:30:01.406-04:00", 
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-cuneiform-digital_891.html", 
+            "resource_date": "2013-05-21T11:58:53.309-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:13:10.363730"
+            "when": "2015-07-11T20:06:16.426569"
         }
     ], 
     "publishers": [], 
@@ -74,14 +78,14 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "2004:2", 
+    "title": "The Calendar of Neo-Sumerian Ur and Its Political Significance", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 
     "url": "http://cdli.ucla.edu/pubs/cdlj/2004/cdlj2004_002.html", 
     "url_alternates": [], 
-    "volume": "2", 
-    "year": "2004", 
+    "volume": "-", 
+    "year": null, 
     "zenon_id": null, 
     "zotero_id": null
 }

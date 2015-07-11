@@ -1,0 +1,91 @@
+{
+    "authors": [], 
+    "contributors": [], 
+    "description": null, 
+    "domain": "histara.sorbonne.fr", 
+    "editors": [], 
+    "end_date": null, 
+    "extent": null, 
+    "form": null, 
+    "frequency": null, 
+    "identifiers": {}, 
+    "is_part_of": {
+        "title_full": "Histara", 
+        "url": "http://histara.sorbonne.fr/"
+    }, 
+    "issuance": null, 
+    "issue": null, 
+    "issued_dates": null, 
+    "keywords": [
+        "book"
+    ], 
+    "languages": [
+        "en"
+    ], 
+    "places": [], 
+    "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3872305943857269081", 
+            "resource_date": "2014-09-16T11:24:12.048-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:09:51.062133"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-histara.html", 
+            "resource_date": "2014-09-16T11:24:12.048-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:09:51.062150"
+        }
+    ], 
+    "publishers": [], 
+    "related_resources": [], 
+    "resource_key": "4d58fcc0bcda4d13b2349c6e3909dd53bffb5f13", 
+    "responsibility": [], 
+    "start_date": null, 
+    "subordinate_resources": [], 
+    "title": "Consult the list of received books and eventually submit a review", 
+    "title_alternates": [], 
+    "title_extended": null, 
+    "type": null, 
+    "url": "http://histara.sorbonne.fr/annonces.php?lang=en", 
+    "url_alternates": [], 
+    "volume": null, 
+    "year": null, 
+    "zenon_id": null, 
+    "zotero_id": null
+}

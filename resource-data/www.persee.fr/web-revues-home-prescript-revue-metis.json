@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Monuments et m\u00e9moires de la Fondation Eug\u00e8ne Piot.", 
+    "description": "[First posted in AWOL 16 October 2010. Updated 12 March 2012].", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,11 @@
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
-    "keywords": [], 
+    "keywords": [
+        "journal", 
+        "open access", 
+        "Greece"
+    ], 
     "languages": [
         "fr"
     ], 
@@ -61,13 +65,74 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:06:18.383784"
+            "when": "2015-07-11T20:07:28.702441"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:06:18.383795"
+            "when": "2015-07-11T20:07:28.702459"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6473001569091484303", 
+            "resource_date": "2015-03-31T09:29:22.179-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:13:05.563637"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-jouranl-metis-anthropologie.html", 
+            "resource_date": "2015-03-31T09:29:22.179-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:13:05.563653"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:13:05.599776"
         }
     ], 
     "publishers": [], 
@@ -75,7 +140,68 @@
     "resource_key": "web-revues-home-prescript-revue-metis", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "title_full": "1986 : [ 1-1 ] [ 1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1986_num_1_1"
+        }, 
+        {
+            "title_full": "1986 : [ 1-1 ] [ 1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1986_num_1_2"
+        }, 
+        {
+            "title_full": "1987 : [ 2-1 ] [ 2-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1987_num_2_1"
+        }, 
+        {
+            "title_full": "1987 : [ 2-1 ] [ 2-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1987_num_2_2"
+        }, 
+        {
+            "title_full": "1988 : [ 3-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1988_num_3_1"
+        }, 
+        {
+            "title_full": "1989 : [ 4-1 ] [ 4-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1989_num_4_1"
+        }, 
+        {
+            "title_full": "1989 : [ 4-1 ] [ 4-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1989_num_4_2"
+        }, 
+        {
+            "title_full": "1990 : [ 5-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1990_num_5_1"
+        }, 
+        {
+            "title_full": "1991 : [ 6-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1991_num_6_1"
+        }, 
+        {
+            "title_full": "1992 : [ 7-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1992_num_7_1"
+        }, 
+        {
+            "title_full": "1993 : [ 8-1-2 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1993_num_8_1"
+        }, 
+        {
+            "title_full": "1994 : [ 9-10 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1994_num_9_1"
+        }, 
+        {
+            "title_full": "1996 : [ 11 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1996_num_11_1"
+        }, 
+        {
+            "title_full": "1997 : [ 12 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1997_num_12_1"
+        }, 
+        {
+            "title_full": "1998 : [ 13 ]", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/issue/metis_1105-2201_1998_num_13_1"
+        }
+    ], 
     "title": "M\u00e8tis. Anthropologie des mondes grecs anciens", 
     "title_alternates": [], 
     "title_extended": null, 

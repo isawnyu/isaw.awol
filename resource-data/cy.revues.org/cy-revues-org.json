@@ -24,9 +24,11 @@
     "issued_dates": null, 
     "keywords": [
         "journal", 
+        "French", 
         "Arabian", 
         "open access", 
         "Arabia", 
+        "Yemen", 
         "archaeology", 
         "South Arabia"
     ], 
@@ -71,16 +73,16 @@
                 "zenon_id", 
                 "zotero_id"
             ], 
-            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8603139550569042129", 
-            "resource_date": "2015-06-25T12:02:59.006-04:00", 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-70689484269502789", 
+            "resource_date": "2015-06-25T12:00:14.642-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:14:06.585510"
+            "when": "2015-07-11T20:13:41.629818"
         }, 
         {
-            "resource": "http://ancientworldonline.blogspot.com/2013/01/new-open-access-journal-arabian.html", 
-            "resource_date": "2015-06-25T12:02:59.006-04:00", 
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-chroniques.html", 
+            "resource_date": "2015-06-25T12:00:14.642-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:14:06.585529"
+            "when": "2015-07-11T20:13:41.629836"
         }, 
         {
             "fields": [
@@ -121,13 +123,74 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8603139550569042129", 
             "resource_date": "2015-06-25T12:02:59.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:14:06.621081"
+            "when": "2015-07-11T20:16:04.697145"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/new-open-access-journal-arabian.html", 
             "resource_date": "2015-06-25T12:02:59.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:14:06.621096"
+            "when": "2015-07-11T20:16:04.697166"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:16:04.880057"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8603139550569042129", 
+            "resource_date": "2015-06-25T12:02:59.006-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:16:04.765539"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/01/new-open-access-journal-arabian.html", 
+            "resource_date": "2015-06-25T12:02:59.006-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:16:04.765561"
         }, 
         {
             "fields": [
@@ -141,7 +204,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-06T13:14:06.683794"
+            "when": "2015-07-11T20:16:04.894593"
         }
     ], 
     "publishers": [], 
@@ -150,6 +213,94 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [
+        {
+            "title_full": "Arabian Humanities. International Journal of Archaeology and Social Sciences in the Arabian Peninsula", 
+            "url": "http://cy.revues.org/2803"
+        }, 
+        {
+            "title_full": "3 | 2014", 
+            "url": "http://cy.revues.org/2690"
+        }, 
+        {
+            "title_full": "2 | 2013 . Villes et dynamiques urbaines en p\u00e9ninsule Arabique", 
+            "url": "http://cy.revues.org/2460"
+        }, 
+        {
+            "title_full": "1 | 2013 . Transformations dans le genre en p\u00e9ninsule Arabique", 
+            "url": "http://cy.revues.org/1910"
+        }, 
+        {
+            "title_full": "17 | 2012", 
+            "url": "http://cy.revues.org/1789"
+        }, 
+        {
+            "title_full": "16 | 2010", 
+            "url": "http://cy.revues.org/1760"
+        }, 
+        {
+            "title_full": "15 | 2008", 
+            "url": "http://cy.revues.org/1597"
+        }, 
+        {
+            "title_full": "14 | 2007", 
+            "url": "http://cy.revues.org/1418"
+        }, 
+        {
+            "title_full": "13 | 2006", 
+            "url": "http://cy.revues.org/274"
+        }, 
+        {
+            "title_full": "12 | 2004", 
+            "url": "http://cy.revues.org/262"
+        }, 
+        {
+            "title_full": "11 | 2003", 
+            "url": "http://cy.revues.org/253"
+        }, 
+        {
+            "title_full": "10 | 2002", 
+            "url": "http://cy.revues.org/244"
+        }, 
+        {
+            "title_full": "9 | 2001", 
+            "url": "http://cy.revues.org/203"
+        }, 
+        {
+            "title_full": "8 | 2000", 
+            "url": "http://cy.revues.org/202"
+        }, 
+        {
+            "title_full": "6-7 | 1999", 
+            "url": "http://cy.revues.org/204"
+        }, 
+        {
+            "title_full": "4-5 | 1997", 
+            "url": "http://cy.revues.org/206"
+        }, 
+        {
+            "title_full": "3 | 1995", 
+            "url": "http://cy.revues.org/207"
+        }, 
+        {
+            "title_full": "2 | 1994", 
+            "url": "http://cy.revues.org/208"
+        }, 
+        {
+            "title_full": "1 | 1993", 
+            "url": "http://cy.revues.org/1897"
+        }, 
+        {
+            "title_full": "3 | 2007 . Chroniques du manuscrit au Y\u00e9men", 
+            "url": "http://cy.revues.org/1420"
+        }, 
+        {
+            "title_full": "2 | 2006 . Chroniques du manuscrit au Y\u00e9men", 
+            "url": "http://cy.revues.org/271"
+        }, 
+        {
+            "title_full": "1 | 2006 . Chroniques du manuscrit au Y\u00e9men", 
+            "url": "http://cy.revues.org/268"
+        }, 
         {
             "title_full": "Arabian Humanities. International Journal of Archaeology and Social Sciences in the Arabian Peninsula", 
             "url": "http://cy.revues.org/"

@@ -10,16 +10,65 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Cuneiform Digital Library Initiative", 
-        "url": "http://cdli.ucla.edu/"
+        "title_full": "Cuneiform Digital Library Journal", 
+        "url": "http://cdli.ucla.edu/pubs/cdlj.html"
     }, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
     "keywords": [], 
-    "languages": [], 
+    "languages": [
+        "en"
+    ], 
     "places": [], 
     "provenance": [
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1255118897098244446", 
+            "resource_date": "2013-05-21T11:58:53.309-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:06:16.421456"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-cuneiform-digital_891.html", 
+            "resource_date": "2013-05-21T11:58:53.309-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:06:16.421467"
+        }, 
         {
             "fields": [
                 "authors", 
@@ -59,13 +108,27 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7965296273554809948", 
             "resource_date": "2009-08-31T17:30:01.406-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:13:10.359322"
+            "when": "2015-07-11T20:15:05.822367"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journals-cuneiform-digital.html", 
             "resource_date": "2009-08-31T17:30:01.406-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:13:10.359333"
+            "when": "2015-07-11T20:15:05.822383"
+        }, 
+        {
+            "fields": [
+                "resource_key", 
+                "year", 
+                "title", 
+                "languages", 
+                "volume", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:15:05.965980"
         }
     ], 
     "publishers": [], 
@@ -74,7 +137,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "2003:5", 
+    "title": "Archaic Metrological Systems from Ur", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

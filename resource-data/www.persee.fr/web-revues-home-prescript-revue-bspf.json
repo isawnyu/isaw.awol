@@ -1,14 +1,20 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bulletin de l'Association Guillaume Bud\u00e9.", 
+    "description": "eISSN - 1760-7361. Publi\u00e9 sans interruption depuis 1904, le Bulletin de la Soci\u00e9t\u00e9 pr\u00e9historique fran\u00e7aise est la plus importante revue de Pr\u00e9histoire fran\u00e7aise. Il publie des articles originaux de Pr\u00e9histoire, depuis le Pal\u00e9olithique jusqu\u2019au premier \u00c2ge du Fer.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
     "extent": null, 
     "form": null, 
     "frequency": null, 
-    "identifiers": {}, 
+    "identifiers": {
+        "issn": {
+            "electronic": [
+                "1760-7361"
+            ]
+        }
+    }, 
     "is_part_of": {
         "title_full": "Journals at Pers\u00e9e", 
         "url": "http://www.persee.fr/web/revues/home"
@@ -18,7 +24,9 @@
     "issued_dates": null, 
     "keywords": [
         "journal", 
-        "prehistory"
+        "prehistory", 
+        "open access", 
+        "French"
     ], 
     "languages": [
         "fr"
@@ -64,13 +72,137 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:06:18.360762"
+            "when": "2015-07-11T20:07:28.663029"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:06:18.360773"
+            "when": "2015-07-11T20:07:28.663056"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7020687316909452926", 
+            "resource_date": "2013-03-19T14:00:46.168-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:13:39.811250"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-bulletin-de-la.html", 
+            "resource_date": "2013-03-19T14:00:46.168-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:13:39.811267"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:13:39.816778"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7020687316909452926", 
+            "resource_date": "2013-03-19T14:00:46.168-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:13:39.815916"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-bulletin-de-la.html", 
+            "resource_date": "2013-03-19T14:00:46.168-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:13:39.815930"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:13:39.818325"
         }
     ], 
     "publishers": [], 
@@ -78,7 +210,12 @@
     "resource_key": "web-revues-home-prescript-revue-bspf", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "title_full": "Bulletin de la Soci\u00e9t\u00e9 pr\u00e9historique fran\u00e7ais", 
+            "url": "http://www.persee.fr/web/revues/home/prescript/revue/bspf"
+        }
+    ], 
     "title": "Bulletin de la Soci\u00e9t\u00e9 pr\u00e9historique fran\u00e7aise", 
     "title_alternates": [], 
     "title_extended": null, 

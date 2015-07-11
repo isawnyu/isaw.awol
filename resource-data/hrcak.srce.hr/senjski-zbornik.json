@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ISSN:0582-673X.", 
+    "description": "[First posted in AWOL 10 August 2010. Updated 10 October 2011].", 
     "domain": "hrcak.srce.hr", 
     "editors": [], 
     "end_date": null, 
@@ -23,9 +23,13 @@
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
-    "keywords": [], 
+    "keywords": [
+        "journal", 
+        "open access"
+    ], 
     "languages": [
-        "en"
+        "en", 
+        "sl"
     ], 
     "places": [], 
     "provenance": [
@@ -65,16 +69,78 @@
                 "zenon_id", 
                 "zotero_id"
             ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1601512946178717830", 
+            "resource_date": "2011-10-10T14:10:50.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:06:50.939332"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-senjski-zbornik.html", 
+            "resource_date": "2011-10-10T14:10:50.246-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:06:50.939349"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:09:54.680415"
+            "when": "2015-07-11T20:11:35.815551"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/croatian-open-access-archaeology.html", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:09:54.680427"
+            "when": "2015-07-11T20:11:35.815563"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:11:35.852438"
         }
     ], 
     "publishers": [], 
@@ -82,7 +148,68 @@
     "resource_key": "senjski-zbornik", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "title_full": "Vol. 37 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=5611"
+        }, 
+        {
+            "title_full": "Vol. 36 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=4516"
+        }, 
+        {
+            "title_full": "Vol. 35 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3550"
+        }, 
+        {
+            "title_full": "Vol. 34 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3551"
+        }, 
+        {
+            "title_full": "Vol. 33 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1598"
+        }, 
+        {
+            "title_full": "Vol. 32 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1603"
+        }, 
+        {
+            "title_full": "Vol. 31 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1608"
+        }, 
+        {
+            "title_full": "Vol. 30 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1609"
+        }, 
+        {
+            "title_full": "Vol. 29 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1612"
+        }, 
+        {
+            "title_full": "Vol. 28 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=1615"
+        }, 
+        {
+            "title_full": "Vol. 27 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=2538"
+        }, 
+        {
+            "title_full": "Vol. 26 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3470"
+        }, 
+        {
+            "title_full": "Vol. 25 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3553"
+        }, 
+        {
+            "title_full": "Vol. 24 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3554"
+        }, 
+        {
+            "title_full": "Vol. 23 No. 1", 
+            "url": "http://hrcak.srce.hr/index.php?show=toc&id_broj=3592"
+        }
+    ], 
     "title": "The Review of Senj", 
     "title_alternates": [], 
     "title_extended": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "3 | 2014.", 
+    "description": "]. Consacr\u00e9es \u00e0 la p\u00e9ninsule Arabique et \u00e0 la Corne de l\u2019Afrique, les Chroniques Y\u00e9m\u00e9nites sont une revue annuelle en langues fran\u00e7aise et arabe, \u00e9dit\u00e9e depuis 1993 par le Centre fran\u00e7ais d\u2019arch\u00e9ologie et de sciences sociales de Sanaa (minist\u00e8re des Affaires \u00e9trang\u00e8res/CNRS). Y sont regroup\u00e9s des bilans de recherche, des traductions et des bibliographies th\u00e9matiques, relevant de toutes les disciplines des sciences humaines et sociales, de l\u2019arch\u00e9ologie antique \u00e0 la litt\u00e9rature contemporaine, en passant par l\u2019\u00e9conomie, l\u2019anthropologie ou la politique.", 
     "domain": "cy.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,13 +10,17 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Arabian Humanities. International Journal of Archaeology and Social Sciences in the Arabian Peninsula", 
+        "title_full": "Chroniques Y\u00e9m\u00e9nites", 
         "url": "http://cy.revues.org/"
     }, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
-    "keywords": [], 
+    "keywords": [
+        "journal", 
+        "Arabian", 
+        "archaeology"
+    ], 
     "languages": [
         "fr"
     ], 
@@ -58,16 +62,77 @@
                 "zenon_id", 
                 "zotero_id"
             ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-70689484269502789", 
+            "resource_date": "2015-06-25T12:00:14.642-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:13:41.659753"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-chroniques.html", 
+            "resource_date": "2015-06-25T12:00:14.642-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:13:41.659776"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8603139550569042129", 
             "resource_date": "2015-06-25T12:02:59.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:14:06.622893"
+            "when": "2015-07-11T20:16:04.768569"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/new-open-access-journal-arabian.html", 
             "resource_date": "2015-06-25T12:02:59.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:14:06.622904"
+            "when": "2015-07-11T20:16:04.768588"
+        }, 
+        {
+            "fields": [
+                "resource_key", 
+                "keywords", 
+                "title", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:16:04.899238"
         }
     ], 
     "publishers": [], 
@@ -76,7 +141,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "4 | 2015 . Le Printemps arabe dans la p\u00e9ninsule Arabique", 
+    "title": "Arabian Humanities. International Journal of Archaeology and Social Sciences in the Arabian Peninsula", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

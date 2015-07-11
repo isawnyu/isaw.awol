@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "e-ISSN: 1591-2221. Papyrologica Lupiensia \u00e8 una pubblicazione del Dipartimento di Filologia Classica e di Scienze Filosofiche dell'Universit\u00e0 di Lecce e del Centro Interdipartimentale di Studi Papirologici.", 
+    "description": "ISSN: 1591-2140. e-ISSN: 1591-2221. Papyrologica Lupiensia \u00e8 una pubblicazione del Dipartimento di Filologia Classica e di Scienze Filosofiche dell'Universit\u00e0 del Salento e del Centro Interdipartimentale di Studi Papirologici. In questa rivista confluiscono i risultati delle ricerche promosse e sostenute dalla Cattedra di Papirologia e dall'insegnamento di Papirologia Ercolanese dell'Ateneo leccese. La rivista nasce nel 1991 ed ha periodicit\u00e0 annuale. E' consultabile online a partire dal vol. 17/2008. La versione elettronica \u00e8 pubblicata dal Coordinamento SIBA dell'Universit\u00e0 del Salento ed \u00e8 accessibile all'indirizzo http://siba-ese. unisalento. it/index. php/plup.", 
     "domain": "siba-ese.unisalento.it", 
     "editors": [], 
     "end_date": null, 
@@ -12,17 +12,25 @@
         "issn": {
             "electronic": [
                 "1591-2221"
+            ], 
+            "generic": [
+                "1591-2140"
             ]
         }
     }, 
     "is_part_of": {
-        "title_full": "Gli Album del Centro di Studi Papirologici dell'Universit\u00e0 degli Studi di Lecce", 
-        "url": "http://siba-ese.unisalento.it/index.php/albstudpapir"
+        "title_full": "Papyrologica Lupiensia", 
+        "url": "http://siba-ese.unisalento.it/index.php/plup"
     }, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
-    "keywords": [], 
+    "keywords": [
+        "papyrology", 
+        "journal", 
+        "Italy", 
+        "open access"
+    ], 
     "languages": [
         "it"
     ], 
@@ -64,16 +72,138 @@
                 "zenon_id", 
                 "zotero_id"
             ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3669106064067964649", 
+            "resource_date": "2015-06-25T15:24:45.278-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:09:39.570898"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-papyrologica.html", 
+            "resource_date": "2015-06-25T15:24:45.278-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:09:39.570917"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
+            "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3669106064067964649", 
+            "resource_date": "2015-06-25T15:24:45.278-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsDataSource", 
+            "when": "2015-07-11T20:09:39.578654"
+        }, 
+        {
+            "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-papyrologica.html", 
+            "resource_date": "2015-06-25T15:24:45.278-04:00", 
+            "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+            "when": "2015-07-11T20:09:39.578674"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:09:39.588991"
+        }, 
+        {
+            "fields": [
+                "authors", 
+                "contributors", 
+                "description", 
+                "domain", 
+                "editors", 
+                "end_date", 
+                "extent", 
+                "form", 
+                "frequency", 
+                "identifiers", 
+                "is_part_of", 
+                "issuance", 
+                "issue", 
+                "issued_dates", 
+                "keywords", 
+                "languages", 
+                "places", 
+                "provenance", 
+                "publishers", 
+                "related_resources", 
+                "responsibility", 
+                "start_date", 
+                "subordinate_resources", 
+                "title", 
+                "title_alternates", 
+                "title_extended", 
+                "type", 
+                "url", 
+                "url_alternates", 
+                "volume", 
+                "year", 
+                "zenon_id", 
+                "zotero_id"
+            ], 
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4185019258883098700", 
             "resource_date": "2013-10-22T19:28:20.719-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-06T13:08:37.517943"
+            "when": "2015-07-11T20:10:03.505506"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-publications-from.html", 
             "resource_date": "2013-10-22T19:28:20.719-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-06T13:08:37.517953"
+            "when": "2015-07-11T20:10:03.505519"
+        }, 
+        {
+            "fields": [
+                "subordinate_resources", 
+                "resource_key", 
+                "keywords", 
+                "languages", 
+                "description", 
+                "is_part_of", 
+                "identifiers"
+            ], 
+            "resource": "http://purl.org/net/wf-motifs#Combine", 
+            "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+            "when": "2015-07-11T20:10:03.543839"
         }
     ], 
     "publishers": [], 
@@ -81,7 +211,28 @@
     "resource_key": "index-php-plup", 
     "responsibility": [], 
     "start_date": null, 
-    "subordinate_resources": [], 
+    "subordinate_resources": [
+        {
+            "title_full": "Papyrologica Lupiensia", 
+            "url": "http://siba-ese.unisalento.it/index.php/plup"
+        }, 
+        {
+            "title_full": "n. 22 (2013)", 
+            "url": "http://siba-ese.unisalento.it/index.php/plup/issue/view/1204"
+        }, 
+        {
+            "title_full": "n. 20-21 (2011-2012)", 
+            "url": "http://siba-ese.unisalento.it/index.php/plup/issue/view/1131"
+        }, 
+        {
+            "title_full": "n. 18-19 (2009-2010)", 
+            "url": "http://siba-ese.unisalento.it/index.php/plup/issue/view/1080"
+        }, 
+        {
+            "title_full": "n. 17 (2008)", 
+            "url": "http://siba-ese.unisalento.it/index.php/plup/issue/view/1079"
+        }
+    ], 
     "title": "Papyrologica Lupiensia", 
     "title_alternates": [], 
     "title_extended": null, 
