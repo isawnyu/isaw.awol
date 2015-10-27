@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """Test code in the resource module."""
 
+import json
 import os
 
 from nose import with_setup
@@ -45,30 +46,40 @@ def test_json_dumps():
     """Ensure json serialization works."""
 
     r = resource.Resource()
-    r.description = unicode("Il capitale culturale (ISSN: 2039-2362) \u00e8 la rivista del Dipartimento di Beni Culturali dell\u2019Universit\u00e0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\u2019arte) unite dal comune obiettivo della implementazione di attivit\u00e0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.")
-    r.domain = "www.unimc.it"
-    r.identifiers = {"issn": "2039-2362"}
+    r.description = u"Il capitale culturale (ISSN: 2039-2362) é la rivista del Dipartimento di Beni Culturali dell\u2019Universit\u00e0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\u2019arte) unite dal comune obiettivo della implementazione di attivitá di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale."
+    r.domain = u"www.unimc.it"
+    r.identifiers = {u"issn": u"2039-2362"}
     r.keywords = [
-    "antiquity", 
-        "archaeology", 
-        "art", 
-        "cultural heritage", 
-        "culture", 
-        "heritage", 
-        "history", 
-        "journal", 
-        "law", 
-        "museums", 
-        "open access"
+    u"antiquity", 
+        u"archaeology", 
+        u"art", 
+        u"cultural heritage", 
+        u"culture", 
+        u"heritage", 
+        u"history", 
+        u"journal", 
+        u"law", 
+        u"museums", 
+        u"open access"
     ]
-    r.language = ['it', 1.0]
+    r.language = [u'it', 1.0]
     r.related_resources = []
     r.subordinate_resources = []
-    r.title = unicode("Il capitale culturale")
-    r.url = unicode("http://www.unimc.it/riviste/index.php/cap-cult/index")
+    r.title = u"Il capitale culturale"
+    r.url = u"http://www.unimc.it/riviste/index.php/cap-cult/index"
     r.zotero_id = None 
-    js = r.json_dumps()
-    assert_equals(js, '{"subordinate_resources": [], "domain": "www.unimc.it", "contributors": [], "title_alternates": [], "frequency": null, "year": null, "keywords": ["antiquity", "archaeology", "art", "cultural heritage", "culture", "heritage", "history", "journal", "law", "museums", "open access"], "url_alternates": [], "form": null, "title": "Il capitale culturale", "provenance": [], "editors": [], "languages": [], "zenon_id": null, "issue": null, "start_date": null, "publishers": [], "related_resources": [], "description": "Il capitale culturale (ISSN: 2039-2362) \\\\u00e8 la rivista del Dipartimento di Beni Culturali dell\\\\u2019Universit\\\\u00e0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\\\\u2019arte) unite dal comune obiettivo della implementazione di attivit\\\\u00e0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.", "end_date": null, "title_extended": null, "volume": null, "language": ["it", 1.0], "issuance": null, "extent": null, "authors": [], "is_part_of": null, "places": [], "url": "http://www.unimc.it/riviste/index.php/cap-cult/index", "type": null, "identifiers": {"issn": "2039-2362"}, "issued_dates": null, "zotero_id": null, "responsibility": []}')
+    js = r.json_dumps(formatted=True)
+    assert_not_in('\\', js)
+    assert_in('é', js)
+    js = json.loads(js)
+    for k in js.keys():
+        assert_equals(js[k], getattr(r, k))
+    path_json = os.path.join(PATH_TEST_DATA, 'foobert.json')
+    r.json_dump(path_json)
+    with open(path_json, "rb") as f:
+        file_bytes = f.read()
+    assert_not_in('\\', file_bytes)
+    os.remove(path_json)
 
 @with_setup(setup_function, teardown_function)
 def test_json_load():

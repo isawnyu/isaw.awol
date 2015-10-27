@@ -10,6 +10,7 @@ This module defines the following classes:
 
 import copy
 import datetime
+import io
 import json
 import logging
 import pprint
@@ -66,32 +67,31 @@ class Resource:
 
     def json_dumps(self, formatted=False):
         """Dump resource to JSON as a UTF-8 string."""
+
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+        dump = self.__dict__.copy()
+        for k,v in dump.iteritems():
+            logger.debug("{0} ({1})".format(k, type(v)))
         if formatted:
-            return json.dumps(self.__dict__, indent=4, sort_keys=True)
+            return json.dumps(dump, indent=4, sort_keys=True, ensure_ascii=False).encode('utf8')
         else:
-            return json.dumps(self.__dict__)
+            return json.dumps(dump, ensure_ascii=False).encode('utf8')
 
     def json_dump(self, filename, formatted=False):
-        """Dump resource as JSON to a file."""
-        dump = self.__dict__.copy()
+        """Dump resource as JSON to a UTF-8 encoded file."""
+        dumps = self.json_dumps(formatted) # get utf8-encoded JSON dump
         with open(filename, 'w') as f:
-            if formatted:
-                try:
-                    json.dump(self.__dict__, f, indent=4, sort_keys=True)
-                except UnicodeDecodeError:
-                    print(self)
-                    raise
-            else:
-                json.dump(dump, f)
-        del dump
+            f.write(dumps)
+        del dumps
+
 
     def json_loads(self, s):
         """Parse resource from a UTF-8 JSON string."""
-        self.__dict__ = json.loads(s)
+        self.__dict__ = json.loads(unicode(s))
 
     def json_load(self, filename):
         """Parse resource from a json file."""
-        with open(filename, 'r') as f:
+        with io.open(filename, 'r', encoding='utf8') as f:
             self.__dict__ = json.load(f)
 
     def package(self):
