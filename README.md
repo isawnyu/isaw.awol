@@ -35,7 +35,7 @@ I.e., try something like:
 
 > python bin/walk_to_json.py --progress /path/to/awol-content/posts /path/to/somewhere/else/
 
-## Interesting classes
+## Interesting stuff
 
 The following classes are defined:
 
@@ -49,11 +49,31 @@ Store, manipulate, and export data about a single information resource.
 
 ### AwolParsers: ```isaw/awol/parse/awol_parsers.py```
 
-Pluggable framework for parsing content from an AwolArticle.
+Pluggable framework for parsing content from an AwolArticle. 
 
-### AwolBaseParser
+### AwolBaseParser ```isaw/awol/parse/awol_parse.py```
 
-Superclass to extract resource data from an AwolArticle. Other parsers are built on this extensive base by inheriting it and selectively overriding its methods.
+Base class for parsers that extract resource data from an AwolArticle. 
+
+Two subclasses that inherit from base class are used directly in code:
+
+#### awol_parse_generic.Parser: ```isaw/awol/parse/awol_parse_generic.py```
+
+Extract data from an AWOL blog post agnostic to domain of resource.
+
+#### awol_parse_generic_single.Parser: ```isaw/awol/parse/awol_parse_generic_single.py```
+
+Extract data from an AWOL blog post on the assumption the post is about a single resource.
+
+### AwolDomainParser: ```isaw/awol/parse/awol_parse_domain.py```
+
+Inherits from the AwolBaseParser, providing a specialized superclass on which to construct parsers that require specific parsing/extraction behaviors for resources from one particular domain. Such parsers may be created by inheritance from this class and selective override of methods. These are packaged one to a module and saved in ```isaw/awol/parse/``` with filenames that contain the string 'parse'. See, for example:
+
+#### awol_parse_ascsa.Parser: ```isaw/awol/parse/awol_parse_ascsa.py```
+
+Extract data from an AWOL blog post that contains information about resources in the domain ```www.ascsa.edu.gr```.
+
+## Etc.
 
 Includes: http://code.activestate.com/recipes/579018-python-determine-name-and-directory-of-the-top-lev/
 
