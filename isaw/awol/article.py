@@ -4,7 +4,7 @@
 Working with blog posts.
 
 This module defines the following classes:
- 
+
  * Article: represents key information about the post.
 """
 
@@ -32,7 +32,7 @@ class Article():
     def __init__(self, atom_file_name=None, json_file_name=None):
         """Load post from Atom entry or JSON and extract basic info.
 
-        The method looks for the following components and saves their 
+        The method looks for the following components and saves their
         values as attributes of the object:
 
             * id (string): unique identifier for the blog post
@@ -96,7 +96,7 @@ class Article():
         except TypeError:
             msg = 'could not extract blog post title for article with id: "{0}"'.format(self.id)
             raise RuntimeWarning(msg)
-            
+
         else:
             #logger.debug(u'article title: "{0}"'.format(self.title))
             pass
@@ -122,10 +122,10 @@ class Article():
 
         # capture categories as vocabulary terms
         self.categories = [{'vocabulary' : c.get('scheme'), 'term' : normalize_space(unicodedata.normalize('NFC', unicode(c.get('term'))))} for c in root.findall('{http://www.w3.org/2005/Atom}category')]
-        
+
         # extract content, normalize, and parse as HTML for later use
         raw_content = root.find('{http://www.w3.org/2005/Atom}content').text
-        soup = BeautifulSoup(raw_content)   # mainly to convert character entities to unicode
+        soup = BeautifulSoup(raw_content, 'lxml')   # mainly to convert character entities to unicode
         soup_content = unicode(soup)
         del soup
         content = unicodedata.normalize('NFC', soup_content)
@@ -158,7 +158,7 @@ class Article():
         transform = exml.XSLT(XSL_CLEANUP)
         clean_html = transform(html)
         #logger.debug('cleaned html:\n\n' + exml.tostring(clean_html, pretty_print=True))
-        self.soup = BeautifulSoup(exml.tostring(clean_html))
+        self.soup = BeautifulSoup(exml.tostring(clean_html), 'lxml')
 
 
     def _load_json(self, json_file_name):
