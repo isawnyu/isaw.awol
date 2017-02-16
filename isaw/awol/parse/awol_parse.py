@@ -18,7 +18,7 @@ import sys
 
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString
-import langid
+from langid.langid import LanguageIdentifier, model
 from lxml import etree
 import unicodecsv
 
@@ -26,6 +26,9 @@ from isaw.awol.clean_string import *
 from isaw.awol.normalize_space import normalize_space
 from isaw.awol.resource import Resource
 from isaw.awol.tools import mods
+
+LANGUAGE_IDENTIFIER = LanguageIdentifier.from_modelstring(model, norm_probs=True)
+LANGID_THRESHOLD = 0.98
 
 DOMAINS_IGNORE = [
     'draft.blogger.com',
@@ -69,20 +72,20 @@ colon_prefix_csv = pkg_resources.resource_stream('isaw.awol', 'awol_colon_prefix
 dreader = unicodecsv.DictReader(
     colon_prefix_csv,
     fieldnames = [
-        'col_pre', 
-        'omit_post', 
-        'strip_title', 
+        'col_pre',
+        'omit_post',
+        'strip_title',
         'mul_res'
-    ], 
-    delimiter = ',', 
+    ],
+    delimiter = ',',
     quotechar = '"')
 COLON_PREFIXES = dict()
 for row in dreader:
     COLON_PREFIXES.update({
         normalize_space(row['col_pre']).lower():
             [
-                row['omit_post'], 
-                row['strip_title'], 
+                row['omit_post'],
+                row['strip_title'],
                 row['mul_res']
             ]
     })
@@ -148,15 +151,14 @@ RX_EDITORS = [
     re.compile(r'(edited by |editors?):?\s*([^\.]+)', re.IGNORECASE)
 ]
 
-LANGID_THRESHOLD = 0.98
 title_strings_csv = pkg_resources.resource_stream('isaw.awol', 'awol_title_strings.csv')
 dreader = unicodecsv.DictReader(
     title_strings_csv,
     fieldnames = [
-        'titles', 
+        'titles',
         'tags'
-    ], 
-    delimiter = ',', 
+    ],
+    delimiter = ',',
     quotechar = '"')
 TITLE_SUBSTRING_TAGS = dict()
 for row in dreader:
@@ -340,17 +342,17 @@ class AwolBaseParser:
                     node_url = '/'.join(chunks[:-1])
             results = []
             if (
-                this_node != first_node 
-                and node_name in stop_tags 
+                this_node != first_node
+                and node_name in stop_tags
                 and (
                     node_name != 'a'
                     or (
-                        'a' in stop_tags 
+                        'a' in stop_tags
                         and node_name == 'a'
                         and (
                                 (
                                 skip_first_anchor
-                                and len(previous_urls) == 0                                    
+                                and len(previous_urls) == 0
                                 )
                             or (
                                 not(skip_first_anchor)
@@ -406,24 +408,24 @@ class AwolBaseParser:
                 try:
                     node_url = node.get('href')
                 except AttributeError:
-                    node_url = '' 
+                    node_url = ''
                 if node_url is None:
                     node_url = ''
                 if '/' in node_url:
                     chunks = node_url.split('/')
                     if chunks[-1] in ['index.html', 'index.php', '', None]:
-                        node_url = '/'.join(chunks[:-1])                   
+                        node_url = '/'.join(chunks[:-1])
                 if (
-                    node_name in stop_tags 
+                    node_name in stop_tags
                     and (
                         node_name != 'a'
                         or (
-                            'a' in stop_tags 
+                            'a' in stop_tags
                             and node_name == 'a'
                             and (
                                     (
                                     not(skip_first_anchor)
-                                    and len(previous_urls) == 0                                    
+                                    and len(previous_urls) == 0
                                     )
                                 or (
                                     skip_first_anchor
@@ -469,14 +471,17 @@ class AwolBaseParser:
                 elif desc_text[-1] != u'.':
                     desc_text += u'.'
 
-        return desc_text   
+        return desc_text
 
     def _get_language(self, *args):
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
         chunks = [chunk for chunk in args if chunk is not None]
         s = u' '.join((tuple(chunks)))
         s = normalize_space(s)
+        logger.debug('s: \n"{}\n'.format(s.encode('utf-8')))
         if s != u'':
-            language = langid.classify(s)
+            language = LANGUAGE_IDENTIFIER.classify(s)
+            logger.debug(repr(language))
             if language[1] >= LANGID_THRESHOLD:
                 return language[0]
         return None
@@ -507,12 +512,12 @@ class AwolBaseParser:
         except IndexError:
             msg = 'failed to parse primary anchor from {0}'.format(self.content['soup'])
             raise RuntimeError(msg)
-        return a        
+        return a
 
     def _get_primary_resource(self, article):
         # title
         a = self._get_primary_anchor()
-        a_title = clean_string(a.get_text())  
+        a_title = clean_string(a.get_text())
         titles = self._reconcile_titles(a_title, article.title)
         try:
             title = titles[0]
@@ -666,9 +671,9 @@ class AwolBaseParser:
                         try:
                             parent['isbn'] = primary_resource.identifiers['isbn'][0]
                         except KeyError:
-                            pass           
+                            pass
 
-            subs = self._get_subordinate_resources(article, primary_resource.package())                 
+            subs = self._get_subordinate_resources(article, primary_resource.package())
             for sr in subs:
                 sr.is_part_of = parent
                 primary_resource.subordinate_resources.append(sr.package())
@@ -725,7 +730,7 @@ class AwolBaseParser:
         if len(identifiers.keys()) > 0:
             params['identifiers'] = identifiers
         if len(authors) > 0:
-            params['authors'] = authors            
+            params['authors'] = authors
         if title_extended is not None:
             params['title_extended'] = title_extended
         if language is not None:
@@ -737,7 +742,7 @@ class AwolBaseParser:
         # provenance
         self._set_provenance(resource, article)
 
-        return resource        
+        return resource
 
     def _get_resource_from_external_biblio(self, url):
         """Attempt to get third-party structured bibliographic data."""
@@ -766,7 +771,7 @@ class AwolBaseParser:
                     elif actual_type == 'application/rdf+xml':
                         root = etree.fromstring(biblio_req.content)
                         payload_element = root.xpath(
-                            biblio_howto['payload_xpath'], 
+                            biblio_howto['payload_xpath'],
                             namespaces=biblio_howto['namespaces'])[0]
                         payload = etree.tostring(payload_element, encoding='unicode')
                     else:
@@ -824,7 +829,7 @@ class AwolBaseParser:
                         "to get bibliograhic data from {1}".format(
                             biblio_req.status_code, biblio_url))
             return top_resource
-    
+
     def _get_subordinate_resources(self, article, parent_package, start_anchor=None):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
         resources = []
@@ -941,7 +946,7 @@ class AwolBaseParser:
                 year = m.group(g['year'])
             except KeyError:
                 year = None
-            return (volume, issue, year)            
+            return (volume, issue, year)
 
     # keyword methods
     def _mine_keywords(self, *args):
@@ -968,7 +973,7 @@ class AwolBaseParser:
                 for k in TITLE_SUBSTRING_PHRASES.keys():
                     if k in lower_s:
                         tag = TITLE_SUBSTRING_PHRASES[k]
-                        tags.append(tag)  
+                        tags.append(tag)
         return tags
 
     def _parse_keywords(self, post_title=None, resource_title=None, post_categories=[], resource_text=None):
@@ -980,7 +985,7 @@ class AwolBaseParser:
         tags = self._mine_keywords(post_title, resource_title)
 
         # convert post categories to tags
-        for c in post_categories:    
+        for c in post_categories:
             tag = c['term'].lower()
             if 'kind#post' not in tag:
                 if tag in TITLE_SUBSTRING_TAGS.keys():
@@ -1028,7 +1033,7 @@ class AwolBaseParser:
                 elif type(v) == dict:
                     value = v
                 else:
-                    value = list(v) 
+                    value = list(v)
                 try:
                     curv = getattr(r, k)
                 except AttributeError:
@@ -1068,7 +1073,7 @@ class AwolBaseParser:
         """Parse identifying strings of interest from an AWOL blog post."""
 
         logger = logging.getLogger(sys._getframe().f_code.co_name)
-        
+
         identifiers = {}
         if content_text == None:
             return identifiers
@@ -1177,11 +1182,11 @@ class AwolBaseParser:
             return (anchor_title,)
 
     def _set_provenance(self, resource, article, fields=None):
-        updated = article.root.xpath("//*[local-name()='updated']")[0].text.strip()  
-        if fields is None: 
+        updated = article.root.xpath("//*[local-name()='updated']")[0].text.strip()
+        if fields is None:
             resource_fields = sorted([k for k in resource.__dict__.keys() if '_' != k[0]])
         else:
             resource_fields = fields
         resource.set_provenance(article.id, 'citesAsDataSource', updated, resource_fields)
-        resource.set_provenance(article.url, 'citesAsMetadataDocument', updated)        
+        resource.set_provenance(article.url, 'citesAsMetadataDocument', updated)
 
