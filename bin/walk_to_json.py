@@ -18,7 +18,6 @@ import regex as re
 import sys
 import traceback
 
-from pyzotero import zotero
 from isaw.awol import awol_article, resource
 from isaw.awol.parse.awol_parsers import AwolParsers
 
@@ -31,11 +30,11 @@ def arglogger(func):
     decorator to log argument calls to functions
     """
     @wraps(func)
-    def inner(*args, **kwargs): 
+    def inner(*args, **kwargs):
         logger = logging.getLogger(func.__name__)
         logger.debug("called with arguments: %s, %s" % (args, kwargs))
-        return func(*args, **kwargs) 
-    return inner    
+        return func(*args, **kwargs)
+    return inner
 
 
 @arglogger
@@ -113,7 +112,7 @@ def main (args):
                                     domain_resources = domain_index[resource_key]
                                 except KeyError:
                                     pass
-                                else:                    
+                                else:
                                     # collision! load earlier version from disk and merge
                                     logger.warning('collision in {0}: {1}/{2}'.format(a.url, r.domain, resource_key))
                                     r_earlier = resource.Resource()
