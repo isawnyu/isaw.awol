@@ -204,7 +204,6 @@ if __name__ == "__main__":
         parser.add_argument ("-v", "--verbose", action="store_true", default=False, help="verbose output (logging level == INFO")
         parser.add_argument ("-vv", "--veryverbose", action="store_true", default=False, help="very verbose output (logging level == DEBUG")
         parser.add_argument ("--progress", action="store_true", default=False, help="show progress")
-        parser.add_argument('credfile', type=str, nargs=1, help='path to credential file')
         #parser.add_argument('postfile', type=str, nargs='?', help='filename containing list of post files to process')
         parser.add_argument('whence', type=str, nargs=1, help='path to directory to read and process')
         parser.add_argument('thence', type=str, nargs=1, help='path to directory where you want the json-serialized resources dumped')
