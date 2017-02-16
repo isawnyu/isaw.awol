@@ -26,7 +26,7 @@ PROVENANCE_VERBS = {
 }
 
 class Resource:
-    """Extract and represent key information about a web resource."""
+    """Store, manipulate, and export data about a single information resource."""
 
     def __init__(self):
         """Set all attributes to default values."""
@@ -389,7 +389,7 @@ def scriptinfo():
         if teil[1].upper().startswith(sys.exec_prefix.upper()):
             continue
         trc = teil[1]
-        
+
     # trc contains highest level calling script name
     # check if we have been compiled
     if getattr(sys, 'frozen', False):
@@ -409,4 +409,4 @@ def scriptinfo():
                "source": trc,
                "dir": scriptdir}
     return scr_dict
-    
+

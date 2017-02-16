@@ -4,7 +4,7 @@
 Work with an Atom entry representing an AWOL blog post.
 
 This module defines the following classes:
- 
+
  * AwolArticle: represents key information about the entry.
 
 """
@@ -32,20 +32,20 @@ colon_prefix_csv = pkg_resources.resource_stream('isaw.awol', 'awol_colon_prefix
 dreader = unicodecsv.DictReader(
     colon_prefix_csv,
     fieldnames = [
-        'col_pre', 
-        'omit_post', 
-        'strip_title', 
+        'col_pre',
+        'omit_post',
+        'strip_title',
         'mul_res'
-    ], 
-    delimiter = ',', 
+    ],
+    delimiter = ',',
     quotechar = '"')
 COLON_PREFIXES = dict()
 for row in dreader:
     COLON_PREFIXES.update({
         normalize_space(row['col_pre']).lower():
             [
-                row['omit_post'], 
-                row['strip_title'], 
+                row['omit_post'],
+                row['strip_title'],
                 row['mul_res']
             ]
     })
@@ -95,10 +95,10 @@ title_strings_csv = pkg_resources.resource_stream('isaw.awol', 'awol_title_strin
 dreader = unicodecsv.DictReader(
     title_strings_csv,
     fieldnames = [
-        'titles', 
+        'titles',
         'tags'
-    ], 
-    delimiter = ',', 
+    ],
+    delimiter = ',',
     quotechar = '"')
 TITLE_SUBSTRING_TAGS = dict()
 for row in dreader:
@@ -224,7 +224,7 @@ def clean_title(raw):
     return cooked
 
 class AwolArticle(Article):
-    """Manipulate and extract data from an AWOL blog post."""
+    """Extracts, normalizes, and stores data from an AWOL blog post."""
 
     def __init__(self, atom_file_name=None, json_file_name=None):
 

@@ -14,7 +14,7 @@ import pkgutil
 import sys
 
 class AwolParsers():
-    """Extract data from an AWOL blog post."""
+    """Pluggable framework for parsing content from an AwolArticle."""
 
     def __init__(self):
         """Load available parsers."""

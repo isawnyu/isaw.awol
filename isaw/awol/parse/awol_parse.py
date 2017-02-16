@@ -218,7 +218,7 @@ def domain_from_url(url):
     return url.replace('http://', '').replace('https://', '').split('/')[0]
 
 class AwolBaseParser:
-    """Superclass: Extract data from an AWOL blog post."""
+    """Superclass to extract resource data from an AwolArticle."""
 
     # constructor
     def __init__(self):
