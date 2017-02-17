@@ -1,36 +1,47 @@
-". lexicography",lexicography
-"britain. pas","Britain, PAS"
-"egyptology. religion","egyptology, religion"
-"language. concordance","language, concordance"
-"papyrology. epigraphy","papyrology, epigraphy"
-3d scanning,"3D, 3D scanning"
+. lexicography,lexicography
 3d,3D
+3d scanning,"3D, 3D scanning"
 abbreviations,abbreviations
+abydos,Abydos
+achaemenid,Achaemenids
 achaemenids,Achaemenids
 achemenet,Achemenet
 administrative,
+adriatic,Adriatic
 aegean,Aegean
 afghanistan,Afghanistan
+afo,AfO
 africa,Africa
 aggregator,aggregator
 agriculture,agriculture
+ägyptische sprache und literatur,"Egyptian, literature"
+ägyptologie,Egyptology
 aia,AIA
 aja,AJA
 akkadan,Akkadian
 akkadian,Akkadian
+alalakh,Alalakh
+albania,Albania
+aleppo,Aleppo
 alexandria,Alexandria
+alexandria archive institute,Alexandria Archive Institute
 alfred percival maudslay,Alfred Percival Maudslay
 algeria,Algeria
 alisha,Alishar
 alishar,Alishar
+alt ac,alt-ac
+alt-ac,alt-ac
 alte geschichte,ancient history
 alter orient,Ancient Near East
 altertumswissenschaften,antiquity
 altorientalische,Ancient Near East
 amar,Amar
+amara west,Amara West
 amarna,Amarna
 american center of oriental research,American Center of Oriental Research
 american journal of archaeology,AJA
+american philological association,"American Philological Association, Society for Classical Studies"
+american research center in egypt,American Research Center in Egypt
 american research institute in turkey,ARIT
 american school of classical studies at athens,"American School of Classical Studies at Athens, ASCSA"
 american schools of oriental research,ASOR
@@ -39,18 +50,20 @@ amir,AMIR
 amphorae,amphorae
 amphores,amphorae
 analecta,journal
+analysis,analysis
 anatolia,Anatolia
 anatolis,Anatolia
 ancienne,antiquity
 anciennes,antiquity
+ancient,"antiquity, ancient"
 ancient glass,"ancient glass, ancient, glass"
 ancient history,ancient history
 ancient law,"ancient law, law"
 ancient near east,Ancient Near East
 ancient science,"ancient, science, ancient science"
-ancient,"antiquity, ancient"
 andrews university,Andrews University
 anem,ANEM
+animal husbandry,animal husbandry
 annales,journal
 annuaire,journal
 annual report,"annual report, report"
@@ -63,14 +76,16 @@ antigüedad,antiquity
 antike,"antiquity, ancient"
 antique,"antiquity, ancient"
 antiques,antiquity
-antiquities,antiquities
-antiquity,antiquity
 antiquité,antiquity
 antiquités,antiquity
-apa,"APA, SCS"
+antiquities,antiquities
+antiquities trade,antiquities trade
+antiquity,antiquity
+apa,"American Philological Association, Society for Classical Studies"
 aphrodisias,Aphrodisias
 app,computer program
 aprodisias,Aphrodisias
+arab,Arab
 arabi,Arabic
 arabia,Arabia
 arabian,Arabian
@@ -79,31 +94,39 @@ arachaeology,archaeology
 arachne,"Arachne, DAI"
 aramaic,Aramaic
 aratta,Aratta
+arce,ARCE
 archaelogy,archaeology
+archaeloogy,Archaeology
 archaeobotany,archaeobotany
 archaeologica,archaeology
+archaeological,archaeology
+archaeological,archaeology
 archaeological institute of america,AIA
 archaeological method,"archaeological method, archaeology"
 archaeological scence,"archaeological science, archaeology"
 archaeological science,"archaeological science, archaeology"
 archaeological site,"archaeology, archaeological site"
-Archaeological,archaeology
-archaeological,archaeology
+archaeological survey,archaeological survey
+archaeology,archaeology
 archaeology at cambridge,Archaeology at Cambridge
 archaeology classics,"archaeology, classics"
 archaeology data service,Archaeology Data Service
-Archaeology Egypt,"archaeology, Egypt"
+archaeology egypt,"archaeology, Egypt"
 archaeology karnak,"Karnak, archaeology"
-archaeology,archaeology
+archaeology susa,"Archaeology, Susa"
 archaeology. games,"archaeology, games"
 archaeology. larsa,"archaeology, Larsa"
+archaeology. mosul,"Archaeology, Mosul"
 archaeoloy,archaeology
-Archaeozoology
 archaeozoology,archaeozoology
+archäologie,archaeology
 archaology,archaeology
 archawology,archaeology
 archeologia,archaeology
 archeologica,archaeology
+archéologie,archaeology
+archéologique,archaeology
+archéologiques,archaeology
 archeology,archaeology
 archeometery,archeometry
 archeometry,archeometry
@@ -113,30 +136,29 @@ architecture,architecture
 archival,archives
 archive,archive
 archives,archives
-archäologie,archaeology
-archéologie,archaeology
-archéologique,archaeology
-archéologiques,archaeology
 argentina,Argentina
-Argentine
 argentine,Argentine
+argentine,
 aristotle,Aristotle
 arit,ARIT
 arkeoloji,archaeology
+armant,Armant
 armenia,Armenia
 armenian,Armenian
 arqueologia,archaeology
 arqueología,archaeology
-art history,art history
 art,art
+art history,art history
 arte,art
 articles,journal
 artifacts,artifacts
 artstor,Artstor
 ascsa,"ASCSA, American School of Classical Studies at Athens"
+ashmolean,Ashmolean
 asia,Asia
 asian,Asian
 asor,ASOR
+asor open access journal,"ASOR, open access, journal"
 asp,ASP
 assur,Assur
 assyria,Assyria
@@ -145,10 +167,10 @@ assyrienne,Assyrian
 assyriology,"Assyria, Assyriology"
 assyrology,Assyriology
 assytia,Assyria
-Astrology,astrology
+astrology,astrology
 astronomy,astronomy
-athenian agora,Athenian Agora
 athenian,Athens
+athenian agora,Athenian Agora
 athens,Athens
 atlas,atlas
 attic inscriptions online,Attic Inscriptions Online
@@ -158,6 +180,7 @@ australia,Australia
 austria,Austria
 awdl,AWDL
 awol,AWOL
+awol internet archive,"AWOL, Internet Archive"
 azerbaijan,Azerbaijan
 babylon,Babylon
 babylonia,Babylon
@@ -165,67 +188,82 @@ babylonian,Babylon
 back list,backlist
 backlist,backlist
 bactria,Bactria
-bahrain archaeology,"Bahrain, archaeology"
+baf-o,BAF-Online
 bahrain,Bahrain
+bahrain archaeology,"Bahrain, archaeology"
 balkan,Balkans
-Balkans
 balkans,Balkans
+balkans,
 barack obama,Barack Obama
 base de données,"data, database"
 basor,BASOR
 basp,BASP
 basque,Basque
+bazil,Bazil
 beads,beads
-belgium classics,"Belgium, classics"
 belgium,Belgium
+belgium classics,"Belgium, classics"
 berlin,Berlin
+bfsa,BFSA
 biaa,BIAA
 bible,"Bible, religion"
+bible dead sea scrolls,"Bible, Dead Sea Scrolls, religion"
+bible greek,"Bible, Greek, religion"
+bible. apocrypha,"Bible, Apocrypha"
 biblical,"Bible, religion"
 bibliographical,bibliography
 bibliographies,bibliography
 bibliography,bibliography
+bibliography. pedagogy,"bibliography, pedagogy"
 biblioteca,library
 bibliotheca,library
+biblw,Bible
 biography,biography
 bips,BIPS
 black sea,Black Sea
 blog,blog
 boeotia,Boeotia
-boletines de la seb,"Boletines de la SEB, journal"
+boğazköy,Boğazköy
 boletín,journal
+boletines de la seb,"Boletines de la SEB, journal"
 bollettino,journal
 bones,bones
+book,book
 book of the dead,Book of the Dead
 book review,book reviews
 book reviews,book reviews
-book,book
 books,book
 botany,Botany
-boğazköy,Boğazköy
 brasil,Brazil
 brazil,Brazil
 brill,Brill
 britain,Britain
-Britain. PAS,"Britain, PAS"
+britain. pas,"Britain, PAS"
+britain. pas,"Britain, PAS"
+british institute of archaeology at ankara,British Institute of Archaeology at Ankara
 british museum,"British Museum, museums"
-bronze age,bronze age
 bronze,bronze
+bronze age,bronze age
 brooklyn museum,"Brooklyn Museum, museums"
 buddhism,"Buddhism, religion"
 buddhist,"Buddhism, religion"
+buhen,Buhen
 bulgaria,Bulgaria
 bulletin,journal
+bulletin board,bulletin board
+bursians jahresberichte,Bursians Jahresberichte
 byrsa,Byrsa
 bysantine,Byzantium
 byzad,ByzAD
-Byzantine Greek
-byzantine greek,"Byzantine Greek, Greek"
-byzantine studies,byzantine studies
 byzantine,Byzantium
+byzantine greek,"Byzantine Greek, Greek"
+byzantine greek,
+byzantine studies,byzantine studies
+byzantine. visualization,"Byzantine, visualization"
 byzantium,Byzantium
 caa,CAA
 cahiers,journal
+cahiers de l’ecole du louvre,Cahiers de l’Ecole du Louvre
 cairo,Cairo
 calendar,calendar
 california,California
@@ -233,7 +271,9 @@ call for papers,call for papers
 cambodia,Cambodia
 cambridge,Cambridge
 canada,Canada
+canda,Canada
 caorc,CAORC
+caria,Caria
 carthage,Carthage
 catacombs,catacombs
 catalan,Catalan
@@ -245,11 +285,17 @@ catlan,Catalan
 caucasus,Caucasus
 cdlb,CDLB
 cdli,CDLI
+cdli,Cuneiform Digital Library Initiative
+center for hellenic studes,Center for Hellenic Studies
+center for hellenic studies,Center for Hellenic Studies
 center for hellenic studies,Center for Hellenic Studies
 central asia,Central Asia
 ceramicists,"ceramicists, ceramics, pottery"
 ceramics,"pottery, ceramics"
 cermics,"pottery, ceramics"
+cg,CG
+cgc,CG
+cgc,CGC
 chersonesos,Chersonesos
 chile,Chile
 china,China
@@ -266,17 +312,19 @@ cil,CIL
 cirta,Cirta
 cities,cities
 cj online,CJ Online
+clásica,classics
+clásicos,classics
+clasics,Classics
 class,class
 classica,classics
-classical archaeology,"classical archaeology, archaeology"
 classical,classics
+classical archaeology,"classical archaeology, archaeology"
 classicist,classics
+clássicos,classics
 classics,classics
 classocs,classics
 classsics,classics
-clásica,classics
-clásicos,classics
-clássicos,classics
+climate,climate
 cnrs,CNRS
 codex,codex
 codicology,"codex, codicology"
@@ -294,6 +342,7 @@ community,collaboration
 competition,competition
 concordance,concordance
 conference,conference
+conference proceedings,conference proceedings
 conferences,conference
 congress,"congress, conference"
 conservation,conservation
@@ -303,7 +352,9 @@ constantiople,Constantinople
 coptic,"Coptic, egyptology"
 corfu,Corfu
 corinth,Corinth
+corinthia,Corinthia
 corpus,
+corpus inscriptionem graecarum,Corpus Inscriptionem Graecarum
 corsica,Corsica
 crete,Crete
 crimea,Crimea
@@ -317,13 +368,16 @@ csad,CSAD
 cuadernos,journal
 cucd,CUCD
 cucuteni,Cucuteni
+cultural,culture
 cultural heritage,cultural heritage
 cultural property,Cultural Property
-cultural,culture
 culture,culture
 cuneform,cuneiform
 cuneiform,cuneiform
+cuneiform digital library initiative,Cuneiform Digital Library Initiative
+cuneiform digitial library initiative,Cuneiform Digital Library Initiative
 curriculum materials,"pedagogy, curriculum materials"
+curse,curse
 cva,CVA
 cyclades,Cyclades
 cyprus,Cyprus
@@ -331,6 +385,7 @@ cyriac,Syriac
 czech republic,Czech Republic
 dacia,Dacia
 dai,DAI
+dakhla,Dakhla
 dakhleh,Dakhleh
 damascus,Damascus
 data,data
@@ -343,6 +398,7 @@ deir el medina,Deir el Medina
 delos,Delos
 delphi,Delphi
 demlü,DemLü
+demos,Demos
 demotic,"Demotic, egyptology"
 denmark,Denmark
 description and travel,"description and travel, travel"
@@ -360,11 +416,15 @@ digital humanities,"digital humanities, humanities"
 digital libraries,"digital library, library"
 digital library,"digital library, library"
 digitization,digitization
+digitized library,digitized library
 digitsl library,"digital library, library"
+digitzed library,digitized library
 digizeitschfiten,DigiZeitschriften
 digizeitschriften,DigiZeitschriften
 directories,directories
+directory,directory
 diritto,law
+dissertation,dissertation
 dissertations,dissertations
 diyala,Diyala
 dlir,DLIR
@@ -374,7 +434,9 @@ dodecanese,Dodecanese
 données,data
 dossiers,journal
 drama,Drama
+dss,Dead Sea Scrolls
 dumbarton oaks,Dumbarton Oaks
+dura-europos,Dura-Europos
 dutch,Dutch
 e-jahresbericht,e-Jahresbericht
 e-sasanika,e-Sasanika
@@ -386,41 +448,58 @@ economy,Economy
 edfu,Edfu
 editorial,editorial
 education,education
-egypt exploration society,Egypt Exploration Society
+ees,EES
+egigraphy,epigraphy
+egpigraphy,epigraphy
+egyot,Egypt
+egyprology,Egyprology
 egypt,Egypt
-egyptian museum,"Egyptian Museum, museums"
+egypt exploration society,EES
+egypt. egyptology,"Egypt, Egyptology"
+égypte,Egypt
 egyptian,Egyptian
-egyptological,egyptology
+egyptian museum,"Egyptian Museum, museums"
+égyptienne,Egypt
+egyptological,Egyptology
+egyptology,Egyptology
 egyptology abbreviations,"Egyptology, abbreviations"
-egyptology,egyptology
+egyptology giza necropolis,"Egyptology, Giza, necropolis"
 egyptology. exhibition,"Egyptology, exhibition"
+egyptology. religion,"egyptology, religion"
 egyptology. religion,"Egyptology, religion"
 egyptomania,Egyptomania
 egyptoplogy,Egyptology
 egypy,Egypt
 egypyology,Egyptology
+egytology,Egyptology
 egyyptology,Egyptology
 ejournal,journal
 elamite,Elamite
 elephantine,Elephantine
 eleusis,Eleusis
 emar,Emar
+emel,EMEL
 empires,"empires, imperial"
+encoding,encoding
 encyclopaedia,encyclopedia
 encyclopedia,encyclopedia
 engineering,"engineering, technology"
 england,England
 englanf,England
+english,English
 enkomi,Enkomi
 environment,environment
+environmental,environmental
+eó̲a kai espéria : periodikó ti̲s etaireías érev̲nas to̲n schéseo̲n tou mesaio̲nikoú kai néou elli̲nismoú me ti̲ dýsi̲.,
 epic,epic
 epigraphic,epigraphy
 epigraphica,epigraphy
 epigraphy,epigraphy
-Epigrasphy,epigraphy
+epigrasphy,epigraphy
 etana,ETANA
 ethiopia,Ethiopia
 ethiopic,Ethiopic
+ethnoarchaeology,Ethnoarchaeology
 ethnography,ethnography
 etruscan,Etruscans
 etruscans,Etruscans
@@ -428,44 +507,53 @@ euclid,Euclid
 europe,Europe
 excavation,archaeology
 excavations,archaeology
-exhibition catalogue,"exhibition, catalogue, exhibition catalogue"
+exegsis,exegesis
 exhibition,exhibition
+exhibition catalogue,"exhibition, catalogue, exhibition catalogue"
 exhibitions catalogue,"exhibition, catalogue, exhibition catalogue"
 expedition,archaeology
 experimental archaeology,"experimental archaeology, archaeology"
 eyptology,Egyptology
-eó̲a kai espéria : periodikó ti̲s etaireías érev̲nas to̲n schéseo̲n tou mesaio̲nikoú kai néou elli̲nismoú me ti̲ dýsi̲.,
 fachbibliothek,library
 fayoum,Fayoum
+fayyum,Fayyum
 feminism,feminism
 festschrift,Festschrift
+figurines,figurines
 film,video
 filología,philology
 finland,Finland
+flavius josephus,Flavius Josephus
 flickr,"flickr, imagery"
 florilegium,florilegium
 food,food
 forensic anthropology,forensic anthropology
+forma vrbis,Forma Urbis
 fortification,fortifications
 fortifications,fortifications
 forum,forum
 fouilles,"excavations, archaeology"
+français,French
 france,France
 francs,France
 frans,France
-français,French
 french,French
+frontier,frontier
 fs stolper,FS Stolper
 fund,fund
 fyrom,FYROM
+g.r.i.m.m.,G.R.I.M.M.
 gaius valerius catullus,Gaius Valerius Catullus
 gallo-roman,"Gaul, Gallo-Roman, Roman"
 games,games
+gandhari,Gandhari
 gaul,Gaul
 gaza,Gaza
 gedenkschrift,Gedenkschrift
-gender studies,gender studies
+gemany,Germany
 gender,gender
+gender studies,gender studies
+genesis,"Genesis, Bible, religion"
 genizah,Genizah
 geoarchaeology,"archaeology, geoarchaeology"
 geography,geography
@@ -477,6 +565,7 @@ germany,Germany
 germay,Germany
 getty,Getty
 gezer,Gezer
+gǝʿǝz,Gǝʿǝz
 gilf kebir,Gilf Kebir
 gis,GIS
 gis. archaeology,"GIS, archaeology"
@@ -484,19 +573,21 @@ giza,Giza
 glass,glass
 glossary,glossary
 glyptic,glyptic
+gnosticism,Gnosticism
 google earth,"Google Earth, geography"
 graecae,Greek
 graffiti,graffiti
 grammar,grammar
+grants,grants
 great britain,Great Britain
 grecoroman,"Greece, Rome"
-greece aegean,"Greece, Aegean"
 greece,Greece
+greece aegean,"Greece, Aegean"
+greek,Greek
 greek bible,"Greek Bible, Bible"
 greek coptic,"Greek, Coptic"
 greek dictionaries,"Greek, dictionaries, Greek dictionaries"
 greek world,Greek world
-greek,Greek
 greek. latin,"Greek, Latin"
 greet,Greek
 griechische welt,Greek world
@@ -506,15 +597,15 @@ guatemala,Guatemala
 guidebook,guidebooks
 guidebooks,guidebooks
 gurob,Gurob
-gǝʿǝz,Gǝʿǝz
 habu,habu
 hagiography,hagiography
+halki,Halki
 harvard,Harvard
 hatay,Hatay
+hebrew,Hebrew
 hebrew dictionary,"Hebrew Dictionary, dictionaries, Hebrew"
 hebrew jewish studies,"Hebrew, jewish studies"
 hebrew manuscripts,Hebrew manuscripts
-hebrew,Hebrew
 hellenic,"Hellenic, Hellenism"
 hellenism,Hellenism
 hellenistc mesopotamia,"Hellenistic Mesopotamia, Mesopotamia, Hellenistic"
@@ -529,14 +620,16 @@ hieratic,Hieratic
 hieroglyphs,Hieroglyphs
 histoire,history
 historia,history
+história,history
 historians,history
 historica,history
-historical jesus,historical Jesus
 historical,history
+historical geograaphy,Historical Geography
+historical jesus,historical Jesus
 historiography,historiography
-history of science,history of science
+histort,history
 history,history
-história,history
+history of science,history of science
 hittite,Hittite
 homer,Homer
 hormos,Hormos
@@ -550,24 +643,28 @@ hydrology,hydrology
 iaa,IAA
 iconography,iconography
 illustration,illustration
-image database,"image database, imagery, database"
 image,imagery
+image database,"image database, imagery, database"
 images,imagery
 imaging,imagery
 imperial,"empires, imperial"
+incunabula,incunabula
 india,India
 indian,Indian
 indoeuropean,Indoeuropean
 indology,Indology
 industry,industry
 inner asia, Inner Asia
-inscriptions architecture,"inscriptions, architecture"
+inscription,Inscription
 inscriptions,"epigraphy, inscriptions"
+inscriptions architecture,"inscriptions, architecture"
 inscriptionum,"epigraphy, inscriptions"
 insriptions,"epigraphy, inscriptions"
 institut français d'archéologie orientale,Institut français d'archéologie orientale
 institut français d'études anatoliennes,Institut Français d'Études Anatoliennes
 institut français d’archéologie orientale,Institut français d’archéologie orientale
+institut français d’archéologie orientale - le caire,Institut français d’archéologie orientale - Le Caire
+institute for the study of the ancient world,Institute for the Study of the Ancient World
 institute of nautical archaeology,Institute of Nautical Archaeology
 institutional repositories,institutional repository
 institutional repository,institutional repository
@@ -576,49 +673,54 @@ international council on monuments and sites,International Council on Monuments 
 iran,Iran
 iranian,Iran
 iranica,Iran
-iraq mesopotamia,"Iraq, Mesopotamia"
 iraq,Iraq
+iraq mesopotamia,"Iraq, Mesopotamia"
+iraq. mesoptamia,"Iraq, Mesopotamia"
 ireland,Ireland
 irrigation,irrigation
-isaw,ISAW
+isaw,Institute for the Study of the Ancient World
 isis,"Isis, religion"
 islam,"Islam, religion"
 islamic,"Islam, religion"
 israel,Israel
 issue,"journal issues, journal"
+ista,ISTA
 istanbul,Istanbul
 ital,Italy
 italian,Italian
 italy,Italy
 itaq,Iraq
+itsly,Italy
 japan,Japan
 jericho,Jericho
 jerusalam,Jerusalem
 jerusalem,Jerusalem
 jesot,JESOT
-jewish studies,Jewish studies
 jewish,"Judaisim, religion"
+jewish studies,Jewish studies
 jews,Jews
 jiia,JIIA
 jordan,Jordan
-journal issues,journal issues
 journal,journal
+journal issues,journal issues
 journals,journal
 jstor,JSTOR
 judaica,Judaica
 judaisim,"Judaism, religion"
 judaism,"Judaism, religion"
 jvrp,JVRP
+k-12,K-12
 kabah,Kabah
 kaneš,Kaneš
 karnak,Karnak
-karpatica = karpatyka,Karpatica = Karpatyka
 karpatica,Karpatica = Karpatyka
+karpatica = karpatyka,Karpatica = Karpatyka
 karpatyka,Karpatica = Karpatyka
 kazakhstan,Kazakhstan
 kerma,Kerma
 kharga oasis,Kharga Oasis
 khazakstan,Kazakhstan
+khirbat al mafjar,Khirbat al Mafjar
 khirgizstan,Kyrgyzstan
 klassische archäologie,"classical archaeology, archaeology"
 klassische sprachen und literaturen,"classical languages and literature, classics"
@@ -627,14 +729,18 @@ kmz,KMZ
 kom firin,Kom Firin
 kommos,Kommos
 korea,Korea
+kos,Kos
+kültepe,Kültepe
 kurdistan,Kurdistan
 kuwait,Kuwait
 kyrgyzstan,Kyrgyzstan
 lagtin,Latin
+lamentations,Lamentations
 language,language
-Language. Concordance,"language, concordance"
+language. concordance,"language, concordance"
+language. concordance,"language, concordance"
 languages,language
-Languge,language
+languge,language
 larsa,Larsa
 late antiquity,late antiquity
 latim,Latin
@@ -644,24 +750,29 @@ latinarum,Latin
 latinorum,Latin
 law,law
 lawdi,"LAWDI, LOD, linked open data, open data"
+learned society,learned society
 lebanon,Lebanon
 lecture series,lecture series
+lemmatization,lemmatization
+lepontic,Lepontic
 levant,Levant
 lexciography,"lexicography, dictionaries"
 lexicography,"lexicography, dictionaries"
 lexicograpy,"lexicography, dictionaries"
 lexicon,"lexicon, lexicography, dictionaries"
-libraries
+lexicon abbreviaturarum,Lexicon abbreviaturarum
 libraries,libraries
+libraries,
+library,library
 libya,Libya
 linear a,Linear A
 linear b,Linear B
 linguistics,linguistics
-Linked data,linked data
-Linked Open Data,"linked open data, LOD"
+linked data,linked data
+linked open data,"linked open data, LOD"
 literary,literature
-literature art,"literature, art"
 literature,literature
+literature art,"literature, art"
 lithics,lithics
 liturgy,liturgy
 live stream,live streaming
@@ -669,14 +780,18 @@ lod,"LOD, linked open data"
 loeb classical library,Loeb Classical Library
 london,London
 looting,looting
+los angeles county art museum,Los Angeles County Art Museum
 luwian,Luwian
 luxor,Luxor
+lxx,LXX
 lycia,Lycia
 lydia,Lydia
 lykaonia,Lykaonia
 macedonia,Macedonia
 magazine,magazine
+maghreb,Maghreb
 magic,magic
+magreb,Maghreb
 mailing list,mailing list
 malta,Malta
 mandaic,Mandaic
@@ -686,26 +801,31 @@ manuscript,manuscripts
 manuscripts,manuscripts
 map,maps
 maps,maps
+mar shiprim,Mar Shiprim
 mari,Mari
 maritime archaeology,"archaeology, nautical archaeology"
+marseille,Marseille
 material culture,material culture
-materials science,materials science
 materials,materials
+materials science,materials science
 mathematics,mathematics
 max planck institute for the history of science,Max Planck Institute for the History of Science
 maya antiquities,Maya antiquities
 mdog,MDOG
+mechanics,mechanics
 mediaeval,Middle Ages
 mediaevalia,Middle Ages
 medica,medica
 medicine,medicine
 medieval,Middle Ages
+medinet,
 medinet el-ghurob,Medinet el-Ghurob
 medinet habu,Medinet Habu
-medinet,
 mediterranean,Mediterranean
+méditerranée,Mediterranean
 megiddo,Megiddo
 mellon foundation,Mellon Foundation
+mémoires,journal
 memphis,Memphis
 merj,MERJ
 mesopotamia,Mesopotamia
@@ -713,6 +833,9 @@ mesopotamian,Mesopotamia
 mespotamia,Mesopotamia
 metallurgy,metallurgy
 metalurgy,metallurgy
+metre,meter
+metropolitan museum if art,Metropolitan Museum of Art
+metropolitan museum of art,Metropolitan Museum of Art
 metropolitan museum of art,"Metropolitan Museum of Art, museums"
 metu,METU
 mexico,Mexico
@@ -720,39 +843,46 @@ michigan,Michigan
 middle ages,Middle Ages
 middle east,Middle East
 middle euphrates,Middle Euphrates
+middle kingdom,Middle Kingdom
 military,military
+minoan,Minoan
 mithraism,"Mithraism, religion"
 mittheilungen der deutschen orient-gesellschaft,Mittheilungen der Deutschen Orient-Gesellschaft
+mmaf,MMAF
 mms,MMS
 moldova,Moldova
+monastcism,monasticism
 mongolia,Mongolia
 monograph,monograph
 monographs,monograph
+montenegro,Montenegro
 monty python,Monty Python
 monuments,monuments
+mooc,MOOC
 morocco,Morocco
 mosaics,mosaics
 mosul museum,"Mosul Museum, museums"
 msl,MSL
+multimedia,multimedia
 mummies,mummies
 munich,Munich
 musawwarat es sufra,Musawwarat es Sufra
+musée,museums
 museo,museums
-museum catalogue,"museum catalogue, catalogue, museums"
 museum,museums
+museum catalogue,"museum catalogue, catalogue, museums"
 museums,museums
 music,music
 musical,music
 musicology,"music, musicology"
 musik,music
 musikalisch,music
-musée,museums
+mycenae,Mycenae
 mycenaean,Mycenean
 mycenean,Mycenean
 mythology,mythology
 myths,mythology
-méditerranée,Mediterranean
-mémoires,journal
+names,"names, onomastics"
 natural history,natural history
 naukratis,Naukratis
 nautical archaeology,"archaeology, nautical archaeology"
@@ -766,50 +896,64 @@ neolatin,Neo-Latin
 neolithic,neolithic
 netherlads institute for the near easat,Netherlands Institute for the Near East
 netherland,Netherlands
-netherlands institute for the near east,Netherlands Institute for the Near East
 netherlands,Netherlands
+netherlands institute for the near east,Netherlands Institute for the Near East
+nethernalds,Netherlands
 new testament,"New Testament, Bible, religion"
+new zealand,New Zealand
 newsletter,newsletter
 newsletters,newsletter
 ngo,NGO
 nimrud,Nimrud
 nineveh,Nineveh
 nino,NINO
+nisyros,Nisyros
 no longer open access,closed access
 nordafrika,North Africa
 north africa,North Africa
+norway,Norway
 not open access,closed access
 noua tellus,Noua Tellus
 nova tellvs,Nova Tellvs
 nubia,Nubia
+nubian sondage survey,"Nubian Sondage Survey, Nubia"
 numidia,Numidia
 numismatic,numismatics
 numismatics,numismatics
 nuzi,Nuzi
+nyu,NYU
 o;d kingdom,old kingdom
 oasis,oasis
 old assyrian,Old Assyrian
 old babylonian,Old Babylonian
 old irish,Old Irish
-Old Kingdom
 old kingdom,old kingdom
+old kingdom,
 old testament,"Old Testament, Bible"
 old turkic,Old Turkic
+oman,Oman
+omens,omens
+online coins of the roman empire (ocre),Online Coins of the Roman Empire (OCRE)
+online conference,online conference
 online course,online course
 online library,"digital library, library"
-onomastics,onomastics
+onomastics,"onomastics, names"
 opac,OPACs
 opacs,OPACs
+open access,open access
 open access journal,"open access, journal"
 open access publisher,"open access, open access publisher"
-open access,open access
 open context,open context
 open data,open data
 open repository,open repository
+oral history,Oral History
 oriental institute,Oriental Institute
 orientalia,
 ostia,Ostia
+outreach,outreach
 ovid,Ovid
+oxford,Oxford
+pacedonia,Pacedonia
 pacific,Pacific
 pakistan,Pakistan
 palaeobotany,palaeobotany
@@ -825,8 +969,10 @@ papers,
 papurology,papyrology
 papyri,papyrology
 papyrological,papyrology
+papyrologt,Papyrology
 papyrology,papyrology
 papyrology. egypt,"papyrology, Egypt"
+papyrology. epigraphy,"papyrology, epigraphy"
 papyrology. epigraphy,"papyrology, epigraphy"
 papyrus,papyrology
 parthia,Parthia
@@ -841,12 +987,15 @@ peloponnese,Peloponnese
 pennsylvania,Pennsylvania
 periodicals,journal
 persee,Persée
+persée,Persée
 persepolis,Persepolis
 perseus,Perseus
 persia,Persia
+persian,Persian
+persian empire,Persian Empire
 persian gulf,Persian Gulf
 perspectives,
-persée,Persée
+petra,Petra
 petrology,petrology
 philologica,philology
 philologie,philology
@@ -859,7 +1008,9 @@ photography,"photography, imagery"
 photostream,imagery
 phototography,"photography, imagery"
 phrygia,Phrygia
+pioneering open access journal,"pioneering open access journal, open access, journal"
 places,geography
+plato,Plato
 pleiades,Pleiades
 podcast,podcast
 podcasting,"podcasting, podcast, audio"
@@ -867,23 +1018,28 @@ podcasts,"podcasting, podcast, audio"
 poetics,poetics
 poetry,poetry
 poland,Poland
+polybius,Polybius
+pompei,Pompeii
 pompeii,Pompeii
 portal,
 portraiture,portraiture
 portugal,Portugal
 portugese,Portuguese
 portuguese,Portuguese
+portus,Portus
 postprints,postprints
-Potter,"potter, ceramics, pottery"
+potter,"potter, ceramics, pottery"
 pottery,"pottery, ceramics"
 prehistoria,prehistory
 prehistoric,prehistory
+préhistorique,prehistory
 prehistory,prehistory
 preprints,prepublication
 prepublication,prepublication
 presentations,presentations
 preservation,preservation
 presocratics,Presocratics
+priene,Priene
 primer,primer
 prize,prize
 proceedings,proceedings
@@ -892,17 +1048,23 @@ project,project
 prosopographical,prosopography
 prosopography,prosopography
 proverbs,Proverbs
-préhistorique,prehistory
+ptolemaic,Ptolemaic
 publication,
 publications,
 publisher,publisher
 publishing,
+publius ovidius naso,Publius Ovidius Naso
 punic,Punic
+pylos,Pylos
 qatar,Qatar
 quarterly,journal
 qumran,Qumran
+quran,Quran
+qurna,Qurna
 rabbinics,"Rabbinics, religion, Judaism"
+raetic,Raetic
 ras shamra,Ras Shamra
+reac,REAC
 reception,reception
 receptoin,reception
 red sea,Red Sea
@@ -924,25 +1086,27 @@ rhetoric,rhetoric
 rhodes,Rhodes
 rida,Rida
 ridrom,RIDROM
+ritual,ritual
 rivista,journal
 roma,Roma
+roman,Roman
 roman archaeology,"Roman archaeology, archaeology, Roman"
 roman art,Roman art
 roman empire,"Roman Empire, Roman"
 roman law,"Roman law, law"
-roman,Roman
 romana,Roman
 romania,Romania
-romanian archaeology,"archaeology, Romania, Romanian archaeology"
 romanian,Romanian
+romanian archaeology,"archaeology, Romania, Romanian archaeology"
 romano,Roman
 rome,Rome
+römisches reich,"Roman Empire, Roman"
 rupestrian,rupestrian
 russia,Russia
 russian,Russian
-römisches reich,"Roman Empire, Roman"
 saguntum,Saguntum
 salamis,Salamis
+samaria,Samaria
 sanscrit,Sanskrit
 sanskrit,Sanskrit
 saqqara,Saqqara
@@ -951,9 +1115,11 @@ sardinia,Sardinia
 sardis,Sardis
 sasanian,Sasanian
 saudi arabia,Saudi Arabia
+sawama,Sawama
 sbl,SBL
 scanned,digitization
 science,science
+scs,Society for Classical Studies
 sculpture,sculpture
 scuplture,sculpture
 seals,seals
@@ -963,10 +1129,11 @@ secondary school,secondary school
 selective open access,mixed access
 seleucia,Seleucia
 semantics,semantics
-semitic languages and literature,Semitic languages and literature
 semitic,semitics
+semitic languages and literature,Semitic languages and literature
 semitics,semitics
 semitische sprachen und literaturen,Semitic languages and literature
+senepse,SENEPSE
 septuagint,"Septuagint, Bible, religion"
 serbia,Serbia
 serbian,Serbian
@@ -977,20 +1144,26 @@ sicily,Sicily
 sigillography,sigillography
 silwan,Silwan
 sinai,Sinai
+siraf,Siraf
 sites,
 slavery,slavery
 slovakia,Slovakia
 slovenia,Slovenia
 slovenian,Slovenian
+slovenie,Slovenia
 snails,snails
 social network,social network
+société internationale des amis de cicéron,Société Internationale des Amis de Cicéron
+society for classical studies,Society for Classical Studies
+society for classical studies. american philological association,"American Philological Association, Society for Classical Studies"
 society of biblical literature,SBL
 society of euboean studies,Society of Euboean Studies
+software,software
 sources,
 south africa,South Africa
 south arabia,"Arabia, South Arabia"
-south asia archaeology,"South Asia Archaeology, archaeology"
 south asia,South Asia
+south asia archaeology,"South Asia Archaeology, archaeology"
 southeast asia,Southeast Asia
 sovenia,Slovenia
 soviet union,Soviet Union
@@ -1006,14 +1179,17 @@ subsistenz und umwelt im frühen vorderasien,Subsistenz und Umwelt im frühen Vo
 sudan,Sudan
 suisse,Switzerland
 sumerian,Sumerian
+sumerian mesopotamia,Sumerian Mesopotamia
+sunerian,Sumerian
 survey,survey
 swat,Swat
 sweden,Sweden
 switzerland,Switzerland
-Switzerland. Latin,"Switzerland, Latin"
+switzerland. latin,"Switzerland, Latin"
 symposium,conference
 syntax,syntax
 syrac,Syriac
+syracuse,Syracuse
 syria,Syria
 syriac,Syriac
 syrian,Syrian
@@ -1026,35 +1202,43 @@ teaching,teaching
 technology,technology
 tell al fahhar,Tell al Fahhar
 tell brak,Tell Brak
+tell el-amarna,Tell el-Amarna
 tell hariri,Tell Hariri
+tell khaiber,Tell Khaiber
 tell mardikh,Tell Mardikh
 temples,"religion, temples"
+terra sebus,Terra Sebus
+text,text
 text corpus,text editions
 text editions,text editions
 textbook,textbooks
 textbooks,textbooks
 texts,
 the caucasus,The Caucasus
-the jezreel valley regional project (jvrp),JVRP
 the jezreel valley regional project,JVRP
+the jezreel valley regional project (jvrp),JVRP
 the nelson glueck school of biblical archaeology,The Nelson Glueck School of Biblical Archaeology
 the society for the promotion of roman studies,The Society for the Promotion of Roman Studies
 theater,theater
 theatre,theater
 theatrical,theater
-theban necropolis,Theban Necropolis
 theban,Thebes
+theban necropolis,Theban Necropolis
 thebes,Thebes
 theological,"theology, religion"
 theology,"theology, religion"
 thera,Thera
 thesaurus,thesaurus
+thesaurus linguae graecae,Thesaurus Linguae Graecae
 theses,theses
 thrace,Thrace
 tibet,Tibet
 tilmen höyük,Tilmen Höyük
 time,time
+tlg,Thesaurus Linguae Graecae
 tlg,TLG
+tocharian,Tocharian
+tome,tome
 tools,tools
 tourism,tourism
 trade,trade
@@ -1067,37 +1251,49 @@ trismegistos,Trismegistos
 trypillia,Trypillia
 tuba-ar,Tuba-Ar
 tunisia,Tunisia
-turkey anatolia,"Turkey, Anatolia"
 turkey,Turkey
+turkey anatolia,"Turkey, Anatolia"
+turkish,Turkish
+turkmenistan,Turkmenistan
+tutorial,tutorial
 ugarit,Ugarit
 ugaritic,Ugaritic
 uk,UK
+uk bibliography,"UK, bibliography"
 ukraine,Ukraine
 unesco,UNESCO
+university,
+university of chicago libraries,University of Chicago Libraries
 university of oxford,University of Oxford
 university of toronto,University of Toronto
-university,
+ur,Ur
 urartian,Urartian
 urbanism,urbanism
 uruk,Uruk
+usa,USA
 ussr,USSR
 uxmal,Uxmal
 uzbekistan,Uzbekistan
 valencia,Valencia
+valley of the queens,Valley of the Queens
 vatican city,Vatican City
+venezuela,Venezuela
 verlag c.h.beck,Verlag C.H.Beck
 verlag ferdinand schöningh,Verlag Ferdinand Schöningh
 verlag otto sagner,Verlag Otto Sagner
 verlage vandenhoeck & ruprecht und v & r unipress,Verlage Vandenhoeck & Ruprecht und V & R unipress
 video,video
+video journal,video journal
 vietnam,Vietnam
 virgil,Virgil
 virtual libraries,"digital library, library"
 virtual library,"digital library, library"
 visualisation,visualization
 visualization,visualization
+vocabulary,vocabulary
 vulgate,Vulgate
 wales,Wales
+war,war
 web,website
 website,website
 west bank,West Bank
@@ -1122,8 +1318,4 @@ zeitschrift,journal
 zenon,Zenon
 zinjirli,Zinjirli
 zoroastrianism,"Zoroastrianism, religion"
-ägyptische sprache und literatur,"Egyptian, literature"
-ägyptologie,Egyptology
-égypte,Egypt
-égyptienne,Egypt
 ה- קדם,ה- קדם
