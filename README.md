@@ -35,7 +35,35 @@ I.e., try something like:
 
 > python bin/walk_to_json.py --progress /path/to/awol-content/posts /path/to/somewhere/else/
 
-## Interesting stuff
+## Other utilities and scripts
+
+### ```bin/walk_for_keywords.py```
+
+```
+$ python bin/walk_for_keywords.py -h
+usage: walk_for_keywords.py [-h] [-l LOGLEVEL] [-v] [-vv] [--progress] whence
+
+Script to walk AWOL backup and look for new keywords.
+
+positional arguments:
+  whence                path to directory to read and process
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -l LOGLEVEL, --loglevel LOGLEVEL
+                        desired logging level (case-insensitive string: DEBUG,
+                        INFO, WARNING, ERROR (default: None)
+  -v, --verbose         verbose output (logging level == INFO (default: False)
+  -vv, --veryverbose    very verbose output (logging level == DEBUG (default:
+                        False)
+  --progress            show progress (default: False)
+```
+
+Running this script on a new blog backup will identify and print out new keywords (and typos) found in the categories assigned to blog posts. These  need to be added to the ```isaw/awol/awol_title_strings.csv``` file in order to get ```walk_to_json.py``` to run clean. This CSV file is used by that script for keyword authority control and for mining keyword associations out of titles and other content. A good way to get clean output is to run it like:
+
+```python bin/walk_for_keywords.py --loglevel CRITICAL /path/to/awol-content/posts```
+
+## Classes
 
 The following classes are defined:
 
