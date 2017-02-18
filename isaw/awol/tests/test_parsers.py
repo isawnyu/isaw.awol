@@ -15,7 +15,7 @@ except ImportError:
     assert_multi_line_equal = assert_equal
 else:
     assert_multi_line_equal.im_class.maxDiff = None
-    
+
 from isaw.awol.parse.awol_parsers import AwolParsers
 from isaw.awol.awol_article import AwolArticle
 
@@ -42,7 +42,7 @@ def test_parsers_init():
     parsers = AwolParsers()
     plist = parsers.parsers
     # trap for untested addition of a parser
-    assert_equals(len(plist.keys()), 5)    
+    assert_equals(len(plist.keys()), 5)
     # test for known parsers
     assert_true('generic' in plist.keys())
     assert_true('generic-single' in plist.keys())
@@ -161,7 +161,7 @@ def test_parsers_oi():
     assert_equals(r.description, u"Announced today: SAOC 64. Grammatical Case in the Languages of the Middle East and EuropeActs of the International Colloquium Variations, concurrence et evolution des cas dans divers domaines linguistiques, Paris, 2-4 April 2007 Edited by Michèle Fruyt, Michel Mazoyer, and Dennis Pardee Purchase Book Download PDF Terms of Use Studies in Ancient Oriental Civilization (SAOC) volume 64 contains twenty-eight studies of various aspects of the case systems of Sumerian, Hurrian, Elamite, Eblaite, Ugaritic, Old Aramaic, Biblical Hebrew, Indo-European, the languages of the Bisitun inscription, Hittite, Armenian, Sabellic, Gothic, Latin, Icelandic, Slavic, Russian, Ouralien, Tokharian, and Etruscan. The volume concludes with a paper on future directions. Studies in Ancient Oriental Civilization 64 Chicago: The Oriental Institute, 2011 ISBN-13: 978-1-885923-84-4 ISBN-10: 1-885923-84-8 Pp. viii+ 420; 25 figures, 3 tables $45.00 Table of Contents Cas et analyse en morphèmes? Christian Touratier The Conjugation Prefixes, the Dative Case, and the Empathy Hierarchy in Sumerian. Christopher Woods Agent, Subject, Patient, and Beneficiary: Grammatical Roles in Hurrian. Dennis R. M. Campbell Des cas en élamite? Florence Malbran-Labat Évolution des cas dans le sémitique archaïque: la contribution de l’éblaïte. Pelio Fronzaroli Some Case Problems in Ugaritic. Robert Hawley Early Canaanite and Old Aramaic Case in the Light of Language Typology. Rebecca Hasselbach Vestiges du système casuel entre le nom et le pronom suffixe en hébreu biblique. Dennis Pardee Genèse et évolution du système casuel indo-européen: questions et hypothèses. Jean Haudry Allative in Indo-European. Folke Josephson Anomalies grammaticales à Bisotun. É. Pirart The Problem of the Ergative Case in Hittite. Craig Melchert A propos de l’opposition entre le statique et le dynamique en hittite. Michel Mazoyer Sur l’évolution du locatif en arménien. Matthias Fritz Énigmes autour du datif et de l’instrumental. Françoise Bader Les marques casuelles dans les documents paléo‑sabelliques et la morphologie du génitif pluriel sud-picénien. Vincent Martzloff Formation et variations dans les systèmes flexionnels des langues sabelliques: entre synchronie et diachronie. Paolo Poccetti Cas et évolution linguistique en latin. Michèle Fruyt La casualité latine en variation diastratique: du parler populaire à la diction poétique. Carole Fry Le flottement entre les cas en latin tardif. Gerd V. M. Haverling Case Marking of Core Arguments and Alignment in Late Latin. Michela Cennamo Cas grammaticaux et cas locaux en gotique: les modèles casuels en gotique. André Rousseau Remarques sur le datif en islandais moderne. Patrick Guelpa Mécanismes de réaffectation désinentielle et hiérarchie des oppositions casuelles en slave. Claire Le Feuvre Pourquoi deux génitifs et deux locatifs en russe pour certains substantifs? Etat actuel des paradigmes et aspects diachroniques. Sergueï Sakhno Regards sur les cas dans les langues ouraliennes. Jean Perrot† Sur l’histoire des cas en tokharien. Georges-Jean Pinault Accord sur le désaccord: quelques réflexions sur les rapports entre morphèmes casuels et adpositions en étrusque. G. van Heems Synthèse: The Dynamics of Case — Recapitulation and Future Directions. Gene Gragg")
     assert_equals(r.domain, 'oi.uchicago.edu')
     assert_equals(r.keywords, [u'Europe', u'book', u'Middle East', u'language', u'Oriental Institute'])
-    
+
 @with_setup(setup_function, teardown_function)
 def test_parsers_oi():
 
@@ -318,4 +318,11 @@ def test_parsers_goofy_initial_links():
     r = resources[0]
     assert_equals(r.title, u'Filología Neotestamentaria')
 
+@with_setup(setup_function, teardown_function)
+def test_parsers_issue83():
+    """Address a post in which _get_primary_anchor() failed."""
+    file_name = os.path.join(PATH_TEST_DATA, 'post-seyppel.xml')
+    a = AwolArticle(atom_file_name=file_name)
+    parsers = AwolParsers()
+    resources = parsers.parse(a)
 
