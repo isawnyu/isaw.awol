@@ -42,10 +42,11 @@ def test_parsers_init():
     parsers = AwolParsers()
     plist = parsers.parsers
     # trap for untested addition of a parser
-    assert_equals(len(plist.keys()), 5)
+    assert_equals(len(plist.keys()), 6)
     # test for known parsers
     assert_true('generic' in plist.keys())
     assert_true('generic-single' in plist.keys())
+    assert_true('generic-flat' in plist.keys())
     assert_true('www.ascsa.edu.gr' in plist.keys())
     assert_true('oi.uchicago.edu' in plist.keys())
     assert_true('othes.univie.ac.at' in plist.keys())
