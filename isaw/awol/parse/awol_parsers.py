@@ -66,6 +66,30 @@ class AwolParsers():
                         parser = self.parsers['generic-single']
                     else:
                         parser = self.parsers['generic']
+                        anchors = self.get_anchors()
+                        logger.debug('len(anchors) = {}'.format(len(anchors)))
+                        if len(anchors) > 1:
+                            max_len = 0
+                            for a in anchors:
+                                max_len = max(len(a), max_len)
+                            last_common = '{{0: <{}}}'.format(max_len).format(
+                                'foo')
+                            a_prev = anchors[0]
+                            last_common = a_prev.get('href')
+                            biggest = last_common
+                            for a_next in anchors[1:]:
+                                href = a_next.get('href')
+                                if len(href) > len(biggest):
+                                    biggest = href
+                                this_common = longest_common_substring(
+                                    last_common, a_next.get('href'))
+                                last_common = this_common
+                            logger.debug('last_common = "{}"'.format(last_common))
+                            if last_common.startswith('http'):
+                                bits_common = last_common.split('/')
+                                bits_biggest = biggest.split('/')
+                                if len(bits_biggest) - len(bits_common) < 2:
+                                    parser = self.parsers['generic-flat']
             else:
                 raise NotImplementedError(u'awol_parsers does not know what to do with multiple domains in article: {0}\n    {1}'.format(article.id, u'\n    '.join(domains)))
             logger.info('using "{0}" parser'.format(parser.domain))
@@ -91,3 +115,29 @@ class AwolParsers():
 
         return self.parsers['generic'].get_domains(self.content_soup)
 
+    def get_anchors(self, content_soup=None):
+        """find valid anchors (links) in content"""
+
+        if content_soup is None and self.content_soup is None:
+            raise AttributeError('No content soup has been fed to parsers.')
+
+        if content_soup is not None:
+            self.reset()
+            self.content_soup = content_soup
+
+        return self.parsers['generic'].get_anchors(self.content_soup)
+
+
+def longest_common_substring(s1, s2):
+    m = [[0] * (1 + len(s2)) for i in xrange(1 + len(s1))]
+    longest, x_longest = 0, 0
+    for x in xrange(1, 1 + len(s1)):
+        for y in xrange(1, 1 + len(s2)):
+            if s1[x - 1] == s2[y - 1]:
+                m[x][y] = m[x - 1][y - 1] + 1
+                if m[x][y] > longest:
+                    longest = m[x][y]
+                    x_longest = x
+            else:
+                m[x][y] = 0
+    return s1[x_longest - longest: x_longest]

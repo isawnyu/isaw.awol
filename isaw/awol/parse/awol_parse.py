@@ -267,10 +267,14 @@ class AwolBaseParser:
 
     # private methods
     def _consider_anchor(self, a):
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
         url = a.get('href')
+        logger.debug('url: {}'.format(url.encode('utf-8')))
         if url is not None:
             text = a.get_text()
-            if len(text) > 0:
+            logger.debug('text: {}'.format(text.encode('utf-8')))
+            image = a.img
+            if len(text) > 0 or image is not None:
                 domain = domain_from_url(url)
                 if (domain in self.skip_domains
                 or url in self.skip_urls
@@ -307,13 +311,27 @@ class AwolBaseParser:
                 anchor_ancestor = previous_parent
         return anchor_ancestor
 
-    def _get_anchors(self):
+    def get_anchors(self, content_soup=None):
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+
+        if content_soup is not None:
+            self.reset(content_soup)
+
         c = self.content
-        if c['anchors'] is not None:
+        if c['anchors'] is None:
+            logger.debug("c['anchors'] is None")
+        else:
             return c['anchors']
+        logger.debug('attempting to extract anchors from soup')
         soup = c['soup']
         raw_anchors = [a for a in soup.find_all('a') if a.find_previous('a', href=a.get('href')) is None]
+        c['raw_anchors'] = raw_anchors
+        logger.debug('found {} raw anchors'.format(len(raw_anchors)))
+        if len(raw_anchors) > 0:
+            for i, a in enumerate(raw_anchors):
+                logger.debug('  {}: "{}"'.format(i, a.get('href')))
         anchors = self._filter_anchors(raw_anchors)
+        logger.debug('filtering retained {} anchors'.format(len(anchors)))
         c['anchors'] = anchors
         return anchors
 
@@ -506,9 +524,9 @@ class AwolBaseParser:
         return (anchor, a, url, domain)
 
     def _get_primary_anchor(self):
-        anchors = self._get_anchors()
+        anchors = self.get_anchors()
         try:
-            a = self._get_anchors()[0]
+            a = self.get_anchors()[0]
         except IndexError:
             msg = 'failed to parse primary anchor from {0}'.format(self.content['soup'])
             raise RuntimeError(msg)
@@ -573,7 +591,7 @@ class AwolBaseParser:
 
     def _get_related_resources(self):
         resources = []
-        anchors = self._get_anchors()[1:]
+        anchors = self.get_anchors()[1:]
         anchors = [a for a in anchors if domain_from_url(a.get('href')) in DOMAINS_SELF]
         for a in anchors:
             # title
@@ -658,8 +676,13 @@ class AwolBaseParser:
         return template.format(**params)
 
     def _get_resources(self, article):
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
         if allow_by_title(article.title):
-            primary_resource = self._get_primary_resource(article)
+            try:
+                primary_resource = self._get_primary_resource(article)
+            except RuntimeError as e:
+                logger.debug('RuntimeError while trying to get primary resource')
+                raise(e)
             parent = primary_resource.package()
             if len(primary_resource.identifiers.keys()) > 0:
                 try:
@@ -833,7 +856,7 @@ class AwolBaseParser:
     def _get_subordinate_resources(self, article, parent_package, start_anchor=None):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
         resources = []
-        anchors = self._get_anchors()
+        anchors = self.get_anchors()
         index = 0
         if start_anchor is not None:
             for i,a in enumerate(anchors):
@@ -921,7 +944,7 @@ class AwolBaseParser:
         if c['unique_urls'] is not None:
             return c['unique_urls']
         else:
-            anchors = self._get_anchors()
+            anchors = self.get_anchors()
         urls = [a.get('href') for a in anchors if a.get('href') is not None]
         unique_urls = list(set(urls))
         c['unique_urls'] = unique_urls

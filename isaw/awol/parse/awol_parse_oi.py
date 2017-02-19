@@ -27,10 +27,10 @@ class Parser(AwolDomainParser):
     def __init__(self):
         self.domain = 'oi.uchicago.edu'
         AwolDomainParser.__init__(self)
-        
+
     def _get_primary_anchor(self):
         """Deal with OI peculiarities."""
-        for pa in AwolDomainParser._get_anchors(self):
+        for pa in AwolDomainParser.get_anchors(self):
             url = pa.get('href')
             domain = domain_from_url(url)
             if domain not in NEVER_PRIMARY_DOMAINS and url not in MY_SKIP_URLS:
