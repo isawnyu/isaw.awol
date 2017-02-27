@@ -59,11 +59,13 @@ class AwolParsers():
             tlow = article.title.lower()
             if u'journal:' in tlow:
                 parser = self.parsers['generic-single']
+            elif u'one off journal issues:' in tlow:
+                parser = self.parsers['generic-single']
             elif length == 1:
                 try:
                     parser = self.parsers[domains[0]]
                 except KeyError:
-                    if domains[0] in ['www.egyptpro.sci.waseda.ac.jp',]:
+                    if domains[0] in ['www.egyptpro.sci.waseda.ac.jp']:
                         parser = self.parsers['generic-single']
                     else:
                         parser = self.parsers['generic']
@@ -87,8 +89,19 @@ class AwolParsers():
                                 last_common = this_common
                             if last_common.startswith('http'):
                                 bits_common = last_common.split('/')
+                                junk = ['http:', 'https:', '']
+                                bits_common = [
+                                    b for b in bits_common if b not in junk]
                                 bits_biggest = biggest.split('/')
+                                bits_biggest = [
+                                    b for b in bits_biggest if b not in junk]
                                 if len(bits_biggest) - len(bits_common) < 2:
+                                    logger.debug(
+                                        'bits_biggest: {}'.format(
+                                            bits_biggest))
+                                    logger.debug(
+                                        'bits_common: {}'.format(
+                                            bits_common))
                                     parser = self.parsers['generic-flat']
             else:
                 raise NotImplementedError(u'awol_parsers does not know what to do with multiple domains in article: {0}\n    {1}'.format(article.id, u'\n    '.join(domains)))

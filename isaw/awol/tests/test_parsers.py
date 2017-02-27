@@ -334,3 +334,18 @@ def test_parsers_issue83():
     assert_equals(resources[0].year, u'1883')
     assert_equals(resources[1].title, u'Mein Buch')
 
+    del resources
+    del parsers
+    del a
+    file_name = os.path.join(PATH_TEST_DATA, 'post-lafeac.xml')
+    a = AwolArticle(atom_file_name=file_name)
+    parsers = AwolParsers()
+    resources = parsers.parse(a)
+    r = resources[0]
+    assert_equals(r.year, u'2013')
+    assert_equals(len(resources), 36)
+    r = resources[35]
+    assert_equals(
+        r.title, u"Préservation de l'architecture de terre en Asie centrale")
+
+

@@ -94,15 +94,28 @@ def check_colon(title):
     if u':' in title:
         colon_prefix = title.split(u':')[0].lower()
         if colon_prefix in COLON_PREFIXES.keys() and (COLON_PREFIXES[colon_prefix])[1] == 'yes':
-            return clean_string(u':'.join(title.split(u':')[1:]))
+            return clean_string(chomp_it(u':'.join(title.split(u':')[1:])))
         else:
-            return title
+            return clean_string(chomp_it(title))
     else:
-        return title
+        return clean_string(chomp_it(title))
 OMIT_TITLES = [
     u'administrative',
     u'administrative note'
 ]
+CHOMP_TITLES = [
+    u'[Texte intégral'
+]
+def chomp_it(title):
+    result = title
+    chomps = [
+        u'[Texte intégral'
+    ]
+    for c in chomps:
+        if c in result:
+            result = result[0:result.index(c)].strip()
+    return result
+
 def allow_by_title(title):
     if title.lower() in OMIT_TITLES:
         return False
@@ -214,7 +227,8 @@ RX_ANALYTIC_TITLES = [
 RX_PUNCT_FIX = re.compile(r'\s+([\.,:;]{1})')
 RX_PUNCT_DEDUPE = re.compile(r'([\.,:;]{1})([\.,:;]{1})')
 RX_STRUCTURED = {
-    'origin': re.compile(r'^[\s\[]*(?P<place>[^\]\s:]+)[\s\]]*:[\s\[]*(?P<publisher>[^\]\s,]+)[\s\]]*,[\s\[]*(?P<year>\d\d\d\d)[\s\]]*$')
+    'origin': re.compile(r'^[\s\[]*(?P<place>[^\]\s:]+)[\s\]]*:[\s\[]*(?P<publisher>[^\]\s,]+)[\s\]]*,[\s\[]*(?P<year>\d\d\d\d)[\s\]]*$'),
+    'number': re.compile(r'^\s*Volumes\s+(?P<volume>[\d\/\-]+)[\s\(]+(?P<year>[12]\d\d\d).*$')
 }
 
 def domain_from_url(url):
@@ -510,14 +524,11 @@ class AwolBaseParser:
         return desc_text
 
     def _get_language(self, *args):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
         chunks = [chunk for chunk in args if chunk is not None]
         s = u' '.join((tuple(chunks)))
         s = normalize_space(s)
-        logger.debug('s: \n"{}\n'.format(s.encode('utf-8')))
         if s != u'':
             language = LANGUAGE_IDENTIFIER.classify(s)
-            logger.debug(repr(language))
             if language[1] >= LANGID_THRESHOLD:
                 return language[0]
         return None
@@ -729,6 +740,24 @@ class AwolBaseParser:
 
     def _get_resource_from_article(self, article, anchor, context=None):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
+
+        if context is None:
+            anchor_context = self._get_anchor_ancestor_for_title(anchor)
+            if anchor_context == anchor:
+                for parent in anchor.parents:
+                    logger.debug("parent name: {}".format(parent.name))
+                    if parent.name == 'body':
+                        anchor_context = parent
+                        break
+                    elif parent.name not in [
+                            'div', 'span', 'ul', 'ol', 'li', 'p', 'a']:
+                        break
+                    else:
+                        anchor_context = parent
+        else:
+            anchor_context = context
+        r_groked = self._grok_semi_structured_resource(anchor_context, anchor)
+
         # titles
         anchor_title = clean_string(anchor.get_text())
         titles = self._reconcile_titles(anchor_title, article.title)
@@ -741,6 +770,42 @@ class AwolBaseParser:
             title_extended = titles[1]
         except IndexError:
             title_extended = None
+        try:
+            groked_title = r_groked.title
+        except AttributeError:
+            pass
+        else:
+            groked_title = self._reconcile_titles(None, groked_title)[0]
+            if groked_title == title:
+                pass
+            elif len(groked_title) > len(title):
+                if title_extended is not None:
+                    if groked_title == title_extended:
+                        pass
+                    elif groked_title in title_extended:
+                        pass
+                    else:
+                        logger.warning(
+                            'possible title discrepancy: {} vs. {} vs. {}'
+                            ''.format(title, title_extended, groked_title))
+                else:
+                    if title in groked_title:
+                        title_extended = groked_title
+                    else:
+                        logger.warning(
+                            'ignoring possible title component "{}" for '
+                            'title "{}"'.format(groked_title, title))
+            elif groked_title in title:
+                if title_extended is not None:
+                    if title_extended == title:
+                        title = groked_title
+                    else:
+                        logger.warning(
+                            'possible title discrepancy: {} vs. {} vs. {}'
+                            ''.format(title, title_extended, groked_title))
+                else:
+                    title_extended = title
+                    title = groked_title
 
         # description
         desc_text = self._get_description(context, title=title)
@@ -775,9 +840,33 @@ class AwolBaseParser:
         if title_extended is not None:
             params['title_extended'] = title_extended
         if language is not None:
-            params['languages'] = language
+            params['languages'] = [language]
         if len(keywords) > 0:
             params['keywords'] = keywords
+        attrs = [a for a in dir(r_groked) if not a.startswith('__') and not callable(getattr(r_groked, a))]
+        for attr in attrs:
+            v = getattr(r_groked, attr)
+            if v is not None:
+                if type(v) == list:
+                    try:
+                        params[attr].extend(v)
+                    except KeyError:
+                        params[attr] = v
+                    except AttributeError as e:
+                        logger.error('params[{}]: "{}"'.format(attr, params[attr].encode('utf-8')))
+                        raise(e)
+                else:
+                    try:
+                        pv = params[attr]
+                    except KeyError:
+                        params[attr] = v
+                    else:
+                        if pv == '':
+                            params[attr] = v
+                        elif pv != v:
+                            logger.warning("Yikes!")
+        if u'Texte intégral' in params['title']:
+            raise Exception("Cain")
         resource = self._make_resource(**params)
 
         # provenance
@@ -876,7 +965,8 @@ class AwolBaseParser:
         components = [
             'title',
             'author',
-            'origin'
+            'origin',
+            'number'
         ]
         results = {}
         for c in components:
@@ -894,18 +984,40 @@ class AwolBaseParser:
             else:
                 m = rx.match(v)
                 if m is None:
-                    raise Exception('ach disaster')
+                    msg = 'Failed to match {} in "{}"'.format(
+                        k, v.encode('utf-8'))
+                    logger.error(msg)
+                    raise RuntimeError(msg)
                 else:
                     d = m.groupdict()
                     for kk, vv in d.items():
                         results[kk] = vv
-        del results['origin']
-        results['authors'] = [results['author']]
-        del results['author']
-        results['publishers'] = [results['publisher']]
-        del results['publisher']
-        results['places'] = [results['place']]
-        del results['place']
+        try:
+            del results['origin']
+        except KeyError:
+            pass
+        try:
+            del results['number']
+        except KeyError:
+            pass
+        try:
+            results['authors'] = [results['author']]
+        except KeyError:
+            pass
+        else:
+            del results['author']
+        try:
+            results['publishers'] = [results['publisher']]
+        except KeyError:
+            pass
+        else:
+            del results['publisher']
+        try:
+            results['places'] = [results['place']]
+        except KeyError:
+            pass
+        else:
+            del results['place']
         results['url'] = anchor.get('href')
         results['domain'] = domain_from_url(anchor.get('href'))
         resource = self._make_resource(**results)
@@ -934,18 +1046,19 @@ class AwolBaseParser:
         for a in anchors:
             # title
             title_context = self._get_anchor_ancestor_for_title(a)
-            resource = self._grok_semi_structured_resource(title_context, a)
+            r_groked = self._grok_semi_structured_resource(title_context, a)
             try:
-                logger.debug(
-                    'after grok:\n{}'.format(resource.json_dumps(True)))
+                title = r_groked.title
             except AttributeError:
-                pass
-            else:
-                self._set_provenance(resource, article)
-                resources.append(resource)
-                continue
+                title = title_context.get_text(u' ')
+            title = self._reconcile_titles(None, title)[0]
+            if u'Texte intégral' in title:
+                raise Exception("Hell")
 
-            title = clean_string(title_context.get_text(u' '))
+            # else:
+                # resources.append(resource)
+                # continue
+
 
             # try to extract volume and year
             try:
@@ -997,7 +1110,7 @@ class AwolBaseParser:
             if len(identifiers.keys()) > 0:
                 params['identifiers'] = identifiers
             if language is not None:
-                params['languages'] = language
+                params['languages'] = [language]
             if len(keywords) > 0:
                 params['keywords'] = keywords
             if volume is not None:
@@ -1006,8 +1119,32 @@ class AwolBaseParser:
                 params['year'] = year
             if issue is not None:
                 params['issue'] = issue
+            if r_groked is not None:
+                attrs = [a for a in dir(r_groked) if not a.startswith('__') and not callable(getattr(r_groked, a))]
+                for attr in attrs:
+                    v = getattr(r_groked, attr)
+                    if v is not None:
+                        if type(v) == list:
+                            try:
+                                params[attr].extend(v)
+                            except KeyError:
+                                params[attr] = v
+                            except AttributeError as e:
+                                logger.error('params[{}]: "{}"'.format(attr, params[attr].encode('utf-8')))
+                                raise(e)
+                        else:
+                            try:
+                                pv = params[attr]
+                            except KeyError:
+                                params[attr] = v
+                            else:
+                                if pv == '':
+                                    params[attr] = v
+                                elif pv != v:
+                                    logger.warning("Yikes!")
+            if u'Texte intégral' in params['title']:
+                raise Exception("Cain")
             resource = self._make_resource(**params)
-
             self._set_provenance(resource, article)
 
             resources.append(resource)
@@ -1264,7 +1401,7 @@ class AwolBaseParser:
         if anchor_title is None:
             return (check_colon(article_title),)
         if article_title is None:
-            return (check_colon,)
+            return(check_colon(anchor_title), )
         anchor_lower = anchor_title.lower()
         article_lower = article_title.lower()
         if anchor_lower == article_lower:
