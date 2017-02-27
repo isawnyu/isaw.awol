@@ -171,7 +171,7 @@ def test_parsers_oi():
     parsers = AwolParsers()
     resources = parsers.parse(a)
     r = resources[0]
-    assert_equals(r.description, u"A Call to Protect Egyptian Antiquities, Cultural Heritage and Tourism Economy. We, the undersigned, strongly urge immediate action to protect Egyptian antiquities, important sites, and cultural heritage. In so doing, significant archaeological artifacts and irreplaceable historic objects will be preserved. Importantly, such protection will help the Egyptian economy in the wake of political revolution. Such an initiative will also help stem illicit international crime organizations that have links to money laundering, human trafficking and the drug trade. Whereas, Egyptian antiquities and sites are among the most historically significant and important in the world, Whereas, Egypt has numerous museums and historical sites, some of which are victims of ongoing looting, including recent reports that artifacts originally from Tutankhamen\u2019s tomb have been stolen, Whereas, more than 50 ancient Egyptian artifacts have been reported stolen from the Cairo Museum alone, Whereas, UNESCO has called for international mobilization to block cultural artifacts stolen from Egypt, Whereas, the tourism industry in Egypt is closely tied to cultural expeditions, employs one in eight Egyptians, accounts for some $11 billion in revenue for the Egyptian economy, and is the one of the largest sectors of the Egyptian economy. Read the rest here.")
+    assert_equals(r.description, u"A Call to Protect Egyptian Antiquities, Cultural Heritage and Tourism Economy. We, the undersigned, strongly urge immediate action to protect Egyptian antiquities, important sites, and cultural heritage. In so doing, significant archaeological artifacts and irreplaceable historic objects will be preserved. Importantly, such protection will help the Egyptian economy in the wake of political revolution. Such an initiative will also help stem illicit international crime organizations that have links to money laundering, human trafficking and the drug trade. Whereas, Egyptian antiquities and sites are among the most historically significant and important in the world, Whereas, Egypt has numerous museums and historical sites, some of which are victims of ongoing looting, including recent reports that artifacts originally from Tutankhamen\u2019s tomb have been stolen, Whereas, more than 50 ancient Egyptian artifacts have been reported stolen from the Cairo Museum alone, Whereas, UNESCO has called for international mobilization to block cultural artifacts stolen from Egypt, Whereas, the tourism industry in Egypt is closely tied to cultural expeditions, employs one in eight Egyptians, accounts for some $11 billion in revenue for the Egyptian economy, and is the one of the largest sectors of the Egyptian economy.")
 
 @with_setup(setup_function, teardown_function)
 def test_parsers_issue56():
@@ -322,8 +322,15 @@ def test_parsers_goofy_initial_links():
 @with_setup(setup_function, teardown_function)
 def test_parsers_issue83():
     """Address a post in which _get_primary_anchor() failed."""
+
     file_name = os.path.join(PATH_TEST_DATA, 'post-seyppel.xml')
     a = AwolArticle(atom_file_name=file_name)
     parsers = AwolParsers()
     resources = parsers.parse(a)
+    assert_equals(len(resources), 6)
+    assert_equals(resources[0].title, u'Er sie es')
+    assert_equals(resources[0].places[0], u'Düsseldorf')
+    assert_equals(resources[0].publishers[0], u'Bagel')
+    assert_equals(resources[0].year, u'1883')
+    assert_equals(resources[1].title, u'Mein Buch')
 

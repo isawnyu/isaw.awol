@@ -213,6 +213,9 @@ RX_ANALYTIC_TITLES = [
 ]
 RX_PUNCT_FIX = re.compile(r'\s+([\.,:;]{1})')
 RX_PUNCT_DEDUPE = re.compile(r'([\.,:;]{1})([\.,:;]{1})')
+RX_STRUCTURED = {
+    'origin': re.compile(r'^[\s\[]*(?P<place>[^\]\s:]+)[\s\]]*:[\s\[]*(?P<publisher>[^\]\s,]+)[\s\]]*,[\s\[]*(?P<year>\d\d\d\d)[\s\]]*$')
+}
 
 def domain_from_url(url):
     return url.replace('http://', '').replace('https://', '').split('/')[0]
@@ -267,14 +270,10 @@ class AwolBaseParser:
 
     # private methods
     def _consider_anchor(self, a):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
         url = a.get('href')
-        logger.debug('url: {}'.format(url.encode('utf-8')))
         if url is not None:
-            text = a.get_text()
-            logger.debug('text: {}'.format(text.encode('utf-8')))
-            image = a.img
-            if len(text) > 0 or image is not None:
+            text = a.get_text().strip()
+            if len(text) > 0:
                 domain = domain_from_url(url)
                 if (domain in self.skip_domains
                 or url in self.skip_urls
@@ -289,10 +288,34 @@ class AwolBaseParser:
         return False
 
     def _filter_anchors(self, anchors):
-        filtered = [a for a in anchors if self._consider_anchor(a)]
+        filtered = []
+        for a in anchors:
+            url = a.get('href')
+            if url is None:
+                continue
+            if url in self.skip_urls:
+                continue
+            domain = domain_from_url(url)
+            if domain in self.skip_domains:
+                continue
+            text = u' '.join(a.get_text().split())
+            if len(text) == 0:
+                continue
+            if text in self.skip_text:
+                continue
+            prev = a.find_previous(href=url)
+            if prev is None:
+                filtered.append(a)
+            else:
+                text = u' '.join(prev.get_text().split())
+                if len(text) == 0:
+                    if prev.find('img'):
+                        filtered.append(a)
+
         return filtered
 
     def _get_anchor_ancestor_for_title(self, anchor):
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
 
         a = anchor
         url = a.get('href')
@@ -309,29 +332,24 @@ class AwolBaseParser:
                 anchor_ancestor = anchor
             else:
                 anchor_ancestor = previous_parent
+        logger.debug('anchor_ancestor: {}'.format(anchor_ancestor))
         return anchor_ancestor
 
     def get_anchors(self, content_soup=None):
-        logger = logging.getLogger(sys._getframe().f_code.co_name)
 
         if content_soup is not None:
             self.reset(content_soup)
 
         c = self.content
-        if c['anchors'] is None:
-            logger.debug("c['anchors'] is None")
-        else:
+        if c['anchors'] is not None:
             return c['anchors']
-        logger.debug('attempting to extract anchors from soup')
         soup = c['soup']
-        raw_anchors = [a for a in soup.find_all('a') if a.find_previous('a', href=a.get('href')) is None]
-        c['raw_anchors'] = raw_anchors
-        logger.debug('found {} raw anchors'.format(len(raw_anchors)))
-        if len(raw_anchors) > 0:
-            for i, a in enumerate(raw_anchors):
-                logger.debug('  {}: "{}"'.format(i, a.get('href')))
+        #raw_anchors = [a for a in soup.find_all('a') if a.find_previous('a', href=a.get('href')) is None]
+        raw_anchors = soup.find_all('a')
+#        if len(raw_anchors) > 0:
+#            for i, a in enumerate(raw_anchors):
+#                logger.debug('  {}: "{}"'.format(i, a.get('href')))
         anchors = self._filter_anchors(raw_anchors)
-        logger.debug('filtering retained {} anchors'.format(len(anchors)))
         c['anchors'] = anchors
         return anchors
 
@@ -853,24 +871,80 @@ class AwolBaseParser:
                             biblio_req.status_code, biblio_url))
             return top_resource
 
-    def _get_subordinate_resources(self, article, parent_package, start_anchor=None):
+    def _grok_semi_structured_resource(self, context, anchor):
+        logger = logging.getLogger(sys._getframe().f_code.co_name)
+        components = [
+            'title',
+            'author',
+            'origin'
+        ]
+        results = {}
+        for c in components:
+            tag = context.select('.{}'.format(c))
+            if len(tag) > 0:
+                results[c] = clean_string(
+                    tag[0].get_text(u' '))  # first tag is outermost tag
+        if len(results) == 0:
+            return None
+        for k, v in results.items():
+            try:
+                rx = RX_STRUCTURED[k]
+            except KeyError:
+                continue
+            else:
+                m = rx.match(v)
+                if m is None:
+                    raise Exception('ach disaster')
+                else:
+                    d = m.groupdict()
+                    for kk, vv in d.items():
+                        results[kk] = vv
+        del results['origin']
+        results['authors'] = [results['author']]
+        del results['author']
+        results['publishers'] = [results['publisher']]
+        del results['publisher']
+        results['places'] = [results['place']]
+        del results['place']
+        results['url'] = anchor.get('href')
+        results['domain'] = domain_from_url(anchor.get('href'))
+        resource = self._make_resource(**results)
+
+        return resource
+
+    def _get_subordinate_resources(
+        self,
+        article,
+        parent_package=None,
+        start_anchor=None
+    ):
         logger = logging.getLogger(sys._getframe().f_code.co_name)
         resources = []
         anchors = self.get_anchors()
-        index = 0
         if start_anchor is not None:
-            for i,a in enumerate(anchors):
+            index = 0
+            for i, a in enumerate(anchors):
                 if a == start_anchor:
                     index = i
                     break
             anchors = [a for a in anchors[index:]]
-
-        parent_domain = domain_from_url(parent_package['url'])
-        anchors = [a for a in anchors if parent_domain in a.get('href')]
-
+        if parent_package is not None:
+            parent_domain = domain_from_url(parent_package['url'])
+            anchors = [a for a in anchors if parent_domain in a.get('href')]
         for a in anchors:
             # title
             title_context = self._get_anchor_ancestor_for_title(a)
+            resource = self._grok_semi_structured_resource(title_context, a)
+            try:
+                logger.debug(
+                    'after grok:\n{}'.format(resource.json_dumps(True)))
+            except AttributeError:
+                pass
+            else:
+                self._set_provenance(resource, article)
+                resources.append(resource)
+                continue
+
             title = clean_string(title_context.get_text(u' '))
 
             # try to extract volume and year

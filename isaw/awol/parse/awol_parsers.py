@@ -29,13 +29,15 @@ class AwolParsers():
             'awol_parse_domain',        # superclass
         ]
         where = 'isaw/awol/parse'
-        parser_names = [name for _, name, _ in pkgutil.iter_modules([where]) if 'parse' in name]
+        parser_names = [
+            name for _, name, _ in pkgutil.iter_modules([where])
+            if 'parse' in name]
         for parser_name in parser_names:
             if parser_name not in ignore_parsers:
                 levels = where.split('/')
                 levels.append(parser_name)
                 parser_path = '.'.join(tuple(levels))
-                #logger.debug('importing module "{0}"'.format(parser_path))
+                logger.debug('importing module "{0}"'.format(parser_path))
                 mod = import_module(parser_path)
                 parser = mod.Parser()
                 self.parsers[parser.domain] = parser
@@ -51,7 +53,6 @@ class AwolParsers():
             u'\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nparsing '
             + article.url
             + u'\n')
-        logger.debug(u'domains: {0}'.format(repr(domains)))
         if length == 0:
             raise NotImplementedError('awol_parsers does not know what to do with no domains in article: {0}'.format(article.id))
         else:
@@ -84,7 +85,6 @@ class AwolParsers():
                                 this_common = longest_common_substring(
                                     last_common, a_next.get('href'))
                                 last_common = this_common
-                            logger.debug('last_common = "{}"'.format(last_common))
                             if last_common.startswith('http'):
                                 bits_common = last_common.split('/')
                                 bits_biggest = biggest.split('/')
