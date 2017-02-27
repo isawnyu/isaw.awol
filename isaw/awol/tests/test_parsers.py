@@ -347,5 +347,6 @@ def test_parsers_issue83():
     r = resources[35]
     assert_equals(
         r.title, u"Préservation de l'architecture de terre en Asie centrale")
+    assert_equals(r.authors[0], u"Sadozaï, Chamsia")
 
 

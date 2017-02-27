@@ -864,7 +864,9 @@ class AwolBaseParser:
                         if pv == '':
                             params[attr] = v
                         elif pv != v:
-                            logger.warning("Yikes!")
+                            logger.warning(
+                                'Value collision for {}: "{}" vs. "{}"'
+                                ''.format(attr, pv, v))
         if u'Texte intégral' in params['title']:
             raise Exception("Cain")
         resource = self._make_resource(**params)
@@ -1001,6 +1003,18 @@ class AwolBaseParser:
         except KeyError:
             pass
         try:
+            author = results['author']
+        except KeyError:
+            pass
+        else:
+            del results['author']
+            if u',' in author:
+                results['authors'] = [author]
+            else:
+                author = author.split()
+                author = u' '.join(author[1:]) + u', ' + author[0]
+                results['authors'] = [author]
+        try:
             results['authors'] = [results['author']]
         except KeyError:
             pass
@@ -1121,6 +1135,7 @@ class AwolBaseParser:
                 params['issue'] = issue
             if r_groked is not None:
                 attrs = [a for a in dir(r_groked) if not a.startswith('__') and not callable(getattr(r_groked, a))]
+                attrs = [a for a in attrs if a != 'title']
                 for attr in attrs:
                     v = getattr(r_groked, attr)
                     if v is not None:
@@ -1141,9 +1156,12 @@ class AwolBaseParser:
                                 if pv == '':
                                     params[attr] = v
                                 elif pv != v:
-                                    logger.warning("Yikes!")
-            if u'Texte intégral' in params['title']:
-                raise Exception("Cain")
+                                    logger.warning(
+                                        'Value collision for {}: "{}" vs. "{}"'
+                                        ''.format(
+                                            attr,
+                                            pv.encode('utf-8'),
+                                            v.encode('utf-8')))
             resource = self._make_resource(**params)
             self._set_provenance(resource, article)
 
